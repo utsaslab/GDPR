@@ -1,7 +1,7 @@
 from modules.gdpr import Authority
 
 def main():
-    authority = Authority('UK')
+    authority = Authority('GB')
     penalties = authority.get_penalties()
     print(penalties)
 

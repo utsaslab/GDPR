@@ -1,11 +1,11 @@
 {
-  "dk": {
+  "DK": {
     "name": "Datatilsynet",
     "name_en": "Danish Data Protection Authority",
     "short_name": null,
     "base_url": "www.datatilsynet.dk"
   },
-  "uk": {
+  "GB": {
     "name": "Information Commissioner's Office",
     "name_en": "Information Commissioner's Office",
     "short_name": "ico",

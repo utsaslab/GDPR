@@ -2,19 +2,28 @@ import math
 import requests
 import json
 import pandas as pd
-from .models import Penalty
-from .policies import gdpr_policy
-from .specifications import ico_dataframe_columns_specification
-from .services.push_key_service import push_key_service
 
-with open('./modules/gdpr/assets/authorities.json', 'r') as f:
+from .policies import gdpr_policy
+
+from .specifications import gb_dataframe_columns_specification
+from .specifications import authority_supported_specification
+from .specifications import eu_member_specification
+
+from .services.gb_filter_rows_pre_gdpr_service import gb_filter_rows_pre_gdpr_service
+
+from .factories import penalty_factory
+
+with open('./modules/gdpr/assets/supported_authorities.json', 'r') as f:
     authorities = json.load(f)
 
 class Authority(object):
     def __init__(self, country_code):
-        country_code = country_code.lower()
+        country_code = country_code.upper()
 
-        if country_code not in authorities.keys():
+        if eu_member_specification.is_satisfied_by(country_code) is False:
+            raise ValueError("country code does not belong to a valid eu country member.")
+
+        if authority_supported_specification.is_satisfied_by(country_code) is False:
             raise ValueError('{country_code} is not a valid EU member country code.'.format(country_code=country_code))
 
         self.country_code = country_code
@@ -27,7 +36,7 @@ class Authority(object):
     def get_penalties(self):
         penalties = []
 
-        if self.country_code == 'uk':
+        if self.country_code == 'GB':
             filename = 'civil-monetary-penalties.xlsx'
             response = requests.get('https://{host}/media/action-weve-taken/csvs/2615397/{filename}'.format(host=self.base_url, filename=filename))
 
@@ -35,20 +44,17 @@ class Authority(object):
             with open('./modules/gdpr/assets/' + filename, 'wb') as f:
                 f.write(response.content)
 
-            gdpr_implementation_date = gdpr_policy.implementation_date()
-            gdpr_implementation_str = gdpr_implementation_date.strftime("%m/%d/%Y")
-
             df = pd.read_excel('./modules/gdpr/assets/' + filename, sheet_name='civil-monetary-penalties')
 
-            if ico_dataframe_columns_specification.is_satisfied_by(df) is False:
+            if gb_dataframe_columns_specification.is_satisfied_by(df) is False:
                 raise ValueError('Something went wrong during parsing of ' + self.country_code)
 
-            df = df[(df['Date of Final Notice'] >= gdpr_implementation_str)]
+            gdpr_implementation_date = gdpr_policy.implementation_date()
+            df = gb_filter_rows_pre_gdpr_service(df, gdpr_implementation_date)
 
             for index, row in df.iterrows():
-                # penalty = penalty_factory.create()
-                penalty = Penalty(
-                    id=push_key_service(Penalty, row['Date of Final Notice'].to_pydatetime(), self.country_code),
+                penalty = penalty_factory.create(
+                    country_code=self.country_code,
                     data_controller=row['Data Controller'],
                     sector=row['Sector '],
                     nature=row['Nature'],
