@@ -9,6 +9,9 @@
     "name": "Information Commissioner's Office",
     "name_en": "Information Commissioner's Office",
     "short_name": "ico",
-    "base_url": "www.ico.org.uk"
+    "base_url": "www.ico.org.uk",
+    "sources": [
+      "https://ico.org.uk/media/action-weve-taken/csvs/2615397/civil-monetary-penalties.xlsx"
+    ]
   }
 }
