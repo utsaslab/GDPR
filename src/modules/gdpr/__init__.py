@@ -1,7 +1,10 @@
-from .authorities.gb import GB
+from .dpa.gb import GB
+from .dpa.at import AT
 
 class GDPR(object): # acts as a mediator pattern
-    def get_authority(self, country_code):
+    def get_dpa(self, country_code):
         country_code = country_code.upper()
         if country_code == 'GB':
             return GB()
+        elif country_code == 'AT':
+            return AT()

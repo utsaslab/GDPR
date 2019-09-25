@@ -1,0 +1,51 @@
+[
+  {
+    "anti_pattern": "Storing data without a clear timeline for deletion",
+    "example": "Search engines before Right- to-be-forgotten (circa 2014)",
+    "gdpr_articles": [
+      "5(1e). Storage limitation",
+      "17. Right to be forgotten"
+    ]
+  },
+  {
+    "anti_pattern": "Reusing data indiscriminately",
+    "example": "Facebook collecting phone numbers for 2FA and then using it for ads and marketing",
+    "gdpr_articles": [
+      "5(1b). Purpose limitation",
+      "6. Lawfulness of processing",
+      "21. Right to object"
+    ]
+  },
+  {
+    "anti_pattern": "Creating black markets",
+    "example": "Illegal data harvesting by programmatic ad exchanges",
+    "gdpr_articles": [
+      "14. Information to be provided[...]",
+      "20. Right to data portability"
+    ]
+  },
+  {
+    "anti_pattern": "Risk-agnostic data processing",
+    "example": "Strava global heatmap that revealed classified military bases",
+    "gdpr_articles": [
+      "35. Data protection impact assessment",
+      "36. Prior consultation"
+    ]
+  },
+  {
+    "anti_pattern": "Hiding data breaches",
+    "example": "Uber paying off hackers to hide their 2016 data breach",
+    "gdpr_articles": [
+      "5. Principles relating to processing",
+      "33. Notification of personal data breach"
+    ]
+  },
+  {
+    "anti_pattern": "Making unexplainable decisions",
+    "example": "Using software like COMPASS in courts to predict recidivism",
+    "gdpr_articles": [
+      "15. Right of access by the data subject",
+      "22. Automated individual decisionmaking"
+    ]
+  }
+]
