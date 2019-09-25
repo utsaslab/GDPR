@@ -10,6 +10,7 @@ from modules.gdpr.services.links_from_soup_service import links_from_soup_servic
 
 from modules.gdpr.services.anti_patterns_for_article_service import anti_patterns_for_article_service
 
+import datetime
 import json
 import requests
 from bs4 import BeautifulSoup
@@ -36,12 +37,15 @@ import en_core_web_sm
 nlp = en_core_web_sm.load()
 
 def main():
+    #logpath = '/tmp/gdpr.log'
+    #dispatch_background_logging_service(logpath)
+
+    now = datetime.datetime.now()
+    data_path = './data/{date}/'.format(date=now.strftime("%m-%d-%Y"))
 
     gdpr = GDPR()
     dpa = gdpr.get_dpa('AT')
-    penalties = dpa.get_penalties()
-
-    #print(json.dumps(penalties, indent=4))
+    dpa.bulk_collect(data_path)
 
     """
     path = './modules/gdpr/assets/r-facebook-mpn-20181024.pdf'
@@ -50,10 +54,6 @@ def main():
     with open('./modules/gdpr/assets/' + filename + '.txt', 'w') as f:
         f.write(text)
     """
-
-    logpath = '/tmp/gdpr.log'
-    dispatch_background_logging_service(logpath)
-    requests.get('http://httpbin.org/get?foo=bar&baz=python')
 
     #anti_patterns = anti_patterns_for_article_service("5.1b", delimiter='.')
     #print(anti_patterns)

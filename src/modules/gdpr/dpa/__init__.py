@@ -2,25 +2,31 @@ import json
 from ..specifications import authority_supported_specification
 from ..specifications import eu_member_specification
 
-with open('./modules/gdpr/assets/supported_authorities.json', 'r') as f:
-    authorities = json.load(f)
+with open('./modules/gdpr/assets/supported-authorities.json', 'r') as f:
+    supported_dpas = json.load(f)
 
 class DPA(object):
-    def __init__(self, country_code):
-        country_code = country_code.upper()
+    def __init__(self, iso_code):
+        iso_code = iso_code.upper()
 
-        if eu_member_specification.is_satisfied_by(country_code) is False:
-            raise ValueError("country code does not belong to a valid eu country member.")
+        if eu_member_specification.is_satisfied_by(iso_code) is False:
+            raise ValueError("iso_code does not belong to a valid eu country member.")
 
-        if authority_supported_specification.is_satisfied_by(country_code) is False:
-            raise ValueError('{country_code} is not a valid EU member country code.'.format(country_code=country_code))
+        if authority_supported_specification.is_satisfied_by(iso_code) is False:
+            raise ValueError('{iso_code} is not a valid EU member country code.'.format(iso_code=iso_code))
 
-        self.country_code = country_code
+        self.iso_code = iso_code
 
-        self.name = authorities[country_code]["name"]
-        self.name_en = authorities[country_code]["name_en"]
-        self.short_name = authorities[country_code]["short_name"]
-        self.base_url = authorities[country_code]["base_url"]
+        dpa = supported_dpas[iso_code]
 
-    def get_penalties(self):
+        self.country = dpa['country']
+        self.name = dpa['name']
+        self.address = dpa['address']
+        self.phone = '({}) {}'.format(dpa['country_code'], dpa['phone'])
+        self.email = dpa['email']
+        self.website = dpa['website']
+        self.member = dpa['member']
+        self.sources = dpa['sources'] 
+
+    def bulk_collect(self, path):
         raise NotImplementedError("Subclasses should implement this function.")

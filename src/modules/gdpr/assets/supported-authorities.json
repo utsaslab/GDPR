@@ -1,0 +1,46 @@
+{
+  "AT": {
+    "country": "Austria",
+    "name": "Österreichische Datenschutzbehörde",
+    "address": "Barichgasse 40-42, 1030 Wien",
+    "phone": "1 52152 2550",
+    "country_code": "+43",
+    "email": "dsb@dsb.gv.at",
+    "website": "http://www.dsb.gv.at/",
+    "member": {
+      "name": "Dr Andrea JELINEK",
+      "title": "Director"
+    },
+    "sources": [
+      {
+        "host": "https://www.ris.bka.gv.at",
+        "start_path": "/Ergebnis.wxe?Abfrage=Dsk&Entscheidungsart=Undefined&Organ=Undefined&SucheNachRechtssatz=True&SucheNachText=True&GZ=&VonDatum=25.08.2018&BisDatum=23.09.2019&Norm=&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=&Position=1&SkipToDocumentPage=true",
+        "target_element": {
+          "results": "tbody.bocListTableBody",
+          "pagination": "ul.Pages"
+        },
+        "render_type": "FULLY_RENDERED"
+      }
+    ]
+  },
+  "DK": {
+    "name": "Datatilsynet",
+    "name_en": "Danish Data Protection Authority",
+    "short_name": null,
+    "base_url": "www.datatilsynet.dk",
+    "sources": [
+      "https://www.datatilsynet.dk/tilsyn-og-afgoerelser/afgoerelser/"
+    ]
+  },
+  "GB": {
+    "name": "Information Commissioner's Office",
+    "name_en": "Information Commissioner's Office",
+    "short_name": "ico",
+    "base_url": "www.ico.org.uk",
+    "sources": [
+      "https://ico.org.uk/media/action-weve-taken/csvs/2615397/civil-monetary-penalties.xlsx",
+      "ico.org.uk/action-weve-taken/enforcement?rows=1000000",
+      "https://ico.org.uk/about-the-ico/our-information/penalty-notices-issued-for-non-payment-of-fee"
+    ]
+  }
+}
