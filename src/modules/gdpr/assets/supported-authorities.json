@@ -17,19 +17,36 @@
         "start_path": "/Ergebnis.wxe?Abfrage=Dsk&Entscheidungsart=Undefined&Organ=Undefined&SucheNachRechtssatz=True&SucheNachText=True&GZ=&VonDatum=25.08.2018&BisDatum=23.09.2019&Norm=&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=&Position=1&SkipToDocumentPage=true",
         "target_element": {
           "results": "tbody.bocListTableBody",
-          "pagination": "ul.Pages"
+          "pagination": "ul.Pages",
+          "document": null
         },
         "render_type": "FULLY_RENDERED"
       }
     ]
   },
   "DK": {
+    "country": "Denmark",
     "name": "Datatilsynet",
-    "name_en": "Danish Data Protection Authority",
-    "short_name": null,
-    "base_url": "www.datatilsynet.dk",
+    "address": "Borgergade 28, 5",
+    "phone": "33 1932 00",
+    "country_code": "+45",
+    "email": "dt@datatilsynet.dk",
+    "website": "http://www.datatilsynet.dk/",
+    "member": {
+      "name": "Ms Cristina Angela GULISANO",
+      "title": "Director"
+    },
     "sources": [
-      "https://www.datatilsynet.dk/tilsyn-og-afgoerelser/afgoerelser/"
+      {
+        "host": "https://www.datatilsynet.dk",
+        "start_path": "/tilsyn-og-afgoerelser/afgoerelser/?PageNumber=1",
+        "target_element": {
+          "results": "ul.items.list-group",
+          "pagination": "ul.pagination",
+          "document": "div.news-page"
+        },
+        "render_type": "FULLY_RENDERED"
+      }
     ]
   },
   "GB": {

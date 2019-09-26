@@ -16,6 +16,7 @@ from ...specifications import pdf_file_extension_specification
 from ...specifications import page_fully_rendered_specification
 
 from ...modules.pagination import Pagination
+from ...policies import bulk_collect_location_policy
 
 class AT(DPA):
     def __init__(self):
@@ -23,7 +24,8 @@ class AT(DPA):
         super().__init__(iso_code)
 
     def bulk_collect(self, path):
-        penalties = []
+        if bulk_collect_location_policy.is_allowed(path) is False:
+            raise ValueError('Bulk collect path is illegal: ' + path)
 
         source = self.sources[0]
 

@@ -44,7 +44,7 @@ def main():
     data_path = './data/{date}/'.format(date=now.strftime("%m-%d-%Y"))
 
     gdpr = GDPR()
-    dpa = gdpr.get_dpa('AT')
+    dpa = gdpr.get_dpa('DK')
     dpa.bulk_collect(data_path)
 
     """
