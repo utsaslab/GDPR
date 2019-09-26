@@ -50,14 +50,28 @@
     ]
   },
   "GB": {
-    "name": "Information Commissioner's Office",
-    "name_en": "Information Commissioner's Office",
-    "short_name": "ico",
-    "base_url": "www.ico.org.uk",
+    "country": "United Kingdom",
+    "name": "The Information Commissioner’s Office",
+    "address": "Water Lane, Wycliffe House Wilmslow - Cheshire SK9 5AF",
+    "phone": "1625 545 700",
+    "country_code": "+44",
+    "email": "casework@ico.org.uk",
+    "website": "https://ico.org.uk",
+    "member": {
+      "name": "Ms Elizabeth DENHAM",
+      "title": "Information Commissioner"
+    },
     "sources": [
-      "https://ico.org.uk/media/action-weve-taken/csvs/2615397/civil-monetary-penalties.xlsx",
-      "ico.org.uk/action-weve-taken/enforcement?rows=1000000",
-      "https://ico.org.uk/about-the-ico/our-information/penalty-notices-issued-for-non-payment-of-fee"
+      {
+        "host": "https://ico.org.uk",
+        "start_path": "/media/action-weve-taken/csvs/2615397/civil-monetary-penalties.xlsx",
+        "target_element": {
+          "results": null,
+          "pagination": null,
+          "document": null
+        },
+        "render_type": "FULLY_RENDERED"
+      }
     ]
   }
 }
