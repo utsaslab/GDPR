@@ -1,0 +1,718 @@
+To:
+
+Of:
+
+ICO.
+
+Information Commissioner’s Office
+
+DATA PROTECTION ACT 1998
+
+SUPERVISORY POWERS OF THE INFORMATION COMMISSIONER
+
+MONETARY PENALTY NOTICE
+
+Superior Style Home Improvements Limited
+
+49 Bethel Road, Llansamlet, Swansea, SA7 9QL
+
+The Information Commissioner (“Commissioner”) has decided to issue
+Superior Style Home Improvements Limited (“Superior Style”) with a
+monetary penalty under section 55A of the Data Protection Act 1998
+(“DPA”). The penalty is being issued because of a serious contravention
+of regulation 21 of the Privacy and Electronic Communications (EC
+Directive) Regulations 2003 (“PECR”).
+
+This notice explains the Commissioner’s decision.
+
+Legal framework
+
+Superior Style, whose registered office is given above (companies
+house registration number:09375551), is the person stated in this
+notice to have used a public electronic communications service for the
+purpose of making unsolicited calls for the purposes of direct marketing
+contrary to regulation 21 of PECR.
+
+Regulation 21 applies to the making of unsolicited calls for direct
+
+marketing purposes. It means that if a company wants to make calls
+
+1
+®
+1C O.
+Information Commissioner's Office
+promoting a product or service to an individual who has a telephone
+number which is registered with the Telephone Preference Service Ltd
+
+(“TPS”), then that individual must have given their consent to that
+
+company to receive such calls.
+Regulation 21 paragraph (1) of PECR provides that:
+
+“(1) A person shall neither use, nor instigate the use of, a public
+electronic communications service for the purposes of making
+
+unsolicited calls for direct marketing purposes where-
+
+(a) the called line is that of a subscriber who has previously
+notified the caller that such calls should not for the time being
+
+be made on that line; or
+
+(b) the number allocated to a subscriber in respect of the called
+line is one listed in the register kept under regulation 26.”
+
+Regulation 21 paragraphs (2), (3), (4) and (5) provide that:
+
+“(2) A subscriber shall not permit his line to be used in contravention
+
+of paragraph (1).
+
+(3) A person shall not be held to have contravened paragraph (1)(b)
+where the number allocated to the called line has been listed on the
+register for less than 28 days preceding that on which the call is
+
+made.
+
+(4) Where a subscriber who has caused a number allocated to a line of
+his to be listed in the register kept under regulation 26 has notified
+a caller that he does not, for the time being, object to such calls
+
+2
+@
+
+IC O.
+
+Information Commissioner's Office
+being made on that line by that caller, such calls may be made by
+
+that caller on that line, notwithstanding that the number allocated
+
+to that line is listed in the said register.
+
+(S) Where a subscriber has given a caller notification pursuant to
+
+paragraph (4) in relation to a line of his—
+
+(a) the subscriber shall be free to withdraw that notification at any
+time, and
+(b) where such notification is withdrawn, the caller shall not make such
+
+calls on that line.”
+
+Under regulation 26 of PECR, the Commissioner is required to maintain
+a register of numbers allocated to subscribers who have notified them
+that they do not wish, for the time being, to receive unsolicited calls for
+direct marketing purposes on those lines. The Telephone Preference
+Service Limited (“TPS”) is a limited company set up by the
+Commissioner to carry out this role. Businesses who wish to carry out
+direct marketing by telephone can subscribe to the TPS for a fee and
+
+receive from them monthly a list of numbers on that register.
+
+Section 11(3) of the DPA defines direct marketing as “the
+communication (by whatever means) of any advertising or marketing
+material which is directed to particular individuals”. This definition also
+
+applies for the purposes of PECR (see regulation 2(2)).
+
+Under section 55A (1) of the DPA (as amended by PECR 2011 and the
+Privacy and Electronic Communications (Amendment) Regulations
+2015) the Commissioner may serve a person with a monetary penalty
+
+notice if the Commissioner is satisfied that —
+®
+IC O @
+Information Commissioner's Office
+“(a) there has been a serious contravention of the requirements of the
+
+Privacy and Electronic Communications (EC Directive) Regulations
+
+2003 by the person, and
+(b) subsection (2) or (3) applies.
+(2) This subsection applies if the contravention was deliberate.
+(3) This subsection applies if the person -
+
+(a) knew or ought to have known that there was a risk that
+the contravention would occur, but
+
+(b) failed to take reasonable steps to prevent the
+
+contravention.”
+
+10. The Commissioner has issued statutory guidance under section 55C (1)
+of the DPA about the issuing of monetary penalties that has been
+published on the ICO’s website. The Data Protection (Monetary
+Penalties) (Maximum Penalty and Notices) Regulations 2010 prescribe
+that the amount of any penalty determined by the Commissioner must
+not exceed £500,000.
+
+11. PECR implemented European legislation (Directive 2002/58/EC) aimed
+at the protection of the individual’s fundamental right to privacy in the
+electronic communications sector. PECR were amended for the purpose
+of giving effect to Directive 2009/136/EC which amended and
+strengthened the 2002 provisions. The Commissioner approaches the
+PECR regulations so as to give effect to the Directives.
+12.
+
+13.
+
+14.
+
+Lids
+
+O
+
+1C O OO
+
+Information Commissioner's Office
+The provisions of the DPA remain in force for the purposes of PECR
+
+notwithstanding the introduction of the Data Protection Act 2018 (see
+paragraph 58(1) of Part 9, Schedule 20 of that Act).
+
+Background to the case
+
+Superior Style’s business involves, in part, making unsolicited
+marketing calls to subscribers in order to generate UPVC installation
+
+leads.
+
+Between 30 May 2017 and 30 April 2018, the ICO received 83
+complaints about unsolicited direct marketing calls made by Superior
+Style. Of those, 63 complaints were made to the TPS, with a further 20
+made direct to the Commissioner. All of these complaints were made
+
+by individual subscribers who were registered with the TPS.
+
+The following are examples of the complaints received by the ICO:
+
+e “Asked is I was Mrs X. Or failing that if I was a householder.
+I asked if he wanted to speak to Mrs. N. X and he confirmed
+that he did. I pointed out forcefully that N X was my mother
+who had been dead for nine years, and his call had really
+upset me. He said "sorry" and started to try to interest me in
+whatever he was peddling anyway! !!!!!!t!! I asked if he was
+really trying to interest me after asking for a dead relative.
+He countered "How did I expect his firm to know she was
+dead for ten years as the firm had only been going for three
+years". I pointed out, forcefully, that his firm was required
+to only use up to date records and the number was registered
+
+with the TPS for many years - he wasn’t interested...”
+16.
+
+LF
+
+18.
+
+information Commissioner’s Office
+
+e “I’m chronically ill and disabled and was resting on the point
+of the call. My landline is unlisted and TPS registered.”
+
+e “When told I was registered with TPS the guy didn't know
+what I was talking about! Told him that I didn't want his call
+and he seemed confused! Said he'd 'try' to get my number
+taken off their system. Told him I was reporting him. Seemed
+
+even more confused! His name was David.”
+
+e “Called offering 'free home improvements’. Told never to call
+
+again and called half an hour later.”
+
+On 29 June 2018, the Commissioner wrote to Superior Style to explain
+that she could issue civil monetary penalties up to £500,000 for PECR
+breaches. The letter informed Superior Style that the Commissioner
+and the TPS had received complaints from individual subscribers in
+relation to unsolicited calls. Superior Style was asked a number of
+
+questions about its compliance with PECR.
+
+The Commissioner received a response from Superior Style explaining
+that it generates leads via doorstep canvassing as well as by using a
+database purchased ‘some time ago’. They had not purchased data
+from any third parties for over two years and had not screened the
+data they held against the TPS since its purchase, advising that they
+removed customer details once they were advised that the customer is
+registered with the TPS and do not contact them again.
+
+Superior Style further explained in correspondence that it had been
+under the impression that their previous automated telephony provider
+
+would automatically supress calls made to TPS registered numbers.
+19.
+
+20.
+
+21.
+
+22.
+
+©
+
+IC O ©
+
+Information Commissioner's Office
+They became aware this was not the case after 25 June 2018. They
+
+have no evidence to support this belief and had no contract in place
+
+with its former telephony provider.
+
+Superior Style stated that it purchased the data used from a third
+party company in September 2016. That company had purchased the
+data on their behalf from “another home improvement organisation”.
+The third party has now gone into liquidation and therefore they are
+unable to ascertain from where the data was originally sourced or the
+consent the use of this data relied on. Superior Style conceded that
+they conducted no due diligence when the data was purchased before
+
+using it to make marketing calls.
+
+The Commissioner's investigation revealed that at least 6 separate
+CLI’s were being used to make unsolicited marketing calls. Call dialler
+records obtained for these numbers show that a total of 849,318 calls
+were made by Superior Style within the period of 30 May 2017 to 30
+April 2018. This list was filtered to establish the number of calls made
+to numbers which were registered with the TPS, at least 28 days
+before receiving a call, to show that 518,771 such calls were made.
+
+The Commissioner has made the above findings of fact on the
+
+balance of probabilities.
+The Commissioner has considered whether those facts constitute a
+contravention of regulation 21 of PECR by Superior Style and, if so,
+
+whether the conditions of section 55A DPA are satisfied.
+
+The contravention
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+20.
+
+29.
+
+Information Commissioner’s Office
+
+The Commissioner finds that Superior Style contravened regulation 21
+of PECR.
+
+The Commissioner finds that the contravention was as follows:
+
+Between 30 May 2017 and 30 April 2018, Superior Style used a public
+telecommunications service for the purpose of making 83 unsolicited
+calls for direct marketing purposes to subscribers where the number
+allocated to the subscriber in respect of the line called was a number
+listed on the register of numbers kept by the Commissioner in
+accordance with regulation 26, contrary to regulation 21(1)(b) of
+PECR; and
+
+The Commissioner is also satisfied for the purposes of regulation 21
+that these calls were made to subscribers who had registered with the
+TPS at least 28 days prior to receiving the calls and had not given their
+
+prior consent to Superior Style to receive calls.
+
+The Commissioner has gone on to consider whether the conditions
+
+under section 55A DPA are met.
+
+Seriousness of the contravention
+
+The Commissioner is satisfied that the contravention identified
+
+above was serious. This is because there have been multiple breaches
+of regulation 21 by Superior Style’s activities over an 11 month period,
+and this led to a significant number of complaints about unsolicited
+direct marketing calls to the TPS and the Commissioner.
+
+In addition, it is reasonable to suppose that the contravention could
+have been far higher because those who went to the trouble to
+
+8
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+Information Commissioner’s Office
+
+complain represent only a proportion of those who actually received
+
+calls.
+
+Some complainants allege that Superior Style made repeat calls to
+them even though they had requested that their number be supressed.
+
+The Commissioner is therefore satisfied that condition (a) from
+section 55A (1) DPA is met.
+
+Deliberate or negligent contraventions
+
+The Commissioner has considered whether the contravention identified
+above was deliberate. In the Commissioner’s view, this means that
+Superior Style’s actions which constituted that contravention were
+deliberate actions (even if Superior Style did not actually intend
+thereby to contravene PECR),.
+
+The Commissioner considers that in this case Superior Style did not
+
+deliberately contravene regulation 21 of PECR in that sense.
+
+The Commissioner has gone on to consider whether the contravention
+
+identified above was negligent.
+
+First, she has considered whether Superior Style knew or ought
+reasonably to have known that there was a risk that this contravention
+would occur. She is satisfied that this condition is met, given that
+Superior Style relied heavily on direct marketing due to the nature of
+its business, and the fact that the issue of unsolicited calls has been
+
+widely publicised by the media as being a problem.
+36.
+
+Sf.
+
+38.
+
+59:
+
+40.
+
+©
+
+1C QO.
+
+Information Commissioner’s Office
+Each time a complaint is made to the TPS, the TPS inform the company
+complained about. Superior Style would therefore have been aware
+that complaints were being made by TPS subscribers which should
+
+have prompted them to take steps to investigate the reasons for this
+and to address any deficiencies in their practices.
+
+The number of calls made to TPS registered individuals accounts for
+61% of the total call volume, this shows a disregard for the legislation
+surrounding the making of marketing calls and suggests that Superior
+Style made very little effort to screen the data they were using against
+the TPS.
+
+The Commissioner has also published detailed guidance for companies
+carrying out marketing explaining their legal requirements under PECR.
+This guidance explains the circumstances under which organisations
+are able to carry out marketing over the phone, by text, by email, by
+post or by fax. Specifically, it states that live calls must not be made to
+subscribers who have told an organisation that they do not want to
+receive calls; or to any number registered with the TPS, unless the
+subscriber has specifically consented to receive calls.
+
+Finally, the Commissioner has gone on to consider whether Superior
+Style failed to take reasonable steps to prevent the contravention.
+Again, she is satisfied that this condition is met.
+
+Reasonable steps in these circumstances would have included ensuring
+that Superior Style could evidence consents relied upon to make
+marketing calls; having in place a contractual arrangement with its
+third party data supplier to ensure that the data being purchased met
+the required threshold for valid consent; screening the data against the
+
+10
+41.
+
+42.
+
+43.
+
+Information Commissioner's Office
+
+TPS register and ensuring that it had in place an effective and robust
+
+Suppression list.
+
+In addition Superior Style have, during the course of the
+Commissioner's investigation, denied that several of the CLI’s listed in
+the complaints were owned by them. This is despite clear evidence to
+the contrary including their telephony provider confirming that these
+CLI’s were registered to Superior Style, at their business address and
+used their e-mail address as a contact. This shows a lack of care and
+attention in relation to how the company is operating and suggests
+they failed to take reasonable steps to prevent the contravention,
+repeatedly failing to acknowledge the contravention when challenged
+
+by the Commissioner.
+
+The Commissioner is therefore satisfied that Superior Style failed to
+
+take reasonable steps to prevent the contravention.
+
+The Commissioner is therefore satisfied that condition (b) from section
+55A (1) DPA is met.
+
+The Commissioner's decision to impose a monetary penalty
+
+44.
+
+45.
+
+46,
+
+For the reasons explained above the Commissioner is satisfied that the
+conditions from section 55A(1)DPA have been met in this case. She is
+also satisfied that section 55A(3)DPA and the procedural rights under
+
+section 55B have been complied with.
+
+The latter has included the issuing of a Notice of Intent dated 1 April
+
+2019 in which the Commissioner set out her preliminary thinking.
+
+The Commissioner has considered whether, in the circumstances she
+
+should exercise her discretion so as to issue a monetary penalty. In
+
+11
+47.
+
+48.
+
+49.
+
+50.
+
+O
+
+1C O.
+
+Information Commissioner’s Office
+reaching her final view, the Commissioner has taken into account
+representations made by Superior Style dated 26 April 2019, 10 June
+2019 and in other correspondence on this matter, however there is
+
+nothing contained therein to dissuade the Commissioner from her
+
+preliminary view.
+
+The Commissioner is accordingly entitled to issue a monetary penalty
+
+in this case,
+
+The amount of the penalty
+
+The Commissioner’s underlying objective in imposing a monetary
+penalty notice is to promote compliance with PECR. The making of
+unsolicited direct marketing calls is a matter of significant public
+concern. A monetary penalty in this case should act as a general
+encouragement towards compliance with the law, or at least as a
+deterrent against non-compliance, on the part of all persons running
+businesses currently engaging in these practices. This is an opportunity
+to reinforce the need for businesses to ensure that they are only
+
+telephoning consumers who want to receive these calls.
+
+Taking into account all of the above, the Commissioner has decided
+that the amount of the penalty is £150,000 (One hundred and fifty
+thousand pounds)
+
+Conclusion
+
+The monetary penalty must be paid to the Commissioner’s office by
+
+BACS transfer or cheque by 4 October 2019 at the latest. The
+monetary penalty is not kept by the Commissioner but will be paid into
+
+12
+Sl.
+
+52.
+
+53.
+
+34.
+
+55.
+
+Information Commissioner's Office
+
+the Consolidated Fund which is the Government’s general bank account
+at the Bank of England.
+
+If the Commissioner receives full payment of the monetary penalty by
+2 October 2019 the Commissioner will reduce the monetary penalty
+by 20% to £120,000 (One hundred and twenty thousand
+pounds). However, you should be aware that the early payment
+discount is not available if you decide to exercise your right of appeal.
+
+There is a right of appeal to the First-tier Tribunal (Information Rights)
+against:
+
+(a) the imposition of the monetary penalty
+and/or;
+(b) the amount of the penalty specified in the monetary penalty
+
+notice.
+
+Any notice of appeal should be received by the Tribunal within 28 days
+of the date of this monetary penalty notice.
+
+Information about appeals is set out in Annex 1.
+
+The Commissioner will not take action to enforce a monetary penalty
+
+unless:
+
+e the period specified within the notice within which a monetary
+penalty must be paid has expired and all or any of the monetary
+penalty has not been paid;
+
+e all relevant appeals against the monetary penalty notice and any
+variation of it have either been decided or withdrawn; and
+
+13
+Information Commissioner's Office
+
+e the period for appealing against the monetary penalty and any
+variation of it has expired.
+
+56. In England, Wales and Northern Ireland, the monetary penalty is
+recoverable by Order of the County Court or the High Court. In
+Scotland, the monetary penalty can be enforced in the same manner
+as an extract registered decree arbitral bearing a warrant for execution
+
+issued by the sheriff court of any sheriffdom in Scotland.
+
+Dated the 4"? day of September 2019
+
+ 
+ 
+ 
+ 
+
+a
+Signed
+
+Stephen Eckersley
+
+Director of Investigations
+Information Commissioner’s Office
+Wycliffe House
+
+Water Lane
+
+Wilmslow
+
+Cheshire
+
+SK9 5AF
+
+14
+ANNEX 1
+
+ICO.
+
+Information Commissioner’s Office
+
+SECTION 55 A-E OF THE DATA PROTECTION ACT 1998
+
+RIGHTS OF APPEAL AGAINST DECISIONS OF THE COMMISSIONER
+
+1, section 48 of the Data Protection Act 1998 gives any person upon
+whom a monetary penalty notice or variation notice has been served a
+right of appeal to the First-tier Tribunal (Information Rights) (the
+‘Tribunal’) against the notice.
+
+2. If you decide to appeal and if the Tribunal considers:-
+
+a)
+
+b)
+
+that the notice against which the appeal is brought is not in
+accordance with the law; or
+
+to the extent that the notice involved an exercise of discretion by
+the Commissioner, that she ought to have exercised her
+discretion differently,
+
+the Tribunal will allow the appeal or substitute such other decision as
+could have been made by the Commissioner. In any other case the
+Tribunal will dismiss the appeal.
+
+3. You may bring an appeal by serving a notice of appeal on the Tribunal
+at the following address:
+
+a)
+
+GRC & GRP Tribunals
+PO Box 9300
+Arnhem House
+
+31 Waterloo Way
+Leicester
+
+LE1 8DJ
+
+The notice of appeal should be sent so it is received by the
+Tribunal within 28 days of the date of the notice.
+
+15
+O
+
+1C O @
+
+Information Commissioner’s Office
+b) If your notice of appeal is late the Tribunal will not admit it
+
+unless the Tribunal has extended the time for complying with this
+rule.
+
+The notice of appeal should state:-
+
+a) your name and address/name and address of your representative
+(if any);
+
+b) an address where documents may be sent or delivered to you;
+C) the name and address of the Information Commissioner;
+
+d) details of the decision to which the proceedings relate;
+
+e) the result that you are seeking;
+
+f) the grounds on which you rely;
+
+g) you must provide with the notice of appeal a copy of the
+monetary penalty notice or variation notice;
+
+h) if you have exceeded the time limit mentioned above the notice
+of appeal must include a request for an extension of time and the
+reason why the notice of appeal was not provided in time.
+
+Before deciding whether or not to appeal you may wish to consult your
+solicitor or another adviser. At the hearing of an appeal a party may
+conduct his case himself or may be represented by any person whom
+he may appoint for that purpose.
+
+The statutory provisions concerning appeals to the First-tier Tribunal
+(General Regulatory Chamber) are contained in sections 48 and 49 of,
+and Schedule 6 to, the Data Protection Act 1998, and Tribunal
+Procedure (First-tier Tribunal) (General Regulatory Chamber) Rules
+2009 (Statutory Instrument 2009 No. 1976 (L.20)).
+
+16

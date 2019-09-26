@@ -71,6 +71,16 @@
           "document": null
         },
         "render_type": "FULLY_RENDERED"
+      },
+      {
+        "host": "https://ico.org.uk",
+        "start_path": "/action-weve-taken/enforcement/?rows=1000000",
+        "target_element": {
+          "results": "div.resultlist",
+          "pagination": null,
+          "document": "article.container"
+        },
+        "render_type": "FULLY_RENDERED"
       }
     ]
   }

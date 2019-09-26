@@ -2,7 +2,7 @@ import json
 from ..specifications import authority_supported_specification
 from ..specifications import eu_member_specification
 
-with open('./modules/gdpr/assets/supported-authorities.json', 'r') as f:
+with open('./gdpr/assets/supported-authorities.json', 'r') as f:
     supported_dpas = json.load(f)
 
 class DPA(object):
@@ -26,7 +26,7 @@ class DPA(object):
         self.email = dpa['email']
         self.website = dpa['website']
         self.member = dpa['member']
-        self.sources = dpa['sources'] 
+        self.sources = dpa['sources']
 
     def bulk_collect(self, path):
         raise NotImplementedError("Subclasses should implement this function.")

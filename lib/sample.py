@@ -1,14 +1,14 @@
 from gdpr import GDPR
 
-from modules.gdpr.services.pdf_to_text_service import pdf_to_text_service
-from modules.gdpr.services.filename_from_path_service import filename_from_path_service
-from modules.gdpr.services.dispatch_background_logging_service import dispatch_background_logging_service
+from gdpr.services.pdf_to_text_service import pdf_to_text_service
+from gdpr.services.filename_from_path_service import filename_from_path_service
+from gdpr.services.dispatch_background_logging_service import dispatch_background_logging_service
 
-from modules.gdpr.services.url_trees_from_sources_service import url_trees_from_sources_service
-from modules.gdpr.services.absolute_urls_from_tree_service import absolute_urls_from_tree_service
-from modules.gdpr.services.links_from_soup_service import links_from_soup_service
+from gdpr.services.url_trees_from_sources_service import url_trees_from_sources_service
+from gdpr.services.absolute_urls_from_tree_service import absolute_urls_from_tree_service
+from gdpr.services.links_from_soup_service import links_from_soup_service
 
-from modules.gdpr.services.anti_patterns_for_article_service import anti_patterns_for_article_service
+from gdpr.services.anti_patterns_for_article_service import anti_patterns_for_article_service
 
 import datetime
 import json

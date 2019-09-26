@@ -1,0 +1,770 @@
+TO:
+
+Of:
+
+1CO.
+
+Information Commissioner's Office
+
+DATA PROTECTION ACT 1998
+
+SUPERVISORY POWERS OF THE INFORMATION COMMISSIONER
+
+MONETARY PENALTY NOTICE
+
+Leave.EU Group Limited
+
+Lysander House, Catbrain Lane, Cribbs Causeway, Bristol BS10 7TQ
+
+The Information Commissioner (“Commissioner”) has decided to issue
+Leave.EU Group Limited (“Leave.EU”) with a monetary penalty under
+section 55A of the Data Protection Act 1998 (“DPA”). The penalty is in
+relation to a serious contravention of Regulation 22 of the Privacy and
+Electronic Communications (EC Directive) Regulations 2003 (“PECR”).
+
+This notice explains the Commissioner’s decision.
+
+Legal framework
+
+Leave.EU, whose registered office is given above (Company House
+Reference: 09763501), is the organisation stated in this notice to have
+transmitted unsolicited communications by means of electronic mail to
+individual subscribers for the purposes of direct marketing contrary to
+regulation 22 of PECR.
+
+Regulation 22 of PECR states:
+Q
+
+1cQO.
+
+Information Commissioner's Office
+‘“(1) This regulation applies to the transmission of unsolicited
+
+communications by means of electronic mail to individual
+
+subscribers.
+
+(2) Except in the circumstances referred to in paragraph (3), a person
+shall neither transmit, nor instigate the transmission of, unsolicited
+communications for the purposes of direct marketing by means of
+electronic mail unless the recipient of the electronic mail has
+previously notified the sender that he consents for the time being
+to such communications being sent by, or at the instigation of, the
+
+sender.
+
+(3) A person may send or instigate the sending of electronic mail for
+
+the purposes of direct marketing where—
+
+(a) that person has obtained the contact details of the recipient
+of that electronic mail in the course of the sale or
+negotiations for the sale of a product or service to that
+
+recipient;
+
+(b) the direct marketing is in respect of that person’s similar
+
+products and services only; and
+
+(c) the recipient has been given a simple means of refusing
+(free of charge except for the costs of the transmission of
+the refusal) the use of his contact details for the purposes
+of such direct marketing, at the time that the details were
+initially collected, and, where he did not initially refuse the
+use of the details, at the time of each subsequent
+
+communication.
+
+(4) A subscriber shall not permit his line to be used in contravention of
+
+paragraph (2).”
+10;
+
+@
+1C O 2
+Information Commissioner's Office
+Section 11(3) of the DPA defines “direct marketing” as “the
+communication (by whatever means) of any advertising or marketing
+
+material which is directed to particular individuals”. This definition also
+
+applies for the purposes of PECR (see regulation 2(2)).
+
+“Individual” is defined in regulation 2(1) of PECR as “a living individual
+
+and includes an unincorporated body of such individuals”.
+
+“Electronic mail’ is defined in regulation 2(1) of PECR as “any text,
+voice, sound or image message sent over a public electronic
+communications network which can be stored in the network or in the
+recipient’s terminal equipment until it is collected by the recipient and
+
+includes messages sent using a short message service”.
+
+The term “soft opt-in” is used to describe the rule set out in Regulation
+22(3) of PECR. In essence, an organisation may be able to e-mail its
+existing customers even if they haven’t specifically consented to
+electronic mail. The soft opt-in rule can only be relied upon by the
+
+organisation that collected the contact details.
+
+A “subscriber” is defined in regulation 2(1) of PECR as “a person who is
+a party to a contract with a provider of public electronic
+
+communications services for the supply of such services”.
+
+Section 55A of the DPA (as amended by the Privacy and Electronic
+Communications (EC Directive)(Amendment) Regulations 2011 and the
+Privacy and Electronic Communications (Amendment) Regulations
+2015) states:
+
+“(1) The Commissioner may serve a person with a monetary penalty if
+
+the Commissioner is satisfied that —
+1
+
+12.
+
+13.
+
+=)
+1C O i)
+Information Commissioner's Office
+(a) there has been a serious contravention of the requirements
+
+of the Privacy and Electronic Communications (EC
+
+Directive) Regulations 2003 by the person,
+(b) subsection (2) or (3) applies.
+(2) This subsection applies if the contravention was deliberate.
+(3) This subsection applies if the person -
+
+(a) knew or ought to have known that there was a risk that
+
+the contravention would occur, but
+
+(b) failed to take reasonable steps to prevent the
+
+contravention.”
+
+The Commissioner has issued statutory guidance under section 55C (1)
+of the DPA about the issuing of monetary penalties that has been
+published on the ICO’s website. The Data Protection (Monetary
+Penalties) (Maximum Penalty and Notices) Regulations 2010 prescribe
+that the amount of any penalty determined by the Commissioner must
+not exceed £500,000.
+
+PECR implements European legislation (Directive 2002/58/EC) aimed at
+the protection of the individual’s fundamental right to privacy in the
+electronic communications sector. PECR was amended for the purpose
+of giving effect to Directive 2009/136/EC which amended and
+strengthened the 2002 provisions. The Commissioner approaches PECR
+
+so as to give effect to the Directives.
+The provisions of the DPA remain in force for the purposes of PECR
+notwithstanding the introduction of the Data Protection Act 2018 (see
+
+paragraph 58(1) of Part 9, Schedule 20 of that Act).
+
+Background to the case
+14.
+
+LS.
+
+16.
+
+LZ.
+
+ICO.
+
+Information Commissioner's Office
+
+Leave.EU came to the attention of the Commissioner during
+investigations in relation to the wider use of personal data and
+analytics by political campaigns, social media and insurance
+companies. In particular Leave.EU has been investigated about its
+relationship with Eldon Insurance Services Ltd (“Eldon”) (which trades
+
+using the brand GoSkippy Insurance) and their use of personal data.
+
+The Commissioner is aware from publicly available company records
+and her investigation that there is a significant cross-over of employees
+and senior figures between the organisations named above. Leave.EU
+was incorporated on 4 September 2015 with two named directors who
+were also at that time directors of Eldon, and its sole subscriber is also
+the owner of the sole subscriber in Eldon (and is now the person with
+significant control in respect of both entities). Leave.EU and Eldon
+
+share the same corporate address.
+
+In those circumstances, the Commissioner considers it especially
+important that different data controllers within the same corporate
+group have clear policies and procedures in place to ensure that
+personal data lawfully acquired and processed in the activities of one
+controller is not inappropriately used in the activities of a different
+controller. That is particularly so where the different controllers have
+
+different businesses.
+
+In response to an Information Notice, the Commissioner was informed
+by Eldon on 20 April 2018, that an incident had taken place whereby a
+Leave.EU newsletter was incorrectly emailed to some Eldon customers,
+apparently due to an error in the way the email distribution system was
+used. It was advised as part of this response that, notwithstanding the
+
+above incident, Eldon data was not combined or shared with Leave.EU.
+18.
+
+19.
+
+20.
+
+®
+
+1C QO.
+
+Information Commissioner's Office
+It was further indicated within the response that the incident had been
+previously reported and logged with the Commissioner. However, the
+Commissioner can find no record of this and, despite requests for a
+copy of the report or case reference number, she has not been
+
+provided with any evidence to support the suggestion that such a
+
+report was ever sent.
+
+A further Information Notice was sent to Eldon on 27 July 2018 and
+responded to by a letter of 23 August 2018 signed by a director of
+
+Eldon (who was also at the relevant time a director of Leave.EU).
+
+The information provided to the Commissioner during the course of
+
+investigations indicates as follows:
+
+The Leave.EU newsletter was sent to Eldon customers on 16
+
+September 2015 as a result of administrative error by Leave.EU Staff.
+
+This was an isolated incident which resulted in one complaint and was
+
+resolved by an agreed payment to charity.
+Leave.EU sent the newsletter and Leave.EU instigated the sending of it.
+
+319,645 emails were sent in total to an Eldon dataset. 296,522 of
+those emails were successfully delivered and 61,396 of those emails
+
+were opened.
+
+There have been no similar recorded incidents (i.e. where Leave. EU
+communications concerning the referendum were sent to Eldon
+
+insurance customers in error).
+211
+
+22.
+
+23.
+
+24.
+
+B
+1C QO.
+Information Commissioner's Office
+Mailchimp (an account/application which appears to house distribution
+lists) was used to distribute marketing communications by email to
+Eldon/GoSkippy customers. The same account was used by marketing
+staff acting on behalf of Leave.EU. The member of marketing staff
+
+selected the incorrect data file (i.e. the Eldon data file) to be used to
+
+distribute a Leave.EU newsletter.
+
+At the time of the incident one Mailchimp account was being used but
+another account was introduced in November 2016, which would
+
+further reduce the risk of such incidents.
+
+In late 2017, Eldon introduced a further control mechanism in the form
+
+of a peer review before emails are sent out.
+
+The Commissioner has considered whether her findings constitute
+a contravention of regulation 22 of PECR by Leave.EU and, if so,
+
+whether the conditions of section 55A DPA are satisfied.
+The contravention
+
+The Commissioner finds that Leave.EU has contravened regulation 22
+of PECR.
+
+The Commissioner finds that the contravention was as follows:
+
+On 16 September 2015, Leave.EU used a public electronic
+telecommunications service for the purposes of transmitting 296,522
+unsolicited communications by means of electronic mail to individual
+subscribers for the purposes of direct marketing contrary to regulation
+22 of PECR.
+2m.
+
+26.
+
+AT.
+
+L205
+
+25.
+
+i)
+1C QO.
+Information Commissioner's Office
+“Consent” within the meaning of regulation 22(2) requires that the
+recipient of the electronic mail has notified the sender that he consents
+to messages being sent by, or at the instigation of, that sender.
+
+Indirect, or third party, consent can be valid but only if it is clear and
+
+specific enough.
+
+In this case the Commissioner is satisfied that Leave.EU did not have
+the consent, within the meaning of regulation 22(2), of the subscribers
+for the 296,522 unsolicited direct marketing emails it sent. The
+Commissioner is satisfied that the ‘soft opt-in’ exception afforded under
+regulation 22(3) would not apply in this instance since Leave.EU has no
+apparent prior relationship with the subscribers. The Commissioner
+further notes that in its representations in response to the Notice of
+Intent, Leave.EU did not seek to suggest that it did have consent to
+
+send its newsletter to an Eldon customer database.
+
+The Commissioner is satisfied that Leave.EU was responsible for this
+
+contravention.
+
+The Commissioner has gone on to consider whether the conditions
+under section 55A DPA were met, that is to say that the contravention
+is of a sufficiently serious nature, and was carried out either
+
+deliberately or, in the alternative, negligently.
+
+Seriousness of the contravention
+
+ 
+
+The Commissioner is satisfied that the contravention identified
+
+above was serious. This is because on 16 September 2015 a total of
+296,522 direct marketing emails were successfully delivered by
+Leave.EU and received by subscribers for whom they did not hold valid
+
+consent.
+30.
+
+31.
+
+D2.
+
+33.
+
+34.
+
+1CO.
+
+Information Commissioner's Office
+
+The Commissioner does not consider that a contravention is rendered
+not serious simply because it is not repeated, or because it was an
+error rather than deliberate. The contravention occurred in respect of
+hundreds of thousands of subscribers. That the contravention occurred
+on a single occasion and was not deliberate are appropriately
+
+addressed through the quantum of the penalty.
+
+Therefore, given the number of affected subscribers, the Commissioner
+is satisfied that condition (a) from section 55A(1) DPA is met.
+
+Deliberate or negligent contraventions
+
+The Commissioner has considered whether the contravention identified
+
+above was deliberate.
+
+On the balance of probabilities, the Commissioner accepts Leave.EU’s
+claim that the incident arose as the result of an isolated administrative
+error, and there appears to have been no deliberate intention on the
+part of Leave.EU to breach PECR.
+
+The Commissioner has therefore gone on to consider whether the
+contraventions identified above were negligent. First, she has
+considered whether Leave.EU knew or ought reasonably to have known
+that there was a risk that these contraventions would occur. She is
+satisfied that this condition is met. PECR has been in place for the
+entirety of the existence of Leave.EU (and well before its
+incorporation), and its terms and enforcement have been the subject of
+regular media coverage. There is no suggestion from Leave.EU that it
+
+was unaware of its obligations under PECR.
+35.
+
+36,
+
+a7
+
+38.
+
+@
+ICO.
+Information Commissioner's Office
+Furthermore, a company within a corporate group which shares
+personnel and premises with other group companies is expected by the
+Commissioner to be mindful of the care required to ensure marketing
+and personal data are not inappropriately mixed between companies.
+An organisation engaging in the sending of material constituting direct
+marketing should be aware that sharing a single Mailchimp account,
+
+housing multiple distribution lists, risks that a contravention could
+
+OCCUr.
+
+In the circumstances the Commissioner is satisfied that Leave.EU ought
+reasonably to have known that there was a risk a contravention would
+
+Occur.
+
+Second, the Commissioner considered whether Leave.EU failed to take
+reasonable steps to prevent the contravention. The Commissioner has
+published detailed guidance for those carrying out direct marketing
+explaining their legal obligations under PECR. This guidance gives clear
+advice regarding the requirements of consent for direct marketing and
+explains the circumstances under which organisations are able to carry
+out marketing over the phone, by text, by email, by post, or by fax. In
+particular it states that organisations can generally only send
+marketing emails to individuals if that person has specifically consented
+to receiving them from the sender. The Commissioner accepts that
+this contravention appears to have arisen as a result of a single
+administrative error, but is of the view that reasonable steps taken
+
+could have prevented the cross-contamination of distribution lists.
+
+Reasonable steps to be expected of Leave.EU in the context of this
+case could have included using separate Mailchimp accounts to house
+separate data sets and to ensure processes were in place that reviewed
+mass-marketing communications before they are sent. Leave.EU
+appears to accept that these are reasonable steps, because it has said
+
+10
+Gor
+
+40.
+
+41.
+
+42.
+
+43.
+
+4A,
+
+1C QO.
+Information Commissioner's Office
+that it has since implemented them (approximately a year after the
+relevant communication, and a further year after that). The
+Commissioner also has regard in this context to such steps being
+particularly important where Leave.EU had only very recently been
+
+incorporated, and may not yet have had an extensive opportunity to
+
+build its own properly consented database or fully train its staff.
+
+In the circumstances, the Commissioner is satisfied that Leave.EU
+
+failed to take reasonable steps to prevent the contraventions.
+
+The Commissioner is therefore satisfied that condition (b) from section
+55A (1) DPA is met.
+
+The Commissioner’s decision to issue a monetary penalty
+
+For the reasons explained above, the Commissioner is satisfied that the
+conditions from section 55A (1) DPA have been met in this case. She is
+also satisfied that the procedural rights under section 55B have been
+
+complied with.
+
+The latter has included the issuing of a Notice of Intent, in which the
+Commissioner set out her preliminary thinking. In reaching her final
+view, the Commissioner has taken into account the representations
+
+made by Leave.EU on this matter dated 4 December 2018.
+
+The Commissioner is accordingly entitled to issue a monetary penalty
+
+in this case.
+
+The Commissioner has considered whether, in the circumstances, she
+
+should exercise her discretion so as to issue a monetary penalty.
+
+11
+45.
+
+46.
+
+47.
+
+48.
+
+®
+
+1C O.
+
+Information Commissioner's Office
+She does not consider that there is any basis to conclude that issuing a
+monetary penalty in the terms proposed in this Notice would affect
+
+economic growth, and in any event, such a penalty would be
+
+appropriate in all the circumstances.
+
+The Commissioner has considered the likely impact of a monetary
+penalty on Leave.EU, including by reference to the company accounts
+provided to her by Leave.EU and its financial status as set out in those
+accounts. She has decided on the information that is available to her,
+that Leave.EU has access to sufficient financial resources to pay the
+proposed monetary penalty without causing undue financial hardship,
+given the relatively modest amount of the penalty set on the facts of
+
+this case and the level of its cash assets recorded in its accounts.
+
+The Commissioner’s underlying objective in imposing a monetary
+penalty notice is to promote compliance with PECR. The sending of
+unsolicited marketing emails is a matter of significant public concern. A
+monetary penalty in this case should act as a general encouragement
+towards compliance with the law, or at least as a deterrent against
+non-compliance, on the part of all persons running businesses currently
+engaging in these practices. The issuing of a monetary penalty will
+reinforce the need for businesses to ensure that they are only
+messaging those who specifically consent to receive marketing. It will
+additionally underscore the need to ensure those within a corporate
+
+group carefully prevent the wrongful use of data of a different entity.
+
+For these reasons, the Commissioner has decided to issue a monetary
+
+penalty in this case.
+
+The amount of the penalty
+49,
+
+50.
+
+51.
+
+Zs
+
+53.
+
+34.
+
+Qo
+
+1C QO.
+
+information Commissioner's Office
+Taking into account all of the above, the Commissioner has decided
+that a penalty in the sum of £15,000 (fifteen thousand pounds) is
+reasonable and proportionate given the particular facts of the case and
+
+the underlying objective in imposing the penalty.
+Conclusion
+
+The monetary penalty must be paid to the Commissioner's office by
+BACS transfer or cheque by 6 March 2019 at the latest. The monetary
+penalty is not kept by the Commissioner but will be paid into the
+Consolidated Fund which is the Government’s general bank account at
+the Bank of England.
+
+If the Commissioner receives full payment of the monetary penalty by
+5 March 2019 the Commissioner will reduce the monetary penalty by
+20% to £12,000 (twelve thousand pounds). However, you should
+
+be aware that the early payment discount is not available if you decide
+
+to exercise your right of appeal.
+
+There is a right of appeal to the First-tier Tribunal (Information Rights)
+against:
+
+(a) the imposition of the monetary penalty
+and/or;
+(b) the amount of the penalty specified in the monetary penalty
+
+notice.
+
+Any notice of appeal should be received by the Tribunal within 28 days
+
+of the date of this monetary penalty notice.
+
+Information about appeals is set out in Annex 1.
+
+13
+ICO.
+
+Information Commissioner's Office
+
+55. The Commissioner will not take action to enforce a monetary penalty
+
+unless:
+
+e the period specified within the notice within which a monetary
+penalty must be paid has expired and all or any of the monetary
+
+penalty has not been paid;
+
+e all relevant appeals against the monetary penalty notice and any
+
+variation of it have either been decided or withdrawn; and
+
+e the period for appealing against the monetary penalty and any
+
+variation of it has expired.
+
+56. In England, Wales and Northern Ireland, the monetary penalty is
+recoverable by Order of the County Court or the High Court. In
+Scotland, the monetary penalty can be enforced in the same manner as
+an extract registered decree arbitral bearing a warrant for execution
+
+issued by the sheriff court of any sheriffdom in Scotland.
+
+Dated the 15t day of February 2019
+
+Signed
+
+ 
+
+Stephen Eckersley
+
+Director of Investigations
+Information Commissioner’s Office
+Wycliffe House
+
+Water Lane
+
+Wilmslow
+
+Cheshire
+
+SK9 5AF
+ICO.
+
+Information Commissicner’s Office
+
+ANNEX 1
+SECTION 55 A-E OF THE DATA PROTECTION ACT 1998
+RIGHTS OF APPEAL AGAINST DECISIONS OF THE COMMISSIONER
+
+1. Section 55B(5) of the Data Protection Act 1998 gives any person upon
+whom a monetary penalty notice has been served a right of appeal to
+the First-tier Tribunal (Information Rights) (the ‘Tribunal’) against the
+
+notice.
+Du If you decide to appeal and if the Tribunal considers:-
+
+a) that the notice against which the appeal is brought is not in
+
+accordance with the law; or
+
+b) to the extent that the notice involved an exercise of discretion by
+the Commissioner, that she ought to have exercised her
+
+discretion differently,
+
+the Tribunal will allow the appeal or substitute such other decision as
+could have been made by the Commissioner. In any other case the
+
+Tribunal will dismiss the appeal.
+
+Bh You may bring an appeal by serving a notice of appeal on the Tribunal
+
+at the following address:
+
+General Regulatory Chamber
+HM Courts & Tribunals Service
+PO Box 9300
+
+Leicester
+
+LE1 8D)
+a)
+
+b)
+
+Information Commissioner’s Office
+
+The notice of appeal should be sent so it is received by the
+
+Tribunal within 28 days of the date of the notice.
+
+If your notice of appeal is late the Tribunal will not admit it
+unless the Tribunal has extended the time for complying with this
+
+rule,
+
+The notice of appeal should state: -
+
+a)
+
+b)
+
+C)
+
+d)
+
+€)
+
+f)
+
+g)
+
+h)
+
+your name and address/name and address of your representative
+
+(if any);
+
+an address where documents may be sent or delivered to you;
+
+the name and address of the Information Commissioner;
+
+details of the decision to which the proceedings relate;
+
+the result that you are seeking;
+
+the grounds on which you rely;
+
+you must provide with the notice of appeal a copy of the
+
+monetary penalty notice or variation notice;
+
+if you have exceeded the time limit mentioned above the notice
+of appeal must include a request for an extension of time and the
+
+reason why the notice of appeal was not provided in time.
+
+Before deciding whether or not to appeal you may wish to consult your
+
+solicitor or another adviser. At the hearing of an appeal a party may
+
+16
+Information Commissioner’s Office
+
+conduct his case himself or may be represented by any person whom
+
+he may appoint for that purpose.
+
+The statutory provisions concerning appeals to the First-tier Tribunal
+(Information Rights) are contained in section 55B(5) of, and Schedule
+6 to, the Data Protection Act 1998, and Tribunal Procedure (First-tier
+Tribunal) (General Regulatory Chamber) Rules 2009 (Statutory
+Instrument 2009 No. 1976 (L.20)).

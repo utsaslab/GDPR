@@ -1,0 +1,710 @@
+TO:
+
+Of:
+
+1CO.
+
+Information Conimissioner’s Office
+
+DATA PROTECTION ACT 1998
+
+SUPERVISORY POWERS OF THE INFORMATION COMMISSIONER
+
+MONETARY PENALTY NOTICE
+
+EE Limited
+
+Trident Place, Mosquito Way, Hatfield, Hertfordshire, ALLO 9BW
+
+The Information Commissioner (“Commissioner”) has decided to issue
+EE Limited with a monetary penalty under section 55A of the Data
+Protection Act 1998 (“DPA”). The penalty is in relation to a serious
+contravention of Regulation 22 of the Privacy and Electronic
+Communications (EC Directive) Regulations 2003 (“PECR”) by EE
+Limited.
+
+This notice explains the Commissioner’s decision.
+
+Legal framework
+
+EE Limited, whose registered office is given above (Companies House
+registration number: 02382161), is the person stated in this notice to
+have instigated the transmission of unsolicited communications by
+
+means of electronic mail to individual subscribers for the purposes of
+
+direct marketing contrary to regulation 22 of PECR.
+
+Regulation 22 of PECR states:
+oS
+
+1cO.
+
+Information Commissioner's Office
+“(1) This regulation applies to the transmission of unsolicited
+
+communications by means of electronic mail to _ individual
+
+subscribers.
+
+(2) Except in the circumstances referred to in paragraph (3), a person
+shall neither transmit, nor instigate the transmission of, unsolicited
+communications for the purposes of direct marketing by means of
+electronic mail unless the recipient of the electronic mail has
+previously notified the sender that he consents for the time being
+to such communications being sent by, or at the instigation of, the
+
+sender.
+
+(3) A person may send or instigate the sending of electronic mail for
+
+the purposes of direct marketing where—
+
+(a) that person has obtained the contact details of the recipient
+of that electronic mail in the course of the sale or
+negotiations for the sale of a product or service to that
+
+recipient;
+
+(b) the direct marketing is in respect of that person’s similar
+
+products and services only; and
+
+(c) the recipient has been given a simple means of refusing
+(free of charge except for the costs of the transmission of
+the refusal) the use of his contact details for the purposes
+of such direct marketing, at the time that the details were
+initially collected, and, where he did not initially refuse the
+use of the details, at the time of each subsequent
+
+communication.
+
+(4) A subscriber shall not permit his line to be used in contravention of
+
+paragraph (2).”
+i)
+1C O oS
+Information Commissioner's Office
+Section 11(3) of the DPA defines “direct marketing” as “the
+communication (by whatever means) of any advertising or marketing
+
+material which is directed to particular individuals”. This definition also
+
+applies for the purposes of PECR (see regulation 2(2)).
+
+“Electronic mail’ is defined in regulation 2(1) PECR as “any text, voice,
+sound or image message sent over a public electronic communications
+network which can be stored in the network or in the recipient’s
+terminal equipment until it is collected by the recipient and includes
+
+messages sent using a short message service”.
+
+The term “soft opt-in” is used to describe the rule set out in in
+Regulation 22(3) of PECR. In essence, an organisation may be able to
+e-mail its existing customers even if they haven’t specifically consented
+to electronic mail. The soft opt-in rule can only be relied upon by the
+
+organisation that collected the contact details.
+
+Section 55A of the DPA (as amended by the Privacy and Electronic
+Communications (EC Directive)(Amendment) Regulations 2011 and the
+Privacy and Electronic Communications (EC Directive) (Amendment)
+
+Regulations 2015) states:
+
+“(1) The Commissioner may serve a person with a monetary penalty if
+
+the Commissioner is satisfied that —
+
+(a) there has been a serious contravention of the requirements
+of the Privacy and Electronic Communications (EC
+
+Directive) Regulations 2003 by the person, and
+(b) subsection (2) or (3) applies.
+(2) This subsection applies if the contravention was deliberate.
+
+(3) This subsection applies if the person -
+10.
+
+11.
+
+12.
+
+13,
+
+Information Commissioner's Office
+
+(a) knew or ought to have known that there was a risk that
+
+the contravention would occur, but
+
+(b) failed to take reasonable steps to prevent the
+
+contravention.”
+
+The Commissioner has issued statutory guidance under section 55C (1)
+of the DPA about the issuing of monetary penalties that has been
+published on the ICO’s website. The Data Protection (Monetary
+Penalties) (Maximum Penalty and Notices) Regulations 2010 prescribe
+that the amount of any penalty determined by the Commissioner must
+not exceed £500,000.
+
+PECR implements European legislation (Directive 2002/58/EC) aimed at
+the protection of the individual’s fundamental right to privacy in the
+electronic communications sector. PECR was amended for the purpose
+of giving effect to Directive 2009/136/EC which amended and
+strengthened the 2002 provisions. The Commissioner approaches PECR
+
+so as to give effect to the Directives.
+
+The provisions of the DPA remain in force for the purposes of PECR
+notwithstanding the introduction of the Data Protection Act 2018 (see
+paragraph 58(1) of Part 9, Schedule 20 of that Act).
+
+Background to the case
+
+EE Limited is one of the UK’s largest digital communications
+
+companies.
+
+On 12 March 2018 EE Limited sent a direct marketing text message to
+
+an individual as follows:
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+oO
+] C O a)
+Information Commissioner's Office
+“My EE: Get Active! Not long now, X! You'll soon be able to switch up
+your routine by upgrading your Apple Iphone 6s. You can countdown
+the days to your upgrade with the My EE app. Just like the My EE
+website, it lets you view your bill, check your refresh data and usage.
+
+Stay active on the go and log in http://discover.ee.co.uk/A6r4j3n7
+today.”
+
+Following receipt of the message the individual made a complaint to
+the Commissioner explaining that they had previously opted out of
+marketing messages from EE Limited. The Commissioner wrote to EE
+Limited on 19 March 2018, providing details of the complaint made. EE
+Limited were warned that the Commissioner could issue civil monetary
+penalties of up to £500,000 for PECR breaches.
+
+EE Limited were informed that it was the Commissioner’s view that
+organisations cannot send marketing messages to an individual to
+promote a product or service if that individual has opted out of
+receiving such direct marketing messages. To include a marketing
+
+message within a service message is also prohibited.
+
+EE Limited advised that it had sent 16,620,416 “Get Active” messages
+to its customers between 17 February 2018 and 25 March 2018.
+However, EE Limited indicated that whilst this number of direct
+marketing messages was attempted only 14,544,582 were successfully
+
+received.
+
+EE Limited explained that they felt this constituted a service message
+and was therefore outside of the remit of the rules regarding direct
+
+marketing.
+
+The “Get Active” messages had been sent in two batches. The second
+
+batch were sent to customers who did not interact with, use or
+19;
+
+20.
+
+21.
+
+Lids
+
+23.
+
+@
+1c O.
+Information Commissioner's Office
+download the My EE application following the initial message. A revised
+
+version of the initial message were sent in the second batch as
+
+follows:
+
+“Mr EE: Get Active! Want to flex your data muscles this month, first
+name. ? Use the My EE app to see how much data you have left, check
+when your refresh date is, manage your bill and much more. Get active
+on My EE and log in <URL> today.”
+
+Between 17 February 2018 and 1 March 2018, a total number of
+8,183,881 messages were sent. Of that number, 1,515,990 individuals
+had previously opted out of receiving marketing messages via text
+
+message.
+
+Between 14 March 2018 and 25 March 2018 a second batch of
+messages were sent totalling 8,436,535. Of that number, 1,210,440
+individuals had previously opted out of receiving marketing messages
+
+via text message.
+
+Of the total 2,726,430 messages sent to individuals who had previously
+opted out of receiving direct marketing, 2,590,456 were successfully
+received. Of these messages, 775,015 individuals received a message
+
+in each batch.
+
+EE Limited was consequently unable to evidence that the individuals to
+whom direct marketing messages had been sent had consented to
+
+receipt of the messages.
+
+The Commissioner has made the above findings of fact on the
+
+balance of probabilities.
+24.
+
+256
+
+26.
+
+2/7.
+
+28.
+
+Z9,,
+
+30.
+
+oO
+1C O UO
+Information Commissioner's Office
+The Commissioner has considered whether those facts constitute
+
+a contravention of regulation 22 of PECR by EE Limited and, if so,
+whether the conditions of section 55A DPA are satisfied.
+
+The contravention
+
+The Commissioner finds that EE Limited has contravened regulation 22
+of PECR.
+
+The Commissioner finds that the contravention was as follows:
+
+Between 17 February 2018 and 25 March 2018, EE Limited instigated
+the transmission of 2,590,456 unsolicited communications by means of
+electronic mail to individual subscribers for the purposes of direct
+
+marketing contrary to regulation 22 of PECR.
+
+As the instigator of these messages, it was the responsibility of EE
+
+Limited to ensure that sufficient consent had been acquired.
+
+“Consent” within the meaning of regulation 22(2) requires that the
+recipient of the electronic mail has notified the sender that he consents
+
+to messages being sent by, or at the instigation of, that sender.
+
+In this case the Commissioner is satisfied that EE Limited did not have
+the consent, within the meaning of regulation 22(2), of the 2,590,456
+subscribers to whom it had instigated the sending of unsolicited direct
+
+marketing messages.
+
+The Commissioner is satisfied that EE Limited was responsible for this
+
+contravention.
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+36.
+
+Information Commissioner's Office
+
+The Commissioner has gone on to consider whether the conditions
+
+under section 55A DPA were met.
+Seriousness of the contravention
+
+The Commissioner is satisfied that the contravention identified
+above was serious. This is because between 17 February 2018 and 25
+March 2018 EE Limited sent a total of 2,590,456 direct marketing
+
+messages to subscribers without their consent.
+
+EE Limited were aware that the messages were being sent to
+individuals who, according to their records, had previously indicated
+
+that they did not consent to receive direct marketing.
+
+In addition, EE Limited also instigated the sending of a further 135,974
+marketing messages. Although these were not received by individuals,
+it evidences an attempt to send large volumes of marketing messages
+
+to individuals without consent to do so.
+
+The Commissioner is therefore satisfied that condition (a) from
+section 55A(1) DPA is met.
+
+Deliberate or negligent contraventions
+
+The Commissioner has considered whether the contravention identified
+above was deliberate. In the Commissioner’s view, this means that EE
+Limited’s actions which constituted that contravention were deliberate
+actions (even if EE Limited did not actually intend thereby to
+contravene PECR). It is not necessary for EE Limited to have Known
+
+that they were breaking the law for the contravention to be considered
+37.
+
+38.
+
+35:
+
+40.
+
+41.
+
+1CO.
+
+Information Commissioner's Office
+
+deliberate.
+
+The Commissioner considers that in this case EE Limited did
+
+deliberately contravene regulation 22 of PECR.
+
+EE Limited were aware that the messages were being sent to
+individuals who, according to their records, had previously indicated
+that they did not consent to receive direct marketing. Individuals have
+a right to opt out of receiving direct marketing and as soon as they
+
+have clearly said they wish not to receive it organisations must stop.
+
+EE Limited had sufficient knowledge of the requirements under the DPA
+and PECR and were aware of the Commissioner’s direct marketing
+guidance. Whilst it was aware of these requirements, this did not
+prevent EE Limited from messaging customers who had explicitly opted
+
+out of receiving direct marketing.
+
+Furthermore, the Commissioner has published detailed guidance for
+those carrying out direct marketing explaining their legal obligations
+under PECR. This guidance explains the circumstances under which
+organisations are able to carry out marketing over the phone, by text,
+by e-mail, by post, or by fax. In particular it states that organisations
+can generally only send marketing messages to individuals if that
+person has specifically consented to receiving them from the sender.
+Individuals have a right to opt out of receiving marketing at any time.
+As soon as an individual says they don’t want the texts or emails, this
+will override any existing consent or soft opt-in under PECR and they
+
+must stop.
+
+The Commissioner's direct marketing guidance is clear that if a
+message includes any significant promotional material aimed at
+
+customers to buy extra products or services or to renew contracts that
+42.
+
+43.
+
+44.
+
+9
+1C QO.
+Information Commissioner's Office
+are coming to an end that message is no longer a service message. It
+instead crosses the threshold into marketing and will be subject to the
+Same rules as other electronic marketing messages. The guidance also
+stresses that organisations should keep clear records of what an
+individual has consented to, and when and how this consent was
+
+obtained, so that they can demonstrate compliance in the event of a
+
+complaint.
+
+The messages sent as part of the campaign were additionally designed
+to promote and encourage customers to access and use the My EE app.
+This in itself is promotional material. Whilst the app does offer a
+customer the option to perform service related tasks such as checking
+their monthly bills, it also offers customers the option to purchase new
+products, add data to their account and ‘countdown the days’ until their
+upgrade. The fact that EE Limited sent a second message to those who
+did not engage with the app, following receipt of the first message,
+further supports the Commissioner’s finding that these were marketing
+
+messages.
+
+In the circumstances, the Commissioner is satisfied that EE Limited
+failed to take reasonable steps to prevent the contraventions in this
+
+Case.
+
+The Commissioner is therefore satisfied that condition (b) from section
+55A (1) DPA is met.
+
+The Commissioner’s decision to impose a monetary penalty
+
+45.
+
+For the reasons explained above the Commissioner is satisfied that the
+conditions from section 55A(1)DPA have been met in this case. She is
+also satisfied that section 55A(3)DPA and the procedural rights under
+
+section 55B have been complied with.
+
+10
+46.
+
+47.
+
+48.
+
+49.
+
+1CO.
+
+Information Commissioner's Office
+
+The latter has included the issuing of a Notice of Intent dated 18 April
+
+2019 in which the Commissioner set out her preliminary thinking.
+
+The Commissioner has considered whether, in the circumstances she
+Should exercise her discretion so as to issue a monetary penalty. In
+reaching her final view, the Commissioner has taken into account
+representations made by EE Limited dated 14 May 2019 however there
+is nothing contained therein to dissuade the Commissioner from her
+preliminary view. In particular, the Commissioner has considered EE
+Limited’s representations that the text messages were service
+messages and not direct marketing. However, the Commissioner is
+satisfied that the messages include significant promotional material
+
+and were therefore sent for the purposes of direct marketing.
+
+The Commissioner’s underlying objective in imposing a monetary
+penalty notice is to promote compliance with PECR. The sending of
+unsolicited marketing text messages is a matter of significant public
+concern. A monetary penalty in this case should act as a general
+encouragement towards compliance with the law, or at least as a
+deterrent against non-compliance, on the part of all persons running
+businesses currently engaging in these practices. The issuing of a
+monetary penalty will reinforce the need for businesses to ensure that
+they only send marketing text messages to those who specifically
+
+consent to receiving such messages.
+
+The Commissioner is accordingly entitled to issue a monetary penalty
+
+in this case.
+90.
+
+SLs
+
+52.
+
+D3
+
+54.
+
+1CO.
+
+Information Commissioner's Office
+
+The amount of the penalty
+
+Taking into account all of the above, the Commissioner has decided
+that the amount of the penalty is £100,000 (One hundred thousand
+pounds)
+
+Conciusion
+
+The monetary penalty must be paid to the Commissioner’s office by
+BACS transfer or cheque by 23 July 2019 at the latest. The monetary
+penalty is not kept by the Commissioner but will be paid into the
+Consolidated Fund which is the Government’s general bank account at
+the Bank of England.
+
+If the Commissioner receives full payment of the monetary penalty by
+22 July 2019 the Commissioner will reduce the monetary penalty by
+20% to £80,000 (Eighty thousand pounds). However, you should
+be aware that the early payment discount is not available if you decide
+
+to exercise your right of appeal.
+
+There is a right of appeal to the First-tier Tribunal (Information Rights)
+
+against:
+
+(a) the imposition of the monetary penalty
+and/or;
+(b) the amount of the penalty specified in the monetary penalty
+
+notice.
+
+Any notice of appeal should be received by the Tribunal within 28 days
+
+of the date of this monetary penalty notice.
+55.
+
+56.
+
+ore
+
+1CO.
+
+Information Commissioner’s Office
+
+Information about appeals is set out in Annex 1.
+
+The Commissioner will not take action to enforce a monetary penalty
+
+unless:
+
+e the period specified within the notice within which a monetary
+penalty must be paid has expired and all or any of the monetary
+
+penalty has not been paid;
+
+e all relevant appeals against the monetary penalty notice and any
+
+variation of it have either been decided or withdrawn; and
+
+e the period for appealing against the monetary penalty and any
+
+variation of it has expired.
+
+In England, Wales and Northern Ireland, the monetary penalty is
+recoverable by Order of the County Court or the High Court. In
+Scotland, the monetary penalty can be enforced in the same manner
+as an extract registered decree arbitral bearing a warrant for execution
+
+issued by the sheriff court of any sheriffdom in Scotland.
+
+Dated the 20' day of June 2019
+
+ 
+
+Andrew White
+
+Director
+
+Information Commissioner’s Office
+Wycliffe House
+
+Water Lane
+
+Wilmslow
+
+Cheshire
+
+SK9 5AF
+
+13
+ANNEX 1
+
+1CO.
+
+Information Commissioner's Office
+
+SECTION 55 A-E OF THE DATA PROTECTION ACT 1998
+
+RIGHTS OF APPEAL AGAINST DECISIONS OF THE COMMISSIONER
+
+1, Section 48 of the Data Protection Act 1998 gives any person upon
+whom a monetary penalty notice or variation notice has been served a
+right of appeal to the First-tier Tribunal (Information Rights) (the
+‘Tribunal’) against the notice.
+
+2. If you decide to appeal and if the Tribunal considers: -
+
+a)
+
+b)
+
+that the notice against which the appeal is brought is not in
+accordance with the law; or
+
+to the extent that the notice involved an exercise of discretion by
+the Commissioner, that she ought to have exercised her
+discretion differently,
+
+the Tribunal will allow the appeal or substitute such other decision as
+could have been made by the Commissioner. In any other case the
+Tribunal will dismiss the appeal.
+
+cr You may bring an appeal by serving a notice of appeal on the Tribunal
+at the following address:
+
+a)
+
+GRC & GRP Tribunals
+PO Box 9300
+Arnhem House
+
+31 Waterloo Way
+Leicester
+
+LE1 8D)
+
+The notice of appeal should be sent so it is received by the
+Tribunal within 28 days of the date of the notice.
+o
+
+1C O.
+
+Information Commissioner's Office
+b) If your notice of appeal is late the Tribunal will not admit it
+
+unless the Tribunal has extended the time for complying with this
+rule,
+
+The notice of appeal should state:-
+
+a) your name and address/name and address of your representative
+(if any);
+
+b) an address where documents may be sent or delivered to you;
+Cc) the name and address of the Information Commissioner;
+
+d) details of the decision to which the proceedings relate;
+
+e) the result that you are seeking;
+
+f) the grounds on which you rely;
+
+g) you must provide with the notice of appeal a copy of the
+monetary penalty notice or variation notice;
+
+h) if you have exceeded the time limit mentioned above the notice
+of appeal must include a request for an extension of time and the
+reason why the notice of appeal was not provided in time.
+
+Before deciding whether or not to appeal you may wish to consult your
+solicitor or another adviser. At the hearing of an appeal a party may
+conduct his case himself or may be represented by any person whom
+he may appoint for that purpose.
+
+The statutory provisions concerning appeals to the First-tier Tribunal
+(General Regulatory Chamber) are contained in sections 48 and 49 of,
+and Schedule 6 to, the Data Protection Act 1998, and Tribunal
+Procedure (First-tier Tribunal) (General Regulatory Chamber) Rules
+2009 (Statutory Instrument 2009 No. 1976 (L.20)).
