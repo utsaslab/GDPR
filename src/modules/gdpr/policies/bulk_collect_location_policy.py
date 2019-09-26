@@ -1,7 +1,7 @@
 import os
 
 PROJECT_NAME = 'GDPR'
-VALID_LOCATION = PROJECT_NAME + '/src/data'
+VALID_LOCATION = PROJECT_NAME + '/data'
 DELIMITER = os.sep
 
 def is_allowed(location):
