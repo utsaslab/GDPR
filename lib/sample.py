@@ -1,4 +1,4 @@
-from modules.gdpr import GDPR
+from gdpr import GDPR
 
 from modules.gdpr.services.pdf_to_text_service import pdf_to_text_service
 from modules.gdpr.services.filename_from_path_service import filename_from_path_service
