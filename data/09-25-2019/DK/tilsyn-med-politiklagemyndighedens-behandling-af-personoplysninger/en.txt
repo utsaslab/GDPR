@@ -1,0 +1,240 @@
+
+Supervision of the Data Protection Authority's processing of personal data
+Published 12-07-2019
+Decision
+Public authorities
+Summary
+The Independent Police Complaints Authority was among the authorities selected by the Data Protection Authority in 2018 for supervision under the Law Enforcement Act - a law on law enforcement authorities' processing of personal data. In particular, the audit focused on the rights of the data subjects, which are found in section 3 of the Law Enforcement Act.
+From the Authority's concluding opinion on the basis of the audit, it appears, inter alia, that the Independent Police Legislative Authority, in the opinion of the Authority, has not fully complied with the requirements of section 13 (1) of the Law Enforcement Act. 1., to make information available to the data subject.
+Under the supervision, questions also arose as to whether 1) notification of notified police officers in specific criminal cases with the Independent Police Legislature and 2) responding to requests for access to criminal case material and judicial decisions will be made under the Law Enforcement Act or the Judicial Code. The Data Inspectorate found that in both situations, this would have to be done immediately in accordance with the rules of the Administration of Justice Act. However, the Data Inspectorate stated at the same time that the interaction between the Law Enforcement Act and the Administration of Justice Act is not entirely clear, which is why the Authority will engage in dialogue with the Ministry of Justice.
+Decision
+At the request of the Data Inspectorate, in the autumn of 2018, in connection with the audit visit, the Independent Police Complaints Authority completed a questionnaire and submitted this along with additional material to the audit. The audit visit took place on October 30, 2018.
+Following the supervision of the Independent Police Liaison Authority, the Data Inspectorate finds a summary to conclude:
+
+
+That the Independent Police Law Enforcement Authority has not sufficiently complied with the requirements of section 13 (1) of the Law Enforcement Act. 1 (disclosure obligation).
+
+
+That notification of notified police officers in specific criminal cases with the Independent Police Legislature should be done immediately in accordance with the rules of the Administration of Justice Act and thus not section 13 (1) of the Law Enforcement Act. 2nd
+
+
+That requests for access, in which the right of access is regulated by the rules of the Danish Code of Procedure on access to the material in criminal proceedings and about access to judicial decisions, must immediately be answered in accordance with the rules of the Danish Code of Procedure and thus not section 15 of the Law Enforcement Act.
+
+
+That the Independent Police Complaints Authority has not received any requests for rectification, deletion and restriction of treatment under section 17 of the Law Enforcement Act.
+
+
+That the interaction between the Law Enforcement Act and the Administration of Justice Act is not entirely clear why the Data Protection Authority has therefore decided to enter into dialogue with the Ministry of Justice around this.
+
+
+Overall, the Data Inspectorate finds reason to criticize the fact that the Independent Police Legislature has failed to comply with the requirements of the Law Enforcement Act in relation to paragraph 1.
+In this connection, the Independent Police Legislature is required to submit a statement of what steps have been taken or will be taken to ensure that the Political Legislature in future complies with the Law Enforcement Act in relation to the above-mentioned disclosure requirement. The report must reach the Data Inspectorate by 16 August 2019 at the latest
+A more detailed review of the Authority's conclusions follows below.
+1. Obligation to provide information
+1.1. The duty to provide information under section 13 (1) of the Law Enforcement Act. 1
+Section 13 (1) of the Law Enforcement Act. 1, requires the data controller to provide a number of information to the data subject.
+This is the following information:
+
+
+Identity and contact information of the data controller.
+
+
+Contact information for the data protection advisor and information on its function in relation to the data subjects.
+
+
+The purposes of the processing for which the personal data is to be used.
+
+
+The right to file a complaint with a supervisory authority and contact information for the supervisory authority.
+
+
+The rights of the data subject pursuant to Chapters 5 and 6 of the Act.
+
+
+The right to have the competent supervisory authority exercise the data subject's rights in relation to the decisions of the competent authorities regarding omission, deferral, restriction or refusal pursuant to chapters 4-6, cf. section 40 (2) of the Act. 1, No. 10.
+For example, the Independent Political Protection Authority has submitted a text on the Authority's processing of personal data in criminal cases, which was publicly available on www.politiklagemyndheden.dk at the time of the audit visit.
+In addition, the Political Protection Authority has sent a copy of the authority's autoresponder, which is automatically sent to persons who send an email to the authority's main mail. The auto answer includes a link to the published text on the processing of personal data in criminal proceedings by the Swedish National Police Authority.
+Finally, the Independent Police Complaints Office has sent three anonymous receipt letters in criminal cases, including has been linked to the published text on the processing of personal data in criminal proceedings by the Swedish National Police Authority.
+The published text contains the information required by section 13 (1) of the Act. 1, Nos. 1-5.
+However, the text does not contain the required information on the data subject's right to have the competent supervisory authority exercise the data subject's rights, cf. section 13 (1) of the Law Enforcement Act. 1, no. 6. Against this background, the Data Inspectorate finds a basis for pronouncing criticism.
+In addition, in the text, the Political Protection Authority has listed some of the information that the authority is obliged to provide in a request for access, cf. section 15 (1) of the Law Enforcement Act. 2. In connection with the listing, the police authority has not made it clear that the listing does not deal with all the information that must be provided in accordance with section 15 (3) of the Act. 2nd
+It is not a requirement under section 13 (1) of the Law Enforcement Act. 1, that the data controller provides the information to be provided in a request for access pursuant to section 15 of the Law Enforcement Act.
+If the controller chooses to list the information that must be provided in accordance with section 15 (1) of the Law Enforcement Act. 2, the data controller should either provide all the information mentioned in the provision or clarify that the listing is merely an extract of the information to be provided.
+1.2. The duty to provide information under section 13 (1) of the Law Enforcement Act. 2
+Section 13 (1) of the Law Enforcement Act. 2 requires that the data controller, when necessary for the data subject to be able to protect his interests, must, as a minimum, notify the data subject of the following:
+
+
+The legal basis for the treatment.
+
+
+The period during which the personal data will be stored or, if this is not possible, the criteria used to determine this period.
+
+
+The categories of potential recipients of personal data, including in third countries or international organizations.
+
+
+Additional information, if necessary, in particular if the personal data is collected without the knowledge of the data subject.
+
+
+By way of example, the Independent Police Legislature has referred to the same texts which the Authority has provided as examples in accordance with section 13 (1) of the Act. 1. In this connection, the Independent Police Complaints Office has stated that the authority has chosen to make a comprehensive communication containing both the information in section 13 (1) of the Law Enforcement Act. 1 and par. 2nd
+In addition, at the request of the Data Inspectorate, the police law enforcement agency sent two examples of a notification to a police official in accordance with section 13 (1) of the Law Enforcement Act. 2nd
+It is clear from the comments on the draft law on law enforcement authorities' processing of personal data [2] that section 13 (1) of the Act. 2 (contrary to section 13 (1)) requires the data controller to specifically notify the data subject. In addition, it is stated that notification must be made when necessary, taking into account the specific circumstances under which the information is processed, in order to ensure the data subject's fair treatment. On the other hand, it will not be necessary to inform the data subject if there is a context in which the processing of the data cannot lead to adverse legal effects on the data subject or if it must be clear from the context in which the data was collected. for the data subject what the information is to be used for, e.g. a person who, for the purposes of a specific investigation, gives an explanation to the police.
+The Independent Police Complaints Authority cannot fulfill the obligation in section 13 (1) of the Law Enforcement Act. 2, by having a general text of this on the authority's website. The same applies to an autoresponder, which is sent to all persons who write to the authority's main mail, and which contains a link to the text of the Swedish National Police Authority on the authority's website. Here the data subject - although this may have had a notice under section 13 (1) of the Act. 2 - could not reasonably discern that such a communication was for the person concerned.
+The three receipt letters were all sent to a reviewer, who was also wronged in the case. The Data Inspectorate's assessment that in these cases the Independent Police Liaison Authority is not required to give a specific notice under section 13 (1) of the Law Enforcement Act. 2, since in such cases a notification is not necessary for the data subject to take care of his interests.
+As regards the two examples of notification to a police official, it appears from these that the police officer is summoned to be reported to the Independent Police Legislative Authority and that the police officer is under no obligation to provide explanations. The police law enforcement agency has stated that, according to practice, a "notified" police officer has rights corresponding to a term.
+Article 18 of the Law Enforcement Directive [4] allows Member States to provide that the exercise of the rights referred to in Articles 13, 14 and 16 - ie. the duty of disclosure, the right of disclosure and the right of rectification, deletion and limitation of treatment - must be implemented in accordance with the national law of the Member States where the personal data is contained in a judicial decision or register or case file that is processed in criminal investigations and criminal proceedings.
+It is clear from preamble 49 that if personal data is processed during criminal investigation and criminal proceedings, Member States should be able to provide that the exercise of the right to information, access to and rectification or deletion of personal data and limitation of treatment must be carried out in accordance with national rules of procedure. .
+In Denmark, the legislature has chosen to regulate the issue in section 18 (1) of the Law Enforcement Act. 3, which provides that the rules of the Civil Procedure and Military Procedures Act on the right to information, access and rectification or deletion and restriction of processing of personal data in criminal proceedings apply in relation to rights under Title III of the Act.
+It is clear from the legal remarks to section 18 (1) of the Law Enforcement Act. 3 [5] that the proposed provision ensures that the duty of disclosure to the data subject as well as requests for access, rectification, deletion or limitation of the processing of personal data is handled in accordance with the rules of the Administration of Justice and the Military Procedures Act to the extent that the Administration of Justice and the military administration law contains rules on this.
+In addition, the legal remarks to section 13 (1) of the Law Enforcement Act are stated. 2 [6] that in the case of personal data contained in a specific criminal case of e.g. the police or the prosecutor's office or a court decision in a criminal case, the duty of disclosure must be carried out in accordance with the rules on notification in the Administration of Justice Act, cf. 3. This means that in these cases, the persons concerned are notified in accordance with the rules of the Code of Procedure. It can for example. be notified to the accused of the charge, cf. section 752, notification of encroachment on the secret of notification, cf. section 788, or notification of a search, cf. section 798.
+It is the opinion of the Data Inspectorate that section 18 (1) of the Law Enforcement Act. 3, and the comments thereto do not leave an unequivocal answer to the relationship between the Law Enforcement Act and the Judicial Code.
+However, the Danish Data Protection Agency's immediate assessment is that the Independent Police Liaison Office's notification of notified police officials, who in practice have rights corresponding to a term, will have to take place in accordance with the rules of the Administration of Justice Act and not the Law Enforcement Act.
+The Data Inspectorate does not supervise law enforcement compliance with the rules of the Code of Procedure.
+As none of the examples provided relate to situations in which the Independent Police Legislative Authority must notify under section 13 (1) of the Law Enforcement Act. 2, the Data Inspectorate has no comments on the submitted.
+Considering that section 18 (1) of the Act. 3, and the statutory remarks are not entirely clear in relation to the interaction between the Law Enforcement Act and the Judicial Act, the Data Inspectorate has decided in the autumn of 2018 with the rules of the Law Enforcement Act on registered rights, to engage in dialogue with the Ministry of Justice.
+However, the Data Inspectorate should note that in cases where the Independent Police Liaison Authority is obliged to give a notification under section 13 (1) of the Act. 2, of course, the authority must ensure that the notification meets the requirements, and the notification must clearly state what the purpose of the notification is. This should include: can be seen in light of the fact that, at the inspection visit, the Police Liaison Office stated that the authority is of the opinion that the authority complies with section 13 (1) of the Law Enforcement Act. 2, for example, that all the authority templates for letters etc. contains information on the processing of personal data with a link to the website of the Swedish National Police Administration.
+1.3. Postponement, restriction or omission of notice under section 14 (1) of the Law Enforcement Act. 1
+This is stated in section 14 (1) of the Law Enforcement Act. 1, that notice pursuant to section 13 (1). (2) may be deferred, restricted or omitted if the data subject's interest in knowing the information is found to be necessary in order to:
+
+
+avoid obstructing official or judicial investigations, investigations or procedures,
+
+
+avoid damaging the prevention, detection, investigation or prosecution of criminal offenses or the enforcement of criminal penalties;
+
+
+protect public safety,
+
+
+protect state security or
+
+
+protect the data subject's or others' rights.
+
+
+The Independent Police Law Authority has stated that the authority has never applied section 14 (1). 1, to postpone, restrict or omit notification to registered citizens under section 13 (1). 2nd
+The Independent Police Complaints Authority stated in connection with the supervision that the authority has applied the provision to postpone notification to registered officers in some cases for the purpose of investigation, since in all cases it is not appropriate that the officer is aware that the authority has received a review. The police law enforcement agency has stated that in this case the officer will be notified when the officer is summoned in writing for questioning.
+In this connection, the Data Inspectorate must refer to the Supervisory Authority's comments on the interaction between the Law Enforcement Act and the Administration of Justice Act.
+ 2. The right of insight
+2.1. Message of insight
+The rules on the data subject's right of access are set out in Chapter 5 of the Law Enforcement Act.
+According to section 15 (1) of the Act. 1, the data subject has the right to obtain the data controller's confirmation as to whether personal data on the data subject is processed.
+If the data controller processes personal data about the data subject, the data controller must give the data subject access to the personal data and a communication with a number of information, cf. section 15 (1) of the Act. 2nd
+This is the following information:
+
+
+The aims and legal basis of the treatment.
+
+
+The categories of personal data concerned.
+
+
+The recipients or categories of recipients to whom the personal data have been disclosed, in particular recipients in third countries or international organizations.
+
+
+Where possible, the intended period of storage or, if this is not possible, the criteria used to determine that period.
+
+
+The right to request the data controller for rectification or deletion of personal data or restriction of processing concerning the data subject.
+
+
+The right to lodge a complaint with the supervisory authority and the contact details of the supervisory authority.
+
+
+What personal data is covered by the processing and any available information on where they originate.
+The Independent Police Complaints Authority has submitted two anonymized examples of response to a request for insight as well as a template for responding to a request for insight, including an appendix containing miscellaneous information.
+The policy making authority's template is prepared as a response to requests for insights under both the Data Protection Regulation and the Law Enforcement Act. The same applies to Example 1. Example 2 does not refer to which rule (s) the request was answered for.
+2.1.3. Example 1
+It is clear from the letter of objection that the Independent Police Legislature, inter alia, processes information about petitioner in conduct complaints, complaints about police dispositions and cases concerning access to documents. It appears from the case that the Data Protection Authority's processing of personal data on requests for access in these cases is covered by the rules of the Data Protection Regulation and not the Law Enforcement Act. As this supervision relates to the rules of the Law Enforcement Act, the Data Inspectorate has not assessed whether the reply of the Independent Police Liaison Authority complies with the rules of the Data Protection Regulation on access.
+In addition, the letter states that the Political Protection Authority processes information on requests for access in criminal cases, including (a) in cases where the authority has made a decision rejecting the notification, (b) in cases where the State Attorney has decided to halt the investigation and (c) in a pending criminal case.
+The Independent Police Legislature has stated that the Political Legislature has applied the Rules of Procedure Act in connection with the request and that the request for access has been / is being served. However, the police law enforcement agency has also submitted a request for access to a number of the information provided in section 15 (1) of the Law Enforcement Act. 2nd
+As mentioned, section 18 (1) of the Law Enforcement Act provides. 3, that the rules of the Judicial and Military Procedures Act on the right to information, access and rectification or deletion and restriction of the processing of personal data in criminal proceedings apply in relation to rights under section III of the Law Enforcement Act.
+As also mentioned above, it is clear from the comments to the Law Enforcement Act section 18 (2). 3 that the provision ensures that the duty of disclosure to the data subject as well as requests for access, rectification, deletion or limitation of the processing of personal data is handled in accordance with the rules of the Code of Justice and the Military Code of Law, to the extent that the Code of Justice and the Military Code of Law contain rules on this.
+In addition, it is clear from the statutory remarks to section 15 of the Law Enforcement Act that in the case of personal data contained in a specific criminal case, for example. the police or prosecutor's office or in a judicial decision in a criminal case, the right of access must also be implemented in accordance with the rules of the Code of Procedure on access to the material in criminal proceedings and on access to judicial decisions, cf. the proposed section 18 (2). 3. Insight requests must thus be decided in accordance with the rules of the Administration of Justice Act in Chapter 3 a on access to documents, inter alia. judgments and orders and in the documents in a criminal case, as well as §§ 729 a - d about the accused's access to the material in the criminal case. Regarding data subjects whose right of access is not regulated by the rules of the Administration of Justice Act, e.g. persons acting as bystanders in criminal proceedings, the rules of proposed Title III will apply.
+It is the opinion of the Data Inspectorate that section 18 (1) of the Law Enforcement Act. 3, and the comments thereto do not leave an unequivocal answer to the relationship between the Law Enforcement Act and the Judicial Code.
+However, the Data Inspectorate's immediate assessment is that the Independent Police Office's response to the request for insight in the specific case - where the right of access is regulated in the Rules of Procedure on access to the material in criminal cases and on access to judicial decisions - will have to be in accordance with the rules of the Judicial Code and not the Law Enforcement Act.
+The Data Inspectorate does not supervise law enforcement compliance with the rules of the Code of Procedure.
+As the example does not concern a situation in which the Independent Police Complaints Office has to respond to the request under section 15 of the Law Enforcement Act, the Data Inspectorate has no comments on it.
+Considering that section 18 (1) of the Act. 3, and the statutory remarks are not entirely clear in relation to the interaction between the Law Enforcement Act and the Judicial Act, the Data Inspectorate has decided in the autumn of 2018 with the rules of the Law Enforcement Act on registered rights, to engage in dialogue with the Ministry of Justice.
+2.1.4. Example 2
+It is clear from the letter of objection that the petitioner has a number of closed and pending cases with the Independent Police Complaints Office.
+It is also apparent from the case that the Data Protection Authority's processing of personal data on requests for access in all cases except one is covered by the rules of the Data Protection Regulation and not the Law Enforcement Act. As this oversight relates to the rules of the Law Enforcement Act, the Data Inspectorate has not assessed whether the response of the Political Protection Authority complies with the rules of the Data Protection Regulation on insight.
+The last case concerns a notification of a criminal offense, in which the Political Protection Authority has rejected the case, as there was no basis for initiating an investigation. The Political Authorities Authority has stated that the request for access is a notifier and wrong in the case, and that the Political Authorization Authority has processed the request for insight pursuant to section 41 d of the Administration of Justice Act.
+As the right of access in the specific case is regulated in Chapter 3a of the Code of Procedure - ie. in section 41 d of the Act - it is the Data Inspectorate's immediate assessment that the Independent Political Authorities' response to the request for insight will have to be in accordance with the rules of the Administration of Justice Act and not the Law Enforcement Act.
+The Data Inspectorate does not supervise law enforcement compliance with the rules of the Code of Procedure.
+As the example does not concern cases in which the Independent Police Complaints Office has to respond to the request under section 15 of the Law Enforcement Act, the Data Inspectorate has no comments on it.
+2.1.5 Template with Appendices
+The template is drawn up in accordance with both the Data Protection Regulation and the Law Enforcement Act. In addition, the template also includes insight into criminal cases, where the request for insight will potentially have to be carried out in accordance with the rules of the Code of Procedure, cf. above.
+The Data Inspectorate has only assessed the template's compliance with the law enforcement law's rules on insight.
+A review of the template shows that the template contains the information required by section 15 (1) of the Law Enforcement Act. 2 (1) (in relation to the legal basis), 4, 5 and 6.
+In addition, the template includes the following information about the purposes, recipients and where the information originates:
+"Purpose
+We process your personal information for the following purposes:
+
+
+Handling of complaints in the conduct of police personnel.
+
+
+Investigation into criminal cases against police personnel.
+
+
+Investigation into cases where a person has died or has been seriously injured as a result of police intervention or while the person was in police custody.
+
+
+
+Case handling in access to file cases and outline complaints.
+
+[...]
+Disclosure of information
+We regularly disclose personal information to the National Police, the Prosecutor's Office, the Ministry of Justice and other relevant authorities. The disclosure is made when it is necessary for our ordinary tasks, including if required by law, that we must disclose the information.
+We also pass on information to private players, e.g. lawyers and doctors, and in isolated cases foreign organizations and authorities.
+[...]
+Where your personal information comes from
+The information about you - in addition to the information you have provided yourself - comes from the National Police and the police district where you are employed, as well as from lawyers and other private individuals. "
+It is the opinion of the Danish Data Protection Agency that the three sections are described in general terms. It is the opinion of the Data Inspectorate that, as far as possible, the Swedish Data Protection Agency will have to provide information about the specific recipients and provide specific information about where the information originates. In addition, the authority will have to relate to and describe the purpose (s) of the specific cases involving the request for insight, and thus not just list all cases that the authority deals with and the purposes thereof.
+The template does not contain information about the personal data covered by the processing (section 15 (2), point 7, first indent), nor does the template contain information about the categories of personal data concerned (section 15 (2), no. 2).
+Of course, the Data Inspectorate is aware that this information will vary on a case-by-case basis. However, the template should be designed in such a way that the employees of the Political Protection Authority are aware that they must add information about this when answering a request for insight.
+2.2. Suspension, restriction or refusal of access under section 16 of the Law Enforcement Act
+It follows from section 16 (1) of the Law Enforcement Act. 1 that the data controller may postpone, restrict or refuse to disclose insight if the data subject's interest in getting to know the information is found to depart from the public interest considerations mentioned in section 14 (2) of the Act. First
+A decision to postpone, limit or refuse the data of the data subject shall be notified to the data subject in writing and shall be accompanied by a statement of reasons and a complaint, and shall include information on the data subject's right to exercise the rights of the data subject by the competent supervisory authority. section 40 (2) of the Act. 10. This follows from section 16 (1) of the Law Enforcement Act. 2nd
+The Independent Police Legislature has stated that section 16 (1) of the Law Enforcement Act. 1, has not yet been used to deny access under section 15 of the Act.
+3. Right to rectification, deletion and restriction of treatment under section 17 of the Law Enforcement Act
+The data subject's right to rectification, deletion and restriction of treatment is set out in Chapter 6 of the Law Enforcement Act.
+It follows from section 17 (1) of the Law Enforcement Act. 1 that the data controller must correct any information which proves to be incorrect. In addition, it is stated in the same provision that the data controller must similarly complete incomplete information if this can be done without jeopardizing the purpose of the processing. In addition, the data controller must provide correction of incorrect personal data to the competent authority from which the information originates.
+According to section 17 (1) of the Act. 2, at the request of the data subject, the data controller must delete information that has been processed in violation of the processing rules in Chapter 3 of the Act or if it is required to comply with a legal obligation to which the data controller is subject.
+It follows from section 17 (1) of the Act. 3, that the data controller, instead of deletion, should restrict the processing of personal data if 1) the accuracy of the personal data is disputed by the data subject and their accuracy or inaccuracy cannot be ascertained or 2) the personal data must be preserved as evidence. To the extent that a processing is limited, the data controller informs the data subject thereof before the restriction is lifted, cf. section 17 (1) of the Act. 4th
+If the data controller refuses a request for rectification, deletion or restriction of processing, this must be notified in writing to the data subject and must be accompanied by a statement of reasons and a complaint, and the decision must include information on the data subject's right to have the competent supervisory authority exercised by the data subject. rights in accordance with section 40 (2) of the Act. 10. This follows from section 17 (1) of the Act. 5th
+The police law enforcement agency has stated that the authority has not yet received requests for rectification or deletion, and the authority has not applied section 17 (1) of the Law Enforcement Act. 3 to restrict information processing instead of deletion.
+4. Procedures
+The policing authority has described the authority's procedures for dealing with the duty of disclosure, the right of access and the right to rectify, delete and limit treatment.
+The procedures described are very general, which is why the Data Inspectorate recommends that they be elaborated and written down so that the employees of the authority are dressed to make the ongoing assessments around this.
+5. Conclusion
+Following the supervision of the Independent Police Liaison Authority, the Data Inspectorate finds a summary to conclude:
+
+
+That the Independent Police Law Enforcement Authority has not sufficiently complied with the requirements of section 13 (1) of the Law Enforcement Act. 1 (disclosure obligation).
+
+
+That notification of notified police officers in specific criminal cases with the Independent Police Legislature should be done immediately in accordance with the rules of the Code of Procedure and thus not section 13 (1) of the Law Enforcement Act. 2nd
+
+
+That requests for access to the Independent Political Law Authority, in which the right of access is regulated by the rules of the Code of Procedure on access to the material in criminal cases and about access to judicial decisions, must immediately be answered in accordance with the rules of the Code of Procedure, and thus not section 15 of the Law Enforcement Act.
+
+
+That the Independent Police Complaints Authority has not received any requests for rectification, deletion and restriction of treatment under section 17 of the Law Enforcement Act.
+
+
+That the interaction between the Law Enforcement Act and the Administration of Justice Act is not entirely clear why the Data Protection Authority has therefore decided to enter into dialogue with the Ministry of Justice around this.
+
+
+Overall, the Data Inspectorate finds reason to criticize the fact that the Independent Police Legislature has failed to comply with the requirements of the Law Enforcement Act in relation to paragraph 1.
+In this connection, the Independent Police Legislature is required to submit a statement of what steps have been taken or will be taken to ensure that the Political Legislature in future complies with the Law Enforcement Act in relation to the above-mentioned disclosure requirement. The report must reach the Data Inspectorate by 16 August 2019 at the latest
+
+
+[1] Law No. 410 of April 27, 2017 on law enforcement agencies' processing of personal data with subsequent amendments.
+[2] Bill L 168 made on March 28, 2017, the special comments on section 13.
+[3] Executive Order No. 1284 of November 14, 2018, the Judicial Procedure Act
+[4] Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of individuals with regard to the processing of personal data by competent authorities for the purpose of the prevention, investigation, detection or prosecution of criminal offenses or the enforcement of criminal sanctions and on the free exchange of such information and on the repeal of Council Framework Decision 2008/977 / JHA.
+[5] Bill L 168 made on March 28, 2017, the special comments on section 18.
+[6] Bill L 168 made on March 28, 2017, the special comments on section 13.
+[7] Bill L 168 made on March 28, 2017, the special comments on section 15.

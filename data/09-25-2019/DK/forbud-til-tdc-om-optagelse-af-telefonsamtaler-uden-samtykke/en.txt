@@ -1,0 +1,48 @@
+
+Ban on TDC for recording telephone calls without consent
+Published 08-04-2019
+Decision
+Private companies
+The Data Inspectorate has granted TDC A / S a temporary ban on recording telephone calls for internal training purposes until a technical solution has been created which will enable the consent to be obtained in accordance with the data protection rules. Journal number: 2018-31-0977
+Summary
+The Data Inspectorate has processed a complaint in which a person complained about YouSee A / S 'recording of a telephone conversation he or she had with one of YouSee A / S' customer consultants, without the consent being given.
+On April 8, 2019, the Data Inspectorate decided on the case. In the opinion of the Data Inspectorate, there were no circumstances in relation to the specific case that could justify a departure from the Authority's long-standing practice that recording and storing telephone conversations for educational purposes as the clear starting point cannot be done without the consent of those who register information on , why the Authority voiced serious criticism.
+Based on TDC's response in the case, the Data Inspectorate has assumed that it is not technically possible at this stage to obtain the consent of the persons who register information regarding telephone calls. Therefore, the Data Inspectorate found a basis for granting TDC A / S a temporary ban on recording telephone calls for internal training purposes until a technical solution enabling consent in accordance with the data protection rules is obtained.
+Decision
+The Data Inspectorate hereby returns to the case, where [the Complainant] on November 5, 2018, contacted the Authority on YouSee A / S 'processing of information about him.
+According to CVR, YouSee A / S is a nickname for TDC A / S and thus the same legal entity. YouSee A / S is henceforth referred to as TDC A / S.
+1. Decision
+After a review of the case, the Data Inspectorate finds that there is a basis for making serious criticism that TDC A / S 'processing of personal data on complaints has not occurred in accordance with the rules of Article 6 (1) of the Data Protection Regulation. First
+2. Prohibition
+The Data Inspectorate temporarily prohibits TDC A / S from recording telephone calls for internal training purposes until a technical solution enabling consent to be obtained in accordance with the data protection rules is provided. The prohibition is notified pursuant to Article 58 (2) of the Data Protection Regulation. 2 (f).
+The announced prohibition means that within two weeks from today, TDC A / S must stop recording telephone calls for internal training until a technical solution that allows obtaining consent in accordance with the data protection rules is obtained.
+TDC is requested to notify the Data Inspectorate of TDC's action by the announced ban by the same date.
+The Data Inspectorate points out that pursuant to section 41 (1) of the Data Protection Act [2]. Paragraph 2 (4) is punishable by failure to comply with a temporary or definitive restriction on processing granted by the Data Inspectorate pursuant to Article 58 (2) of the Regulation. 2 (f).
+Below is a detailed examination of the case and a justification for the Danish Data Protection Agency's decision and the prohibition announced.
+3. Case making
+It appears from the case that a telephone conversation that the complainant had with one of TDC's customer consultants was recorded, without the complainant's consent to the recording.
+Furthermore, it appears from the case that the recorded conversation has since been deleted.
+3.1. Complainant's comments
+The complainant has generally stated that he has been in contact with TDC's customer service, where he is met on the phone by the information that the call can be recorded for internal training. In that regard, complainants have stated that he did not consent to the admission and was also not asked for consent.
+Complainant further stated that when he spoke with the customer consultant, he first asked for the recording of the conversation to be turned off as he did not want information stored. The customer consultant stated that the recording could not be stopped.
+The complainant also stated that he was informed by telephone that the recording could be used to determine what the customer consultant had promised in the call should he later complain, ie. for documentation purposes and not for internal training use.
+Finally, the complainant states that TDC's processing of information (the recording) cannot be based on Article 6 (2) of the Data Protection Regulation. 1, point f.
+3.2. TDC A / S 'comments
+TDC A / S has generally stated that the company has processed information about complaints in the form of a recorded telephone conversation. The personal data on complaints were processed for internal training purposes on the basis of Article 6 (2) of the Personal Data Regulation. 1, point f.
+Furthermore, TDC submits that the company is of the opinion that it does not constitute sufficient consent from a customer that the customer chooses to continue a telephone conversation with a customer consultant after the customer has been informed that the telephone call will be recorded for internal training use. . Therefore, TDC has weighed in on the importance of continually being able to improve overall customer satisfaction with each customer's fundamental rights and freedoms.
+Finally, TDC argues that, although the personal data contained in a conversation between a customer and a customer consultant are scarcely in general, the recording of the telephone conversation could jeopardize the client's fundamental rights and freedoms, and a legal basis in the personal data regulation article 6 pieces. (1) (f), according to the wording of the Personal Data Regulation, constitutes as good a legal basis as consent under Article 6 (1). 1 (a), there is no doubt that it is the legislature's wish that consent be obtained as far as possible.
+With this in mind, as soon as a technical solution is in place, TDC intends to obtain a consent to record the telephone conversation when a customer calls a customer consultant.
+4. Justification for the Danish Data Protection Agency's decision and the prohibition announced
+The Data Inspectorate assumes that the telephone call was recorded without the complainant's consent.
+It is the opinion of the Data Protection Authority - just as it was the practice of the Supervisory Authority in accordance with the previous Personal Data Act [3] - that recording and storing telephone conversations for educational purposes should, as a starting point, be based on the consent of the persons who record information, in accordance with Article 6 of the Data Protection Regulation, PCS. 1, point a.
+It is thus the opinion of the Danish Data Protection Agency that recording and storing telephone conversations for educational purposes cannot, as a starting point, be possible without the consent of those who are registered with information.
+The Data Inspectorate cannot exclude the possibility that, in exceptional circumstances, there may be a legitimate interest which requires admission without consent and where processing can take place on the basis of the balancing rule in Article 6 (2) of the Data Protection Regulation. 1, point f.
+However, the Data Inspectorate finds that TDC has not stated such special circumstances that may justify recording and further processing the telephone call in question for internal training use without consent from complaints.
+Since the complainant did not consent to the recording in the specific case, the Data Inspectorate finds that TDC A / S 'recording of the telephone call in question did not comply with Article 6 (2) of the Data Protection Regulation. 1, which gives the Authority cause for serious criticism.
+In addition, the Data Inspectorate has understood TDC's response to the audit so that consent is not currently obtained for recording and storing telephone conversations for educational purposes, since it is not technically possible to obtain consent.
+Therefore, the Data Inspectorate finds that there is a basis for granting TDC A / S a temporary prohibition on recording telephone calls for internal training purposes until a technical solution that allows obtaining consent in accordance with the data protection rules is provided. The prohibition is notified pursuant to Article 58 (2) of the Data Protection Regulation. 2 (f).
+The announced prohibition means that within two weeks from today, TDC A / S must stop recording telephone calls for internal training until a technical solution that allows obtaining consent in accordance with the data protection rules is obtained.
+
+[1] Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of individuals with regard to the processing of personal data and on the free movement of such information and repealing Directive 95/46 / EC (general data protection regulation).
+[2] Act No 502 of 23 May 2018 on additional provisions for a regulation on the protection of individuals with regard to the processing of personal data and on the free exchange of such information (Data Protection Act).
+[3] Reference is made, inter alia, to to the Danish Data Protection Agency's opinion of 27 January 2004 (ref. 2002-215-0103), which is published on the Authority's website www.datatilsynet.dk under the section "Supervision and decisions" -> "Historical decisions".

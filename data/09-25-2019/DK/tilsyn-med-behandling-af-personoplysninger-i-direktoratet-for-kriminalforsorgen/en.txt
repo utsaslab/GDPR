@@ -1,0 +1,191 @@
+
+Supervision of processing of personal data in the Directorate of Prison and Probation
+Published 12-12-2018
+Decision
+Public authorities
+Based on an audit by the Directorate of Prison and Probation, the Data Inspectorate concludes, among other things, that no final decision was made on the distribution of data liability. 2018-421-0001
+Summary
+In April 2018, the Data Inspectorate carried out a planned audit at the Directorate of Criminal Justice, focusing on the rights of the data subjects, which are found in section 3 of the Law Enforcement Act.
+On the basis of the audit visit, the Data Inspectorate has concluded that at the time of the audit visit to the Prison and Probation Service, including in the Directorate of Prison and Probation, no final decision was made on the distribution of data responsibilities.
+In addition, the Data Inspectorate has concluded that the Directorate for Prison and Probation Services has not fully complied with the requirements for disclosure and notification.
+Decision
+At the request of the Data Inspectorate, the Directorate for Prison and Probation Services in the spring of 2018, in connection with the audit visit, completed a questionnaire and submitted this along with additional material to the audit. The audit visit took place on April 4, 2018.
+Following the supervision of the Directorate of Prison and Probation, the Data Inspectorate finds a reason to conclude:
+
+
+That, at the time of the supervision, no decision was taken on the distribution of data responsibility in the Prison and Probation Service, including in the Directorate of Prison and Probation.
+
+
+That the Directorate of Prison and Probation has not complied with the requirements of section 13 (1) of the Law Enforcement Act. 1 and 2 (disclosure requirements).
+
+
+That the Directorate of Criminal Justice has not complied with the requirements of section 15 (1) of the Law Enforcement Act. 2 (message of insight).
+
+
+In general, the Data Inspectorate finds serious criticism that the Directorate of Criminal Procedure has not complied with the requirements of the Law Enforcement Act in relation to the above points.
+On request from the Data Inspectorate, the Directorate of Prison and Probation on October 19, 2018 stated that no final decision has yet been made on the distribution of data responsibilities in the Prison and Probation Service.
+The Directorate of Prison and Probation must therefore, as soon as possible, make a final decision on the processing of personal data under the Law Enforcement Act, for which the Directorate of Prison and Probation is responsible for data.
+In this connection, the Directorate for Prison and Probation is required to send the Danish Data Protection Agency a report on the final distribution of data responsibility, including the distribution of data responsibility throughout the Prison and Probation Service. The information must reach the Data Inspectorate by 16 January 2019 at the latest.
+The Directorate of Prison and Probation is also requested to submit a report on what steps have been taken - or will be taken - to ensure that the Directorate in future complies with the Law Enforcement Act in accordance with sections 2 and 3 on the duty of disclosure and access to information. The report must also reach the Data Inspectorate by 16 January 2019 at the latest.
+A more detailed review of the Danish Data Protection Agency's conclusions follows below.
+1. Data liability in the Prison and Probation Service
+The Data Inspectorate notified its supervisory letter of warning dated February 19, 2018.
+In the letter, the Data Inspectorate had stated that the Authority assumed that the Directorate for Prison and Probation was responsible for the processing of personal data in the various institutions of the Prison and Probation Service, including prisons, detention centers, etc. and that the Directorate should contact the Authority as soon as possible and no later than 28 February 2018. .
+The Directorate for Prison and Probation did not contact the Data Inspectorate and sent a completed questionnaire with related material to the Authority.
+However, the responses received and the related material indicated that in the Prison and Probation Service there were several data controllers in relation to the processing of personal data on clients.
+During a subsequent actual supervised visit on April 4, 2018, the Directorate of Prison and Probation provided information that the structure for distributing data responsibilities in the Prison and Probation Service was not yet in place. In this connection, the Directorate stated that in particular the question of who is responsible for the data processing of personal data on clients that occurs in the individual institutions remains. During the audit visit, the Directorate of Prison and Probation provided information that the Directorate expected the construction of the distribution of data responsibilities to be in place before summer 2018.
+The submitted material was then reviewed, and the Directorate of Prison and Probation confirmed that the Directorate is responsible for the data processing described in the examples and templates submitted, except for one example, where the issue continued to exist. In this connection, the Data Inspectorate stated that the latter example would not be included in the Authority's supervision.
+At the request of the Data Inspectorate, the Directorate of Prison and Probation on October 19, 2018 - as mentioned - stated that no final decision has yet been made on the distribution of data in the Prison and Probation Service.
+The Data Inspectorate must note that the Authority finds it extremely worrying and far from satisfactory that no decision was taken at the time when the Prison Service visited the distribution of data responsibility, and that no final decision was made 6 months after the audit visit despite of the Directorate of Prison and Probation during the inspection visit stated that the Directorate expected the distribution to be in place before summer 2018.
+In connection with the audit, the Data Inspectorate has been able to find that the lack of position on data responsibility, among other things. has resulted in the Prison and Probation Service, including the Directorate of Prison and Probation, not being able to provide the correct data (s) identity (s) in various communications to the data subjects.
+2. Obligation to provide information
+2.1. The duty to provide information under section 13 (1) of the Law Enforcement Act. 1
+Section 13 (1) of the Law Enforcement Act. 1, requires the data controller to provide a number of information to the data subject.
+This is the following information:
+
+
+Identity and contact information of the data controller.
+
+
+Contact information for the data protection advisor and information on its function in relation to the data subjects.
+
+
+The purposes of the processing for which the personal data is to be used.
+
+
+The right to file a complaint with a supervisory authority and contact information for the supervisory authority.
+
+
+The rights of the data subject pursuant to Chapters 5 and 6 of the Act.
+
+
+The right to have the competent supervisory authority exercise the data subject's rights in relation to the decisions of the competent authorities regarding omission, deferral, restriction or refusal pursuant to chapters 4-6, cf. section 40 (2) of the Act. 1, No. 10.
+
+
+As an example, the Directorate of Prison and Probation has submitted a text that was publicly available on www.kriminalforsorgen.dk at the time of the supervision visit.
+2.1.1. Identity and contact information of the data controller
+The example presented shows that the "Prison and Probation Service" processes information about clients, relatives, visitors, witnesses and victims.
+During the audit visit, the Directorate referred to the outstanding data structure in the Prison and Probation Service.
+Due to the uncertainties regarding this, the Data Inspectorate cannot assess how the data liability structure should have been described in the example.
+However, it is the opinion of the Danish Data Protection Agency that - if there are more data controllers for the described processes - it must be clear from the example which authority is the data controller for which processing.
+2.1.2. Information on the rights of the data subject
+The example does not provide guidance on the data subject's right of restriction.
+In addition, the example shows that the data subject may have his information deleted if the information is not relevant to the execution of a penalty.
+The Data Inspectorate is of the opinion that the description of the right of deletion is misleading as it can give the data subject the opinion that he or she can request deletion to a more limited extent than is the case.
+2.1.3. The right to have the Danish Data Protection Agency exercise the rights of the data subject
+The example provided does not contain a description of the right to have the Danish Data Protection Agency exercise the rights of the data subject.
+2.1.4. Information not required by section 13 (1) of the Act. 1
+The example includes information that the data subject's information is processed in accordance with the rules of the Law Enforcement Act.
+Section 13 (1) of the Law Enforcement Act. 1, (contrary to section 13 (2)) does not require that the data controller in connection with his duty of disclosure must disclose the legal basis for the processing.
+If the data controller chooses to provide the information anyway, the data controller should disclose the correct legal basis.
+In the opinion of the Data Inspectorate, the law enforcement authorities' authority to process personal data must in principle be found elsewhere than in the Law Enforcement Act.
+The Directorate of Criminal Justice has stated that the correct legal basis is the Criminal Procedure Act, the Administration of Justice Act and also a number of other laws etc.
+2.1.5. Summary
+In the opinion of the Data Inspectorate, the example does not meet the requirements of section 13 (1) of the Law Enforcement Act. 1, Nos. 1, 5 and 6.
+2.2. The duty to provide information under section 13 (1) of the Law Enforcement Act. 2
+Section 13 (1) of the Law Enforcement Act. 2 requires that the data controller, when necessary for the data subject to be able to protect his interests, must, as a minimum, notify the data subject of the following:
+
+
+The legal basis for the treatment.
+
+
+The period during which the personal data will be stored or, if this is not possible, the criteria used to determine this period.
+
+
+The categories of potential recipients of personal data, including in third countries or international organizations.
+
+
+Additional information, if necessary, in particular if the personal data is collected without the knowledge of the data subject.
+
+
+
+The Directorate of Prison and Probation has submitted a template and three specific examples of a notice under section 13 (1) of the Law Enforcement Act. 2nd
+2.2.1. The legal basis for the treatment
+The template does not contain a description of the legal basis, and the three examples contain information that the data subject's information is processed in accordance with the rules of the Law Enforcement Act.
+It is thus the opinion of the Danish Data Protection Agency that the template submitted and the three examples do not contain information about the legal basis for the processing.
+2.2.2. Period of storage
+The three examples contain no description of the storage period or the criteria for determining the storage period.
+The template, on the other hand, shows that the data subject's behavior, etc. is assessed on an ongoing basis and the registration is canceled if, after a period, it is assessed that there is no cause for concern.
+In the opinion of the Data Inspectorate, the wording in the template does not meet the requirement in section 13 (1) of the Act. 2 (2), as the description of the criteria is not sufficiently accurate.
+2.2.3. The categories of recipients of the personal data
+The template shows that the information is shared with the info house located in the police district where the registered person lives. The template also shows that the info house is an interdisciplinary collaboration between municipalities, the police and the Prison and Probation Service.
+When asked about this, the Directorate of Prison and Probation has stated that the info house is not an independent recipient, but that this is a collaboration in which the municipalities, the police and possibly other institutions in the Prison and Probation Service receive the information.
+The Data Inspectorate is of the opinion that the description in the template on this is not sufficiently accurate, since it cannot be deduced from the description sufficiently that the recipients, among other things, are the municipalities and the police and thus not the info house.
+2.2.4. Information pursuant to section 13 (2). 1
+Section 13 (1) of the Law Enforcement Act. Paragraph 2 (contrary to section 13 (1)) relates to situations where the data controller must specifically notify the data subject in order to ensure the data subject's fair processing of the information.
+In the opinion of the Data Inspectorate, in cases where the data controller must specifically notify the data subject in accordance with section 13 (1) of the Act. 2, the data controller will also have to provide the information mentioned in section 13 (2) of the Act. 1, available to the data subject. It can for example. be done by enclosing a pamphlet with the information, by typing it into the message itself or by eg. to insert a direct link to the website address where the information appears.
+The "Prison Service" is listed as the data controller in the template and the three examples. If the Directorate of Prison and Probation is responsible for the data described, this will have to be stated in the texts submitted.
+In addition, the template does not contain contact information for the data protection advisor and information about its function in relation to the data subjects, and the template's description of the data subject's rights is written in accordance with the Personal Data Act and not the Law Enforcement Act.
+2.2.5. Summary
+In the opinion of the Data Inspectorate, the template does not comply with the requirements of section 13 (1) of the Law Enforcement Act. 2, paragraphs 1-3 and section 13 (2). 1, Nos. 1, 2 and 5.
+In addition, it is the opinion of the Data Inspectorate that the three examples do not comply with the requirements of section 13 (1) of the Law Enforcement Act. 2, § 1-2 and § 13 (2). 1, No. 1.
+3. The right of insight
+3.1. Message of insight
+The rules on the data subject's right of access are set out in Chapter 5 of the Law Enforcement Act.
+According to section 15 (1) of the Act. 1, the data subject has the right to obtain the data controller's confirmation as to whether personal data on the data subject is processed.
+If the data controller processes personal data about the data subject, the data controller must give the data subject access to the personal data and a communication with a number of information, cf. section 15 (1) of the Act. 2nd
+This is the following information:
+
+
+The aims and legal basis of the treatment.
+
+
+The categories of personal data concerned.
+
+
+The recipients or categories of recipients to whom the personal data have been disclosed, in particular recipients in third countries or international organizations.
+
+
+Where possible, the intended period of storage or, if this is not possible, the criteria used to determine that period.
+
+
+The right to request the data controller for rectification or deletion of personal data or restriction of processing concerning the data subject.
+
+
+The right to lodge a complaint with the supervisory authority and the contact details of the supervisory authority.
+
+
+What personal data is covered by the processing and any available information on where they originate.
+
+
+Prior to the audit visit, the Data Inspectorate had requested the Directorate of Prison and Probation to submit two examples of notification of insights.
+The Directorate of Prison and Probation only provided an example and justified this on the grounds that the Directorate had provided insights only in one case. To this end, the Directorate has stated that requests from data subjects most often relate to access to documents under the Public Administration Act.
+After reviewing the example submitted, the Data Inspectorate finds that the example does not contain information on the legal basis for processing (No 1), the categories of personal data concerned (No 2), and the intended period of storage or, if this is not possible. , the criteria used to determine this period (# 4). In addition, the example contains - as in the notice pursuant to section 13 (1) of the Act. 2 - an inaccurate description of what it means that the info house receives the data of the data subject (no. 3).
+In the example forwarded, the Directorate of Prison and Probation also advised the data subject that the Data Inspectorate can exercise the rights of the data subject.
+To this end, the Data Inspectorate must note that the data subject's right to have the Data Protection Authority exercise the data subject's rights in accordance with section 40 (2) of the Act. Paragraph 1 (10) does not apply when the data subject is given full insight, which (as stated) was the case here.
+Accordingly, it is the opinion of the Data Inspectorate that the example provided does not comply with the requirements of section 15 (1) of the Law Enforcement Act. 2, Nos. 1-4.
+3.2. Suspension, restriction or refusal of insight
+It follows from section 16 (1) of the Law Enforcement Act. 1 that the data controller may postpone, restrict or refuse to disclose insight if the data subject's interest in getting to know the information is found to depart from the public interest considerations mentioned in section 14 (2) of the Act. First
+A decision to postpone, limit or refuse the data of the data subject shall be notified to the data subject in writing and shall be accompanied by a statement of reasons and a complaint, and shall include information on the data subject's right to exercise the rights of the data subject by the competent supervisory authority. section 40 (2) of the Act. 10. This follows from section 16 (1) of the Law Enforcement Act. 2nd
+The Directorate for the Prison and Probation Service has stated that section 16 (1) of the Law Enforcement Act. 1, has been used to deny access under section 15 of the Act, and the Directorate has provided an example of such a decision.
+In the example forwarded, the Directorate of Prison and Probation pointed out that the data subject's interest in obtaining the information must give way to the public interest, cf. section 16 (1) of the Law Enforcement Act. 14, cf. 1 No. 2.
+It follows from section 14 (1) of the Law Enforcement Act. 1 (2) that the considerations which may justify a refusal of insight, e.g. is to avoid damaging the prevention, detection, investigation or prosecution of criminal offenses or the enforcement of criminal penalties.
+In the opinion of the Data Inspectorate, the example submitted complies with the requirements of section 16 (1) of the Law Enforcement Act. 2. However, the Data Inspectorate is of the opinion that the Directorate for Prison and Probation should have referred, which for the reasons in section 14 (1) of the Act. Paragraph 1 (2), which in the specific example justified the refusal of access, and the description of the right to have the Danish Data Protection Agency exercised the rights of the data subject could be clarified with advantage.
+4. Right to rectification, deletion and restriction of processing
+The data subject's right to rectification, deletion and restriction of treatment is set out in Chapter 6 of the Law Enforcement Act.
+It follows from section 17 (1) of the Law Enforcement Act. 1 that the data controller must correct any information which proves to be incorrect. In addition, it is stated in the same provision that the data controller must similarly complete incomplete information if this can be done without jeopardizing the purpose of the processing. In addition, the data controller must provide correction of incorrect personal data to the competent authority from which the information originates.
+According to section 17 (1) of the Act. 2, at the request of the data subject, the data controller must delete information that has been processed in violation of the processing rules in Chapter 3 of the Act or if it is required to comply with a legal obligation to which the data controller is subject.
+It follows from section 17 (1) of the Act. 3, that the data controller, instead of deletion, should restrict the processing of personal data if 1) the accuracy of the personal data is disputed by the data subject and their accuracy or inaccuracy cannot be ascertained or 2) the personal data must be preserved as evidence. To the extent that a processing is limited, the data controller informs the data subject thereof before the restriction is lifted, cf. section 17 (1) of the Act. 4th
+If the data controller refuses a request for rectification, deletion or restriction of processing, this must be notified in writing to the data subject and must be accompanied by a statement of reasons and a complaint, and the decision must include information on the data subject's right to have the competent supervisory authority exercised by the data subject. rights in accordance with section 40 (2) of the Act. 10. This follows from section 17 (1) of the Act. 5th
+The Directorate of Prison and Probation has stated that the Directorate has denied refusal and deletion and has submitted an example of a refusal and an example of a refusal of deletion.
+In the opinion of the Data Inspectorate, the two examples submitted comply with the requirements of section 17 (1) of the Law Enforcement Act. 5. However, it is the opinion of the Data Inspectorate that the description in the decision on the right to have the Data Protection Authority exercised the rights of the data subject could be clarified with advantage.
+5. Conclusion and future initiatives
+Following the supervision of the Directorate of Prison and Probation, the Data Inspectorate finds a reason to conclude:
+
+
+That, at the time of the supervision, no decision was taken on the distribution of data responsibility in the Prison and Probation Service, including in the Directorate of Prison and Probation.
+
+
+That the Directorate of Prison and Probation has not complied with the requirements of section 13 (1) of the Law Enforcement Act. 1 and 2 (disclosure requirements).
+
+
+That the Directorate of Criminal Justice has not complied with the requirements of section 15 (1) of the Law Enforcement Act. 2 (message of insight).
+
+
+In general, the Data Inspectorate finds serious criticism that the Directorate of Criminal Procedure has not complied with the requirements of the Law Enforcement Act in relation to the above points.
+On request from the Data Inspectorate, the Directorate of Prison and Probation on October 19, 2018 stated that no final decision has yet been made on the distribution of data responsibilities in the Prison and Probation Service.
+The Directorate of Prison and Probation must therefore, as soon as possible, make a final decision on the processing of personal data under the Law Enforcement Act, for which the Directorate of Prison and Probation is responsible for data.
+In this connection, the Directorate for Prison and Probation is required to send the Danish Data Protection Agency a report on the final distribution of data responsibility, including the distribution of data responsibility throughout the Prison and Probation Service. The information must reach the Data Inspectorate by 16 January 2019 at the latest.
+The Directorate of Prison and Probation is also requested to submit a report on what steps have been taken or will be taken to ensure that the Directorate in future complies with the Law Enforcement Act in accordance with paragraphs 2 and 3 on disclosure and access rights. The report must also reach the Data Inspectorate by 16 January 2019 at the latest.
+
+[1] Law No. 410 of April 27, 2017 on law enforcement agencies' processing of personal data with subsequent amendments.

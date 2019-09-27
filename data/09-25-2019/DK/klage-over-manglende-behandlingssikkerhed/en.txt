@@ -1,0 +1,36 @@
+
+Complaint about lack of security of treatment
+Published 10-04-2019
+Decision
+Public authorities
+Personal data recorded on paper for the purpose of being electronically registered in a medical record system immediately, in the opinion of the Authority, will be covered by the data protection rules already in the collection phase itself. Journal number: 2018-32-0288
+Summary
+The Data Inspectorate has dealt with a complaint in which a person complained that a caseworker in Køge Municipality processes personal data on physical paper in such a way that outsiders can access the information and that the caseworker throws physical papers with personal data into a regular bin.
+In the decision, the Data Inspectorate noted that it is the Authority's opinion that information collected (listed here on post its etc.) for the purpose of being electronically registered in a record keeping system will be covered by the data protection rules already in the "collection phase".
+In this connection, the Data Inspectorate has noted that Køge Municipality has stated that the municipality processes the information on physical paper, after which the information is immediately entered into the municipality's electronic case system.
+Against this background, the Data Inspectorate has assumed that the Data Protection Regulation applies in relation to the complaint.
+Decision
+The Data Inspectorate hereby returns to the case where you have addressed the audit regarding Køge Municipality's processing of information about you.
+The Data Inspectorate has understood your request as a complaint that a case manager at Køge Jobcenter processes personal information about you without the adequate security. processes information about you on physical paper in such a way that outsiders can access the information and the caseworker throws physical papers with information about you into a regular trash can.
+After a review of the case, the Data Inspectorate finds no reason to comment on Køge Municipality's processing of personal data.
+The following is a detailed examination of the case and a justification for the Danish Data Protection Agency's decision.
+1. Your comments
+You have stated that a caseworker in the Køge Jobcenter uses a notepad and Post-Its to write information about you and other citizens, including information about social security number, name, middle name, district and unemployment period information, so that the information is visible to outsiders.
+You have also stated that the caseworker in question throws physical papers with information about you out into a regular bin.
+Finally, you have stated in January 2018 that you have requested that the caseworker process information about you in the same way, and that you have contacted Køge Municipality's DPO.
+2. Køge Municipality's comments
+Køge Municipality has stated that it is common for job consultants / caseworkers to make their own notes on paper during a consultative interview, rather than directly in the on-screen case system.
+The reason is, according to Køge Municipality, that the meeting must take place in a present and trust-based atmosphere and that it will not be fulfilled if the contact's contact is interrupted continuously by enrollment in the case system.
+Køge Municipality also states that outsiders cannot access the said information and that the information - if these are not entered immediately after a conversation - is stored in lockable lockers in the office where the keys are not visible until they are entered in the case system.
+Finally, Køge Municipality has stated that paper notes from conversations at the end of the working day according to the regulations are placed in a joint locked paper container with paper for destruction / shredding and that the papers are not disposed of in a regular trash.
+3. The Authority's decision
+3.1. The Data Protection Regulation applies in accordance with Article 2 (2) of the Regulation. 1, for the processing of personal data which is wholly or partially processed by means of automatic data processing, and on other non-automatic processing of personal data which is or will be contained in a register.
+It is the opinion of the Danish Data Protection Agency that information collected (listed here on post its etc.) for the purpose of being electronically registered in a medical record system immediately will be covered by the data protection rules already in the "collection phase" itself.
+In this connection, the Data Inspectorate has noted that the Municipality of Køge has stated that the municipality processes information about you on physical paper, after which the information is immediately entered into the municipality's electronic case system.
+The Data Protection Authority therefore assumes that the Data Protection Regulation applies in relation to your complaint.
+3.2. Article 32 (2) of the Data Protection Regulation Paragraph 1 states that, taking into account the current technical level, the cost of implementation and the nature, scope, coherence and purpose of the processing, and the risks of varying probabilities and seriousness of the rights and freedoms of natural persons, the data controller undertakes appropriate technical and organizational measures to: ensure a level of security appropriate to these risks.
+In Article 32 (2) of the Regulation. Paragraph 1 (a) to (d) lists measures which may be relevant to use in security contexts, including in particular: pseudonymization and encryption of personal data as well as the ability to ensure lasting confidentiality, integrity, accessibility and robustness of processing systems and services.
+The provision of Article 32 (1) of the Data Protection Regulation. Thus, Article 1 (1) contains an obligation on the data controller to protect both sensitive information and confidential and ordinary non-sensitive information, and the data controller must ensure that the data controller's systems, organization and workflows are arranged so that the requirements of Article 32 (1) apply. 1, is complied with.
+3.3. After a review of the case, the Data Inspectorate finds no basis for concluding that the Municipality of Køge has acted in contravention of the rules on processing security in Article 32 of the Data Protection Regulation.
+In this connection, the Data Inspectorate has emphasized the fact that Køge Municipality states that the notes are kept unavailable to unauthorized persons and that the notes after registration in the case system are placed in a locked paper container for destruction.
+Finally, the Data Inspectorate has noted that the Municipality of Køge has stated that your complaint has given the Køge Job Center a number of general considerations, including making the disposal of notes from the conversation more visible to the individual citizen so that suspicion of poor data protection does not arise, and to respond if a citizen actively indicates that he / she does not want notes on paper by simply entering the information in the case system along the way.

@@ -1,0 +1,98 @@
+
+Complaint for failure to delete
+Published 09-07-2019
+Decision
+Public authorities
+In a specific case, it was contrary to the rules on the exercise of the rights of data subjects that a municipality first responded to a citizen's request for deletion five months and 21 days after the request. On the other hand, it was not contrary to the rules that the municipality refused to delete the information with reference to the note and record keeping obligation. Journal number: 2018-32-0286
+Summary
+On July 5, 2019, the Data Inspectorate decided in a case in which a citizen complained that a municipality had refused to delete information about the citizen in connection with the citizen's closed case with the municipality.
+The Data Inspectorate found that, by first responding to the citizen's request for deletion after five months and 21 days, the municipality had not complied with Article 12 (2) of the Data Protection Regulation. 3. According to this provision, the data controller must process a request from the data subject for deletion without undue delay and within one month of receipt of the request. However, this period may be extended by two months if necessary taking into account the complexity and number of requests.
+In the opinion of the Data Inspectorate, on the other hand, there was no basis for overriding the municipality's assessment that an exception to the right of deletion in this case applied. In the assessment, the municipality referred to Article 17 (1) of the Data Protection Regulation. According to this provision, the right of deletion does not apply if the continued processing of information about the data subject is necessary to 1) comply with a legal obligation or 2) perform a task in the public interest or 3) perform a task; which falls under public authority, such as the data controller, ie the municipality, has been charged.
+In the case in question, the municipality had stated that the municipality, as a public authority, has an obligation to comply with the obligation of note and record keeping, and that there have been no documents which have been mis-journalised on the case.
+Based on the facts of the case, the Data Inspectorate found that the municipality's refusal to delete the information did not violate the rules of Article 17 of the Data Protection Regulation.
+Decision
+The Data Inspectorate hereby returns to the case where, on June 25, 2018, X (hereinafter complaining) has complained to the Supervisory Authority of Y Municipality's processing of personal data about her.
+The rules on data protection are contained in a general EU regulation on the protection of personal data applicable in both the private and public sectors [1] and the Data Protection Act [2], which complements the rules of the regulation.
+1. Decision
+After a review of the case, the Data Inspectorate finds a basis for criticizing the fact that Y Municipality's processing of personal data did not comply with Article 12 (2) of the Data Protection Regulation. Third
+In addition, the Data Inspectorate finds that Y Municipality's processing of information has been in accordance with Articles 17 and 5 (5) of the Data Protection Regulation. 1 (e).
+The following is a detailed examination of the case and a justification for the Danish Data Protection Agency's decision.
+2. The circumstances of the case
+It appears from the case that on May 25, 2018, complaints have requested Y Municipality to delete information about her in connection with her closed case with the municipality.
+It is further apparent from the case that on 15 November 2018, Y Municipality refused to delete the information on complaints, citing Article 17 (1) of the Data Protection Regulation. 3, and the municipality's duty to register.
+2.1. Complainant's comments
+Complainants have stated that on May 25, 2018, complainants asked Y Municipality to have its information deleted in connection with its case with the municipality. According to the complaints, the information was no longer necessary for the municipality to keep when the case was closed.
+In addition, the complainant stated that, in the first instance, Y Municipality did not confirm receipt of her inquiry, and that the complainants therefore again contacted the municipality on June 1, 2018. On June 4, 2018, the municipality responded that the municipality was aware of the complaint's inquiry.
+Complainants have finally stated that she subsequently heard no more from the municipality and that complaints on June 19, 2018, again contacted the municipality, but that the municipality still did not respond to her request.
+2.2. Y Municipality's remarks
+Y municipality states that, in a regrettable error, the municipality did not timely respond to the complainant's request for deletion of May 25, 2018.
+In addition, Y Municipality states that on 15 November 2018, the municipality rejected the complainant's request for deletion on the grounds that the municipality as a public authority is obliged to comply with the obligation to keep a note and record and that there have been no documents that have been mis-journalized On the case.
+Y Municipality also states that the processing of the information was done in accordance with the requirement of storage restriction in Article 5 (1) (e) of the Data Protection Regulation.
+3. Justification for the Danish Data Protection Agency's decision
+3.1. Late reply to deletion request
+It follows from Article 12 (1) of the Data Protection Regulation. Paragraph 3, first paragraph, that the data controller must respond to a request from the data subject for deletion pursuant to Article 17 of the Data Protection Regulation without undue delay and no later than one month after receiving the request. This period may be extended by two months, if necessary, taking into account the complexity and number of requests. The data controller must also notify the data subject of any such extension within one month of receipt of the request together with the reason for the delay.
+The Data Inspectorate finds that, by first responding to the complainant's request 5 months and 21 days after the request, Y Municipality did not act in accordance with Article 12 (2) of the Data Protection Regulation. Third
+The Data Inspectorate hereby emphasizes that on May 25, 2018, complaints were requested by Y Municipality to delete the information and that Y Municipality first responded to the complainant's request on November 15, 2018.
+The Data Inspectorate has also emphasized that, according to the information, it was not a comprehensive and complex request and that Y Municipality should therefore have responded to the request within the time limit in the data protection rules.
+3.1. Rejecting information deletion
+According to Article 17 (2) of the Regulation. 1, the data subject has the right to have personal data deleted by the data controller without undue delay, and the data controller is obliged to delete personal data without undue delay if any of the following applies:
+
+Personal data is no longer necessary to fulfill the purposes for which it was collected or otherwise processed.
+The data subject draws the consent that is the basis for the processing, in accordance with Article 6 (2). 1 (a) or Article 9 (2). 2 (a), and there is no other legal basis for the treatment
+The data subject objects to the processing in accordance with Article 21 (2). 1, and there are no legitimate grounds for the pre-objection processing or the data subject objects to the proceeding under Article 21 (2). 2nd
+The personal data has been processed illegally.
+The personal data must be deleted in order to comply with a legal obligation to which the data controller is subject.
+The personal data have been collected in connection with the provision of information society services as referred to in Article 8 (2). First
+
+Article 17 (2) of the Regulation 3, a number of exceptions to the data subject's right of deletion are provided.
+It follows from Article 17 (2). 3. Paragraph 3 (b) does not apply if the continued processing of information on the data subject is necessary to comply with a legal obligation or is necessary to perform a task in the public interest or a task under public authority. that the data controller has been charged with.
+This means, among other things, that a public authority is not required to delete personal data about the data subject if other rules prevent the authority from deleting them. It can for example. be the rules of the public law on the duty of note and the duty of journalism. These rules mean that a public authority can only delete a document in a few cases. Deletion can usually only occur where there is a legal secret to it, or where a document is accidentally journaled on a wrong case and where the document is then journaled on the correct case.
+In view of the above, the Data Inspectorate finds that there is no basis for concluding that Y Municipality processes information on complaints which may be required to be deleted in accordance with Article 17 of the Data Protection Regulation.
+The Data Inspectorate has hereby emphasized that a public authority is generally not entitled to delete certain documents that are part of a case, citing the rules of the Public Information Act and the Public Records Act, and that deletion can usually only occur, if there is a legal secret to it. The reason for this is, inter alia, that the authority later - e.g. in connection with complaints or resumes - must be able to document what has passed in a case.
+In view of the above, the Data Inspectorate also considers that the processing of the information has not gone beyond what can be done in accordance with the principle of storage restriction, in accordance with Article 5 (1) of the Data Protection Regulation. 1 (e).
+4. Concluding remarks
+The Data Inspectorate hereby considers the case closed, and thereafter does not proceed further in the case.
+Appendix: Legal basis
+Excerpt from Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of individuals with regard to the processing of personal data and on the free exchange of such information and repealing Directive 95/46 / EC (General Regulation on data protection).
+Article 2. This Regulation shall apply to the processing of personal data which is wholly or partly processed by means of automatic data processing and to other non-automatic processing of personal data which is or will be contained in a register.
+Article 5. Personal data shall:
+
+be legally, reasonably and transparently treated in relation to the data subject ('legality, reasonableness and transparency')
+is collected for explicit and legitimate purposes and must not be processed in a manner incompatible with those purposes; further processing for archival purposes in the public interest, for scientific or historical research purposes or for statistical purposes in accordance with Article 89 (2). Paragraph 1 shall not be considered incompatible with the original purposes ('purpose limitation')
+be sufficient, relevant and limited to what is necessary in relation to the purposes for which they are processed ('data minimization')
+be correct and, if necessary, up to date; every reasonable step must be taken to ensure that personal data which is incorrect in relation to the purposes for which it is processed is immediately deleted or rectified ('correctness');
+is stored in such a way that it is not possible to identify the data subjects for a longer period than is necessary for the purposes for which the personal data concerned are processed; personal data may be stored for a longer period of time if the personal data is processed solely for archival purposes in the interest of the community, for scientific or historical research purposes or for statistical purposes in accordance with Article 89 (2). Provided that appropriate technical and organizational measures are required by this Regulation to safeguard the rights and freedoms of the data subject ('storage restriction').
+is processed in a manner which ensures adequate security of the personal data concerned, including protection against unauthorized or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organizational measures ('integrity and confidentiality').
+
+PCS. 2. The data controller is responsible for and must be able to demonstrate that paragraph 1. 1 is respected ('accountability').
+Article 12. The data controller shall take appropriate measures to provide any information referred to in Articles 13 and 14 and any notification pursuant to Articles 15-22 and 34 on processing to the data subject in a concise, transparent, easily understandable and easily accessible form and in a clear and simple language, especially when information is specifically aimed at a child. The information is provided in writing or by other means, including, where appropriate, electronically. When requested by the data subject, the information may be provided orally, provided that the identity of the data subject is proven by other means.
+PCS. 2. The data controller facilitates the exercise of the data subject's rights under Articles 15-22. In the cases referred to in Article 11 (2). 2, the data controller must not refuse to comply with the data subject's request to exercise his rights under Articles 15-22, unless the data controller proves that he is unable to identify the data subject.
+PCS. 3. The data controller shall inform the data subject without undue delay and in any case within one month of receipt of the request, of measures taken in response to a request under Articles 15 to 22. This period may be extended by two months, if necessary, taking into account the complexity and number of requests. The data controller shall inform the data subject of any such extension within one month of receipt of the request, together with the reasons for the delay. If the data subject submits a request electronically, the information will be transmitted electronically as far as possible, unless the data subject requests otherwise.
+PCS. 4. If the data controller fails to take action on the data subject's request, the data subject shall immediately and within one month of receipt of the request, inform the data subject of the reason and the possibility of filing a complaint with a supervisory authority and refer the case to a court of law.
+PCS. 5. Information provided pursuant to Articles 13 and 14 and any communication and action taken pursuant to Articles 15 to 22 and 34 shall be free of charge. If requests from a data subject are manifestly baseless or excessive, especially because they are repeated, the data controller can either:
+
+charge a reasonable fee, taking into account the administrative costs of providing information or notices or taking the desired action; or
+refuse to comply with the request.
+
+The burden of proof that the request is manifestly baseless or excessive rests with the data controller.
+PCS. 6. Without prejudice to Article 11, where there is reasonable doubt as to the identity of the natural person making a request under Article 15-21, the data controller may request additional information necessary to verify the identity of the data subject .
+Article 17. The data subject has the right to have personal data deleted by the data controller without undue delay, and the data controller is obliged to delete personal data without undue delay if any of the following applies:
+
+Personal data is no longer necessary to fulfill the purposes for which it was collected or otherwise processed.
+The data subject draws the consent that is the basis for the processing, in accordance with Article 6 (2). 1 (a) or Article 9 (1). 2 (a), and there is no other legal basis for the treatment.
+The data subject objects to the processing in accordance with Article 21 (2). 1, and there are no legitimate grounds for the pre-objection processing or the data subject objects to the proceeding under Article 21 (2). 2nd
+The personal data has been processed illegally.
+The personal data must be deleted in order to comply with a legal obligation of EU or national law to which the data controller is subject.
+The personal data have been collected in connection with the provision of information society services as referred to in Article 8 (2). First
+
+PCS. 2. If the data controller has disclosed the personal data and in accordance with paragraph 2. 1 is obliged to delete personal data, the data controller takes into account the available technology and the cost of implementation, reasonable measures, including technical measures, to notify the data controller who processes the personal data that the data subject has requested these data controllers to delete all links to or copies or reproductions of the personal data in question.
+PCS. 3 pieces. Paragraphs 1 and 2 shall not apply insofar as this treatment is necessary:
+
+to exercise the right to freedom of expression and information
+to comply with a legal obligation requiring processing under EU or national law and to which the data controller is subject, or to perform a task in the public interest or under the public authority exercised by the data controller
+in the interests of public health in the field of public health in accordance with Article 9 (2); (2) (h) and (i) and Article 9 (2). 3
+for archival purposes in the interest of the community, for scientific or historical research purposes or for statistical purposes in accordance with Article 89 (2). (1) insofar as the right referred to in paragraph 1 is used. 1 is likely to render it impossible or seriously impede the fulfillment of this treatment; or
+for legal claims to be established, enforced or defended.
+
+[1] Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of individuals with regard to the processing of personal data and on the free movement of such information and repealing Directive 95/46 / EC (general data protection regulation).
+[2] Act No 502 of 23 May 2018 on additional provisions for a regulation on the protection of individuals with regard to the processing of personal data and on the free exchange of such information (Data Protection Act).
