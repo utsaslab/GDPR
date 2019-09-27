@@ -39,7 +39,7 @@ class BE(DPA):
         render_type = source['render_type']
 
         try:
-            response = requests.request('GET', host + '/avis-1?page=8')
+            response = requests.request('GET', host + start_path)
             html_doc = response.text
             soup = BeautifulSoup(html_doc, 'html.parser')
         except:
@@ -61,18 +61,6 @@ class BE(DPA):
         while pagination.has_next():
             page_ref = pagination.get_next()
 
-            if page_ref == 'https://www.autoriteprotectiondonnees.be/avis-1':
-                continue
-
-            blacklist = []
-            for i in range(1,9):
-                blacklist.append('https://www.autoriteprotectiondonnees.be/avis-1?page={i}'.format(i=i))
-
-            if page_ref in blacklist:
-                continue
-
-            print(page_ref)
-
             if page_fully_rendered_specification.is_satisfied_by(render_type) is False:
                 break
 
@@ -90,9 +78,7 @@ class BE(DPA):
             root_path = path + self.iso_code
             result_links = links_from_soup_service(page_soup, target_element=target_element['results'])
             for i in range(len(result_links)):
-                #print("out_of_bounds_dates:", str(out_of_bounds_dates))
                 result_link = result_links[i]
-                #print(result_link[0])
                 date_text = date_spans[i].text
                 result_date = dateparser.parse(date_text).date()
 
