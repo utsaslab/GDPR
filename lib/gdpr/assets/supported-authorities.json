@@ -83,5 +83,30 @@
         "render_type": "FULLY_RENDERED"
       }
     ]
+  },
+  "BE": {
+    "country": "Belgium",
+    "name": "Autorité de la protection des données - Gegevensbeschermingsautoriteit (APD-GBA)",
+    "address": "Rue de la Presse 35 – Drukpersstraat 35 1000 Bruxelles - Brussel",
+    "phone": "2 274 48 00",
+    "country_code": "+32",
+    "email": "contact@apd-gba.be",
+    "website": "https://www.autoriteprotectiondonnees.be/",
+    "member": {
+      "name": "Mr David Stevens",
+      "title": "President"
+    },
+    "sources": [
+      {
+        "host": "https://www.autoriteprotectiondonnees.be",
+        "start_path": "/avis-1",
+        "target_element": {
+          "results": "div.view-content",
+          "pagination": "ul.pager",
+          "document": null
+        },
+        "render_type": "FULLY_RENDERED"
+      }
+    ]
   }
 }

@@ -41,10 +41,10 @@ def main():
     #dispatch_background_logging_service(logpath)
 
     now = datetime.datetime.now()
-    data_path = '../data/{date}/'.format(date=now.strftime("%m-%d-%Y"))
+    data_path = '../data/{date}/'.format(date='09-25-2019') # prod: now.strftime("%m-%d-%Y")
 
     gdpr = GDPR()
-    dpa = gdpr.get_dpa('GB')
+    dpa = gdpr.get_dpa('BE')
     dpa.bulk_collect(data_path)
 
     """
