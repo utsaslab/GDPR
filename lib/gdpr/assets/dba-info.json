@@ -108,5 +108,60 @@
         "render_type": "FULLY_RENDERED"
       }
     ]
+  },
+  "BG": {
+    "country": "Bulgaria",
+    "name": "Commission for Personal Data Protection",
+    "address": "2, Prof. Tsvetan Lazarov blvd. Sofia 1592",
+    "phone": "2 915 3580",
+    "country_code": "+359",
+    "email": "kzld@cpdp.bg",
+    "website": "https://www.cpdp.bg/",
+    "member": {
+      "name": "Mr Ventsislav KARADJOV",
+      "title": "Chairman of the Commission for Personal Data Protection"
+    },
+    "sources": [
+      {
+        "host": "https://www.cpdp.bg",
+        "start_path": "/index.php?p=rubric_element&aid=1180",
+        "target_element": {
+          "results": "div.center-part",
+          "pagination": "div.pages",
+          "document": "div.center-part"
+        },
+        "render_type": "FULLY_RENDERED"
+      },
+      {
+        "host": "https://www.cpdp.bg",
+        "start_path": "/index.php?p=rubric_element&aid=1139",
+        "target_element": {
+          "results": "div.center-part",
+          "pagination": "div.pages",
+          "document": "div.center-part"
+        },
+        "render_type": "FULLY_RENDERED"
+      },
+      {
+        "host": "https://www.cpdp.bg",
+        "start_path": "/index.php?p=rubric_element&aid=1175",
+        "target_element": {
+          "results": "div.center-part",
+          "pagination": "div.pages",
+          "document": "div.center-part"
+        },
+        "render_type": "FULLY_RENDERED"
+      },
+      {
+        "host": "https://www.cpdp.bg",
+        "start_path": "/index.php?p=rubric_element&aid=1134",
+        "target_element": {
+          "results": "div.center-part",
+          "pagination": "div.pages",
+          "document": "div.center-part"
+        },
+        "render_type": "FULLY_RENDERED"
+      }
+    ]
   }
 }

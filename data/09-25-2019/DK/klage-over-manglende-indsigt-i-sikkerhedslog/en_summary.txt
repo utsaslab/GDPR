@@ -1,0 +1,5 @@
+
+Complain about lack of insight into security log
+Published 19-12-2018
+Decision
+The Data Inspectorate has refused to initiate a complaint regarding lack of insight into extraction of the Tax Agency's security log, as the Data Protection Authority considers the complaint to be manifestly baseless. The rules on data protection are contained in a general EU regulation on the protection of personal data applicable in both the private and public sectors [1] and the Data Protection Act [2], which complements the rules of the regulation. In the opinion of the Data Inspectorate, there is no prospect that the Authority will find that your personal data is processed in contravention of the data protection rules and therefore the Authority refuses to process your complaint as it is manifestly unfounded, cf. [1] Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of individuals with regard to the processing of personal data and on the free movement of such information and repealing Directive 95/46 / EC (general data protection regulation).

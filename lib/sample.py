@@ -34,6 +34,12 @@ import spacy
 from spacy import displacy
 from collections import Counter
 import en_core_web_sm
+
+from gdpr.services.summarized_text_service import summarized_text_service
+from gdpr.policies import summary_policy
+
+import os
+
 nlp = en_core_web_sm.load()
 
 def main():
@@ -44,8 +50,33 @@ def main():
     data_path = '../data/{date}/'.format(date='09-25-2019') # prod: now.strftime("%m-%d-%Y")
 
     gdpr = GDPR()
-    dpa = gdpr.get_dpa('BE')
+    dpa = gdpr.get_dpa('BG')
     dpa.bulk_collect(data_path)
+
+    """with open('../data/09-25-2019/GB/metropolitan-police-service-enforcement-notice---data-protection-act-1998action-weve-takenpdf-1.4mb/en.txt') as f:
+        summary = f.read()
+        cursor = 0
+        for p in [p for p in summary.split('\n') if p]:
+            for sent in nltk.sent_tokenize(p):
+                print(str(cursor), ':', str(len(sent)))
+                #with open('../data/09-25-2019/GB/metropolitan-police-service-enforcement-notice---data-protection-act-1998action-weve-takenpdf-1.4mb/sent0.txt', 'w') as outfile:
+                #    outfile.write(sent)
+                #break
+                if len(sent) >= 80:
+                    print(sent)
+                cursor += 1
+                #if cursor == 50:
+                #    break"""
+
+    """for (dirpath, dirnames, filenames) in os.walk('../data/09-25-2019'):
+        if 'en.txt' in filenames:
+            with open(dirpath + '/en.txt') as f:
+                doc = f.read()
+
+            with open(dirpath + '/en_summary.txt', 'w') as f:
+                n_sentences = summary_policy.n_sentences()
+                summary = summarized_text_service(doc, n_sentences)
+                f.write(summary)"""
 
     """
     path = './modules/gdpr/assets/r-facebook-mpn-20181024.pdf'

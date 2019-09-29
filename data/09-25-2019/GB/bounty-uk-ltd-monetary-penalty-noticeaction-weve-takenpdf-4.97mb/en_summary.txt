@@ -1,0 +1,63 @@
+(2) In sub-paragraph (1)(b) “the relevant time” means -
+(a) the time when the data controller first process the data, or
+
+(b) in a case where at that time disclosure to a third party within
+a reasonable period is envisaged -
+
+(i) if the data are in fact disclosed to such a person within that
+period, the time when the data are first disclosed,
+
+(ii) if within that period the data controller becomes, or ought to
+become, aware that the data are unlikely to be disclosed to such
+a person within that period, the time when the data controller
+does become, or ought to become, so aware, or
+
+(iii) in any other case, the end of that period. - (1) Subject to paragraph 3, for the purposes of the first
+principle personal data are not to be treated as processed fairly
+unless -
+
+(a) in the case of data obtained from the data subject, the data
+controller ensures so far as practicable that the data subject has,
+is provided with, or has made readily available to him, the
+information specified in sub-paragraph (3), and
+
+(b) in any other case, the data controller ensures so far as
+practicable that, before the relevant time or as soon as
+practicable after that time, the data subject has, is provided with,
+or has made readily available to him, the information specified in
+sub-paragraph (3). Information Commissioner’s Office
+24,168,887 records provided to Acxiom, Equifax, Indicia and
+Sky between 1 June 2017 and 30 April 2018 in respect of data
+acquired through ‘offline’ member registrations (representing
+
+69% of 35,027,373 records shared during this period - see
+paragraphs 19 & 30 above), and
+
+10,267,889 records provided to Acxiom, Equifax, Indicia and
+Sky between 1 June 2017 and 9 January 2018 in respect of data
+acquired though ‘online’ member registrations (representing
+31% of 34,267,889 records shared during this period - see
+paragraphs 20 & 30 above)
+
+contravened DPP1 in that:
+
+The disclosure was unfair, in that the data subjects were not
+provided with information about the potential disclosure of their
+personal data to those organisations, or to any organisations of
+a similar nature who may use that data for the purposes of
+
+marketing. (3) The information referred to in sub-paragraph (1) is as
+follows, namely-
+
+(a) the identity of the data controller,
+
+(b) if he has nominated a representative for the purposes of this
+Act, the identity of that representative,
+
+(c) the purpose or purposes for which the data are intended to be
+processed, and
+
+(d) any further information which is necessary, having regard to
+the specific circumstances in which the data are or are to be
+processed, to enable processing in respect of the data subject to
+be fair.

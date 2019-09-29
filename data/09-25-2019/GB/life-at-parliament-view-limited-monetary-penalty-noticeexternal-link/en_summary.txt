@@ -1,0 +1,50 @@
+The types of personal data potentially compromised included names,
+phone numbers, e-mail addresses, postal addresses (current and
+previous), dates of birth, income/salary, employer details (position,
+company, salary, payroll number start date, employer address &
+contact details), accountant’s details (name, email address & phone
+number). Under section 55A (1) of the DPA the Commissioner may serve a data
+controller with a monetary penalty notice if the Commissioner is satisfied
+
+that -
+
+(a) there has been a serious contravention of section 4(4) of the
+
+DPA by the data controller,
+Information Commissioner's Office
+
+(b) the contravention was of a kind likely to cause substantial
+
+damage or substantial distress, and
+(c) subsection (2) or (3) applies. The notice of appeal should state:-
+
+a) your name and address/name and address of your representative (if
+any);
+
+b) an address where documents may be sent or delivered to you;
+Cc) the name and address of the Information Commissioner;
+
+d) details of the decision to which the proceedings relate;
+
+e) the result that you are seeking;
+
+f) the grounds on which you rely;
+
+g) you must provide with the notice of appeal a copy of the monetary
+penalty notice or variation notice;
+
+h) if you have exceeded the time limit mentioned above the notice of
+appeal must include a request for an extension of time and the reason why
+the notice of appeal was not provided in time. (3) This subsection applies if the data controller —
+(a) knew or ought to have known -
+
+(i) that there was a risk that the contravention would occur,
+
+and
+
+(ii) that such a contravention would be of a kind likely to
+cause substantial damage or substantial distress, but
+
+(b) failed to take reasonable steps to prevent the
+
+contravention.

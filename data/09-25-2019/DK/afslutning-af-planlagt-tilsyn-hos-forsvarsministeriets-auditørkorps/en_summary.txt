@@ -1,0 +1,8 @@
+(2) may be deferred, restricted or omitted if the data subject's interest in knowing the information is found to be necessary in order to:
+
+avoid obstructing official or judicial investigations, investigations or procedures,
+avoid damaging the prevention, detection, investigation or prosecution of criminal offenses or the enforcement of criminal penalties;
+protect public safety,
+protect state security or
+protect the data subject's or others' rights. 3, that the data controller, instead of deletion, should restrict the processing of personal data if 1) the accuracy of the personal data is disputed by the data subject and their accuracy or inaccuracy cannot be ascertained or 2) the personal data must be preserved as evidence. 4th
+If the data controller refuses a request for rectification, deletion or restriction of processing, this must be notified in writing to the data subject and must be accompanied by a statement of reasons and a complaint, and the decision must include information on the data subject's right to have the competent supervisory authority exercised by the data subject. If the data controller processes personal data about the data subject, the data controller must give the data subject access to the personal data and a communication with a number of information, cf.

@@ -2,7 +2,7 @@ import json
 from ..specifications import authority_supported_specification
 from ..specifications import eu_member_specification
 
-with open('./gdpr/assets/supported-authorities.json', 'r') as f:
+with open('./gdpr/assets/dba-info.json', 'r') as f:
     supported_dpas = json.load(f)
 
 class DPA(object):
