@@ -21,8 +21,6 @@ from ...policies import bulk_collect_location_policy
 from ...policies import gdpr_policy
 
 from urllib.parse import urlparse
-import polyglot
-# from polyglot.text import Text, Word
 
 class BG(DPA):
     def __init__(self):
