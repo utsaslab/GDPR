@@ -188,5 +188,30 @@
           "render_type": "FULLY_RENDERED"
       }
     ]
+  },
+  "CY": {
+    "country": "Cyprus",
+    "name": "Commissioner for Personal Data Protection",
+    "address": "1 Iasonos Street,\n1082 Nicosia\nP.O. Box 23378, CY-1682 Nicosia",
+    "phone": "22 818 456",
+    "country_code": "+357",
+    "email": "commissioner@dataprotection.gov.cy",
+    "website": "http://www.dataprotection.gov.cy",
+    "member": {
+      "name": "Ms Irene LOIZIDOU NIKOLAIDOU",
+      "title": "Commissioner for Personal Data Protection"
+    },
+    "sources": [
+      {
+        "host": "http://www.dataprotection.gov.cy",
+        "start_path": "/dataprotection/dataprotection.nsf/news02_gr/news02_gr?OpenDocument",
+        "target_element": {
+          "results": "div.content-block",
+          "pagination": null,
+          "document": "div.content-block"
+        },
+        "render_type": "FULLY_RENDERED"
+      }
+    ]
   }
 }

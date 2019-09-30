@@ -4,6 +4,7 @@ from .dpa.dk import DK
 from .dpa.be import BE
 from .dpa.bg import BG
 from .dpa.hr import HR
+from .dpa.cy import CY
 
 class GDPR(object): # acts as a mediator pattern
     def get_dpa(self, iso_code):
@@ -20,3 +21,5 @@ class GDPR(object): # acts as a mediator pattern
             return BG()
         elif iso_code == 'HR':
             return HR()
+        elif iso_code == 'CY':
+            return CY()

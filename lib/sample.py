@@ -50,7 +50,7 @@ def main():
     data_path = '../data/{date}/'.format(date='09-25-2019') # prod: now.strftime("%m-%d-%Y")
 
     gdpr = GDPR()
-    dpa = gdpr.get_dpa('HR')
+    dpa = gdpr.get_dpa('CY')
     dpa.bulk_collect(data_path)
 
     """with open('../data/09-25-2019/GB/metropolitan-police-service-enforcement-notice---data-protection-act-1998action-weve-takenpdf-1.4mb/en.txt') as f:
