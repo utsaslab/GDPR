@@ -163,5 +163,30 @@
         "render_type": "FULLY_RENDERED"
       }
     ]
+  },
+  "HR": {
+    "country": "Croatia",
+    "name": "Croatian Personal Data Protection Agency",
+    "address": "Martićeva 14 10000 Zagreb",
+    "phone": "1 4609 000",
+    "country_code": "+385",
+    "email": "azop@azop.hr",
+    "website": "https://azop.hr",
+    "member": {
+      "name": "Mr Anto RAJKOVAČA",
+      "title": "Director"
+    },
+    "sources": [
+      {
+          "host": "https://azop.hr",
+          "start_path": "/misljenja-agencije",
+          "target_element": {
+            "results": "div#main",
+            "pagination": null,
+            "document": "div.entry"
+          },
+          "render_type": "FULLY_RENDERED"
+      }
+    ]
   }
 }

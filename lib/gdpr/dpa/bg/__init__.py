@@ -58,7 +58,6 @@ class BG(DPA):
 
             while pagination.has_next():
                 results_page = pagination.get_next()
-                print('getting results:', results_page)
 
                 try:
                     results_response = requests.request('GET', results_page)
