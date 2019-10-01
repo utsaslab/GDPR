@@ -1,0 +1,31 @@
+
+
+25. 7. 2019.
+
+	Uredba (EU) 2016/679 Europskog parlamenta i Vijeća od 27. travnja 2016. o zaštiti pojedinaca u vezi s obradom osobnih podataka i o slobodnom kretanju takvih podataka - Opća uredba o zaštiti podataka (dalje u tekstu: Opća uredba) je u cijelosti obvezujuća i izravno se primjenjuje u Republici Hrvatskoj od 25. svibnja 2018. godine.
+
+	Člankom 6. stavkom 1. Opće uredbe je propisano da je obrada zakonita samo ako i u onoj mjeri u kojoj je ispunjeno najmanje jedno od sljedećega:
+
+	(a) ispitanik je dao privolu za obradu svojih osobnih podataka u jednu ili više posebnih svrha; (b) obrada je nužna za izvršavanje ugovora u kojem je ispitanik stranka ili kako bi se poduzele radnje na zahtjev ispitanika prije sklapanja ugovora;
+	(c) obrada je nužna radi poštovanja pravnih obveza voditelja obrade;
+	(d) obrada je nužna kako bi se zaštitili životno interesi ispitanika ili druge fizičke osobe;
+	(e) obrada je nužna za izvršavanje zadaće od javnog interesa ili pri izvršavanju službene ovlasti voditelja obrade;
+	(f) obrada je nužna za potrebe legitimnih interesa voditelja obrade ili treće strane, osim kada su od tih interesa jači interesi ili temeljna prava i slobode ispitanika koji zahtijevaju zaštitu osobnih podataka, osobito ako je ispitanik dijete.
+
+	Ako je pravni temelj za obradu osobnih podataka pravna obveza voditelja obrade, tada ta pravna osnova mora biti utvrđena u pravu Unije ili pravu države članice kojem voditelj obrade podliježe, a tom pravnom osnovom mora biti određena i svrha obrade.
+
+	Agencija ističe kako se uvid u identifikacijsku ispravu može temeljiti na legitimnom interesu voditelja obrade u smislu članka 6. stavka 1. točke f) Opće uredbe jer postoji interes školske ustanove, kao voditelja obrade o saznanju posjetitelja iste, a u svrhu zaštite imovine i djece.
+
+	Ujedno napominjemo kako je uvijek prilikom korištenja legitimnog interesa kao pravnog temelja za pojedinu obradu osobnih podataka potrebno provesti test razmjernosti te utvrditi pretežu li interesi voditelja obrade nad interesima ispitanika.
+
+	Dodatno naglašavamo kako je sukladno članku 24. stavku 1. Opće uredbe obveza voditelja obrade da uzimajući u obzir prirodu, opseg, kontekst i svrhe obrade, kao i rizike različitih razina vjerojatnosti i ozbiljnosti za prava i slobode pojedinaca, voditelj obrade provodi odgovarajuće tehničke i organizacijske mjere kako bi osigurao i mogao dokazati da se obrada provodi u skladu s ovom Uredbom.
+
+	Budući da je upravo školska ustanova voditelj obrade odgovorna za dokazivanje da se obrada provodi u skladu s Općom uredbom, naglašavamo kako nije uputno da obradu osobnih podataka provode maloljetnici, koji zbog svoje dobi i zrelosti ne mogu u potpunosti biti svjesni mogućih zlouporaba nastalih uslijed neovlaštenog korištenja podataka, za razliku od odraslih.
+
+	Člankom 58. stavkom 2.  Zakonom o odgoju i obrazovanju u osnovoj i srednjoj školi (NN 87/2008, 86/2009, 92/2010, 105/2010, 90/2011, 5/2012, 16/2012, 86/2012, 94/2013, 152/2014, 7/2017, 68/2018) određeno je da školski ili domski odbor donosi kućni red nakon provedene rasprave na učiteljskom/nastavničkom/odgajateljskom vijeću te vijeću roditelja i vijeću učenika.
+
+	Naime, odlukama o kućnom redu je određeno dežurstvo u školskoj ustanovi za vrijeme rada iste. Konkretno, u određenim ustanovama dežustvo obavlja dežurno tehničko osoblje, dok u drugim to provode učenici.
+
+	Uzimajući u obzir navedeno, potrebno je unificirati praksu školskih ustanova na način da se određene školske ustanove ne nađu u nepovoljnom položaju u odnosu na druge školske ustanove jer u njima obradu podataka vrše maloljetna djeca, čime nije udovoljeno obvezi voditelja obrade da provodi odgovarajuće tehničke i organizacijske mjere kako bi osigurao i mogao dokazati da se obrada provodi u skladu s ovom Općom uredbom.
+
+	Zaključno napominjemo kako se svaka  obrada osobnih podataka mora provoditi sukladno načelima obrade osobnih podataka. Podaci moraju biti zakonito, pošteno i transparentno obrađivani s obzirom na ispitanika; prikupljeni u posebne, izričite i zakonite svrhe te se dalje ne smiju obrađivati na način koji nije u skladu s tim svrhama; primjereni, relevantni i ograničeni na ono što je nužno u odnosu na svrhe u koje se obrađuju; točni i prema potrebi ažurni; čuvani u obliku koji omogućuje identifikaciju ispitanika samo onoliko dugo koliko je potrebno u svrhe radi kojih se osobni podaci obrađuju; i obrađivani na način kojim se osigurava odgovarajuća sigurnost osobnih podataka, uključujući zaštitu od neovlaštene ili nezakonite obrade te od slučajnog gubitka, uništenja ili oštećenja primjenom odgovarajućih tehničkih ili organizacijskih mjera.

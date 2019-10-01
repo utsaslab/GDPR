@@ -1,0 +1,1138 @@
+TO:
+
+Of:
+
+ICO.
+
+Information Commissioner's Office
+
+DATA PROTECTION ACT 1998
+
+SUPERVISORY POWERS OF THE INFORMATION COMMISSIONER
+
+MONETARY PENALTY NOTICE
+
+London Borough of Newham
+
+Town Hall, Barking Road, East Ham, London, E6 2RP
+
+The Information Commissioner (“Commissioner”) has decided to issue
+the London Borough of Newham (“Newham”) with a monetary penalty
+under section 55A of the Data Protection Act 1998 (“DPA”). The penalty
+is being issued because of a serious contravention of the First and
+
+Seventh Data Protection Principles by Newham.
+
+The breach occurred in January 2017 and is accordingly considered by
+the Commissioner under the DPA and not the legal regime in force
+from 25 May 2018.
+
+This notice explains the Commissioner’s decision.
+
+Legal framework
+
+Newham is a data controller, as defined in section 1(1) of the DPA in
+respect of the processing of personal data. Newham as a local authority
+is responsible, and the data controller in respect of, the work of its
+Youth Offending Team (“the YOT”), established under section 39 of the
+Crime and Disorder Act 1998 by each local authority.
+@
+1C QO.
+Information Commissioner's Office
+Section 4(4) of the DPA provides that, subject to section 27(1) of the
+DPA, it is the duty of a data controller to comply with the data
+
+protection principles in relation to all personal data in respect of which
+
+he is the data controller.
+
+The first data protection principle provides, at paragraph 1 of Part I of
+Schedule 1 to the DPA, that:
+
+"Personal data shall be processed fairly and lawfully and, in
+
+particular, shall not be processed unless—
+(a) atleast one of the conditions in Schedule 2 is met, and
+
+(b) in the case of sensitive personal data, at least one of the
+
+conditions in Schedule 3 is also met.”
+
+The seventh data protection principle provides, at paragraph 1 of Part I
+of Schedule 1 to the DPA, that:
+
+“Appropriate technical and organisational measures shall be taken
+against unauthorised or unlawful processing of personal data and
+against accidental loss or destruction of, or damage to, personal
+
+data”.
+
+Under section 55A (1) of the DPA the Commissioner may serve a data
+controller with a monetary penalty notice if the Commissioner ts
+
+satisfied that —
+
+(a) there has been a serious contravention of section 4(4) of the
+
+DPA by the data controller,
+Information Commissioner's Office
+
+(b) the contravention was of a kind likely to cause substantial
+
+damage or substantial distress, and
+(c) subsection (2) or (3) applies.
+(2) This subsection applies if the contravention was deliberate.
+(3) This subsection applies if the data controller -
+(a) knew or ought to have known -
+
+(i) that there was a risk that the contravention would occur,
+
+and
+
+(ii) | that such a contravention would be of a kind likely to
+
+cause substantial damage or substantial distress, but
+
+(b) failed to take reasonable steps to prevent the
+
+contravention.
+
+9. The Commissioner has issued statutory guidance under section 55C(1)
+of the DPA about the issuing of monetary penalties that has been
+published on the ICO’s website. The Data Protection (Monetary
+Penalties) (Maximum Penalty and Notices) Regulations 2010 prescribe
+that the amount of any penalty determined by the Commissioner must
+not exceed £500,000.
+
+10. The DPA implements European legislation (Directive 95/46/EC) aimed
+at the protection of the individual’s fundamental right to the protection
+of personal data. The Commissioner approaches the data protection
+
+principles so as to give effect to the Directive.
+
+3
+dedi
+
+12.
+
+13.
+
+14.
+
+15.
+
+ICO.
+
+Information Commissioner's Office
+
+The Facts
+
+The Commissioner of Police of the Metropolis and the Metropolitan
+Police Service (“the MPS”) operate and maintain a database of personal
+data about actual and suspected members of gangs in London known
+as the Gangs Matrix. There are separate versions of the Gangs Matrix
+
+database within local policing boroughs.
+
+The Gangs Matrix is a database of intelligence about gang members.
+One of the purposes of the Gangs Matrix is that relevant information
+and intelligence about persons on the Matrix is shared with relevant
+bodies in order to prevent and detect crime, deter gang activity and
+
+enable appropriate support to those who need it.
+
+In order to achieve these aims, the MPS Newham Borough shared its
+version of the Gangs Matrix with Newham, and the Newham YOT in
+particular. This was, in principle, sensible and appropriate information
+sharing given the statutory functions of Newham and the YOT in
+
+particular.
+
+However, once the Matrix had been provided to the YOT, the MPS no
+longer controlled what is done with the personal data contained within
+it. It was the decision of Newham, through the YOT, as to what data
+
+was provided to other bodies or agencies.
+
+At any given time, Newham was the data controller of the versions of
+the Matrix database it received from the MPS. In other words, the MPS
+was responsible for the provision of the database to Newham, but
+Newham was responsible for what it did with the database once it had
+
+been received. Whether or not the MPS shared the database with
+
+A
+16.
+
+17.
+
+18.
+
+informatlon Commissioner's Office
+
+others as well is irrelevant for present purposes: Newham was the
+
+controller of the database supplied to it.
+
+The YOT ran a multi-agency partnership in relation to gangs, with the
+MPS. The membership of this partnership included representatives of a
+wide variety of Newham departments (including Children and Adult
+Services, Education Services, Housing Services, Rehabilitation Service,
+the Data Warehouse and Newham Research), external statutory
+agencies (National Probation Service, NHS Public Health and the
+Department of Work and Pensions), and a non-statutory voluntary
+organisation (Fight for Peace). (The Commissioner understands that
+since the events discussed in this Notice the MPS has taken control of
+
+such partnership meetings. )
+
+The MPS had since 2014 provided to the YOT by email updated
+versions of the Gangs Matrix for Newham on approximately a monthly
+basis. The transmission by the MPS to Newham over email was on the
+CJSM system.
+
+The MPS provided two versions of the Gangs Matrix on each occasion:
+a redacted and an unredacted version. The unredacted version of the
+
+database contained in respect of each data subject entries concerning:
+
+e Matrix ranking;
+
+e Matrix score (relevant to continued presence on the database);
+e Name;
+
+e Date of birth;
+
+e Age
+
+e Home address;
+
+e Nickname;
+
+e IC code (i.e. ethnicity);
+19),
+
+20.
+
+21.
+
+2d
+
+@
+LC QO.
+Information Commissioner's Office
+e Gang name;
+e Whether the individual is a prolific firearms offender or a habitual
+knife carrier;
+e Judicial provisions;
+
+e Police national computer ID.
+
+The redacted version of the database did not include the data subject’s
+home address, their ethnicity, whether they were a prolific firearms
+offender or a habitual knife carrier, or their PNC ID. In other words, the
+redacted version significantly reduced the likelihood of sensitive
+personal data being disclosed in error, and also of the risk of locating
+
+and harming the individuals included.
+
+Prior to 2014, it was the role of the MPS to share relevant data from
+the Matrix with partner agencies. Since 2014, that has been the role of
+the local YOTs. Newham state that the MPS has on occasion since 2014
+shared the database itself with the Newham multi-agency partnership,
+but it does not dispute that it has principally been the Newham YOT
+which has distributed the redacted database since 2014.
+
+It is the position of the MPS, as communicated to the Commissioner,
+that it had not given permission for the unredacted database to be
+more widely distributed, and that that was the purpose of providing the
+redacted version. The information handling practices of the MPS have
+
+been the subject of separate enforcement consideration.
+
+Despite being in receipt of the Matrix databases since at least 2012,
+Newham has been unable to identify any written policy or guidance
+concerning its handling, storage or decision-making as to onward
+
+distribution in compliance with the DPA.
+23.
+
+24.
+
+25.
+
+26.
+
+2/.
+
+@
+ICO.
+Information Commissioner's Office
+
+Newham identified that it had an Information Sharing Agreement
+
+(“ISA”) in place for the purpose of a crime and disorder reduction
+
+partnership pursuant to section 115 of the Crime and Disorder Act
+
+1998. The ISA included reference to London Probation, what is now
+
+NHS Public Health and the MPS. However, the ISA was last reviewed
+
+and amended in 2008. It was not specific to the Gangs Matrix and did
+
+not address the Matrix data. It did not address the full breadth of
+
+recipients of the database, including internal Newham departments, the
+
+Department of Work and Pensions and the voluntary organisation Fight
+
+for Peace. It contained no guidance on relevant considerations for the
+
+sharing of the database.
+
+Newham has an Information Sharing Protocol relevant to the work of
+the YOT. That Protocol sets out that disclosure of information received
+from another body must generally be authorised by the original
+provider. It further records that information which is shared will be
+
+considered on a case by case basis.
+
+On 23 January 2017, the MT received from the MPS a
+redacted and unredacted updated version of the Matrix database by
+
+email, which was dated 10 January 2017. The ii
+forwarded that email to a ee 24 January.
+
+On 26 January 2017, the (MM forwarded the MPS email
+containing the redacted and unredacted databases to 44 recipients
+within the YOT and at all of the multi-agency partners referred to
+
+above in advance of a meeting.
+
+The personal data of 203 data subjects was contained in each of the
+
+databases.
+ZS
+
+29.
+
+30,
+
+31.
+
+32.
+
+33.
+
+2
+
+1C QO.
+
+Information Commissioner's Office
+Approximately 80 of those data subjects had a Matrix score of zero,
+indicating that they were either no longer a member of gang, had no
+
+further involvement with gang crime or were simply a victim of gang
+
+crime. The YOT shared the entirety of the databases.
+
+On 16 May 2017, a known gang member informed their probation
+officer that they were in possession of a photograph, via Snapchat, of a
+paper copy of the Newham Gangs Matrix. The photographed page
+showed the personal data of approximately 50 high risk offenders.
+
+The MPS was notified and an investigation was commenced.
+Identifiable data subjects were warned. In some instances, police
+
+protection was offered.
+
+On 20 September 2017, a member of a different, rival, gang informed
+their probation officer that they also had photographs of the Matrix.
+That individual had photographs of two further pages of the Newham
+Gangs Matrix, from which the MPS was able to establish that it was the
+unredacted copy of the 10 January 2017 version of the database.
+
+The Commissioner has not been able to establish how the individual
+gang members obtained photographs of the unredacted Newham
+Gangs Matrix. Nonetheless, she considers that it is more likely than not
+that the matter was ultimately attributable to the wide distribution of
+the unredacted database by the YOT, without regulation or control.
+Newham’s representations accept that it was also the view of the MPS
+that it was Newham’s circulation of the unredacted database which
+
+allowed a third party to provide that data to others.
+
+Since this incident, there have been a number of incidents of gang
+
+violence, including murder, where the victims had appeared on the
+
+8
+34.
+
+aad
+
+36.
+
+®
+ICO.
+Information Commissioner's Office
+compromised pages of the unredacted database. In August 2018, the
+Newham Local Safeguarding Children Board concluded a Serious Case
+Review into the murder of a gang member named ‘Chris’. He was shot
+and killed on 4 September 2017. His name appeared on the Newham
+Gangs Matrix. The Commissioner does not draw a causal connection
+between this incident - or any other incident of violence - and the
+established breach on the part of Newham. She records these matters
+because they are highly relevant to the nature and extent of the harm
+that could result if personal data of the type contained in the
+unredacted database was not processed under strict controls. The
+context is materially dissimilar to many other data loss incidents which
+
+the Commissioner has had cause to investigate.
+
+This matter was drawn to the attention of the Commissioner by the
+MPS and not by Newham.
+
+It was not until December 2017 that Newham conducted any sort of
+investigation into the matter. Despite heavy reliance on that
+investigation in its representations, upon further enquiry it appears
+that no investigation report was produced. It appears to have consisted
+of little more than the qq — and
+subsequently the Information Governance Team — checking the email
+accounts of two members of staff of the YOT to trace how many times
+the unredacted database was emailed to others. It does not appear
+that the investigation made any attempt to establish, by discussion
+with the other parties in attendance at the multi-agency meetings,
+what had been done with the unredacted database emailed in January
+2017.
+
+In her Notice of Intent, the Commissioner made findings that the
+Newham YOT had routinely circulated by email the unredacted
+database since 2014. Newham’s representations firmly rejected that
+
+9
+ICO.
+
+Information Commissioner's Office
+
+finding on the basis of its investigation, which it explained had found
+
+that the error had occurred on the single occasion in January 2017. In
+
+the circumstances, the Commissioner does not make any findings
+
+beyond the circulation of the unredacted database in January 2017.
+
+However, it is also necessary and appropriate to record that:
+
+(a)
+
+(b)
+
+(Cc)
+
+At no stage in its correspondence with the Commissioner in
+relation to, on any view, a serious data protection breach did
+Newham explain that it had carried out an investigation which
+confirmed the number of times the unredacted database had
+been emailed. It is, at best, unhelpful for this information to be
+provided only in response to the Notice of Intent.
+
+The findings of repeated circulation by email were based upon
+what Newham itself had told the Commissioner; a fact seemingly
+entirely ignored in its representations. In an email from the Hii
+Es cated 4 April 2018, it was stated that
+“Historically, the unredacted version has been shared with the
+yos and wider partnership ie those who are members of the
+tactical group [sic]”. In an email of 30 May 2018, the same
+officer asserted, in response to a question asking if it was usual
+practice for the unredacted database to be shared, that “This
+information has been shared wit partners over the last four years
+matrix. More recently, the unredacted version is sent to partners
+
+[sic]”.
+
+In response to the Commissioner’s enquiries arising from
+Newham’s representations, and raising the previous information
+
+it had asked for and been provided, the iii
+EE Sought to explain that “our wording was somewhat
+
+ambiguous”. That is no explanation at all. Newham’s earlier
+
+10
+37.
+
+38.
+
+a0
+
+40.
+
+oO
+1C O @
+Information Commissioner's Office
+wording was not at all ambiguous. Rather, it provided inaccurate
+
+and incomplete information to the Commissioner in the course of
+
+her investigation.
+
+The Commissioner has made the above findings of fact on the balance
+
+of probabilities.
+
+The Commissioner has considered whether those facts constitute a
+contravention of the DPA by Newham and, if so, whether the conditions
+of section 55A DPA are satisfied.
+
+The Contraventions
+
+The Commissioner finds that Newham contravened the DPA in that it
+failed to take appropriate technical and organisational measures
+against unauthorised or unlawful processing of personal data and
+against accidental loss or destruction of, or damage to, personal data
+in contravention of the Seventh Data Protection Principle at Part I of
+Schedule 1 to the DPA.
+
+The Commissioner finds that the contravention was as
+
+follows:
+
+Newham distributed the unredacted database on 26 January 2017
+when it was not necessary to do so. Sharing of the redacted database
+was likely to be necessary, but the additional data in the unredacted
+database was not;
+
+Newham distributed the personal data to an excessive number of
+partner agencies and individual recipients, without consideration of the
+
+necessity of that distribution;
+
+1]
+41.
+
+42.
+
+Qo
+ICO.
+Information Commissioner's Office
+
+Newham had taken no formal decision and produced no rationale for its
+
+information sharing;
+
+Newham had in place no written policy or guidance concerning sharing
+
+of the Matrix databases;
+
+Newham had in place no applicable ISA or other written agreement;
+
+It is unclear whether Newham considers that its partner agencies would
+
+act as data controllers or data processors. If the latter, the absence of
+
+a written agreement is a failure to comply with paragraph 12 of Part II
+
+of Schedule 1. If the former, the absence of a written agreement
+
+remains a clear failure of basic data protection practice in order to
+
+secure shared personal! data;
+
+Newham failed to comply with such written policies as were applicable
+
+in general terms to information sharing by the YOT;
+
+Newham had taken no steps to seek to exercise any control over, or
+
+otherwise protect, the personal data it so widely distributed; and
+
+Newham had no systems in place for secure encrypted distribution to
+
+recipients without existing secure email accounts.
+
+The Commissioner considers this contravention to be especially
+flagrant, and many of the elements of the contravention — such as the
+absence of an applicable ISA - were failures over an extended period
+of time and do not arise solely because of the circulation of the
+
+unredacted database on 27 January 2017.
+
+For the avoidance of doubt, Newham raised in its representations that
+the Commissioner had carried out a data protection audit of Newham in
+2012 and relied on it not having raised issues relevant to this Notice.
+The Commissioner does not accept that an audit in 2012 is of any
+assistance to Newham, particularly where the scope of that audit did
+
+not extend to data sharing, still less the particular policies in issue.
+
+IZ
+43.
+
+44,
+
+45.
+
+46.
+
+47.
+
+9S
+1C O.
+Information Commissioner's Office
+Further, the Commissioner finds that Newham failed to process the
+personal data of data subjects included on the Matrix fairly, lawfully
+and in accordance with a condition in Schedules 2 or 3, in
+contravention of the First Data Protection Principle at Part I of Schedule
+
+1 to the DPA when it circulated the unredacted database on 26 January
+2017.
+
+All potentially relevant conditions provided for in Schedules 2 and 3
+(both of which are applicable) require that the processing by Newham
+was “necessary”. The sharing of the unredacted database, when a
+redacted database was provided and available, in its entirety with no
+consideration of the relevance of individual entries or categories of
+entry, to a wide variety of individuals and bodies without
+differentiation, without formal written information sharing agreements
+and policies in place, was not necessary for the purposes of Schedules
+2 or 3 to the DPA.
+
+Newham could have processed the sensitive personal data of the data
+subjects significantly more proportionately, and more restrictively. It
+did not do so and it does not appear to have even occurred to Newham
+to consider whether it might need to evaluate and rationalise its data
+
+Sharing choices.
+
+For related reasons, the processing of the sensitive personal data of
+the data subjects was not fair. It was excessive. It would reasonably be
+expected that personal data of this type would be shared outside of
+Newham only where strictly necessary and under detailed written
+
+guidance, polices and agreements. None of those existed.
+
+The Commissioner is satisfied that Newham was responsible for these
+
+contraventions.
+
+13
+ICO.
+
+Information Commissioner’s Office
+
+48. The Commissioner has gone on to consider whether the
+
+conditions under section 55A DPA were met.
+Seriousness of the Contraventions
+
+49. The Commissioner is satisfied that the contraventions identified
+above were serious. This is because the Matrix contained highly
+
+sensitive personal data of a substantial number (203) of data subjects.
+
+50. Inthe circumstances, the Commissioner considers that the
+contraventions were serious having regard to the number of affected
+
+individuals and the nature of the personal data involved.
+
+51. Should it be necessary to do so, the Commissioner would further
+support her conclusions on seriousness by reference to the
+
+disappointing representations of Newham in seeking to defend the ISA.
+
+52. The Commissioner is therefore satisfied that condition (a) of section
+55A(1) DPA is met.
+
+Contraventions of a kind likely to cause substantial damage or
+substantial distress
+
+53. The relevant features of the kind of contraventions are:
+
+e Significant and long-standing failures to ensure data sharing on
+the basis of written agreements, documented decisions and
+identified rationales;
+
+e A failure to attempt to ensure any degree of control or data
+security over shared data of a sensitive kind, with obvious risks
+
+of harm in the event of unauthorised disclosure;
+
+14
+54.
+
+Ja.
+
+56.
+
+‘D
+1C QO.
+Information Commissioner's Office
+e An absence of any recorded consideration of what degree of data
+sharing was strictly necessary and to whom;
+e Disclosure on one occasion of excessive amounts of data, to
+
+excessive numbers of persons, being both disproportionate in
+
+itself and increasing the risks of data loss.
+
+The Commissioner considers that the contraventions identified above
+
+had the following potential consequences:
+
+As to the First Principle, the contravention was likely cause distress to
+data subjects who discovered that their sensitive personal data has
+been disclosed to an array of recipients (not all of whom are even
+public bodies) who would then be able to use that data in decision-
+
+making and actions concerning the data subjects.
+
+As to the Seventh Principle, the contravention was unusually serious. It
+was likely to cause distress to data subjects that such a sensitive and
+unredacted database was not the subject of sufficient data security
+controls. It was also likely that if a loss of such control led the database
+to come into the hands of inappropriate third parties, including criminal
+gangs, actual harm to the named and identified subjects would be a
+real risk. The unredacted Matrix would be a of
+identified targets in a context of existing highly dangerous criminal
+rivalries. The actual harm caused to individual data subjects whose
+personal data was contained in the unredacted database in issue - and
+the risk management steps taken on an urgent basis by the MPS upon
+discovery of the breach - underlines the nature of the risk. As noted
+above, the nature of the risk and harm in the context of the personal
+data in issue here is materially different to that in many data loss
+
+incidents investigated by the Commissioner.
+
+15
+af,
+
+58.
+
+a
+
+60.
+
+@
+ICO.
+Information Commissioner's Office
+Further, the contravention of the Seventh Principle exposed a wider
+range of persons to the risk of actual harm. The unredacted database
+contained the home addresses of the data subjects. Many of those data
+subjects will live at those addresses with family members who are
+entirely unconnected with gangs. Yet the disclosure of their addresses
+exposes not only the data subjects themselves but also those living at
+the same address to the risk of harm through reprisals or being
+
+bystanders in acts of criminal violence.
+
+The Commissioner considers that the damage and/or distress described
+above was likely to arise as a consequence of the kind of
+contravention. In other words, the Commissioner’s view is that there
+was a significant and weighty chance that a contravention of the kind
+
+described would have such consequences.
+
+The Commissioner also considers that such damage and/or distress
+was likely to be substantial, having regard to the number of affected
+individuals and the nature of the personal data involved. In the
+circumstances, the likely damage or distress was certainly more than
+
+trivial.
+
+The Commissioner has also given weight to the number of affected
+individuals: over 200. The Commissioner considers that even if the
+damage or distress likely to have been suffered by each affected
+individual was less than substantial, the cumulative impact would
+clearly pass the threshold of “substantial”. In addition, given the
+number of affected individuals and the nature of the data lost, it was
+inherently likely that at least some of those individuals would have
+been likely to suffer substantial damage or substantial distress on
+
+account of their particular circumstances.
+
+16
+Information Commissioner’s Office
+
+61. The Commissioner is therefore satisfied that condition (b) of section
+55A(1) DPA is met.
+
+Deliberate or Negligent Contraventions
+
+62. The Commissioner has considered whether the contraventions
+identified above were deliberate. In particular, she has considered
+whether Newham’s breach of the Seventh Principle was so flagrant that
+she should infer that it was deliberate. However, on balance, she has
+
+concluded that Newham did not deliberately contravene the DPA.
+
+63. The Commissioner has gone on to consider whether the contraventions
+identified above were negligent. First, she has considered whether
+Newham knew or ought reasonably to have known that there was a
+risk that these contraventions would occur. She is satisfied that this
+condition is plainly met. Newham is, or ought to be, aware of the long-
+established requirements of the DPA in relation to both the First and
+Seventh Principles. None of the matters forming the contraventions are
+unusual or complex. Newham’s failures were basic, fundamental and
+egregious. They would be inexplicable from any data controller, let
+alone one used to processing and sharing all manner of highly sensitive
+
+personal data.
+
+64. Second, the Commissioner has considered whether Newham knew or
+ought reasonably to have known that those contraventions would be of
+a kind likely to cause substantial damage or substantial distress. She is
+satisfied that this condition is met, given that Newham was plainly
+aware of the sensitive personal data contained in the unredacted Matrix
+databases, and the context of criminal violence to which that sensitive
+
+personal data related. Therefore, it should have been obvious to
+65.
+
+66.
+
+67.
+
+68,
+
+ICO.
+
+Information Commissioner’s Office
+
+Newham that such contraventions would be of a kind likely to cause
+
+substantial damage or substantial distress to the affected individuals.
+
+Third, the Commissioner has considered whether Newham failed to
+take reasonable steps to prevent the contraventions. Again, she is
+satisfied that this condition is met. Indeed, she is satisfied that
+Newham appears to have taken no material steps to prevent the
+contraventions, still less steps of the kind which would be expected of a
+responsible and experienced public authority in handling and sharing
+sensitive personal! data. At the very least, Newham should have
+ensured that there were clear written information sharing agreements
+
+in place.
+
+In summary, the Commissioner finds that Newham has been grossly
+negligent in respect of its failure to comply with the DPA. She notes
+that Newham, rightly, took no issue in its representations with the
+
+finding of negligence.
+
+The Commissioner is therefore satisfied that condition (c) of section
+55A(1), read with section 55A(3), DPA is met.
+
+The amount of the penalty the Commissioner proposes to
+
+Impose
+
+The Commissioner has considered the purported mitigating factors
+raised by Newham in its representations. She does not dispute the
+value and importance of properly calibrated and protected information
+sharing in the context of seeking to encourage young people out of
+gang crime, but the sensitive nature of that context also underlines the
+very great care needed on the part of data controllers. To the extent
+
+that Newham achieved a ‘high assurance’ rating from the
+
+18
+69.
+
+70.
+
+i)
+LC O.
+Information Commissioner's Office
+Commissioner in the 2012 audit in relation to the areas within the
+scope of that audit, the Commissioner does not consider that
+
+substantial weight can be attributed to that rating in the different
+
+context of the present issues and contraventions.
+
+For the avoidance of doubt, the Commissioner does not consider in the
+context of this case that any subsequent steps on the part of Newham
+to bring itself into compliance can be classified as a mitigating
+circumstance. Compliance with the law is the bare minimum to be
+expected. Nor is the fact that the incident was a single identified
+instance of sharing of the unredacted database; that is an inherent part
+of the breach and if a single incident is sufficiently serious to warrant a
+
+monetary penalty it cannot also operate as a mitigating factor.
+
+By contrast, the Commissioner considers that not only are the
+contraventions themselves particularly serious, but that there are also
+
+aggravating features of this case:
+
+A responsible data controller would be expected, through internal data
+auditing and training, to have identified the egregious failings over an
+extended period of time in its written policies in particular.
+
+Unusually for a contravention of the Seventh Principle, there was — and
+remains ~ a real risk that the loss of control over the unredacted
+database would result in physical harm, including death, of the data
+subjects. The potential consequences of the breach, as distinct from
+the nature of the data itself, are relevant as an aggravating factor.
+Newham did not notify the Commissioner of the self-evident breach
+when gang members revealed that they had authorised access to parts
+the database. It is irrelevant whether or not it believed the MPS may
+
+have intended to do so: it was the data controller’s responsibility.
+71.
+
+o2s
+
+cr
+
+‘@
+ICO.
+Informatlon Commissioner's Office
+Newham’s investigation appears to be have been brief, limited and not
+recorded in the manner the Commissioner would expect of a
+responsible data controller.
+To the extent that Newham carried out an investigation, it did not
+clearly and proactively provide the content and outcome of that
+investigation to the Commissioner during her own investigation.
+Newham’s responses to the Commissioner during her investigation
+were inaccurate and misleading (albeit in a manner against its own
+interests).
+No data protection or privacy impact assessment was carried out in
+
+relation to the data sharing.
+
+The Commissioner has had regard to the fact that Newham is a public
+authority so liability to pay a monetary penalty will not fall on any
+individual, and that has access to sufficient financial resources to pay
+the proposed monetary penalty without causing undue financial
+
+hardship.
+
+The Commissioner's underlying objective in imposing a monetary
+penalty notice is to promote compliance with the DPA and this is an
+opportunity to reinforce the need for data controllers to ensure that
+appropriate and effective security measures are applied to personal
+data.
+
+Taking into account all of the above, the Commissioner has decided
+that a penalty in the sum of £145,000 (one hundred and forty-five
+thousand pounds) is reasonable and proportionate given the
+particular facts of the case and the underlying objective in imposing the
+
+penalty.
+
+20
+74.
+
+ids
+
+76.
+
+7/.
+
+78.
+
+Fo.
+
+ICO.
+
+Information Commissioner's Office
+
+Conclusion
+
+The monetary penalty must be paid to the Commissioner’s office by
+BACS transfer or cheque by 8 May 2019 at the latest. The monetary
+penalty is not kept by the Commissioner but will be paid into the
+Consolidated Fund which is the Government’s general bank account at
+the Bank of England.
+
+If the Commissioner receives full payment of the monetary penalty by
+7 May 2019 the Commissioner will reduce the monetary penalty by
+
+20% to £116,000 (one hundred and sixteen thousand pounds).
+However, you should be aware that the early payment discount is not
+
+available if you decide to exercise your right of appeal.
+
+There is a right of appeal to the First-tier Tribunal (Information Rights)
+
+against:
+(a) the imposition of the monetary penalty
+and/or;
+(b) the amount of the penalty specified in the monetary penalty
+
+notice.
+
+Any notice of appeal should be received by the Tribunal within 28 days
+of the date of this monetary penalty notice.
+
+Information about appeals is set out in Annex 1.
+
+The Commissioner will not take action to enforce a monetary penalty
+
+unless:
+
+Z1
+a
+1C O 9
+Information Commissioner's Office
+e the period specified within the notice within which a monetary
+
+penalty must be paid has expired and all or any of the monetary
+
+penalty has not been paid;
+
+e all relevant appeals against the monetary penalty notice and any
+
+variation of it have either been decided or withdrawn; and
+
+e the period for appealing against the monetary penalty and any
+
+variation of it has expired.
+
+80. In England, Wales and Northern Ireland, the monetary penalty is
+recoverable by Order of the County Court or the High Court. In
+Scotland, the monetary penalty can be enforced in the same manner as
+an extract registered decree arbitral bearing a warrant for execution
+
+issued by the sheriff court of any sheriffdom in Scotland.
+
+  
+  
+
+SIQNE, .. ccsusssciissauvreeanvenmsanacanninacabcseces ,
+
+Stephen Eckersley
+
+Director of Investigations
+Information Commissioner's Office
+Wycliffe House
+
+Water Lane
+
+Wilmslow
+
+Cheshire
+
+SK9 5AF
+
+22
+ICO.
+
+Information Commissioner’s Office
+
+ANNEX 1
+SECTION 55A-55E OF THE DATA PROTECTION ACT 1998
+RIGHTS OF APPEAL AGAINST DECISIONS OF THE COMMISSIONER
+
+1: Section 55B(5) of the Data Protection Act 1998 gives any person upon
+whom a monetary penalty notice has been served a right of appeal to
+the First-tier Tribunal (Information Rights) (the ‘Tribunal’) against the
+
+notice.
+Zn If you decide to appeal and if the Tribunal considers: -
+
+a) that the notice against which the appeal is brought is not in
+
+accordance with the law; or
+
+b) to the extent that the notice involved an exercise of discretion by
+the Commissioner, that she ought to have exercised her
+
+discretion differently,
+
+the Tribunal will allow the appeal or substitute such other decision as
+could have been made by the Commissioner. In any other case the
+
+Tribunal will dismiss the appeal.
+
+Sn You may bring an appeal by serving a notice of appeal on the Tribunal
+
+at the following address:
+
+General Regulatory Chamber
+HM Courts & Tribunals Service
+PO Box 9300
+
+Leicester
+
+LE1 8DJ
+
+23
+a)
+
+b)
+
+Information Commissioner's Office
+
+The notice of appeal should be sent so it is received by the
+
+Tribunal within 28 days of the date of the notice.
+
+If your notice of appeal is late the Tribunal will not admit it
+unless the Tribunal has extended the time for complying with this
+
+rule.
+
+The notice of appeal should state:-
+
+a)
+
+b)
+
+)
+
+d)
+
+e)
+
+r)
+
+g)
+
+n)
+
+your name and address/name and address of your representative
+
+(if any);
+
+an address where documents may be sent or delivered to you;
+
+the name and address of the Information Commissioner;
+
+details of the decision to which the proceedings relate;
+
+the result that you are seeking;
+
+the grounds on which you rely;
+
+you must provide with the notice of appeal a copy of the
+
+monetary penalty notice or variation notice;
+
+if you have exceeded the time limit mentioned above the notice
+of appeal must include a request for an extension of time and the
+
+reason why the notice of appeal was not provided in time.
+
+Before deciding whether or not to appeal you may wish to consult your
+
+solicitor or another adviser. At the hearing of an appeal a party may
+
+24
+Informatlon Commissioner's Office
+
+conduct his case himself or may be represented by any person whom
+
+he may appoint for that purpose.
+
+The statutory provisions concerning appeals to the First-tier Tribunal
+(Information Rights) are contained in section 55B(5) of, and Schedule
+6 to, the Data Protection Act 1998, and Tribunal Procedure (First-tier
+Tribunal) (General Regulatory Chamber) Rules 2009 (Statutory
+Instrument 2009 No. 1976 (L.20)).
+
+25

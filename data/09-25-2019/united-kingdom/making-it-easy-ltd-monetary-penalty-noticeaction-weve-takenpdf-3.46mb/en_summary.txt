@@ -1,0 +1,58 @@
+Regulation 21 paragraph (1) of PECR provides that:
+
+“(1) A person shall neither use, nor instigate the use of, a public
+electronic communications service for the purposes of making
+
+unsolicited calls for direct marketing purposes where-
+
+(a) the called line is that of a subscriber who has previously
+notified the caller that such calls should not for the time being
+
+be made on that line; or
+
+(b) the number allocated to a subscriber in respect of the called
+
+line is one listed in the register kept under regulation 26.”
+Regulation 21 paragraphs (2), (3), (4) and (5) provide that:
+
+“(2) A subscriber shall not permit his line to be used in contravention
+
+of paragraph (1). Section 55A of the DPA (as amended by the Privacy and Electronic
+Communications (EC Directive)(Amendment) Regulations 2011 and the
+Privacy and Electronic Communications (EC Directive) (Amendment)
+
+Regulations 2015) states:
+
+“(1) The Commissioner may serve a person with a monetary penalty if
+
+the Commissioner is satisfied that —
+
+(a) there has been a serious contravention of the requirements
+of the Privacy and Electronic Communications (EC
+
+Directive) Regulations 2003 by the person, and
+(b) subsection (2) or (3) applies. Regulation 24 of PECR provides:
+
+“(1) Where a public electronic communications service is used for the
+transmission of a communication for direct marketing purposes the
+person using, or instigating the use of, the service shall ensure that the
+
+following information is provided with that communication —
+
+(b) in relation to a communication to which regulation 21 (telephone
+calls) applies, the particulars mentioned in paragraph (2)(a) and, if the
+
+recipient of the call so requests, those mentioned in paragraph 2(b). (5) Where a subscriber has given a caller notification pursuant to
+
+paragraph (4) in relation to a line of his—
+
+(a) the subscriber shall be free to withdraw that notification at any
+time, and
+(b) where such notification is withdrawn, the caller shall not make such
+
+calls on that line.”
+
+Under regulation 26 of PECR, the Commissioner is required to maintain
+a register of numbers allocated to subscribers who have notified them
+that they do not wish, for the time being, to receive unsolicited calls for
+direct marketing purposes on those lines.

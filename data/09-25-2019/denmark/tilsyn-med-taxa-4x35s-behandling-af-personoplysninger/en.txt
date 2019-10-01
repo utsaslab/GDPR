@@ -1,0 +1,86 @@
+
+Supervision of Taxa 4x35's processing of personal data
+Published 18-03-2019
+Decision
+Private companies
+Just under DKK 9 million person-accessible taxatures have been stored for no purpose, estimates the Danish Data Protection Agency. Journal number: 2018-41-0016
+Summary
+In the autumn of 2018, the Data Inspectorate was on a supervisory visit to Taxa 4x35. was examined whether the taxi company has set deadlines for deleting customer information - and whether the deadlines are being met.
+According to Taxa 4x35, the information used for the customer's ordering and settlement of taxature will be anonymized after two years, as there is no longer a need to identify the customer.
+However, only the customer's name is deleted after the two years - but not the customer's phone number. Therefore, information about the customer's taxation (including collection and delivery addresses) can still be attributed to a natural person via the telephone number, which is only deleted after five years.
+The reason why the telephone number is not deleted is, according to the taxi company, that the number is the key to the system's database and is therefore necessary in relation to the company's product and business development.
+In the opinion of the Data Inspectorate, however, it is not possible to set a deletion period of three years longer than is necessary simply because the company's system makes it difficult to comply with the rules in the Data Protection Regulation.
+Statement
+The Authority's planned supervision of Taxa 4x35 focused in particular on the deletion of personal data in accordance with Article 5 (1) of the Data Protection Regulation. 1 (e).
+At the request of the Data Inspectorate, Taxi 4x35 had completed a questionnaire for each of the systems in which personal data was processed and submitted these together with additional material to the audit prior to the audit visit. The oversight visit itself took place on October 3, 2018.
+Based on what the Danish Data Protection Agency has found in connection with the audit visit, the Danish Data Protection Agency finds a basis for concluding:
+
+
+That Taxa 4x35 has failed to comply with the requirements of Article 5 (1) of the Data Protection Regulation. 1 (e) (storage restriction), as the company's procedure for anonymizing personal data is inadequate.
+
+
+That Taxa 4x35 has failed to comply with the requirements of Article 5 (1) of the Data Protection Regulation. 1 (c) (data minimization), since the company's retention of customers' telephone numbers for 5 years has not been necessary in relation to the purposes for which they are stored.
+
+
+That Taxa 4x35 has failed to comply with the requirements of Article 5 (1) of the Data Protection Regulation. 2, cf. Article 5 (2). 1 (b), in that the company has not unequivocally established with which treatment secret customer's telephone number has been stored for 5 years after driving a taxi.
+
+
+That Taxa 4x35 has failed to comply with the requirements of Article 5 (1) of the Data Protection Regulation. 2, cf. Article 5 (2). 1 (e), as the undertaking has not sufficiently documented the deletions made in the systems and its procedures.
+
+
+In relation to points 1 and 2, the Data Inspectorate has today filed a police report of Taxi 4x35 to the Copenhagen Police.
+In addition, in relation to points 3 and 4, the Data Inspectorate finds overall grounds for expressing serious criticism that Taxa 4x35 has not complied with the requirements of the Data Protection Regulation.
+A more detailed review of the Danish Data Protection Agency's conclusions follows below.
+Re item 1: Anonymization of taxature
+One of the systems in which Taxa 4x35 (hereafter Taxa) processes personal data is DDS Pathfinder. The system is used for customer ordering and settlement of taxature.
+When a taxi is registered in the DDS Pathfinder, information about eg. the customer's name, telephone number, date of the journey, the start and end time of the journey, the number of kilometers traveled, the payment, the start and end position indicated as GPS coordinates and / or written address and other coordinates.
+As long as a taxi can be linked to the customer who has booked the tour, the said information is to be considered personal information about the customer.
+Taxi has, in connection with the inspection visit, stated that the information in DDS Pathfinder relating to taxature is anonymized after 2 years, and that this anonymization consists in the deletion of the customer's name from the taxi. Taxi has also stated that the customer's phone number is kept for 5 years and that this is done solely as a data base for business development.
+An anonymization of personal data means that no natural persons can subsequently be identified from the information, or in combination with other information, ie. that the information is not personally identifiable. It is a condition of anonymization that this is irrevocable, ie. that the natural person (s) concerned cannot be linked to the information in question by any means. It should be noted that information made anonymous is no longer covered by the data protection rules.
+During the audit visit, the Data Inspectorate conducted a sample search in DDS Pathfinder. The listings showed that customers' taxis can continue to be searched for more than 2 years after the taxis have been run when searching the customer's telephone number. It is the opinion of the Data Inspectorate that with Taxi's procedure for anonymization, whereby only the customer's name is deleted from the taxi, no real anonymization of the information is made. In particular, Taxi continues to process personal information about the customer's telephone number, date of the journey, start and end time of the journey, number of kilometers driven, payment, start and end position stated as GPS coordinates and / or written address as well as other coordinates 2 years after the taxi has been run.
+Furthermore, the Data Inspectorate is of the opinion that Taxi's continued processing of the customer's telephone number, with which the other processed information about the taxi is not anonymised, is not in accordance with Article 5 (1) of the Data Protection Regulation. 4. Paragraph 1 (e) states that personal data must be stored in such a way that it is not possible to identify data subjects for a longer period than is necessary for the purposes for which the personal data is processed.
+In this connection, it should be noted that Taxi itself has considered that it is only necessary to process the information for 2 years.
+Re item 2: Retention of the customer's telephone number for 5 years in relation to the data minimization requirement
+Article 5 (1) of the Data Protection Regulation (C) Paragraph 1 (c) states that personal data must be sufficient, relevant and limited to what is necessary in relation to the purposes for which they are processed.
+In connection with the audit visit, Taxi has informed the Danish Data Protection Agency that the customer's telephone number is stored for 5 years after the taxi service has been run.
+Furthermore, Taxi has stated that the customer's telephone number is treated solely as a data base for business development and that the telephone number is the common frame of reference in the DDS Pathfinder system.
+Finally, Taxi has informed the Data Inspectorate that another unique ID number could serve the same purpose as the telephone number after the two years have passed, but that the system cannot handle the telephone number with an ID number or similar in retrospect.
+The Data Inspectorate is of the opinion that Taxi's arrangement of DDS Pathfinder, which uses the customer's telephone number as a key and common frame of reference in the system, is not in accordance with Article 5 (1) of the Data Protection Regulation. 1 (c), since the telephone number itself is not necessary for the purpose in question.
+In this connection, the Data Inspectorate should note that any costs associated with the migration of tax information to a new data structure cannot justify a failure to delete the customer's telephone number after 2 years.
+Re item 3: Obscurity about treatment home
+During the audit visit, the Data Inspectorate asked what considerations Taxa made when setting the deletion period of 5 years in relation to the processing of customers' telephone numbers.
+Taxi stated in this connection that the telephone number is the key to the entire database behind DDS Pathfinder and is therefore necessary in Taxi's product and business development.
+However, after the visit, NORDIA Advokatfirma I / S (hereinafter NORDIA) - on behalf of Taxa - stated, by letter of 28 November 2018, that Taxa "keeps the telephone numbers from which orders are made for up to 5 years in accordance with the taxi order" . In the same letter, NORDIA states that “the storage of the exact telephone number is a prerequisite for the DDS Pathfinder system to work. This is because the common frame of reference in the DDS Pathfinder system is the telephone number to which trips are ordered ”.
+By letter dated December 7, 2018, the Danish Data Protection Agency requested Taxa to state the grounds on which Taxa stores customers' telephone numbers for 5 years. At the same time, if the storage is for the purpose of complying with the taxi order, the Data Protection Agency asked Taxa to elaborate further, where the requirement for storing telephone numbers is specifically stated in the taxi order.
+On December 13, 2018, NORDIA sent a response to the Danish Data Protection Agency's letter of December 7, 2018, in which Taxi stated that “the telephone number is the key in Taxi's system. It is therefore stored both for Taxi to operate and as a basis for Taxi's business development ”. At the same time, NORDIA stated that the reason for the storage with reference to the taxi order was due to a misunderstanding.
+Article 5 (1) of the Data Protection Regulation (B) Paragraph 1 (b) states that personal data must be collected for explicit and legitimate purposes. It is stated at the same time in Article 5 (2). 2, that the data controller is responsible for and must be able to demonstrate that subsection 2. 1 is complied with.
+It is the opinion of the Data Inspectorate that Taxa - since there has been uncertainty on several occasions by Taxi about which legal customers' telephone numbers have been processed in DDS Pathfinder - has not complied with the requirements for accountability under Article 5 (1) of the Data Protection Regulation. 2, cf. Article 5 (2). 1 (b).
+Re item 4: Documentation of deletion procedures
+As part of the supervision of Taxi's compliance with the requirements for the deletion of personal data, the Data Inspectorate has reviewed the company's procedures for deletion and documentation thereof.
+As far as documentation of deletion procedures is concerned, the Data Inspectorate can, on the basis of the material submitted by Taxa, find that the documentation for deletion procedures in all the selected systems has been superficial and generally deficient.
+In connection with the audit visit, the Data Inspectorate has also requested documentation of Taxi's procedures for: following up on the deletion of the systems correctly; handling reloading of previously deleted personal data when using backup; and logging deletions in the systems.
+With regard to follow-up on deletion and handling of reloading of previously deleted personal data when using backup, Taxi has stated that there is no documentation of the company's procedures for this.
+With regard to logging of deletions in the systems, the Danish Data Protection Agency can, on the basis of the audit visit, conclude that in 3 out of 4 of the systems that were the subject of the audit visit, logging of deletions was only done in a manual spreadsheet. Furthermore, this spreadsheet did not show the logging of specific deletions, but merely a history of who performed the deletion in that system and when the deletion was performed. Fourth, on June 14, 2018, Taxi has implemented a functionality for logging deleted information. The logging was commissioned on October 1, 2018.
+Article 5 (1) of the Data Protection Regulation 2, cf. Article 5 (2). In accordance with paragraph 1 (e), it follows that the data controller must be able to demonstrate that it has not been possible to identify the data subjects for a longer period of time than is necessary for the purposes for which the personal data are processed.
+The Data Inspectorate is of the opinion that Taxi has not complied with the requirements of Article 5 (1) of the Data Protection Regulation. 2, cf. Article 5 (2). Paragraph 1 (e), in that Taxi has not documented the company's procedures for follow-up on deletion, handling of reloading of previously deleted personal data when commissioning backup, and because Taxi's logging of deletions has been insufficient.
+conclusion
+Based on what the Danish Data Protection Agency has found in connection with the audit visit, the Danish Data Protection Agency finds a basis for concluding:
+
+
+That Taxa 4x35 has failed to comply with the requirements of Article 5 (1) of the Data Protection Regulation. 1 (e) (storage restriction), as the company's procedure for anonymizing personal data is inadequate.
+
+
+That Taxa 4x35 has failed to comply with the requirements of Article 5 (1) of the Data Protection Regulation. 1 (c) (data minimization), since the company's retention of customers' telephone numbers for 5 years has not been necessary in relation to the purposes for which they are stored.
+
+
+That Taxa 4x35 has failed to comply with the requirements of Article 5 (1) of the Data Protection Regulation. 2, cf. Article 5 (2). 1 (b), in that the company has not unequivocally established with which treatment secret customer's telephone number has been stored for 5 years after driving a taxi.
+
+
+That Taxa 4x35 has failed to comply with the requirements of Article 5 (1) of the Data Protection Regulation. 2, cf. Article 5 (2). 1 (e), as the undertaking has not sufficiently documented the deletions made in the systems and its procedures.
+
+
+In relation to points 1 and 2, the Data Inspectorate has today filed a police report of Taxi 4x35 to the Copenhagen Police.
+In addition, in relation to points 3 and 4, the Data Inspectorate finds overall grounds for expressing serious criticism that Taxa 4x35 has not complied with the requirements of the Data Protection Regulation.
+
+[1] Act No 502 of 23 May 2018 on additional provisions for a regulation on the protection of individuals with regard to the processing of personal data and on the free exchange of such information (Data Protection Act).
+[2] Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of individuals with regard to the processing of personal data and on the free movement of such information and repealing Directive 95/46 / EC (general data protection regulation).

@@ -213,5 +213,31 @@
         "render_type": "FULLY_RENDERED"
       }
     ]
+  },
+  "CZ": {
+    "country": "Czech Republic",
+    "name": "Office for Personal Data Protection",
+    "address": "Pplk. Sochora 27\n170 00 Prague 7",
+    "phone": "234 665 111",
+    "country_code": "+420",
+    "email": "posta@uoou.cz",
+    "website": "https://www.uoou.cz",
+    "member": {
+      "name": "Ms Ivana JANŮ",
+      "title": "President"
+    },
+    "sources": [
+      {
+        "host": "https://www.uoou.cz",
+        "start_path": "/vismo/zobraz_dok.asp?id_org=200144&id_ktg=1022&n=z-rozhodovaci-cinnosti-uradu&p1=1277",
+        "target_element": {
+          "results": "div.dok",
+          "pagination": "div.strlistovani",
+          "document": "div#dokument",
+          "date": "div.popis.dpopis"
+        },
+        "render_type": "FULLY_RENDERED"
+      }
+    ]
   }
 }

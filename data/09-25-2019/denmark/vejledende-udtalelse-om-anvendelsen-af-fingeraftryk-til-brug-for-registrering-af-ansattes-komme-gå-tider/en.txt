@@ -1,0 +1,74 @@
+
+Guidance on the use of fingerprints to record employee arrival / walking times
+Published 29-05-2019
+Decision
+Private companies
+The Data Inspectorate has issued an indicative opinion on the question of the use of fingerprints (templates) for registration of employees 'arrival / departure times as part of the control of employees' working hours. Journal number 2018-211-0135
+Summary
+The Data Inspectorate has received an inquiry from a lawyer who, on behalf of a client, wanted the Authority's opinion on whether processing of employee fingerprint information (templates) for registration of employees 'coming / going times as part of checking employees' working hours may be considered to the extent necessary for legal claims to be established, enforced or defended, in accordance with Article 9 (2) of the Data Protection Regulation; 2 (f).
+Processing of biometric data - such as fingerprint information - for the purposes of unambiguous identification of a natural person, the Data Protection Regulation is covered by Article 9 of the Data Protection Regulation on sensitive information.
+The Data Protection Authority stated - after the matter had been examined by the Data Council - that the prohibition on processing information on the fingerprints of a staff member, including templates, in Article 9 (2) of the Regulation. 1, for the purposes of recording the arrival / departure times of employees cannot be waived with reference to Article 9 (2) of the Data Protection Regulation. 2 (f) (legal requirements) when processing is carried out as part of the control of an employee's working hours.
+In addition, the Data Inspectorate considered whether the processing of employee fingerprints with a view to controlling the employee's coming / going times as part of time control could be based on the consent of the employee.
+In this connection, the Data Inspectorate considered that an employee's consent for an employer to process information about his or her fingerprints in connection with time control, which the clear starting point cannot be considered voluntary and thus constitutes a valid basis for processing.
+Decision
+First
+The Data Inspectorate hereby returns to the case where, on behalf of TimePlan A / S, you have contacted the Authority regarding the use of fingerprints (templates) for registration of employees 'coming / going times as part of the control of the employees' working hours.
+Processing of biometric data - such as fingerprint information - for the purposes of unambiguous identification of a natural person, the Data Protection Regulation is covered by Article 9 of the Data Protection Regulation on sensitive information.
+The Data Inspectorate's practice on the use of fingerprints relates to the previous legal basis in the Personal Data Act, and the case has therefore been submitted to the Data Council.
+The Data Inspectorate must then state the following:
+The prohibition on processing information on the fingerprints of a staff member, including templates, in Article 9 (2) of the Regulation. 1, for the purpose of recording the arrival / departure times of employees cannot be waived with reference to Article 9 (2) of the Data Protection Regulation. 2 (f) (legal requirements), when treatment is carried out as part of the control of an employee's working hours, because the requirement of the provision is not met.
+Below is a presentation of the case and a rationale for the Danish Data Protection Agency's opinion.
+2. Case making
+You have, on behalf of TimePlan A / S, contacted the Danish Data Protection Agency regarding the use of fingerprint scanning for the purpose of registering employees' coming / going times.
+You have stated that TimePlan A / S has developed the program, TimePlan, which is used by customers in connection with an efficient and economical solution of guard scheduling for time registration right up to the preparation of pay data, which is transferred from the program to customers' payroll systems.
+The program is modular and one of the modules is used for time registration. In this connection, it is possible to connect a fingerprint scanner, so that the program can use the fingerprint (templates) to ensure which employee uses the scanner when the employee meets or leaves the workplace, so that the person in question is precisely identified. employee.
+The customers who use the module in TimePlan use it solely to ensure that proper attendance can be registered, so that there is a correct basis for calculating salary, salary supplement and so on. Timeplan A / S wants to ensure, for the sake of customers and users of the program, that the future use of the function can be regarded as covered by Article 9 (1) of the Data Protection Regulation. 2 (f) on the determination of legal requirements.
+Employee fingerprint information will be stored as templates stored encrypted in a central database.
+You have requested the Data Inspectorate to confirm that the described use of templates calculated on the basis of fingerprints can be used as outlined.
+3. Legal basis for the Danish Data Protection Agency's opinion
+3.1. Scope of the Data Protection Regulation
+According to Article 2 (1), the Data Protection Regulation applies. 1 applies to the processing of personal data which is wholly or partially processed by means of automatic data processing and to other non-automatic processing of personal data which is or will be contained in a register.
+According to Article 4 (1) of the Regulation, personal data means any form of information about an identified or identifiable natural person ('the data subject').
+It is the opinion of the Danish Data Protection Agency that both in the collection (enrollment [1]) of the imprint of a finger that will form the basis for biometric recognition or identification, as well as in the subsequent use (matching) of the imprint in connection with the biometric solution , is a processing of personal data covered by the Data Protection Regulation.
+3.2. The category of information
+The term biometric data is defined, according to Article 4 (14) of the Regulation, as personal data which, as a result of specific technical processing concerning the physical, physiological or behavioral characteristics of a natural person, enable or confirm a unique identification of the person, eg. face image or fingerprint information.
+The processing of fingerprint information in the form of templates will therefore constitute a processing of biometric data.
+Following the wording of Article 9 (1) of the Data Protection Regulation. 1, biometric data, including fingerprint information, should only be considered a specific category of information when processing is carried out for the purpose of uniquely identifying a natural person.
+In the opinion of the Data Inspectorate, therefore, a distinction must be made between whether treatment is carried out for the purpose of uniquely identifying a natural person or whether processing is done for other purposes - e.g. authentication (authentication).
+This will be treatment with the aim of clearly identifying a natural person who is subject to the prohibition in Article 9 (2) of the Regulation. 1, when comparing information on a person's fingerprints (collected at the time of identification) with a series of biometric templates stored in a database so that one or more matching processes occur [2].
+Based on the information provided in the case, the Data Inspectorate finds that it is possible to assume that TimePlan A / S's solution works by matching the employee's fingerprint (template) against a database containing the employee's fingerprints, so that unambiguously identify which employee is accessing and leaving the workplace and when this is happening. It is therefore a matter of exclusive treatment of specific categories of information covered by the prohibition laid down in Article 9 (2) of the Regulation. First
+Pursuant to Article 9 (1) of the Data Protection Regulation. In principle, the prohibition does not apply if one of the exceptions in Article 9 (1) of the Data Protection Regulation applies. 2, or the conditions in section 7 of the Data Protection Act are fulfilled.
+3.3. Treatment is necessary for legal claims to be established, enforced or defended
+The prohibition in Article 9 (2) of the Data Protection Regulation. 1, against the treatment of i.a. biometric data for the purpose of unambiguously identifying a natural person, according to the provision of the provision. Paragraph 2 (f) does not apply where treatment is necessary for the purpose of establishing, asserting or defending legal claims or when courts act in their capacity as a court.
+The Data Inspectorate is of the opinion that an employee's claim for (legal) salary - and the employer's claim to pay only the salary to which the employee is entitled - can be regarded as a legal claim.
+In the EDPS's view, the requirement of necessity in Article 9 (1) of the Data Protection Regulation implies However, Article 2 (2) (f) states that treatment must be more than just a practical way of fulfilling the purpose, just as the requirement of necessity implies that objectively, objectively, must not be reasonably attainable by less intrusive means.
+It is the opinion of the Danish Data Protection Agency that checks on the arrival / departure times of employees can be carried out with less intervention which does not require the processing of sensitive information. It will, for example. be able to check when an employee has come and gone from the workplace by using access cards or other similar measures - possibly in combination with other measures, including random checks or manual (personal) checks at the entrance.
+The risk of cheating when using other and less intrusive solutions - eg. access cards or the like - in the opinion of the Data Inspectorate is not of such a nature that this requires a systematic processing of biometric information. Thus, it is the opinion of the Data Inspectorate that the possible benefits of a solution such as the present cannot offset that the solution depends on the use of information covered by Article 9.
+Against this background, the Data Inspectorate considers that the requirement of necessity laid down in Article 9 (2) of the Data Protection Regulation. 2 (f) is not fulfilled.
+3.4. Consent
+The Data Inspectorate has considered the possibility of processing employee fingerprints with a view to controlling the employee's coming / going times as part of time control could be based on the consent of the employee.
+The prohibition on the processing of sensitive information, including the processing of biometric data for the purpose of unambiguously identifying a natural person in Article 9 (2) of the Data Protection Regulation. 2. Paragraph 1 shall not apply if the data subject has expressly consented to the processing of such personal data for one or more specific purposes, unless the law of the Union or the national law of the Member States stipulates that The prohibition referred to in paragraph 1 cannot be lifted by the data subject's consent, in accordance with Article 9 (2) of the Regulation. 2, point a.
+Article 4 (11) of the Data Protection Regulation states that the consent of the data subject means any voluntary, specific, informed and unambiguous expression of the data subject, by which the data subject, by declaration or clear confirmation, agrees that personal data relating to the person concerned is subject to treatment.
+Article 7 (1) of the Data Protection Regulation 1-4, contains the conditions for consent as a basis for treatment. It follows that:
+
+
+If processing is based on consent, the data controller must be able to demonstrate that the data subject has given consent for the processing of his personal data.
+
+
+If the data subject's consent is given in a written statement which also relates to other matters, a request for consent must be submitted in a manner which is clearly distinguishable from the other matters, in an easily understandable and easily accessible form and in a clear and simple language. Any part of such a declaration which constitutes a violation of this Regulation shall not be binding.
+
+
+The data subject has the right to withdraw his consent at any time. Withdrawal of consent does not affect the legality of the treatment based on consent prior to withdrawal. Before consent is given, the data subject must be informed that the consent can be withdrawn. It must be as easy to withdraw its consent as to grant it.
+
+
+When assessing whether consent has been given freely, the greatest possible consideration is taken into account, including: fulfillment of a contract, including a service, is subject to consent to the processing of personal data which is not necessary for the fulfillment of this contract.
+
+
+It also follows from section 12 (1) of the Data Protection Act. 3 that processing of personal data in employment may take place on the basis of the data subject's consent in accordance with Article 7 of the Data Protection Regulation.
+Thus, it is a condition for being able to use consent as a basis for treatment that voluntarily, which e.g. implies that the employee has a real and free choice and control over the processing of his personal data.
+As a result of the dependency relationship between an employer and an employee, it is doubtful, in the opinion of the Data Inspectorate, whether an employee can refuse to give an employer his consent to the processing of his fingerprint information in order to control the employee's coming / going times without fear or real risk that the rejection will be detrimental to the person concerned or without feeling some pressure [3].
+On this basis, the Data Inspectorate is of the opinion that an employee's consent for an employer to process information about his or her fingerprints in connection with time control, which the clear starting point cannot be considered voluntary. If consent cannot be considered voluntary, it cannot constitute a valid basis for treatment. However, the Data Inspectorate cannot deny that special circumstances may exist under which consent can be considered voluntary.
+
+[1] That is, the first time the object is scanned for the calculation of the mathematically calculated value - e.g. a picture of the full fingerprint. A mathematically calculated value of a biometric image is referred to as a template.
+[2] This is the process of comparing biometric information / templates (collected during registration) with the biometric information / templates collected from a new sample for identification, verification / authentication or categorization.
+[3] Refer to page 7 of the Article 29 Working Party Guidelines on Consent under the Data Protection Regulation (WP259) and the Guidance on Consent available on the Authority's website.

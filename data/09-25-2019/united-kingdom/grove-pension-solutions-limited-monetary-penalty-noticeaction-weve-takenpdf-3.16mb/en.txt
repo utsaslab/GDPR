@@ -1,0 +1,812 @@
+TO:
+
+Of:
+
+1CO.
+
+Information Commissioner's Office
+
+DATA PROTECTION ACT 1998
+
+SUPERVISORY POWERS OF THE INFORMATION COMMISSIONER
+
+MONETARY PENALTY NOTICE
+
+Grove Pension Solutions Limited
+
+Grove House, London Road, Halstead, Sevenoaks, Kent TN14 7DS
+
+The Information Commissioner (“Commissioner”) has decided to issue
+Grove Pension Solutions Limited (“Grove”) with a monetary penalty
+under section 55A of the Data Protection Act 1998 (“DPA”). The penalty
+is in relation to a serious contravention of Regulation 22 of the Privacy
+and Electronic Communications (EC Directive) Regulations 2003
+(“PECR”).
+
+This notice explains the Commissioner’s decision.
+
+Legal framework
+
+Grove, whose registered office is given above (Company House
+Reference: 06045836), is the organisation stated in this notice to have
+instigated the transmission of unsolicited communications by means of
+electronic mail to individual subscribers for the purposes of direct
+
+marketing contrary to regulation 22 of PECR.
+
+Regulation 22 of PECR states:
+@
+
+1cO.
+
+Information Commissioner's Office
+“(1) This regulation applies to the transmission of unsolicited
+
+communications by means of electronic mail to individual
+
+subscribers.
+
+(2) Except in the circumstances referred to in paragraph (3), a person
+shall neither transmit, nor instigate the transmission of, unsolicited
+communications for the purposes of direct marketing by means of
+electronic mail unless the recipient of the electronic mail has
+previously notified the sender that he consents for the time being
+to such communications being sent by, or at the instigation of, the
+
+sender.
+
+(3) A person may send or instigate the sending of electronic mail for
+
+the purposes of direct marketing where—
+
+(a) that person has obtained the contact details of the recipient
+of that electronic mail in the course of the sale or
+negotiations for the sale of a product or service to that
+
+recipient;
+
+(b) the direct marketing is in respect of that person’s similar
+
+products and services only; and
+
+(c) the recipient has been given a simple means of refusing
+(free of charge except for the costs of the transmission of
+the refusal) the use of his contact details for the purposes
+of such direct marketing, at the time that the details were
+initially collected, and, where he did not initially refuse the
+use of the details, at the time of each subsequent
+
+communication.
+
+(4) A subscriber shall not permit his line to be used in contravention of
+
+paragraph (2).”
+10,
+
+iD
+1C O oO
+Information Commissioner's Office
+Section 11(3) of the DPA defines “direct marketing” as “the
+communication (by whatever means) of any advertising or marketing
+
+material which is directed to particular individuals”. This definition also
+
+applies for the purposes of PECR (see regulation 2(2)).
+
+“Individual” is defined in regulation 2(1) of PECR as “a living individual
+
+and includes an unincorporated body of such individuals”.
+
+“Electronic mail’ is defined in regulation 2(1) of PECR as “any text,
+voice, sound or image message sent over a public electronic
+communications network which can be stored in the network or in the
+recipient’s terminal equipment until it is collected by the recipient and
+
+includes messages sent using a short message service”.
+
+A “subscriber” is defined in regulation 2(1) of PECR as “a person who is
+a party to a contract with a provider of public electronic
+
+communications services for the supply of such services”.
+
+The term “soft opt-in” is used to describe the rule set out in in
+Regulation 22(3) of PECR. In essence, an organisation may be able to
+contact its existing customers by electronic mail even if they haven't
+specifically consented to electronic mail. The soft opt-in rule can only
+
+be relied upon by the organisation that collected the contact details.
+
+Section 55A of the DPA (as amended by the Privacy and Electronic
+Communications (EC Directive)(Amendment) Regulations 2011 and the
+Privacy and Electronic Communications (Amendment) Regulations
+2015) states:
+
+“(1) The Commissioner may serve a person with a monetary penalty if
+
+the Commissioner is satisfied that —
+11.
+
+12.
+
+13.
+
+Oo
+1CcO.
+Information Commissioner's Office
+(a) there has been a serious contravention of the requirements
+
+of the Privacy and Electronic Communications (EC
+
+Directive) Regulations 2003 by the person,
+(b) subsection (2) or (3) applies.
+(2) This subsection applies if the contravention was deliberate.
+(3) This subsection applies if the person —
+
+(a) knew or ought to have Known that there was a risk that
+
+the contravention would occur, but
+
+(b) failed to take reasonable steps to prevent the
+
+contravention.”
+
+The Commissioner has issued statutory guidance under section 55C (1)
+of the DPA about the issuing of monetary penalties that has been
+published on the ICO’s website. The Data Protection (Monetary
+Penalties) (Maximum Penalty and Notices) Regulations 2010 prescribe
+that the amount of any penalty determined by the Commissioner must
+not exceed £500,000.
+
+PECR implements European legislation (Directive 2002/58/EC) aimed at
+the protection of the individual’s fundamental right to privacy in the
+electronic communications sector. PECR was amended for the purpose
+of giving effect to Directive 2009/136/EC which amended and
+strengthened the 2002 provisions. The Commissioner approaches PECR
+
+so as to give effect to the Directives.
+The provisions of the DPA remain in force for the purposes of PECR
+notwithstanding the introduction of the Data Protection Act 2018 (see
+
+paragraph 58(1) of Part 9, Schedule 20 of that Act).
+
+Background to the case
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+1CO.
+
+Information Commlssioner’s Office
+
+Grove came to the attention of the Commissioner following intelligence
+received from the Financial Conduct Authority (“FCA”) regarding
+concerns around the organisation’s use of electronic mail for the
+
+purposes of direct marketing.
+
+Subsequent internal investigations carried out by the Commissioner
+suggested that there had in fact been two separate complaints made
+by subscribers via the ICO’s Online Reporting Tool in respect of
+
+unsolicited marketing emails promoting the services of Grove.
+
+In light of these findings the Commissioner, on 2 October 2017, sent
+an initial investigation letter to Grove asking questions as to their direct
+marketing practices, and setting out her concerns regarding their
+
+compliance with PECR.
+
+A substantive response was provided by Grove on 25 October 2017
+which advised that they utilised the services of a third party marketing
+agent to carry out a range of marketing functions on their behalf,
+including lead generation. Grove, by extension through this marketing
+agent, would work with ‘email providers’, who essentially provided a
+hosted marketing service by sending out “pre-approved emails” to
+opted-in subscribers contained within data sets which they themselves
+
+Supplied.
+
+The ‘email providers’ would obtain the consents of subscribers through
+a number of websites. For the purposes of the Commissioner’s
+investigation the consents obtained through the following websites
+were of particular relevance: www.testing12free.co.uk;
+
+www.soapboxsurvey.co.uk; and www.prizereactor.co.uk.
+19.
+
+20.
+
+21.
+
+2.
+
+23.
+
+24.
+
+Information Commissioner's Office
+
+The intended recipients of these emails would not have had a previous
+
+relationship with Grove.
+
+The Commissioner has examined the information which each of the
+websites used by the ‘email providers’ would provide to subscribers at
+the point of consent; including the terms and conditions, and the
+privacy policies of those sites. She has found that at no point are Grove
+specifically named as an organisation from, or about, whom recipients
+
+may receive direct marketing.
+
+On 31 January 2018 the Commissioner contacted Grove to request
+details of the due diligence carried out in respect of the ‘email
+providers’. In response Grove confirmed that they, in conjunction with
+their marketing agent, had sought the advice of a recognised specialist
+data protection consultancy regarding the use of hosted email for lead
+generation purposes; furthermore they had checked this advice with an
+independent data protection solicitor. Grove then instructed their
+marketing agent to contractually engage the services of the ‘email
+providers’ for the purposes of carrying out hosted marketing campaigns
+
+advertising the services of Grove.
+
+Grove confirmed to the Commissioner that between the dates of 31
+October 2016 and 31 October 2017, there were a total of 2,108,924
+direct marketing emails sent to subscribers advertising the products of
+Grove, of which 1,942,010 were delivered.
+
+The Commissioner has made the above findings of fact on the
+
+balance of probabilities.
+
+The Commissioner has considered whether those facts constitute
+a contravention of regulation 22 of PECR by Grove and, if so, whether
+
+the conditions of section 55A DPA are satisfied.
+
+6
+25:
+
+26.
+
+2/.
+
+28.
+
+29.
+
+30.
+
+1CO.
+
+Information Commissioner's Office
+
+The contravention
+
+The Commissioner finds that Grove has contravened regulation 22 of
+PECR.
+
+The Commissioner finds that between the dates of 31 October 2016
+and 31 October 2017, Grove instigated the transmission of 1,942,010
+direct marketing emails to subscribers contrary to regulation 22 of
+PECR.
+
+Organisations cannot generally send marketing emails unless the
+recipient has notified the sender that they consent to such emails being
+sent by, or at the instigation of, that sender. This principle applies
+equally to organisations who seek to utilise the services of third parties
+
+to send direct marketing on their behalf.
+
+As the instigator of the direct marketing emails, it is incumbent on
+Grove to ensure that it is compliant with the requirements of regulation
+22 of PECR, and to ensure that valid consent to send those messages
+
+had been acquired.
+
+It is the case that to be valid, consent must be freely given, specific
+and informed, and involve a positive indication signifying the
+
+individual’s agreement.
+
+The Commissioner’s direct marketing guidance says “organisations
+need to be aware that indirect consent (i.e. where a subscriber tells
+one organisation that they consent to receive marketing from other
+organisations) will not be enough for texts, emails or automated calls.
+This is because the rules on electronic marketing are stricter, to reflect
+
+the more intrusive nature of electronic messages.”
+31.
+
+Ze.
+
+ok
+
+34.
+
+35.
+
+@
+1C QO.
+Information Commissioner's Office
+However, the guidance goes on to say that indirect consent can be
+valid but only if it is clear and specific enough, reference to ‘general
+
+third parties’ will not be sufficient to demonstrate valid consent. The
+
+key issue is what the subscriber is told at the point consent is obtained.
+
+Consent will not be “informed” if individuals do not understand what
+they are consenting to. Organisations should therefore always ensure
+that the language used is clear, easy to understand, and not hidden
+away in a privacy policy or small print. Consent will not be valid if
+individuals are asked to agree to receive marketing from “similar
+organisations”, “partners”, “selected third parties” or other similar
+generic description. Further, consent will not be valid where an
+individual is presented with a long, seemingly exhaustive list of general
+
+categories of organisations.
+
+From review of the relevant privacy policies it is clear to the
+Commissioner that Grove are not specifically named, or identified in
+such a way that would suggest they could lawfully instigate direct
+marketing to subscribers. Further, the privacy policies referred to list a
+wide range of sectors about which subscribers may receive marketing,
+and also fail to provide subscribers with the option to specify the types
+
+of marketing they would wish to receive.
+
+Whilst it is acknowledged by the Commissioner that Grove obtained
+external advice regarding the legality of their hosted marketing
+campaign, a simple review of the customer journey would have
+
+exposed the issues apparent with the consents being relied upon.
+
+Therefore the Commissioner is satisfied that, notwithstanding the steps
+taken by Grove to ensure the veracity of the consents being relied
+
+upon, those consents were not sufficiently informed, specific, or freely
+36.
+
+Cre
+
+38.
+
+Ses
+
+40.
+
+41.
+
+Information Commissioner's Office
+
+given and therefore did not amount to valid consent for the purposes of
+regulation 22 PECR.
+
+Since it does not appear that Grove have had a prior relationship with
+the subscribers who received marketing for their products, they would
+also not be able to rely on the ‘soft opt-in’ exception provided under
+regulation 22(3) of PECR.
+
+For the reasons explained above, the Commissioner finds that Grove
+did not have the necessary valid consent for the 1,942,010 direct
+
+marketing emails for which it instigated transmission to subscribers.
+
+The Commissioner is satisfied that Grove was responsible for this
+contravention and has gone on to consider whether the conditions
+
+under section 55A DPA were met.
+Seriousness of the contravention
+
+The Commissioner is satisfied that the contravention identified
+
+above was serious. This is because between the dates of 31 October
+2016 and 31 October 2017 a total of 1,942,010 direct marketing emails
+were transmitted at the instigation of Grove and received by
+subscribers advertising marketing material for which they had not
+
+provided consent.
+
+The Commissioner is therefore satisfied that condition (a) from
+section 55A(1) DPA is met.
+
+Deliberate or negligent contraventions
+
+The Commissioner has considered whether the contravention identified
+
+above was deliberate.
+42.
+
+43.
+
+44,
+
+45.
+
+1CO.
+
+Information Commissioner's Office
+
+The Commissioner considers that in this case Grove did not deliberately
+contravene regulation 22 of PECR. That is to say that whilst Grove did
+seek to instigate direct marketing to subscribers, there appears to have
+
+been no deliberate intention on the part of Grove to breach PECR.
+
+The Commissioner has therefore gone on to consider whether the
+contraventions identified above were negligent. First, she has
+considered whether Grove knew or ought reasonably to have known
+that there was a risk that these contraventions would occur. She is
+satisfied that this condition is met, given that the issue of unsolicited
+emails have been widely publicised by the media as being a problem.
+Furthermore, it would be reasonable to expect an organisation who is
+registered with the ICO to be aware of their obligations under PECR
+and to carry out steps to ensure compliance when engaging in the
+
+instigation of direct marketing.
+
+Second, the Commissioner considered whether Grove failed to take
+reasonable steps to prevent the contraventions. The Commissioner has
+published detailed guidance for those carrying out direct marketing
+explaining their legal obligations under PECR. This guidance gives clear
+advice regarding the requirements of consent for direct marketing and
+explains the circumstances under which organisations are able to carry
+out marketing over the phone, by text, by email, by post, or by fax. In
+particular it states that organisations can generally only send, or
+instigate, marketing emails to individuals if that person has specifically
+
+consented to receiving them from the sender.
+
+Reasonable steps to be expected of Grove could also have included for
+instance carrying out due diligence checks to ensure that they were
+specifically named within the privacy policies of the websites from
+which the consents had been obtained.
+
+10
+46.
+
+47.
+
+48.
+
+Information Commissioner’s Office
+
+In the circumstances, the Commissioner is satisfied that Grove failed to
+
+take reasonable steps to prevent the contraventions.
+
+The Commissioner is therefore satisfied that condition (b) from section
+55A (1) DPA is met.
+
+The Commissioner’s decision to issue a monetary penalty
+
+The Commissioner has taken the following mitigating factors into
+
+account:
+
+e Grove say that they engaged in “extensive consultation” with a
+recognised specialist data protection consultancy regarding the
+use of hosted email for lead generation purposes. This is
+accepted by the Commissioner, and demonstrates that Grove had
+at least an awareness of their obligations under the legislation,
+and of a generally positive and pro-active approach to data
+
+protection;
+
+e The number of complaints received was minimal. Although the
+Commissioner would maintain that the seriousness of the
+contravention is dictated by the number of unlawful messages
+received by subscribers, rather than the amount of complaints
+
+which arose as a result of the contravention;
+
+e There is no evidence to suggest that Grove has engaged in
+unlawful direct marketing beyond the period set out within this
+
+Notice;
+49.
+
+aU,
+
+51.
+
+52.
+
+53.
+
+54.
+
+55.
+
+Information Commissioner’s Office
+
+e Grove has co-operated with the Commissioner’s investigation
+
+throughout.
+
+The mitigating factors outlined above allowed the Commissioner to
+impose a lower penalty than a contravention of this size might usually
+
+attract.
+
+The Commissioner has considered the likely impact of a monetary
+penalty on Grove and has decided on the information that is available
+to her, that Grove has access to sufficient financial resources to pay
+the proposed monetary penalty without causing undue financial
+
+hardship.
+
+For the reasons explained above, the Commissioner is satisfied that the
+conditions from section 55A (1) DPA have been met in this case. She is
+also satisfied that the procedural rights under section 55B have been
+
+complied with.
+
+The latter has included the issuing of a Notice of Intent, in which the
+Commissioner set out her preliminary thinking. In reaching her final
+view, the Commissioner has taken into account the representations
+
+made by Grove on this matter.
+
+The Commissioner is accordingly entitled to issue a monetary penalty
+
+in this case.
+
+The Commissioner has considered whether, in the circumstances, she
+
+should exercise her discretion so as to issue a monetary penalty
+
+The Commissioner’s underlying objective in imposing a monetary
+
+penalty notice is to promote compliance with PECR. The sending of
+
+12
+56.
+
+as i
+
+58,
+
+59.
+
+oO
+
+1C QO.
+
+Information Commissioner's Office
+unsolicited marketing emails is a matter of significant public concern. A
+monetary penalty in this case should act as a general encouragement
+towards compliance with the law, or at least as a deterrent against
+non-compliance, on the part of all persons running businesses currently
+engaging in these practices. The issuing of a monetary penalty will
+
+reinforce the need for businesses to ensure that they are only
+
+messaging those who specifically consent to receive marketing.
+
+For these reasons, the Commissioner has decided to issue a monetary
+
+penalty in this case
+
+The amount of the penalty
+
+Taking into account all of the above, the Commissioner has decided
+that a penalty in the sum of £40,000 (forty thousand pounds) is
+reasonable and proportionate given the particular facts of the case and
+
+the underlying objective in imposing the penalty.
+Conclusion
+
+The monetary penalty must be paid to the Commissioner’s office by
+BACS transfer or cheque by 24 April 2019 at the latest. The monetary
+penalty is not kept by the Commissioner but will be paid into the
+Consolidated Fund which is the Government’s general bank account at
+the Bank of England.
+
+If the Commissioner receives full payment of the monetary penalty by
+23 April 2019 the Commissioner will reduce the monetary penalty by
+20% to £32,000 (thirty two thousand pounds). However, you
+
+should be aware that the early payment discount is not available if you
+
+decide to exercise your right of appeal.
+
+13
+60.
+
+61.
+
+62.
+
+63.
+
+64.
+
+1CO.
+
+Information Commissioner’s Office
+
+There is a right of appeal to the First-tier Tribunal (Information Rights)
+
+against:
+
+(a) the imposition of the monetary penalty
+and/or;
+(b) the amount of the penalty specified in the monetary penalty
+
+notice.
+
+Any notice of appeal should be received by the Tribunal within 28 days
+
+of the date of this monetary penalty notice.
+Information about appeals is set out in Annex 1.
+
+The Commissioner will not take action to enforce a monetary penalty
+
+unless:
+
+e the period specified within the notice within which a monetary
+penalty must be paid has expired and all or any of the monetary
+
+penalty has not been paid;
+
+e all relevant appeals against the monetary penalty notice and any
+
+variation of it have either been decided or withdrawn; and
+
+e the period for appealing against the monetary penalty and any
+
+variation of it has expired.
+
+In England, Wales and Northern Ireland, the monetary penalty is
+recoverable by Order of the County Court or the High Court. In
+Scotland, the monetary penalty can be enforced in the same manner as
+an extract registered decree arbitral bearing a warrant for execution
+
+issued by the sheriff court of any sheriffdom in Scotland.
+
+14
+Dated the 22" day of March 2019
+
+ 
+
+signed cr
+
+Andy White
+
+Director of High Profile Investigations
+Information Commissioner’s Office
+Wycliffe House
+
+Water Lane
+
+Wilmslow
+
+Cheshire
+
+SK9 SAF
+
+1CO.
+
+Information Commissioner’s Office
+1CO.
+
+Information Commissioner’s Office
+
+ANNEX 1
+SECTION 55 A-E OF THE DATA PROTECTION ACT 1998
+RIGHTS OF APPEAL AGAINST DECISIONS OF THE COMMISSIONER
+
+i Section 55B(5) of the Data Protection Act 1998 gives any person upon
+whom a monetary penalty notice has been served a right of appeal to
+the First-tier Tribunal (Information Rights) (the ‘Tribunal’) against the
+
+notice.
+2. If you decide to appeal and if the Tribunal considers:-
+
+a) that the notice against which the appeal is brought is not in
+
+accordance with the law; or
+
+D) to the extent that the notice involved an exercise of discretion by
+the Commissioner, that she ought to have exercised her
+
+discretion differently,
+
+the Tribunal will allow the appeal or substitute such other decision as
+could have been made by the Commissioner. In any other case the
+
+Tribunal will dismiss the appeal.
+
+3. You may bring an appeal by serving a notice of appeal on the Tribunal
+
+at the following address:
+
+General Regulatory Chamber
+HM Courts & Tribunals Service
+PO Box 9300
+
+Leicester
+
+LE1 8DJ
+
+16
+a)
+
+D)
+
+Information Commissioner’s Office
+
+The notice of appeal should be sent so it is received by the
+
+Tribunal within 28 days of the date of the notice.
+
+If your notice of appeal is late the Tribunal will not admit it
+unless the Tribunal has extended the time for complying with this
+
+rule.
+
+The notice of appeal should state:-
+
+a)
+
+b)
+
+C)
+
+d)
+
+e)
+
+f)
+
+g)
+
+h)
+
+your name and address/name and address of your representative
+
+(if any);
+
+an address where documents may be sent or delivered to you;
+
+the name and address of the Information Commissioner;
+
+details of the decision to which the proceedings relate;
+
+the result that you are seeking;
+
+the grounds on which you rely;
+
+you must provide with the notice of appeal a copy of the
+
+monetary penalty notice or variation notice;
+
+if you have exceeded the time limit mentioned above the notice
+of appeal must include a request for an extension of time and the
+
+reason why the notice of appeal was not provided in time.
+
+Before deciding whether or not to appeal you may wish to consult your
+
+solicitor or another adviser. At the hearing of an appeal a party may
+
+17
+Information Commissioner's Office
+
+conduct his case himself or may be represented by any person whom
+
+he may appoint for that purpose.
+
+The statutory provisions concerning appeals to the First-tier Tribunal
+(Information Rights) are contained in section 55B(5) of, and Schedule
+6 to, the Data Protection Act 1998, and Tribunal Procedure (First-tier
+Tribunal) (General Regulatory Chamber) Rules 2009 (Statutory
+Instrument 2009 No. 1976 (L.20)).

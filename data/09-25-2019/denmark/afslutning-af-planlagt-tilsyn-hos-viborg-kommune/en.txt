@@ -1,0 +1,234 @@
+
+Completion of planned supervision at Viborg Municipality
+Published 05-08-2019
+Decision
+Public authorities
+The Data Inspectorate has made serious criticism that Viborg Municipality has not complied with the requirements of the Data Protection Regulation in connection with the use of data processors.
+Viborg Municipality was among the authorities that the Data Inspectorate had selected for supervision in 2018. In particular, the audit focused on the municipalities' compliance with the requirements associated with the use of data processors.
+As a result of the audit, the Data Inspectorate has made serious criticism that Viborg Municipality has not complied with the requirements of the Data Protection Regulation in connection with the use of data processors, cf. Article 28 (2) of the Data Protection Regulation. 3 and Article 5 (2). 2, cf. Article 5 (2). In addition, the Data Inspectorate has notified the Municipality of Viborg of an order to conclude data processing agreements that meet the requirements of Article 28 (2) of the Regulation. 3 for five of the municipality's data processors.
+The Data Inspectorate's final opinion shows, inter alia, that Viborg Municipality had not entered into data processing agreements with five of the municipality's data processors, where the agreement - as a minimum - contained a description of the obligations referred to in Article 28 (2). Third
+In addition, the opinion states that the municipality had not regularly monitored the processing of personal data with - at least - three of the municipality's data processors, just as the municipality had not regularly supervised the processing of personal data with the municipality's sub-data processors.
+You can read the Danish Data Protection Agency's guidance on data controllers and data processors here.
+You can read the Danish Data Protection Agency's guidance text on supervision of data processors and sub-processors here.
+You can find the Danish Data Protection Agency's standard data processor agreement here.
+Decision
+Viborg Municipality was among the public authorities selected by the Data Inspectorate in autumn 2018 for supervision under the Data Protection Act [1] and the Data Protection Regulation [2].
+The Data Inspectorate's planned supervision of Viborg Municipality focused in particular on the municipality's compliance with the requirements relating to the use of data processors.
+At the request of the Data Inspectorate, the Municipality of Viborg had sent a list of the data processors the municipality uses before the inspection visit. Viborg Municipality had - at the request of the Authority - also sent a copy of all of the municipality's data processing agreements.
+The audit visit took place on November 8, 2018.
+Based on what the Danish Data Protection Agency has found in connection with the audit visit, the Danish Data Protection Agency finds a basis for concluding:
+
+
+That the Municipality of Viborg has in several cases not complied with the requirements of Article 28 (2) of the Data Protection Regulation. 3, including by
+
+
+that, for 5 of the municipality's data processors, the municipality has not concluded data processing agreements which - at a minimum - contain a description of the obligations referred to in Article 28 (2). 3
+
+
+that the municipality has in several cases not sufficiently relied on how the obligations in Article 28 (2) are met. 3, must be fulfilled by the parties in practice,
+
+
+that the municipality has not sufficiently instructed all data processors in what processing of personal data must be done on behalf of the municipality.
+
+
+
+That Viborg Municipality has not regularly monitored the processing of personal data with - at least - 3 of the municipality's data processors.
+
+
+That the municipality of Viborg has not continuously monitored the processing of personal data at the municipality's sub-processors.
+
+
+After a review of the case, the Danish Data Protection Agency finds overall grounds for expressing serious criticism that Viborg Municipality has not complied with the requirements of the Data Protection Regulation in connection with the use of data processors, cf. Article 28 (2) of the Data Protection Regulation. 3 and Article 5 (2). 2, cf. Article 5 (1).
+In addition, the Data Inspectorate finds a basis for notifying Viborg Municipality of the obligation to conclude data processing agreements that meet the requirements of Article 28 (2) of the Regulation. 3, with the following data processors:
+
+
+[Data Processing]
+
+
+[Data Processing]
+
+
+[Data Processing]
+
+
+[Data Processing]
+
+
+[Data Processing]
+
+
+The order is issued pursuant to Article 58 (2) of the Data Protection Regulation. 2 (d).
+The deadline for compliance with the injunction is 30 September 2019. The Danish Data Protection Agency must request confirmation by the same date that the injunction has been complied with.
+According to section 41 (1) of the Data Protection Act. Paragraph 2 (5) shall be punishable by a fine or imprisonment for up to 6 months to a person who fails to comply with an order issued by the Data Inspectorate pursuant to Article 58 (2) of the Data Protection Regulation. 2nd
+In addition, the Data Inspectorate must request the municipality of Viborg for an account of the data protection considerations made by the municipality on the basis of the audit visit. The report must reach the Data Inspectorate by September 30, 2019 at the latest.
+Finally, the Data Inspectorate must request Viborg Municipality to submit a concrete and detailed plan for how the municipality will in future go ahead with the necessary supervision of the municipality's data processors and sub-data processors. The plan is to reach the Data Inspectorate by October 15, 2019 at the latest.
+In the choice of sanction, the Data Inspectorate found it attenuating that the five data processing agreements that Viborg Municipality - at the time of the audit visit - had not been able to enter / update, constitute only a small part of the municipality's total number of about 130 data processing agreements. The Data Inspectorate has thus taken into account in its considerations that the municipality should now have concluded / updated a large number of data processing agreements before May 25, 2018, when the Data Protection Regulation applied, and that the conclusion and negotiation of data processing agreements can generally be a comprehensive and time-consuming process. .
+In relation to Viborg Municipality's supervision of data processors, the Data Inspectorate has emphasized the fact that the municipality generally conducts risk-based supervision of the treatments carried out by the municipality's data processors, although the sampling showed that the municipality's supervision was inadequate.
+A more detailed review of the Danish Data Protection Agency's conclusions follows below.
+1. Conclusion of data processing agreements, the principle of accountability and the general principles for the processing of personal data
+1.1. Relevant rules
+Article 28 (2) of the Data Protection Regulation 3, it follows that the processing of a data processor must be governed by a contract or other legal document in accordance with EU law or the national law of the Member States which is binding on the data processor with regard to the data controller and which determines the subject matter and duration of the processing, the nature and purpose of the processing, the type of personal data and the categories of data subject as well as the obligations and rights of the data controller. This contract or other legal document shall in particular cover the data processor requirements set out in Article 28 (2) of the Regulation. 3 (a) to (g).
+It must, in accordance with Article 28 (1) of the Data Protection Regulation. 3 (a), inter alia a data processor agreement states that the data processor may only process personal data following documented instructions from the data controller, including with regard to the transfer of personal data to a third country or international organization, unless required by EU or national law, such as the data processor; is subject; in this case, the data processor shall inform the data controller of this legal requirement prior to processing, unless the court concerned prohibits such notification for the sake of important societal interests.
+Article 29 of the Data Protection Regulation states that the data processor and anyone who performs work for the data controller or data processor and who has access to personal data may only process this information on the instructions of the data controller, unless required by EU law or national law of the Member States. right.
+It must, in accordance with Article 28 (1) of the Data Protection Regulation. In addition, a data processor agreement states that the data processor must comply with the conditions referred to in Article 28 (3). 2 and 4, to use another data processor (sub-data processor).
+Article 28 (2) of the Data Protection Regulation 2, it follows that the data processor may not use another data processor (sub-data processor) without the prior specific or general written approval of the data controller. In the case of general written approval, the data processor must notify the data controller of any planned changes regarding the addition or replacement of other data processors, thereby allowing the data controller to object to such changes.
+Of Article 28 (2). 4, it follows that if a data processor makes use of another data processor (sub-data processor) in carrying out specific processing activities on behalf of the data controller, that other data processor shall be subject to the same data protection obligations as those provided for in the contract or other legal document between the data controller and the data processor as referred to in paragraph 1. 3, through a contract or other legal document under EU or national law, providing, in particular, the necessary guarantees that they will implement the appropriate technical and organizational measures in such a way as to comply with the requirements of this Regulation. If this other data processor fails to fulfill its data protection obligations, the original data processor remains fully responsible to the data controller for the performance of this second data processor's obligations.
+It also follows from Article 5 (1) of the Data Protection Regulation. Paragraph 1 (a) and (f) that personal data must be processed legally, reasonably and transparently in relation to the data subject and that the data must be processed in a way that ensures adequate security for the personal data concerned, including protection against unauthorized or illegal processing. and against accidental loss, destruction, or damage, using appropriate technical and organizational measures.
+In addition, it follows from Article 5 (1) of the Data Protection Regulation. 2 that the data controller is responsible for and must be able to demonstrate that Article 5 (2) 1, are complied with.
+Article 5 (1) of the Data Protection Regulation 2, thus contains a principle of accountability which means that the data controller, among other things, shall ensure and demonstrate that personal data is processed for lawful and reasonable purposes and that the information is processed in a manner which ensures adequate security of the personal data concerned - even when the data controller asks another party (a data processor) to process the data on its own behalf.
+The data controller must then - in order to fulfill its obligations in the use of data processors - draw up a data processing agreement which regulates the areas mentioned in Article 28 (2). 3, and consider how these obligations must be fulfilled in practice.
+The data controller must also - in a sufficiently clear manner - instruct the data processor in the processing of personal data to be carried out on behalf of the data controller. This will in practice mean that the data controller must have an overview of the processing and be able to document what processing activities the data processor is instructed to undertake, including the activities the data controller has approved in relation to any transfers to third countries or international organizations, use of subcomputers etc.
+The existence of a sufficiently clear instruction is - in the opinion of the Danish Data Protection Agency - a prerequisite for the data controller to have an overview and control of the processing when it is entrusted to a data processor, and to be able to determine when a data processor may. acts outside the scope of the agreed instruction.
+It is also important that the data controller is aware of whether the agreement states that the data processor also uses the information for its own purposes. If the data controller approves a data processor agreement stating - either the data processor agreement, the main agreement or other agreement terms - that the data processor uses the information for its own purposes, in the opinion of the supervisor there will be a disclosure of personal data which will require a separate disclosure regime in the data protection regime. Chapter 2.
+If personal data is disclosed to the data processor, this can advantageously be regulated in a separate supplement to the agreement so that the data processor's processing for his own purposes is not mixed with the processing carried out on behalf of the data controller. Thus, it should be clear when the data processor is subject to instructions from the data controller and when the data processor is independently responsible for the processing of personal data.
+1.2. Compliance with the rules of Viborg Municipality
+1.2.1. Data processing agreements in process or during update
+During the audit visit, the Data Inspectorate asked whether Viborg Municipality has entered into valid data processing agreements with all its data processors or whether there are agreements that have not yet been concluded or updated to comply with the minimum requirements in the Data Protection Regulation.
+In this connection, the Data Inspectorate pointed out that the list of data processors submitted shows that there are 19 data processing agreements that are in process or are being updated.
+Viborg Municipality noted that, in the specific cases, data processing agreements exist, but that these have not yet been updated in relation to the new requirements. The municipality also stated that it has to be assessed whether some of these data processing agreements should only terminate, for example in cases where there is no data processing structure or where the processing has ceased.
+Viborg Municipality has sent an updated list of the municipality's data processing agreements by e-mail of December 11, 2018. It is clear from this that the municipality does not have to enter into valid data processing agreements with five of the municipality's data processors.
+During the review of the specific data processing agreements, the Data Inspectorate also asked for the following points.
+1.2.2. The type of personal data processed on behalf of the municipality
+During the review of the specific data processing agreements, the Data Inspectorate found examples that the agreement did not indicate which specific types of personal data are processed on behalf of the municipality. Thus, some agreements contained a more general indication that the processing of personal data was covered by the Data Protection Regulation or similar.
+To this end, the Data Inspectorate noted that it should generally be made clearer what types of personal data are left to the data processor.
+However, the Data Protection Authority stated in this connection that in certain special situations it may be difficult to determine in advance what specific types of personal data are covered by the agreement. This may be the case, for example, when processing personal data in relation to an email server or a cloud service, where many different types of information will be processed, e.g. because a municipality must use the service to store cases from several different disciplines.
+In such a situation, the Data Inspectorate must, as specifically as possible, try to indicate what types of personal data are being processed. However, it will of course depend on a specific assessment, where specifically it is possible in the data processing agreement to specify the type of personal data.
+At the time of the audit, the Data Inspectorate noted that it should in any case be clear whether sensitive or confidential information is being processed, as this will have an impact on, for example, the establishment of security measures and the data controller's ongoing supervision of the data processor's processing.
+1.2.3. The procedure for the municipality's approval or objection to the use of new sub-data processors
+During the audit visit, the Data Inspectorate asked more closely about the procedure for the municipality's approval of sub-data processors.
+During the review of the specific agreements, the Data Inspectorate therefore asked whether it was agreed how and when the municipality should be notified of planned changes - when the municipality has given a general approval for the use of sub-data processors - including whether the municipality can in fact be able to achieve object to any changes.
+On the basis of the municipality's replies, the Data Inspectorate found that in several cases no decision was made on how and when the data processor should notify the municipality of such changes.
+Furthermore, in one of the cases in which the parties to the data processing agreement had decided on the practical implementation of the notification, it was found that the time period between the notification and the planned use of the sub-processor was agreed to such a short period that in practice the municipality would not be able to reach objections to the application.
+In this connection, the Data Inspectorate noted that - in the opinion of the Authority - it will not comply with the requirements of Article 28 (2) of the Data Protection Regulation. 2, that a data processor passes the processing or parts of the processing to a sub-processor before the data controller has in fact been able to object to this. The Data Inspectorate further stated that it is the immediate opinion of the Authority that the data controller must be actively notified of changes regarding the addition or replacement of sub-processors.
+1.2.4. Documented instruction and data processor's processing of personal data for personal purposes
+During the audit visit, the Data Inspectorate generally asked how the municipality assesses whether a documented instruction is sufficiently clear.
+To this end, the municipality stated that the data processor typically describes the processing that is carried out, since the data processor is an expert in the service provided, but that the municipality actively responds to the description of the processing that the data processor has prepared.
+The Data Inspectorate then asked what considerations the municipality has made in relation to the cases where it appears from a data processor agreement that the data processor will also use information for its own purposes, including whether the municipality is aware of this situation.
+In this connection, the Data Inspectorate stated that the Authority has previously experienced / seen examples of data processor agreements, which show that it is more or less clear that the data processor also uses the information for its own purposes.
+The municipality stated that they had not experienced such situations and that the municipality would have reacted otherwise.
+After the general questions, the Data Inspectorate asked the municipality's considerations in relation to the instructions in some of the selected data processing agreements.
+Data Processor 1
+The Data Inspectorate asked if the municipality has made some considerations in relation to the fact that the data processor uses personal data for its own purposes. In this connection, the Data Inspectorate referred to Annex 3 (instructions) to the agreement, which states that:
+“The municipality and the teachers of the municipality must be aware that [data processor] uses selected information for their own purposes. [Data Processor] uses e.g. user behavior information to be able to target the user-oriented dialogue as well as to optimize our products and services. [Data Processor] will therefore process selected information related to newsletters, market and product surveys, and service and product orientations ”.
+The municipality stated to this that the municipality was not aware of this at the conclusion of the agreement, and therefore did not act actively on the data processor's use of personal data for its own purposes.
+When asked, the municipality stated that they also did not investigate what specific personal data the data processor uses for their own purposes, and that the municipality has not relied on whether there is a transfer secret.
+The municipality then confirmed that it is not clear to the municipality when the data processor acts on behalf of the municipality and when they act on their own behalf. The municipality stated that they would follow up on this after the inspection visit.
+Data Processor 2
+At the audit visit, the Data Inspectorate asked in more detail about item 2 of the benefit description (an appendix to the data processor agreement), which states that the data processor is entitled to change the benefit description on an ongoing basis. contains items relating to the description of the subject of the agreement, the type of personal data, the purpose of the processing, the security measures, the use of sub-data processors and transfers to third countries.
+It is also clear from the benefit description that the data processor must notify changes to this in "so early" that the municipality can now object to the changes. The municipality then has 30 days to object. If the municipality does not object within 30 days, the data processor will consider the changes to be accepted by the municipality.
+In this connection, the Data Inspectorate questioned whether a failure to object from the municipality could constitute a documented instruction in relation to the processing by the data processor.
+Data Processor 3
+In relation to the data processor agreement with data processor 3, the Data Inspectorate noted that - in the opinion of the Authority - it is unclear what processing the data processor performs on behalf of the municipality and what the data processor may do as an independent data controller.
+The municipality noted that the data processor stores personal data on behalf of the municipality and that the data processor is a so-called data store.
+The Data Inspectorate noted that, based on the content of the terms - and the many related documents - it is immediately unclear whether the data processor is anything but a data warehouse and - in the opinion of the Authority - it is difficult to see the processing being carried out.
+During the inspection visit, the municipality stated that the municipality agreed that it is a "maze" to look around at the many documents to which the terms refer, and confirmed that the municipality has not read all the documents.
+After the inspection visit, Viborg Municipality has referred to the following sections in relation to clarification of the instructions.
+“Processing customer data, ownership
+Customer data is used or otherwise processed only to provide Online Services to the Customer, including purposes related to the provision of such services. [Data Processor] does not use or otherwise process Customer Data or derive information therefrom for advertising or similar commercial purposes. As between the parties, the Customer retains all rights, ownership and interest in and to Customer Data. [Data Processor] does not acquire any rights in Customer Data except the rights granted by Customer to [Data Processor] for the purpose of providing Online Services to Customer. This section does not affect [data processor's] rights to software or services that [data processor] grants to the Customer. "
+and
+“Roles and responsibilities of the processor and controller
+Customers and [Data Processor] agree that Customer is responsible for Personal Data, and [Data Processor] is the processor of such data, except when (a) Customer acts as Processor of Personal Data, in which case [Data Processor] is a sub-processor, or ( (b) otherwise set out in the terms specific to the Online Services. [Data Processor] only processes Personal Data following documented instructions from Customer. Customer agrees that its Volume License Agreement (including Terms of Online Services) together with Customer's use and configuration of features of the Online Services constitute Customer's complete and final documented instructions to [Data Processor] regarding the processing of Personal Data. All further or amended instructions must be agreed in accordance with the Customer Volume License Agreement Modification Process. In the case where the Personal Data Regulation applies and the Customer is a processor, the Customer warrants to [data processor] that the Client's instructions, including the appointment of [data processor] as a processor or sub-processor, have been approved by the relevant controller. "
+and
+“Preservation and deletion of data
+Throughout the Customer's subscription period, Customer has the opportunity to access and extract and delete Customer Data stored on each Online Service.
+[Data Processor] retains Customer Data, which remains stored on the Online Services (except free trial and LinkedIn services), in an account with limited functionality for 90 days after the expiration or termination of the Customer's subscription so that the Customer can extract the data. When the 90-day retention period ends, [Data Processor] deactivates Customer's account and deletes Customer Data and Personal Data within an additional 90 days, unless [Data Processor] is authorized or required by applicable law to retain such data or has been authorized to do so. of this Agreement.
+The online service may not support the storage or extraction of software provided by the Customer. [Data Processor] has no liability in connection with the deletion of Customer Data or Personal Data as described in this section. "
+After a reading of the above section, it is not yet clear to the Data Inspectorate what processing of personal data the data processor processes on behalf of Viborg Municipality.
+1.2.5. The municipality's overview of the use of sub-data processors and the transfer of personal data to third countries
+During the audit visit, the Data Inspectorate asked several times for the municipality's overview in relation to concrete data processors' use of sub-data processors, whether the municipality had accepted the transfer of personal data to third countries in the specific cases and whether the municipality had ensured that there was a valid transfer basis for any transfers.
+Viborg Municipality was unable to answer the above questions in several cases, and it was clear to the Data Inspectorate that the municipality lacks an overview.
+1.3. Summary
+In relation to paragraph 1, the Data Inspectorate concludes that Viborg Municipality has not complied with Article 28 (2) of the Data Protection Regulation. Third
+The Data Inspectorate has hereby emphasized that, with regard to 5 of the municipality's data processors, Viborg Municipality has not concluded data processing agreements which - at least - contain a description of the obligations referred to in Article 28 (2). 3, and in several cases have also not sufficiently relied on how the obligations under Article 28 (2) are met. 3, must be fulfilled by the parties in practice.
+In addition, the Data Inspectorate emphasized that Viborg Municipality - in relation to all the data processing units reviewed - has not sufficiently clearly instructed the data processors in what processing of personal data must be carried out on behalf of the municipality. This is made particularly clear by the municipality's lack of an overview of what they have accepted in relation to the use of sub-data processors and the transfer of personal data to third countries. As regards one of the reviewed data processing agreements, the Data Inspectorate also considered that the municipality was not aware that they had accepted the data processor's use of personal data for its own purposes, and that the municipality had not also assessed whether the necessary transfer secret to a such acceptance.
+2. Supervision of the processing of personal data by the municipality's data processors
+2.1. Relevant rules
+Article 5 (1) of the Data Protection Regulation Paragraph 1 provides, inter alia, that personal data must be processed legally, reasonably and transparently in relation to the data subject, and that the data must be processed in a way that ensures sufficient security for the personal data concerned, including protection against unauthorized or unlawful data. treatment and against accidental loss, destruction or damage, using appropriate technical and organizational measures.
+In addition, it follows from Article 5 (1) of the Data Protection Regulation. 2 that the data controller is responsible for and must be able to demonstrate that Article 5 (2) 1, are complied with.
+Article 5 (2) 2, contains a principle of accountability which - in the opinion of the Data Protection Authority - means that the data controller must ensure and be able to demonstrate that personal data is processed for legal and reasonable purposes and that the information is processed in a way that ensures sufficient security for the personal data concerned - also when the data controller asks another party (a data processor or sub-processor) to process the information on its behalf.
+Failure to follow up on the processing of personal data by data processors and sub-processors will - in the opinion of the Danish Data Protection Agency - mean that the data controller cannot ensure or demonstrate the processing's compliance with the general principles for the processing of personal data, including the processing of data. legal, reasonable and transparent in relation to the data subject ('legality, reasonableness and transparency'), and that the information is processed in a way that ensures sufficient security for the personal data concerned, including protection against unauthorized or illegal processing and against accidental loss, annihilation or damage, using appropriate technical or organizational measures ('integrity and confidentiality').
+The data controller must thus supervise (major or minor) compliance with the data processing agreements entered into, including inter alia: that the data processor has implemented the agreed technical and organizational security measures. [3]
+2.2. Compliance with the rules of Viborg Municipality
+During the audit visit, the Data Inspectorate asked whether the municipality generally supervises the data processors' compliance with the requirements of the data processing agreement, including how often and how supervision is conducted.
+The municipality of Viborg stated that the municipality has a risk-based approach to data protection and that the municipality generally requires an audit statement from the data processor. Some of the declarations the municipality itself must actively go and collect on the supplier's website, others get the municipality sent from the data processor.
+Datatilsynet spurgte ind til, om der føres tilsyn på andre måder end via indhentelse/modtagelse af revisionserklæringer.
+Hertil oplyste kommunen, at i tilfælde, hvor det ikke kan lade sig gøre at indhente/modtage en revisionserklæring, foretager kommunen i stedet en oplysningsindsamling ved telefonisk drøftelse med den konkrete databehandler, hvor der tages udgangspunkt i emnerne fra ISAE 3000.
+Adspurgt herom oplyste Viborg Kommune, at kommunen ikke har dokumenteret de tilsyn, hvor kommunen har indsamlet oplysninger ved telefonisk drøftelse med databehandlerne, eksempelvis ved journalisering af et telefonnotat.
+Adspurgt oplyste Viborg Kommune endvidere, at kommunen generelt bruger revisionserklæringerne ISAE 3402 og ISAE 3000, når de fører tilsyn med håndteringen af personoplysninger hos databehandleren. Kommunen bekræftede, at disse erklæringer primært vedrører behandlingssikkerheden hos databehandleren.
+2.2.1. Stikprøvekontrol
+Under tilsynsbesøget foretog Datatilsynet ligeledes stikprøvekontrol af, om Viborg Kommune havde indhentet revisionserklæringer i forhold til behandlingen af personoplysninger hos tre konkrete databehandlere.
+Datatilsynet kunne på baggrund af stikprøvekontrollerne konstatere, at Viborg Kommune ikke i nogen af de udvalgte stikprøver kunne fremvise dokumentation for indhentelse af revisionserklæringer, eller udøvelse af andre former for løbende tilsyn med behandlingen hos databehandleren.
+Datatilsynet har noteret sig, at Viborg Kommune efter tilsynsbesøget har fremsendt indhentede revisionserklæringer fra de tre pågældende databehandlere og dokumentation for, at kommunen har forholdt sig til indholdet af disse.
+2.3. Sammenfatning
+Det er i forhold til punkt 2 sammenfattende Datatilsynets opfattelse, at Viborg Kommune ikke i tilstrækkelig grad har levet op til databeskyttelsesforordningens artikel 5, stk. 2, jf. stk. First
+Datatilsynet har herved lagt vægt på, at Viborg Kommuneikke har ført løbende tilsyn med behandlingen af personoplysninger hos – i hvert fald – de 3 af kommunens databehandlere, som Datatilsynet havde udvalgt til stikprøvekontrol, og at kommunen således ikke har sikret sig eller kunne påvise behandlingernes overholdelse af de generelle principper i forordningens artikel 5, stk. First
+3. Tilsyn med behandlingen af personoplysninger hos kommunens underdatabehandlere
+3.1. Relevante regler
+Der henvises til denne udtalelses punkt 2.1.
+3.2. Overholdelse af reglerne hos Viborg Kommune
+Datatilsynet spurgte under tilsynsbesøget indtil, om kommunen generelt følger op på, om behandlingen hos eventuelle underdatabehandlere sker i overensstemmelse med de vilkår, som følger af kommunens aftale med databehandleren.
+Viborg Kommune oplyste i den forbindelse, at kommunen skal godkende anvendelsen af underdatabehandlere enten ved en generel eller specifik godkendelse
+Datatilsynet oplyste hertil, at godkendelsen af eventuelle underdatabehandlere ikke i sig selv udgør et (løbende) tilsyn med behandlingen af personoplysninger hos underdatabehandleren. Datatilsynet spurgte på den baggrund nærmere ind til, hvordan kommunen sikrer sig, at behandlingen hos underdatabehandleren er i overensstemmelse med databehandleraftalen og forordningen.
+Kommunen henviste til kædeansvaret, hvor databehandleren hæfter for underdatabehandlerens overtrædelser af databehandleraftalen.
+Viborg Kommune oplyste herefter, at kommunen på den baggrund ikke fører tilsyn med behandlingen hos underdatabehandlerne.
+Datatilsynet erklærede sig enig i, at tilsynet med behandlingen af personoplysninger hos underdatabehandleren ofte vil foregå gennem databehandleren, men at dette ikke i sig selv fritager den dataansvarlige fra – i et større eller mindre omfang – at orientere sig om, hvorvidt behandlingen i sin helhed lever op til forordningens regler.
+Datatilsynet spurgte herefter, om kommunen sikrer sig – for eksempel ved indsættelse af et krav herom i databehandleraftalen − at databehandleren fører det relevante tilsyn med underdatabehandleren.
+Viborg Kommune oplyste hertil, at kommunen anvender revisionserklæringer, som i et vist omfang berører databehandlerens tilsyn med underdatabehandleren. Kommunen bekræftede dog, at det ikke generelt indgår som et krav i kommunens databehandleraftaler, at databehandleren skal føre det fornødne tilsyn med eventuelle underdatabehandlere.
+Datatilsynet bemærkede, at tilsynet med behandlingen hos underdatabehandlerne eksempelvis kan ske ved, at kravet om databehandlerens tilsyn med underdatabehandlerne indsættes i databehandleraftalen, og at databehandleren herefter fremsender dokumentation for det udførte tilsyn til den dataansvarlige eller gør det let for den dataansvarlige selv at indhente information herom.
+Adspurgt bekræftede kommunen, at de ikke kan være sikre på, om databehandleren fører tilsyn med underdatabehandleren, idet dette ikke er aftalt i databehandleraftalen, og idet kommunen ikke har fulgt op på, om det rent faktisk sker.
+Kommunen bemærkede dog, at de generelt har tillid til, at deres leverandører har styr på behandlingen hos eventuelle underdatabehandlere.
+3.3. Sammenfatning
+Det er i forhold til punkt 3 sammenfattende Datatilsynets opfattelse, at Viborg Kommune ikke har levet op til databeskyttelsesforordningens artikel 5, stk. 2, jf. stk. 1, ved ikke i tilstrækkelig grad at have fulgt op på den behandling af personoplysninger, som finder sted hos kommunens underdatabehandlere.
+Datatilsynet har herved lagt vægt på, at Viborg Kommune ikke har sikret sig, at der føres et løbende tilsyn med behandlingen af personoplysninger hos underdatabehandlerne, eksempelvis ved at indsætte dette som et krav i databehandleraftalen og herefter aktivt følge op på, om der rent faktisk føres tilsyn, og hvad disse tilsyn viser om behandlingen. Viborg Kommune har således ikke sikret sig eller kunne påvise behandlingernes overholdelse af de generelle principper i forordningens artikel 5, stk. First
+4. Konklusion
+På baggrund af hvad Datatilsynet har konstateret i forbindelse med tilsynsbesøget, finder Datatilsynet grundlag for sammenfattende at konkludere:
+
+
+At Viborg Kommune i flere tilfælde ikke har levet op til databeskyttelsesforordningens artikel 28, stk. 3, herunder ved
+
+
+at kommunen for så vidt angår 5 af kommunens databehandlere ikke har indgået databehandleraftaler der – som et minimum – indeholder en beskrivelse af de forpligtelser, som er nævnt i artikel 28, stk. 3,
+
+
+at kommunen i flere tilfælde ikke i tilstrækkelig grad har forholdt sig til, hvordan forpligtelserne i artikel 28, stk. 3, skal opfyldes af parterne i praksis,
+
+
+at kommunen ikke på en tilstrækkelig klar måde har instrueret samtlige databehandlere i, hvilken behandling af personoplysninger, der skal foretages på vegne af kommunen.
+
+
+
+At Viborg Kommune ikke har ført løbende tilsyn med behandlingen af personoplysninger hos – i hvert fald – 3 af kommunens databehandlere.
+
+
+At Viborg Kommune ikke har ført løbende tilsyn med behandlingen af personoplysninger hos kommunens underdatabehandlere.
+
+
+Efter en gennemgang af sagen finder Datatilsynet samlet set grundlag for at udtale alvorlig kritik af, at Viborg Kommune ikke har efterlevet databeskyttelsesforordningens krav i forbindelse med brugen af databehandlere, jf. databeskyttelsesforordningens artikel 28, stk. 3, og artikel 5, stk. 2, jf. artikel 5, stk.1.
+Datatilsynet finder endvidere grundlag for at meddele Viborg Kommune påbud om at indgå databehandleraftaler, som lever op til kravene i forordningens artikel 28, stk. 3, med følgende databehandlere:
+
+
+[Databehandler]
+
+
+[Databehandler]
+
+
+[Databehandler]
+
+
+[Databehandler]
+
+
+[Databehandler]
+
+
+Påbuddet meddeles i medfør af databeskyttelsesforordningens artikel 58, stk. 2, litra d.
+Fristen for efterlevelse af påbuddet er den 30. september 2019. Datatilsynet skal anmode om senest samme dato at modtage en bekræftelse på, at påbuddet er efterlevet.
+Ifølge databeskyttelseslovens § 41, stk. 2, nr. 5, straffes med bøde eller fængsel i op til 6 måneder den, der undlader at efterkomme et påbud meddelt af Datatilsynet i medfør af databeskyttelsesforordningens artikel 58, stk. 2.
+Datatilsynet skal herudover anmode Viborg Kommune om en redegørelse for de databeskyttelsesretlige overvejelser, som kommunen har gjort sig på baggrund af tilsynsbesøget. Redegørelsen bedes være Datatilsynet i hænde senest den 30. september 2019.
+Datatilsynet skal endelig anmode Viborg Kommune om at sende en konkret og detaljeret plan for, hvordan kommunen fremadrettet vil føre det fornødne tilsyn med kommunens databehandlere og underdatabehandlere. Planen bedes være Datatilsynet i hænde senest den 15. oktober 2019.
+Ved valget af sanktion har Datatilsynet fundet det formildende, at de fem databehandleraftaler, som Viborg Kommune – på tidspunktet for tilsynsbesøget – ikke havde nået at indgå/opdatere, alene udgør en lille del af kommunens samlede antal på omkring 130 databehandleraftaler. Datatilsynet har således taget det med i sine betragtninger, at kommunen skulle nå at have indgået/opdateret et stort antal databehandleraftaler inden den 25. maj 2018, hvor databeskyttelsesforordningen fandt anvendelse, og at indgåelse og forhandling af databehandleraftaler generelt kan være en omfattende og tidskrævende proces.
+I forhold til Viborg Kommunes tilsyn med databehandlere har Datatilsynet lagt vægt på det oplyste om, at kommunen på generelt plan fører et risikobaseret tilsyn med de behandlinger, der foretages af kommunens databehandlere, selvom stikprøverne viste, at kommunens tilsyn var mangelfuldt.
+[1] Lov nr. 502 af 23. maj 2018 om supplerende bestemmelser til forordning om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger (databeskyttelsesloven).
+[2] Europa-Parlamentets og Rådets forordning (EU) 2016/679 af 27. april 2016 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger og om ophævelse af direktiv 95/46/EF (generel forordning om databeskyttelse).
+[3] Læs mere herom i Datatilsynets vejledende tekst om tilsyn med databehandlere og underdatabehandlere, som kan findes på tilsynets hjemmeside.
