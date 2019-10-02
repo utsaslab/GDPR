@@ -239,5 +239,68 @@
         "render_type": "FULLY_RENDERED"
       }
     ]
+  },
+  "EE": {
+    "country": "Estonia",
+    "name": "Estonian Data Protection Inspectorate (Andmekaitse Inspektsioon)",
+    "address": "Tatari 39\n10134 Tallinn",
+    "phone": "6828 712",
+    "country_code": "+372",
+    "website": "https://www.aki.ee",
+    "email": "info@aki.ee",
+    "member": {
+      "name": "Ms Pille Lehis",
+      "title": "Director General"
+    },
+    "sources": [
+      {
+        "host": "https://www.aki.ee",
+        "start_path": "/et/uudised",
+        "target_element": {
+          "results": "div.view-content",
+          "pagination": "ul.pager",
+          "document": "span.print_pdf",
+          "date": "span.field-content.uudised_kuupaev"
+        },
+        "render_type": "FULLY_RENDERED"
+      }
+    ]
+  },
+  "FI": {
+    "country": "Finland",
+    "name": "Office of the Data Protection Ombudsman",
+    "address": "P.O. Box 800\nFIN-00521 Helsinki",
+    "phone": "29 56 66700",
+    "country_code": "+358",
+    "website": "https://tietosuoja.fi/en",
+    "email": "tietosuoja@om.fi",
+    "member": {
+      "name": "Mr Reijo AARNIO",
+      "title": "Ombudsman"
+    },
+    "sources": [
+      {
+        "host": "https://tietosuoja.fi/en",
+        "start_path": "/current-issues?tab=2019",
+        "target_element": {
+          "results": "ul.list.list__assets results# 2019",
+          "pagination": null,
+          "document": "div.media-item.news-page",
+          "date": "span.date"
+        },
+        "render_type": "FULLY_RENDERED"
+      },
+      {
+        "host": "https://tietosuoja.fi/en",
+        "start_path": "/current-issues?tab=2018",
+        "target_element": {
+          "results": "ul.list.list__assets results# 2018",
+          "pagination": null,
+          "document": "div.media-item.news-page",
+          "date": "span.date"
+        },
+        "render_type": "FULLY_RENDERED"
+      }
+    ]
   }
 }

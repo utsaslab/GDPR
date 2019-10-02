@@ -1,0 +1,23 @@
+
+ European Data Protection Board - Sixth Plenary session: Privacy Shield, Brexit, clinical trials Q&A
+
+
+   
+
+28.1.2019
+ 15.39
+| Published in English on 28.1.2019 at 16.01
+
+Press release
+
+
+ On January 22nd and 23rd, the European Data Protection Authorities, assembled in the European Data Protection Board, met for their sixth plenary session. Privacy Shield The Board Members adopted the EDPB’s report on the Second Annual Review of the EU-US Privacy Shield. The EDPB welcomes the efforts made by the U.S. authorities and the Commission to implement the Privacy Shield, especially actions undertaken to adapt the initial certification process, start ex officio oversight and enforcement actions, as well as the efforts  to publish a number of important documents, in part by declassification (such as decisions by the FISA Court), the appointment of a new Chair as well as of three new members of the Privacy and Civil Liberties Oversight Board (PCLOB) and the recently announced appointment of a permanent Ombudsperson. In view of the findings of the second joint review, the following concerns about the implementation of the Privacy Shield still remain. This includes concerns already expressed by the EDPB’s predecessor WP29 on the lack of concrete assurances that indiscriminate collection and access of personal data for national security purposes are excluded. Also, based on the information provided so far, the EDPB cannot currently consider that the Ombudsperson is vested with sufficient powers to remedy non-compliance. In addition, the Board points out that checks regarding compliance with the substance of the Privacy Shield’s principles are not sufficiently strong. Brexit The EDPB discussed possible consequences of Brexit in the area of data protection. Members agreed to cooperate and exchange information regarding their preparations and the tools available to transfer data to the UK, once the UK will no longer be part of the EU. Clinical trials Q&A Following a request from the European Commission (DG SANTE), the EDPB adopted its opinion on the clinical trials Q&A. The opinion addresses in particular the aspects related to the adequate legal bases in the context of clinical trials, and the secondary uses of clinical trial data for scientific purposes. The opinion will now be transmitted to the European Commission. DPIA lists The EDPB adopted opinions on the Data Protection Impact Assessment (DPIA) lists, submitted to the Board by Liechtenstein and Norway. These lists form an important tool for the consistent application of the GDPR across the EEA. DPIA is a process to help identify and mitigate data protection risks that could affect the rights and freedoms of individuals. While in general the data controller needs to assess if a DPIA is required before engaging in the processing activity, national supervisory authorities shall establish and make a list of the kind of processing operations which are subject to the requirement for a data protection impact assessment. These two opinions follow the 22 opinions adopted during the September plenary, and the four opinions adopted during the December plenary, and will further contribute to establishing common criteria for DPIA lists across the EEA. Guidelines on certification The EDPB adopted the final version of the guidelines on certification following public consultation. Additionally, the Board also adopted a new annex. A draft version of the guidelines had been adopted during the EDPB’s first plenary in May. The primary aim of these guidelines is to identify overarching criteria which may be relevant to all types of certification mechanisms issued in accordance with art. 42 and art. 43 GDPR. As such, the guidelines explore the rationale for certification as an accountability tool, provide explanations for the key concepts of the certification provisions in art. 42 and art. 43, explain the scope of what can be certified and outline the purpose of certification. The guidelines will help Member States, supervisory authorities and national accreditation bodies (NAB) when reviewing and approving certification criteria in accordance with art. 42 and art. 43 GDPR. The annex will be subject to public consultation. More information: Data Protection Ombudsman Reijo Aarnio, tel. +358 40 520 7068, reijo.aarnio(at)om.fi 
+
+
+
+
+
+
+
+
+
