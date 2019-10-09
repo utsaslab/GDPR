@@ -1,0 +1,64 @@
+
+                                    [pic]
+                     HELLENIC DATA PROTECTION AUTHORITY
+
+                                                            Athens 7-10-2019
+                                                              Ref. No.: 6739
+
+                                Press release
+
+        Administrative fines imposed on a telephone service provider
+
+  (1) Imposition of a fine for breach of the principle of accuracy and data
+       protection by design when keeping personal data of subscribers
+
+      The Hellenic DPA has received complaints from telephone subscribers of
+the  Hellenic  Telecommunications   Organization   (“OTE”)   who,   although
+registered in the OTE’s do-not-call register (according  to  Article  11  of
+Law 3471/2006), they received unsolicited calls  from  third  companies  for
+the promotion of products and services.
+      The investigation of  the  case  showed  that  those  subscribers  had
+submitted a portability request for the transfer of  their  subscription  to
+another provider. As a consequence, OTE deleted their entries from  the  do-
+not-call  register.  However,  when  those   subscribers   cancelled   their
+portability request, there was no proper procedure to cancel  their  removal
+from the register. Subscribers were listed as registrants  in  the  internal
+system of the provider’s customer service, but their telephone numbers  were
+not included in the register sent by OTE to  the  advertisers,  as  the  two
+systems, due to the error in their interconnection, did not  have  the  same
+content.
+      The Authority found that this incident  affected  a  large  number  of
+individual subscribers, as there was an infringement  of  Article  25  (data
+protection by design) and Article 5 (1) (c) (principle of accuracy)  of  the
+General  Data  Protection  Regulation  (GDPR).  It  therefore   imposed   an
+administrative fine of EUR 200.000 on the basis of the  criteria  laid  down
+in Article 83 (2) of the Regulation.
+
+     Decision 31/2019 is available in Greek on www.dpa.gr ( “Decisions”
+
+ (2) Imposition of a fine for failure to satisfy the right to object and the
+    principle of data protection by design when keeping personal data of
+                                 subscribers
+
+            The Hellenic DPA has received complaints from the recipients  of
+advertising  messages  from  OTE  concerning  their  lack  of   ability   to
+unsubscribe from the list of recipients  of  advertising  messages.  In  the
+course of the examination of  the  complaints  it  emerged  that  from  2013
+onwards, due to a technical error, the removal from the lists of  recipients
+of advertising messages did not operate for those recipients  who  used  the
+“unsubscribe”  link.  OTE  did  not  have  the  appropriate   organisational
+measure, i.e. a defined procedure by which it could  detect  that  the  data
+subject’s right to object could not be satisfied.
+             Subsequently,  OTE  removed  around  8.000  persons  from   the
+addressees of the messages, who had  unsuccessfully  attempted  to  withdraw
+from 2013 onwards. The Authority has found an infringement of the  right  to
+object to the processing for direct marketing purposes (Article  21  (3)  of
+the GDPR) as well as Article 25 (data protection by design) of the GDPR  and
+imposed an administrative fine of EUR 200.000 on the basis of  the  criteria
+of Article 83 (2) of the Regulation.
+
+     Decision 34/2019 is available in Greek on www.dpa.gr ( “Decisions”
+
+
+
+                                             Communications Department

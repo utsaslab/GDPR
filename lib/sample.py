@@ -52,7 +52,7 @@ def main():
     data_path = '../data/{date}/'.format(date='09-25-2019') # prod: now.strftime("%m-%d-%Y")
 
     gdpr = GDPR()
-    dpa = gdpr.get_dpa(GDPR.EU_MEMBER.FRANCE)
+    dpa = gdpr.get_dpa(GDPR.EU_MEMBER.GREECE)
     dpa.bulk_collect(data_path)
 
     """for root, _, files in os.walk(data_path):

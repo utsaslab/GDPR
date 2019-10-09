@@ -328,5 +328,31 @@
         "render_type": "FULLY_RENDERED"
       }
     ]
+  },
+  "GR": {
+    "country": "Greece",
+    "name": "Hellenic Data Protection Authority",
+    "address": "Kifisias Av. 1-3, PC 11523\nAmpelokipi Athens",
+    "phone": "210 6475 600",
+    "country_code": "+30",
+    "website": "http://www.dpa.gr/",
+    "email": "contact@dpa.gr",
+    "member": {
+      "name": "Mr Konstantinos Menoudakos",
+      "title": "President of the Hellenic Data Protection Authority"
+    },
+    "sources": [
+      {
+        "host": "https://www.dpa.gr",
+        "start_path": "/portal/page?_pageid=33,43547&_dad=portal&_schema=PORTAL",
+        "target_element": {
+          "results": "tbody",
+          "pagination": null,
+          "document": "p",
+          "date": "p"
+        },
+        "render_type": "FULLY_RENDERED"
+      }
+    ]
   }
 }
