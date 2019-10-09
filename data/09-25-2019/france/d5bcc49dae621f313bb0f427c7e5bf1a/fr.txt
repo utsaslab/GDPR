@@ -1,0 +1,119 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 29/06/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+Délibération n°2018-261 du 21 juin 2018 
+Délibération n° 2018-261 du 21 juin 2018 portant avis sur un projet de décret en Conseil d’Etat relatif aux remises prévues à l’article L. 165-4 du code de la sécurité sociale et à la pénalité liée à la production de données erronées relatives aux dispositifs médicaux remboursables par l’assurance maladie (demande d’avis n° 18011393) 
+
+La Commission nationale de l’informatique et des libertés,
+ 
+Saisie par la ministre des solidarités et de la santé d’une demande d’avis concernant un projet de décret en Conseil d’Etat relatif aux remises prévues à l’ et à la pénalité liée à la production de données erronées relatives aux dispositifs médicaux remboursables par l’assurance maladie ;
+ 
+Vu le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) ;
+ 
+Vu la modifiée relative à l’informatique, aux fichiers et aux libertés ;
+ 
+Vu le modifié pris pour l’application de la relative à l’informatique, aux fichiers et aux libertés ;
+ 
+Vu le relatif au traitement des données de santé à caractère personnel dénommé système national des données de santé ;
+ 
+Vu la de la Commission nationale de l’informatique et des libertés portant avis sur un projet de décret en Conseil d’Etat relatif au Système national des données de santé ;
+ 
+Vu le dossier et ses compléments ;
+ 
+Sur la proposition de M. Alexandre LINDEN, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement,
+ 
+Emet l’avis suivant :
+ 
+La Commission a été saisie le 6 juin 2018 pour avis par la ministre des solidarités et de la santé d’un projet de décret en Conseil d’Etat relatif aux remises prévues à l’ et à la pénalité liée à la protection de données erronées relatives aux dispositifs médicaux remboursables par l’assurance maladie (ci-après le projet ). Le courrier de saisine précise que seul est soumis à l’examen de la Commission l’article 3 du projet de décret en Conseil d’Etat, modifiant les articles et du code de la santé publique créés par le relatif au traitement des données à caractère personnel dénommé système national des données de santé .
+ 
+La Commission a déjà eu à se prononcer sur le ( ), pris en application des .
+ 
+Le projet soumis à la Commission vise à modifier les possibilités d’accès de la direction de la sécurité sociale du ministère de la santé et des solidarités aux données du système national des données de santé (SNDS). Les adaptations portent sur les éléments suivants : 
+ 
+- l’accès de la direction de la sécurité sociale aux données d’identification des professionnels de santé ;
+ 
+- l’accès aux catégories de données visées par l’article R. 1461-14-1° du code de la santé publique. 
+ 
+Sur l’accès de la direction de la sécurité sociale aux données d’identification des professionnels de santé :
+ 
+L’article 3 du projet vise à étendre l’accès de la direction de la sécurité sociale, au numéro d’identification du professionnel de santé et à celui identifiant les distributeurs de produits de santé, lorsqu’ils sont nécessaires à la régulation ou à la gestion économique des produits de santé et des prestations éventuellement associées, ou à des actions destinées à favoriser la pertinence de leur usage. Elle n’aura cependant accès qu’à un pseudonyme construit à partir du numéro d’identification du professionnel de santé pour ses autres missions.
+ 
+Dans le cadre des échanges avec les services de la Commission, le ministère a précisé que l’accès à ces données poursuit deux objectifs : 
+ 
+- inciter les professionnels de santé à prescrire certains produits de santé, afin de répondre aux orientations nationales de régulation économique des dépenses de santé. Il s’agit de mener des actions ciblées concernant la prescription de certains produits de santé, d’améliorer la pertinence du recours à certains produits et de faire évoluer certaines pratiques de prescription ;
+ 
+- négocier, avec les fabricants et les distributeurs, des remises sur les produits de santé et, surtout, permettre de procéder à ces remises directement auprès des différents distributeurs et professionnels de santé concernés en fonction des dispositions qui auront été négociées. 
+ 
+Au regard des missions exercées par la direction de la sécurité sociale en matière de régulation économique et des garanties mises en place pour limiter cet accès aux objectifs susvisés, cette extension n’appelle pas d’observations de la part de la Commission.
+ 
+Sur l’accès de la direction de la sécurité sociale aux catégories de données visées par l’article R. 1461-14-1° du code de la santé publique :
+ 
+L’article R. 1461-14-1° du code de la santé publique en vigueur prévoit que la direction de la sécurité sociale peut accéder aux données du SNDS suivantes : 
+ 
+- les échantillons généralistes avec au maximum l’utilisation de deux identifiants potentiels ;
+ 
+- les données semi-agrégées, individualisées pour les professionnels ou établissements de santé et agrégées pour les bénéficiaires ;
+ 
+- les données agrégées présentant un risque résiduel de réidentification. 
+ 
+L’article 3 du projet vise à étendre les catégories de données du SNDS auxquelles la direction de la sécurité sociale peut accéder de manière permanente. Il s’agit de lui permettre d’accéder à l’ensemble des données individuelles du SNDS avec croisement des identifiants potentiels, ainsi qu’aux échantillons généralistes avec croisement des identifiants potentiels, tout en maintenant ses accès aux données semi-agrégées, individualisées pour les professionnels ou établissements de santé et agrégées pour les bénéficiaires, et aux données agrégées présentant un risque résiduel de réidentification.
+ 
+Jusqu’à présent, disposaient d’un tel accès, en application des dispositions de l’article R. 1461-14-1 du code de la santé publique, les services de l’Etat, les établissements publics et les organismes chargés d’une mission de service public suivants : 
+ 
+- la direction de la recherche, des études, de l’évaluation et des statistiques ;
+ 
+- la direction générale de la santé ;
+ 
+- la direction générale de l’offre de soins ;
+ 
+- les caisses nationales des régimes de l’assurance maladie obligatoire ;
+ 
+- la caisse nationale de solidarité pour l’autonomie ;
+ 
+- la Haute Autorité de santé ;
+ 
+- l’Agence nationale de santé publique ;
+ 
+- l’Agence nationale de sécurité du médicament et des produits de santé ;
+ 
+- l’Agence de biomédecine ;
+ 
+- l’Institut national du cancer ;
+ 
+- l’Etablissement français du sang ;
+ 
+- l’Agence technique de l’information sur l’hospitalisation ;
+ 
+- l’Institut national des données de santé ;
+ 
+- l’Institut de recherche et documentation en économie de la santé ;
+ 
+- l’Institut national d’études démographiques. 
+ 
+Lors des échanges entre les services de la Commission et le ministère, ce dernier a précisé que l’accès à de telles données était nécessaire à la direction de la sécurité sociale, notamment : 
+ 
+- pour mener des travaux d’évaluation des réformes efficaces et homogènes par rapport aux autres directions du même ministère disposant d’un accès à davantage de données du SNDS ;
+ 
+- pour mesurer finement les implications de certaines réformes pour les acteurs du système de santé concernés. 
+ 
+Le ministère indique par ailleurs que des études récentes menées par la direction de la sécurité sociale à partir des données auxquelles elle a déjà accès ne permettaient pas d’obtenir des résultats suffisamment précis.
+ 
+Au regard de ces éléments, la Commission considère que l’accès par la direction de la sécurité sociale aux données du SNDS mentionnées à l’article R. 1461-14-1° du code de la santé publique est justifié.
+ 
+Les autres dispositions du projet n’appellent pas d’observations de la Commission. 
+ 
+La présidente,
+ 
+ 
+I. Falque-Pierrotin 
+ 
+ 
+Nature de la délibération: AVIS
+ 
+ 
+
+

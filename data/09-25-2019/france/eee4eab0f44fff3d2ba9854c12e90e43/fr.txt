@@ -1,0 +1,103 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 28/06/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+DELIBERATION n°2018-145 du 3 MAI 2018 
+Délibération n° 2018-145 du 3 mai 2018 autorisant le laboratoire Sanofi Aventis France à mettre en œuvre un traitement automatisé de données à caractère personnel ayant pour finalité l’utilisation d’un dispositif de télésurveillance médicale dénommé Insulia® 
+
+(Demande d’autorisation n° 2168326) 
+ 
+La Commission nationale de l’informatique et des libertés, 
+Saisie par le laboratoire Sanofi Aventis France d’une demande d’autorisation concernant un traitement automatisé de données à caractère personnel ayant pour finalité l’utilisation d’un dispositif de télésurveillance médicale dénommé Insulia® ; 
+Vu la Convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ; 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ; 
+Vu le code de la santé publique, notamment ses articles L. 1110-4, L. 1111-8, L. 6316-1 et R. 6316-1 et suivants ; 
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment son article 25-I-6° ; 
+Vu la loi n° 2017-1836 du 30 décembre 2017 de financement de la sécurité sociale pour 2018, notamment son article 54 ; 
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ; 
+Vu l’arrêté du 25 avril 2017 portant cahier des charges des expérimentations relatives à la prise en charge par télésurveillance du diabète mises en œuvre sur le fondement de l’article 36 de la loi n° 2013-303 de financement de la sécurité sociale pour 2014 ; 
+Vu le dossier et ses compléments ; 
+Sur la proposition de M. Alexandre LINDEN, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement, 
+ 
+ 
+Formule les observations suivantes : 
+ 
+Responsable du traitement 
+Le laboratoire Sanofi Aventis France est une société anonyme ayant pour activité la fabrication de dispositifs médicaux logiciels. Il distribue le dispositif médical Insulia® fabriqué par la société Voluntis. 
+Sur la finalité 
+Le traitement de données à caractère personnel généré par l’utilisation d’Insulia a pour objectif la réalisation d’actes de télésurveillance médicale des personnes atteintes de diabète, à travers la mise en place d’une solution digitale intégrant les fonctionnalités suivantes : 
+ 
+une application mobile à destination des patients permettant de noter et de conserver tous les éléments utiles à la détermination de la prise en charge médicale de ceux-ci ; 
+ 
+un portail web, auquel accèdent par le biais d’un espace personnel qui leur est propre les patients, les médecins prescripteurs, des téléopérateurs, et générant un carnet de suivi électronique du patient (notamment prescription, information du patient, recueil du consentement, profil de traitement du patient) et intégrant les éléments de l’application mobile ; 
+ 
+un centre d’appels, géré par un téléopérateur, accessible à partir d’un numéro vert, pour répondre aux sollicitations des patients, des professionnels de santé sur les questions techniques et administratives. 
+ 
+La Commission estime que les finalités poursuivies par le traitement sont déterminées, explicites et légitimes. 
+ 
+Elle considère qu’il y a lieu de faire application de l’article 25-I-6° de la loi du 6 janvier 1978 modifiée, qui soumettent à autorisation de la Commission les traitements de données de santé qui contiennent, comme en l’espèce, le numéro d’inscription des personnes au répertoire national d’identification des personnes physiques (NIR) à des fins de remboursement. 
+Sur les données traitées 
+Concernant les patients, sont traités  les données d’identification, de connexion, de santé et le NIR. 
+ 
+Concernant les professionnels de santé participant à l’acte de télésurveillance et les autres professionnels accompagnant les professionnels de santé, sont traités  les données d’identification, le lieu d’exercice professionnel et les données de connexion. 
+ 
+Concernant l’acte de télésurveillance, sont traités le compte-rendu de la réalisation de l’acte, les actes et les prescriptions médicamenteuses effectués, l’identification des professionnels de santé participant à l’acte, la date et l’heure de l’acte et, le cas échéant, les incidents techniques survenus. 
+ 
+La Commission considère que ces données sont adéquates, pertinentes et non excessives au regard de la finalité du traitement, conformément aux dispositions de l’article 6-3° de la loi du 6 janvier 1978 modifiée. 
+Sur les destinataires 
+Les destinataires des données sont les médecins prescripteurs et les professionnels de santé assurant la télésurveillance médicale, les téléopérateurs, les personnels de Voluntis et l’hébergeur.  
+Ils accèdent aux données dans la limite de leurs attributions respectives.  
+Sur l’information et le droit d’accès  
+Le patient se voit remettre une notice d’information et de recueil du consentement par le médecin prescripteur à l’occasion de son inscription dans le dispositif. Cette notice s’affiche également à l’occasion de la première connexion du patient à son compte et de chaque mise à jour du document. Elle est rédigée notamment pour assurer le respect des dispositions de l’article 32 de la loi du 6 janvier 1978 modifiée.  
+ 
+La Commission demande que la notice d’information soit modifiée sur les points suivants : 
+ 
+la possibilité pour les personnels de Voluntis de facturer à l’assurance maladie le dispositif doit être supprimée ;  
+ 
+les personnels de l’opérateur doivent apparaître comme destinataires des données. 
+ 
+Le consentement du patient sera enregistré sur son compte lors de sa création par le médecin. Il est réitéré à l’occasion de la première connexion et à chaque mise à jour de la notice. 
+ 
+Les droits d’accès, de rectification et d’opposition tels que reconnus par la loi du 6 janvier 1978 modifiée sont précisés dans la notice d’information et de recueil du consentement. Ils s’exercent par le patient, directement et à certaines conditions, par le biais d’Insulia®, auprès du médecin prescripteur d’Insulia ou du service des données personnelles de Voluntis. 
+Sur les mesures de sécurité 
+Les échanges de données sont réalisés via des canaux de communication chiffrés et assurant l’authentification de la source et du destinataire. Les données sont stockées chiffrées. 
+ 
+Chaque utilisateur dispose d’un identifiant qui lui est propre, protégé par un mot de passe conforme aux délibérations n° 2017-012 du 19 janvier 2017 et n° 2017-190 du 22 juin 2017 portant recommandations relatives aux mots de passe. 
+ 
+La Commission rappelle qu’elle recommande, s’agissant des données de santé, que les traces soient conservées dans les dossiers des patients et pour une durée égale à la durée de conservation de ces dossiers mais que s’agissant des journaux consignant les actions des administrateurs, elle préconise une durée de conservation de six mois. 
+ 
+La mise au point des logiciels s’effectue sur des données fictives. 
+Le réseau de l’entreprise fait l’objet de mesure de filtrage ayant pour but de restreindre l’émission et la réception des flux réseau aux machines identifiées et autorisées. Les accès distants sont sécurisés via un VPN chiffré. 
+ 
+La Commission recommande que les permissions d’accès soient attribuées pour une durée déterminée et limitée, après validation hiérarchique, qu’elles soient supprimées dès qu’un utilisateur n’est plus habilité et qu’une revue globale des habilitations attribuées soit opérée régulièrement. 
+ 
+L’ensemble des données de santé à caractère personnel traitées sont hébergées auprès d’un hébergeur agréé ou certifié selon la réglementation en vigueur.  
+Sur les autres caractéristiques du traitement 
+Les données traitées par Insulia sont conservées : 
+ 
+trois mois en base active à l’issue de la durée de la relation contractuelle entre les professionnels mettant en œuvre la télésurveillance, pour les données nécessaires à la gestion et à la mise en œuvre du dispositif ; 
+ 
+six mois en base active, pour les données concernant les patients. 
+ 
+Les données sont ensuite conservées en archive intermédiaire pendant dix ans. 
+ 
+A l’expiration du délai d’archivage de dix ans, les données sont détruites ou anonymisées. 
+ 
+Autorise, conformément à la présente délibération, Sanofi Aventis France à mettre en œuvre le traitement susmentionné. 
+ 
+Pour la Présidente Le Vice-Président délégué 
+ 
+Marie-France MAZARS 
+ 
+ 
+ 
+ 
+ 
+Nature de la délibération: Autorisation
+ 
+ 
+
+

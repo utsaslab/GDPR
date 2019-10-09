@@ -1,0 +1,117 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 15/06/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+Délibération n°2018-156 du 3 mai 2018 
+Délibération n° 2018-156 du 3 mai 2018 autorisant le GIE REGISTRE NATIONAL DES IMPAYES ELECTRICITE (RNIE) à mettre en œuvre un traitement automatisé de données à caractère personnel ayant pour finalité la gestion des impayés. (Demande d’autorisation n° 2161497) 
+
+La Commission nationale de l’informatique et des libertés, 
+Saisie par le Groupement d’Intérêt Economique Registre National des Impayés Electricité (RNIE) d’une demande d’autorisation concernant un traitement automatisé de données à caractère personnel ayant pour finalité la détection de la fraude documentaire ; 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ; 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ; 
+Vu le code monétaire et financier, notamment ses articles L. 511-33 et L. 531-12 ; 
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment l’article 25-I-4°; 
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ; 
+Vu le dossier et ses compléments ; 
+Après avoir entendu M. Eric PERES, commissaire, en son rapport, et Mme Nacima BELKACEM, commissaire du Gouvernement, en ses observations, 
+ 
+Formule les observations suivantes :  
+ 
+La Commission a été saisie par le Groupement d’Intérêt Economique Registre National des Impayés Electricité (ci-après, le GIE ) d’une demande d’autorisation concernant un traitement ayant pour finalité la mutualisation de fichiers d’impayés. Les sociétés membres du GIE sont des fournisseurs d’électricité auprès du grand public, qui souhaitent mettre en place un fichier mutualisé de personnes en situation d’impayé afin de décider des suites à donner aux demandes de souscription qu’elles reçoivent. La présence de données relatives à une personne dans ce fichier peut, dans certains cas, conduire le fournisseur d’énergie à refuser toute entrée en relation contractuelle. 
+ 
+Il y a donc lieu de faire application des dispositions de l’article 25-I-4° de la loi du 6 janvier 1978 modifiée qui soumettent à autorisation les traitements automatisés susceptibles, du fait de leur nature, de leur portée ou de leurs finalités, d’exclure des personnes du bénéfice d’un droit, d’une prestation ou d’un contrat en l’absence de toute disposition législative ou réglementaire. 
+ 
+Sur la finalité du traitement :  
+ 
+Le traitement vise à prévenir les impayés, en permettant aux membres du GIE d’identifier les personnes débitrices qui changent de fournisseur d’énergie afin de se soustraire au paiement de leur facture. 
+ 
+La Commission considère que le traitement soumis à la présente autorisation ne conduit pas remettre en cause les garanties apportées par l’article L. 115-3 du Code de l’action sociale et des familles. 
+ 
+Le traitement vise à permettre aux membres du GIE de mutualiser leur liste de personnes en situation d’impayé avéré dans un fichier mutualisé. Lorsqu’un des membres du GIE reçoit une nouvelle demande de souscription, les informations fournies par le demandeur de l’abonnement font l’objet d’une consultation dans le fichier mutualisé du GIE, afin de vérifier si le point de livraison du prospect est identifié comme attaché à un impayé de plus de trente euros ayant été commis dans les trente derniers jours. 
+ 
+Le cas échéant, une alerte est adressée au membre du GIE concerné puis analysée par son personnel. Une intervention humaine a donc lieu avant toute prise de décision, pouvant conduire à des vérifications complémentaires (telles que la demande d’un contrat de bail, d’une facture d’énergie de moins de six mois, etc.), afin de déterminer si la personne concernée est bien débitrice, en vérifiant par exemple qu’elle emménage dans le logement en question, et qu’elle n’est donc pas responsable de l’impayé enregistré.  
+ 
+Si l’identité de la personne concernée correspond à celle étant en situation d’impayé, le membre du GIE pourra exiger qu’elle s’acquitte des sommes dues auprès de l’autre membre du GIE et/ou qu’un dépôt d’un maximum de deux-cent cinquante euros soit versé contractuellement. A défaut de présentation des informations ou de garanties suffisantes, le membre du GIE peut refuser la demande de souscription d’abonnement de la personne concernée. 
+ 
+La Commission considère que cette finalité est déterminée, explicite et légitime. 
+Sur la nature des données traitées :  
+ 
+Les données collectées sont celles qui sont transmises lors de la demande de souscription du contrat, à savoir : 
+ 
+identité (nom, prénom, adresses postale et électroniques, numéro de téléphone) ;
+références de point de livraison pour un compteur d’électricité, et point de comptage et d’estimation ou PCE pour un compteur de gaz ; et
+informations financières (RIB ou IBAN).  
+Par ailleurs, les membres du GIE renseigneront dans le fichier mutualisé les données relatives à l’incident et motivant l’inscription sur la liste d’exclusion, à savoir le montant de l’impayé ainsi que la date d’inscription sur le fichier.
+ 
+ 
+Sur la durée de conservation des données :  
+ 
+L’ensemble des données relatives aux incidents et motivant l’inscription sur la liste d’exclusion (notamment l’identité de la personne, le montant de l’impayé et la date d’inscription sur le fichier) sont supprimées dès lors que l’impayé a été soldé. Le fournisseur d’énergie notifie le GIE dans le délai d’un jour ouvré que l’impayé a été soldé, afin que ces données soient automatiquement supprimées du fichier mutualisé. Si l’impayé n’est pas soldé, elles seront conservées pendant deux ans en base active, puis en archivage intermédiaire pendant deux ans. 
+ 
+La Commission note que le GIE ne prévoit pas d’archivage définitif. 
+ 
+La Commission considère que cette durée de conservation n’excède pas celle qui est nécessaire à l’accomplissement de la finalité poursuivie par le responsable de traitement. 
+Sur les destinataires des données :  
+ 
+Seul le personnel habilité du GIE RNIE peut avoir accès aux données de l’alerte (y compris le montant de l’impayé et la date d’inscription sur le fichier) à l’occasion d’une demande d’abonnement spécifique par la personne concernée. 
+ 
+Le personnel des membres du GIE n’a accès qu’à l’interface technique permettant d’interroger le fichier mutualisé sur laquelle seule l’alerte est affichée. 
+ 
+En revanche, les services clients et le service gestion des impayés des membres du GIE ont accès à toutes les données relatives à l’impayé qu’ils ont eux-mêmes inscrit dans le fichier (comme par exemple les informations complémentaires demandées). 
+ 
+La Commission prend note que ces personnes recevront une formation spécifique sur la protection des données personnelles.  
+Sur l’information des personnes :  
+ 
+Le GIE s’assure que les personnes concernées, demandeurs à la souscription d’abonnement, sont informées des mentions prévues à l’article 32 de la loi Informatique et Libertés modifiée, par le biais de : 
+ 
+une mention d’information dans les conditions générales de vente des membres du GIE, avisant notamment la personne concernée qu’en cas d’impayé, leurs noms et références seraient transmis au fichier des impayés du GIE ;
+une mention d’information sur le site web du fournisseur d’énergie ; et
+une information orale délivrée par le fournisseur lors de la demande de souscription.
+ 
+Ces mentions doivent notamment indiquer que le GIE est responsable de traitement et préciser les modalités d’exercice des droits Informatique et Libertés . Une adresse courriel spécifique (renvoyant à la direction juridique du GIE) sera indiquée à la personne concernée en cas de contestation de l’inscription. 
+ 
+Par ailleurs, la Commission rappelle que l’entrée en vigueur du Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE interviendra le 25 mai 2018. La Commission note que le GIE RNIE s’engage à fournir toutes les informations nécessaires à la personne concernée, conformément aux articles 13 et 14 du Règlement (UE) 2016/679. 
+ 
+Le GIE s’assure également qu’au moment de la survenance de l’incident de paiement, les personnes concernées soient informées des moyens dont elles disposent pour régulariser leurs paiements et présenter leurs observations. Il s’assure enfin que les personnes sont informées au moment de leur inscription sur la liste d’exclusion par voie électronique et par SMS. 
+ 
+Dans le cas où elles souhaiteraient connaître le montant et la date de l’inscription de l’impayé, le GIE les renverra vers les fournisseurs concernés. 
+ 
+Sur les droits d’accès, de rectification et d’opposition des personnes :  
+ 
+Les personnes concernées peuvent exercer leurs droits d’accès, de rectification et d’opposition pour motifs légitimes auprès du GIE, à une adresse indiquée dans les conditions générales de vente des fournisseurs d’énergie. 
+ 
+Elles peuvent également faire parvenir au fournisseur d’énergie membre du GIE des observations qui seront prises en compte et analysées pour, le cas échéant, lever la demande de garantie ou débloquer le refus à la demande de souscription d’abonnement. 
+ 
+Enfin, la Commission rappelle que le Règlement (UE) 2016/679 renforce le droit d’opposition de la personne concernée, ainsi que l’information que le responsable de traitement doit lui fournir sur ce droit. La Commission note que le GIE RNIE s’engage à mettre en œuvre ces évolutions à compter du 25 mai 2018.  
+Sur la sécurité des données et la traçabilité des actions :  
+ 
+La Commission prend note de la mise en œuvre de précautions utiles pour préserver la sécurité des données traitées, notamment pour empêcher qu’elles soient déformées, endommagées ou que des tiers non autorisés y aient accès. 
+ 
+La Commission retient la mise en œuvre d’une gestion rigoureuse des contrôles d’accès des différentes parties au traitement. Des systèmes de chiffrement sont mis en œuvre pour garantir la confidentialité des données échangées et permettre l’authentification des parties. 
+ 
+Le traitement met en œuvre une gestion des habilitations donnant accès aux seules personnes dûment habilitées et autorisées à en connaitre, en fonction de leur profil. La Commission rappelle que cette gestion des habilitations doit être déployée quel que soit le type d’accès considéré. 
+ 
+Le responsable de traitement a déployé une politique de journalisation. La Commission rappelle que le niveau de traçabilité doit être adéquat et proportionné. 
+ 
+Ces mesures de sécurité n’appellent pas d’observation de la Commission au regard de l’article 34 de la loi du 6 janvier 1978 modifiée. 
+ 
+La Commission rappelle néanmoins que l’exigence de sécurité prévue à l’article 34 de la loi nécessite la mise à jour des mesures de sécurité au regard de la réévaluation régulière des risques. 
+ 
+Dans ces conditions, la Commission autorise le Groupement d’Intérêt Economique Registre National des Impayés Electricité (RNIE) à mettre en œuvre un traitement de données à caractère personnel ayant pour finalité la gestion des impayés. 
+ 
+ 
+ 
+La Présidente 
+ 
+ 
+Isabelle FALQUE-PIERROTIN 
+ 
+ 
+Nature de la délibération: AUTORISATION
+ 
+ 
+
+

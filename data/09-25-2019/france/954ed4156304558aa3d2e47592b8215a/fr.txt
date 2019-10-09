@@ -1,0 +1,109 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 20/07/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+DELIBERATION n°2018-160 du 17 MAI 2018 
+Délibération n° 2018-160 du 17 mai 2018 autorisant la modification du traitement mis en œuvre par l’Institut national de la statistique et des études économiques ayant pour finalité la réalisation d’une enquête annuelle de victimation « Cadre de vie et sécurité ». 
+
+Délibération n° 2018-160 du 17 mai 2018 autorisant la modification du traitement mis en œuvre par l’Institut national de la statistique et des études économiques ayant pour finalité la réalisation d’une enquête annuelle de victimation « Cadre de vie et sécurité ». 
+(Demande d’autorisation n° 1197063 v9) 
+ 
+La Commission nationale de l’informatique et des libertés, 
+Saisie par le ministre de l’économie et des finances d’une demande d’autorisation concernant la modification du traitement automatisé de données à caractère personnel mis en œuvre par l’Institut national de la statistique et des études économiques ayant pour finalité la réalisation d’une enquête annuelle de victimation «Cadre de vie et sécurité» ; 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ; 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ; 
+Vu la loi n° 51-771 du 7 juin 1951 modifiée sur l’obligation, la coordination et le secret en matière statistique et notamment son article 7 bis;  
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment ses articles 25-I-1°, 25-I-3° et 30-II ; 
+Vu la loi n° 2010-769 du 9 juillet 2010 ayant créé le délit de harcèlement moral au sein du couple ;  
+Vu la loi n° 2011-267 du 14 mars 2011 d’orientation et de programmation pour la performance de la sécurité intérieure, notamment son annexe ; 
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ; 
+Vu le décret n° 2009-318 du 20 mars 2009 relatif au Conseil national de l’information statistique et au Comité du secret statistique, notamment son article 17 ;  
+Vu l’arrêté du 12 juillet 2007 mettant en œuvre un traitement « tirage d’échantillons à partir des déclarations fiscales» et notamment son article 3 ; 
+Vu l’arrêté du 7 août 2014 modifié portant création d’un traitement automatisé de données à caractère personnel relatif à une enquête annuelle de victimation « cadre de vie et sécurité » ;  
+Vu la délibération n° 2007-004 du 11 janvier 2007 autorisation l’Institut national de la statistique et des études économiques à mettre en œuvre les traitements automatisés de données à caractère personnel nécessaires à la réalisation d’une enquête statistique obligatoire de victimation ;  
+ 
+ 
+ 
+Vu la délibération n° 2009-087 du 29 janvier 2009 autorisant la mise en œuvre par l’Institut national de la statistique et des études économiques d’un traitement de données à caractère personnel ayant pour finalité la réalisation d’une enquête statistique obligatoire de victimation ;  
+Vu la délibération n° 2009-703 du 17 décembre 2009 autorisant la mise en œuvre par l’Institut national de la statistique et des études économiques d’un traitement de données à caractère personnel ayant pour finalité la réalisation d’une enquête statistique obligatoire de victimation ; 
+Vu la délibération n° 2014 -285 du 3 juillet 2014 autorisant la mise en œuvre par l’Institut national de la statistique et des études économiques d’un traitement de données à caractère personnel ayant pour finalité la réalisation d’une enquête statistique obligatoire de victimation « Cadre de vie et sécurité » ; 
+Vu la délibération n° 2015-449 du 17 décembre 2015 autorisant la modification du traitement mis en œuvre par l’Institut national de la statistique et des études économiques ayant pour finalité la réalisation d’une enquête annuelle de victimation « Cadre de vie et sécurité » ;  
+Vu la délibération n° 2018-041 du 8 février 2018 autorisant la modification du traitement mis en œuvre par l’Institut national de la statistique et des études économiques ayant pour finalité la réalisation d’une enquête annuelle de victimation « Cadre de vie et sécurité » ; 
+Vu le dossier et ses compléments ; 
+Sur la proposition de M. Philippe LEMOINE, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement, 
+ 
+ 
+Formule les observations suivantes : 
+ 
+Responsable du traitement 
+La Commission est saisie par le ministère de l’économie et des finances aux fins de réalisation d’une enquête statistique mise en œuvre par l’une de ses directions générales, à savoir l’Institut national de la statistique et des études économiques (INSEE) pris en qualité d’organisme public chargé de la production, de l’analyse et de la diffusion des statistiques officielles en France, conformément à la loi du 7 janvier 1951 modifiée (sur l’obligation, la coordination et le secret en matière statistique).  
+ 
+Sur la finalité 
+L’INSEE met en œuvre depuis 2007, à la demande de l’Observatoire national de la délinquance et des réponses pénales (ONDRP), un traitement de données à caractère personnel pour la réalisation d’enquêtes annuelles de victimation « Cadre de vie et sécurité » (CVS), autorisé par la Commission par la délibération n° 2007-004 du 11 janvier 2007.  
+ 
+Ce dispositif a pour objectif général de prendre la mesure des actes délictueux commis en France métropolitaine, d’évaluer la proportion des victimes dans la population, leurs caractéristiques socio-démographiques, le nombre et la nature précise des agression ou vols qu’elles rapportent avoir subi, d’évaluer la part des victimes qui ont porté plainte et de relativiser les données administratives qui mesurent l’activité des services de police et de gendarmerie. 
+ 
+L’enquête CVS est composée de trois types de questionnaires :  
+le questionnaire ménage, qui porte sur les cambriolages, vols de voiture, vols d’objets de la voiture, vols de deux roues, dégradations, ainsi que sur les escroqueries bancaires  
+le questionnaire individuel, qui est relatif aux vols personnels avec ou sans violence, aux violences physiques, menaces et insultes, ainsi que les conséquences des violences subies et les suites données à ces événements 
+le questionnaire auto administré sous casque, qui concerne les agressions sexuelles hors ménage et les violences physiques et sexuelles au sein du ménage. 
+ 
+L’enquête comprend des données sensibles au sens de l’article 8 de la loi du 6 janvier 1978 modifiée ainsi que des données relatives à des infractions pénales au sens de l’article 9 de cette même loi. Conformément aux articles 8-II-7° et 9-1° de la loi du 6 janvier 1978 modifiée, l’INSEE est habilité à traiter ces catégories de données. Le traitement mis en œuvre est soumis à une autorisation préalable de la Commission, conformément aux dispositions des articles 25-I-1° et 25-I-3° de la loi du 6 janvier 1978 modifié.  
+ 
+Le ministère de l’économie et des finances a saisi la Commission d’une demande de modification du traitement mis en œuvre dans le cadre de l’enquête « CVS », visant à permettre l’utilisation des coordonnées téléphoniques issues du traitement relatif au « fichier d’imposition des personnes » (FIP) de la direction générale des finances publiques (DGFIP). 
+ 
+Les finalités poursuivies par le traitement pour la réalisation d’enquêtes annuelles de victimation « CVS » demeurent identiques à celles sur lesquelles la Commission s’est déjà prononcée à plusieurs reprises dans le cadre des différentes délibérations susvisées.  
+ 
+Enfin, le Comité du Label a attribué, le 22 juin 2017 et pour l’année 2018, le label d’intérêt général et de qualité statistique assorti de l’obligation de réponse à l’enquête. Ce label est valide pour l’année 2018.  
+Sur les données traitées 
+La Commission relève que seule l’origine des coordonnées téléphoniques des personnes composant le sur-échantillon (ménages issus de quartiers prioritaires) fait l’objet d’une modification et que le dispositif global de l’enquête tel que précédemment autorisé demeure inchangé tant sur les catégories de donnée collectées que sur leur traitement. 
+L’échantillon principal constitué à partir des données de recensement de la population n’est pas concerné par cette modification. 
+ 
+Afin de contacter les enquêtés, le responsable de traitement souhaite pouvoir utiliser les numéros de téléphone (fixe et portable) issus du FIP. Ces données sont transmises par l’administration fiscale à l’INSEE conformément aux dispositions de l’article 7 bis de la loi n° 51-771 du 7 juin 1951 susvisée.  
+ 
+A cet égard la Commission prend acte que pour tenter de joindre l’enquêté par téléphone, l’enquêteur effectue une recherche dans l’annuaire téléphonique universel. Or, il lui a été indiqué que dans de nombreux cas, cette recherche n’aboutit pas car moins de 35% de la population possède une ligne fixe dont le numéro est visible sur le site des pages blanches, certains ménages étant inscrits sur une liste d’opposition et d’autres ne disposant pas de ligne fixe. 
+ 
+La Commission prend acte des précisions du ministère selon lesquelles l’utilisation des numéros de téléphone issus du FIP permettrait de joindre la quasi-totalité des ménages concernés et améliorerait ainsi considérablement le taux de réponse à l’enquête. 
+ 
+La Commission rappelle que la collecte et l’utilisation des numéros de téléphone issus du FIP devront être exclusivement réservées aux besoins de l’enquête annuelle de victimation.  
+ 
+Dans ces conditions, elle estime que la collecte de ces données est pertinente et non excessive au regard de la finalité de l’enquête et conforme aux dispositions de l’article 6-3° de la loi du 6 janvier 1978 modifiée. 
+ 
+Sur les destinataires 
+Les seuls destinataires des donnés, y compris des fiches « adresse », sont les personnels habilités de l’INSEE, ce qui n’appelle pas d’observation de la part de la Commission.  
+ 
+Sur l’information et le droit d’accès  
+Le droit d’accès et, le cas échéant, de rectification s’exercent auprès des directions régionales de l’INSEE, pendant le temps nécessaire à la réalisation de l’enquête.  
+ 
+Sur la conservation des données  
+La Commission prend acte que les numéros de téléphone issus du FIP seront détruits au terme de l’enquête de victimation effectuée pour l’année 2018, les ménages composant le sur échantillon « quartier prioritaire » n’étant pas concernés par le dispositif expérimental relatif à la ré interrogation des ménages au cours de l’enquête 2019. 
+ 
+Sur les mesures de sécurité 
+Les mesures de sécurité sont inchangées par rapport à celles prévues dans la délibération n° 2013-161 du 13 juin 2013 pour l’enquête CVS.  
+La sécurisation des accès distants est assurée par plusieurs mécanismes de chiffrement des connections, qui par ailleurs ne peuvent être établies que depuis un ensemble restreint d’adresses IP autorisées et lorsque l’utilisateur s’est authentifié à l’aide de sa carte puce. La restriction de l’accès aux locaux est garantie au moyen de portes verrouillées contrôlées par un moyen d’authentification personnel. Enfin, une journalisation des opérations de consultation, création et modification du traitement est réalisée, les utilisateurs étant informés que leurs actions font l’objet d’une journalisation et ne pouvant extraire des données qu’après vérification du respect du secret statistique. 
+ 
+Les échanges de données sont réalisés via des canaux de communication chiffrés et assurant l’authentification de la source et du destinataire. Concernant le recours au protocole HTTPS, la Commission recommande d’utiliser la version de TLS la plus à jour possible. 
+ 
+La commission rappelle que les mesures de sécurité devront faire l’objet d’une réévaluation régulière en fonction de l’évolution des risques.  
+ 
+Sous réserve de l’effectivité de l’ensemble des éléments précités, la Commission considère que la sécurité du dispositif est assurée de façon adéquate, conformément aux prescriptions de l’article 34 de la loi du 6 janvier 1978 modifiée.  
+ 
+ 
+Autorise, conformément à la présente délibération, le ministère de l’économie et des finances à mettre en œuvre le traitement susmentionné. 
+ 
+Pour la Présidente Le Vice-Président délégué 
+Marie-France MAZARS 
+ 
+ 
+ 
+ 
+ 
+ 
+Nature de la délibération: Autorisation Partie 2
+ 
+ 
+
+

@@ -1,0 +1,148 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 28/06/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+DELIBERATION n°2018-151 du 3 MAI 2018 
+Délibération n° 2018-151 du 3 mai 2018 autorisant l’Université de Lorraine à mettre en œuvre un traitement automatisé de données à caractère personnel ayant pour finalité une recherche sur les impacts pour la vie privée des publications d’informations librement accessibles sur les réseaux sociaux 
+
+Demande d’autorisation n° 1945870) 
+ 
+La Commission nationale de l’informatique et des libertés, 
+Saisie par l’Université de Lorraine d’une demande d’autorisation concernant un traitement automatisé de données à caractère personnel ayant pour finalité une recherche sur les impacts pour la vie privée des publications d’informations librement accessibles sur les réseaux sociaux ; 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ; 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ; 
+Vu le code de la recherche, notamment ses articles L. 112-1 et L. 112-2 ; 
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment ses articles 8-IV et 25-I-1 ; 
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ; 
+Vu le dossier et ses compléments ; 
+Sur la proposition de M. Philippe LEMOINE, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement, 
+ 
+ 
+Formule les observations suivantes : 
+ 
+Responsable du traitement 
+Le responsable de traitement est l’Université de Lorraine dans la mesure où le traitement est mis en œuvre par l’une de ses composantes : le laboratoire lorrain de recherche en informatique et ses applications (LORIA). 
+ 
+Le LORIA est une unité mixte de recherche, composée de chercheurs de l’université de Lorraine, de l’Inria et du CNRS et qui a pour mission la recherche fondamentale et appliquée en sciences informatiques. 
+ 
+La Commission estime que le responsable de traitement, qui mène une recherche scientifique publique au sens des articles L. 112-1 et L. 112-2 du code de la recherche, agit dans l’exercice de ses missions de service public. 
+Sur la finalité 
+Le LORIA poursuit une recherche visant à mettre en exergue les risques sur la vie privée qui peuvent exister lorsque de nombreuses informations sont laissées accessibles sur internet, et en particulier sur les services de réseaux sociaux. L’objectif de ce projet est ainsi de sensibiliser le grand public à une utilisation maîtrisée des réseaux sociaux. 
+ 
+En pratique, pour collecter les données nécessaires au projet de recherche, les chercheurs mettent en œuvre des techniques de scraping à partir de logiciels libres. Leur recherche porte sur des profils du réseau social « Facebook », librement accessibles par tout internaute. Le volume de profils concernés par cette recherche est estimé à 20.000. 
+ 
+Le traitement automatisé de données à caractère personnel mis en œuvre, dans le cadre de ce projet de recherche, a une double finalité.  
+ 
+En premier lieu, il doit permettre d’améliorer la connaissance des pratiques de publication de données personnelles et informations par les utilisateurs des réseaux sociaux. Ainsi, la recherche doit conduire à la publication de résultats agrégés, destinés à sensibiliser les citoyens aux risques pour leur vie privée lorsqu’ils utilisent des réseaux sociaux sans mesures de restriction d’accessibilité aux données et informations ainsi diffusées. 
+ 
+La Commission relève que le projet de recherche n’a pas pour objet de prendre des décisions produisant des effets sur les personnes concernées. Si le suivi d’un individu, sous une forme non directement identifiante, est nécessaire le temps de l’analyse des données collectées, il ne sera produit que des résultats agrégés.  
+ 
+En second lieu, le traitement de données à caractère personnel doit permettre, à partir de l’analyse précitée, de développer un outil informatique qui, à terme, devrait permettre à un internaute qui le souhaite d’évaluer son « score d’anonymat » au regard des informations qu’il publie et d’apprécier si la publication de telle ou telle information peut affecter ce score. Il s’agit ainsi d’offrir à toute personne intéressée la possibilité de mesurer l’impact sur sa vie privée d’une publication sur son profil. 
+ 
+Le développement d’un tel outil requiert d’analyser un volume important de profils d’utilisateurs de réseaux sociaux. 
+ 
+Le traitement projeté doit ainsi permettre aux citoyens de disposer d’informations et d’outils pour faire un usage maîtrisé des réseaux sociaux et être acteurs de la protection de leur vie privée. 
+ 
+La Commission relève que l’outil ainsi développé pourrait constituer un nouveau traitement de données à caractère personnel, qui devra dès lors respecter les principes régissant la protection des données personnelles. Elle rappelle que la présente autorisation n’a pas pour objet le traitement qui pourrait être mis en œuvre lors de l’utilisation dudit outil, mais uniquement la recherche qui doit permettre de le développer. 
+ 
+Les données publiées en ligne par les utilisateurs du réseau social objet de la recherche et analysées par le LORIA sont initialement collectées à d’autres fins, par le fournisseur de service du réseau social. Toutefois, en application de l’article 6-2 de la loi du 6 janvier 1978 modifiée, la réutilisation de données à des fins de recherche scientifique est toujours compatible avec les finalités poursuivies par le traitement initial. 
+ 
+Au regard de ces éléments, la Commission considère que les finalités sont déterminées, explicites et légitimes, conformément à l’article 6-2 de la loi « Informatique et Libertés ». 
+ 
+Dans la mesure où des données à caractère personnel susceptibles de faire apparaître, directement ou indirectement, les origines raciales ou ethniques, les opinions religieuses ou qui sont relatives à la vie sexuelle des personnes concernées peuvent être collectées, le traitement est soumis à autorisation de la Commission, en application des articles 8-IV° et 25-I-1° de la loi du 6 janvier 1978 modifiée. 
+ 
+Sur les données traitées 
+La recherche du LORIA portant sur l’ensemble des informations que les utilisateurs du réseau social peuvent publier en ligne, les catégories de données traitées sont relatives à la vie personnelle et professionnelle des personnes concernées, à l’exception de leur identité. Chaque profil est en effet pseudonymisé grâce à l’utilisation d’un numéro aléatoire. 
+ 
+En outre, le projet de recherche du LORIA implique le traitement de données sensibles, au sens de l’article 8 de la loi du 6 janvier 1978 modifiée. 
+ 
+En effet, il ne peut être exclu que les profils d’utilisateurs de réseaux sociaux concernés par la collecte du LORIA contiennent des informations concernant leurs opinions politiques ou religieuses, par exemple. Ces données sont nécessaires pour l’analyse devant être menée par le responsable de traitement puisqu’il s’agit de mettre en évidence ce que peuvent révéler sur la vie privée d’une personne, ses publications en ligne. 
+ 
+La Commission considère que des données faisant apparaître les origines raciales ou ethniques, les opinions politiques, philosophiques ou religieuses ou l’appartenance syndicale des personnes ou qui sont relatives à la santé ou à la vie sexuelle de celles-ci peuvent être traitées, en application de l’article 8-II-4° de la loi du 6 janvier 1978 modifiée, lorsque les personnes concernées les ont diffusées, de leur propre initiative, en ligne, sans aucun paramétrage de confidentialité spécifique, les laissant ainsi librement accessibles à tout internaute. 
+ 
+Par ailleurs, le traitement du LORIA est susceptible de contenir des données sensibles au sens de l’article 8 de la loi « Informatique et Libertés » « induites » de certaines publications ou d’un croisement d’informations, par les chercheurs du LORIA. A titre d’illustration, le fait d’appartenir à un groupe, d’être « ami » avec certaines personnes, de publier ou « liker » certains contenus peut laisser penser que l’utilisateur est sympathisant de telle famille politique ou de telle obédience religieuse. L’objet de la recherche menée par le LORIA étant notamment de mesurer l’impact sur la vie privée de la publication en ligne de telles informations et de ce qu’elles peuvent laisser supposer sur la personne concernée, le responsable de traitement a indiqué que de telles inductions, quand bien même elles ne refléteraient pas la réalité, doivent être prises en considération pour l’analyse et, partant, enregistrées dans le traitement. 
+ 
+Conformément aux articles 8-IV et 25-I-I de la loi du 6 janvier 1978 modifiée, le traitement de telles données sensibles doit être justifié par un intérêt public et autorisé par la Commission.  
+ 
+A cet égard, la Commission relève que la recherche a une finalité exploratoire d’utilité publique – sensibilisation des citoyens à la protection de la vie privée – et qu’elle est portée par une unité mixte de recherche bénéficiant de financements publics. Dès lors,  
+compte tenu de l’intérêt public poursuivi par l’enquête, et des finalités de celle-ci, la Commission considère que la collecte de données relevant de l’article 8-I de la loi du 6 janvier 1978 modifiée est justifiée. Leur enregistrement et leur conservation doivent toutefois être entourés de garanties renforcées.  
+ 
+A cet égard, la Commission relève qu’elles sont conservées sous une forme sécurisée dans un containeur chiffré protégé par un mot de passe de complexité satisfaisante.  
+ 
+Dans ces conditions, la Commission estime que les données enregistrées sont adéquates, pertinentes et non excessives au regard des finalités du traitement, conformément à l’article 6-3° de la loi du 6 janvier 1978 modifiée 
+ 
+Sur les destinataires 
+Seuls les membres de l’équipe de recherche du LORIA en charge dudit projet et au nombre de cinq, auront accès aux données pseudonymisées, ce qui n’appelle pas d’observation particulière de la Commission. 
+Sur l’information et le droit d’accès  
+S’agissant de l’information des personnes concernées, le responsable de traitement invoque l’application de l’article 32-III de la loi du 6 janvier 1978 modifiée, qui permet de déroger à l’information des personnes concernées lorsque celle-ci est impossible à fournir ou exige des efforts disproportionnés au regard de l’utilité de la démarche. 
+ 
+Dans le cadre du traitement projeté, outre le fait qu’une telle information risquerait de conduire les personnes concernées à modifier leur comportement en ligne biaisant de ce fait la recherche, le responsable de traitement justifie de cet effort disproportionné par différents éléments. 
+ 
+En premier lieu, de nombreux utilisateurs de réseaux sociaux ne renseignent pas leur véritable identité, préférant utiliser des pseudonymes. Dès lors, compte tenu du nombre de profils concernés par le projet de recherche, il serait très difficile pour les chercheurs de trouver l’identité exacte des personnes concernées en vue de rechercher ensuite leurs coordonnées, celles-ci pouvant en outre ne pas être accessibles publiquement. 
+ 
+En outre, les coordonnées parfois disponibles sur les réseaux sociaux (adresse électronique ou téléphone notamment) ne sont pas nécessairement à jour, compromettant ainsi l’entrée en relation avec les personnes concernées. 
+ 
+Enfin, le LORIA a précisé que quand bien même les personnes concernées par la recherche et leur adresse postale pouvaient être identifiées, l’envoi de courrier d’information aurait un coût financier extrêmement élevé, compte tenu du nombre de profils objet de l’analyse. 
+ 
+Par ailleurs, le responsable de traitement indique que les conditions générales d’utilisation (CGU) de Facebook et interfaces de programmations applicatives (API) – moyens techniques permettant l’envoi de messages aux utilisateurs directement via le réseau social – limitent le nombre de requêtes pouvant être effectuées par les chercheurs. Dès lors, seul un faible nombre de messages d’information, au regard de celui des personnes concernées, pourrait être adressé par ce vecteur. 
+ 
+Enfin, selon le LORIA, Facebook n’accepterait pas de déroger contractuellement à ses CGU pour envoyer plus de messages dans la mesure où ce faisant il promouvrait un projet de recherche qui vise à démontrer le degré d’exposition de la vie privée sur son réseau social. 
+ 
+Au regard de l’ensemble de ces éléments, et dans la mesure où le droit d’accès prévu à l’article 39 de la loi « Informatique et libertés » pourra en outre être écarté, la Commission considère que la délivrance d’une information individuelle aux personnes concernées par la recherche du LORIA conduirait à un effort disproportionné au regard de l’intérêt de la démarche.  
+ 
+En revanche, elle demande à ce qu’il soit procédé à une information générale, conforme à l’article 32 de la loi précitée, par exemple, en insérant sur le site du LORIA un espace dédié auxdites mentions informatives. 
+ 
+S’agissant du droit d’accès, l’article 39-II de la loi du 6 janvier 1978 modifiée prévoit qu’il puisse y être dérogé lorsque les données personnelles « sont conservées sous une forme excluant manifestement tout risque d’atteinte à la vie privée des personnes concernées et pendant une durée qui n’excède pas celle nécessaire aux seules finalités d’établissement de statistiques ou de recherche scientifique ou historique ». 
+ 
+Le responsable de traitement met en œuvre :  
+un mécanisme de pseudonymisation des données qui limite la ré-identification des internautes, ainsi qu’une restriction de l’accès aux données traitées à un nombre restreint de personnels soumis à une obligation de confidentialité ; 
+un principe de suppression des données traitées dès l’obtention des résultats souhaités dans le cadre de la recherche scientifique.  
+ 
+Dès lors, la Commission considère qu’il peut être fait application de l’article 39-II de la loi du 6 janvier 1978 modifiée. 
+ 
+Sur les mesures de sécurité 
+Concernant la confidentialité des échanges, la Commission constate qu’elle dépend de la sécurité du réseau social Facebook. Si celui-ci requiert des connexions en SSL, la confidentialité sera ainsi assurée. 
+ 
+En toute hypothèse, dans la mesure où les techniques de scraping permettant de collecter les données s’effectuent dans les mêmes conditions de sécurité que les échanges entre l’utilisateur du réseau social et ledit réseau, les échanges nécessaires à la mise en œuvre du traitement du LORIA ne soulèvent pas de risque supplémentaire pour la vie privée des personnes concernées. 
+ 
+Les données collectées sont conservées sur un serveur administré par le service informatique du LORIA relié à son réseau interne. 
+ 
+Ce serveur est hébergé dans une salle fermée à clé accessible uniquement par le responsable du projet de recherches. La connexion au serveur nécessite un poste client relié au réseau du LORIA, pour lequel une authentification par identifiant, mot de passe et empreinte digitale est requise. 
+ 
+Les données ne sont pas sauvegardées et une traçabilité des accès est mise en œuvre via les logs. 
+ 
+Les mesures de sécurité décrites par le responsable de traitement sont de nature à limiter les risques d’atteinte aux données, et sont conformes à l’exigence de sécurité prévue par l’article 34 de la loi du 6 janvier 1978 modifiée. 
+ 
+La Commission rappelle toutefois que cette obligation nécessite la mise à jour des mesures de sécurité au regard de la réévaluation régulière des risques. 
+ 
+Sur les autres caractéristiques du traitement 
+Les données seront supprimées une fois l’analyse des données terminée et les résultats agrégés publiés. 
+ 
+Une telle durée de conservation n’excède pas la durée nécessaire aux finalités pour lesquelles les données et informations sont collectées, conformément à l’article 6-5° de la loi du 6 janvier 1978 modifiée. 
+ 
+ 
+Autorise, conformément à la présente délibération, l’Université de Lorraine à mettre en œuvre le traitement susmentionné. 
+ 
+ 
+ 
+Pour la Présidente Le Vice-Président délégué 
+ 
+Marie-France MAZARS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nature de la délibération: Autorisation
+ 
+ 
+
+

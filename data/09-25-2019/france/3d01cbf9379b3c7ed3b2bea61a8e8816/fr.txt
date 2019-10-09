@@ -1,0 +1,36 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 26/02/2019
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+Décision n°MED-2018-042 du 25 février 2019 
+Clôture de la décision n° MED-2018-042 du 30 octobre 2018 mettant en demeure la société VECTAURY 
+
+ 
+La Présidente 
+VECTAURY 
+MONSIEUR LE PRÉSIDENT 
+33 RUE LA FAYETTE 
+75009 PARIS 
+Paris, le 25 février 2019 
+PAR PORTEUR 
+Références à rappeler dans toute correspondance : 
+N/Réf. : [...] 
+Monsieur le Président, 
+Je fais suite à la décision n° 2018-042 prise le 30 octobre 2018 mettant en demeure la société VECTAURY, ainsi qu’aux échanges qui ont suivi, et notamment la rencontre intervenue le 1er février 2019 au sein des locaux de la CNIL. 
+Au regard des éléments de réponse apportés, je vous informe que j’ai décidé de procéder à la clôture de votre dossier ainsi que de la procédure de contrôle n° 2018-022C. 
+Concernant les traitements reposant sur les SDK, je prends acte de la nouvelle présentation de la fenêtre contextuelle permettant le recueil du consentement des utilisateurs des applications de vos partenaires, intégrant désormais une présentation de chaque finalité en premier niveau d’information, accompagnée d’un bouton activable par l’utilisateur pour exprimer son consentement. Je prends acte également de la présence de trois boutons proposés à l’utilisateur afin de lui permettre de refuser l’ensemble des finalités, d’accepter l’ensemble des finalités, ou d’enregistrer les choix effectués à partir des boutons évoqués. 
+En conséquence, je considère que les modèles de fenêtre contextuelle communiqués permettent de recueillir un consentement informé, spécifique et univoque des personnes à des fins de publicité géolocalisée, conformément au règlement général sur la protection des données (RGPD). 
+Concernant les traitements reposant sur les bid requests , je prends acte de votre engagement de ne traiter que les données d’utilisateurs dont le consentement a été recueilli via une CMP dont vous avez préalablement vérifié la conformité. 
+Comme annoncé dans le courrier de notification de la mise en demeure, cette clôture fera l’objet de la même mesure de publicité que la mise en demeure. Ce courrier sera donc publié sur le site internet https://www.legifrance.gouv.fr/ et sur celui de la CNIL. 
+Je vous informe, par ailleurs, que si la persistance ou la réitération des manquements visés dans la mise en demeure était constatée à l’occasion de vérifications ultérieures, une procédure de sanction pourrait être engagée à l’encontre de votre organisme conformément aux articles 45 et suivants de la loi du 6 janvier 1978 modifiée. Dans cette hypothèse, je pourrais procéder à la désignation d’un rapporteur, qui vous serait notifiée. 
+Le présent courrier de clôture, dont le périmètre correspond à celui de la mise en demeure initiale, ne préjuge pas de la conformité des conditions de recueil du consentement pour les autres finalités ( personnalisation des publicités affichées , personnalisation des services utilisés , affichage publicitaire , analyse ) dont il vous revient de vous assurer. 
+Je vous indique que le règlement général sur la protection des données, entré en application le 25 mai 2018, s’inscrit dans la continuité de la loi Informatique et Libertés et participe à la protection des données à caractère personnel, droit fondamental reconnu à chaque personne. Aussi, j’attire votre attention sur la nécessité de veiller au respect de ses dispositions. 
+Les services de la Commission ([…], juriste au service des sanctions – […]) se tiennent à votre disposition pour tout renseignement complémentaire. 
+Je vous prie d’agréer, Monsieur le Président, l’expression de mes salutations distinguées. 
+Marie-Laure DENIS 
+ 
+
+

@@ -1,0 +1,99 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 18/10/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+Décision n°MED-2018-037 du 25 septembre 2018 
+Décision n° MED 2018-037 du 25 septembre 2018 mettant en demeure la société Humanis Assurances 
+
+La Présidente de la Commission nationale de l’informatique et des libertés, 
+ 
+Vu la Convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ; 
+ 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, abrogée par le règlement (UE) 2016/679 du Parlement européen et du conseil du 27 avril 2016 relatif à la protection des données à caractère personnel et à la libre circulation de ces données ; 
+ 
+Vu le code pénal ; 
+ 
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment son article 45 ; 
+ 
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ; 
+ 
+Vu la délibération n° 2013-175 du 4 juillet 2013 portant adoption du règlement intérieur de la Commission nationale de l’informatique et des libertés ; 
+ 
+Vu la décision n° 2018-023C du 2 février 2018 de la Présidente de la Commission nationale de l’informatique et des libertés de charger le Secrétaire général de procéder ou de faire procéder à une mission de vérification de tous les traitements de prospection mis en œuvre par la société HUMANIS ASSURANCES, par le groupe Humanis ou pour leur compte ; 
+ 
+Vu le procès-verbal de contrôle n° 2018-023 du 13 février 2018 ; 
+ 
+Vu les autres pièces du dossier ; 
+ 
+I- Les faits constatés 
+ 
+Le groupe Humanis est une institution de retraite complémentaire née formellement le 26 janvier 2012 du rapprochement de différents groupes. Il connaît son organisation actuelle depuis 2017. 
+ 
+Le groupe intervient dans tous les domaines de la protection sociale, pour les entreprises et les particuliers et compte environ 6 500 salariés en France et couvre 10 millions de personnes. Il gère 1,7 milliards d’euros de fonds propres prudentiels. 
+ 
+Il a pour objet de mettre en œuvre les régimes de retraite complémentaire en réalisant des opérations de gestion (recouvrer les cotisations, liquider les droits et payer les allocations de retraite, etc.). Comme d’autres institutions de retraite, le groupe a adhéré aux fédérations AGIRC et ARRCO (ci-après l’AGIRC-ARRCO ). Ces fédérations regroupent plusieurs institutions de retraite. Elles ont pour double mission de compenser les opérations réalisées par les institutions de retraite et de contrôler ces institutions. 
+ 
+Afin de réaliser la mission d’intérêt général de gestion de la retraite complémentaire des salariés, l’AGIRC-ARRCO met en œuvre plusieurs traitements de données à caractère personnel rassemblés dans un système appelé l’usine retraite . Ces traitements compilent des données personnelles d’actifs et d’anciens actifs collectées indirectement (principalement à travers la Déclaration Sociale Nominative). L’AGIRC-ARRCO détermine les finalités et les moyens de ces traitements de données à caractère personnel. L’ usine-retraite est une application informatique destinée à être utilisée par les groupes paritaires français de protection sociale pour l’exercice du métier de la retraite complémentaire. 
+ 
+En application de la décision n° 2018-023C du 2 février 2018 de la Présidente de la Commission nationale de l’informatique et des libertés (ci-après CNIL ou la Commission ), une délégation de la CNIL a procédé à une mission de contrôle sur place, le 13 février 2018, dans les locaux de la société Humanis Assurances. Cette mission a eu pour objet de procéder à la vérification de la conformité de l’ensemble des traitements de données à caractère personnel mis en œuvre par les sociétés du groupe Humanis aux dispositions de la loi 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés (ci-après la loi Informatique et Libertés ou loi du 6 janvier 1978 modifiée ). 
+À l’issue de ce contrôle, le groupe Humanis a fait parvenir aux services de la Commission, à leur demande, divers documents de contexte et d’explication relatifs aux traitements contrôlés par la délégation. 
+Il ressort des informations obtenues durant ce contrôle et des documents précités que plusieurs entreprises constituent le groupe Humanis, et notamment la société Humanis Assurances, société anonyme sise 29 boulevard Edgar Quinet à PARIS (75014), numéro de SIREN 447 883 661. 
+ 
+La délégation a également été informée que des campagnes de prospections téléphoniques sont réalisées par des sociétés composant le groupe Humanis ou pour leur compte. 
+ 
+Ainsi, le groupe Humanis a informé la délégation que la société Humanis Assurances a fait procéder à trois campagnes de prospection téléphonique : 
+la campagne Speak 33 , de juin à octobre 2017, ayant pour objet la promotion de produits préférences obsèques et capital décès , visant […] personnes démarchées par téléphone ; 
+la campagne Humanis blessures plus , du 11 mai 2016 au 22 décembre 2017, ayant pour objet la promotion d’un contrat d’assurance contre les blessures, visant […] personnes démarchées par téléphone ; 
+la campagne Humanis hospitalisation plus , du 28 août 2017 au 4 novembre 2017, ayant pour objet la promotion d’un contrat d’assurance hospitalisation, visant […] personnes démarchées par téléphone. 
+ 
+La délégation a constaté que tout ou partie des informations personnelles utilisées à l’occasion de ces campagnes de prospection commerciale (adresse postale et numéros de téléphone notamment) était issu de l’ usine retraite . 
+II -L’identification du responsable du traitement 
+ 
+L’article 3 de la loi 78-17 du 6 janvier 1978 modifiée dans sa version en vigueur au 13 février 2018, jour du contrôle, dispose que le responsable d’un traitement de données à caractère personnel est, […] la personne, l’autorité publique, le service ou l’organisme qui détermine ses finalités et ses moyens . 
+ 
+Interrogée par la délégation sur ce point, l’AGIRC-ARRCO a précisé être responsable du traitement l’usine retraite , les institutions de retraite complémentaire chargées de la mise en œuvre des traitements étant sous-traitantes au titre de la loi Informatique et Libertés. 
+ 
+Le groupe Humanis, caisse de retraite complémentaire, a pour objet de mettre en œuvre les régimes de retraite complémentaire en réalisant des opérations de gestion. À ce titre, le groupe et les sociétés qui le composent ont accès à des données à caractère personnel qu’ils doivent traiter aux fins déterminées par l’AGIRC-ARRCO. 
+ 
+En utilisant à des fins commerciales des données à caractère personnel qu’elle détient dans le cadre de sa mission d’intérêt général, la société Humanis Assurances a déterminé de nouvelles finalités et de nouveaux moyens au traitement visé, et s’est comportée comme le responsable du traitement. 
+ 
+Elle est donc à ce titre considérée comme tel. 
+ 
+III-Les manquements au regard des dispositions de la loi du 6 janvier 1978 modifiée 
+ 
+Un manquement à l’interdiction de traiter ultérieurement, d’une manière incompatible avec la finalité initiale, des données collectées pour des finalités déterminées 
+ 
+La délégation a constaté que la société avait utilisé, lors de la mise en œuvre des campagnes de prospection précitées, des données à caractère personnel issues de l’ usine retraite . L’analyse des fichiers clients utilisés pour les campagnes Speak 33 , Humanis blessures plus et Humanis hospitalisation plus montre que chacune des lignes correspondant à un client indique UR HU (Usine Retraite Humanis) dans la colonne origine 2 . 
+ 
+Dans le même sens, le groupe a informé la délégation, dans sa pièce numérotée 74 et communiquée le 15 mars 2018, que les coordonnées téléphoniques des allocataires utilisées dans le cadre desdites campagnes sont des données provenant du répertoire des données de référence individus (allocataires et cotisants) de l’AGIRC et de l’ARRCO issu de l’usine retraite . 
+ 
+Interrogée à ce sujet, l’AGIRC-ARRCO a informé la délégation que l’ usine retraite est une composante du système d’information de la retraite complémentaire. Elle comprend un ensemble de traitements qui ont tous pour finalité de mettre en œuvre la mission d’intérêt général de gestion de la retraite complémentaire des salariés du secteur privé, incombant aux fédérations et institutions de retraite complémentaire en application des articles L921-4, L922-1 et L922-4 du Code de la sécurité sociale. 
+ 
+L’organisme a également précisé à la délégation que ni les institutions de retraite complémentaire ni les groupes de protection sociale n’ont été autorisés par l’AGIRC-ARRCO à réutiliser les données à caractère personnel issues du système d’information de la retraite complémentaire. À ce titre, l’instruction AGIRC-ARRCO 2008/94 relative aux formalités déclaratives auprès de la CNIL précise, en page six, que l’utilisation des applicatifs de l’usine retraite à d’autres fins que les besoins de gestion de la retraite complémentaire n’est pas envisageable . Cela a également été rappelé par les présidents de l’AGIRC-ARRCO dans leur lettre du 29 août 2017 aux présidents des groupes de protection sociale : conformément à la réglementation en vigueur, une utilisation des données personnelles de la retraite complémentaire ne saurait être envisagée à d’autres fins que celle pour laquelle elles ont été initialement collectées sans l’accord individuel de chacune des personnes concernées . 
+ 
+Il résulte de ce qui précède que l’utilisation des données issues de l’ usine retraite à des fins de prospection publicitaire, téléphonique ou postale, constitue un manquement aux obligations prévues au 2° de l’article 6 de la loi 78-17 du 6 janvier 1978 modifiée, dans sa version applicable aux faits de l’espèce, qui dispose que les données sont collectées pour des finalités déterminées, explicites et légitimes et ne sont pas traitées ultérieurement de manière incompatible avec ces finalités . 
+ 
+Il est rappelé qu’en application des articles 226-21 et 131-41 du Code pénal combinés, le fait, pour une personne morale, de détourner des données à caractère personnel de leur finalité est puni d’une peine d’amende pouvant atteindre 1 500 000 euros. 
+ 
+En conséquence, la société Humanis Assurances, sise 29 boulevard Edgar Quinet à PARIS (75014) est mise en demeure sous un délai d’un (1) mois à compter de la notification de la présente décision et sous réserve des mesures qu’elle aurait déjà pu adopter, de : 
+cesser de traiter les données à caractère personnel provenant du traitement usine retraite pour des finalités incompatibles avec celles qui ont été définies par l’AGIRC-ARRCO et notamment à des fins de prospection commerciale pour des contrats d’assurance de personnes ; 
+ 
+justifier auprès de la CNIL que l’ensemble des demandes précitées a bien été respecté, et ce dans le délai imparti. 
+ 
+À l’issue de ce délai, si la société Humanis Assurances s’est conformée à la présente mise en demeure, il sera considéré que la présente procédure est close et un courrier lui sera adressé en ce sens. 
+ 
+À l’inverse, si la société Humanis Assurances ne s’est pas conformée à la présente mise en demeure, un rapporteur sera désigné qui pourra demander à la formation restreinte de prononcer l’une des sanctions prévues par l’article 45 de la loi du 6 janvier 1978 modifiée. 
+ 
+ 
+La Présidente 
+ 
+ 
+ 
+ 
+Isabelle FALQUE-PIERROTIN 
+ 
+
+

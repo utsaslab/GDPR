@@ -40,6 +40,8 @@ from gdpr.policies import summary_policy
 
 import os
 
+#from striprtf.striprtf import rtf_to_text
+
 nlp = en_core_web_sm.load()
 
 def main():
@@ -50,8 +52,24 @@ def main():
     data_path = '../data/{date}/'.format(date='09-25-2019') # prod: now.strftime("%m-%d-%Y")
 
     gdpr = GDPR()
-    dpa = gdpr.get_dpa(GDPR.EU_MEMBER.FINLAND)
+    dpa = gdpr.get_dpa(GDPR.EU_MEMBER.FRANCE)
     dpa.bulk_collect(data_path)
+
+    """for root, _, files in os.walk(data_path):
+        filename = files[0] if len(files) > 0 else None
+        if filename is None:
+            continue
+
+        if filename.endswith('.rtf') is False:
+            continue
+
+        print('root:', root)
+
+        with open(root + '/' + filename, 'rb') as f:
+            rtf = f.read().decode('cp1252') # use the france.policies decoding policy
+            text = rtf_to_text(rtf)
+            with open(root + '/' + filename.split('.')[0] + '.txt', 'w') as outfile:
+                outfile.write(text)"""
 
     """with open('../data/09-25-2019/GB/metropolitan-police-service-enforcement-notice---data-protection-act-1998action-weve-takenpdf-1.4mb/en.txt') as f:
         summary = f.read()

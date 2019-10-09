@@ -1,0 +1,117 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 13/06/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+Délibération n°2018-122 du 5 avril 2018 
+Délibération n° 2018-122 du 5 avril 2018 portant avis sur un projet de décret relatif à la mise en œuvre d’un traitement de données à caractère personnel dénommé « portail numérique des droits sociaux (PNDS) (demande d’avis n° 18000827) » 
+NOR: CNIX1815978X
+
+La Commission nationale de l’informatique et des libertés,
+ 
+Saisie par le ministère des affaires sociales et de la santé d’une demande d’avis sur un projet de décret portant création d’un traitement de données à caractère personnel dénommé portail numérique des droits sociaux ;
+ 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ;
+ 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+ 
+Vu le , notamment son article L. 114-12 ;
+ 
+Vu le , notamment son article L. 6323-8 ;
+ 
+Vu la modifiée relative à l’informatique, aux fichiers et aux libertés, notamment son article 27-I (1°) ;
+ 
+Vu la loi n° 2014-440 du 20 janvier 2014 garantissant l’avenir et la justice du système de retraite ;
+ 
+Vu la relative au travail, à la modernisation du dialogue social et à la sécurisation des parcours professionnels, notamment son article 39 ;
+ 
+Vu le modifié pris pour l’application de la relative à l’informatique, aux fichiers et aux libertés ;
+ 
+Vu l’arrêté du 24 juillet 2015 portant création d’un traitement de données à caractère personnel par la direction interministérielle des systèmes d’information et de communication d’un téléservice dénommé FranceConnect ;
+ 
+Sur la proposition de M. Philippe GOSSELIN, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement,
+ 
+Emet l’avis suivant :
+ 
+Le portail numérique des droits sociaux (PNDS) constitue un point d’entrée centralisé aux plateformes des organismes sociaux permettant aux assurés d’accéder à des informations générales sur les prestations et droits dans les domaines de la santé, de la retraite, du chômage, du logement, de la solidarité et de la famille, et, d’autre part, de consulter les informations relatives à leur situation.
+ 
+Ce traitement a été créé par le portant création du traitement de données à caractère personnel dénommé portail numérique des droits sociaux pris après avis de la commission en date du 21 janvier 2017.
+ 
+En application de l’article 1er de ce décret, la Caisse centrale de la mutualité sociale agricole (CCMSA) est le responsable de traitement.
+ 
+Le présent projet de décret modifie l’origine et les catégories de données collectées, les durées de conservation et les destinataires des données contenues dans le traitement afin de prendre en compte les nouvelles fonctionnalités du PNDS.
+ 
+Sur le fonctionnement du traitement et l’origine des données traitées :
+ 
+Concernant le fonctionnement du traitement, à chaque connexion de l’assuré au PNDS, celui-ci interroge, sur la base du NIR conservé dans le système, le répertoire national commun de la protection sociale (RNCPS) afin de déterminer quels sont les organismes gérant des prestations pour l’assuré concerné. Cette opération permet au système de récupérer auprès des organismes identifiés les informations qu’ils détiennent concernant l’assuré afin de lui afficher un portail personnalisé.
+ 
+Le ministère souhaite à présent permettre au PNDS d’interroger également le répertoire national inter-régimes des bénéficiaires de l’assurance maladie (RNIAM) afin de déterminer l’organisme principal chargé de verser les frais de santé pour les personnes rattachées à plusieurs régimes d’assurance maladie, le RNCPS ne permettant pas d’obtenir cette information dans ce cas de figure.
+ 
+La commission estime que cette modification n’appelle pas d’observation particulière.
+ 
+Sur la nature des données traitées :
+ 
+Afin d’améliorer le service produit par le PNDS, le ministère prévoit de mettre à disposition des usagers un formulaire d’avis permettant d’identifier et analyser les évolutions à apporter au traitement.
+ 
+Cette modification nécessite la collecte de données relatives à la tranche d’âge et au sexe de l’usager qui seront issues du formulaire d’avis.
+ 
+Cet ajout n’appelle pas d’observation particulière de la commission.
+ 
+Pour permettre aux usagers qui rencontreraient des difficultés liées à l’utilisation du site un formulaire de contact sera accessible aux usagers sur le PNDS sur lequel ils pourront renseigner leur titre, nom, prénom, adresse e-mail, ainsi que le sujet sur lequel porte leur demande. Ils pourront ensuite rédiger leur message dans une zone de commentaire libre.
+ 
+La commission rappelle qu’une sensibilisation à la vie privée des personnes susceptibles de remplir ces zones de commentaires est nécessaire. Elle recommande qu’une mention s’affiche automatiquement sur l’écran des utilisateurs pour leur rappeler notamment que les messages ne peuvent contenir que des mentions neutres et factuelles et ne pas contenir de données sensibles au sens de l’article 8 de la loi du 6 janvier 1978 modifiée.
+ 
+La commission observe que l’ prévoit en son dernier alinéa que pour la simulation des prestations sociales auxquelles l’usager est susceptible d’avoir droit, des données pourront être renseignées par l’usager.
+ 
+Elle recommande que cet article soit complété afin d’indiquer que les données pourront également être renseignées par l’usager pour l’utilisation du formulaire de contact.
+ 
+Sur les durées de conservation des données :
+ 
+L’ prévoit que les données sont accessibles mais ne sont pas conservées par le traitement à l’exception du NIR, de l’identifiant France Connect de l’assuré et des données relatives à la traçabilité des accès.
+ 
+Le ministère souhaite permettre au PNDS d’adresser à l’usager des rappels utiles sous la forme de messages portant sur la détection de droits potentiels, sur les démarches à engager en fonction d’événements de vie ou sur l’échéance de droits de certaines prestations.
+ 
+Cette modification nécessite que des données relatives à la situation et au profil de l’usager soient conservées le temps strictement nécessaire afin d’afficher au moment de la connexion, les rappels utiles concernant ses droits.
+ 
+La mise en place du formulaire d’avis nécessite également de conserver les données concernant les avis des usagers sur le service. Le projet de décret prévoit que ces données sont conservées pour une durée qui ne peut excéder six mois après l’achèvement des opérations d’expulsion.
+ 
+La commission estime que ces durées de conservation n’excèdent pas celles nécessaires à l’accomplissement des finalités pour lesquelles elles sont collectées.
+ 
+Sur les destinataires des données :
+ 
+L’ est modifié. Il prévoit maintenant que les agents de la caisse centrale et des organismes de la mutualité sociale agricole chargés de l’assistance ont accès aux données contenues dans le traitement.
+ 
+La commission relève que cette disposition concerne les agents en charge de l’assistance en ligne et ceux chargés de l’assistance téléphonique.
+ 
+Cette modification n’appelle pas d’observations de la commission.
+ 
+Sur la sécurité des données et la traçabilité des actions :
+ 
+La commission prend acte de ce que des données seront dorénavant stockées dans le PNDS afin de permettre l’affichage de notifications à destination des usagers. Le ministère indique que les contenus des notifications seront stockés chiffrées, ce que la commission accueille favorablement. Elle rappelle au ministère que pour être effectif ce chiffrement doit être à l’état de l’art et donc suivre les préconisations de l’ANSSI en la matière.
+ 
+Concernant l’usage du NIR en tant que clé des notifications, la commission estime que les mesures de sécurité mises en œuvre par le ministère apparaissent à l’état de l’art, en ce qu’elles prévoient l’usage d’algorithmes conformes au référentiel général de sécurité, la possibilité de changer les clés en cas de compromission, ainsi que la séparation des clés de chiffrement et des clés de notification, toutefois elle invite le ministère à utiliser un autre identifiant afin que l’usage du NIR soit cantonné aux cas dans lesquels il est strictement nécessaire.
+ 
+La commission constate que la politique de mot de passe prévue par le ministère n’est pas conforme à sa portant adoption d’une recommandation relative aux mots de passe, en ce qu’elle ne prévoit pas un verrouillage automatique des comptes en cas de multiples saisies erronées. La commission prend toutefois acte de ce que le ministère a démarré des travaux de mise en conformité avec sa doctrine afin d’authentifier de façon fiable les utilisateurs du traitement.
+ 
+Concernant les échanges de données avec les partenaires, la commission prend acte de ce que ces échanges feront l’objet de plusieurs mesures de sécurité, notamment des mesures de chiffrement des données pour en assurer la confidentialité.
+ 
+Par ailleurs la commission se félicite que le ministère ait réalisé une étude d’impact sur la vie privée des personnes concernées par le portail. Elle invite le ministère à actualiser régulièrement cette étude lors de chaque évolution du portail ou de son environnement technique, afin que celle-ci soit la plus à jour possible.
+ 
+Les autres mesures de sécurité n’appellent pas d’observation de la part de la commission. 
+ 
+Pour la présidente,
+ 
+ 
+Le vice-président délégué,
+ 
+ 
+M.-F. Mazars 
+ 
+ 
+Nature de la délibération: AVIS
+ 
+ 
+
+

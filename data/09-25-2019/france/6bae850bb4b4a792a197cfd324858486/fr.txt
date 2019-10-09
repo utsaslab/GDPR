@@ -1,0 +1,111 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 20/07/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+DELIBERATION n°2018-174 du 24 MAI 2018 
+Délibération n° 2018-174 du 24 mai 2018 autorisant le ministère de l’Europe et des affaires étrangères à mettre en œuvre un traitement automatisé de données à caractère personnel ayant pour finalité le suivi des ressortissants français placés en détention à l’étranger afin d’assurer leur protection consulaire 
+
+Délibération n° 2018-174 du 24 mai 2018 autorisant le ministère de l’Europe et des affaires étrangères à mettre en œuvre un traitement automatisé de données à caractère personnel ayant pour finalité le suivi des ressortissants français placés en détention à l’étranger afin d’assurer leur protection consulaire 
+(Demande d’autorisation n° 2087796) 
+ 
+La Commission nationale de l’informatique et des libertés, 
+Saisie par le ministre de l’Europe et des affaires étrangères d’une demande d’autorisation concernant un traitement automatisé de données à caractère personnel ayant pour finalité le suivi des ressortissants français placés en détention à l’étranger afin d’assurer leur protection consulaire ; 
+Vu la convention de Vienne du 24 avril 1963 sur les relations consulaires, notamment son article 36 ; 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ; 
+Vu le traité sur le fonctionnement de l’Union européenne (TFUE), notamment son article 23 ; 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ; 
+Vu la directive (UE) 2015/637 du Conseil du 20 avril 2015 établissant les mesures de coordination et de coopération nécessaires pour faciliter la protection consulaire des citoyens de l’Union non représentés dans des pays tiers et abrogeant la décision 95/553/CE ; 
+Vu le code pénal, notamment son article 226-13 ; 
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment le 6° du II de son article 8 et les 3° du I de son article 25 ; 
+Vu la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires, notamment son article 26 ; 
+Vu le décret n° 71-288 du 29 mars 1971 portant publication de la convention de Vienne sur les relations consulaires et du protocole de signature facultative concernant le règlement obligatoire des différends, ouverts à la signature à Vienne le 24 avril 1963 ; 
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ; 
+Vu le dossier et ses compléments ; 
+Sur la proposition de M. Jean-François CARREZ, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement, 
+ 
+ 
+Formule les observations suivantes : 
+La Commission nationale de l’informatique et des libertés est saisie par le ministre de l’Europe et des affaires étrangères d’une demande d’autorisation concernant un traitement automatisé de données à caractère personnel ayant pour finalité le suivi des ressortissants français placés en détention à l’étranger afin d’assurer leur protection consulaire, conformément à l’article 36 de la Convention de Vienne du 24 avril 1963 sur les relations consulaires. 
+ 
+Le traitement projeté porte notamment sur des données relatives à des infractions, des condamnations ou des mesures de sûreté, sans toutefois avoir pour objet la prévention, la recherche, la constatation ou la poursuite d’infractions pénales ou l’exécution de condamnations pénales ou de mesures de sûreté. Dès lors, il y a lieu de faire application des dispositions de l’article 25-I-3° de la loi du 6 janvier 1978 modifiée, qui soumettent à autorisation la mise en œuvre de tels traitements. 
+ 
+En outre, compte-tenu de l’évolution prochaine du cadre juridique relatif à la protection des données à caractère personnel résultant notamment de la prise en compte des dispositions du règlement (UE) 2016/679 relatif à la protection des personnes physiques à l’égard des données à caractère personnel, la Commission recommande qu’une analyse d’impact sur la protection des données à caractère personnel soit réalisée. 
+ 
+Sur la finalité du traitement : 
+La convention de Vienne du 24 avril 1963 sur les relations consulaires est un traité international qui vient compléter la convention de Vienne du 18 avril 1961 sur les relations diplomatiques. En France, cette convention est entrée en vigueur à la suite de l’adoption du décret susvisé du 29 mars 1971. 
+ 
+L’article 36 de cette convention prévoit que « les autorités compétentes de l’État de résidence doivent avertir sans tarder le poste consulaire de l’État d’envoi lorsque (…) un ressortissant de cet État est arrêté, incarcéré ou mis en état de détention préventive ou toute autre forme de détention. (…) Les fonctionnaires consulaires ont le droit de se rendre auprès du ressortissant de l’État d’envoi qui est incarcéré, en état de détention préventive ou toute autre forme de détention, de s’entretenir ou de correspondre avec lui et de pourvoir à sa représentation en justice. Ils ont également le droit de se rendre auprès d’un ressortissant de l’État d’envoi qui (…) est incarcéré ou détenu en exécution d’un jugement. » 
+ 
+Dans ce contexte, le ministère de l’Europe et des affaires étrangères souhaite mettre en œuvre un traitement automatisé de données à caractère personnel visant à permettre le suivi les ressortissants français placés en détention à l’étranger afin d’assurer leur protection consulaire. 
+ 
+La direction des français à l’étranger et de l’administration consulaire est chargée de la mise en œuvre du traitement. 
+ 
+La Commission considère que la finalité poursuivie par le traitement est déterminée, explicite et légitime, conformément à l’article 6-2° de la loi du 6 janvier 1978 modifiée. 
+ 
+ 
+Sur la nature des données traitées : 
+Les données enregistrées dans le traitement concernent les français détenus à l’étranger, ainsi que les français devant faire l’objet d’une assistance juridique dès lors que ces derniers, bien que libérés par les autorités étrangères, sont placées sous main de justice le temps du déroulement de la procédure judiciaire. 
+ 
+Le traitement est par ailleurs susceptible de comporter les données de quelques ressortissants européens, suivis par les autorités françaises en vertu du traité sur le fonctionnement de l’Union européenne ainsi que de la directive du 20 avril 2015 établissant les mesures de coordination et de coopération nécessaires pour faciliter la protection consulaire des citoyens de l’Union non représentés dans des pays tiers. 
+ 
+Les données traitées concernent l’identité des personnes concernées (nom, prénom, adresse, date et lieu de naissance, références du titre de voyage ou de séjour) et leur situation familiale et professionnelle.  
+ 
+Le traitement comporte également des données relatives à la situation financière des détenus, notamment leur taux d’endettement et tout élément utile concernant leurs avoirs, ainsi que des données relatives à d’éventuelles difficultés sociales (détenus indigents par exemple). Ces données doivent permettre de déterminer l’éligibilité des détenus à une aide française et de leur apporter, exceptionnellement, une aide financière en cas de situation particulièrement difficile (telle que l’achat de couverture, de vêtements ou de lunettes, l’alimentation d’un compte bancaire en prison ou encore le paiement des soins de santé). 
+ 
+Le ministère prévoit en outre de traiter des données relatives à la santé des détenus afin de permettre aux autorités consulaires ou diplomatiques de leur procurer les soins et, le cas échéant, les traitements nécessaires. La Commission observe que ces données peuvent être portées à la connaissance des autorités par le détenu lui-même, lorsqu’un contact est possible, mais également par ses proches ou son avocat. En outre, les médecins pénitentiaires peuvent prendre l’initiative de signaler une situation sanitaire auprès des autorités diplomatiques et consulaires. 
+ 
+La Commission prend acte que le recueil du consentement exprès du détenu au traitement de ses données de santé n’est pas toujours possible, soit parce que les données ne sont pas collectée directement auprès de lui, soit parce qu’il n’est pas toujours permis d’introduire dans les cellules de détention les éléments matériels nécessaires au recueil de ce consentement. 
+ 
+En revanche, elle relève que le traitement de ces données est nécessaire aux fins de l’administration de soins ou de traitements et qu’il est mis en œuvre par des personnes auxquelles s’impose, en raison de leurs fonctions, l’obligation de secret professionnel prévue à l’article 226-13 du code pénal. En effet, les agents travaillant pour le ministère de l’Europe et des affaires étrangères sont soumis à la loi du 13 juillet 1983 portant droits et obligations des fonctionnaires dont l’article 26 dispose que : « Les fonctionnaires sont tenus au secret professionnel dans le cadre des règles instituées dans le code pénal ». 
+ 
+ 
+Ainsi, la Commission considère que les données relatives à la santé des détenus sont traitées conformément aux dispositions de l’article 8-II-6° de la loi du 6 janvier 1978 modifiée. Elle appelle, en tout état de cause, l’attention du ministère sur la nécessité de respecter les dispositions susceptibles de s’appliquer en matière de secret médical. 
+ 
+Enfin, le traitement porte sur des données relatives à des infractions, condamnations ou mesures de sûreté (motif d’arrestation ou de mise en détention). Il est mis en œuvre par une autorité publique agissant dans le cadre de ses attributions légales, en l’occurrence le ministère de l’Europe et des affaires étrangères dans le cadre des pouvoirs qui lui sont conférés en vertu de l’article 36 de la Convention de Vienne du 24 avril 1963 sur les relations consulaires. Le ministère est dès lors habilité, conformément à l’article 9-1° de la loi du 6 janvier 1978 modifiée, à mettre en œuvre un traitement portant sur de telles données.  
+ 
+La Commission considère que les données personnelles traitées sont adéquates, pertinentes et non excessives au regard de la finalité poursuivie, conformément aux dispositions de l’article 6-3° de la loi « Informatique et Libertés ». 
+ 
+Sur la durée de conservation des données : 
+Le ministère envisage de conserver les données dix ans à compter de la clôture du dossier, celle-ci pouvant résulter d’une libération, d’une extradition, d’un transfèrement ou encore d’une évasion par exemple. Il justifie cette durée de conservation par le besoin de disposer des antécédents du ressortissant dans l’hypothèse d’une nouvelle incarcération. 
+ 
+A cet égard, la Commission rappelle que la durée de conservation ne doit pas excéder la durée nécessaire au regard de l’objectif poursuivi, conformément aux dispositions de l’article 6-5° de la loi du 6 janvier 1978 modifiée. Elle considère à ce titre que le traitement étant mis en œuvre afin d’assurer le suivi des ressortissants français placés en détention à l’étranger, la conservation des données afférant à un dossier postérieurement à sa clôture n’apparaît justifiée que dans l’hypothèse où la gestion par l’État de sa mission de protection consulaire serait mise en cause dans le cadre d’un contentieux. 
+ 
+Dès lors, la Commission considère qu’après la clôture d’un dossier, les données collectées devraient être versées dans une base d’archives intermédiaires le temps de l’exercice des voies de recours. Passés ces délais et en l’absence de contentieux, elle rappelle qu’il est impératif que soient prévues des mesures particulières afin de garantir la suppression effective et sécurisée des données collectées.  
+ 
+Sur les accédants et destinataires des données : 
+Les personnes habilitées à accéder aux données sont les agents du ministère de l’Europe et des affaires étrangères chargés du suivi de la situation des détenus ainsi que les agents chargés de ces situations dans les ambassades et les consulats généraux de France dans le monde, à l’exclusion de tout autre destinataire.  
+ 
+La liste des personnes habilitées à accéder aux données à caractère personnel n’appelle pas d’observations de la part de la Commission. 
+ 
+ 
+Sur l’information et les droits des personnes : 
+Les détenus sont informés, conformément aux dispositions de l’article 32 de la loi du 6 janvier 1978 modifiée, du traitement qui est fait de leurs données personnelles ainsi que des droits dont ils disposent par l’envoi d’un courrier personnalisé.  
+ 
+A cet égard, la Commission relève que l’information du détenu dépendra de la remise du courrier par l’administration pénitentiaire étrangère. La vérification de cette remise pourra être effectuée lors de la première visite consulaire rendue au détenu par l’agent consulaire. 
+ 
+Les droits d’accès, de rectification et d’opposition pour motifs légitimes, prévus aux articles 38 à 40 de la loi du 6 janvier 1978 modifiée, s’exerceront de manière directe, auprès de la direction des français à l’étranger et de l’administration consulaire. Les modalités d’exercice de ces droits n’appellent pas d’observations de la Commission. 
+ 
+Sur la sécurité des données et la traçabilité des actions : 
+Le traitement est accessible depuis l’Intranet du ministère uniquement. Les accès au traitement se font via le protocole HTTPS, qui permet de garantir la confidentialité des données échangées ainsi que l’authentification du responsable de traitement. Concernant le recours à ce protocole, la Commission recommande d’utiliser la version de TLS la plus à jour possible. 
+ 
+Pour se connecter au traitement, l’utilisateur habilité doit s’authentifier à l’aide d’un couple identifiant et mot de passe. La Commission constate que la politique de mot de passe prévue par le responsable de traitement n’est actuellement pas conforme à sa doctrine doit être conforme à sa doctrine, précisée dans la délibération n° 2017-012 du 19 janvier 2017 portant adoption d’une recommandation relative aux mots de passe. Cependant, elle prend acte de l’engagement du ministère de procéder aux ajustements nécessaires pour se mettre en conformité. 
+ 
+La Commission rappelle que les permissions d’accès doivent être supprimées pour tout utilisateur n’étant plus habilité et invite donc le responsable de traitement à effectuer de manière régulière, a minima une fois par année, une revue complète des droits et des habilitations. 
+ 
+La Commission note que le dispositif prévoit une traçabilité des actions. Ainsi, l’identifiant de l’utilisateur, l’opération effectuée ainsi que l’horodatage de cette action sont conservés dès lors qu’il y a création, mise à jour ou suppression de données. En revanche, elle observe que les actions de consultations ne sont pas journalisées. Afin de réduire le risque de consultation indue de données, elle recommande que les actions de consultation soient également journalisées. Par ailleurs, elle invite le ministère à ne pas conserver les données de journalisations pour une durée excédant un an, sauf contrainte légale particulière. 
+ 
+La Commission estime que les mesures de sécurité décrites sont conformes à l’exigence de sécurité prévue par l’article 34 de la loi du 6 janvier 1978 modifiée. Elle rappelle néanmoins que cette obligation nécessite la mise à jour des mesures de sécurité au regard de la réévaluation régulière des risques. 
+Dans ces conditions, elle autorise, conformément à la présente délibération, le ministère de l’Europe et des affaires étrangères à mettre en œuvre le traitement susmentionné 
+Pour la Présidente Le Vice-Président délégué 
+ 
+Marie-France MAZARS 
+ 
+ 
+Nature de la délibération: Autorisation Partie 2
+ 
+ 
+
+

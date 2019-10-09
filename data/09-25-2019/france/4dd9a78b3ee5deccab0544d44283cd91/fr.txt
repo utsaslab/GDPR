@@ -1,0 +1,131 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 26/05/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+Délibération n°2018-139 du 19 avril 2018 
+Délibération n° 2018-139 du 19 avril 2018 portant avis sur un projet d’arrêté modifiant l’arrêté du 11 avril 2013 relatif à la mise en œuvre d’un traitement de données à caractère personnel dénommé SETRADER (demande d’avis n° 1619122 V3) 
+NOR: CNIX1814299X
+
+La Commission nationale de l’informatique et des libertés,
+ 
+Saisie par le ministre de l’intérieur d’une demande d’avis concernant un projet d’arrêté modifiant l’arrêté du 11 avril 2013 portant création d’un traitement de données à caractère personnel dénommé SETRADER ;
+ 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ;
+ 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces donnée ;
+ 
+Vu la directive 2004/82/CE du Conseil du 29 avril concernant l’obligation pour les transporteurs de communiquer les données relatives aux passagers ;
+ 
+Vu le , notamment ses articles L. 231-1 à L. 232-6 ;
+ 
+Vu le ;
+ 
+Vu le , notamment son article 28-1 ;
+ 
+Vu la modifiée relative à l’informatique, aux fichiers et aux libertés, notamment son article 26.1 ;
+ 
+Vu la relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions concernant la défense et la sécurité nationale ;
+ 
+Vu le modifié pris pour l’application de la relative à l’informatique, aux fichiers et aux libertés ;
+ 
+Vu le relatif aux missions et à l’organisation de la direction générale de la sécurité intérieure ;
+ 
+Vu le portant organisation de l’administration centrale du ministère de l’intérieur et du ministère des outre-mer ;
+ 
+Vu l’arrêté du 11 avril 2013 portant autorisation du traitement automatisé de données à caractère personnel dénommé SETRADER ;
+ 
+Vu la portant avis sur un projet d’arrêté relatif à la mise en œuvre d’un traitement de données à caractère personnel dénommé SETRADER ;
+ 
+Sur la proposition de M. Jean-François CARREZ, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement,
+ 
+Emet l’avis suivant :
+ 
+La commission a été saisie par le ministre de l’intérieur d’une demande d’avis concernant un projet d’arrêté modifiant l’arrêté du 11 avril 2013 portant autorisation d’un traitement automatisé de données à caractère personnel dénommé Système européen de traitement des données d’enregistrement et de réservation (SETRADER) .
+ 
+Les (CSI) prévoient la mise en œuvre de traitements automatisés de données à caractère personnel recueillies à l’occasion des déplacements internationaux, lesquels sont soumis aux dispositions de la loi du 6 janvier 1978 modifiée. Le traitement SETRADER intéresse la sûreté de l’Etat et la sécurité publique et a également pour objet la prévention, la recherche et la constatation d’infractions pénales. Il relève dès lors des dispositions de l’article 26-I de la loi du 6 du janvier 1978 modifiée et a ainsi été autorisé par l’arrêté du 11 avril 2013 susvisé, pris après l’avis de la commission en date du 17 janvier 2013. Les modifications apportées audit arrêté nécessitent un avis motivé et publié de la commission.
+ 
+Rappel sur le traitement SETRADER et présentation des modifications envisagées :
+ 
+Le traitement SETRADER est mis en œuvre par la direction centrale de la police aux frontières. Il doit permettre l’amélioration du contrôle aux frontières, la prévention et la répression de l’immigration clandestine, d’une part, et la prévention et la répression du terrorisme, d’autre part. Ce traitement doit permettre de disposer d’un outil de traitement des données dites API ( Advance Passenger Information ), soit les données d’enregistrement et d’embarquement des passagers aériens prévues dans la directive 2004/82/CE susvisée.
+ 
+L’article 1er du projet d’arrêté vise uniquement à tenir compte de la modification de l’article L. 232-3 du code de sécurité intérieure résultant de la relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions concernant la défense et la sécurité nationale. Au terme de cette modification, le traitement SETRADER peut également être mis en œuvre à des fins de prévention et de répression des atteintes aux intérêts fondamentaux de la Nation. La commission considère que cette modification n’appelle pas d’observation particulière.
+ 
+L’article 2 du projet d’arrêté prévoit une modification plus substantielle quant aux durées de consultation des données contenues dans le traitement SETRADER.
+ 
+L’article 3 du projet d’arrêté prévoit une modification des destinataires des données contenues dans le traitement SETRADER.
+ 
+Sur l’allongement des durées de consultation des données enregistrées dans le traitement :
+ 
+Au préalable, la commission rappelle que les données contenues dans le traitement SETRADER sont conservées cinq ans à compter de leur inscription, conformément à l’alinéa 1 de l’article 4 de l’arrêté du 11 avril 2013 susvisé. Ce même article prévoit néanmoins que dans le cadre de la prévention et de la répression de l’immigration clandestine et du contrôle aux frontières, les données contenues dans le traitement SETRADER ne peuvent être consultées que dans les vingt-quatre heures qui suivent leur transmission, conformément aux dispositions de la directive 2004/82/CE précitée.
+ 
+L’article 2 du projet d’arrêté vise à permettre la consultation de ces données, à compter de leur transmission, pendant des durées modifiées : douze jours dans le cadre du contrôle aux frontières extérieures et six mois en matière de prévention et de répression de l’immigration clandestine.
+ 
+En matière de contrôle aux frontières :
+ 
+L’article 2 du projet d’arrêté prévoit une durée de consultation de douze jours des données API dans le cadre du contrôle aux frontières.
+ 
+Le ministère a indiqué que ce délai de douze jours correspondait à la première période de maintien en zone d’attente de quatre jours augmentée de la durée de huit jours pouvant être prononcée par le juge des libertés et de la détention prévue par le (CESEDA).
+ 
+La commission relève que les dispositions de la directive précitée prévoient que les autorités concernées effacent les données dans les vingt-quatre heures qui suivent la transmission. Des dérogations sont néanmoins prévues lorsque ces données sont nécessaires ultérieurement pour permettre aux autorités chargées d’effectuer les contrôles sur les personnes aux frontières extérieures d’exercer leurs pouvoirs réglementaires conformément au droit national .
+ 
+Il résulte de ce qui précède que, par principe, la durée de consultation des données enregistrées dans le traitement SETRADER par les autorités chargées du contrôle aux frontières extérieures est limitée à vingt-quatre heures. Or, l’article 2 du projet d’arrêté prévoit que dans le cadre du contrôle aux frontières extérieures, ces données peuvent être consultées pendant une durée de douze jours à compter de leur transmission .
+ 
+Dès lors la commission estime que la rédaction projetée devrait être modifiée et faire expressément apparaître le principe d’une durée de consultation de vingt-quatre heures dans ce cadre, qui peut néanmoins, par exception, être portée à douze jours lorsque les circonstances de l’espèce le justifient.
+ 
+La commission rappelle en outre que les dérogations dont il est question, d’interprétation stricte, doivent être conformes aux dispositions en matière de protection des données à caractère personnel, comme le prévoit expressément la directive 2004/82/CE.
+ 
+Enfin, la commission considère que la consultation au-delà du délai de vingt-quatre heures doit être limitée aux seuls cas de stricte nécessité (notamment vols retardés, présentation à l’entrée du territoire après un certain délai, maintien en zone d’attente, usage de billets découplés) et ne doit porter que sur les seules données des personnes concernées par un de ces cas, et non sur les données relatives aux personnes ayant fait l’objet d’un contrôle aux frontières dans des conditions classiques.
+ 
+Sous réserve que le projet d’arrêté soit modifié sur ces points, la commission estime qu’une durée de consultation maximale de douze jours est proportionnée et conforme aux dispositions de la directive 2004/82/CE.
+ 
+En matière de prévention et de répression de l’immigration clandestine :
+ 
+S’agissant de la consultation des données dans le cadre de la prévention et de la répression de l’immigration clandestine, le ministère a indiqué qu’un délai de consultation des données pendant six mois permettrait aux enquêteurs de les exploiter plus efficacement.
+ 
+La commission relève, s’agissant plus précisément de la répression de l’immigration clandestine, que le traitement SETRADER devrait permettre aux services d’enquête de rechercher des liens entre des voyageurs et, par exemple d’établir qu’un ressortissant étranger et la personne qui favorise l’immigration clandestine ( le passeur ) ont voyagé sous le même numéro de réservation. Ces investigations peuvent durer plusieurs mois afin de prouver le caractère récurrent de l’activité du passeur .
+ 
+La commission estime dès lors qu’un allongement de la durée de consultation à six mois n’excède pas la durée nécessaire aux finalités pour lesquelles les données sont collectées et traitées.
+ 
+La commission rappelle néanmoins, afin de prévenir toute utilisation abusive, que cette dérogation ne saurait justifier un accès général, permanent et indifférencié à l’ensemble des données contenues dans le traitement SETRADER. Elle appelle dès lors l’attention du ministère sur la nécessité de s’assurer du respect effectif du besoin d’en connaître. Ainsi, la possibilité de consulter, dans ce cadre, ces données pendant une durée de six mois, à compter de leur transmission, ne doit intervenir qu’en cas de besoin dument justifié par les agents compétents en la matière, ce qui exclut nécessairement les agents chargés du seul contrôle aux frontières, et ne doit porter que sur les seules données pertinentes au regard des finalités spécifiques poursuivies.
+ 
+Sur les destinataires :
+ 
+L’article 3 du projet d’arrêté prévoit que certains services œuvrant à la prévention et à la répression des actes de terrorisme et des atteintes aux intérêts de la Nation pourront être destinataires des données : 
+ 
+- les services centraux et territoriaux du renseignement territorial de la direction centrale de la sécurité publique, aux seules fins de la prévention des actes de terrorisme ;
+ 
+- les services centraux et territoriaux spécialement chargés de la prévention et de la répression des actes de terrorisme et des atteintes aux intérêts fondamentaux de la Nation de la direction générale de la sécurité intérieure (DGSI) ;
+ 
+- et le service national de douane judiciaire, aux seules fins de la répression des actes de terrorisme entrant dans le cadre de ses attributions légales. 
+ 
+En premier lieu, l’ portant organisation de l’administration centrale du ministère de l’intérieur et du ministère des outre-mer prévoit que la direction centrale de la sécurité publique contribue à la mission de prévention du terrorisme , dès lors la commission estime qu’il apparaît justifié que les services centraux et territoriaux du renseignement territorial de la direction centrale de la sécurité publique précités puissent recevoir communication des données au regard de leur mission de prévention du terrorisme.
+ 
+En deuxième lieu, l’article 3 du projet d’arrêté prévoit également comme destinataire du traitement SETRADER les services centraux et territoriaux spécialement chargés de la prévention et de la répression des actes de terrorisme et des atteintes aux intérêts fondamentaux de la Nation de la direction générale de la sécurité intérieure (DGSI) , le ministère a précisé qu’en l’état actuel seuls les services centraux ont accès aux données dans ce cadre et que cette restriction ne répond pas aux besoins opérationnels de cette direction en matière de prévention et de répression des actes de terrorisme et des atteintes aux intérêts fondamentaux de la Nation. En outre, le ministère a fait part de sa volonté d’aligner les conditions d’accès au traitement SETRADER sur celles déjà adoptées pour le système API-PNR . Au regard de l’ensemble de ces éléments, la commission estime qu’un accès aux données, uniquement dans le cadre précité, des services territoriaux de la DGSI semble justifié.
+ 
+En dernier lieu, l’ énonce que II. - Pour la recherche et la constatation des infractions prévues […], par le 6° de l’article 421-1 ainsi que par l’ et des infractions qui leur sont connexes, le procureur de la République ou le juge d’instruction territorialement compétent peut constituer des unités temporaires composées d’officiers de police judiciaire et d’agents des douanes pris parmi ceux mentionnés au I […] , la commission estime dès lors que, compte tenu de sa compétence en matière de recherche et de constatation d’infraction relative au blanchiment et au financement du terrorisme, l’ajout du service national de douane judiciaire, aux seules fins de la répression des actes de terrorisme entrant dans le cadre de ses attributions légales aux destinataires du traitement apparaît justifié.
+ 
+Sur les autres conditions de mise en œuvre du traitement :
+ 
+Aucune modification des autres conditions de mise en œuvre du traitement SETRADER n’a été portée à la connaissance de la commission.
+ 
+La commission prend acte, que conformément au souhait qu’elle avait émis dans la , le ministère lui a fait parvenir les éléments relatifs aux interconnexions du traitement SETRADER avec le fichier des personnes recherchées (FPR) et le système national d’information Schengen de deuxième génération (N-SIS II), prévues par l’article L. 232-3 du CSI. Ces éléments précisent les modalités de criblage en temps réel des données API par les fichiers FPR et N-SIS II ainsi que les mécanismes de notification d’alerte mis en œuvre lorsqu’un résultat positif est obtenu. Dans ce cas, une levée de doute est réalisée manuellement par les unités affectées aux aéroports de France afin de vérifier la pertinence de l’alerte et, le cas échéant, d’informer les services de la sécurité intérieure compétents.
+ 
+De même, la commission rappelle l’importance de s’assurer que les mesures de sécurité entourant la mise en œuvre du traitement sont conformes à l’obligation prévue en la matière par l’article 34 de la loi du 6 janvier 1978 modifiée. Elle appelle ainsi l’attention du ministère, dans la continuité des remarques émises dans le cadre de sa précédente délibération, sur la transmission des données collectées par les transporteurs aériens sur le réseau SITA, qui ne s’effectue pas systématiquement de manière chiffrée, et sur la nécessité d’assurer une authentification fiable de toutes les personnes habilitées à accéder au traitement SETRADER, y compris les agents des compagnies aériennes pouvant transmettre les informations qui y sont enregistrées. Dès lors, la commission rappelle que les données traitées doivent faire l’objet de mesures visant à garantir leur confidentialité lors de leur transmission et que le ministère doit donc prendre toutes les mesures nécessaires afin d’assurer la sécurité et la confidentialité des données. 
+ 
+Pour la présidente :
+ 
+ 
+Le vice-président délégué,
+ 
+ 
+M.-F. Mazars 
+ 
+ 
+Nature de la délibération: AVIS
+ 
+ 
+
+

@@ -1,0 +1,181 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 16/11/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+Délibération n°2018-164 du 24 mai 2018 
+Délibération n° 2018-164 du 24 mai 2018 portant avis sur un projet d’arrêté relatif au téléservice dénommé « FranceConnect » créé par la Direction interministérielle du numérique et du système d’information et de communication de l’Etat (demande d’avis n° 18006971) 
+
+La Commission nationale de l’informatique et des libertés, 
+Saisie par la Direction Interministérielle du numérique et de la communication de l’Etat (DINSIC) d’une demande d’avis concernant un projet d’arrêté relatif au téléservice dénommé FranceConnect créé par la Direction interministérielle du numérique et du système d’information et de communication de l’Etat ; 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ; 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ; 
+Vu le règlement 910/2014 du Parlement européen et du conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE ; 
+Vu l’ordonnance n°2005-395 du 28 avril 2005 relative au service public du changement d’adresse ; 
+Vu l’ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives ; 
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment ses articles 27-II-1° et 27-II-4° ; 
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ; 
+Vu la délibération n° 2015-254 du 6 juillet 2015 portant avis sur un projet d’arrêté portant création d’un traitement automatisé de donnée à caractère personnel par la direction interministérielle des systèmes d’information et de communication d’un téléservice dénommé France Connect ; 
+Après avoir entendu M. Philippe LEMOINE, commissaire, en son rapport, et Mme Nacima BELKACEM, commissaire du Gouvernement, en ses observations, 
+ 
+ 
+Emet l’avis suivant :  
+ 
+La Commission a été saisie par la Direction Interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC) d’une demande d’avis sur un projet d’arrêté relatif au téléservice dénommé FranceConnect . 
+ 
+Elle rappelle que ce dispositif, sur lequel elle s’est déjà prononcée par sa délibération n° 2015-254 du 6 juillet 2015 susvisée, vise à mettre à disposition des usagers de l’administration, via un mécanisme unique d’identification et d’authentification, des téléservices de l’administration électronique. La Commission relève qu’il est désormais envisagé d’étendre le périmètre de ce dispositif à certaines personnes morales de droit privé et de créer un nouveau module spécifiquement dédié aux agents des autorités administratives. A cet égard, elle prend acte que le traitement projeté reposera désormais sur la mise en œuvre de deux modules distincts, à savoir FranceConnect particuliers et FranceConnect agents . 
+ 
+Dans la mesure où le traitement projeté comporte un identifiant des personnes physiques, il relève des dispositions de l’article 27-II-4° de la loi du 6 janvier 1978 modifiée. Ce traitement, mis en œuvre par l’Etat, requiert en outre une consultation du répertoire national d’identification des personnes physiques (RNIPP), sans inclure le numéro d’inscription à ce répertoire, et relève à ce titre des dispositions du 1° du II du même article. Conformément auxdites dispositions, sa mise en œuvre doit dès lors être autorisée par arrêté ministériel pris après avis motivé et publié de la Commission. 
+ 
+Sur les finalités et les fonctionnalités du traitement :  
+ 
+Aux termes de l’article 2 du projet d’arrêté, le traitement FranceConnect poursuit cinq finalités : 
+ 
+simplifier des démarches et formalités administratives effectuées par les usagers ainsi qu’en assurer la traçabilité et le suivi ;
+sécuriser le mécanisme d’échange d’informations entre autorités administratives prévu par les articles L. 113-12 et L. 114-8 du code des relations entre le public et l’administration susvisés ;
+permettre aux usagers d’accéder à des téléservices d’autres Etats membres en respectant les dispositions prévues par le règlement du 23 juillet 2014 susvisé, notamment les exigences relatives au niveau de garantie requis par le téléservice concerné ;
+simplifier l’accès des utilisateurs aux services en ligne proposés par les entités partenaires ;
+assurer l’authentification des agents des autorités administratives pour accéder à leur système d’information ainsi que celui d’autres autorités administratives.
+ 
+À titre liminaire, la Commission relève que les finalités pourraient être distinguées selon le module du dispositif FranceConnect auquel elles se rapportent. Elle rappelle à cet égard l’importance et la nécessité de garantir l’étanchéité des données traitées entre les deux modules précités. Sur ce point, la Commission prend acte du fait que ces deux systèmes sont indépendants et ne font pas l’objet d’interconnexions. 
+ 
+En premier lieu, elle relève que les quatre premières finalités se rapportent au module FranceConnect particuliers , les trois premières ayant déjà fait l’objet d’un examen par la Commission en 2015. Il avait ainsi été relevé que le traitement alors mis en œuvre était de nature à simplifier les démarches administratives et à améliorer les relations entre les usagers et l’administration. La Commission estime dès lors que ces finalités n’appellent pas d’observations particulières. 
+ 
+De manière générale, elle rappelle toutefois qu’elle a toujours considéré que les traitements mis en œuvre à de telles fins devaient être limités aux données strictement nécessaires à l’accomplissement des démarches administratives et, en particulier, que l’accès à une information générale qui peut être mise à disposition de tout internaute ne doit pas être subordonnée à une authentification d’un usager. De la même manière, elle estime que le développement de l’administration électronique ne passe pas nécessairement et ne doit pas conduire à la création d’un identifiant unique des administrés, au plan local comme au plan national, et que les traitements de données mis en œuvre dans ce cadre ne doivent pas être utilisés à d’autres fins que l’accomplissement de certaines démarches administratives, et tout particulièrement aux fins d’alimenter d’autres fichiers ou de constituer un fichier de population. Enfin, la mise en œuvre de traitements de données aux fins de simplification des démarches administratives et d’amélioration des relations entre les usagers et l’administration doit s’accompagner de mesures de sécurité appropriées et garantir le respect des droits des personnes prévus par la loi Informatique et Libertés . 
+ 
+En ce qui concerne la quatrième finalité, la Commission relève qu’il s’agit de permettre à un nouveau type de fournisseur de services, à savoir des personnes morales de droit privé, de proposer à ses utilisateurs de s’identifier et s’authentifier via le module FranceConnect particuliers . 
+ 
+La Commission relève à ce titre que les entités partenaires visées à l’article 2 du projet d’arrêté sont d’une part, les partenaires du changement d’adresse relevant du secteur privé, mentionnés au II et III de l’article 1er de l’ordonnance n°2005-395 du 28 avril 2005 susvisée, de l’article 4 du projet d’arrêté et, d’autre part, les personnes morales proposant des services dont l’usage nécessite, conformément à des dispositions législatives ou réglementaires, l’authentification de leurs utilisateurs ou la vérification de certains de leurs attributs du même article. 
+ 
+Concernant l’extension du dispositif aux partenaires du changement d’adresse relevant du secteur privé, la Commission estime que la mission de service public dont sont investis ces partenaires justifie qu’ils puissent utiliser le dispositif FranceConnect particuliers . La Commission considère néanmoins que cet usage doit être limité à la démarche du changement d’adresse et aux services strictement liés à celle-ci. Elle demande dès lors que l’article 4 du projet d’arrêté soit précisé en ce sens.  
+ 
+Concernant les fournisseurs de services proposant des services dont l’utilisation nécessite conformément à des dispositions législatives ou réglementaires, une authentification de leurs utilisateurs ou la vérification de certains de leurs attributs , la Commission prend acte que le projet d’arrêté sera modifié afin de ne faire référence qu’à la vérification de l’identité ou de certains des attributs d’identité des utilisateurs et non plus à leur authentification. 
+ 
+Elle relève qu’une telle modification vise uniquement à délimiter strictement les personnes morales de droit privé pouvant faire usage du dispositif FranceConnect particuliers sans qu’il ne soit question de restreindre l’usage du dispositif FranceConnect particuliers une fois la vérification précitée effectuée. En effet, les personnes morales susvisées pourront, à la suite d’une identification réussie via FranceConnect particuliers , proposer à leurs utilisateurs de s’authentifier via FranceConnect particuliers pour accéder à leurs services. 
+ 
+Dès lors, seules les personnes morales de droit privé offrant des services pour lesquels l’usage nécessite une vérification de l’identité ou de certains attributs d’identité, prévue par une disposition législative ou réglementaire, pourront avoir recours au dispositif FranceConnect particuliers . La Commission relève à ce titre que les acteurs susceptibles d’être concernés sont des banques, des groupes d’assurance santé ou encore des sociétés privées de jeux. 
+ 
+En pratique, il s’agira par exemple de vérifier l’âge d’un individu afin de déterminer si l’accès au service lui est autorisé, s’agissant d’un service faisant l’objet d’une interdiction légale aux personnes en dessous d’un certain âge. 
+En outre, la Commission prend acte qu’un système de vérification des conditions d’adhésion au dispositif envisagé sera mis en œuvre par la DINSIC. A cet égard, elle relève que chaque fournisseur de services souhaitant mettre en œuvre le dispositif de fédération d’identités devra expressément faire référence à la disposition législative ou réglementaire qui prévoit qu’il est nécessaire de procéder à une vérification de l’identité ou de certains attributs d’identité de l’utilisateur pour accéder au service en ligne concerné. 
+ 
+En tout état de cause, la Commission estime que le recours à FranceConnect particuliers dans ce cadre doit être strictement limité à l’accès au service en ligne dont l’usage nécessite spécifiquement une vérification de l’identité ou de certains des attributs d’identité de l’utilisateur. En particulier, le recours au dispositif FranceConnect particuliers ne doit pas permettre d’accéder à d’autres services proposés par le fournisseur de services ne nécessitant pas une telle vérification. A ce titre, la Commission prend acte que le projet d’arrêté sera modifié en ce sens. 
+ 
+Concrètement, la Commission relève que le module FranceConnect particuliers vise ainsi à proposer un mécanisme permettant à une personne de s’identifier et de s’authentifier auprès de fournisseurs de services, lesquels autorisent leurs utilisateurs à accéder aux services qu’ils proposent via une identification et une authentification FranceConnect . Afin de faciliter cette identification, le dispositif s’appuie sur des fournisseurs d’identités garantissant l’identification électronique de la personne concernée. Si certains partenaires de FranceConnect peuvent être simultanément fournisseurs d’identités et fournisseurs de services, ce cas de figure ne concerne toutefois pas l’ensemble des partenaires. 
+ 
+Une personne qui souhaite accéder, par exemple, à un téléservice, peut choisir de se connecter à ce fournisseur de services via le dispositif en cliquant sur le bouton FranceConnect . Le dispositif propose alors à l’usager une liste de fournisseurs d’identités et le redirige vers celui de son choix. La personne s’authentifie alors auprès du fournisseur d’identités choisi en utilisant les moyens d’authentification qu’elle possède déjà pour son compte. 
+ 
+Le fournisseur d’identités communique alors à FranceConnect particuliers des éléments d’identité obligatoires, appelés identité pivot , et de manière facultative, des données supplémentaires demandées par le fournisseur de services et nécessaires pour accéder au service proposé. 
+ 
+Cette identité pivot est ensuite systématiquement certifiée par consultation du Répertoire National d’Identification des Personnes Physiques (RNIPP), auquel ne peut accéder aucun fournisseur d’identités dans le cadre du présent dispositif. Une fois, cette certification effectuée, FranceConnect particuliers calcule un alias technique avec ces données d’identité. Cet alias technique est propre à chaque usager, régénéré à chaque connexion et connu uniquement de FranceConnect particuliers . Il permet de retrouver les clés de fédération déjà générées pour un utilisateur, qui correspondent aux identifiants de l’usager pour chaque fournisseur de services pour lequel il utilise FranceConnect .  
+ 
+Enfin, la Commission relève que l’utilisation du dispositif FranceConnect particuliers est facultative pour les usagers. Elle rappelle que, sauf dispositions légales contraires, les autorités administratives partenaires du dispositif doivent assurer le maintien d’une procédure alternative au téléservice FranceConnect et que cette procédure doit alors permettre l’accès, dans des conditions analogues, à la même prestation de service public. 
+ 
+Dans ces conditions, la Commission estime que cette nouvelle finalité est déterminée, explicite et légitime, conformément aux dispositions de l’article 6-2° de la loi du 6 janvier 1978 modifiée. 
+ 
+En second lieu, elle relève que la cinquième et dernière finalité poursuivie par le dispositif se rapporte à la création du module FranceConnect agents , destiné à être utilisé par les agents des autorités administratives. 
+ 
+La Commission prend acte que les autorités administratives visées dans le projet d’arrêté sont celles énumérées à l’article 1er de l’ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives. Elle relève à ce titre que l’authentification via FranceConnect agents devrait permettre aux agents publics : 
+ 
+d’accéder au système d’information de leur propre autorité administrative ; cet accès ne pose pas de difficulté particulière, le fournisseur de services et le fournisseur d’identités étant une seule et même personne ;
+d’accéder au système d’information d’une autorité administrative autre que celle à laquelle l’agent est rattaché, en vue de co-instruire un dossier ou de se connecter à des applications interministérielles.
+ 
+Concrètement, la Commission relève que dans ces hypothèses, un agent pourra se rendre sur le service auquel il souhaite accéder et cliquer sur le bouton FranceConnect agents. L’agent sera automatiquement redirigé vers l’interface FanceConnect agents et choisira le fournisseur d’identités correspondant à son autorité administrative puis s’authentifiera avec les moyens d’identification qu’il possède déjà pour son compte. La plateforme de son administration enverra à FranceConnect agents les éléments de l’ identité pivot de l’agent ainsi que les éventuels attributs optionnels requis par le fournisseur de services. FranceConnect agents transmettra alors ces éléments au fournisseur de services. L’agent sera alors connecté au service demandé et pourra l’utiliser. 
+ 
+La Commission relève que dans le cadre du module FranceConnect agents , l’identité de l’agent est certifiée par le fournisseur d’identités choisi, lequel ne peut être que l’administration à laquelle est rattachée l’agent, au regard des éléments d’identité dont elle dispose. Dès lors, la Commission prend acte que FranceConnect agents exclut une certification sur la base du RNIPP. 
+ 
+Par ailleurs, interrogé sur le caractère facultatif de l’accès à ce module du traitement FranceConnect , la DINSIC a indiqué que l’article 2 du projet d’arrêté serait modifié afin d’opérer une distinction entre FranceConnect particuliers et FranceConnect agents . Si la Commission prend acte de cet engagement dès lors que, dans cette dernière hypothèse, le module concerné ne constitue pas un téléservice au sens de l’article 1er de l’ordonnance n° 2005-1516 du 8 décembre 2005 susvisée, elle appelle toutefois l’attention de la DINSIC sur la nécessité de s’assurer que l’accès à ce module ne devienne pas l’unique moyen d’authentification des agents de la fonction publique. 
+ 
+Dans ces conditions, la Commission considère que le traitement mis en œuvre est de nature à simplifier l’accès des agents aux différents systèmes d’information de l’Etat et améliorer les relations inter-administrations. Elle considère dès lors que la finalité poursuivie à ce titre est déterminée, explicite et légitime conformément aux dispositions de l’article 6-2° de la loi du 6 janvier 1978 modifiée. 
+ 
+Sur des données traitées :  
+ 
+L’article 3 du projet d’arrêté précise les catégories de données à caractère personnel enregistrées dans le traitement, en distinguant celles relatives à la gestion de l’identification et celles relatives à la gestion de la traçabilité. 
+ 
+À titre liminaire, la Commission relève que le projet d’arrêté mentionne uniquement les données relatives à la gestion de l’identification dans le module FranceConnect particuliers . Elle prend acte que le projet d’arrêté sera modifié afin de mentionner les données relatives à la gestion de l’identification enregistrées dans le module FranceConnect agents et qu’une distinction sera également opérée, de manière explicite, dans le projet d’arrêté entre les données collectées dans le cadre du module FranceConnect particuliers et celles relatives au module FranceConnect agents . 
+ 
+S’agissant des données relatives à l’identification dans le module FranceConnect agents , la DINSIC a indiqué que des données enregistrées sont obligatoires et nécessaires au fonctionnement du dispositif de fédération d’identités, lesquelles constituent l’identité pivot . Certaines données facultatives, supplémentaires aux données constituant l’ identité pivot , peuvent également être demandées par le fournisseur de services en fonction des besoins propres du service concerné. 
+ 
+Il a ainsi été précisé que les données constituant l’identité pivot de FranceConnect agents sont les nom d’usage, prénom d’usage, adresse de courrier électronique professionnelle, identifiant unique de l’agent utilisé par l’autorité administrative qui l’emploie, le cas échéant, le numéro d’inscription de l’autorité administrative au répertoire des entreprises et de leurs établissements (SIREN) et le service d’affectation. 
+ 
+La DINSIC a également indiqué que certaines données pouvaient être enregistrées de façon facultative dans FranceConnect agents : le nom de famille, la date et le lieu de naissance complet, le numéro de téléphone fixe professionnel, le numéro de téléphone portable professionnel, le ou les rôles (profils d’accès), le numéro d’inscription de l’établissement au répertoire des entreprises et de leurs établissements (SIRET) et le poste de l’agent. 
+ 
+Les données et informations enregistrées, à titre obligatoire ou facultatif, dans le module FranceConnect agents n’appellent pas d’observations particulières de la Commission. La Commission prend par ailleurs acte que le module FranceConnect agents ne nécessite pas de clé de fédération aux fins de gestion de l’identification de l’agent concerné. Elle prend également acte qu’un alias technique sera enregistré de façon obligatoire dans le traitement, cet alias étant ajouté au titre des données collectées. 
+ 
+S’agissant des données relatives à la gestion de l’identification dans le module FranceConnect particuliers , seront traitées les données à caractère personnel constituant l’ identité pivot à savoir : le nom de famille, le prénom, le sexe, la date et le lieu de naissance. La Commission relève que le projet d’arrêté prévoit la possibilité de collecter le numéro SIREN ou SIRET lorsqu’il s’agit d’usagers professionnels, ce qui n’appelle pas d’observation particulière. Outre l’ identité pivot , un alias technique et des clés de fédération seront enregistrées dans le module aux fins de gestion de l’identification de la personne concernée. 
+ 
+S’agissant de l’alias technique tout particulièrement, la Commission rappelle que la création et l’utilisation de cet alias technique sont assorties de plusieurs garanties. En effet, l’alias technique est non signifiant, propre à chaque usager, régénéré à chaque connexion après certification au regard du RNIPP, haché et inconnu tant des fournisseurs de services ou d’identités que de la personne concernée. La Commission relève que ces éléments figurent dans le projet d’arrêté. Elle rappelle, en tout état de cause, que l’alias technique a une portée strictement technique et ne constitue pas un identifiant unique à la disposition de l’utilisateur ou des fournisseurs de services.  
+ 
+S’agissant des clés de fédération, celle-ci constituent les identifiants spécifiques de l’usager pour chaque service en ligne ou téléservice concernés. La Commission rappelle que seule cette clé de fédération est adressée aux fournisseurs de services et non l’alias technique unique précité. 
+ 
+En outre, l’article 3 du projet d’arrêté prévoit que, de façon facultative, certaines données peuvent être traitées à la demande du fournisseur de services et en fonction des données requises pour l’authentification du fournisseur de services, à savoir : le nom d’usage, le numéro de téléphone fixe, le numéro de téléphone portable, l’adresse de courrier électronique et l’adresse postale. 
+ 
+La Commission relève que si l’adresse de courrier électronique de la personne utilisée pour l’envoi d’un courriel de notification de connexion au dispositif n’est pas conservée dans FranceConnect particuliers , cette donnée est néanmoins traitée, au sens de l’article 2 de la loi du 6 janvier 1978 modifiée, de façon systématique. La Commission estime dès lors que le traitement de cette donnée, pour l’envoi exclusif d’un courriel de notification, doit être mentionné dans le projet d’arrêté parmi les données collectées à titre obligatoire. 
+ 
+S’agissant des données relatives à la gestion de la traçabilité des accès prévues à l’article 3-2° du projet d’arrêté et identiques aux deux modules composant le traitement FranceConnect , la Commission relève que les données traitées sont l’adresse IP, les dates et heures de connexion des usagers au téléservice, les jetons issus du mécanisme d’échange d’informations permettant de vérifier la bonne information de l’usager et, le cas échéant, le recueil de son consentement. Ces données n’appellent pas d’observations particulières. 
+ 
+Par ailleurs, la Commission rappelle que, dans le cadre de l’échange de données entre autorités administratives en application de l’article 16 A de la loi du 12 avril 2000 susvisée, FranceConnect particuliers assure uniquement un rôle de mise en relation entre les autorités administratives et qu’aucune donnée susceptible d’être échangée n’est traitée dans le dispositif. 
+ 
+Compte tenu de ce qui précède, la Commission estime que les données traitées sont adéquates, pertinentes et non excessives au regard des finalités poursuivies, conformément aux dispositions de l’article 6-3° de la loi du 6 janvier 1978 modifiée. 
+ 
+Sur les durées de conservation :  
+ 
+L’article 5 du projet d’arrêté distingue trois types de durées de conservation. 
+ 
+Les données relatives à la gestion de l’identification, dans les deux modules, sont conservées pendant la durée de session de la personne concernée. Au-delà de cette durée, elles sont détruites sans délai. La Commission relève qu’en cas de déconnexion ou d’expiration de la session, la personne concernée doit dès lors se reconnecter à l’aide de ses identifiants. 
+ 
+En outre, l’alias technique et les clés de fédération sont conservés pendant une durée de trente-six mois. La Commission relève qu’à l’expiration de l’alias technique, l’ensemble des clés de fédération reliées à celui-ci seront détruites. Chaque clé de fédération possède une durée de conservation indépendante, qui ne peut excéder trente-six mois à compter de sa dernière utilisation. 
+ 
+Concernant l’alias technique du module FranceConnect agents , la Commission estime que, sauf à justifier de particularités ou de dispositions légales expresses, la durée de conservation retenue ne devra pas excéder six mois. 
+ 
+Enfin, concernant les données de traçabilité, la durée de conservation est fixée à six mois. 
+ 
+La Commission estime que les durées ainsi définies sont conformes à l’article 6-5° de la loi du 6 janvier 1978 modifiée. En tout état de cause, elle rappelle que les données collectées par les fournisseurs de services tels que visés par le projet d’arrêté ne peuvent être conservées que pour une durée qui n’excède pas la durée nécessaire aux finalités pour lesquelles elles sont collectées et traitées, conformément à cette même disposition. 
+ 
+Sur les destinataires  
+ 
+L’article 4 du projet d’arrêté prévoit que seuls les fournisseurs de services, partenaires du dispositif FranceConnect pourront être destinataires des données. 
+ 
+La Commission relève à cet égard que sont concernés : 
+les autorités administratives habilitées à traiter les démarches et formalités des usagers en vertu d’un texte législatif ou réglementaire ;
+les autorités administratives pour l’accès de leurs agents ou ceux d’autres autorités administratives à leur système d’information ;
+Les personnes morales mentionnées au II et III de l’article 1er de l’ordonnance du 28 avril 2005 susvisée ;
+Les personnes morales de droit privé qui proposent des services dont l’usage nécessite, conformément à une disposition législative ou règlementaire, une vérification de l’identité ou de certains attributs d’identité.
+ 
+Ces destinataires n’appellent pas d’observation particulière de la Commission. 
+ 
+En tout état de cause, la Commission prend acte que chacun des destinataires ne recevra que les données strictement nécessaires pour permettre la vérification de l’identité ou des attributs d’identité exigés pour accéder au service concerné. 
+ 
+Enfin, le projet d’arrêté prévoit que les données constituant l’ identité pivot sont adressées à l’INSEE pour permettre la certification au regard du RNIPP, ce qui n’appelle pas d’observation particulière de la Commission. Néanmoins, à des fins de clarté, elle recommande que le projet d’arrêté précise que l’envoi de l’ identité pivot à l’INSEE ne concerne que le module FranceConnect particuliers . 
+ 
+Sur les droits des personnes concernées :  
+ 
+De manière générale, la Commission rappelle qu’il est nécessaire de s’assurer du consentement exprès et non équivoque de la personne concernée préalable au traitement de ses données dans le cadre du traitement projeté. 
+ 
+La Commission relève que les personnes concernées par le traitement sont informées conformément aux dispositions l’article 32 de la loi du 6 janvier 1978 modifiée. Cette information est délivrée par le biais de mentions spécifiques figurant sur l’interface FranceConnect . 
+ 
+Elle estime toutefois indispensable qu’une attention particulière soit portée à la qualité de l’information qui doit être relayée par la DINSIC auprès de ses partenaires. La Commission considère que des mentions types d’informations pourraient être élaborées et proposées à ces derniers. 
+ 
+Les droits d’accès, de rectification et de suppression s’exercent directement auprès de la DINSIC, ce qui n’appelle pas d’observation particulière. 
+ 
+Sur la sécurité des données et la traçabilité des actions :  
+ 
+La Commission relève qu’une analyse des risques ainsi qu’une analyse d’impact relative à la protection des données ont été réalisées sur le périmètre initial de FranceConnect tel qu’examiné en 2015 par la Commission. Compte tenu des évolutions du dispositif, une mise à jour desdites analyses s’avère nécessaire. Elle prend acte que la DINSIC s’est engagée à effectuer, au dernier semestre 2018, les mises à jour desdites analyses concernant FranceConnect particuliers et FranceConnect agents . 
+ 
+La Commission relève par ailleurs que l’extension de FranceConnect particuliers à de nouveaux partenaires du secteur privé pourrait augmenter l’impact potentiel de toute attaque sur le système en augmentant également la probabilité d’une attaque ciblée. Elle rappelle à cet égard l’importance de prendre en compte ces éléments lors de la réévaluation prévue des analyses précitées. 
+ 
+En outre, la Commission souligne qu’à la suite des remarques formulées dans la délibération n° 2015-254 du 6 juillet 2015 sur les risques relatifs à l’usurpation d’identité, des mesures ont été mises en œuvre par la DINSIC. Ainsi, il est désormais prévu que toute connexion à FranceConnect déclenche l’envoi d’un courrier électronique à destination de la personne concernée dont les moyens d’identification ont été utilisés. Elle constate également que des mécanismes pour permettre de déconnecter un fournisseur d’identités en cas d’incident de sécurité ont été déployés. 
+ 
+Aussi, elle souligne l’importance de mettre en place des mesures relatives à l’indisponibilité de la plateforme FranceConnect agents , celle-ci risquant de devenir à terme l’unique moyen d’identification ou d’authentification à de nombreux services de l’administration. La Commission relève notamment que l’absence de caractère facultatif du module FranceConnect agents pourrait aggraver les impacts sur le fonctionnement de l’administration dans un contexte d’indisponibilité.  
+ 
+La Présidente 
+ 
+Isabelle FALQUE-PIERROTIN 
+ 
+ 
+Nature de la délibération: AVIS
+ 
+ 
+
+

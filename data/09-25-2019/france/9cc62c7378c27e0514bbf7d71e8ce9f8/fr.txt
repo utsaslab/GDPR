@@ -1,0 +1,151 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 28/06/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+DELIBERATION n°2018-125 du 5 AVRIL 2018 
+Délibération n° 2018-125 du 5 avril 2018 autorisant la Métropole Européenne de Lille à mettre en œuvre un traitement automatisé de données à caractère personnel ayant pour finalité la réalisation d’une étude sur le suivi d’une cohorte d’habitants des quartiers prioritaires pour l’évaluation de son contrat de ville 2015-2020 
+
+(Demande d’autorisation n° 2114094) 
+ 
+La Commission nationale de l’informatique et des libertés, 
+Saisie par la Métropole Européenne de Lille d’une demande d’autorisation concernant un traitement automatisé de données à caractère personnel ayant pour finalité  d’évaluer la mise en œuvre du contrat de ville qu’elle pilote et anime; 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ; 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ; 
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment ses articles 8 et 25 ; 
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ; 
+Vu la loi n° 2014-173 du 21 février 2014 relative à la programmation pour la ville et la cohésion urbaine et notamment son article 6 ; 
+Vu le dossier et ses compléments ; 
+Sur la proposition de M. Philippe LEMOINE, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement, 
+ 
+Formule les observations suivantes : 
+Responsable du traitement 
+La métropole Européenne de Lille (MEL) a saisi la Commission d’une demande d’autorisation concernant un traitement automatisé de données à caractère personnel ayant pour finalité la réalisation d’une étude sur le suivi d’une cohorte d’habitants des quartiers prioritaires pour l’évaluation du contrat de ville 2015-2020 dont elle assure le pilotage. 
+Sur la finalité 
+La MEL souhaite mener une enquête triennale afin d’évaluer les effets des dispositifs du contrat de ville mis en œuvre dans les quartiers identifiés comme prioritaires par rapport à des quartiers de veille où ces mesures n’ont pas été déployées.  
+ 
+Cette enquête constitue une modalité d’évaluation du contrat de ville rendue obligatoire par l’article 6 de la loi n° 2014-173 du 21 février 2014 relative à la programmation pour la ville et la cohésion urbaine.  
+ 
+Un entretien annuel renouvelé durant trois années sera ainsi proposé à chacun des 1 500 ménages tirés au sort afin de recueillir auprès d’eux des informations relatives à l’habitat, au cadre de vie, à la sécurité, à l’ambiance urbaine, à l’éducation, à l’emploi ainsi qu’à la santé.  
+ 
+Ce traitement relève des dispositions de l’article 8 ainsi que du 1° et du 7° du I de l’article 25 de la loi n° 78-17 du 6 janvier 1978 modifiée qui soumettent à autorisation les traitements automatisés des données de santé et des données comportant des appréciations sur les difficultés sociales des personnes. 
+ 
+Les données collectées dans ce cadre doivent permettre à la collectivité de produire des éléments de connaissance qui nourrissent les réflexions stratégiques et opérationnelles des partenaires signataires du contrat de ville en vue d’améliorer la qualité des services proposés aux habitants des quartiers prioritaires. Les données collectées par le biais de cette enquête seront exploitées à des seules fins statistiques et donneront lieu à la rédaction ainsi qu’à la publication de rapports d’études.  
+Les résultats de l’enquête seront publiés sous une forme permettant de garantir l’anonymisation des données. Ils seront ainsi présentés à l’échelle de l’ensemble des quartiers prioritaires de la Métropole de telle sorte qu’il sera en pratique impossible de procéder à la ré-identification des personnes interrogées dans le cadre de l’enquête. 
+ 
+Compte tenu de ces éléments, la Commission considère que la finalité du traitement est déterminée, explicite et légitime, conformément à l’article 6 de la loi du 6 janvier 1978 modifiée. 
+ 
+Sur les données traitées 
+Les données suivantes feront l’objet d’une collecte par voie de questionnaire soumis par le prestataire sous-traitant aux ménages:  
+ 
+données relatives à l’habitat, l’emploi, l’éducation, le cadre de vie (évaluation de l’état des équipements publics), la sécurité et l’ambiance urbaine (évaluation du sentiment de sécurité, des incivilités, des relations de voisinage, évènements organisés et des dispositifs de médiation), la situation matrimoniale et au sexe (pour l’évaluation des discriminations notamment); 
+données relatives à la santé (existence de problèmes de santé et type de praticien consulté, pratique d’une activité physique, nutrition) ; 
+des données comportant des appréciations sur les difficultés sociales des personnes  (difficultés scolaires des enfants, difficultés pour trouver un emploi, difficultés de paiement de loyer, perception de prestations sociales). 
+ 
+Le contenu du questionnaire fera l’objet d’une mise à jour avant chaque nouvelle vague d’enquête afin d’ajuster la pertinence des questions posées aux ménages soumis à l’enquête. 
+La Commission rappelle que ces mises à jour successives devront être effectuées dans le respect des dispositions de la présente autorisation.  
+ 
+La Commission relève que les données relatives à la santé et aux difficultés sociales des personnes seront uniquement destinées à des fins d’évaluation de dispositifs relatifs, d’une part, à l’accès aux soins et à la prévention en matière de santé et, d’une part, à l’accompagnement vers l’emploi et au soutien des parcours éducatifs innovants des jeunes en difficultés.  
+ 
+La Commission relève par ailleurs que le volume de données collectées auprès de chaque ménage par le biais du questionnaire est conséquent et révèle de nombreuses informations sur la vie privée des personnes interrogées.  
+ 
+La Commission estime dès lors que seules les données strictement nécessaires aux besoins d’évaluation du contrat de ville doivent faire l’objet d’une collecte. 
+ 
+A cet égard, la Commission constate que les données précitées permettent d’améliorer la connaissance de la situation des personnes résidant en quartier prioritaire et que, d’autre part, elles permettent d’ajuster les dispositifs d’accompagnement déployés dans le cadre du contrat de ville (accompagnements, prestations sociales, équipements publics, évènements organisés par la collectivité) aux besoins de ces personnes.  
+ 
+Par ailleurs, la Commission relève que le sous-traitant, collectera également des données directement identifiantes (nom, prénom, âge) relatives aux personnes composant chaque ménage interrogé ainsi que les coordonnées (adresse postale, mail et numéro de téléphone) de la personne référente du ménage. 
+ 
+La Commission relève que la collecte de ces données est exclusivement destinée à permettre au cabinet prestataire en charge de la collecte : 
+de contacter les ménages avant chaque entretien annuel ;  
+d’identifier les personnes composant les ménages concernés tout au long des trois vagues d’entretiens afin d’établir un lien entre les trois questionnaires soumis aux ménages durant les trois années d’enquête.  
+La Commission prend acte que ces données ne feront l’objet d’aucun autre traitement. 
+ 
+Dans ces conditions, la Commission estime que les données collectées sont adéquates, pertinentes et non excessives au regard de la finalité poursuivie. 
+Sur les destinataires des données et les accédants  
+La MEL collabore avec l’Institut national de la statistique et des études économiques (INSEE) qui lui apporte un soutien méthodologique pour la conception et la mise en œuvre de l’enquête ainsi que l’analyse des données collectées. 
+ 
+La MEL mettra à disposition de l’INSEE une base de données « voirie » comprenant les adresses de l’ensemble des habitants résidant dans les quartiers relevant de la géographie prioritaire. A partir de cette base de données et selon un critère de répartition territoriale en 4 sous-groupes de 375 ménages. L’INSEE procèdera à un tirage aléatoire de ménages à interroger et remettra à la MEL l’échantillon prélevé ; 
+ 
+Les enquêteurs du prestataire sous-traitant procèderont à des entretiens physiques auprès des ménages ainsi sélectionnés afin de collecter les données précitées par le biais de questionnaires.  
+Les données issues des questionnaires ne seront pas conservées par le sous-traitant une fois leur transfert à la MEL effectué.  
+ 
+Pendant toute la durée de l’enquête, le sous-traitant conservera pour chaque ménage les seules données d’identification des personnes interrogées ainsi que les coordonnées des personnes de référence. 
+La Commission prend acte que seul le sous-traitant pourra avoir accès à ces données d’identification. 
+ 
+A l’issue de chaque phase d’entretien, le sous-traitant remettra à la MEL les données collectées purgées de toutes les informations directement identifiantes. La base de données brute sera transmise à l’INSEE qui procèdera au nettoyage et au redressement des données avant de la renvoyer à la MEL. 
+ 
+Une analyse des données sera effectuée conjointement par l’INSEE et la MEL et donnera lieu à l’édition d’une série de rapports qui feront l’objet d’une publication. 
+ 
+La Commission prend acte de l’abandon du projet de partenariat avec des laboratoires de recherche tel qu’initialement prévu par la délibération du conseil de la MEL relative à l’évaluation du contrat de ville, de telle sorte qu’aucun autre acteur ne sera destinataire des données. 
+ 
+Sur l’information et les droits des personnes  
+La Commission prend acte qu’une information sera délivrée aux personnes interrogées lors d’un premier passage des enquêteurs au domicile des ménages afin de procéder au dépôt des deux documents d’information suivants :  
+ 
+un document ad hoc fourni par le sous-traitant en charge de la collecte des données  
+Ce document précise le caractère anonyme et non obligatoire de l’enquête ainsi que les moyens d’identification des enquêteurs. Il mentionne également le droit d’information des personnes en renvoyant aux articles 27 et 31 de la loi 78-17 du 6 janvier 1978 dans sa version initiale.  
+ 
+La Commission souligne que ces références légales sont obsolètes. Elle invite le sous-traitant à modifier ce document en mentionnant l’article 8 (collecte des données sensibles et notamment des données de santé) et 32 (obligation d’information des personnes) de la loi 78-17 du 6 janvier 1978 modifiée. 
+ 
+Une note d’information éditée par la MEL 
+La Commission relève que ce document destiné aux personnes désignées comme « chef de ménage » (ou personne de référence) a pour objet d’informer de la finalité poursuivie par le traitement, des modalités de l’enquête, des destinataires de l’enquête (le cabinet sous-traitant, la MEL et l’INSEE) ainsi que des mesures prises pour garantir l’anonymat et assurer la protection des données collectées. 
+ 
+La Commission rappelle que le droit d’information concerne l’ensemble des personnes dont les données à caractère personnel seront collectées. Ainsi la personne adulte désignée comme « chef de ménage » auprès de laquelle les données seront collectées ne peut être la seule destinataire de cette information. 
+A cet égard la Commission demande qu’un exemplaire des deux formulaires d’information soit remis à l’ensemble des personnes composant chaque ménage interrogé.  
+ 
+De même devront apparaitre dans la note de la MEL les informations suivantes : 
+les modalités concrètes de l’exercice des droits d’accès, de rectification et de suppression. La Commission demande que soit indiquée la procédure dédiée pour l’exercice de ces droits ; 
+la mention explicite du caractère facultatif de la participation. 
+Par ailleurs, la Commission rappelle que l’anonymisation ne sera pas effective au stade de l’enquête dès lors qu’il existe un moyen de ré-identifier les personnes concernées. Elle demande donc que les deux documents précités soient modifiés afin d’informer les personnes que, d’une part, les données collectées seront protégées par des mesures appropriées garantissant leur sécurité et que, d’autre part, leur anonymisation sera effective au stade de la publication des résultats de l’enquête. 
+ 
+La Commission prend acte de l’engagement du responsable de traitement à apporter les modifications demandées et considère dès lors que ces mesures sont satisfaisantes pour permettre l’information des personnes conformément aux dispositions de l’article 32 de la loi du 6 janvier 1978 modifiée. 
+ 
+Enfin la Commission relève, que s’agissant d’une enquête facultative, les personnes majeures concernées devront avoir préalablement donné leur accord pour la collecte de toutes les données les concernant directement ou indirectement conformément aux dispositions de l’article 7 de la loi n° 78-17 du 6 janvier 1978. 
+ 
+A cet égard la Commission relève que lors du premier passage au domicile des ménages pour déposer les deux documents d’information précités, les enquêteurs déposeront également un fascicule destiné au recueil exprès du consentement. 
+Lors de leur second passage, les enquêteurs procèderont à la collecte des données concernant les seules personnes ayant rempli le fascicule.  
+Cette collecte s’effectuera auprès de la personne de référence de chaque ménage seule ou accompagnée des personnes concernées. 
+La Collecte des données pourra avoir lieu lors du premier passage de l’enquêteur au domicile du ménage dès lors que le ménage ne comporte qu’une personne ou que l’ensemble des personnes composant le ménage sont présentes. Dans ce cas le consentement sera recueilli directement auprès des personnes concernées. 
+ 
+Sur la durée de conservation des données 
+La Commission relève que les données directement identifiantes des participants ainsi que leurs coordonnées seront conservées par le seul sous-traitant pour les besoins de l’enquête.  
+S’agissant d’une enquête triennale, il est en effet nécessaire de pouvoir identifier les personnes concernées d’une année sur l’autre. Ainsi les données collectées au cours des années N+1 et N+2 concernant une personne identifiée pourront être rattachées aux données collectées au cours de l’année N. 
+ 
+La Commission prend acte que ces données seront détruites au terme des trois vagues d’entretiens annuelles.  
+ 
+Au terme des trois années d’enquête, les données issues des questionnaires d’enquête seront conservées par la MEL et l’INSEE pendant une durée maximum de deux ans, soit le temps nécessaire à leur exploitation statistique. 
+ 
+La Commission prend acte de l’engagement du responsable de traitement à ce que l’ensemble des données recueillies soient supprimées au terme de 5 années à compter du début de l’enquête (3 années d’enquêtes + 2 ans nécessaires à l’analyse des données). 
+ 
+Sur les mesures de sécurité 
+ 
+Chaque enquêteur dispose d’un ordinateur dédié au recueil des données de l’enquête. Il se connecte à une application de recueil avec un identifiant et un mot de passe. Les données recueillies sont transmises via le protocole HTTPS qui permet de garantir la confidentialité des données échangées ainsi que l’authentification de la source et du destinataire. Concernant le recours à ce protocole, la Commission recommande d’utiliser la version de TLS la plus à jour possible. Après l’envoi des données, l’enquêteur n’y a plus accès. Une journalisation des accès à l’application et de la création des fichiers est mise en place. Des sauvegardes quotidiennes sont réalisées par le sous-traitant et chiffrées.  
+ 
+Tout échange de données entre la MEL et le cabinet prestataire s’effectue par le biais d’un outil de transmission de fichiers assurant l’authentification des destinataires, la confidentialité et l’intégrité des transmissions. Un identifiant aléatoire est assigné à chaque ménage par le cabinet prestataire. Chaque année, seules les données non directement identifiantes recueillies dans le cadre de l’enquête sont fournies à la MEL. La Commission rappelle que la table de correspondance permettant de ré-identifier les personnes, conservée par le sous-traitant, doit faire l’objet de mesures de protection techniques et organisationnelles adéquates assurant que seul le personnel habilité soit en mesure d’y accéder. Les agents de la MEL en charge de l’évaluation du contrat de ville accèdent aux données de l’enquête à travers un environnement sécurisé, authentifié par un identifiant et un mot de passe.  
+ 
+De même, tout échange de données entre la MEL et l’INSEE s’effectue par le biais d’un outil de transmission de fichiers dédié assurant l’authentification des destinataires, la confidentialité et l’intégrité des transmissions. Les agents de l’INSEE en charge de l’évaluation accèdent aux données à travers un environnement sécurisé. 
+ 
+Enfin, la Commission rappelle que la politique de mot de passe mise en place par tous les acteurs doit être conforme à la délibération n° 2017-012 du 19 janvier 2017 portant adoption d’une recommandation relative aux mots de passe. En outre, La Commission rappelle la nécessité de mettre en place des systèmes de journalisation des opérations de consultation, création et modifications des données et recommande de réaliser un contrôle des traces régulier, afin de détecter les comportements anormaux et mésusages. 
+Sous réserve de l’effectivité de l’ensemble des éléments précités, la Commission considère que la sécurité du dispositif est assurée de façon adéquate, conformément aux prescriptions de l’article 34 de la loi du 6 janvier 1978 modifiée. La Commission rappelle toutefois que cette obligation nécessite la mise à jour des mesures de sécurité au regard de la réévaluation régulière des risques. 
+ 
+ 
+Autorise, conformément à la présente délibération, la Métropole Européenne de Lille à mettre en œuvre l’enquête triennale susmentionnée menée pour l’évaluation de son contrat de ville 2015-2020. 
+ 
+ 
+ 
+Pour la Présidente Le Vice-Président délégué 
+ 
+Marie-France MAZARS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nature de la délibération: Autorisation
+ 
+ 
+
+

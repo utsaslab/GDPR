@@ -1,0 +1,290 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 09/11/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+Décision n°MED-2018-042 du 30 octobre 2018 
+Décision n° MED 2018-042 du 30 octobre 2018 mettant en demeure la société VECTAURY 
+
+La Présidente de la Commission nationale de l’informatique et des libertés, 
+ 
+Vu la Convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ; 
+ 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, abrogée par le règlement (UE) 2016/679 du Parlement européen et du conseil du 27 avril 2016 relatif à la protection des données à caractère personnel et à la libre circulation de ces données ; 
+ 
+Vu le Code pénal ; 
+ 
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment son article 45 ; 
+ 
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ; 
+ 
+Vu la délibération n° 2013-175 du 4 juillet 2013 portant adoption du règlement intérieur de la Commission nationale de l’informatique et des libertés ; 
+ 
+Vu la décision n° 2018-022C du 30 mars 2018 de la Présidente de la Commission nationale de l’informatique et des libertés de charger le Secrétaire général de procéder ou de faire procéder à une mission de vérification auprès de la société VECTAURY; 
+ 
+Vu les procès-verbaux de contrôle n° 2018-022/1 du 19 avril 2018 et n° 2018-022/2 du 20 avril 2018 ; 
+ 
+Vu les autres pièces du dossier ; 
+ 
+ 
+ 
+La société vectaury (ci-après la société ), sise 33, rue Lafayette à Paris (75009) est une société par actions simplifiée spécialisée dans la programmation informatique et notamment l’édition et la vente d’outils informatiques. Elle emploie 56 salariés et a réalisé en 2017, un chiffre d’affaires d’environ 3,2 millions d’euros. 
+ 
+L’activité de la société VECTAURY est d’afficher des publicités pour le compte de ses clients annonceurs, sur les ordiphones de personnes dont le profil est déterminé à partir de leurs données de géolocalisation. La société a également pour activité de mesurer les visites des mobinautesdans les points de vente de ses clients. 
+ 
+Le 23 mai 2017, la société a effectué auprès de la Commission nationale de l’informatique et des libertés (ci-après CNIL ou la Commission ) un engagement de conformité à la norme simplifiée no 48 du 21 juin 2012 concernant les traitements automatisés de données à caractère personnel relatifs à la gestion de clients et de prospects (déclaration n° 2066435). 
+ 
+Elle a, en outre, désigné un délégué à la protection des données le 28 mars 2018. 
+En application de la décision no 2018-022C du 30 mars 2018 de la Présidente de la Commission, une délégation de la CNIL a procédé les 19 et 20 avril 2018 à des missions de contrôle sur place auprès de la société VECTAURY. Les missions ont notamment eu pour objet de vérifier la conformité à la loi no 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés (ci-après loi Informatique et Libertés ou loi du 6 janvier 1978 modifiée ) de l’ensemble des traitements de données à caractère personnel mis en œuvre par la société. 
+ 
+L’objectif de la société VECTAURY est d’établir le profil des mobinautes à partir de leurs habitudes de déplacements afin de leur proposer de la publicité ciblée. 
+ 
+Dans ce cadre, la société a conclu des contrats avec 5 sociétés partenaires qui éditent 19 applications mobiles largement diffusées (telles que […]). Elle a également déterminé des points d’intérêts (ci-après POIs ) qui correspondent à des coordonnées géographiques de lieux permettant de révéler un profil de consommateur, tels que des points de vente physiques. Par la suite, la société VECTAURY réalise des campagnes marketing à travers l’achat d’espaces publicitaires pour le compte de sociétés (essentiellement des enseignes de magasin telles que […] ou […]), via l’achat aux enchères d’espaces publicitaires en temps réel. 
+ 
+Afin de réaliser ce service, la société a indiqué, lors du contrôle, avoir développé un logiciel SDK , intégré par ses partenaires dans leurs applications mobiles et qui permet de collecter les données de géolocalisation ainsi que l’identifiant publicitaire mobile, le nom et la version de l’application mobile et le système d’exploitation utilisé (ANDROID ou IOS). Les données collectées grâce au SDK sont ensuite croisées avec les POIs déterminés avec les clients annonceurs de la société VECTAURY, ce qui permet de qualifier le profil de l’utilisateur pour le ciblage publicitaire souhaité. Ces données sont conservées par la société au sein de la base de données utilisant l’outil […] . 
+ 
+Dans un premier temps, le SDK est intégré dans le code des applications mobiles de ces sociétés partenaires de la société VECTAURY, tels que […] ou […] afin de collecter en arrière-plan et transférer à la société des données de fonctionnement des applications installées par les utilisateurs sur leurs ordiphones. 
+ 
+Dans un deuxième temps, les données de géolocalisation collectées grâce au SDK sont croisées avec les POIs déterminés par les partenaires de la société, ce qui permet d’établir le profil de l’utilisateur. 
+ 
+Dans un troisième temps, la société réalise des campagnes marketing à travers l’achat d’espaces publicitaires sur les plateformes de ventes aux enchères de publicités en temps réel, appelées également bid requests . 
+ 
+Le système des bid requests permet à des applications mobiles de trouver un annonceur pour afficher des publicités sur les espaces publicitaires qu’elle comprend. Pour ce faire, les applications font parvenir à des sociétés tierces des données de géolocalisation et l’identifiant publicitaire mobile de l’ordiphone où afficher la publicité. 
+ 
+Ces sociétés tierces (en l’espèce, […] et […]) font parvenir à VECTAURY (et à plusieurs sociétés similaires) des enchères afin que celle-ci achète l’espace et y diffuse les publicités de ses clients. 
+ 
+Afin que VECTAURY puisse estimer la valeur de l’espace publicitaire pour ses clients et placer une enchère, les sociétés […] et […] lui transmettent les diverses données qu’elles ont reçues de l’application où s’affichera la publicité. Ces données sont conservées par la société VECTAURY. Cette relation est régie par des contrats passés entre VECTAURY et les sociétés […] et […]. 
+ 
+Par ailleurs, la société VECTAURY a également pour activité la mesure des visites des mobinautes dans les points de vente physiques de ses partenaires. Les données collectées via le SDK et les bid requests permettent à la société de vérifier si chaque mobinaute ciblé par des publicités s’est rendu dans un point de vente physique. Cette activité lui permet de mesurer la performance de ses campagnes publicitaires. 
+ 
+Lors du contrôle des 19 et 20 avril 2018, la société a indiqué à la délégation que les données collectées via le SDK et les bid request sont mutualisées au sein d’une même base de données. 
+ 
+La délégation a constaté que la société conserve dans une même base de données 24 688 863 identifiants publicitaires récupérés à travers les bid requests auxquels la société a répondu et 42 934 160 identifiants distincts récupérés à travers les bid requests auxquels la société n’a pas répondu. Ces identifiants sont conservés dans un champ intitulé VUID, sous forme d’un hashtronqué. 
+ 
+En outre, la délégation a constaté qu’étaient présents en base 5 150 201 identifiants publicitaires récupérés via les SDK installés sur les applications mobiles de ses éditeurs partenaires. 
+ 
+Chacun de ces identifiants publicitaires est directement lié à l’ordiphone d’une personne ayant téléchargé une application mobile d’un des partenaires ou une application de laquelle émane une bid request . 
+Par ailleurs, la délégation a constaté, sur plusieurs applications mobiles contrôlées intégrant le SDK de la société VECTAURY que, lorsque l’utilisateur d’un ordiphone valide l’autorisation d’accès à ses données de géolocalisation pour le fonctionnement de l’application, ses données sont également transmises à la société VECTAURY sans qu’il en soit spécifiquement informé et sans que son consentement ne soit recueilli pour cette transmission. 
+ 
+La délégation a constaté que les données de géolocalisation des personnes collectées par le SDK sont conservées pendant douze mois à compter de la date de leur collecte. Il a également été constaté que les données collectées via les bid requests sont conservées douze mois. La société a précisé à la délégation que ces données sont conservées qu’elle ait répondu à l’enchère ou non. 
+ 
+À la suite de demandes formulées par la délégation à l’issue du contrôle, la société a apporté des éléments additionnels, par courriel du 1er juin 2018, concernant notamment l’information des mobinautes dans les conditions générales d’utilisation des applications mobiles et la mise en place d’un outil ( Consent Management Platform) visant à collecter la preuve du recueil du consentement des personnes. Elle a, en outre, fourni à la Commission, par courriel, des éléments complémentaires relatifs aux modalités de recueil du consentement des personnes, les derniers éléments ayant été reçus le 26 octobre 2018. 
+ 
+II- Sur la notion de responsable du traitement et de données à caractère personnel  
+ 
+Sur la qualité de responsable du traitement  
+ 
+Aux termes de l’article 3-I de la loi du 6 janvier 1978 modifiée le responsable d’un traitement de données à caractère personnel est, sauf désignation expresse par les dispositions législatives ou réglementaires relatives à ce traitement, la personne, l’autorité publique, le service ou l’organisme qui détermine ses finalités et ses moyens .  
+ 
+Au regard des constats effectués par la CNIL et des éléments communiqués postérieurement au contrôle, il apparaît que la société VECTAURY détermine dans une large mesure les finalités et les moyens des traitements mis en œuvre dans le cadre de l’utilisation du SDK et des dispositifs d’enchères de publicités en temps réel ( bid requests ). 
+ 
+En effet, il ressort des pièces transmises à la délégation que la société traite pour son propre compte les données à caractère personnel collectées via le SDK pour vendre des services d’analyse ou de profilage auprès de ses clients. 
+ 
+En outre, la délégation a été informée que les données des utilisateurs des différentes applications mobiles collectées sont enregistrées au sein de la même base de données, ce que la délégation a constaté. 
+ 
+Enfin, la société VECTAURY a indiqué à la délégation se considérer comme responsable de traitement. 
+ 
+La société VECTAURY doit, par conséquent, être regardée comme responsable du traitement mis en œuvre dans le cadre de l’utilisation du SDK. 
+ 
+Sur la collecte de données à caractère personnel  
+ 
+Aux termes de l’article 2 de la loi du 6 janvier 1978 modifiée constitue une donnée à caractère personnel toute information relative à une personne physique identifiée ou qui peut être identifiée, directement ou indirectement, par référence à un numéro d’identification ou à un ou plusieurs éléments qui lui sont propres. Pour déterminer si une personne est identifiable, il convient de considérer l’ensemble des moyens en vue de permettre son identification dont dispose ou auxquels peut avoir accès le responsable du traitement ou toute autre personne .  
+ 
+Constitue en outre un traitement de données à caractère personnel toute opération ou tout ensemble d’opérations portant sur de telles données, quel que soit le procédé utilisé, et notamment la collecte, l’enregistrement, l’organisation, la conservation, l’adaptation ou la modification, l’extraction, la consultation, l’utilisation, la communication par transmission, diffusion ou toute autre forme de mise à disposition, le rapprochement ou l’interconnexion, ainsi que le verrouillage, l’effacement ou la destruction .  
+La délégation a constaté que la société VECTAURY collecte, via le SDK installé au sein des applications mobiles et via les dispositifs automatisés d’achat de publicité en ligne ( bid requests ), l’identifiant publicitaire de l’ordiphone associé aux données de géolocalisation de la personne ainsi qu’à des données techniques relatives à l’ordiphone. 
+ 
+L’identifiant publicitaire est un identifiant unique généré par le système d’exploitation de l’ordiphone permettant d’identifier le terminal de l’utilisateur de façon stable dans le temps. Il est mis à disposition de l’ensemble des applications mobiles installées sur celui-ci et est également accessible aux différents SDK installés dans les applications mobiles. 
+ 
+Cet identifiant publicitaire est stocké de façon pérenne dans l’ordiphone de l’utilisateur et permet donc d’identifier l’utilisateur de façon indirecte. Il a vocation à identifier l’utilisateur afin de lui associer un profil publicitaire constitué à partir de ses données de géolocalisation. Il permet donc d’identifier l’utilisateur lors de son utilisation ultérieure d’autres applications mobiles sur son téléphone afin de lui associer son profil publicitaire et de lui afficher des publicités spécifiquement choisies en fonction de ses habitudes de déplacement. 
+ 
+Il en résulte que la société traite des données à caractère personnel en application de l’article 2 de la loi du 6 janvier 1978 modifiée. 
+III- Sur les manquements constatés au regard des dispositions de la loi du 6 janvier 1978  
+ 
+Un manquement à l’obligation de disposer d’une base légale pour la mise en œuvre du traitement  
+ 
+A. Concernant les données issues du SDK de la société VECTAURY  
+ 
+La délégation a été informée que la société procède à la collecte des données de géolocalisation des personnes à l’aide du SDK intégré dans des applications mobiles téléchargées par les mobinautes. Par la suite, les données de géolocalisation sont croisées avec les POIs afin de qualifier le profil des personnes et de procéder à des opérations de démarchage publicitaire auprès d’elles. 
+ 
+Or, une telle combinaison des données à caractère personnel des mobinautes, à des fins publicitaires, ne peut intervenir que si la société peut se prévaloir de l’une des conditions prévues à l’article 7 de la loi no 78-17 du 6 janvier 1978 modifiée, qui prévoit que : 
+ 
+Un traitement de données à caractère personnel doit avoir reçu le consentement de la personne concernée ou satisfaire à l’une des conditions suivantes :  
+1° Le respect d’une obligation légale incombant au responsable du traitement ;  
+2° La sauvegarde de la vie de la personne concernée ;  
+3° L’exécution d’une mission de service public dont est investi le responsable ou le destinataire du traitement ;  
+4° L’exécution, soit d’un contrat auquel la personne concernée est partie, soit de mesures précontractuelles prises à la demande de celle-ci ;  
+5° La réalisation de l’intérêt légitime poursuivi par le responsable du traitement ou par le destinataire, sous réserve de ne pas méconnaître l’intérêt ou les droits et libertés fondamentaux de la personne concernée.  
+ 
+Le traitement des données de géolocalisation aux fins de marketing ciblé est, selon son responsable la société VECTAURY, fondé sur le consentement des personnes concernées. Il ressort, en effet, des contrats passés entre la société et les éditeurs d’applications mobiles que le consentement des personnes concernées doit être recueilli. À cette fin, la société a indiqué à la délégation qu’elle propose aux éditeurs une interface d’information visant à recueillir le consentement des mobinautes. 
+ 
+Il ressort en outre des éléments fournis par la société à la Commission, notamment les 12 juin et 20 août 2018, que la société a adhéré à l’Interactive Advertising Bureau (IAB) et a développé, en partenariat avec cette association de professionnels du marché de la publicité sur internet, un outil destiné à uniformiser les modalités de recueil du consentement via les SDK. Les documents communiqués à la Commission le 26 octobre 2018 présentent la dernière version de cet outil élaboré par la société VECTAURY, dénommé Consent Management Provider (CMP). 
+ 
+Ces documents présentent le cheminement suivi par l’utilisateur d’une application ayant intégré le CMP proposé par la société. 
+ 
+Au lancement de l’application, l’éditeur informe l’utilisateur de la collecte de ses données par un texte ainsi rédigé : 
+ 
+Afin d’améliorer notre application et vous adresser du contenu et/ou des offres commerciales personnalisées, nos partenaires et nous-mêmes collectons vos données personnelles comme vos données de navigation ou votre position géographique. Cela nous permet également de vous offrir un accès gratuit à notre service et nous nous engageons à diffuser des publicités dont les formats sont non intrusifs.  
+ 
+En acceptant, vous consentez à ce que nos partenaires et nous-mêmes puissions collecter et traiter vos données personnelles à des fins d’analyse et de publicité.  
+ 
+Vous pouvez changer vos paramètres de confidentialité à tout moment depuis les réglages de l’application.  
+ 
+Un lien vers les politiques de confidentialité de l’application est proposé après ce texte. 
+ 
+L’utilisateur se voit ensuite proposer le choix entre J’accepte , Je refuse et J’affine mes préférences . Si l’utilisateur choisit la troisième possibilité et décide de personnaliser les paramètres, le principe de la collecte des données est accepté par défaut pour les différentes finalités identifiées. Il devra alors décocher les unes après les autres les cases correspondant aux différentes finalités pour pouvoir s’opposer au traitement de ses données. Il peut, par un clic supplémentaire, accéder à la liste de tous les responsables de traitement traitant ses données, dont VECTAURY, et peut s’opposer au traitement de ses données par responsable de traitement. 
+ 
+En vertu de l’article 2, point h) de la directive 95/46/CE du 24 octobre 1995, le consentement s’entend comme toute manifestation de volonté, libre, spécifique et informée par laquelle la personne concernée accepte que des données à caractère personnel la concernant fassent l’objet d’un traitement .  
+ 
+À cet égard, la notion de consentement, reprise dans le règlement général sur la protection des données, n’est pas moins exigeante dès lors qu’il est prévu que celui-ci doit être donné par un acte positif clair par lequel la personne concernée manifeste de façon libre, spécifique, éclairée et univoque son accord au traitement des données à caractère personnel la concernant .  
+ 
+Or, il ressort des contrôles et de l’analyse des pièces transmises à la Commission que le mécanisme proposé aux utilisateurs ayant téléchargé les applications des partenaires de la société ne permet pas aux utilisateurs de consentir valablement aux traitements opérés par cette dernière. 
+ 
+En premier lieu, le consentement doit être informé. 
+ 
+Le groupe de travail de l’article 29 ( G29 ), dans son avis 15/2011 du 13 juillet 2011 sur la définition du consentement, a indiqué que le consentement implique que toutes les informations nécessaires doivent être données au moment de la demande du consentement et que ces informations doivent couvrir tous les aspects de fond du traitement que le consentement est censé légitimer .  
+ 
+En outre, le G29 indique que les informations doivent être transmises dans un langage adapté permettant à la personne concernée de comprendre à quoi elle consent et quelles sont les finalités du traitement , et que l’information fournie aux utilisateurs doit être claire et suffisamment visible afin qu’elle ne puisse pas leur échapper. L’information doit être directement communiquée aux personnes concernées. Il ne suffit pas qu’elle soit simplement disponible quelque part . 
+ 
+En l’espèce, la délégation a constaté qu’au moment de l’installation de l’application […] contrôlée, les personnes ne sont pas informées de la collecte de leurs données de géolocalisation via le SDK à des fins de profilage des utilisateurs et de ciblage publicitaire. 
+Il ressort toutefois des dernières mises à jour communiquées aux services de la Commission que la société VECTAURY a élaboré un CMP devant être intégré aux applications par les éditeurs partenaires, dont les modalités ont été exposées précédemment. 
+ 
+À cet égard, il apparaît premièrement que le texte de présentation, directement communiqué à l’utilisateur à la première ouverture de l’application et repris in extenso plus haut, ne présente pas la clarté requise en ce qu’il ne permet pas aux personnes concernées de comprendre précisément à quoi elles consentent. 
+ 
+Le texte manque de transparence, en ce qu’il peut laisser croire à l’utilisateur que son refus que ses données soient collectées et traitées entraînera soit un modèle économique payant, soit une impossibilité d’utiliser l’application. Il peut également être amené à penser que le refus de la collecte de ses données rendra les publicités affichées plus intrusives ( Cela nous permet également de vous offrir un accès gratuit à notre service et nous nous engageons à diffuser des publicités dont les formats sont non intrusifs ). 
+ 
+Deuxièmement, les définitions apportées aux finalités présentées par la société VECTAURY sont rédigées en des termes peu clairs qui ne permettent pas à la personne de comprendre ce à quoi elle consent. 
+ 
+À titre d’exemple, la finalité de personnalisation mise en avant dans le CMP est définie comme collecte et traitement d’informations relatives à votre utilisation de ce service afin de vous adresser ultérieurement des publicités et/ou du contenu personnalisé dans d’autres contextes, par exemple sur d’autres sites ou applications. En général, le contenu du site ou de l’application est utilisé pour faire des déductions concernant vos intérêts, ce qui sera utile dans le cadre de sélections ultérieures de publicité et/ou de contenu . Cette définition s’avère peu compréhensible et ne saurait permettre l’expression d’un consentement éclairé. En effet, d’une part, elle est imprécise en ce qu’elle couvre un grand nombre de situations. D’autre part, sa rédaction, compte tenu de la complexité des termes utilisés, n’est pas adaptée au grand public objet des traitements réalisés. 
+ 
+Troisièmement, les personnes ne sont pas valablement informées de l’identité des sociétés par qui leurs données seront traitées et qui auront, de ce chef, la qualité de responsable du traitement. 
+ 
+Dans un avis 15/2011 du 13 juillet 2011, le G29 a considéré qu’une information relative à l’identité du responsable du traitement doit nécessairement être communiquée à l’utilisateur. Cet élément est en effet considéré par le G29 comme étant crucial à l’utilisateur pour opérer un choix. Le groupe de travail a également précisé que si le consentement sollicité servira de base à plusieurs responsables (conjoints) du traitement ou si les données seront transférées à, ou traitées par, d’autres responsables qui souhaitent se fonder sur le consentement original, ces organisations devraient toutes être nommées . 
+ 
+En l’espèce, l’information relative à l’identité des responsables des traitements n’est pas directement accessible aux personnes. Elle nécessite que l’utilisateur, à l’ouverture de l’application, fasse le choix d’affiner ses préférences, et fasse défiler son écran jusqu’à atteindre un lien intitulé Voir tous les partenaires . Un clic sur ce lien le renverra vers une page listant tous les partenaires de l’application, dont VECTAURY. 
+Cette présentation implique qu’à l’affichage de la première page, où figurent les boutons cliquables J’accepte , Je refuse et J’affine mes préférences , l’utilisateur n’est pas informé des destinataires de ses données, et que l’éventuel consentement qu’il donnerait en cliquant sur le bouton J’accepte ne serait pas un consentement informé. 
+ 
+Par conséquent, et même dans l’hypothèse où la nouvelle version du CMP serait déployée sur l’intégralité des applications au sein desquelles la société VECTAURY a installé son SDK, les personnes ne sont pas dûment informées de la collecte de leurs données de géolocalisation par la société VECTAURY, via l’installation d’un SDK, à des fins de publicité ciblée. 
+ 
+En deuxième lieu, le consentement doit être spécifique. 
+ 
+Dans un avis 15/2011 du 13 juillet 2011, le G29 a rappelé que pour être valable, le consentement doit être spécifique. En d’autres termes, un consentement général, sans préciser la finalité exacte du traitement, n’est pas acceptable. Pour être spécifique, le consentement doit être intelligible. Il doit mentionner, de façon claire et précise, l’étendue et les conséquences du traitement des données […] Le consentement doit être donné sur les différents aspects, clairement définis, du traitement. […] En effet, il ne saurait être considéré comme couvrant toutes les finalités légitimes poursuivies par le responsable du traitement .  
+ 
+La délégation a constaté à l’occasion du contrôle sur place que les personnes sont amenées à valider l’autorisation de collecter leurs données de géolocalisation uniquement pour l’utilisation de l’application mobile téléchargée. 
+ 
+À titre d’exemple, s’agissant de l’application mobile […], au moment de l’installation de celle-ci sur Android, il est demandé à la personne de donner son accord de la manière suivante Autoriser l’application […] à accéder à la position de l’appareil . S’agissant de l’application installée sur IOS, la fenêtre suivante s’affiche lors de l’installation : Autoriser […] à accéder à vos données de localisation (même lorsque vous n’utilisez pas l’app) pour vous informer des évènements autour de chez vous) .  
+ 
+La dernière version du CMP présentée par la société VECTAURY dans son envoi de pièces du 26 octobre 2018 vient affiner les modalités de recueil du consentement mais ne modifie pas l’absence de spécificité du consentement recueilli. 
+ 
+Il est en effet proposé à l’utilisateur, après une brève présentation reprise précédemment, de cliquer sur deux boutons J’accepte ou Je refuse . 
+ 
+Ces deux boutons initialement présentés à l’utilisateur ne permettent pas à celui-ci de consentir spécifiquement au traitement de ses données à caractère personnel en vue de l’affichage de publicités ciblées, ou en vue de l’élaboration d’un profil commercial à visée marketing. 
+ 
+Si une facilité d’utilisation peut être proposée par un bouton d’acceptation ou de refus global, cette fonctionnalité ne peut pas lui être présentée avant que les différentes finalités du traitement ne lui soient exposées, faute de quoi l’utilisateur donnerait un consentement global à plusieurs traitements qu’il ne connaît pas et pour lesquels un consentement spécifique n’a pas été sollicité. Par sa présentation même, la gestion globale du consentement (acceptation ou refus) doit indiquer l’existence de plusieurs traitements ou de plusieurs finalités. 
+Une acceptation globale, sans même que l’utilisateur ne soit clairement informé de l’existence de plusieurs traitements ou de plusieurs finalités, ne saurait répondre au critère de spécificité du consentement exigé par le G29. 
+ 
+Les utilisateurs des applications mobiles partenaires ne consentent donc pas spécifiquement au traitement de leurs données de géolocalisation à des fins de profilage et de ciblage publicitaire. 
+ 
+En dernier lieu, le consentement doit être exprimé par une action positive de l’utilisateur. 
+Le G29, dans son avis 15/2011 du 13 juillet 2011 précité, a indiqué qu’ un consentement fondé sur l’inaction ou le silence de la personne concernée, en particulier dans l’environnement en ligne, ne constitue pas un consentement valable. Cette question se pose, notamment, dans le cas de l’utilisation de paramètres par défaut que la personne concernée est tenue de modifier pour refuser le traitement.  
+ 
+Ainsi, lors de l’ouverture de l’application […], la fenêtre suivante informant les personnes est affichée : Lors de l’installation ou de l’utilisation de l’application mobile de […], vous pouvez être amené(e) à nous communiquer certaines de vos données. […], dans le cadre du Règlement Général sur la Protection des Données, tient à vous informer en toute transparence des traitements qui sont amenés à être effectués sur les données que nous récoltons […]. Vous pouvez ainsi cliquer sur Accepter pour continuer à bénéficier globalement des services proposés par […] ou cliquer sur personnaliser pour gérer vos préférences sur l’utilisation de l’application. Dans ce cas une explication vous sera donnée sur les différents usages que nous faisons des données recueillies. Au regard de la législation en vigueur, vous devez avoir 15 ans pour pouvoir accepter ou personnaliser vos préférences. Si vous n’avez pas 15 ans, nous vous demandons de vous rapprocher de vos parents ou d’une personne titulaire de l’autorité parentale à votre égard pour effectuer ce choix.  
+ 
+Les personnes doivent faire défiler l’intégralité du texte pour faire apparaître le lien cliquable Personnaliser , puis cliquer sur ce dernier pour avoir accès aux pages relatives à la confidentialité des données. Ainsi, après avoir cliqué sur l’onglet Régie publicitaire , une nouvelle fenêtre s’ouvre, les informant que nous [l’application] utilisons des fonctionnalités de ciblage proposées par nos partenaires, qui permettent de vous adresser des publicités ciblées, adaptées à vos centres d’intérêts, géoadaptées et des offres commerciales personnalisées en fonction de l’endroit où vous vous trouvez et de votre profil. Vos données collectées à ces fins sont transmises à nos partenaires . Enfin, les personnes peuvent cliquer sur l’onglet Personnalisation afin de désactiver l’autorisation par défaut de collecte de données de leurs données à des fins de publicité ciblée. 
+ 
+Si ce système récemment développé permet d’améliorer l’information de l’utilisateur, il ne saurait pour autant remplir les exigences relatives à la notion de consentement. 
+ 
+Le fait que l’ensemble des finalités de collecte soient pré-acceptées par défaut ne saurait aboutir à l’expression d’un consentement de la part de l’utilisateur. En effet, son action n’est requise que pour s’opposer au traitement par le fait de décocher les cases correspondant aux différentes finalités. 
+ 
+Il en va de même dans la dernière version du CMP présentée par la société VECTAURY dans les pièces communiquées le 26 octobre. 
+ 
+Dans cette nouvelle interface, l’utilisateur qui décide d’affiner ses préférences se voit informer des cinq finalités présentées par l’éditeur de l’application ( conservation et accès aux informations , personnalisation , sélection, diffusion et signalement de publicités , sélection, diffusion et signalement de contenu et évaluation ). 
+ 
+L’ensemble de ces finalités sont pré-acceptées par défaut. 
+ 
+Il résulte de tout ce qui précède que le consentement des personnes n’est pas valablement recueilli, et que les données jusqu’ici détenues et traitées par la société VECTAURY le sont sans base légale. 
+ 
+B. Concernant les données issues des bid requests reçues par VECTAURY  
+ 
+La délégation a été informée que la société VECTAURY est destinataire de données à caractère personnel, notamment des données de géolocalisation et des identifiants publicitaires d’ordiphones, par le biais d’enchères en temps réel ( bid requests ) auxquelles elle décide, ou non, de donner suite. 
+ 
+Ces données sont collectées, à l’origine, dans des applications sans lien contractuel avec VECTAURY, soit par un code directement intégré par l’éditeur dans l’application, soit par le SDK d’une autre société. Ces données sont transmises, pendant la procédure d’enchère, à divers intermédiaires avant de parvenir aux sociétés […] ou […], puis d’être envoyées à VECTAURY par ces dernières. 
+ 
+La société conserve et traite ultérieurement ces données personnelles qu’elle ait ou non enchéri sur l’enchère en question, puis qu’elle ait ou non remporté ladite enchère. 
+ 
+Dans un premier temps, ces données sont traitées afin d’analyser, par un procédé informatique automatique et quasiment instantané, l’opportunité de répondre à l’offre d’enchère proposée. 
+ 
+Après que l’offre d’enchère a été acceptée ou refusée par la société VECTAURY, et après que cette enchère a été gagnée ou perdue, les données sont conservées et à nouveau traitées pour analyser la conversion physique des campagnes publicitaires mobiles, cibler des campagnes de prospection et améliorer les profils des personnes concernées déjà présentes dans les bases de données de la société. 
+ 
+Les deux finalités pour lesquelles les données sont transmises à VECTAURY sont donc la passation d’une enchère d’une part, et la définition d’un profil commercial des individus d’autre part. 
+ 
+Pour autant, les opérations de collecte et de traitement de ces données à caractère personnel ne sont autorisées que si elles répondent aux exigences prévues à l’article 7 de la loi no 78-17 du 6 janvier 1978 modifiée, qui prévoit que : 
+ 
+Un traitement de données à caractère personnel doit avoir reçu le consentement de la personne concernée ou satisfaire à l’une des conditions suivantes :  
+1° Le respect d’une obligation légale incombant au responsable du traitement ;  
+2° La sauvegarde de la vie de la personne concernée ;  
+3° L’exécution d’une mission de service public dont est investi le responsable ou le destinataire du traitement ;  
+4° L’exécution, soit d’un contrat auquel la personne concernée est partie, soit de mesures précontractuelles prises à la demande de celle-ci ;  
+5° La réalisation de l’intérêt légitime poursuivi par le responsable du traitement ou par le destinataire, sous réserve de ne pas méconnaître l’intérêt ou les droits et libertés fondamentaux de la personne concernée.  
+ 
+La société VECTAURY met en avant le consentement donné par les utilisateurs pour mettre en œuvre le traitement des données à caractère personnel, notamment de géolocalisation, contenues dans les offres d’enchère en temps réel. 
+ 
+Comme indiqué précédemment, il ressort des pièces communiquées le 12 juin 2018 par la société VECTAURY que cette dernière s’est enregistrée auprès de l’IAB, association de professionnels du marché de la publicité sur internet. 
+ 
+Dans le cadre de son activité de groupe de pression, l’association a élaboré une liste de finalités spécifiques à l’activité publicitaire sur internet. Ces finalités sont les suivantes : 
+ 
+le stockage et accès à l’information ;
+ 
+la personnalisation ;
+ 
+la sélection des publicités, diffusion, compte-rendu ;
+ 
+la sélection du contenu, diffusion, compte-rendu ;
+la mesure.
+La conservation et le traitement des données de géolocalisation issues des offres d’enchère en temps réel à des fins de profilage apparaissent être visés par la seconde finalité de la liste de l’IAB, laquelle est définie comme la collecte et le traitement d’informations relatives à l’utilisation du service par l’utilisateur afin de personnaliser ultérieurement la publicité et/ou le contenu pour lui dans d’autres contextes, tels que sur d’autres sites web ou applications, sur un temps long. Généralement, le contenu du site ou de l’application est utilisé pour faire des déductions sur les intérêts de l’utilisateur qui éclairent le choix futur de la publicité et/ou du contenu . 
+ 
+Le traitement de ces données en vue de la réponse immédiate à une offre d’enchère apparaît correspondre à la troisième finalité définie par l’IAB, définie comme la collecte d’informations, et leur combinaison avec des informations précédemment collectées, pour sélectionner et diffuser des publicités pour l’utilisateur et pour mesurer la diffusion et l’efficacité de ces publicités. Cela comprend l’utilisation d’informations collectées précédemment sur les centres d’intérêt de l’utilisateur pour sélectionner des annonces, le traitement des données sur les annonces qui ont été diffusées, leur fréquence, quand et où elles ont été diffusées, et si l’utilisateur a pris des mesures liées à l’annonce, comme cliquer sur une annonce ou faire un achat. Ceci n’inclut pas la Personnalisation . 
+ 
+Afin de garantir le caractère spécifique et informé du consentement recueilli au bénéfice des partenaires, il appartient à la société dont émane l’offre d’enchère et qui collecte les données de mettre à disposition des mobinautes une information sur les destinataires de ces données. Cette information doit prendre la forme d’une communication directement à la collecte des données éventuellement par le biais d’un lien hypertexte renvoyant à cette liste. 
+ 
+Or, des enchères en temps réel sont communiquées, par les applications concernées, à plusieurs séries d’intermédiaire avant d’être prises en charge et traitées par les sociétés concernées (telles que VECTAURY) sans que les personnes dont les données sont traitées n’en soient informées, et sans qu’elles aient donné leur consentement à un tel traitement. 
+ 
+En effet, l’analyse des pièces issues du contrôle réalisé au sein des locaux de la société VECTAURY montre notamment que celle-ci a reçu et conservé les données issues de 144 offres d’enchère en temps réel issues de l’application […]. Les vérifications conduites à cette occasion sur l’application […] démontrent que les mobinautes ne sont pas valablement informés, et n’ont pas valablement consenti à la collecte et au traitement de leurs données à caractère personnel à des fins publicitaires. 
+ 
+La société a indiqué dernièrement, dans les pièces communiquées à la Commission le 26 octobre 2018, que dans des avenants aux contrats signés par […] (le 10 août 2018) et […], il est stipulé que les SSP sont dans l’obligation d’une part, d’obtenir le consentement des utilisateurs pour les finalités des traitements réalisés par VECTAURY et, d’autre part, de fournir la chaîne de consentement à VECTAURY pour chaque utilisateur par finalité . 
+ 
+Sur ce point, conformément aux dispositions de l’article 7 du RGPD, dans les cas où le traitement repose sur le consentement, le responsable du traitement est en mesure de démontrer que la personne concernée a donné son consentement au traitement de données à caractère personnel la concernant . 
+ 
+L’obligation imposée par l’article 7 précité ne saurait être remplie par la seule présence d’une clause contractuelle garantissant un consentement initial valablement collecté. La société VECTAURY doit être en mesure de démontrer, pour la totalité des données qu’elle traite aujourd’hui, la validité du consentement exprimé. 
+ 
+Force est de constater que la société VECTAURY n’est aujourd’hui pas en mesure de démontrer que les données collectées par le biais des offres d’enchères en temps réel font, actuellement, systématiquement l’objet d’un consentement informé, libre, spécifique et activement manifesté. 
+Pour cette raison, le défaut de caractère éclairé du consentement prive de la base légale du consentement les traitements effectués par la société VECTAURY dans le cadre des enchères en temps réel qu’elle reçoit.  
+Les faits précités sont donc constitutifs d’un manquement aux dispositions de l’article 7 de la loi du 6 janvier 1978 modifiée. 
+En conséquence, la société VECTAURY, sise 33, rue la Fayette à Paris (75009) est mise en demeure sous un délai de trois (3) mois à compter de la notification de la présente décision et sous réserve des mesures qu’elle aurait déjà pu adopter, de :  
+ 
+ne pas procéder sans base légale au traitement des données de géolocalisation des personnes à des fins de ciblage publicitaire, en particulier recueillir, de manière effective, le consentement préalable, dans des conditions conformes aux dispositions des articles 6 et 7 du RGPD, des utilisateurs des applications éditées par les partenaires de la société VECTAURY comme celles des utilisateurs des applications dont proviennent des offres d’enchère en temps réel, au traitement de leurs données par cette dernière ; 
+ 
+procéder à la purge des données obtenues sans consentement informé, spécifique et activement manifesté ; 
+justifier auprès de la CNIL que l’ensemble des demandes précitées a bien été respecté, et ce dans le délai imparti. 
+ 
+À l’issue de ce délai, si la société VECTAURY s’est conformée à la présente mise en demeure, il sera considéré que la présente procédure est close et un courrier lui sera adressé en ce sens.  
+ 
+À l’inverse, si la société VECTAURY ne s’est pas conformée à la présente mise en demeure, un rapporteur sera désigné qui pourra demander à la formation restreinte de prononcer l’une des sanctions prévues par l’article 45 de la loi du 6 janvier 1978 modifiée.  
+ 
+ 
+ 
+ 
+ 
+La Présidente 
+ 
+ 
+ 
+ 
+Isabelle FALQUE-PIERROTIN 
+Personne qui navigue sur Internet à partir d’un appareil mobile. 
+Kit de développement logiciel. 
+Hashage avec l’algorithme SHA256 et adjonction d’un sel. 
+Une C finalité C est une utilisation de données qui conduit à un modèle d’affaires spécifique et produit des résultats spécifiques pour les utilisateurs et les entreprises. Les finalités doivent être détaillées au point de collecte, soit individuellement, soit en combinaison. Traduction libre, IAB Europe Transparency & Consent Framework Policies, appendix A. 
+
+

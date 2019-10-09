@@ -7,6 +7,7 @@ from .dpa.czech_republic import CzechRepublic
 from .dpa.denmark import Denmark
 from .dpa.estonia import Estonia
 from .dpa.finland import Finland
+from .dpa.france import France
 from .dpa.united_kingdom import UnitedKingdom
 
 class EUMember(object):
@@ -19,6 +20,7 @@ class EUMember(object):
     DENMARK        = 'DK'
     ESTONIA        = 'EE'
     FINLAND        = 'FI'
+    FRANCE         = 'FR'
     UNITED_KINGDOM = 'GB'
 
 class GDPR(object): # acts as a mediator/facade pattern :: find su:ku slides.
@@ -44,5 +46,7 @@ class GDPR(object): # acts as a mediator/facade pattern :: find su:ku slides.
             return Estonia()
         elif iso_code == GDPR.EU_MEMBER.FINLAND:
             return Finland()
+        elif iso_code == GDPR.EU_MEMBER.FRANCE:
+            return France()
         elif iso_code == GDPR.EU_MEMBER.UNITED_KINGDOM:
             return UnitedKingdom()

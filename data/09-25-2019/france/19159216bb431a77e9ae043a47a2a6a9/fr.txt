@@ -1,0 +1,121 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 25/05/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+Délibération n°2018-021 du 25 janvier 2018 
+Délibération n° 2018-021 du 25 janvier 2018 portant avis sur un projet de décret portant création d’un traitement de données à caractère personnel dénommé « gestion électronique des demandes d’arrestation provisoire en vue d’extradition - Interpol » (GERRPOL) (demande d’avis n° 2118105) 
+NOR: CNIX1813993X
+
+La Commission nationale de l’informatique et des libertés,
+ 
+Saisie par le ministre de l’intérieur d’une demande d’avis concernant un projet de décret portant création d’un traitement de données à caractère personnel dénommé gestion électronique des demandes d’arrestation provisoire en vue d’extradition - Interpol (GERRPOL) ;
+ 
+Vu la convention européenne d’extradition du 13 décembre 1957, notamment son article 16 ;
+ 
+Vu le règlement d’INTERPOL sur le traitement des données ;
+ 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ;
+ 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+ 
+Vu la modifiée relative à l’informatique, aux fichiers et aux libertés, notamment son article 26-II ;
+ 
+Vu le modifié pris pour l’application de la relative à l’informatique, aux fichiers et aux libertés ;
+ 
+Vu le modifié relatif au fichier des personnes recherchées ;
+ 
+Sur la proposition de M. Jean-François CARREZ, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement,
+ 
+Emet l’avis suivant :
+ 
+La commission a été saisie par le ministre de l’intérieur d’une demande d’avis relative à un projet de décret portant création d’un traitement automatisé de données à caractère personnel dénommé gestion électronique des demandes d’arrestation provisoire en vue d’extradition- Interpol (GERRPOL).
+ 
+Le traitement projeté doit permettre de gérer les demandes d’arrestation provisoire en vue d’extradition émises ou reçues par les autorités judiciaires françaises dans le cadre de la coopération policière internationale entre les Etats membres de l’organisation internationale INTERPOL. Ce traitement doit notamment comporter des données sensibles mentionnées au I de l’article 8 de la loi du 6 janvier 1978 modifiée. Il relève dès lors de l’article 26-II de la loi du 6 janvier 1978 modifiée et doit être autorisé par décret en Conseil d’Etat, pris après avis motivé et publié de la commission.
+ 
+Sur les finalités du traitement :
+ 
+Aux termes de l’article 1er du projet de décret soumis à la commission, le traitement, qui doit être mis en œuvre par la direction générale de la police nationale (DGPN) du ministère de l’intérieur, a pour finalité : de traiter les demandes d’arrestation provisoire en vue d’une extradition émises et reçues par les autorités judiciaires françaises et diffusées par la voie de l’Organisation internationale de police criminelle INTERPOL .
+ 
+L’ensemble des informations et requêtes échangées entre les 196 Etats membres et avec le Secrétariat général de l’Organisation internationale de police criminelle INTERPOL doivent transiter, conformément aux préconisations de l’Organisation, par un Bureau central national (BCN) qui a été institué, en France, au sein des services de la Direction centrale de la police judiciaire (DCPJ). C’est plus précisément la section centrale de coopération opérationnelle de police (SCCOPOL) de la division des relations internationales (DRI) de cette direction qui gère les demandes d’arrestation provisoire en vue d’extradition (ARP) diffusées par le biais du canal INTERPOL.
+ 
+Dans un contexte marqué par l’intensification des échanges internationaux en matière de coopération policière, le projet soumis à la commission vise à faciliter cette gestion. Le système automatisé GERRPOL doit en effet permettre de réunir dans un même traitement l’ensemble des demandes d’arrestation provisoire actives diffusées par le biais du canal INTERPOL, que ces demandes aient été émises ou reçues par les autorités françaises, et de récupérer de manière automatique, grâce à une mise en relation avec le portail I-Link d’INTERPOL, les données contenues dans les ARP inscrites sur le réseau sécurisé de l’Organisation.
+ 
+La commission prend acte que la mise en œuvre de ce système doit simplifier les échanges d’informations nécessaires entre les différentes autorités judiciaires et administratives compétentes en matière de traitement des ARP et des demandes associées. Ainsi, le traitement comportera notamment une fonctionnalité permettant de générer un formulaire de demande d’inscription au fichier des personnes recherchées (FPR), autorisé par le décret n° 2016-569 du 28 mai 2010 susvisé, en récupérant directement les éléments d’information déjà enregistrés dans la base GERRPOL. Le formulaire pourra ensuite être joint au courriel envoyé depuis la boîte fonctionnelle de l’unité des extraditions de la DRI vers la boîte fonctionnelle du gestionnaire du FPR, à savoir la division nationale de la documentation criminelle et de la coordination de la police technique.
+ 
+La commission prend également acte que la mise en œuvre du système automatisé GERRPOL doit permettre d’assurer un meilleur suivi opérationnel et statistique des ARP et améliorer la traçabilité et la mise à jour des données contenues dans ces demandes, ce qui apparaît d’autant plus nécessaire que les données traitées sont particulièrement sensibles.
+ 
+Dans ces conditions, la commission considère que les finalités poursuivies par le traitement sont déterminées, explicites et légitimes, conformément à l’article 6-2° de la loi du 6 janvier 1978 modifiée.
+ 
+Sur les données traitées et leur durée de conservation :
+ 
+L’article 2 du projet de décret prévoit la collecte de données relatives : 
+ 
+- aux personnes faisant l’objet de l’ARP (nom, prénoms, alias, filiation, date et lieu de naissance, sexe, photographie, description physique, dangerosité, numéro et nature du document d’identité) ;
+ 
+- aux faits à l’origine de cette demande (date et exposé des faits, nature de l’infraction pour laquelle la demande est formulée) ;
+ 
+- à la demande d’arrestation (références du dossier Interpol, autorité judiciaire requérante, zone de diffusion, nature de la demande, date du mandat d’arrêt et de la demande d’arrestation provisoire, date d’interpellation si elle a eu lieu…) ;
+ 
+- et à l’inscription de la personne dans le FPR (date de demande d’inscription, numéro de dossier attribué par ce traitement, date de demande de modification du signalement, date de demande de radiation du signalement). 
+ 
+Le projet précise que pourraient figurer parmi les données relatives aux personnes faisant l’objet de l’ARP, qui seront exclusivement fournies par le pays demandeur et contenues dans l’ARP, des données relatives à la santé des personnes. La commission prend toutefois acte que de telles données, qui relèvent du I de l’article 8 de la loi du 6 janvier 1978 modifiée, ne seront collectées que dans la stricte mesure où elles seraient nécessaires pour évaluer la dangerosité des personnes et qu’il sera impossible de procéder à des recherches dans la base de données à partir de ces seules données.
+ 
+La commission prend également acte que le traitement ne comportera pas de dispositif de reconnaissance faciale à partir des photographies collectées.
+ 
+Elle relève toutefois que le projet de décret prévoit la collecte de renseignements complémentaires liés à l’ARP afin de couvrir l’ensemble des informations susceptibles d’être renseignées dans le cadre d’un champ libre. La commission prend acte, d’une part, que le ministère ne vise, par cette expression, que deux catégories de données, à savoir l’existence d’un lien avec un autre dossier et les références d’un document d’identité, et, d’autre part, qu’une doctrine d’emploi sera diffusée aux utilisateurs pour encadrer l’utilisation des champs libres. Elle estime toutefois que le recours à l’expression renseignements complémentaires , qui ne permet pas d’encadrer la collecte de données, demeure inapproprié et souligne, au regard des précisions apportées par le ministère, que cette expression devrait être remplacée par les deux seules catégories de données dont la collecte est envisagée dans le cadre des champs libres.
+ 
+Sous cette réserve, les catégories de données prévues par le projet de décret apparaissent adéquates, pertinentes et non excessives au regard des finalités pour lesquelles elles sont collectées, conformément à l’article 6-3° de la loi du 6 janvier 1978 modifiée.
+ 
+S’agissant de la durée de conservation des données, l’article 5 du projet de décret prévoit que les données sont conservées pendant une durée maximale de 5 ans après leur enregistrement, qui correspond à la durée initiale définie pour les bases de données de l’Organisation INTERPOL par l’article 49 du règlement d’INTERPOL sur le traitement de données susvisé. Si le projet de décret prévoit que cette durée peut être prorogée pour une nouvelle durée de 5 ans, la commission prend acte qu’une telle prorogation est conditionnée par l’intervention d’une décision judiciaire expresse de renouvellement du mandat d’arrêt européen ou international à l’origine de l’ARP.
+ 
+La commission prend également acte que les données seront systématiquement effacées dès que la personne recherchée aura été remise à l’autorité requérante ou à compter de la constatation officielle de son décès.
+ 
+Dans ces conditions, la commission considère que les durées de conservation des données prévues par le projet de décret ne sont pas excessives au regard des finalités pour lesquelles elles sont collectées et traitées, conformément à l’article 6-5° de la loi du 6 janvier 1978 modifiée.
+ 
+Sur les destinataires du traitement :
+ 
+Le projet de décret distingue les agents ayant accès aux données et informations enregistrées dans le traitement des personnes qui peuvent être destinataires de ces mêmes données et informations.
+ 
+Il prévoit que seuls ont accès au traitement les agents de la police nationale, les militaires de la gendarmerie nationale et les agents des douanes affectés au sein des services et unités de la SCCOPOL (DRI-DCPJ). Compte tenu des missions particulières de la SCCOPOL en matière de gestion des ARP, l’accès au traitement GERRPOL de ses agents, qui devront être individuellement désignés et habilités par leur chef de service et ne pourront consulter le traitement que dans la limite du besoin d’en connaître pour l’exercice de leurs attributions, apparaît justifié à la commission.
+ 
+Concernant les personnes pouvant être destinataires de données et informations issues du traitement, le projet de décret mentionne d’abord les agents relevant de la division nationale de la documentation criminelle et de la coordination de la police technique de la DCPJ. La commission prend acte que la communication d’informations à ces agents, en charge de la mise à jour du FPR, n’interviendra que dans la mesure où elle est nécessaire à l’inscription d’une personne recherchée, à la mise à jour des données la concernant ou à la suppression de ces dernières.
+ 
+Le projet de décret prévoit également que des données et informations issues du traitement pourraient être communiquées à des agents de la police nationale, des militaires de la gendarmerie nationale et des agents des douanes qui ont procédé à l’interpellation de la personne faisant l’objet de l’ARP. Le ministère a précisé que cette communication, qui interviendrait à la demande de l’agent interpellateur, ne concernerait que la photographie enregistrée dans GERRPOL et ne viserait qu’à confirmer l’identité de la personne interpellée. La commission prend acte que l’autorisation d’une telle communication est nécessaire dans la mesure où les photographies enregistrées dans GERRPOL pourraient être plus actuelles que celles enregistrées dans le FPR, en raison des délais de mise à jour de ce dernier traitement.
+ 
+Si aucun autre destinataire n’est mentionné par le projet de décret, la commission relève que le dossier qui lui a été soumis évoque la nécessaire transmission d’informations au Bureau de l’entraide pénale internationale du ministère de la justice et aux autorités judiciaires françaises et que la rédaction des finalités mêmes du projet de traitement fait référence aux ARP reçues par les autorités judiciaires françaises . Elle prend toutefois acte qu’aucune donnée extraite de GERRPOL ne sera transmise aux autorités judiciaires, ces dernières étant directement destinataires d’informations issues des bases de données mises en œuvre par l’organisation INTERPOL, indépendamment des enregistrements effectués dans GERRPOL.
+ 
+Sur l’information et les droits des personnes concernées :
+ 
+Le projet de décret prévoit que l’obligation d’information prévue à l’article 32 de la loi du 6 janvier 1978 modifiée, de même que le droit d’opposition prévu à l’article 38 de la même loi ne s’appliquent pas au traitement, ce qui n’appelle pas d’observation de la part de la commission.
+ 
+I1 en va de même des dispositions prévoyant que le droit d’accès s’exerce de manière indirecte auprès de la Commission nationale de l’informatique et des libertés, dans les conditions prévues à l’article 41 de la loi du 6 janvier 1978 modifiée.
+ 
+Sur les mesures de sécurité du traitement :
+ 
+Le traitement GERRPOL est hébergé dans les locaux informatiques du ministère et mis en œuvre sur le réseau interministériel d’Etat (RIE), lesquels disposent de mesures de sécurité de nature à limiter les risques d’intrusion.
+ 
+Les échanges avec le portail d’Interpol sont sécurisés au moyen des protocoles SOAP/SSL, ce qui garantit la confidentialité des informations.
+ 
+S’agissant de l’authentification des utilisateurs, la commission rappelle dans sa portant adoption d’une recommandation relative aux mots de passe mise à jour le 22 juin 2017 qu’une mesure de restriction de l’accès au compte doit être mise en œuvre.
+ 
+Le traitement prévoit des moyens de sauvegarde et de traçabilité.
+ 
+Sous réserve des précédentes observations, la commission considère que les mesures prévues par le responsable de traitement sont conformes à l’exigence de sécurité prévue par l’article 34 de la loi du 6 janvier 1978 modifiée. Elle rappelle toutefois que le respect de cette exigence nécessite la mise à jour des mesures de sécurité au regard de la réévaluation régulière des risques. 
+ 
+Pour la présidente :
+ 
+ 
+Le vice-président délégué,
+ 
+ 
+M.-F. Mazars 
+ 
+ 
+Nature de la délibération: AVIS
+ 
+ 
+
+

@@ -1,0 +1,62 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 23/06/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+Délibération n°2018-134 du 12 avril 2018 
+Délibération n° 2018-134 du 12 avril 2018 portant homologation de conditions de mise à disposition de l’échantillon généraliste des bénéficiaires (EGB) et des bases de données thématiques appelées « datamarts » du Système National d’Information Inter Régimes de l’Assurance Maladie (SNIIRAM) 
+
+La Commission nationale de l’informatique et des libertés, 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ; 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ; 
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment son article 54-V ; 
+Vu la loi n° 2016-41 du 26 janvier 2016 de modernisation de notre système de santé, notamment son article 193 ; 
+Vu la loi n°98-1194 du 23 décembre 1998 de financement de la sécurité sociale (CSS), créant le Système national d’information inter-régimes de l’Assurance maladie (SNIIRAM) ; 
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ; 
+Vu le décret n° 2016-1871 du 26 décembre 2016 relatif au traitement de données à caractère personnel dénommé système national des données de santé ; 
+Vu l’arrêté du 22 mars 2017 relatif au référentiel de sécurité applicable au Système National des Données de Santé (SNDS) ; 
+Vu l’arrêté du 19 juillet 2013 modifié relatif à la mise en œuvre du Système national d’information interrégimes de l’assurance maladie ; 
+Vu la saisine de l’Institut National des Données de Santé en date du 20 décembre 2017 pour homologation d’une procédure simplifiée en application de l’article 54-V de la loi informatique et libertés ; 
+Vu l’avis du Comité d’Expertise pour les Recherches, les Études et les Évaluations dans le domaine de la Santé (CEREES) en date du 14 décembre 2017 ; 
+Après avoir entendu Mme. Marie-France MAZARS, commissaire, en son rapport, et Mme Nacima BELKACEM, commissaire du Gouvernement, en ses observations, 
+ 
+Formule les observations suivantes :  
+La Commission a été saisie le 21 décembre 2017 par l’Institut National des Données de Santé (INDS) d’une demande d’homologation de conditions de mise à disposition de l’échantillon généraliste des bénéficiaires (ci-après EGB) du Système national d’information inter-régimes de l’Assurance maladie (SNIIRAM), composante du Système National des Données de Santé (SNDS).  
+L’EGB du SNIIRAM est un échantillon constitué par la Caisse nationale de l’assurance maladie (CNAM) qui concerne 1/97ème de la population couverte par l’Assurance maladie en France. L’EGB contient des informations sur les caractéristiques sociodémographiques et médicales des bénéficiaires et les prestations de soins qu’ils ont reçues. L’utilisation de cet échantillon permet notamment de mieux connaître et comprendre le recours aux soins, les trajectoires de soins et les dépenses de santé des assurés sur une période. 
+Sont également constituées à partir du SNIIRAM des bases de données thématiques de données agrégées appelées datamarts orientés vers le suivi des dépenses (Damir) ou l’analyse de l’offre de soins (Amos) ainsi que des tableaux de bord sur la biologie et la pharmacie. Ces jeux de données sont inclus dans le champ d’application de la présente homologation. 
+Dans le cadre des traitements de données à caractère personnel à des fins de recherche, d’étude ou d’évaluation dans le domaine de la santé, conformément à l’article 54-V de la loi informatique et libertés , des jeux de données agrégées ou des échantillons peuvent faire l’objet d’une mise à disposition dans des conditions préalablement homologuées par la Commission, sans que l’autorisation prévue à l’article 54-I de la loi précitée ne soit requise. 
+Le SNIIRAM étant une composante du système national des données de santé (SNDS), la Commission rappelle, à titre liminaire, que l’ensemble des dispositions législatives et réglementaires relatives au SNDS sont applicables aux traitements de données issues de l’EGB et, en particulier : 
+l’interdiction d’utiliser les données du SNDS pour les finalités décrites à l’article L.1461-1 V du code de la santé publique (finalités interdites) ;
+l’obligation pour les personnes visées à l’article L.1461-3 II du code de la santé publique de confier le traitement des données à un bureau d’études ou laboratoire de recherche ayant réalisé un engagement de conformité au référentiel incluant les critères de confidentialité, d’expertise et d’indépendance, fixé par l’arrêté du 17 juillet 2017 ou de démontrer que les modalités de mise en œuvre du traitement rendent impossible toute utilisation des données pour l’une des finalités interdites ;
+le respect du référentiel de sécurité applicable au SNDS, fixé par l’arrêté du 22 mars 2017 ;
+le principe de transparence prévu à l’article L.1461-3, II du code de la santé publique : transmission du protocole, de la déclaration des intérêts et des résultats auprès de l’INDS.
+Conformément aux dispositions législatives et réglementaires applicables, les données concernées étant des données de santé à caractère personnel, non directement identifiantes, recueillies à titre obligatoire et destinées aux services ou aux établissements de l’État, l’information des personnes concernées, quant à la réutilisation possible de leurs données et aux modalités d’exercice de leurs droits, est assurée par une mention figurant sur le site internet des établissements de santé ou médico-sociaux, des organismes d’assurance maladie ainsi que sur des supports permettant de la porter à la connaissance des personnes, notamment des affiches dans les locaux ouverts au public ou des documents qui leur sont remis. Conformément à l’article R. 1461-9 du code de la santé publique, les droits d’accès, de rectification et d’opposition s’exercent selon les conditions définies aux articles 92 à 95 du décret n°2005-1309 du 20 octobre 2005 modifié, auprès du directeur de l’organisme gestionnaire du régime d’assurance maladie obligatoire auquel la personne concernée est rattachée. 
+Décide :  
+Les conditions de mise à disposition des données à caractère personnel issues de l’EGB du SNDS sont homologuées par la Commission comme suit : 
+Traitements susceptibles d’être examinés uniquement par l’INDS  
+Les conditions d’accès homologuées par la présente délibération s’appliquent aux traitements mis en œuvre à des fins de recherche, d’étude ou d’évaluations dans le domaine de la santé, présentant un caractère d’intérêt public, et pour la réalisation desquels seul un accès à l’EGB et/ou aux datamarts et tableaux de bord du SNIIRAM est nécessaire. 
+Sont susceptibles de bénéficier d’une approbation unique de l’INDS les traitements qui respectent les conditions cumulatives suivantes : 
+le traitement est réalisé au sein du portail sécurisé de la CNAM et ne prévoit pas la constitution d’un système fils du SNDS tel que défini à l’arrêté du 22 mars 2017 précité ;
+aucun croisement de plusieurs identifiants potentiels, tels que définis par le décret n°2016-1871 du 26 décembre 2016 relatif au traitement de données à caractère personnel dénommé système national des données de santé , n’est réalisé ;
+la durée d’accès au portail n’excède pas 24 mois.
+Examen par l’INDS  
+L’INDS se prononce au regard des éléments suivants : 
+la finalité d’intérêt public de la recherche, de l’étude ou de l’évaluation dans le domaine de la santé ;
+la justification apportée par le responsable de traitement pour démontrer la pertinence scientifique du projet ;
+la durée de l’accès au portail pour le traitement envisagé qui doit être limitée à la durée nécessaire à la réalisation de la recherche, l’étude ou l’évaluation ;
+le respect des exigences législatives applicables au SNDS et notamment l’engagement du responsable de traitement sur le respect du paragraphe 5 : Accès aux données du référentiel de sécurité précité applicable au SNDS.
+Procédure d’accès  
+La demande d’accès est adressée directement à l’Institut national des données de santé (INDS) dans les mêmes conditions que celles prévues pour la transmission du dossier de demande d’autorisation de recherche, étude ou évaluation dans le domaine de la santé prévu à l’article 54 II de la loi. 
+L’INDS notifie sa décision au demandeur dans un délai de 15 jours ouvrés, à compter de la réception d’un dossier complet. Sans réponse de la part de l’INDS au terme du délai de 15 jours ouvrés, la décision est réputée favorable. 
+L’INDS peut contacter le demandeur pour tout complément d’information si nécessaire. Le délai d’approbation est suspendu dans l’attente des éléments complémentaires. 
+Dans le cas où l’INDS ne s’estime pas en mesure de se prononcer au vu des éléments constitutifs du dossier, il peut décider que le traitement envisagé est soumis à la procédure complète selon les modalités prévues au Chapitre IX de la loi et en informe le demandeur. Après accord de ce dernier, l’INDS saisit le CEREES pour avis, puis la CNIL pour autorisation dans le respect des dispositions de la loi informatique et libertés . 
+Transparence  
+L’INDS informe au moins une fois par an le CEREES et la CNIL des approbations délivrées dans les conditions décrites dans la présente délibération. 
+La Présidente  
+ 
+ 
+I. FALQUE-PIERROTIN 
+
+

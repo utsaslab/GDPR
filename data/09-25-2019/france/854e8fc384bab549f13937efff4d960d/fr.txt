@@ -1,0 +1,156 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 25/05/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+Délibération n°2018-120 du 22 mars 2018 
+Délibération n° 2018-120 du 22 mars 2018 portant avis sur un projet d’arrêté portant création de traitements de données à caractère personnel concernant les mesures de géolocalisation autorisées dans un cadre judiciaire (demande d’avis n° 2118292) 
+NOR: CNIX1814037
+
+La Commission nationale de l’informatique et des libertés,
+ 
+Saisie par le ministre de l’intérieur d’une demande d’avis concernant un projet d’arrêté portant création de traitements de données à caractère personnel concernant les mesures de géolocalisation autorisées dans un cadre judiciaire ;
+ 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ;
+ 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+ 
+Vu le , notamment ses articles 230-32 à 230-44, 706-95-4 à 706-95-10 et R. 15-33-68 ;
+ 
+Vu le , notamment son article L. 235-1 ;
+ 
+Vu la modifiée relative à l’informatique, aux fichiers et aux libertés, notamment son article 26 ;
+ 
+Vu le modifié pris pour l’application de la relative à l’informatique, aux fichiers et aux libertés ;
+ 
+Vu le portant création d’un traitement automatisé de données à caractère personnel dénommé Système de transmission d’interceptions judiciaires ;
+ 
+Vu le modifié portant création d’un traitement automatisé de données à caractère personnel dénommé Plate-forme nationale des interceptions judiciaires ; 
+ 
+Après avoir entendu M. Jean-François CARREZ, commissaire, en son rapport, et Mme Nacima BELKACEM, commissaire du Gouvernement, en ses observations,
+ 
+Emet l’avis suivant :
+ 
+La Commission a été saisie par le ministre de l’intérieur d’une demande d’avis concernant un projet d’arrêté portant création de traitements de données à caractère personnel concernant les mesures de géolocalisation autorisées dans un cadre judiciaire.
+ 
+Ce projet doit permettre la collecte et la conservation de données destinées à la localisation en temps réel d’une personne, d’un véhicule ou de tout autre objet, afin de faciliter la constatation des infractions et la recherche de leurs auteurs.
+ 
+Il relève dès lors de l’article 26-I-2°de la loi du 6 janvier 1978 modifiée et doit être autorisé par arrêté pris après avis motivé et publié de la Commission.
+ 
+Il est, en outre, prévu, en application de l’article 26-IV de la loi du 6 janvier 1978 modifiée, que le projet d’arrêté constitue un acte réglementaire unique autorisant ainsi la création de plusieurs traitements répondant à une même finalité, portant sur des catégories de données identiques et ayant les mêmes destinataires.
+ 
+Dans le cadre de cette procédure, la mise en œuvre de chaque traitement doit être précédée de l’envoi à la Commission d’un engagement de conformité faisant référence à l’acte réglementaire unique, accompagné d’un dossier de présentation, ce que rappelle l’article 8 du projet d’arrêté.
+ 
+La Commission souligne toutefois que l’acte réglementaire unique fixe un cadre général et maximal qu’il appartient au responsable de traitement d’adapter, au regard des circonstances particulières dans lesquelles il est envisagé de mettre en œuvre chaque traitement, afin d’assurer le respect des dispositions de la loi du 6 janvier 1978 modifiée.
+ 
+Sur les finalités poursuivies :
+ 
+Les finalités du projet sont définies par l’article 1er du projet d’arrêté, qui dispose :
+ 
+afin de faciliter la constatation des infractions à la loi pénale, le rassemblement des preuves de ces infractions et la recherche de leurs auteurs, le ministre de l’intérieur (direction générale de la police nationale, direction générale de la gendarmerie nationale, direction générale de la sécurité intérieure et préfecture de police) et le ministre de l’action et des comptes publics (direction générale des douanes et des droits indirects) sont autorisés à mettre en œuvre des traitements automatisés de données à caractère personnel permettant, sur autorisation et sous le contrôle de l’autorité judiciaire, la collecte, l’enregistrement, l’exploitation et la conservation de données destinées à la localisation en temps réel d’une personne, à l’insu de celle-ci, d’un véhicule ou de tout autre objet, sans le consentement de son propriétaire ou de son possesseur .
+ 
+Ce projet découle du retard pris dans le déploiement de la plateforme nationale des interceptions judiciaires (PNIJ), créée par le , et dont la finalité est notamment de permettre d’enregistrer et de mettre à disposition des magistrats les données destinées à la localisation d’une personne ou d’un objet collectées dans le cadre d’enquêtes judiciaires.
+ 
+La Commission relève que ce retard s’est déjà traduit par trois modifications successives de l’ pour reporter jusqu’au 31 mai 2018 la date d’abrogation du portant création du Système de transmission d’interceptions judiciaires (STIJ), que la PNIJ a vocation à remplacer. Le STIJ ne permettant toutefois de disposer que des données de trafic des correspondances interceptées ainsi que des contenus des mini-messages émis ou reçus par un numéro de téléphone dont la ligne est surveillée, la collecte des données de géolocalisation par les services de police judiciaire demeure dépendante, dans l’attente du déploiement complet de la PNIJ, des dispositifs de géolocalisation en temps réel des terminaux de communication mis en œuvre par les opérateurs de communications électroniques par le biais de prestataires privés. Cette situation provoque d’importantes difficultés opérationnelles pour les services en charge de missions de police judiciaire et pour l’autorité judiciaire, dans la mesure où tous les opérateurs n’ont pas mis en œuvre de tels dispositifs de géolocalisation.
+ 
+Le projet d’acte réglementaire soumis à la Commission doit précisément remédier à ces difficultés en permettant la création et l’utilisation temporaire de traitements permettant la collecte de données destinées à la localisation en temps réel d’une personne, d’un véhicule ou de tout autre objet. A cet égard, elle relève que le ministère s’est engagé à l’informer de la cessation des traitements mis en œuvre sur le fondement du présent arrêté ainsi que des mesures prises en matière d’effacement des données dès lors que la PNIJ sera effectivement opérationnelle.
+ 
+La Commission prend acte que les directions susceptibles de mettre en œuvre de tels traitements sur le fondement de l’acte réglementaire unique sont uniquement celles dont les agents peuvent exercer des missions de police judiciaire les conduisant à exécuter des mesures destinées à la géolocalisation de personnes ou d’objets.
+ 
+La Commission prend également acte que la collecte, l’enregistrement, l’exploitation et la conservation de données de géolocalisation ne pourront intervenir que sur autorisation et sous le contrôle de l’autorité judiciaire, étant précisé que ces données proviendront exclusivement : 
+ 
+- des opérateurs de communications électroniques, dans les conditions prévues aux articles , , , , , du code de procédure pénale (CPP) ;
+ 
+- de l’utilisation d’un appareil ou dispositif technique mis en œuvre en application des articles 230-32, 230-33, 706-95-4, 706-95-5 du CPP ainsi que de l’ . 
+ 
+En outre, si l’article 230-45 du CPP impose que les réquisitions et demandes adressées en application des articles 60-2, 74-2, 77-1-2 ,80-4, 99-4, 100 à 100-7, 230-32 à 230- 44, 706-95 et 709-1-3 du CPP ou de l’article 67 bis-2 du soient transmises par l’intermédiaire de la PNIJ, la Commission relève que cet article prévoit la possibilité de déroger à cette règle en cas d’impossibilité technique. Sur ce point, le ministère a précisé que le projet d’acte réglementaire unique et les traitements qui sont susceptibles d’être mis en œuvre dans le cadre de cet acte par engagement de conformité concerneront les seuls dispositifs que la PNIJ ne peut, pour des raisons techniques et pour l’heure, mettre en œuvre.
+ 
+A ainsi été transmis à la Commission, à titre d’illustration, un dossier décrivant les caractéristiques d’un projet dénommé plateforme automatisée de reconstruction de scripts informatiques de Free appliquée à la localisation (Parsifal), qui a vocation à être mis en œuvre par la Direction générale de la police nationale (DGPN). La Commission prend acte que ce dispositif permettra, grâce à une plateforme informatique mise en place par un prestataire privé, de recevoir les données relatives aux mobiles équipés de puces Free et de les retranscrire via une interface web cartographique accessible aux enquêteurs. Elle prend également acte que la mise en œuvre de ce traitement, comme de l’ensemble des traitements susceptibles d’être créés sur le fondement de l’acte réglementaire unique envisagé, sera interrompue dès que le déploiement de la PNIJ permettra la collecte des données de géolocalisation.
+ 
+Dans ces conditions et compte tenu des enjeux importants soulevés par la collecte des données de géolocalisation résultant de mesures judiciaires, la Commission considère que le projet qui lui est soumis poursuit des finalités déterminées, explicites et légitimes, conformément à l’article 6-2° de la loi du 6 janvier 1978 modifiée.
+ 
+Sur les données traitées et leur durée de conservation :
+ 
+L’article 3 du projet d’arrêté prévoit que peuvent être enregistrées dans le traitement les données à caractère personnel et les informations suivantes :
+ 
+1° Données relatives aux identifiants des équipements géolocalisés (numéro de téléphone, identifiant du numéro de téléphone, numéro de balise, numéro d’identification du terminal (numéro IMEI), numéro associé à l’équipement (numéro IMSI), opérateur) ;
+ 
+2° Données relatives au détenteur de l’équipement terminal géolocalisé ou à la personne visée par la géolocalisation (nom, prénom, alias, surnom, service) ;
+ 
+3° Données d’identification des objets et véhicules visés par la géolocalisation (nature de l’objet ou du véhicule, numéro de série ou tout autre numéro d’identification) ;
+ 
+4° Données de géolocalisation du réseau générées par l’usage des terminaux de communication transmises en temps réel (coordonnées géographiques et GPS, identification des cellules GSM, vitesse de déplacement, horodatage) ;
+ 
+5° Données cartographiques relatives à la géolocalisation des équipements terminaux (notamment adresse géographique, informations de zonage) ;
+ 
+6° Informations relatives au dossier créé dans le traitement (date, numéro d’identification, mnémonique) ;
+ 
+7° Informations concernant la procédure judiciaire support de la géolocalisation (cadre juridique, numéro de procédure, informations relatives aux faits, lieux, dates et qualification pénale des infractions objets de l’enquête) et le magistrat l’ayant autorisée (nom, prénom, fonction, tribunal de rattachement) ;
+ 
+8° Coordonnées de l’officier de police judiciaire ou de l’agent des douanes à l’origine de la réquisition (nom, prénom, service, téléphones, adresse électronique).
+ 
+Compte tenu des finalités du projet, la Commission juge pertinentes les catégories de données mentionnées par le projet d’arrêté, qui apparaissent nécessaires pour procéder à la géolocalisation des personnes ou des objets, identifier la procédure concernée et pouvoir prendre contact avec les agents en charge de l’exécution des réquisitions judiciaires.
+ 
+L’article 5 du projet d’arrêté précise en outre que les données visées aux 1° à 6° de l’article 3, qui constituent les données permettant la géolocalisation, sont conservées dans le traitement jusqu’à la date de clôture des investigations.
+ 
+La Commission considère qu’une telle durée de conservation n’est pas excessive. Elle prend acte, en outre, qu’à la clôture des investigations, les données concernées seront placées sous scellés et transmises à l’autorité judiciaire, de même que la transcription des enregistrements réalisée dans les conditions prévues à l’article 230-39 du CPP.
+ 
+Le projet d’arrêté prévoit en revanche que les données mentionnées aux 7° et 8° de l’article 3, qui portent sur la procédure judiciaire concernée et les agents, sont conservées dans le traitement pendant une durée de trois ans à compter de leur enregistrement, ce qui a notamment été justifié par les particularités de la facturation des mesures de géolocalisation par les prestataires privés, qui peuvent s’étaler sur des périodes relativement longues et nécessitent de conserver les informations relatives aux procédures et aux agents ayant sollicité le prestataire.
+ 
+Sur les destinataires :
+ 
+Le projet d’arrêté distingue les agents ayant aux données et informations enregistrées dans le traitement, des personnes qui peuvent être destinataires de tout ou partie de ces mêmes données et informations.
+ 
+S’agissant des personnes qui ont accès aux données à caractère personnel et aux informations du traitement, le projet mentionne : 
+ 
+- les magistrats ;
+ 
+- les officiers et agents de police judiciaire de la police et de la gendarmerie nationales ;
+ 
+- les agents des douanes habilités à effectuer des missions de police judiciaire en application de l’article 28-1 de CPP, ainsi que ceux habilités en vertu de l’ ; les officiers fiscaux judiciaires ;
+ 
+- les agents qualifiés visés aux articles 230-36 et 706-95-8 du CPP. 
+ 
+Le projet précise que cet accès doit être nécessaire pour l’exercice de leurs attributions et les besoins exclusifs de l’enquête pour laquelle l’opération de géolocalisation a été autorisée. Ainsi, seuls auront accès aux données de géolocalisation les agents et magistrats saisis des procédures ayant précisément justifié la collecte de ces données.
+ 
+Dans ces conditions, la Commission considère que la possibilité d’accéder au traitement pour les destinataires précédemment mentionnés, qui peuvent être directement amenés à ordonner ou mettre en œuvre des réquisitions judiciaires portant sur des données de géolocalisation, est justifiée.
+ 
+Le projet autorise également, sous réserve de l’accord de l’autorité judiciaire ayant autorisé la mise en œuvre de la mesure de géolocalisation, la communication de données aux organismes de coopération internationale en matière de police judiciaire et aux services de police étrangers, dans les conditions prévues à l’ , ce dont la commission prend acte.
+ 
+Enfin, la Commission relève que le ministère s’est engagé à exclure la possibilité de transmission des données de géolocalisation aux agents mentionnés aux 2°, 3° et 4 du I de l’article 4 du projet d’arrêté pour le besoin d’enquêtes distinctes de celles ayant justifié leur collecte. Elle relève dès lors que la transmission de ces données aux agents précités ne pourra intervenir que sur le fondement des dispositions du applicables.
+ 
+Sur l’information et les droits des personnes concernées :
+ 
+Le projet de décret prévoit que l’obligation d’information prévue à l’article 32 de la loi du 6 janvier 1978 modifiée, de même que le droit d’opposition prévu à l’article 38 de la même loi ne s’appliquent pas au traitement, ce qui n’appelle pas d’observation de la part de la Commission.
+ 
+Il en va de même des dispositions prévoyant que le droit d’accès s’exerce de manière indirecte auprès de la Commission nationale de l’informatique et des libertés, dans les conditions prévues à l’article 41 de la loi du 6 janvier 1978 modifiée.
+ 
+Sur la sécurité des données et la traçabilité des actions :
+ 
+La Commission relève en premier lieu que le ministère compte utiliser le logiciel MySQL en version 5.6.12. Il a été identifié plusieurs dizaines de vulnérabilités dans cette version du logiciel qui date de 2013. La Commission considère dès lors que le ministère devrait utiliser une version à jour de ce système de gestion de base de données.
+ 
+Concernant les modalités de chiffrement des flux de données, le ministère indique utiliser le protocole HTTPS au moyen de certificats achetés auprès d’un prestataire non conforme au Référentiel Général de Sécurité. Questionné sur les mesures précises prises par le ministère pour garantir la sécurité du site web permettant l’accès au traitement, et notamment sur l’application des recommandations de l’ANSSI relatives à la mise en œuvre du protocole TLS, le ministère n’a apporté aucune réponse. Compte tenu de la nature du traitement, la Commission considère que le ministère devrait mettre en œuvre des mesures renforcées permettant de garantir la confidentialité des données traitées, en suivant les recommandations de l’ANSSI en la matière.
+ 
+La Commission prend acte que le responsable de traitement a mis en œuvre une politique d’authentification conforme à la du 19 janvier 207 portant adoption d’une recommandation relative aux mots de passe.
+ 
+Elle prend également acte, concernant les mesures de traçabilité des accès aux données, que les traces des opérations effectuées seront conservées pendant une durée de cinq ans à compter de l’opération. Compte tenu des finalités du traitement, cette durée apparaît proportionnée.
+ 
+Les supports de stockage mis au rebut, en panne, ou réutilisés pour d’autres traitements font l’objet d’une procédure de destruction physique ou d’un effacement sécurisé au moyen de logiciels spécifiques.
+ 
+Concernant les modalités de gestion des numéros de téléphones et notamment leur substitution par un identifiant dénommé LIID, la Commission rappelle au ministère que cette opération ne peut en aucun cas être considérée comme étant une anonymisation, mais constitue seulement une pseudonymisation, dans la mesure où il reste possible de remonter à l’identité des individus concernés.
+ 
+Les autres mesures de sécurité n’appellent pas de remarques particulières de la Commission. 
+ 
+Le vice-président délégué,
+ 
+ 
+M.-F. Mazars 
+ 
+ 
+Nature de la délibération: AVIS
+ 
+ 
+
+

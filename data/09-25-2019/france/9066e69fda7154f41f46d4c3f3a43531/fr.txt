@@ -1,0 +1,127 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 28/06/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+DELIBERATION n°2018-103 du 22 MARS 2018 
+Délibération n° 2018-103 du 22 mars 2018 autorisant le ministère des Outre-mer à mettre en œuvre un traitement automatisé de données à caractère personnel ayant pour objet l’interconnexion de fichiers en vue d’identifier les personnes remplissant les conditions d’inscription d’office sur les listes électorales générales de la Nouvelle-Calédonie, ainsi que leur inscription sur ces listes 
+
+(Demande d’autorisation n° 2155746) 
+ 
+La Commission nationale de l’informatique et des libertés, 
+Saisie par la ministre des Outre-mer d’une demande d’autorisation concernant un traitement automatisé de données à caractère personnel ayant pour objet l’interconnexion de fichiers en vue d’identifier les personnes remplissant les conditions d’inscription d’office sur les listes électorales générales de la Nouvelle-Calédonie, ainsi que leur inscription sur ces listes ; 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ; 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ; 
+Vu la loi organique n° 99-209 du 19 mars 1999 modifiée relative à la Nouvelle-Calédonie, notamment ses articles 218 et suivants ; 
+Vu le code électoral, notamment son article L. 17 ; 
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment son article 25-I-5° ; 
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ; 
+Vu le dossier et ses compléments ; 
+Sur la proposition de Mme Marie-France MAZARS, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement, 
+ 
+Formule les observations suivantes : 
+Le scrutin d’autodétermination portant sur le transfert à la Nouvelle-Calédonie des compétences régaliennes de l’Etat, sur l’accès à un statut international de pleine responsabilité et sur l’organisation d’une citoyenneté en nationalité repose sur un corps électoral spécial de personnes admises à participer à la consultation sur l’accession à la pleine souveraineté. L’inscription des électeurs sur la liste électorale générale de la Nouvelle-Calédonie constitue un préalable à l’inscription sur la liste électorale spéciale à la consultation, conformément à l’article 218 de la loi organique du 19 mars 1999 modifiée qui définit les conditions d’inscription dans ce corps électoral spécial. 
+A l’issue du XVIème comité des signataires de l’accord de Nouméa, les partenaires de l’accord ont convenu de la nécessité de procéder, de manière exceptionnelle et en raison de la consultation, à l’inscription d’office des personnes résidant en Nouvelle-Calédonie sur les listes électorales générales, en vue de leur inscription sur la liste électorale spéciale à la consultation lorsqu’elles remplissent les conditions posées par la loi organique du 19 mars 1999 modifiée. 
+ 
+Les conditions que ces personnes doivent remplir pour une inscription d’office sur la liste électorale générale de la Nouvelle-Calédonie, ainsi que le principe même de cette inscription d’office font l’objet d’un projet de loi organique relatif à l’organisation de la consultation sur l’accession de la Nouvelle-Calédonie à la pleine souveraineté, voté tout récemment par le Parlement. Il s’agirait des personnes de nationalité française, majeures et qui, n’étant pas déjà inscrites sur une liste électorale, ont leur domicile réel dans une commune de la Nouvelle-Calédonie ou y habitent depuis six mois au moins. 
+ 
+Le projet de loi organique prévoit qu’un décret en Conseil d’Etat précise les conditions de son application et notamment les opérations à mener afin d’identifier les personnes remplissant les nouvelles conditions qui auront été fixées en vue de les inscrire d’office sur la liste électorale générale de la Nouvelle-Calédonie. 
+ 
+Dans ce contexte, le ministère des Outre-mer souhaite mettre en œuvre un traitement automatisé de données à caractère personnel ayant pour objet l’interconnexion de fichiers d’état civil, de fichiers électoraux et de certains fichiers sociaux. 
+ 
+Dès lors, il y a lieu de faire application des dispositions de l’article 25-I-5° de la loi du 6 janvier 1978 modifiée, qui soumettent à autorisation les traitements ayant pour objet l’interconnexion de fichiers relevant d’une ou de plusieurs personnes morales gérant un service public et dont les finalités correspondent à des intérêts publics différents. 
+ 
+Sur les finalités du traitement 
+A titre liminaire, la Commission rappelle que le ministère des Outre-mer revêt la qualité de responsable de traitement, au sens des dispositions de l’article 3-I de la loi du 6 janvier 1978 modifiée, dans la mesure où il détermine les finalités et les moyens du traitement. 
+ 
+L’Institut de la statistique et des études économiques (ISEE) de la Nouvelle-Calédonie est chargé de la mise en œuvre du traitement, appuyé par les agents de l’Etat nominativement désignés par le haut-commissaire de la République en Nouvelle-Calédonie et, le cas échéant pour les aspects techniques, par les agents du ministère des Outre-mer nominativement désignés par la ministre chargée des Outre-mer. 
+ 
+Le traitement projeté doit permettre d’identifier les personnes remplissant les conditions d’inscription d’office sur la liste électorale générale de la Nouvelle-Calédonie, telles que définies par le projet de loi organique actuellement en cours d’élaboration. 
+ 
+A cet effet, les agents de l’État nominativement désignés par le haut-commissaire de la République en Nouvelle-Calédonie et l’ISEE ont accès à des extractions des fichiers suivants : 
+ 
+le fichier centralisant les actes d’état civil coutumier de la direction de la gestion et de la réglementation des affaires coutumières ; 
+les fichiers de l’aide médicale gratuite des provinces de la Nouvelle-Calédonie ; 
+les registres de l’état civil de droit commun des communes de la Nouvelle-Calédonie ; 
+les registres de l’état civil de droit commun détenus par la direction des affaires juridiques de la Nouvelle-Calédonie ; 
+les fichiers des bénéficiaires de prestations de la caisse de compensation des prestations familiales, des accidents du travail et de prévoyance des travailleurs de la Nouvelle-Calédonie (CAFAT) ; 
+les fichiers des adresses des affiliés des mutuelles dont le siège social est situé en Nouvelle-Calédonie ; 
+le fichier général des électeurs inscrits sur les listes électorales de la Nouvelle-Calédonie pour l’élection du Président de la République, des députés à l’Assemblée nationale, des conseils municipaux et du Parlement européen et pour les référendums ; 
+le fichier général des électeurs tenus par l’Institut national de la statistique et des études économiques ; 
+le fichier général des électeurs inscrits sur les listes électorales de la Polynésie française, tenu par l’Institut de la statistique de la Polynésie française ; 
+le fichier des électeurs inscrits sur les listes électorales des îles Wallis et Futuna. 
+ 
+La Commission prend acte que les extractions communiquées par les administrations et organismes sollicités ne comportent que les données à caractère personnel des personnes remplissant les conditions qui seront posées par le projet de loi organique, chacun pour le critère qui le concerne. 
+ 
+Ainsi, elle relève que les registres d’état civil coutumier et d’état civil de droit commun permettront d’identifier les personnes qui ne sont pas inscrites sur la liste électorale générale. Les extractions issues des fichiers des électeurs tenus par l’INSEE, par l’Institut de la statistique de la Polynésie française ainsi que des listes électorales des îles Wallis et Futuna ont vocation à garantir l’absence de double inscription. Les fichiers d’aide médicale gratuite des provinces de la Nouvelle-Calédonie, ainsi que les fichiers des adresses des affiliés des mutuelles permettront, quant à eux, de vérifier les conditions de résidence des personnes ainsi identifiées. 
+ 
+Les personnes identifiées à l’issue de ces opérations seront ensuite inscrites d’office sur la liste électorale générale de la Nouvelle-Calédonie, après examen, par les commissions administratives de droit commun. 
+ 
+La Commission considère dès lors que la finalité de ce traitement est déterminée, explicite et légitime, conformément à l’article 6-2° de la loi du 6 janvier 1978 modifiée. 
+ 
+Sur la nature des données traitées 
+Les données collectées dans le cadre du traitement projeté sont les suivantes : le nom de famille, le nom d’usage, les prénoms, la nationalité, la date de naissance, le lieu de naissance, l’adresse postale et les dates d’affiliation aux régimes sociaux et durées de présence dans les fichiers sociaux. 
+ 
+La Commission rappelle que seules les données strictement nécessaires aux opérations de croisement doivent être transmises par les administrations et organismes susmentionnés. En particulier, les données de santé susceptibles d’être contenues dans les traitements mis en œuvre par les provinces de la Nouvelle-Calédonie et par la CAFAT, ne devront donc pas figurer dans les extractions de fichiers envisagées. 
+ 
+Dans ces conditions, la Commission considère que les catégories de données ainsi traitées sont pertinentes, adéquates et non excessives au regard de la finalité poursuivie par le traitement projeté, conformément à l’article 6-3° de la loi du 6 janvier 1978 modifiée. 
+ 
+Sur la durée de conservation des données 
+Les opérations d’interconnexion sont réalisées jusqu’à la date de la consultation sur l’accession de la Nouvelle-Calédonie à la pleine souveraineté. Les données nominatives issues de ces opérations seront conservées jusqu’à l’expiration d’un délai de six mois à compter de la date de cette consultation. 
+ 
+La Commission prend acte que ce délai a pour seul objet de garantir la disponibilité des éléments d’information nécessaires à justifier de la transparence et de la sincérité de l’État dans l’élaboration de la liste électorale spéciale à la consultation, dans l’hypothèse d’une contestation portant sur la sincérité des opérations électorales. 
+ 
+Le cas échéant, l’ISEE devra mettre en œuvre des mesures de nature à garantir l’archivage de certaines données à titre probatoire, dans le souci de faire face aux vérifications et éventuelles contestations. Sur ce point et sans préjudice des dispositions applicables relevant du code du patrimoine, la Commission rappelle que l’accès aux données archivées doit se faire selon des modalités spécifiques et que les archives obsolètes doivent être détruites de manière sécurisée. 
+ 
+La Commission considère que ces durées de conservation sont conformes aux dispositions de l’article 6-5° de la loi du 6 janvier 1978 modifiée. 
+ 
+Sur les personnes habilitées et les destinataires des données 
+Seuls les agents de l’État nominativement désignés par le haut-commissaire de la République en Nouvelle-Calédonie et l’ISEE peuvent consulter, traiter et enregistrer les données personnelles qui font l’objet des opérations d’interconnexion de fichiers. 
+ 
+Les membres des commissions administratives prévues à l’article L. 17 du code électoral sont destinataires des données nominatives issues des opérations d’interconnexion pour l’inscription d’office sur la liste électorale générale de la Nouvelle-Calédonie des personnes identifiées par le traitement. 
+ 
+Ces personnes habilitées et destinataires n’appellent pas d’observation de la part de la Commission. 
+ 
+Sur l’information et les droits des personnes 
+La Commission appelle l’attention du ministère des Outre-mer sur la nécessité de prendre toute mesure nécessaire à l’information des personnes dans des conditions conformes à l’article 32 de la loi « Informatique et Libertés », par tout moyen à sa disposition. 
+ 
+S’agissant des droits d’accès et de rectification, ceux-ci pourront s’exercer auprès des services du haut-commissaire de la République en Nouvelle-Calédonie. Ce point n’appelle pas d’observation de la Commission. 
+ 
+Le droit d’opposition des personnes au traitement de leurs données à caractère personnel est en outre écarté. En effet, dans la mesure où le projet de loi organique voté dernièrement par le Parlement prévoit que les commissions administratives de droit commun inscrivent d’office sur la liste électorale générale de la Nouvelle-Calédonie les personnes remplissant les conditions qu’il pose et où le traitement mis en œuvre vise à permettre cette inscription d’office, cette exclusion est conforme aux dispositions de l’article 38 de la loi du 6 janvier 1978 modifiée. 
+ 
+Sur les mesures de sécurité 
+La Commission observe qu’il est prévu que les données nominatives issues des opérations d’interconnexion de fichiers soient conservées dans des conditions sécurisées, sous la responsabilité des services chargés de la mise en œuvre du traitement, lesquels prennent toutes les précautions utiles pour préserver la sécurité et l’intégrité des données. 
+ 
+A cet égard, elle rappelle qu’il incombe au ministère des Outre-mer, en tant que responsable de traitement, de garantir la confidentialité et l’intégrité des données ainsi que leur traçabilité, tout particulièrement au regard des enjeux poursuivis par le dispositif mis en œuvre et des actions susceptibles d’être menées à titre de vérification des travaux accomplis. 
+ 
+Le ministère prévoit la faculté de conclure des conventions entre le représentant de l’État en Nouvelle-Calédonie, le gouvernement de la Nouvelle-Calédonie, l’ISEE et les différents organismes intervenant dans la consultation et l’extraction des fichiers qui ont pour objet de préciser les modalités de ces opérations. La Commission recommande que cette faculté soit effectivement mise en œuvre et rappelle qu’il appartient au ministère de s’assurer que ces conventions comportent les mesures nécessaires au respect de cette obligation de sécurité. 
+ 
+Le contexte de mise en œuvre de ce traitement exige une gestion stricte des mesures de sécurité, notamment en matière de politique d’habilitation et de traçabilité des actions. Ainsi, les conditions d’échanges de données avec les organismes habilités doivent assurer notamment leur confidentialité ainsi que leur intégrité au moyen de procédés de chiffrement, de calcul et de vérification d’intégrité réputés fiables, quel que soit le mode d’échange retenu (serveur sftp, clef USB, etc.). La transmission des secrets doit se faire via un canal de communication distinct de celui utilisé pour les données. 
+ 
+Par ailleurs, la confidentialité des données transmises, leur intégrité tout au long de leur traitement ainsi que la traçabilité des actions menées sur ces données devront ainsi faire l’objet d’une vigilance particulière. 
+ 
+Sous ces réserves, la Commission estime que les mesures de sécurité décrites par le responsable de traitement sont conformes à l’exigence de sécurité prévue par l’article 34 de la loi du 6 janvier 1978 modifiée. 
+ 
+Dans ces conditions, elle autorise, conformément à la présente délibération, le ministère des Outre-mer à mettre en œuvre le traitement susmentionné. 
+ 
+ 
+ 
+Pour la Présidente Le Vice-Président délégué 
+ 
+ 
+ 
+Marie-France MAZARS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nature de la délibération: Autorisation
+ 
+ 
+
+

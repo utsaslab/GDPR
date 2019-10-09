@@ -1,0 +1,175 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 13/06/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+Délibération n°2018-152 du 3 mai 2018 
+Délibération n° 2018-152 du 3 mai 2018 portant avis sur un projet de décret autorisant les traitements de données à caractère personnel relatifs au suivi des personnes en soins psychiatriques sans consentement (demande d’avis n° 18005564) 
+NOR: CNIX1813904X
+
+La Commission nationale de l’informatique et des libertés,
+ 
+Saisie par la ministre des solidarités et de la santé d’une demande d’avis concernant un projet de décret autorisant les traitements de données à caractère personnel relatifs au suivi des personnes en soins psychiatriques sans consentement ;
+ 
+Vu la Convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ;
+ 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+ 
+Vu le , notamment ses articles L. 1435-1, R. 1435-1 et s. et le livre II de sa troisième partie ;
+ 
+Vu le , notamment son article 706-135 ;
+ 
+Vu la modifiée relative à l’informatique, aux fichiers et aux libertés, notamment ses articles 8 et 26-II ;
+ 
+Vu le modifié pris pour l’application de la relative à l’informatique, aux fichiers et aux libertés ;
+ 
+Vu l’arrêté du 19 avril 1994 relatif à l’informatisation du suivi des personnes hospitalisées sans leur consentement en raison de troubles mentaux et au secrétariat des commissions départementales des hospitalisations psychiatriques ;
+ 
+Vu la délibération n° 94-024 du 29 mars 1994 portant avis sur un projet d’arrêté présenté par le ministre des affaires sociales, de la santé et de la ville concernant un modèle-type relatif à la gestion automatisée du suivi des personnes hospitalisées sans consentement et du secrétariat des commissions départementales des hospitalisations psychiatriques (application HOPSY) ;
+ 
+Vu le dossier et ses compléments ; 
+ 
+ 
+Sur la proposition de M. Alexandre LINDEN, commissaire, et après avoir entendu les observations de Mme Nacima BEL.KACEM, commissaire du Gouvernement ;
+ 
+Emet l’avis suivant :
+ 
+La Commission a été saisie, le 13 mars 2018, pour avis par la ministre des solidarités et de la santé d’un projet de décret (ci-après le projet ) autorisant les traitements de données à caractère personnel relatifs au suivi des personnes en soins psychiatriques sans consentement. Ce projet intègre les modifications législatives et réglementaires concernant les soins sans consentement, intervenues depuis la publication de l’arrêté du 19 avril 1994 relatif à l’informatisation du suivi des personnes hospitalisées sans leur consentement en raison de troubles mentaux et au secrétariat des commissions départementales des hospitalisations psychiatriques, pour lequel la Commission avait émis un avis favorable (délibération n° 94-024 du 29 mars 1994).
+ 
+Dans la mesure où le traitement projeté, mis en œuvre pour le compte de l’Etat, comporte des données relatives à la santé, il relève des dispositions de l’article 26-II­ de la loi du 6 janvier 1978 modifiée. Conformément auxdites dispositions, sa mise en œuvre doit dès lors être autorisée par décret en Conseil d’Etat pris après avis motivé et publié de la Commission.
+ 
+Sur la finalité du traitement :
+ 
+Le projet vise à encadrer la mise en œuvre, par les agences régionales de santé qui le souhaitent, de traitements de données à caractère personnel dénommés HOPSYWEB . Ces traitements visent à assurer, au niveau départemental, le suivi et la gestion administrative des mesures de soins psychiatriques sans consentement prises en application des et .
+ 
+L’article 1er du projet précise que les traitements ont pour finalité le suivi des personnes faisant l’objet de soins psychiatriques sans consentement en permettant : 
+ 
+- la tenue d’un échéancier des certificats médicaux, des arrêtés du représentant de l’Etat dans le département et, le cas échéant, de la saisine du juge des libertés et de la détention au titre de la procédure de contrôle des mesures de soins psychiatriques sans consentement sous la forme d’une hospitalisation complète ;
+ 
+- la production automatisée des actes et documents prescrits par les dispositions du titre 1er du livre II de la troisième partie du code de la santé publique (arrêté préfectoral d’admission, de maintien, de levée, de transfert, modificatif, d’hospitalisation complète, de programme de soins, informations et courriers, demande d’accord de sortie de courte durée) ;
+ 
+- la production automatisée des courriers aux personnes intervenant dans la procédure de soins sans consentement visés à l’article 5 du projet (représentant de l’Etat dans le département, juge des libertés et de la détention, fonctionnaire du greffe du tribunal de grande instance chargé des procédures de soins sans consentement, etc.) ;
+ 
+- la consultation des données compilées dans chaque département par le ministère des solidarités et de la santé aux fins d’analyse de la mise en œuvre des mesures de soins sans consentement et par les agences régionales de santé saisies par le représentant de l’Etat dans le département afin de répondre aux demandes d’informations formulées dans le cadre des demandes de port d’armes ;
+ 
+- une exploitation statistique des données compilées au niveau départemental à destination de la commission départementale des soins psychiatriques en vue de l’élaboration du rapport annuel d’activité. 
+ 
+La Commission estime que la finalité est déterminée, explicite et légitime, conformément à l’article 6-2° de la loi Informatique et Libertés.
+ 
+Sur la nature des données traitées :
+ 
+L’article 2 du projet indique les catégories de données figurant dans les traitements HOPSYWEB : 
+ 
+- les données d’identification de la personne en soins psychiatriques sans consentement (nom, prénoms, domicile, sexe, date et lieu de naissance) ;
+ 
+- les données d’identification des médecins auteurs des certificats médicaux ou des rapports d’expertise prévus par le (nom, prénoms, adresse, courriel et numéro de téléphone) ;
+ 
+- les données transmises par les autorités judiciaires concernant les personnes ayant fait l’objet d’un classement sans suite ou d’une décision d’irresponsabilité pénale pour des faits punis d’au moins cinq ans d’emprisonnement en cas d’atteinte aux personnes ou d’au moins dix ans d’emprisonnement en cas d’atteinte aux biens ;
+ 
+- les informations sur la situation administrative ou juridique des personnes en soins psychiatriques sans consentement : adresse de l’établissement de santé d’accueil, nom, prénoms, numéro de téléphone, courriel de la personne référente dans cet établissement, existence d’une mesure de protection juridique, date des certificats médicaux, date des expertises le cas échéant, date des arrêtés du représentant de l’Etat dans le département, date des sorties de courte durée, arrêté de passage en programme de soins et levée de la mesure, date de saisine du juge des libertés et de la détention, date d’audience et date des décisions ou arrêts (sic) des juridictions ;
+ 
+- les adresses électroniques des professionnels intervenant dans le suivi des personnes en soins psychiatriques sans consentement ;
+ 
+- les données d’identification des avocats représentant la personne en soins psychiatriques sans consentement (nom, prénoms, raison sociale, adresse, courriel et numéro de téléphone). 
+ 
+La Commission estime que ces données sont adéquates, pertinentes et non excessives au regard de la finalité poursuivie, conformément aux dispositions de l’article 6-3° de la loi Informatique et Libertés.
+ 
+Sur la durée de conservation des données :
+ 
+L’article 3 du projet prévoit que les données traitées sont conservées pendant trois ans à compter de la fin de l’année civile suivant la levée de la mesure de soins sans consentement.
+ 
+La Commission relève que l’article 2 de l’arrêté du 19 avril 1994 prévoit que les données sont conservées pendant la durée de l’hospitalisation sans consentement et jusqu’à la fin de l’année civile suivant la mesure de soins sans consentement.
+ 
+Le ministère indique, pour justifier l’allongement de la durée de conservation, que celle-ci s’appuie sur une étude menée en 2016 par l’Institut de recherche et de documentation en économie de la santé, dont les résultats montrent qu’au-delà d’un délai de trois ans, les patients sont considérés comme stabilisés et ne font plus l’objet de mesure de soins sans consentement .
+ 
+Cependant, au vu des finalités poursuivies, notamment la tenue d’un échéancier, la production d’actes, documents et courriers concernant une mesure d’hospitalisation sans consentement, la Commission s’interroge sur la durée de conservation des données traitées prévue par le projet au regard des finalités pour lesquelles les données sont collectées et traitées.
+ 
+Sur les destinataires des données :
+ 
+L’article 5 du projet prévoit que sont destinataires des données : 
+ 
+- le représentant de l’Etat dans le département et, à Paris, le préfet de police ou les agents placés sous leur autorité qu’ils désignent à cette fin ;
+ 
+- le juge des libertés et de la détention territorialement compétent ;
+ 
+- les fonctionnaires du greffe du tribunal de grande instance chargés des procédures de soins sans consentement ;
+ 
+- le procureur de la République près le tribunal de grande instance dans le ressort duquel est situé l’établissement d’accueil ;
+ 
+- le procureur de la République près le tribunal de grande instance dans le ressort duquel se trouve la résidence habituelle ou le lieu de séjour de la personne en soins psychiatriques sans consentement ;
+ 
+- le premier président de la cour d’appel ou son délégué en cas d’appel de l’ordonnance du juge des libertés et de la détention ;
+ 
+- le procureur général près la cour d’appel ;
+ 
+- les fonctionnaires du greffe de la cour d’appel chargés des procédures de soins sans consentement ;
+ 
+- le directeur de l’établissement d’accueil ou l’agent placé sous son autorité qu’il désigne à cette fin ;
+ 
+- le directeur de l’établissement pénitentiaire lorsque la personne admise en soins psychiatriques sans consentement était détenue ou l’agent placé sous son autorité qu’il désigne à cette fin ;
+ 
+- l’avocat de la personne faisant l’objet de soins sans consentement ;
+ 
+- les membres de la commission départementale des soins psychiatriques ;
+ 
+- le maire, ou à Paris le commissaire de police, auteur d’un arrêté prenant les mesures provisoires en vue d’une admission en soins psychiatriques sur décision du représentant de l’Etat ou les agents placés sous leur autorité qu’ils désignent à cet effet. 
+ 
+En outre, en cas d’admission en soins psychiatriques sans consentement sur décision du représentant de l’Etat dans le département, sont informés de toute hospitalisation, de tout renouvellement et de toute sortie le maire de la commune où la personne en soins psychiatriques sans consentement a sa résidence habituelle ou son lieu de séjour et le maire de la commune où est implanté l’établissement de santé d’accueil.
+ 
+Tous accèdent aux données à raison de leurs attributions.
+ 
+La Commission relève toutefois que les personnels désignés et habilités par la ministre des solidarités et de la santé ne figurent pas parmi les destinataires des données, tandis que l’article 4 du projet prévoit la possibilité, pour la ministre, de désigner des personnels habilités à accéder aux données et informations mentionnées à l’article 2 du projet.
+ 
+Elle relève par ailleurs que la finalité du traitement décrite à l’article 1er du projet est limitée, s’agissant du ministère des solidarités et de la santé, à la consultation nationale de données compilées dans chaque département.
+ 
+Dans la mesure où cette finalité ne semble pas nécessiter l’accès par les personnels du ministère aux données à caractère personnel précisées par l’article 2 du projet, la Commission demande que le projet d’article 4 soit modifié afin de ne plus faire mention, s’agissant des personnels désignés et habilités par la ministre, d’un accès aux données décrites par l’article 2 du projet.
+ 
+La Commission demande également que le terme compilées soit précisé afin d’exclure la possibilité pour les agents habilités du ministère de la santé d’accéder à des données à caractère personnel des personnes faisant l’objet de soins sans consentement.
+ 
+Sur 1’information des personnes :
+ 
+La Commission relève que le projet ne fait pas mention des conditions d’information des personnes concernées par le traitement.
+ 
+Elle rappelle que les personnes concernées par le traitement HOPSYWEB doivent être informées conformément aux dispositions de l’article 32 de la loi Informatique et Libertés. En outre, elle rappelle, s’agissant des personnes faisant l’objet de soins sans consentement, qu’en application de l’, cette information doit intervenir dès l’admission ou aussitôt que son état le permet et, par la suite, à sa demande .
+ 
+La Commission prend acte de l’engagement du ministère des solidarités et de la santé de compléter le projet sur ce point.
+ 
+Sur les droits d’accès, de rectification et d’opposition des personnes :
+ 
+Les droits d’accès et de rectification des données prévus aux articles 39 et 40 de loi Informatique et Libertés s’exercent auprès du directeur général de l’agence régionale de santé.
+ 
+Le ministère entend faire application du dernier alinéa de l’article 38 de la loi susmentionnée en excluant le droit d’opposition.
+ 
+Ces points n’appellent pas d’observation particulière de la Commission.
+ 
+Sur la sécurité des données et la traçabilité des actions :
+ 
+Des profils d’habilitations utilisateurs et administrateurs sont prévus afin de gérer les accès à l’application HOPSYWEB et aux données en tant que de besoin. La Commission recommande qu’une revue globale des habilitations soit opérée régulièrement.
+ 
+S’agissant de la politique des mots de passe, la Commission rappelle que celle-ci doit être conforme aux et portant recommandations relatives aux mots de passe.
+ 
+Une journalisation des accès à l’application est prévue. La Commission estime qu’une durée de conservation des journaux de quinze jours n’est pas conforme aux durées préconisées pour ce type de traitement. La Commission rappelle la nécessité de mettre en place des systèmes de journalisation des traces des opérations de consultation, de création et de modification des données pour une durée de six mois glissants et recommande de réaliser un contrôle régulier afin de détecter les comportements anormaux et lever des alertes. Dans le cas particulier des données de santé, elle recommande que les traces soient conservées dans les dossiers des patients et pour une durée égale à la durée de conservation de ces dossiers.
+ 
+La Commission prend acte du fait que les échanges auront exclusivement lieu sur des réseaux internes et sécurisés à savoir le Réseau Interministériel de l’Etat et les réseaux des agences régionales de santé concernées.
+ 
+L’accès aux locaux hébergeant le traitement est restreint au moyen de portes verrouillées contrôlées par un moyen d’authentification personnel. Des sauvegardes régulières sont réalisées. Les supports de stockage mis au rebus font l’objet d’une procédure de destruction physique ou d’un effacement sécurisé au moyen de logiciels spécifiques.
+ 
+La Commission observe qu’à ce jour il n’est pas prévu de chiffrement de la base de données et des sauvegardes. Compte tenu de la nature du traitement, elle recommande fortement que les données du traitement ainsi que leurs sauvegardes soient chiffrées.
+ 
+Concernant les mécanismes d’anonymisation, il conviendra de s’assurer que les statistiques produites ne permettent aucune identification directe ou indirecte des personnes concernées.
+ 
+Sous réserve des précédentes observations, les mesures de sécurité décrites par le responsable de traitement sont conformes à l’exigence de sécurité de l’article 34 de la loi du 6 janvier 1978 modifiée. La Commission rappelle toutefois que cette obligation nécessite la mise à jour des mesures de sécurité au regard de la réévaluation régulière des risques. 
+ 
+Le vice-président délégué,
+ 
+ 
+M.-F. Mazars 
+ 
+ 
+Nature de la délibération: AVIS
+ 
+ 
+
+

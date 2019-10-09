@@ -1,0 +1,121 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 28/06/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+DELIBERATION n°2018-130 du 12 AVRIL 2018 
+Délibération n° 2018-130 du 12 avril 2018 autorisant l’organisme SIACI Saint-Honoré SAS à mettre en œuvre un traitement automatisé de données à caractère personnel relatif aux périodes de chômage des salariés intérimaires. 
+
+(Demande d’autorisation n° 2079849) 
+ 
+La Commission nationale de l’informatique et des libertés, 
+Saisie par l’organisme SIACI Saint-Honoré SAS d’une demande d’avis concernant la mise en œuvre de la portabilité du régime de frais de santé des salariés intérimaires pendant leurs périodes de chômage ; 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ; 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ; 
+Vu le code de la sécurité sociale, notamment son article L. 911-8 ; 
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment son article 25-I-6° ; 
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ; 
+Vu l’accord du 14 décembre 2015 relatif au régime de frais de santé des salariés intérimaires ; 
+Sur la proposition de Mme Marie-France MAZARS, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement, 
+ 
+ 
+Formule les observations suivantes : 
+ 
+Responsable du traitement 
+SIACI Saint-Honoré SAS (S2H) est un organisme français spécialisé dans le courtage, le conseil, la gestion et la formation en assurance  
+ 
+S2H a été désigné comme l’opérateur de gestion délégué du régime collectif obligatoire et du régime complémentaire facultatif de frais de santé des salariés intérimaires dans l’Accord du 14 décembre 2015 relatif au régime de frais de santé des salariés intérimaires. 
+ 
+Sur la finalité 
+L’article L.911-8 du code de la sécurité sociale prévoit un maintien gratuit notamment de la protection complémentaire santé des demandeurs d’emploi indemnisés par le régime d’assurance chômage pendant une durée maximale d’un an à compter de la cessation du contrat de travail, sous réserve de présenter les justificatifs requis auprès de l’organisme assureur. 
+ 
+En application des articles 2 et 7 de l’accord du 14 décembre 2015 relatif au régime de frais de santé des salariés intérimaires, S2H est chargé de vérifier la condition d’activité antérieure nécessaire à l’affiliation des salariés intérimaires au régime collectif obligatoire et, le cas échéant, au régime complémentaire facultatif, créés par cet accord. Compte tenu de la réglementation de l’assurance chômage, les demandeurs d’emploi bénéficiant d’une ouverture de droits à l’assurance chômage remplissent nécessairement cette condition d’activité antérieure. 
+ 
+Le présent traitement vise à permettre au S2H de recueillir des pièces justificatives directement de Pôle emploi afin de faciliter la mise en œuvre de la portabilité du régime des frais de santé des salariés intérimaires.  
+ 
+Seules les données des personnes ayant consenti à cette transmission d’informations entre Pôle emploi et le S2H pourront être échangées directement entre les deux organismes. S’agissant des personnes n’y ayant pas consenti, le S2H devra obtenir les pièces justificatives auprès des personnes qui les auront recueillies auprès de Pôle emploi. 
+ 
+La Commission estime que cette finalité est déterminée, précise et légitime. 
+ 
+Sur les données traitées 
+Le S2H adresse un fichier contenant les données d’identification des personnes concernées qui ont consenti à la transmission de données entre le S2H et Pôle emploi. Ce fichier d’appel contient : 
+le Numéro d’inscription au Répertoire national d’identification des personnes physiques (NIR) ; 
+le numéro interne au S2H ; 
+le nom ; 
+le prénom ; 
+la date de naissance. 
+ 
+Pôle emploi transmet ensuite au S2H les informations suivantes : 
+la mention « Non trouvé » le cas échéant ; 
+le numéro interne à l’organisme ; 
+la personne est inscrite sur la liste des demandeurs d’emploi : oui/non ; 
+la date d’inscription sur la liste des demandeurs d’emploi ; 
+la dernière demande d’allocation est en cours d’examen : oui/non ; 
+la dernière décision sur la demande d’allocation est un rejet car la charge de l’indemnisation incombe à un employeur du secteur public : oui/non ; 
+le demandeur d’emploi est indemnisé au titre de l’une des allocations visées : oui/non ; 
+le type d’allocation : libellé de l’allocation concernée ; 
+le demandeur d’emploi a déclaré au moins une heure de travail lors de la dernière actualisation : oui/non. 
+ 
+Les éléments reçus de Pôle emploi permettent de justifier de la perception, par les personnes concernées, de l’allocation chômage.  
+ 
+La Commission estime que ces données sont adéquates, pertinentes et non excessives au regard de la finalité poursuivie par le responsable de traitement. 
+Sur les destinataires 
+Les données collectées ne sont transmises qu’à Pôle emploi afin de recueillir les informations nécessaires à l’établissement des droits des salariés intérimaires pendant les périodes de chômage. 
+ 
+La Commission considère que ces destinataires présentent un intérêt légitime à accéder aux données du présent traitement.  
+Sur l’information et le droit d’accès  
+La Commission relève que la convention conclue entre Pôle emploi et le S2H prévoit que le S2H recueille le consentement des personnes concernées et les informe des modalités de transmission des données avec Pôle emploi. 
+ 
+L’information relative à l’échange des données est transmise via le formulaire de collecte des données ainsi que les mentions légales présentes sur le site du S2H. 
+ 
+S2H informe également les personnes qu’elles peuvent exercer leurs droits d’accès, de rectification et d’opposition pour motif légitime auprès de la Direction des risques et de la Conformité du S2H s’agissant des données qu’elles ont directement fournies à S2H. Elles sont informées qu’en ce qui concerne les données fournies par Pôle emploi au S2H, les droits de rectification et d’opposition pour motif légitime s’exercent auprès de Pôle emploi. 
+ 
+La Commission considère que les modalités d’information et d’exercice des droits des personnes, décrites ci-dessus, sont satisfaisantes. 
+Sur les mesures de sécurité 
+Le responsable du traitement, en application de l’article 34 de la loi du 6 janvier 1978 modifiée, doit prendre toutes les précautions utiles pour préserver la sécurité des données collectées et traitées, au regard de la nature des données, des risques présentés par le traitement, et notamment empêcher que des tiers non autorisés y aient accès par l’intermédiaire de mesures de sécurité physiques, logiques et organisationnelles. 
+ 
+Pôle emploi et le S2H se sont engagés, par convention, à mettre en œuvre et à maintenir l’environnement technique opérationnel (procédures et mesures de sécurité) approprié à la sécurité des échanges, afin d’assurer notamment la protection des données transmises contre les risques d’accès non autorisés, de modification, de destruction ou de perte des données y figurant.  
+ 
+En l’espèce, la Commission relève l’existence de mesures de sécurité prises par S2H afin de préserver la sécurité des données et, notamment, empêcher que des tiers non autorisés y aient accès. 
+Un mécanisme de gestion des habilitations permet de garantir que seules les personnes habilitées peuvent accéder aux données nécessaires à la réalisation de leurs missions. A cet égard, la Commission rappelle que la gestion des habilitations doit faire l’objet de procédures formalisées, validées par le responsable de traitement et portées à la connaissance des utilisateurs, et être régulièrement mise à jour. Elle rappelle également que les modalités d’authentification des utilisateurs doivent être conformes à ses recommandations, en matière notamment de mots de passe. 
+ 
+Des mesures techniques garantissent la sécurité et la confidentialité des données stockées ou échangées, en particulier lors des échanges opérés par l’intermédiaire d’un réseau non sécurisé tel qu’Internet.  
+ 
+Un mécanisme de journalisation des accès à l’application et des opérations effectuées permet de détecter d’éventuels accès ou opérations non souhaitées ou interdites. 
+ 
+Enfin, des mesures nécessaires permettent d’assurer la maintenance du matériel et sa mise au rebut dans des conditions de sécurité satisfaisantes, en particulier s’agissant de l’absence de données à caractère personnel stockées dans les matériels remisés. 
+ 
+La Commission rappelle que l’usage d’outils ou de logiciels développés par des tiers dans le cadre de la mise en œuvre d’un traitement de données à caractère personnel reste sous la responsabilité du responsable de traitement qui doit notamment vérifier que ces outils ou logiciels respectent l’ensemble des obligations que la loi du 6 janvier 1978 modifiée met à sa charge.  
+ 
+Elle rappelle également qu’un responsable de traitement conserve la responsabilité des données à caractère personnel communiquées ou gérées par ses sous-traitants et, le cas échéant, que le contrat établi entre les parties doit mentionner les objectifs de sécurité qu’un sous-traitant doit respecter. 
+ 
+La Commission rappelle enfin que l’exigence de sécurité prévue par l’article 34 de la loi du 6 janvier 1978 modifiée nécessite la mise à jour des mesures de sécurité au regard de la réévaluation régulière des risques. 
+ 
+Sur les autres caractéristiques du traitement 
+Les données sont conservées le temps de la relation contractuelle avec la personne concernée jusqu’à l’expiration de la durée de prescription légale. 
+ 
+La Commission estime que cette durée de conservation n’est pas excessive au regard de la finalité poursuivie par le traitement conformément aux dispositions de l’article 6-5° de la loi du 6 janvier 1978 modifiée. 
+ 
+ 
+Autorise, conformément à la présente délibération, S2H à mettre en œuvre le traitement susmentionné. 
+ 
+ 
+ 
+Pour la Présidente Le Vice-Président délégué 
+ 
+ 
+Marie-France MAZARS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nature de la délibération: Autorisation
+ 
+ 
+
+

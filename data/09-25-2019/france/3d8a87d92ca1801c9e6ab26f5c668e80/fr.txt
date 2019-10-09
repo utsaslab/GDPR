@@ -1,0 +1,149 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 28/06/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+DELIBERATION n°2018-133 du 12 AVRIL 2018 
+Délibération n° 2018-133 du 12 avril 2018 autorisant la Direction des Services Départementaux de l’Education Nationale des Vosges à mettre en œuvre un traitement automatisé de données à caractère personnel ayant pour finalité la gestion et le suivi de l’absentéisme scolaire. 
+
+(Demande d’autorisation n° 2112011) 
+ 
+La Commission nationale de l’informatique et des libertés, 
+Saisie par la Direction des Services départementaux de l’Education Nationale des Vosges d’une demande d’autorisation concernant un traitement automatisé de données à caractère personnel ayant pour finalité la gestion et le suivi de l’absentéisme scolaire; 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ; 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ; 
+Vu le code de l’éducation, notamment ses articles L. 131-8, R. 131-6 et R. 131-7 ; 
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment les articles 25-I-1 et 25-I-3 ; 
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ; 
+Vu la circulaire interministérielle n° 2014-154 du 24 décembre 2014 relative à la prévention de l’absentéisme scolaire ; 
+Vu le dossier et ses compléments ; 
+Sur la proposition de Mme Joëlle FARCHY, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement, 
+ 
+ 
+Formule les observations suivantes : 
+ 
+Responsable du traitement 
+La Direction des Services Départementaux de l’Éducation Nationale des Vosges (DSDEN 88) a saisi la Commission d’une demande d’autorisation portant sur un traitement destiné à permettre « la gestion et le suivi de l’absentéisme scolaire » au sein des écoles et établissements d’enseignement du second degré, publics et privés sous contrat, dudit département ainsi qu’au sein de la DSDEN elle-même. La DSDEN 88, qui a déterminé les finalités et moyens de mise en œuvre du traitement, est le responsable de traitement. 
+Sur la finalité 
+La DSDEN 88 souhaite mettre en œuvre, au sein de son ressort de compétence, un traitement de données à caractère personnel destiné au suivi de l’absentéisme scolaire composé d’une application permettant d’assurer ce suivi de façon dématérialisée. 
+ 
+La lutte contre l’absentéisme scolaire est une obligation légale régie par les articles L. 131-8, R. 131-6 et R. 131-7 du code de l’éducation. Dès lors qu’un élève a manqué la classe plus de quatre demi-journées dans le mois sans motif légitime, au sens de l’article R.131-8 du code de l’éducation, ou excuses valables, au sens de l’article R. 131-7 dudit code, le directeur d’école ou le chef d’établissement doit réunir les membres de l’équipe éducative, dans le premier degré, ou de la commission éducative, dans le second degré, afin de proposer les mesures qui peuvent être prises pour remédier à cet absentéisme. Parallèlement à ces actions, le directeur de l’école ou le chef d’établissement doit saisir le Directeur Académique des Services de l’Education Nationale (DA-SEN) du dossier de l’élève absentéiste afin d’effectuer un signalement pour information ou pour avertissement. En fonction des éléments transmis par l’école ou l’établissement scolaire, le DA-SEN adresse un avertissement à la famille de l’élève. Sauf dans le cas où le directeur de l’école ou le chef d’établissement précise qu’il n’est pas indiqué d’effectuer un avertissement, ce dernier est envoyé à la famille dès lors que les absences de l’élève dépassent les dix demi-journées. Cet avertissement peut s’accompagner d’une convocation de la famille à un entretien avec le DA-SEN au cours duquel sont abordés les enjeux de l’assiduité scolaire et les difficultés qui peuvent être rencontrées par l’élève. Le DA-SEN peut également proposer des dispositifs d’accompagnement. Enfin, en ultime recours, dans l’hypothèse où l’absentéisme se poursuivrait malgré toutes les mesures d’accompagnement proposées, le procureur de la République peut être saisi des faits susceptibles d’être constitutifs de l’infraction de manquement à l’obligation d’assiduité scolaire prévue à l’article R. 624-7 du code pénal. 
+ 
+Dès lors, le traitement est susceptible de contenir des données relatives aux infractions dont les personnes concernées peuvent être l’auteur, et doit donc, conformément aux dispositions des 1° et 3° de l’article 25-I de ladite loi du 6 janvier 1978, être autorisé par la Commission. 
+ 
+Les dispositions mises en œuvre pour lutter contre l’absentéisme scolaire prévoient une action coordonnée des personnels de l’école ou de l’établissement scolaire dans lequel l’élève absentéiste est inscrit et du DA-SEN, ainsi qu’une circulation des informations relatives au suivi d’un élève et de sa famille. 
+ 
+Dans ce contexte, l’application créée par la DSDEN 88 a pour objectif d’inciter les directeurs et chefs d’établissement à mettre en œuvre un véritable accompagnement des élèves absentéistes et de leur famille en harmonisant et simplifiant les procédures de suivi de ces personnes. À cet égard, l’application permet notamment de générer des courriers types (courrier d’avertissement, courrier de convocation à un entretien) et des documents de contractualisation avec la famille, destinés à récapituler les mesures d’accompagnement mises en œuvres et à formaliser l’adhésion de la famille à celles-ci. En outre, elle doit également permettre à la DSDEN 88 de disposer d’une vue d’ensemble sur les mesures d’accompagnement proposées aux élèves absentéistes, afin de mieux piloter la prise en charge du défaut d’assiduité dans son ressort de compétence. 
+ 
+Cette application doit ainsi permettre un meilleur suivi en temps réel des actions et mesures d’accompagnement menées tant au niveau de l’établissement dans lequel est scolarisé l’élève qu’au niveau académique. 
+ 
+Le traitement poursuit également une finalité statistique, qui permet au responsable de traitement d’apprécier l’efficacité des mesures d’accompagnements mises en place pour lutter contre l’absentéisme scolaire et de transmettre au ministère de l’éducation nationale des données agrégées leur permettant de mieux orienter les actions à mener en la matière. 
+ 
+La Commission considère dès lors que les finalités du traitement projeté par la DSDEN 88, qui permettent la mise en œuvre effective de la procédure de lutte contre l’absentéisme prévue par le code de l’éducation, sont déterminées, explicites et légitimes, conformément à l’article 6-2° de la loi du 6 janvier 1978 modifiée. 
+ 
+Sur les données traitées 
+Les données traitées concernent les élèves ayant manqué la classe sans motif légitime ni excuses valables, au moins quatre demi-journées complètes dans une période d’un mois, et faisant donc l’objet d’un suivi dans le cadre de la lutte contre l’absentéisme scolaire.  
+ 
+Les données personnelles concernant un élève absentéiste sont relatives à :  
+ 
+son identité, 
+son adresse, 
+le nombre et les causes de ses absences,  
+le cas échéant, la saisine du procureur afin de lui signaler les faits susceptibles d’être constitutifs de l’infraction prévue à l’article R.624-7 du code pénal. 
+ 
+La Commission relève que le responsable de traitement n’a pas sollicité son autorisation pour enregistrer, dans l’application, des données ou informations relatives à l’attitude de l’élève, telles que des faits de violence physique ou verbale ou des transgressions du règlement intérieur de l’établissement et qui pourraient être constitutives de données relatives aux infractions, au sens des articles 9 et 25-I-3° de la loi du 6 janvier 1978 modifiée.  
+ 
+En revanche, la DSDEN 88 doit mentionner dans le traitement l’éventuelle saisine du Procureur qui doit, conformément à l’article R. 131-7 du code de l’éducation, intervenir en cas de manquement à l’obligation d’assiduité scolaire. Or, ces informations sont constitutives de données relatives aux infractions, au sens des articles 9 et 25 précités.  
+ 
+La DSDEN constitue une personne morale de droit public gérant un service public et agissant dans le cadre de ses attributions légales. Elle est dès lors habilitée, conformément à l’article 9-1° de la loi précitée, à mettre en œuvre un traitement portant sur de telles données.  
+ 
+Au regard de ces éléments, la Commission considère que le traitement d’une telle donnée est justifié.  
+ 
+Le traitement de la DSDEN 88 contient également des informations relatives aux démarches effectuées par l’établissement et la DSDEN 88 auprès de la famille et de l’élève et aux mesures d’accompagnement mises en œuvre. Il s’agit de mentions renseignées dans les sections « commentaires » et « objectifs » de l’application relatives : 
+ 
+aux comptes rendus d’entretiens entre le chef d’établissement ou le conseiller principal d’éducation (CPE) et l’élève ou ses parents, 
+à l’envoi aux familles d’un courrier d’avertissement et/ou de convocation,  
+au contrat passé entre l’établissement, l’élève et sa famille qui fait état des propositions et engagements pris par chacune des parties afin d’assurer le retour de l’élève en cours et améliorer son assiduité. 
+ 
+En outre, différents intervenants scolaires – médecins ou infirmiers, assistants sociaux, psychologue de l’Éducation nationale (PsyEN) – peuvent être amenés à rencontrer l’élève et à établir des rapports sur sa situation sociale, sur son état psychologique ou de santé. En effet, ces personnels participent à des réunions de commission dédiées à la lutte contre l’absentéisme scolaire, et peuvent ainsi apporter leur éclairage sur la situation de l’élève et donner leurs avis sur les mesures adéquates à adopter. Seules ces mesures sont renseignées dans l’application de la DSDEN 88, les rapports confidentiels de ces personnels psycho-médico-sociaux ne relevant pas du présent traitement.  
+ 
+La Commission relève que le responsable de traitement n’a pas sollicité l’autorisation de la Commission pour que soient enregistrées, dans l’application, des données sensibles, au sens de l’article 8 de la loi du 6 janvier 1978 modifiée.  
+ 
+Dès lors, elle rappelle que le responsable de traitement doit veiller à ce que ne soient pas enregistrées, dans l’application, des mentions inappropriées sur les personnes concernées ou attentatoires à leur vie privée et des données sensibles au sens de l’article 8 de la loi « Informatique et Libertés », en particulier pour les zones de commentaires libres qui peuvent être remplies par les personnels chargés de la mise en œuvre du traitement, tant au niveau local (école/établissement) qu’au niveau départemental. 
+ 
+À cet égard, elle recommande que les agents susceptibles de remplir ces zones reçoivent l’information suivante : « seules doivent être saisies les informations pertinentes au regard du contexte. Elles ne doivent pas faire apparaître, directement ou indirectement, l’appartenance ou la non-appartenance, vraie ou supposée, à une ethnie, une nation, une prétendue race ou une religion déterminée, les opinions politiques ou philosophiques, les appartenances syndicales ou les mœurs de la personne ou être relatives à la santé ou à la vie sexuelle de celle-ci. Les personnes concernées ont un accès à ces champs libre».    
+ 
+Les données concernant les responsables légaux des élèves absentéistes qui peuvent être enregistrées dans le traitement sont relatives à leur identité et à leurs coordonnées.  
+ 
+Dans ces conditions et sous réserve du respect des observations précédemment formulées, la Commission relève que les données enregistrées dans l’application sont adéquates, pertinentes et non excessives, conformément à l’article 6-3 de la loi du 6 janvier 1978 modifiée dès lors qu’elles sont nécessaires à la mise en œuvre d’un dispositif de lutte contre l’absentéisme scolaire. 
+ 
+Sur les accédants et les destinataires 
+Accèdent directement à l’application : 
+ 
+dans le premier degré : le directeur de l’école, 
+dans le second degré : le chef d’établissement, son adjoint, et la personne en charge du suivi de l’absentéisme (généralement le conseiller principal d’éducation), 
+à la DSDEN 88 : le DA-SEN, l’agent en charge de la gestion de l’absentéisme et le chef de service de celui-ci. 
+ 
+Ces personnels sont ceux qui, en application des dispositions du code de l’éducation, sont en charge du suivi de l’absentéisme scolaire. La Commission estime que les accès de ces personnes sont justifiés au regard de la finalité poursuivie.  
+ 
+Les destinataires des données contenus dans le traitement sont : 
+ 
+la cellule de protection de l’enfance du Conseil départemental, 
+le procureur de la République, en cas de signalement. 
+ 
+Concernant le premier destinataire, la Commission relève qu’aux termes de l’article L. 131-8 du code de l’éducation, les autorités concernées par la protection de l’enfance sont informées des mesures prises dans l’établissement scolaire contre l’absentéisme et le décrochage scolaire. Concernant le second destinataire, la Commission constate qu’il s’agit de l’autorité devant être saisie en cas d’absentéisme persistant, conformément à ladite disposition.  
+Dès lors, elle estime que la transmission d’information à ces destinataires est justifiée. 
+ 
+Sur l’information et les droits des personnes 
+Les personnes concernées sont informées, conformément à l’article 32 de la loi du 6 janvier 1978 modifiées, par des mentions portées sur les documents envoyés aux responsables légaux (courriers d’avertissements et de convocation) ou signés par ceux-ci. La Commission rappelle que les personnes concernées doivent être informées dès l’enregistrement de leurs données. 
+ 
+À cet égard, elle constate que suivant ses recommandations, la DSDEN 88 a indiqué qu’elle travaillait à intégrer la mention informative au sein des règlements intérieurs de l’ensemble des écoles et établissements scolaires concernés. La Commission prend acte de cet engagement de nature à renforcer l’accessibilité de l’information des personnes concernées. 
+ 
+Concernant les droits d’accès et de rectification, prévus aux articles 39 et 40 de la loi « Informatique et Libertés », ils s’exercent soit auprès du directeur de l’école ou du chef d’établissement dans lequel l’élève est scolarisé, soit auprès du chef de la division du second degré et du service scolarité de la DSDEN 88. 
+ 
+La Commission estime que les modalités d’exercice de ces droits, qui facilitent leur mise œuvre en offrant un recours auprès de l’entité la plus proche des personnes concernées, sont satisfaisantes. 
+ 
+Le traitement répondant à l’obligation légale de mettre en œuvre un dispositif de suivi et de lutte de l’absentéisme scolaire, le droit d’opposition ne s’applique pas, conformément aux dispositions de l’article 38 de ladite loi. 
+ 
+Sur les mesures de sécurité 
+L’authentification des utilisateurs de l’application est assurée par l’utilisation d’un identifiant – adresse électronique académique - et d’un mot de passe composé d’au moins huit caractères et contenant nécessairement des minuscules, majuscules et chiffres. 
+ 
+La Commission relève que cette politique de mots de passe n’est pas conforme aux recommandations qu’elle a élaborées dans sa délibération n° 2017-012 du 19 janvier 2017. Elle demande dès lors à la DSDEN 88 d’adopter les mesures nécessaires à la mise en conformité de ladite politique. 
+ 
+Des profils d’habilitation définissent les données et les fonctionnalités accessibles en fonction des utilisateurs du présent traitement. 
+ 
+L’application est développée sur les serveurs du rectorat. Les accès au traitement se font via le protocole HTTPS, qui permet de garantir la confidentialité des données échangées ainsi que l’authentification du responsable de traitement. Concernant le recours à ce protocole, la Commission recommande d’utiliser la version de TLS la plus à jour possible. Elle rappelle également que toutes les transmissions de données doivent s’effectuer de façon sécurisée. Elle considère que, pour chaque transfert de données, des mesures devront ainsi assurer la confidentialité et l’authentification des acteurs concernés. 
+ 
+Le traitement comporte une fonctionnalité de journalisation des actions de création permettant d’identifier l’utilisateur à l’origine de l’opération. La Commission recommande que soit également mise en place une journalisation des actions de consultation, de mise à jour et de suppression. Le responsable de traitement a indiqué que la durée de conservation de ces traces est la durée de l’année scolaire en cours. La Commission rappelle que les données de journalisation doivent être conservées pendant une période de six mois glissants à compter de leur enregistrement, puis détruites, sauf justification particulière dont le responsable de traitement ne fait pas état. 
+ 
+La Commission rappelle que les documents de contractualisation conservés par l’établissement scolaire au format papier, dans le dossier de l’élève, doivent également faire l’objet de mesures de sécurité conformes à l’article 34 de la loi du 6 janvier 1978 modifiée. 
+ 
+Sous réserve du respect des éléments précités, les mesures de sécurités décrites par le responsable de traitement sont conformes à l’exigence de sécurité prévue par l’article 34 de la loi du 6 janvier 1978 modifiée. La Commission rappelle toutefois que cette obligation nécessite la mise à jour des mesures de sécurité au regard de la réévaluation régulière des risques. 
+ 
+Sur les autres caractéristiques du traitement 
+Conformément à l’article R.131-6 du code de l’éducation, les données enregistrées dans l’application sont conservées en base d’archives courantes pendant la durée de l’année scolaire. A cet égard, la DSDEN 88 a précisé qu’en cas de déménagement de l’enfant impliquant un changement d’académie, les données sont conservées pour cette même durée, avec le commentaire suivant : « est scolarisé dans un autre établissement ». 
+ 
+Le responsable de traitement a indiqué que les données traitées de manière dématérialisée ne font l’objet d’aucun archivage et sont supprimées automatiquement à la fin de l’année scolaire. Ainsi, dans le cas où un dossier de contractualisation a été mis en place avec l’élève et ses responsables légaux ou si l’élève fait l’objet du même suivi l’année suivante, un nouveau dossier est créé. 
+ 
+La Commission rappelle que, conformément à l’instruction de tri n°2005-003 du 22 février 2005, le contrat avec la famille conservé par l’établissement scolaire au format papier doit être supprimé de manière sécurisée à l’issue de la durée de conservation précitée.  
+ 
+La Commission considère que la durée de conservation des données personnelles n’excède pas celle nécessaire aux finalités pour lesquelles elles ont été collectées et traitées, conformément à l’article 6-5° de la loi du 6 janvier 1978 modifiée. 
+ 
+ 
+Autorise, conformément à la présente délibération, la DSDEN des Vosges à mettre en œuvre le traitement susmentionné. 
+ 
+ 
+Pour la Présidente Le Vice-Président délégué 
+ 
+Marie-France MAZARS 
+ 
+ 
+ 
+ 
+Nature de la délibération: Autorisation
+ 
+ 
+
+

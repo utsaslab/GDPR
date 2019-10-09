@@ -1,0 +1,45 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 05/03/2019
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+Délibération n°2019-011 du 31 janvier 2019 
+Délibération n° 2019-011 du 31 janvier 2019 modifiant la délibération n° 2018-327 du 11 octobre 2018 portant adoption de la liste des types d’opérations de traitement pour lesquelles une analyse d’impact relative à la protection des données est requise 
+
+ 
+La Commission nationale de l’informatique et des libertés,
+ 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ;
+ 
+Vu le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE, notamment son article 35 ;
+ 
+Vu la modifiée relative à l’informatique, aux fichiers et aux libertés ;
+ 
+Vu le modifié pris pour l’application de la relative à l’informatique, aux fichiers et aux libertés ;
+ 
+Vu la portant adoption de la liste des types d’opérations de traitement pour lesquelles une analyse d’impact relative à la protection des données est requise ;
+ 
+Vu les lignes directrices du Comité européen de la protection des données concernant l’analyse d’impact relative à la protection des données (AIPD) et la manière de déterminer si le traitement est susceptible d’engendrer un risque élevé aux fins du règlement (UE) 2016/679 adoptées le 4 avril 2017 ;
+ 
+Vu l’avis 9/2018 du Comité européen de la protection des données relatif au projet de liste de l’autorité de contrôle française portant sur les types d’opération de traitements pour lesquelles une analyse d’impact relative à la protection des données (article 35.4 du RGPD), adopté le 25 septembre 2018 ; 
+ 
+ 
+Après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement,
+ 
+Décide :
+ 
+De modifier l’ , dans la rubrique Traitement de données biométriques aux fins de reconnaissance des personnes parmi lesquelles figurent des personnes dites vulnérables (élèves, personnes âgées, patients, demandeurs d’asile, etc.) en remplaçant, les mots : aux fins de reconnaissance des personnes par la formulation : aux fins d’identifier une personne physique de manière unique .
+ 
+La présente délibération sera publiée au Journal officiel de la République française. 
+ 
+Pour la présidente :
+ 
+ 
+Le vice-président délégué,
+ 
+ 
+M.-F. Mazars 
+
+

@@ -1,0 +1,105 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 18/10/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+Décision n°MED-2018-034 du 25 septembre 2018 
+Décision n° MED 2018-034 du 25 septembre 2018 mettant en demeure la société MALAKOFF MÉDÉRIC MUTUELLE 
+
+La Présidente de la Commission nationale de l’informatique et des libertés, 
+ 
+Vu la Convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ; 
+ 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, abrogée par le règlement (UE) 2016/679 du Parlement européen et du conseil du 27 avril 2016 relatif à la protection des données à caractère personnel et à la libre circulation de ces données ; 
+ 
+Vu le code pénal ; 
+ 
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment son article 45 ; 
+ 
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ; 
+ 
+Vu la délibération n° 2013-175 du 4 juillet 2013 portant adoption du règlement intérieur de la Commission nationale de l’informatique et des libertés ; 
+ 
+Vu la décision n° 2018-044C du 2 mars 2018 de la Présidente de la Commission nationale de l’informatique et des libertés de charger le Secrétaire général de procéder ou de faire procéder à une mission de vérification de tous les traitements de prospection mis en œuvre par le groupe Malakoff-Médéric ou pour son compte ; 
+ 
+Vu le procès-verbal de contrôle n° 2018-044 du 14 mars 2018 ; 
+ 
+Vu les autres pièces du dossier ; 
+ 
+I- Les faits constatés : 
+ 
+Le groupe Malakoff-Médéric est une institution de retraite complémentaire. Il est issu de la fusion, le 30 juin 2008, du groupe Malakoff et du groupe Médéric. 
+ 
+Le groupe intervient dans tous les domaines de la protection sociale, pour les entreprises et les particuliers et compte environ 5 800 salariés en France et couvre 6,6 millions de personnes notamment à travers 212 000 entreprises clientes. 
+ 
+Il a pour objet de mettre en œuvre les régimes de retraite complémentaire en réalisant des opérations de gestion (recouvrer les cotisations, liquider les droits et payer les allocations de retraite, etc.). Comme d’autres institutions de retraite, le groupe a adhéré aux fédérations AGIRC et ARRCO (ci-après l’AGIRC-ARRCO ). Ces fédérations regroupent plusieurs institutions de retraite. Elles ont pour double mission de compenser les opérations réalisées par les institutions de retraite et de contrôler ces institutions. 
+ 
+Afin de réaliser la mission d’intérêt général de gestion de la retraite complémentaire des salariés, l’AGIRC-ARRCO met en œuvre plusieurs traitements de données à caractère personnel rassemblés dans un système appelé l’usine retraite . Ces traitements rassemblent des données personnelles d’actifs ou d’anciens actifs collectées indirectement (principalement à travers la Déclaration Sociale Nominative). L’AGIRC-ARRCO détermine les finalités et les moyens de ces traitements de données à caractère personnel. L’ usine-retraite est une application informatique destinée à être utilisée par les groupes paritaires français de protection sociale pour l’exercice du métier de la retraite complémentaire. 
+ 
+En application de la décision n° 2018-044C du 2 mars 2018 de la Présidente de la Commission nationale de l’informatique et des libertés (ci-après CNIL ou la Commission ), une délégation de la CNIL a procédé à une mission de contrôle sur place, le 14 mars 2018, dans les locaux de la société. Cette mission a eu pour objet de procéder à la vérification de la conformité de l’ensemble des traitements de données à caractère personnel mis en œuvre par le groupe Malakoff-Médéric aux dispositions de la loi 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés (ci-après la loi Informatique et Libertés ou loi du 6 janvier 1978 modifiée ). 
+ 
+À l’issue de ce contrôle, le groupe Malakoff-Médéric a fait parvenir aux services de la Commission, à leur demande, divers documents de contexte et d’explication relatifs aux traitements contrôlés par la délégation. 
+ 
+Il ressort des informations obtenues durant ce contrôle et des documents précités que plusieurs entreprises constituent le groupe Malakoff-Médéric, et notamment la société MALAKOFF MÉDÉRIC MUTUELLE, société sise 21 rue Lafitte à PARIS (75009), numéro de SIREN 784 718 256. 
+ 
+La délégation a également été informée que des campagnes de prospections téléphoniques sont réalisées par des sociétés composant le groupe Malakoff-Médéric ou pour leur compte. 
+ 
+Ainsi, le groupe Malakoff-Médéric a informé la délégation que la société MALAKOFF MÉDÉRIC MUTUELLE a fait procéder à la campagne de prospection PE relative à la santé, visant […] personnes démarchées par courrier, dont […] personnes recontactées ensuite par téléphone. 
+ 
+La délégation a constaté que tout ou partie des informations personnelles utilisées à l’occasion de ces campagnes de prospection commerciale (adresse postale et numéros de téléphone notamment) était issu de l’ usine retraite . 
+ 
+Ainsi, l’analyse des documents communiqués par la société à l’issu du contrôle a permis de constater que les bases de données alimentant les outils CRM de la société (outil […] et outil […] ) sont alimentées par des flux provenant de l’AGIRC-ARRCO. 
+ 
+ 
+ 
+II- L’identification du responsable du traitement 
+ 
+L’article 3 de la loi 78-17 du 6 janvier 1978 modifiée dans sa version en vigueur au 13 février 2018, jour du contrôle, dispose que le responsable d’un traitement de données à caractère personnel est, […] la personne, l’autorité publique, le service ou l’organisme qui détermine ses finalités et ses moyens . 
+ 
+Interrogée par la délégation sur ce point, l’AGIRC-ARRCO a précisé être responsable du traitement l’usine retraite , les institutions de retraite complémentaire chargées de la mise en œuvre des traitements étant sous-traitantes au titre de la loi Informatique et Libertés. 
+ 
+Le groupe Malakoff-Médéric, caisse de retraite complémentaire, a pour objet de mettre en œuvre les régimes de retraite complémentaire en réalisant des opérations de gestion. À ce titre, le groupe et les sociétés qui le composent ont accès à des données à caractère personnel qu’ils doivent traiter aux fins déterminées par l’AGIRC-ARRCO. 
+ 
+En utilisant à des fins commerciales des données à caractère personnel qu’elle détient dans le cadre de sa mission d’intérêt général, la société MALAKOFF MÉDÉRIC MUTUELLE a déterminé de nouvelles finalités et de nouveaux moyens au traitement visé, et s’est comportée comme le responsable du traitement. 
+ 
+Elle est donc à ce titre considérée comme tel. 
+ 
+III- Les manquements au regard des dispositions de la loi du 6 janvier 1978 modifiée 
+ 
+Un manquement à l’interdiction de traiter ultérieurement, d’une manière incompatible avec la finalité initiale, des données collectées pour des finalités déterminées 
+ 
+Les bases de données de l’organisme (dont la base […]) sont utilisées à des fins de prospection, notamment pour les produits d’assurance de personne. Elles sont configurées pour être alimentées par des données issues des bases informatiques de l’AGIRC-ARRCO transmises par flux pour des finalités initiales de gestion de la retraite complémentaire. 
+ 
+Interrogée à ce sujet, l’AGIRC-ARRCO a informé la délégation que l’ usine retraite est une composante du système d’information de la retraite complémentaire. Elle comprend un ensemble de traitements qui ont tous pour finalité de mettre en œuvre la mission d’intérêt général de gestion de la retraite complémentaire des salariés du secteur privé, incombant aux fédérations et institutions de retraite complémentaire en application des articles L921-4, L922-1 et L922-4 du Code de la sécurité sociale. 
+ 
+L’organisme a également précisé à la délégation que ni les institutions de retraite complémentaire ni les groupes de protection sociale n’ont été autorisés par l’AGIRC-ARRCO à réutiliser les données à caractère personnel issues du système d’information de la retraite complémentaire. À ce titre, l’instruction AGIRC-ARRCO 2008/94 relative aux formalités déclaratives auprès de la CNIL précise, en page six, que l’utilisation des applicatifs de l’usine retraite à d’autres fins que les besoins de gestion de la retraite complémentaire n’est pas envisageable . Cela a également été rappelé par les présidents de l’AGIRC-ARRCO dans leur lettre du 29 août 2017 aux présidents des groupes de protection sociale : conformément à la réglementation en vigueur, une utilisation des données personnelles de la retraite complémentaire ne saurait être envisagée à d’autres fins que celle pour laquelle elles ont été initialement collectées sans l’accord individuel de chacune des personnes concernées . 
+ 
+Il résulte de ce qui précède que l’utilisation des données issues de l’ usine retraite à des fins de prospection publicitaire, téléphonique ou postale, constitue un manquement aux obligations prévues au 2° de l’article 6 de la loi 78-17 du 6 janvier 1978 modifiée, dans sa version applicable aux faits de l’espèce, qui dispose que les données sont collectées pour des finalités déterminées, explicites et légitimes et ne sont pas traitées ultérieurement de manière incompatible avec ces finalités . 
+ 
+Il est rappelé qu’en application des articles 226-21 et 131-41 du Code pénal combinés, le fait, pour une personne morale, de détourner des données à caractère personnel de leur finalité est puni d’une peine d’amende pouvant atteindre 1 500 000 euros. 
+ 
+En conséquence, la société MALAKOFF MÉDÉRIC MUTUELLE, sise 21 rue Lafitte à PARIS (75009), est mise en demeure sous un délai d’un (1) mois à compter de la notification de la présente décision et sous réserve des mesures qu’elle aurait déjà pu adopter, de : 
+ 
+ 
+cesser de traiter les données à caractère personnel provenant du traitement usine retraite pour des finalités incompatibles avec celles qui ont été définies par l’AGIRC-ARRCO et notamment à des fins de prospection commerciale pour des contrats d’assurance de personnes ; 
+ 
+justifier auprès de la CNIL que l’ensemble des demandes précitées a bien été respecté, et ce dans le délai imparti. 
+ 
+À l’issue de ce délai, si la société MALAKOFF MÉDÉRIC MUTUELLE s’est conformée à la présente mise en demeure, il sera considéré que la présente procédure est close et un courrier lui sera adressé en ce sens. 
+ 
+À l’inverse, si la société MALAKOFF MÉDÉRIC MUTUELLE ne s’est pas conformée à la présente mise en demeure, un rapporteur sera désigné qui pourra demander à la formation restreinte de prononcer l’une des sanctions prévues par l’article 45 de la loi du 6 janvier 1978 modifiée. 
+ 
+ 
+ 
+La Présidente 
+ 
+ 
+ 
+ 
+ 
+Isabelle FALQUE-PIERROTIN 
+ 
+
+

@@ -1,0 +1,68 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 25/05/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+Délibération n°2018-118 du 22 mars 2018 
+Délibération n° 2018-118 du 22 mars 2018 portant avis sur un projet de décret modifiant les dispositions de la partie réglementaire du code du sport relatives au traitement automatisé de données à caractère personnel pour la mise en œuvre du profil biologique des sportifs (demande d’avis n° 18004893) 
+NOR: CNIL1804893X
+
+La Commission nationale de l’informatique et des libertés,
+ 
+Saisie par le ministère des sports d’une demande d’avis concernant un projet de décret modifiant les dispositions de la partie règlementaire du code du sport relatives au traitement automatisé de données à caractère personnel pour la mise en œuvre du profil biologique des sportifs ;
+ 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ;
+ 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+ 
+Vu le , notamment ses articles L. 230.3, R. 232-41-1 et suivants ;
+ 
+Vu la modifiée relative à l’informatique, aux fichiers et aux libertés, notamment son article 26-II ;
+ 
+Vu le modifié pris pour l’application de la relative à l’informatique, aux fichiers et aux libertés ;
+ 
+Vu la portant avis sur un projet de décret modifiant les dispositions du relatives au traitement automatisé de données à caractère personnel pour la mise en œuvre du profil biologique des sportifs ; 
+ 
+ 
+Sur la proposition de M. Alexandre LINDEN, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement,
+ 
+Emet l’avis suivant :
+ 
+La Commission nationale de l’informatique et des libertés a été saisie pour avis par le ministère des sports d’un projet de décret en Conseil d’Etat modifiant les dispositions du relatives au traitement automatisé de données à caractère personnel pour la mise en œuvre du profil biologique des sportifs mis en œuvre par l’Agence française de lutte contre le dopage (AFLD).
+ 
+La commission s’est prononcée, dans une première sur le projet de décret visant, d’une part, à élargir le champ d’application du profil biologique à l’ensemble des sportifs tel que défini à l’ et, d’autre part, à allonger le délai de prescription applicable pour la répression, sur le plan disciplinaire, des manquements à la règlementation antidopage.
+ 
+Elle avait alors attiré l’attention du ministère sur l’importance de mettre en œuvre des modalités d’information adaptées au regard du nombre de sportifs potentiellement concernés et de faire évoluer certaines mesures de sécurité afin de les mettre en conformité avec état de l’art en la matière.
+ 
+Par la suite, l’Agence mondiale antidopage (AMA) a fait part à l’AFLD de la nécessité de modifier les informations que doit comporter le procès-verbal établi à l’occasion d’un contrôle antidopage donnant lieu à un prélèvement sanguin pour l’établissement du profil biologique d’un sportif, afin de garantir la conformité du droit français aux règles internationales applicables en la matière.
+ 
+Le ministère des sports a donc adressé, préalablement à la saisine du Conseil d’Etat, un nouveau projet de décret à la commission (ci-après le projet ) prenant en compte la modification.
+ 
+La commission précise que les observations formulées dans la présente délibération ne portent que sur les modifications apportées au projet. Dès lors, ses deux délibérations portant avis devront être visées par le décret.
+ 
+Sur la modification de l’ :
+ 
+Les prévoient que peut être enregistré dans le traitement automatisé des données à caractère personnel mis en œuvre par l’AFLD la participation du sportif à des stages en moyenne ou haute altitude, ou du recours à un dispositif de simulation de l’altitude, au cours des trois derniers mois . Cependant, le standard international de l’AMA pour les contrôles et enquêtes ne vise que les deux dernières semaines.
+ 
+L’article 5 du projet vise à réduire le délai de trois mois à deux semaines, conformément aux recommandations de l’AMA.
+ 
+Cette modification n’appelle pas d’observation particulière au regard de la protection des données à caractère personnel.
+ 
+Par ailleurs, la commission prend acte du fait que les autres dispositions du projet, sur lesquelles elle s’était prononcée dans sa , n’ont pas été modifiées. 
+ 
+Pour la présidente :
+ 
+ 
+Le vice-président délégué,
+ 
+ 
+M.-F. Mazars 
+ 
+ 
+Nature de la délibération: AVIS
+ 
+ 
+
+

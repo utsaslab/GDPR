@@ -1,0 +1,99 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 28/06/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+DELIBERATION n°2018-144 du 3 MAI 2018 
+Délibération n° 2018-144 du 3 mai 2018 autorisant la société « Tmm Software » à mettre en œuvre un traitement automatisé de données à caractère personnel ayant pour finalité l’utilisation d’un dispositif de télésurveillance médicale dénommé « apTeleCare » 
+
+(Demande d’autorisation n° 2172356) 
+ 
+La Commission nationale de l’informatique et des libertés, 
+Saisie par la société « Tmm Software » d’une demande d’autorisation concernant un traitement automatisé de données à caractère personnel ayant pour finalité l’utilisation d’un dispositif de télésurveillance médicale dénommé « apTeleCare » ; 
+Vu la Convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ; 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ; 
+Vu le code de la santé publique, notamment son article L. 1110-4, L. 1111-8 et L. 6316-1 et R.6316-1 et suivants ; 
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment son article 25-I-6° ; 
+Vu la loi n° 2017-1836 du 30 décembre 2017 de financement de la sécurité sociale pour 2018, notamment son article 54 ; 
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ; 
+Vu l’arrêté du 6 décembre 2016 portant cahiers des charges des expérimentations relatives à la prise en charge par télésurveillance mises en œuvre sur le fondement de l’article 36 de la loi n° 2013-1203 de financement de la sécurité sociale pour 2014 ; 
+Vu le dossier et ses compléments ; 
+Sur la proposition de M. Alexandre LINDEN, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement, 
+ 
+ 
+Formule les observations suivantes : 
+ 
+Responsable du traitement 
+Tmm Software est une société par actions simplifiée, spécialisée dans le développement de solutions logicielles en e-santé.  
+Sur la finalité 
+Le traitement de données à caractère personnel généré par l’utilisation d’« apTeleCare » a pour objectif la réalisation d’actes de télésurveillance médicale à domicile des patients atteints de tout type de pathologies (maladies rénales, diabète, insuffisance cardiaque, etc.), à travers la mise en place d’une solution intégrant les fonctionnalités suivantes : 
+ 
+un moteur de création et de personnalisation des protocoles médicaux appliqués aux patients ; 
+ 
+un portail web, auquel accèdent par le biais d’un espace personnel dédié les professionnels de santé et les patients, et intégrant les protocoles médicaux, les questionnaires adressés aux patients et les réponses apportées, les actions d’information et d’éducation thérapeutique menées auprès du patients, un accès au dossier électronique du patient, un tableau de bord de suivi du patient, les alertes générées et leur suivi, les échanges entre le professionnels et les patients via une messagerie sécurisée ; 
+ 
+une application mobile, à utiliser sur ordiphone ou sur tablette, à destination des patients, et permettant de renseigner et d’accéder à tous les éléments de suivi du patient. 
+ 
+La Commission estime que les finalités poursuivies par le traitement sont déterminées, explicites et légitimes. 
+ 
+Elle considère qu’il y a lieu de faire application de l’article 25-I-6° de la loi du 6 janvier 1978 modifiée, qui soumettent à autorisation de la Commission les traitements de données de santé qui contiennent, comme en l’espèce, le numéro d’inscription des personnes au répertoire national d’identification des personnes physiques (NIR) à des fins de remboursement.  
+Sur les données traitées 
+Concernant les patients, sont traités des données d’identification, de connexion, de santé et le NIR. 
+ 
+Concernant les professionnels de santé participant à l’acte de télésurveillance et les autres professionnels accompagnant les professionnels de santé, sont traitées des données d’identification et de connexion. 
+ 
+Concernant l’acte de télésurveillance, sont traités le compte-rendu de réalisation de l’acte de télésurveillance, l’identification des professionnels participant à l’acte, les questionnaires et protocoles médicaux, la date et l’heure de l’acte, la gestion d’une alerte et son suivi. 
+Sur les destinataires 
+Les destinataires des données sont les professionnels de santé intervenant dans le dispositif de télésurveillance médicale, les administrateurs de « Tmm Software », l’hébergeur. Ils accèdent aux données dans la limite de leurs attributions respectives. 
+ 
+ 
+ 
+La Commission demande à ce que la prescription nécessaire à la facturation à la caisse primaire d’assurance maladie d’« apTeleCare » soit envoyée par le patient à la société « Tmm Software ». 
+Sur l’information et le droit d’accès  
+Le patient dispose d’une information écrite, délivrée sous la forme d’une note d’information et de recueil du consentement. Cette note s’affiche à l’occasion de la première connexion du patient à l’application et à l’occasion de chaque mise à jour. Elle est rédigée notamment pour assurer le respect des dispositions de l’article 32 de la loi du 6 janvier 1978 modifiée. 
+La Commission demande à ce que ce document soit modifié pour intégrer l’hébergeur comme destinataire des données traitées au titre de l’acte de télésurveillance médicale. 
+ 
+Le consentement du patient est enregistré par écrit, lors de la validation du formulaire d’information et de recueil du consentement.  
+ 
+Les droits d’accès, de rectification et d’opposition tels que reconnus par la loi du 6 janvier 1978 modifiée sont précisés dans la notice d’information et de recueil du consentement. Ils s’exercent : 
+ 
+pour les patients : soit auprès du médecin ayant prescrit le dispositif de télésurveillance médicale soit, à l’exception des données de santé et du NIR, directement sur l’espace dédié à la gestion de son compte ; 
+ 
+pour les professionnels de santé : auprès des services de « Tmm Software ». 
+Sur les mesures de sécurité 
+L’ensemble des données de santé à caractère personnel traitées est hébergé auprès d’un hébergeur agréé conformément à la réglementation en vigueur. 
+ 
+Les données stockées sont chiffrées avec des algorithmes et des procédures de gestion de clés conformes à l’annexe B1 du référentiel général de sécurité. 
+ 
+Les échanges de données sont réalisés via des canaux de communication chiffrés et assurant l’authentification de la source et du destinataire. 
+ 
+La Commission rappelle que les échanges de courriels avec les médecins doivent se faire exclusivement à travers des messageries sécurisées de santé, dans des conditions conformes à la délibération n° 2014-239 du 12 juin 2014 portant autorisation unique de mise en œuvre, par les professionnels et établissements de santé ainsi que par les professionnels du secteur médico-social habilités par une loi, de traitements de données à caractère personnel ayant pour finalité l’échange par voie électronique de données de santé à travers un système de messagerie sécurisée (AU 037). 
+ 
+La Commission recommande que la création de comptes utilisateur, le paramétrage du canal utilisé pour la transmission des codes à usage unique et le renouvellement du mot de passe soient sécurisés par une authentification forte avec la carte de professionnel de santé de l’utilisateur ou celle de son responsable s’il n’en dispose pas lui-même. 
+ 
+La Commission relève qu’un module d’analyse de données permet une exploitation statistique. Elle rappelle qu’un tel outil ne doit permettre que des restitutions parfaitement anonymes. A défaut, des mesures complémentaires doivent être mises en œuvre afin de limiter les risques de réidentification des personnes, notamment en limitant les interrogations ciblées et le niveau de détail des données fournies. 
+Sur les autres caractéristiques du traitement 
+Les données à caractère personnel correspondant à des coordonnées sont conservées pendant tout la durée de la télésurveillance, puis détruites six mois après la désactivation du compte. 
+ 
+Les autres données à caractère personnel traitées par le dispositif « apTeleCare » sont conservées pendant dix ans après la fin du suivi des patients en télésurveillance. 
+ 
+A l’issue de la période d’archivage, toutes les données à caractère personnel sont détruites. 
+ 
+ 
+Autorise, conformément à la présente délibération, la société « Tmm Software » à mettre en œuvre le traitement susmentionné. 
+ 
+ 
+Pour la Présidente Le Vice-Président délégué 
+ 
+Marie-France MAZARS 
+ 
+ 
+ 
+ 
+Nature de la délibération: Autorisation
+ 
+ 
+
+

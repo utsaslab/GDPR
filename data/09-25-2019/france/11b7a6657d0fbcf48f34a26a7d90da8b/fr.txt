@@ -1,0 +1,155 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 25/05/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+Délibération n°2018-049 du 8 février 2018 
+Délibération n° 2018-049 du 8 février 2018 portant avis sur un projet de décret autorisant la mise en œuvre du système d’information de la police nationale (SIPol) (demande d’avis n° 2039181) 
+NOR: CNIX1813994X
+
+La Commission nationale de l’informatique et des libertés,
+ 
+Saisie par le ministre de l’intérieur d’une demande d’avis concernant un projet de décret autorisant la mise en œuvre du système d’information de la police nationale (SIPol) ;
+ 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ;
+ 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+ 
+Vu le , notamment son article 777-3 ;
+ 
+Vu la modifiée relative à l’informatique, aux fichiers et aux libertés, notamment son article 26-II ;
+ 
+Vu le modifié pris pour l’application de la relative à l’informatique, aux fichiers et aux libertés ;
+ 
+Vu le modifié portant organisation de l’administration centrale du ministère de l’intérieur et du ministère des outre-mer ; 
+ 
+ 
+Après avoir entendu M. Jean-François CARREZ, commissaire, en son rapport, et Mme Nacima BELKACEM, commissaire du Gouvernement, en ses observations,
+ 
+Emet l’avis suivant :
+ 
+La commission a été saisie par le ministre de l’intérieur d’une demande d’avis concernant un projet de décret autorisant la mise en œuvre d’un traitement automatisé de données à caractère personnel dénommé système d’information ·de la police nationale (SIPol).
+ 
+Ce traitement doit faciliter la diffusion d’informations collectées par les services territoriaux des directions rattachées à la Direction générale de la police nationale (DGPN) du ministère de l’intérieur, en vue d’apporter une aide à la prise de décision au directeur général de la police nationale. Parmi les données à caractère personnel susceptibles d’y être enregistrées, figurent des catégories de données relevant du I de l’article 8 de la loi du 6 janvier 1978 modifiée.
+ 
+Le traitement doit donc être autorisé par décret en Conseil d’Etat pris après avis motivé et publié de la commission, conformément à l’article 26-II de la loi du 6 janvier 1978 modifiée.
+ 
+La commission regrette dès lors d’avoir dû constater que le traitement SIPol est déjà mis en œuvre par la DGPN et qu’elle n’a donc été saisie qu’à des fins de régularisation du dispositif.
+ 
+La commission souligne en outre que les conditions de mise en œuvre de ce traitement appellent une vigilance particulière compte tenu du volume, de la sensibilité et de la grande diversité des informations susceptibles d’y être enregistrées à des fins de transmission au directeur général de la police nationale. Si cette particularité du traitement résulte de la nature des missions larges assumées par les services de la DGPN et de l’objet même du traitement, elle appelle des garanties particulières pour assurer la stricte proportionnalité du dispositif. Ainsi, comme les développements qui suivent l’indiquent, la commission juge nécessaires la définition et la diffusion aux utilisateurs du système de critères d’alimentation clairs permettant de prévenir la collecte de données non pertinentes ou leur conservation pendant une durée excessive.
+ 
+Sur les finalités poursuivies :
+ 
+Aux termes de l’article 1er du projet de décret, le traitement SIPol, qui doit être mis en œuvre par la DGPN, a pour finalité de permettre de collecter et de fiabiliser les informations signalées par les services territoriaux des directions de la police nationale qui, en raison notamment de leur sensibilité, doivent être portées à la connaissance du directeur général de la police nationale et lui permettre, le cas échéant, de prendre toute décision relevant de ses compétences .
+ 
+Le traitement SIPol, qui doit constituer une base documentaire interne à la police nationale, vise en effet à centraliser et fiabiliser les informations opérationnelles provenant du réseau territorial relatives à des événements soulevant des questions liées à la sécurité publique. La fiabilisation des informations, grâce au recoupement des différentes données enregistrées dans la base, à leur analyse et à leur enrichissement par les différentes directions de la police nationale, doit permettre de diffuser plus rapidement une information consolidée au directeur général de la police nationale pour faciliter, le cas échéant, la prise de décision.
+ 
+Le dispositif soumis à la commission répond au souhait du ministère de l’intérieur d’améliorer la gestion de l’information opérationnelle et de renforcer la capacité de gestion des crises, aujourd’hui dépendante d’échanges téléphoniques et de l’envoi de courriels ou de télégrammes. Il doit reposer sur un outil de gestion électronique de documentation (GED), grâce auquel l’ensemble des éléments enregistrés seront automatiquement indexés, ce qui doit permettre la mise en perspective de l’information et ainsi aider l’administration centrale de la police nationale à mieux remplir ses missions, notamment en anticipant mieux les crises et les nouvelles menaces et en améliorant le pilotage des politiques publiques de sécurité.
+ 
+La commission relève toutefois, compte tenu de la diversité des compétences des directions de la police nationale, qui couvrent des missions de police administrative et des missions de police judiciaire, qu’un nombre extrêmement important d’informations portant sur des événements d’importance inégale et impliquant des catégories de personnes très différentes pourraient être enregistrées dans le traitement SIPol. Elle considère dès lors que des critères d’alimentation clairs doivent être définis et diffusés aux utilisateurs du traitement pour s’assurer de la proportionnalité du dispositif.
+ 
+Elle prend acte, sur ce point, que seuls feront l’objet d’une information dans le traitement SIPol les événements appelant une décision d’ordre opérationnel ou stratégique de la part de l’autorité centrale de la police nationale, comme c’est par exemple le cas lorsque doit être décidé le déploiement de forces d’intervention nationales telles que le RAID ou que doivent être définies des orientations générales pour l’encadrement de manifestations.
+ 
+Elle prend également acte que l’architecture technique du traitement repose sur le cloisonnement des données enregistrées par les différentes directions de la police nationale, qui disposeront chacune d’une base distincte, et que les agents d’une direction ne pourront accéder à des données enregistrées par une autre direction que si cette dernière décide de les partager.
+ 
+Le ministère a précisé, enfin, que les informations enregistrées dans le traitement feraient l’objet d’un tri à plusieurs niveaux, d’abord par les directions elles-mêmes, pour sélectionner les informations les plus importantes, puis par le Centre d’information de la police nationale (CIPN) qui procèdera à un nouveau tri et réalisera, si nécessaire, des synthèses des différentes informations enregistrées.
+ 
+Au regard de ces éléments, les finalités poursuivies par le traitement SIPol apparaissent déterminées, explicites et légitimes à la commission, conformément à l’article 6 (2°) de la loi du 6 janvier 1978 modifiée.
+ 
+Sur les données traitées et leur durée de conservation :
+ 
+L’article 2 du projet de décret prévoit l’enregistrement dans le traitement des données et informations suivantes : 
+ 
+- motifs de l’enregistrement ;
+ 
+- nom de l’agent à l’origine de l’enregistrement ;
+ 
+- informations relatives à l’état civil, la nationalité, la filiation, la situation familiale et la profession, les dates et lieu de naissance, les adresses physiques et électronique, les numéros de téléphone, les lieux de résidence et zones d’activité, les alias, le nombre de jours d’interruption totale de travail, la nature des blessures, le pronostic vital ;
+ 
+- informations concernant les agents de la police nationale blessés ou décédés : identité, matricule, date et lieu de naissance, adresse physique, numéros de téléphone, situation familiale, nombre d’enfants, profession du conjoint, nombre de jours d’interruption totale de travail, nature des blessures, pronostic vital ;
+ 
+- signes physiques particuliers et objectifs, photographies ; titres d’identité ;
+ 
+- immatriculation des véhicules ;
+ 
+- informations financières et patrimoniales ;
+ 
+- agissements susceptibles de recevoir une qualification pénale ;
+ 
+- infractions et mesures de sûreté ;
+ 
+- informations et données relatives aux personnes morales : raison sociale, lieu du siège social et des principaux établissements, sigle, forme juridique, numéro d’inscription au registre du commerce et des sociétés, numéros SIREN, SIRET, secteur d’activité. 
+ 
+L’article 3 précise que pourraient être collectées, en outre, des catégories de données mentionnées au I de l’article 8 de la loi du 6 janvier 1978 modifiée.
+ 
+Concernant la nature des informations enregistrées, la commission relève que le traitement lui a été présenté comme permettant de centraliser des informations relatives à des événements ou des phénomènes et non à des individus, alors qu’est prévu l’enregistrement de nombreuses catégories de données à caractère personnel. Elle relève également que plusieurs de ces catégories, notamment les informations relatives à l’état civil, les titres d’identité, les signes physiques particuliers et objectifs, les photographies, l’immatriculation des véhicules ou encore les informations financières et patrimoniales, sont mentionnées à l’article 2 du projet de décret sans que soient définies les catégories de personnes concernées et, notamment, si sont exclusivement visés les auteurs de troubles à l’ordre public.
+ 
+La commission prend acte que l’enregistrement de données permettant l’identification de personnes ne doit intervenir que de manière incidente, lorsque ces informations sont indissociables de la description d’un événement, et que, dans ce cadre, le ministère ne peut exclure a priori aucune catégorie de personnes, un événement pouvant concernant une ou plusieurs personnes intervenant en qualité d’auteur d’un agissement, de victime ou de simple témoin.
+ 
+Elle rappelle toutefois qu’elle estime nécessaire, afin de limiter de manière effective la collecte aux données à caractère personnel pertinentes et non excessives au regard de l’objectif poursuivi d’aide à la prise de décision opérationnelle par le directeur général de la police nationale, que le ministère diffuse une doctrine d’emploi aux agents susceptibles d’enregistrer des données dans SIPol qui porterait en particulier sur l’exigence de stricte nécessité de l’enregistrement de données nominatives, de photographies, de signes physiques particuliers, de données sensibles relevant du I de l’article 8 de la loi du 6 janvier 1978 modifiée ou de données relatives à des mineurs.
+ 
+En outre, la commission relève que le projet de décret prévoit l’enregistrement d’ agissements susceptibles de recevoir une qualification pénale et d’ infractions et mesures de sûreté . Sur ce point, elle rappelle que les éléments enregistrés à ce titre ne devront pas faire référence à des condamnations pénales, en application de l’ .
+ 
+Enfin, l’article 4 du projet de décret précise que les données et informations enregistrées dans le traitement peuvent être conservées pendant une durée de cinq ans à compter de leur enregistrement, ce qui n’apparaît pas excessif au regard des finalités du traitement, dans la mesure où les événements et phénomènes concernés par le traitement pourraient se répéter ou perdurer dans le temps.
+ 
+La commission rappelle toutefois que la durée de cinq ans doit demeurer une durée maximale de conservation et que le tri entre les informations centralisées réalisées par les directions de la police nationale et le CIPN doit conduire à la suppression anticipée de l’ensemble des données à caractère personnel dont la conservation n’apparaît pas justifiée au regard des finalités du traitement.
+ 
+Sur les destinataires :
+ 
+Le projet de décret distingue les agents ayant accès aux données et informations enregistrées dans le traitement des personnes qui peuvent être destinataires de ces mêmes données et informations.
+ 
+Les personnes pouvant accéder aux données sont des agents individuellement désignés et habilités par leur supérieur hiérarchique affectés à l’échelon central des directions et services relevant de la DGPN suivants : 
+ 
+- cabinet du directeur général de la police nationale ; - direction centrale de la sécurité publique (DCSP) ;
+ 
+- direction centrale de la police judiciaire (DCPJ) ;
+ 
+- direction centrale de la police aux frontières (DCPAF) ;
+ 
+- direction centrale des compagnies républicaines de sécurité (DCCRS) ;
+ 
+- direction de la coopération internationale (DCI) ;
+ 
+- service de la protection (SDLP) ;
+ 
+- unité de coordination de la lutte anti-terroriste (UCLAT). 
+ 
+La commission considère que l’accès de ces destinataires aux données est justifié au regard des finalités du traitement. Elle prend acte, en outre, que chaque entité concernée disposera de sa propre base de données, dont des éléments ne pourront être transmis à d’autres entités qu’avec son autorisation, ce qui permet de s’assurer au cas par cas que la communication d’informations est nécessaire.
+ 
+Le projet de décret prévoit en outre que peuvent être destinataires des données et informations contenues dans le traitement les agents des directions ou services relevant de la DGPN, de la préfecture de police de Paris, de la préfecture de police des Bouches-du-Rhône, de la direction générale de la sécurité intérieure (DGSI), les militaires relevant de la direction générale de la gendarmerie nationale (DGGN).
+ 
+La communication de données à ces agents, qui ne pourra intervenir qu’à raison de leurs attributions et dans la limite du besoin d’en connaître, apparaît compatible avec les finalités du traitement.
+ 
+Sur l’information et les droits des personnes concernées :
+ 
+Le projet de décret prévoit que l’obligation d’information prévue à l’article 32 de la loi du 6 janvier 1978 modifiée, de même que le droit d’opposition prévu à l’article 38 de la même loi ne s’appliquent pas au traitement, ce qui n’appelle pas d’observation de la part de la commission.
+ 
+Il en va de même des dispositions prévoyant que le droit d’accès s’exerce de manière indirecte auprès de la Commission nationale de l’informatique et des libertés, dans les conditions prévues à l’article 41 de la loi du 6 janvier 1978 modifiée.
+ 
+Sur la sécurité des données et la traçabilité des actions :
+ 
+La commission observe que chaque utilisateur disposera de permissions liées à son profil fonctionnel d’utilisateur et correspondant à son rôle et à ses missions.
+ 
+Par ailleurs, l’attribution des comptes et des profils associés est effectuée par le responsable de la sécurité des systèmes d’information, sur décision du chef de service qui aura procédé à l’habilitation du fonctionnaire.
+ 
+La commission prend note des différents moyens d’authentification offerts aux opérateurs pour accéder au traitement.
+ 
+En effet, ces derniers peuvent soit s’identifier en utilisant leur carte agent et en saisissant un code PIN, soit en saisissant un identifiant associé à un mot de passe personnel. Concernant cette seconde modalité d’authentification, la commission rappelle que, dans sa portant adoption d’une recommandation relative aux mots de passe, elle précise les critères permettant de définir une politique de mot de passe en tenant compte des mesures complémentaires.
+ 
+La commission observe que les opérations de créations, mises à jour, suppressions et consultations font l’objet d’un enregistrement comprenant l’identifiant de l’auteur, la date et l’heure de l’opération. Ces journaux sont conservés dans le traitement pendant une durée de trois ans. La commission recommande toutefois de réaliser un contrôle des traces de manière automatique, afin de détecter les comportements anormaux et lever des alertes.
+ 
+Sous ces réserves, la commission considère que les mesures prévues par le responsable de traitement sont conformes à l’exigence de sécurité prévue par l’article 34 de la loi du 6 janvier 1978 modifiée. Elle rappelle toutefois que le respect de cette exigence nécessite la mise à jour des mesures de sécurité au regard de la réévaluation régulière des risques. 
+ 
+La présidente,
+ 
+ 
+I. Falque-Pierrotin 
+ 
+ 
+Nature de la délibération: AVIS
+ 
+ 
+
+

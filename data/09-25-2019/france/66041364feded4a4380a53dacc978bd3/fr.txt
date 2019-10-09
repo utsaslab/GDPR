@@ -1,0 +1,94 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 25/05/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+Délibération n°2018-022 du 25 janvier 2018 
+Délibération n° 2018-022 du 25 janvier 2018 portant avis sur un projet de décret modifiant les dispositions du code du sport relatives au traitement automatisé de données à caractère personnel pour la mise en œuvre du profil biologique des sportifs (demande d’avis n° 17006133) 
+NOR: CNIL1806133
+
+La Commission nationale de l’informatique et des libertés,
+ 
+Saisie par le ministère des sports d’une demande d’avis concernant un projet de décret modifiant les dispositions du relatives au traitement automatisé de données à caractère personnel pour la mise en œuvre du profil biologique des sportifs ;
+ 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ;
+ 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+ 
+Vu le , notamment ses articles L. 230-3, R. 232-41-1 et suivants ;
+ 
+Vu la modifiée relative à l’informatique, aux fichiers et aux libertés, notamment son article 26-II ;
+ 
+Vu le modifié pris pour l’application de la relative à l’informatique, aux fichiers et aux libertés ;
+ 
+Vu la décision de la Commission européenne du 20 décembre 2001 (2002/2/CE) constatant, conformément à la directive 95/46/CE du Parlement européen et du Conseil, le niveau de protection adéquat des données à caractère personnel assuré par la loi canadienne sur la protection des renseignements personnels et les documents électroniques ;
+ 
+Vu la portant avis sur un projet de décret en Conseil d’Etat relatif à la création par l’Agence française de lutte contre le dopage d’un traitement de données à caractère personnel pour la mise en œuvre du profil biologique des sportifs ; 
+ 
+ 
+Sur la proposition de M. Alexandre LINDEN, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement,
+ 
+Emet l’avis suivant :
+ 
+La Commission nationale de l’informatique et des libertés a été saisie pour avis par le ministère des sports d’un projet de décret en Conseil d’Etat modifiant les dispositions du relatives au traitement automatisé de données à caractère personnel pour la mise en œuvre du profil biologique des sportifs mis en œuvre par l’Agence française de lutte contre le dopage (AFLD).
+ 
+En vertu des articles et du code du sport, issus de la tendant à faciliter l’organisation des manifestations sportives et culturelles, les prélèvements biologiques effectués dans le cadre de la lutte contre le dopage peuvent avoir pour objet d’établir le profil biologique des sportifs.
+ 
+Il s’agit d’un dispositif complémentaire à la détection traditionnelle du dopage qui permet, conformément aux recommandations de l’Agence mondiale antidopage (AMA), de détecter indirectement le dopage à partir de ses effets sur l’organisme, à savoir à partir des variations anormales de paramètres biologiques déterminés, et plus seulement à partir de la présence de substances interdites dans le corps humain.
+ 
+Le , pris après avis de la Commission, a autorisé l’AFLD à créer un traitement automatisé de données à caractère personnel visant à faciliter l’établissement du profil biologique des sportifs mentionnés à l’ et à orienter les contrôles antidopage les concernant.
+ 
+En conformité avec les recommandations de l’AMA, l’ étend le champ d’application du profil biologique du sportif à l’ensemble des sportifs tels que définis par le ( ).
+ 
+Le projet de décret soumis pour avis à la Commission (ci-après le projet ) a pour objet de prendre en compte : 
+ 
+- l’extension du champ d’application du profil biologique à l’ensemble des sportifs tel que défini à l’ ;
+ 
+- l’allongement du délai de prescription applicable pour la répression, sur le plan disciplinaire, des manquements à la réglementation antidopage. 
+ 
+Le traitement projeté a notamment pour objet la prévention, la recherche, la constatation et la poursuite des infractions à la réglementation antidopage et porte sur des données relatives à la santé des personnes concernées.
+ 
+Conformément aux dispositions de l’article 26-II de la loi du 6 janvier 1978 modifiée (ci-après la loi Informatique et Libertés ), il doit dès lors être autorisé par décret en Conseil d’Etat, pris après avis motivé et publié de la Commission.
+ 
+La commission attire l’attention du ministère sur l’importance de délivrer une information claire et complète et de mettre en œuvre des procédures effectives en matière de respect des droits au vu du nombre de personnes susceptibles d’être concernées par l’établissement du profil biologique.
+ 
+Sur la durée de conservation des données :
+ 
+L’article 5 du projet porte de huit à dix ans le délai de conservation des données.
+ 
+Le ministère a précisé qu’il s’agit de tirer les conséquences de l’allongement du délai de prescription applicable pour la répression, sur le plan disciplinaire, des manquements à la réglementation antidopage, en vertu de l’ tel qu’il résulte de la modification apportée par l’ relative à la transposition des principes du code mondial antidopage.
+ 
+Sur la sécurité des données et la traçabilité des actions :
+ 
+La commission estime que l’extension du champ d’application du profil biologique des sportifs implique d’en tirer les conséquences sur le traitement des données à caractère personnel et notamment sur les garanties mises en œuvre pour assurer le respect des obligations découlant de l’article 34 de la loi Informatique et Libertés .
+ 
+Des profils d’habilitation définissent les fonctions ou les types d’informations accessibles à un utilisateur.
+ 
+La commission constate que la politique de mot de passe prévue par le responsable de traitement n’est pas conforme à sa portant adoption d’une recommandation relative aux mots de passe, en ce qu’elle ne prévoit pas l’utilisation d’au moins trois types de caractères différents. Elle recommande donc au responsable de traitement de revoir sa politique de mot de passe sur ce point.
+ 
+La commission rappelle que les équipements mobiles doivent faire l’objet de mesures de chiffrement afin de garantir la confidentialité des données qu’ils contiennent en cas de perte ou de vol de l’équipement.
+ 
+Par ailleurs, la commission considère que la nature des données exige que celles-ci fassent l’objet de mesures de chiffrement conformes à l’annexe B1 du référentiel général de sécurité tant au niveau des bases de données que des sauvegardes.
+ 
+Les accès au traitement se font via le protocole HTTPS, qui permet de garantir la confidentialité des données échangées ainsi que l’authentification du responsable de traitement. Concernant le recours à ce protocole, la commission recommande d’utiliser la version de TLS la plus à jour possible.
+ 
+La consultation du portail de l’AMA pouvant être réalisée depuis n’importe quel terminal, dès lors que l’utilisateur dispose des bons identifiants, la commission recommande la mise en place d’une restriction par identification de l’adresse IP, afin de renforcer le contrôle de l’accès au traitement de l’AMA.
+ 
+Sous réserve des précédentes observations, les mesures de sécurité décrites par le responsable de traitement sont conformes à l’exigence de sécurité prévue par l’article 34 de la loi Informatique et Libertés . La commission rappelle toutefois que cette obligation nécessite la mise à jour des mesures de sécurité au regard de la réévaluation régulière des risques. 
+ 
+Pour la présidente :
+ 
+ 
+Le vice-président délégué,
+ 
+ 
+M.-F. Mazars 
+ 
+ 
+Nature de la délibération: AVIS
+ 
+ 
+
+

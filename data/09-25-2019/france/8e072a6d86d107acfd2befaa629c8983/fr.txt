@@ -1,0 +1,135 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 28/06/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+DELIBERATION n°2018-158 du 17 MAI 2018 
+Délibération n° 2018-158 du 17 mai 2018 autorisant le ministère de l’éducation nationale à modifier un traitement automatisé de données à caractère personnel dénommé « Enquête locale de climat scolaire » 
+
+(Demande d’autorisation n° 1961204 V1) 
+ 
+La Commission nationale de l’informatique et des libertés, 
+Saisie par le ministre de l’éducation nationale d’une demande d’autorisation concernant la modification d’un traitement automatisé de données à caractère personnel dénommé « Enquête locale de climat scolaire » ; 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ; 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ; 
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment les 1° et 3° de son article 25-I et 30-II ; 
+Vu la loi n° 2013-595 du 8 juillet 2013 d’orientation et de programmation pour la refondation de l’école de la République ;  
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ; 
+Vu la circulaire n° 2016-045 du 29 mars 2016 « Améliorer le climat scolaire pour une école sereine et citoyenne » : généralisation et structuration des groupes académiques ;  
+Vu la délibération n° 2016-247 du 21 juillet 2016 de la Commission nationale de l’informatique et des libertés ;  
+Vu le dossier et ses compléments ;  
+Sur la proposition de Mme Joëlle FARCHY, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement, 
+ 
+ 
+Formule les observations suivantes : 
+ 
+Responsable du traitement 
+Le ministère de l’éducation nationale souhaite procéder à une modification du traitement automatisé de données à caractère personnel dénommé «Enquête locale de climat scolaire» (ELCS) mis en œuvre, sous sa responsabilité, par la mission ministérielle chargée de la prévention et de la lutte contre les violences en milieu scolaire.  
+ 
+Cette mission est en charge de la mise en place, dans chaque académie, de groupes « climat scolaire » destinés à accompagner les écoles et établissements dans l’amélioration du climat scolaire. 
+ 
+La présente délibération modifie le traitement précédemment autorisé par la délibération n° 2016-247 du 21 juillet 2016 susvisée.  
+ 
+Sur la finalité 
+Les ELCS ont pour finalité la mise à disposition d’un outil de diagnostic permettant de mesurer le climat scolaire d’un établissement. Cet outil doit permettre de recenser et d’étudier les diverses formes d’atteintes subies par les élèves et les personnels du premier degré (personnels d’éducation, de vie scolaire et psychologues de l’éducation nationale) à l’école et sur le temps scolaire, qu’elles se manifestent dans l’école ou l’établissement scolaire, aux abords de celui-ci ou encore lors des déplacements en rapport avec la vie scolaire. Il s’agit ainsi d’étudier le champ le plus large possible des formes de violence dont les élèves et les personnels peuvent être victimes (insulte, agression, harcèlement, vol, etc.) afin de déterminer les actions à mener pour améliorer, au sein de l’établissement, le climat scolaire. 
+ 
+Jusqu’à présent, l’ELCS ne concernait que les élèves et les personnels des établissements du second degré. Par circulaire n° 2016-045 du 29 mars 2016 relative à la généralisation et la structuration des groupes académiques « climat scolaire », le ministère de l’éducation nationale a décidé d’étendre le périmètre de l’enquête aux écoles publiques et privés sous contrat du premier degré tout en précisant notamment la composition et le rôle des groupes « climat scolaire. 
+ 
+Dans ce contexte, la Commission relève que ladite modification doit permettre aux directeurs des écoles élémentaires d’utiliser également ce dispositif. Elle rappelle que, comme pour le second degré, cette enquête porte notamment sur des questions relatives à des données sensibles au sens de l’article 8-I de la loi n° 78-17 du 6 janvier 1978 modifiée, ainsi qu’à des données d’infractions au sens de l’article 9 de cette même loi. Dès lors, il y a lieu de faire application des articles 25-I-1° et 25-I-3° qui soumettent la mise en œuvre de tels traitements à l’autorisation de la Commission. 
+ 
+La Commission relève par ailleurs que la participation d’une école ou d’un établissement à l’enquête est laissée au libre choix de son directeur. À cet égard, elle prend acte que les directeurs d’écoles qui souhaitent recourir à l’application ELCS sollicitent le groupe académique « climat scolaire » après en avoir préalablement informé l’inspecteur de l’éducation nationale et après avoir obtenu l’accord du conseil d’école. 
+La Commission rappelle que les enquêtes, constituées de cinq parties, se présentent sous la forme de questions à choix multiples. Les liens d’accès (URL générique à usage unique) permettant aux élèves de CM1 et CM2 et aux personnels d’accéder aux questionnaires sont transmis par le groupe académique « climat scolaire » aux directeurs d’école. 
+ 
+S’agissant des personnes concernées par le traitement ELCS, le ministère a précisé que les personnels et les élèves, ou leurs responsables légaux s’ils sont mineurs, sont informés de la mise en œuvre de l’enquête préalablement à sa réalisation et peuvent s’y opposer par retour de formulaire.  
+ 
+Tout élève dont les responsables légaux n’auraient pas formalisé de manière expresse leur opposition à la participation à ladite enquête, pourra être interrogé dans le cadre de cette enquête.  
+ 
+Si, en application de l’article 6 de la loi du 6 janvier 1978 modifiée, l’intérêt légitime du responsable de traitement peut constituer la base légale du traitement, la Commission regrette que, compte tenu de l’âge des élèves concernés, le ministère n’ait pas privilégié la base légale du consentement. 
+ 
+En ce qui concerne les personnels qui choisissent de participer à l’enquête, ces derniers ont le choix d’utiliser leur ordinateur personnel ou de se connecter à une session à partir d’un ordinateur de leur école. 
+ 
+En ce qui concerne les élèves, ceux-ci répondent individuellement au questionnaire en utilisant un ordinateur uniquement accessible au sein de l’établissement. Les sessions de réponse au questionnaire sont organisées sous la surveillance des membres de l’équipe pédagogique de l’école. 
+ 
+La Commission prend acte des précisions du ministère de l’éducation nationale selon lesquelles il n’est pas prévu que ces enquêtes locales à destination du premier degré soient renouvelées tous les ans dans les écoles où elles sont menées. Elle relève à cet égard que les directeurs d’écoles ont la possibilité de renouveler l’enquête dans le but d’évaluer les mesures prises à la suite de premières enquêtes locales effectuées. A cette fin, il est recommandé de renouveler l’enquête tous les trois ans. 
+ 
+Au regard de ces éléments, la Commission estime que les finalités poursuivies par le traitement projeté sont déterminées, explicites et légitimes, conformément à l’article 6-2° de la loi du 6 janvier 1978 modifiée. 
+ 
+Sur les données traitées 
+La Commission relève que la présente modification ne porte aucun changement du périmètre des données à caractère personnel collectées. 
+ 
+Les données collectées à partir des différents questionnaires concernent l’identité, la scolarité de l’élève ou la situation professionnelle du personnel, à l’exclusion de toute donnée nominative et de tout identifiant des personnes physiques. 
+ 
+La première partie de l’enquête concerne, selon les cas, l’expérience scolaire ou professionnelle. Dans les quatre parties suivantes, il est en outre demandé à la personne concernée si elle a été victime de certains comportements, de violences physiques, morales ou à caractère sexuel, de vols, de jeux dangereux. Or, les réponses à ces questions sont susceptibles de faire apparaître des informations constitutives de données relatives à des infractions, au sens de l’article 9 de la loi du 6 janvier 1978 modifiée.  
+ 
+Dès lors que le ministère de l’éducation nationale constitue une personne morale de droit public gérant un service public et agissant dans le cadre de ses attributions légales, il est habilité, conformément à l’article 9-1° de la loi précitée, à mettre en œuvre un traitement portant sur de telles données. 
+ 
+Les réponses au questionnaire peuvent en outre conduire à la collecte de données sensibles au sens de l’article 8 de la loi du 6 janvier 1978 relatives aux personnes interrogées où à leur entourage. En effet, certaines des questions portent sur le fait de déterminer si les violences subies avaient un motif discriminatoire au sens de l’article 225-1 du code pénal.  
+ 
+Compte tenu de l’intérêt public poursuivi par l’enquête et des finalités de celle-ci, la Commission considère que la collecte de telles données est justifiée, conformément aux dispositions de l’article 8-IV de la loi du 6 janvier 1978 modifiée.  
+ 
+La Commission relève par ailleurs que des zones de commentaires libres sont prévues au sein du questionnaire en vue de permettre aux personnes concernées de préciser certaines situations (raisons du sentiment d’insécurité éprouvé), ou d’effectuer des propositions pour améliorer le climat scolaire au sein de leurs établissements. 
+ 
+A cet égard, elle rappelle que les commentaires ne doivent contenir que des mentions neutres et factuelles, et en aucun cas être inappropriés, subjectifs ou insultants. La Commission recommande qu’un message s’affiche automatiquement sur l’écran des utilisateurs (les élèves et le personnel interrogés) pour leur rappeler les règles à respecter dans ce cadre. 
+ 
+ 
+ 
+ 
+Sous réserve de ses précédentes observations, la Commission estime que les données collectées et traitées sont adéquates, pertinentes et non excessives au regard des finalités du traitement, conformément à l’article 6-3° de la loi du 6 janvier 1978 modifiée. 
+ 
+Au regard de la sensibilité de certaines de ces données, qui peuvent en concerner des personnes mineures, la Commission estime nécessaire que leur enregistrement et leur conservation soient entourés de garanties de nature à assurer leur confidentialité en particulier vis-à-vis des personnels de l’établissement. 
+ 
+La Commission relève qu’outre l’utilisation d’une session privée par les élèves et les personnels pour accéder au questionnaire, plusieurs mesures ont été prévues. 
+ 
+Ainsi, le traitement des réponses aux questionnaires d’enquête est uniquement effectué par les groupes de travail sur le climat scolaire désignés par les recteurs d’académie. En outre, les règles d’agrégation des données prévues rendent sensiblement limitées les possibilités de ré-identification des personnes concernées. En effet, le questionnaire ne comprend aucune donnée nominative, ni aucun identifiant des personnes physiques. Seul figure un « code école » fictif qui permet l’identification des établissements lors de la collecte des résultats de l’enquête. Celui-ci est uniquement connu de la personne habilitée du groupe « climat scolaire » et du directeur d’école. 
+ 
+Sur les destinataires 
+Les seuls destinataires des données contenues dans le traitement sont les membres des groupes de travail sur le climat scolaire de chaque académie uniquement pour ce qui concerne les enquêtes mises en œuvre dans leur circonscription. 
+ 
+Les écoles et établissements scolaires n’ont connaissance que des résultats des enquêtes, qui leur sont présentés sous forme de synthèses réalisées par les groupes de travail climat scolaire. 
+ 
+La Commission relève que ces personnes sont en charge d’accompagner les écoles et établissements dans l’amélioration du climat scolaire et que l’accès de ces destinataires aux données enregistrées dans ce traitement est nécessaire à la réalisation de leurs missions.  
+ 
+Sur l’information et le droit d’accès  
+Les membres du personnel sont préalablement informés de la réalisation de l’enquête par le directeur d’école et l’inspecteur de l’éducation nationale lors du conseil d’école. De plus, lors de la réalisation de l’enquête, une fiche explicative leur est remise.  
+ 
+Les objectifs de l’enquête et les conditions dans lesquelles elle doit se dérouler sont exposés aux élèves par les membres de l’équipe pédagogique. L’information des responsables légaux des élèves est effectuée par courrier.  
+ 
+La Commission rappelle que l’ensemble des mentions prévues à l’article 32-I de la loi du 6 janvier 1978 modifiée devront être portées à la connaissance de la personne concernée. Elle relève que les documents d’information sur les modalités de réalisation de l’enquête pourraient, par exemple, être complétées avec les dites mentions. 
+ 
+S’agissant du droit d’opposition, les responsables légaux peuvent s’opposer à ce que leur enfant participe à l’enquête préalablement à celle-ci, en retournant aux membres de l’équipe pédagogique de l’école participante le coupon réponse prévu à cet effet dans le courrier d’information qui leur a été remis. 
+ 
+Enfin, dès lors que le questionnaire ne comprend aucune donnée nominative, ni aucun identifiant des personnes physiques, le ministère de l’éducation nationale entend faire application des dispositions de l’article 39-II de la loi du 6 janvier 1978 modifiée qui écarte le droit d’accès des personnes concernées dès lors que les données à caractère personnel sont conservées sous une forme excluant manifestement tout risque d’atteinte à la vie privée des personnes concernées et pendant une durée n’excédant pas celle nécessaires aux seules finalités d’établissement de statistiques ou de recherche scientifique ou historique.  
+ 
+Sur les mesures de sécurité 
+Le traitement ELCS est mis en œuvre via l’utilisation d’un serveur hébergé au sein de la mission ministérielle chargée de la prévention et de la lutte contre les violences en milieu scolaire, mis en œuvre sur plusieurs réseaux distants interconnectés par l’intermédiaire du réseau éducation nationale AGRIATE. 
+ 
+Le ministère a indiqué avoir recours à un sous-traitant pour l’hébergement des données brutes collectées par l’application. Il a également précisé que, conformément aux dispositions des articles 34 et 35 de loi du 6 janvier 1978 modifiée, une clause de confidentialité et de sécurité a été intégrée dans le contrat qui le lie au sous-traitant. Les données obtenues à l’issue de l’analyse sont quant à elles hébergées sur un serveur du pôle informatique de compétence « enquête et pilotage » de l’académie de Nancy-Metz. 
+ 
+Les échanges sur internet sont chiffrés via l’utilisation du protocole SSL. 
+ 
+Des solutions de firewall, de détection d’intrusion, d’antivirus, sont déployées au sein du traitement. Celui-ci est également mis en œuvre sur un réseau isolé. Les environnements de développement et de production sont distincts. Les développements sont réalisés sur des jeux de données fictifs. 
+Des profils d’habilitation définissent les fonctions ou types d’informations accessibles à un utilisateur. Le traitement met en œuvre une traçabilité des accès à l’application lors de la consultation, création, mise à jour et suppression des données à caractère personnel. 
+ 
+Les mesures de sécurité décrites par le responsable de traitement sont conformes à l’exigence de sécurité prévue par l’article 34 de la loi du 6 janvier 1978 modifiée. La Commission rappelle toutefois que cette obligation nécessite la mise à jour des mesures de sécurité au regard de la réévaluation régulière des risques. 
+ 
+Sur les autres caractéristiques du traitement 
+Les données sont conservées un an à compter de leur collecte afin de pouvoir procéder à l’analyse et à la restitution des résultats par le groupe de travail « climat scolaire » désigné dans le département.  
+ 
+Les documents papier constitués par les coupons réponses retournés par les responsables légaux sont conservés dans le bureau du directeur de l’école durant l’année scolaire de réalisation de l’enquête, puis supprimés à l’issue de la durée de conservation précitée.  
+ 
+La Commission considère que ces durées n’excèdent pas celles nécessaires aux finalités pour lesquelles les données sont collectées et traitées, conformément à l’article 6-5° de la loi du 6 janvier 1978 modifiée. 
+ 
+Autorise, conformément à la présente délibération, le ministère de l’éducation nationale à mettre en œuvre le traitement susmentionné. 
+ 
+Pour la Présidente Le Vice-Président délégué 
+ 
+Marie-France MAZARS 
+ 
+ 
+Nature de la délibération: Autorisation
+ 
+ 
+
+

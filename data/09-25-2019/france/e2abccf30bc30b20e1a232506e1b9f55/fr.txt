@@ -1,0 +1,119 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 28/06/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+DELIBERATION n°2018-092 du 15 MARS 2018 
+Délibération n°2018-092 du 15 mars 2018 autorisant la société des Autoroutes Rhône-Alpes (AREA) à mettre en œuvre un traitement automatisé de données à caractère personnel ayant pour finalités la gestion des impayés et de la fraude 
+
+(Demande d’autorisation n° 2025936) 
+ 
+La Commission nationale de l’informatique et des libertés, 
+Saisie par la société des Autoroutes Rhône-Alpes (AREA) d’une demande d’autorisation concernant un traitement automatisé de données à caractère personnel ayant pour finalités la prévention des impayés et la gestion de la fraude ; 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ; 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ; 
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment son article 25-I-4 ; 
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ; 
+Vu le dossier et ses compléments ; 
+Sur la proposition de M. Eric PERES, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement, 
+ 
+ 
+Formule les observations suivantes : 
+ 
+Responsable du traitement 
+Société des Autoroutes Rhône-Alpes (AREA) 
+Sur la finalité 
+Le traitement a pour finalités la prévention des impayés et la gestion de la fraude. 
+ 
+Dans le cadre de la gestion des impayés, la société AREA est amenée à inscrire en liste d’opposition temporaire les télébadges utilisés pour circuler sur le réseau, ce qui a pour effet de les rendre inopérants en voie de péage, jusqu’à la régulation de l’impayé par le client abonné. A défaut de régularisation dans le mois qui suit le rejet du prélèvement, le contrat est résilié. 
+ 
+La Commission rappelle qu’à ce titre ne peuvent être traitées que les informations relatives aux créances certaines, liquides et exigibles. 
+ 
+La Commission prend acte de ce que pendant la durée d’inscription du télébadge sur la liste d’opposition, le client abonné conserve la possibilité d’utiliser l’autoroute en payant par un autre moyen que le badge télépéage. En outre, le client abonné retrouve la faculté de se réabonner au télépéage dès la régularisation intégrale de l’impayé. 
+ 
+En l’absence de régularisation, la société AREA se réserve le droit de ne pas réabonner le client abonné pendant une période de trois ans après la résiliation du contrat. 
+ 
+Dans le cadre de la protection des clients abonnés contre l’utilisation frauduleuse de leur support perdu ou volé, la société AREA est également amenée à inscrire en liste d’opposition définitive les télébadges déclarés en perte ou vol par les clients abonnés. Une telle inscription a pour effet de suspendre définitivement les télébadges concernés, qui ne seront alors plus acceptés en voie de péage comme moyen de paiement. 
+ 
+Enfin, dans le cadre de la gestion de la fraude au péage sur les moyens de paiement, la société AREA met en opposition les moyens de paiement frauduleux utilisés (par exemple, usurpation d’identité et utilisation de l’IBAN à l’insu du titulaire du compte bancaire) pour empêcher tout paiement ultérieur ou toute nouvelle souscription d’un contrat télépéage. 
+ 
+La Commission estime que les finalités poursuivies sont déterminées, légitimes et explicites. 
+ 
+Par ailleurs, elle considère qu’il y a lieu de faire application des dispositions de l’article 25-I-4° de la loi du 6 janvier 1978 modifiée qui soumet à autorisation préalable de la CNIL les traitements automatisés susceptibles, du fait de leur nature, de leur portée ou de leurs finalités, d’exclure des personnes du bénéfice d’un droit, d’une prestation ou d’un contrat en l’absence de toute disposition législative ou réglementaire. 
+ 
+Sur les données traitées 
+Les données traitées dans le cadre de la prévention des impayés : 
+nom, prénom ; 
+numéro d’abonné ; 
+numéro du badge d’abonnement ; 
+adresse ; 
+coordonnées bancaires ; 
+date de souscription ; 
+information liée au rejet (montant, motif fourni par la banque, facture correspondante) ; 
+nombre de badges ; 
+montant moyen de consommation ; et 
+historique d’impayés. 
+ 
+Les données traitées dans le cadre de la protection des clients abonnés contre l’utilisation frauduleuse de leur support perdu ou volé : 
+numéro d’abonné ; 
+numéro du badge d’abonnement ; 
+date de vol. 
+ 
+Les données traitées dans le cadre de la gestion de la fraude au péage sur les moyens de paiement : 
+nom, prénom ; 
+numéro de la carte bancaire ou numéro IBAN ; 
+adresse électronique ; 
+numéro de téléphone ; 
+date de naissance ; 
+adresse. 
+ 
+La Commission considère que ces données sont pertinentes au regard de la finalité poursuivie. 
+ 
+Sur les destinataires 
+Les destinataires des données sont les personnels dûment habilités : 
+du service commercial de la société AREA en charge de la gestion des contrats d’abonnement et de la facturation ; 
+les sociétés concessionnaires d’autoroutes utilisant les mêmes supports d’abonnement pour ce qui concerne la gestion des badges déclarés en perte ou vol. 
+ 
+Ces destinataires n’appellent pas d’observations de la part de la Commission. 
+Sur l’information et le droit d’accès  
+Les personnes concernées sont informées conformément à l’article 32 de la loi du 6 janvier 1978 modifiée par des affiches apposées sur chaque borne de péage, ainsi que dans les conditions générales d’abonnement. 
+ 
+En outre, en cas d’impayé, la société informe les personnes concernées par courrier postal qu’à défaut de régularisation, elles feront l’objet d’une inscription sur liste d’opposition. Elles sont également informées par courrier électronique et/ou par téléphone en cas d’inscription sur liste d’opposition s’agissant des motifs de l’inscription et des moyens de régulariser la situation. 
+Les droits d’accès et de rectification s’exercent auprès du service DIPP de l’AREA, 260 avenue Jean Monnet, 69671 Bron Cedex. 
+ 
+La Commission estime que ces modalités d’information et d’exercice des droits sont satisfaisantes. 
+Sur les mesures de sécurité 
+La Commission prend acte du fait que le traitement est accessible via Internet et que le transport des données se fait via le protocole Transport Layer Security (TLS). 
+ 
+Le traitement est également accessible à partir de réseaux privés connectés par l’intermédiaire d’un VPN. 
+ 
+Les développements sont réalisés sur des environnements distincts des environnements de production. 
+ 
+L’accès aux traitements de données s’effectue à l’aide d’identifiants individuels et de mots de passe renouvelés tous les 6 mois. 
+ 
+Les mesures de sécurité mises en place sont conformes à l’exigence de sécurité prévue à l’article 34 de la loi du 6 janvier 1978. La Commission rappelle toutefois que cette obligation nécessite la mise à jour des mesures de sécurité au regard de la réévaluation régulière des risques. 
+Sur les autres caractéristiques du traitement 
+Les données sont conservées dans la liste d’opposition jusqu’à la régularisation de l’impayé et, en l’absence de régularisation, le temps de la prescription civile, à savoir jusqu’à cinq ans : trois ans en base active et deux ans supplémentaires en archivage sur une base externe indépendante, accessible limitativement aux agents habilités. 
+ 
+Concernant la gestion des badges déclarés en perte ou vol, les données sont conservées jusqu’à cinq ans après la déclaration de perte ou de vol. 
+ 
+Concernant la gestion de la fraude au péage sur les moyens de paiement, les données sont conservées le temps de la prescription de l’infraction délictuelle d’escroquerie, à savoir jusqu’à six ans : trois ans en base active et trois ans supplémentaires en archivage sur une base externe indépendante, accessible limitativement aux agents habilités. 
+ 
+La Commission estime que cette durée de conservation est pertinente au regard de la finalité poursuivie par le traitement. 
+ 
+Autorise, conformément à la présente délibération, la société des Autoroutes Rhône-Alpes (AREA) à mettre en œuvre le traitement susmentionné. 
+ 
+Pour la Présidente Le Vice-Président délégué 
+ 
+ 
+Marie-France MAZARS 
+ 
+ 
+ 
+Nature de la délibération: Autorisation
+ 
+ 
+
+

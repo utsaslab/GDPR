@@ -1,0 +1,118 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 28/06/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+DELIBERATION n°2018-147 du 3 MAI 2018 
+Délibération n° 2018-147 du 3 mai 2018 autorisant l’entreprise Réseau de Transport d’Electricité à mettre en œuvre un traitement automatisé de données à caractère personnel ayant pour finalité la détection des anomalies concernant les paiements et remboursements des frais professionnels 
+
+(demande d’autorisation n° 2077108) 
+ 
+La Commission nationale de l’informatique et des libertés, 
+Saisie par l’entreprise Réseau de Transport d’Electricité d’une demande d’autorisation relative à un traitement automatisé de données à caractère personnel ayant pour finalité la détection des anomalies concernant les paiements et remboursements des frais professionnels ; 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ; 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ; 
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment son article 25-I-5° ; 
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ; 
+Vu le dossier et ses compléments ; 
+Sur la proposition de Mme Marie-France MAZARS, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement, 
+ 
+Formule les observations suivantes : 
+ 
+Responsable du traitement 
+ 
+Le Réseau de Transport d’Electricité (RTE) est une entreprise de service qui gère le réseau public de transport d’électricité haute tension.  
+ 
+Sur la finalité 
+Le traitement a pour finalité de détecter de manière automatisée et a posteriori, les situations anormales concernant les paiements et remboursements des frais professionnels des salariés de l’entreprise ainsi que des mandataires sociaux. 
+ 
+A cet égard, RTE souhaite interconnecter certaines informations contenues dans les fichiers relatifs à la gestion administrative du personnel, à la gestion des temps et des activités, à la gestion de la comptabilité concernant les fournisseurs, à la gestion des cartes bancaires professionnelles ainsi qu’aux plateformes de voyages et de déplacements. 
+ 
+Aussi, la demande a été déposée sur le fondement de l’article 25-I-5° de la loi du 6 janvier 1978 modifiée en août 2004 qui soumet à autorisation de la Commission les traitements automatisés de données à caractère personnel ayant pour objet l’interconnexion des fichiers relevant de personnes morales de droit privé et dont les finalités principales sont différentes. 
+ 
+Les interconnexions susvisées doivent permettre de détecter les situations suivantes : 
+ 
+une note de frais engagée pendant une période d’absence ; 
+une utilisation de la carte bancaire professionnelle pendant une période d’absence ; 
+une réservation sur la plateforme « voyage » à des fins personnelles lorsque la réservation est effectuée par le salarié lui-même. 
+ 
+Lorsqu’une anomalie est détectée, l’entreprise diligentera une enquête interne permettant de révéler, le cas échéant, si une fraude a été commise. 
+ 
+Par conséquent, les interconnexions ne conduisent pas à une prise de décision automatique à l’égard des employés de l’entreprise ainsi que des mandataires sociaux dans la mesure où chaque anomalie détectée fera ensuite l’objet d’une analyse spécifique, au cas par cas, afin d’évaluer sa pertinence et de procéder à des investigations supplémentaires, conformément aux dispositions de l’article 10 de la loi Informatique et Libertés. 
+ 
+La Commission considère que les finalités poursuivies par le traitement sont déterminées, explicites et légitimes, conformément aux dispositions de l’article 6-2 de la loi susvisée. 
+ 
+Sur les données traitées 
+Les informations traitées issues des fichiers interconnectés sont les suivantes : 
+ 
+fichier relatif à la gestion administrative du personnel : matricule RTE, nom, prénom, niveau dans l’organisation et unité de rattachement, libellé de l’emploi occupé, classification du salarié au regard des spécificités des Industries Electriques et Gazières ; 
+ 
+ 
+ 
+fichier relatif à la gestion des temps et des activités : matricule RTE, nom, prénom, planning des présences et absences, informations relatives aux caractéristiques du déplacement ;  
+ 
+fichier relatif à la comptabilité fournisseurs volet trésorerie : informations relatives à la comptabilité ; 
+ 
+fichier relatif à la gestion des cartes bancaires professionnelles : nom et prénom du titulaire de la carte bancaire professionnelle, matricule RTE, informations relatives à l’opération bancaire effectuée ; 
+ 
+fichier relatifs aux plateformes de voyages et de déplacements : informations relatives aux voyages et déplacements effectués. 
+ 
+La Commission considère que les données collectées et traitées sont adéquates, pertinentes et non excessives au regard des finalités poursuivies par le traitement, conformément aux dispositions de l’article 6-3° de la loi Informatique et Libertés. 
+ 
+Sur les destinataires 
+Dans les limites de leurs attributions respectives, et chacun pour ce qui le concerne, peuvent accéder aux données enregistrées dans le traitement, le personnel en charge de la maîtrise des risques au sein de l’entreprise. 
+ 
+La Commission estime que les destinataires ont un intérêt légitime à connaître des données contenues dans le traitement. 
+ 
+Sur l’information et les droits des personnes  
+Les personnes concernées sont informées, conformément aux dispositions de l’article 32 de la loi Informatique et Libertés, par une mention figurant sur : 
+ 
+un courrier individuel adressé à chaque employé et mandataires sociaux ; 
+l’espace intranet de RTE.  
+ 
+La Commission considère que ces modalités d’information des personnes sont satisfaisantes. 
+ 
+Les droits d’opposition, d’accès et de rectification prévus aux articles 38, 39 et 40 de la loi précitée s’exercent auprès du CIL de RTE. 
+ 
+La Commission considère que ces modalités d’exercice des droits des personnes sont satisfaisantes. 
+ 
+Sur la durée de conservation 
+Les données extraites des fichiers susvisés sont conservées quinze jours en base active, à compter de la date de l’extraction de la donnée. 
+ 
+Lorsqu’une anomalie est détectée, les données extraites sont conservées dans la base intermédiaire pendant une durée de deux mois afin d’effectuer toutes les recherches utiles relatives à cette anomalie. 
+ 
+A l’expiration de ces délais, les données sont détruites de manière sécurisée. 
+ 
+La Commission considère que ces durées n’excèdent pas celles nécessaires aux finalités pour lesquelles elles sont collectées, conformément aux dispositions de l’article 6-5° de la loi Informatique et Libertés. 
+ 
+Sur les mesures de sécurité 
+La Commission prend acte que des mesures de protection physique et logique seront mises en œuvre pour préserver la sécurité du traitement et des informations, empêcher toute utilisation détournée et frauduleuse, notamment par des tiers non autorisés, et préserver l’intégrité des données traitées. 
+ 
+Des profils d’habilitation définissent les fonctions ou les types d’informations accessibles à un utilisateur. Ceux-ci ainsi que leurs droits respectifs sont spécifiés et documentés de manière détaillée, et prennent en compte les accès différentiés aux informations en fonction du besoin d’en connaître. 
+ 
+La Commission recommande que les permissions d’accès soient attribuées pour une durée déterminée, qu’elles soient supprimées pour tout utilisateur n’étant plus habilité et qu’une revue globale des habilitations soit opérée régulièrement. 
+ 
+L’authentification des utilisateurs du traitement est assurée par l’utilisation de mots de passe régulièrement renouvelés et, constitués d’au moins huit caractères contenant des majuscules, des minuscules, et des chiffres ou des caractères spéciaux lorsque l’authentification prévoit une restriction de l’accès au compte, conformément à la délibération n° 2017-012 du 19 janvier 2017 portant adoption d’une recommandation relative aux mots de passe. 
+ 
+Lorsqu’une anomalie est détectée, le personnel ayant accès aux informations du traitement devra l’analyser afin de déterminer s’il s’agit effectivement d’un cas de fraude. 
+ 
+Des sauvegardes régulières sont réalisées et stockées dans un endroit garantissant leur sécurité et leur disponibilité. 
+ 
+La Commission considère que les mesures de sécurité décrites par le responsable de traitement sont conformes à l’exigence de sécurité prévue par l’article 34 de la loi Informatique et Libertés. 
+ 
+La Commission rappelle toutefois que cette obligation nécessite la mise à jour des mesures de sécurité au regard de la réévaluation régulière des risques. 
+ 
+Autorise, conformément à la présente délibération, l’entreprise Réseau de Transport d’Electricité à mettre en œuvre le traitement susmentionné. 
+ 
+Pour la Présidente Le Vice-Président délégué 
+ 
+Marie-France MAZARS 
+ 
+ 
+Nature de la délibération: Autorisation
+ 
+ 
+
+

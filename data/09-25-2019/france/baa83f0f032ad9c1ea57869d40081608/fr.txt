@@ -1,0 +1,140 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 28/06/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+DELIBERATION n°2018-090 du 15 MARS 2018 
+Délibération n°2018-090 du 15 mars 2018 autorisant la société EPARGNE ACTUELLE à mettre en œuvre un traitement automatisé de données à caractère personnel ayant pour finalité la mise en œuvre d’un dispositif de détection de fuites d’information destiné à assurer la sécurité des systèmes d’information. 
+
+(Demande d’autorisation n° 1988800) 
+ 
+La Commission nationale de l’informatique et des libertés,  
+Saisie par la société EPARGNE ACTUELLE d’une demande d’autorisation concernant la mise en œuvre d’un traitement automatisé de données à caractère personnel ayant pour finalité la mise en œuvre d’un dispositif de détection de fuites d’information destiné à assurer la sécurité des systèmes d’information ;  
+Vu la Convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ; 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ; 
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment ses articles 25-I-6° ; 
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés ; 
+Sur la proposition de Madame Marie-France MAZARS, commissaire, et après avoir entendu les observations de Madame Nacima BELKACEM, commissaire du Gouvernement, 
+ 
+ 
+Formule les observations suivantes : 
+ 
+Sur la finalité 
+ 
+La Commission nationale de l’informatique et des libertés a été saisie par la société EPARGNE ACTUELLE, filiale du groupe AVIVA FRANCE, sur le fondement de l’article 25-I-6° de la loi du 6 janvier 1978 modifiée, d’une demande d’autorisation préalablement à la mise en œuvre d’un traitement de données à caractère personnel ayant pour finalité la mise en œuvre d’un dispositif de détection de fuites d’information destiné à assurer la sécurité des systèmes d’information. 
+ 
+Au titre de ses obligations, notamment au regard de l’article 34 de la loi du 6 janvier 1978 modifiée, la société EPARGNE ACTUELLE est tenue de garantir la sécurité des données qui lui sont confiées. 
+ 
+Afin de détecter et de prévenir la perte de ces données, ainsi que leur diffusion accidentelle ou malveillante, un outil dit de CData Loss Prévention (DLP)” analysera les réseaux internes de la société, les postes de travail professionnels ainsi que les points de sortie des réseaux internes (envoi d’e-mails, impression, téléchargement, clefs USB …). 
+ 
+Seules les données préalablement définies, qui exigent un haut niveau de sécurité, appelées données cibles, seront recherchées par cet outil. En l’espèce, les données cibles sont des numéros d’inscription des personnes au répertoire national d’identification des personnes physiques (numéros de sécurité sociale).  
+ 
+En cas de détection d’une transmission de données contenant des données cibles, la société EPARGNE ACTUELLE s’engage à informer l’utilisateur par l’affichage d’une fenêtre d’avertissement, qu’il s’apprête à réaliser une opération soumise à restriction qui fera l’objet d’une analyse par les personnes habilitées en cas de persistance.  
+ 
+Si l’utilisateur décide de ne pas poursuivre son action, l’outil DLP ne gardera aucune trace de cet événement. 
+ 
+En cas de persistance de l’action, l’outil DLP générera automatiquement un extrait des données concernées, contenant quinze caractères répondant aux caractéristiques du NIR qui précèdent et qui suivent les données cibles. Cet extrait sera par la suite adressé aux personnes chargées d’étudier la légitimité de l’opération effectuée, dans le respect des procédures internes et de la législation applicable. 
+ 
+En complément de l’analyse de la légitimité des opérations effectuées sur les données cibles, l’outil DLP permettra également, en cas de découverte de pratiques de gestion de données non sécurisées, d’apporter les mesures correctives nécessaires pour éviter leur réitération. 
+ 
+La Commission considère que les finalités poursuivies par la société EPARGNE ACTUELLE sont déterminées, explicites et légitimes. 
+ 
+ 
+ 
+ 
+ 
+ 
+Elle estime qu’il y a lieu de faire application de l’article 25-I-6° de la loi du 6 janvier 1978 modifiée, qui soumet à autorisation les traitements portant sur des données parmi lesquelles figure le numéro d’inscription des personnes au répertoire national d’identification des personnes physiques (NIR). 
+ 
+A ce titre, elle rappelle que les traitements dit de DLP relèvent, en principe, de la procédure de déclaration normale, sauf lorsqu’ils portent sur des données dont le traitement doit être autorisé par la Commission tel que prévu par l’article 25 de la loi du 6 janvier 1978 modifiée. 
+ 
+Sur les données traitées 
+ 
+Les données à caractère personnel collectées par l’outil DLP sont relatives à : 
+ 
+des données d’identification (adresse e-mail, numéro de téléphone) ; 
+aux numéros d’inscription des personnes au répertoire national d’identification des personnes physiques (NIR). 
+ 
+L’outil DLP est configuré pour rechercher et sécuriser uniquement les données qui, en raison de leur nature, exigent un haut niveau de sécurité. 
+ 
+En l’espèce, les données cibles recherchées comprennent uniquement des numéros de sécurité sociale. 
+ 
+Par ailleurs, pour réduire le nombre de faux incidents, le responsable de traitement a décidé qu’une alerte sera émise dès qu’un flux contenant quinze caractères répondant aux caractéristiques du NIR est détecté. 
+ 
+Les données stockées dans les boîtes de réception ou les dossiers des employés ne sont pas analysées par l’outil DLP tant qu’elles ne font pas l’objet d’une transmission.  
+ 
+En cas de transmission, les courriers électroniques et les fichiers identifiés par leurs émetteurs comme étant Cprivés” sont également exclus du champ d’application du présent traitement, ce qui apporte une garantie quant au respect du secret des correspondances privées. 
+ 
+La Commission considère que le traitement des données ci-dessus déterminées est adéquat, pertinent et non excessif au regard de la finalité poursuivie. 
+ 
+ 
+Sur les destinataires 
+ 
+Les données du présent traitement seront transmises pour instruction : 
+ 
+aux personnels habilités du service chargé de la sécurité du contrôle (GIE) du groupe AVIVA FRANCE ; 
+aux personnels habilités de la Direction Sécurité et Risques du groupe AVIVA FRANCE. 
+ 
+En cas de détection d’une anomalie par ces personnes, les données pourront être transmises : 
+ 
+aux personnels habilités du service des ressources humaines de la société EPARGNE ACTUELLE ; 
+aux responsables hiérarchiques ; 
+à la maison mère du groupe AVIVA FRANCE (PLC - GROUPE INVESTIGATION AND FORENSIC AUDIT). 
+ 
+La Commission considère que ces destinataires présentent un intérêt légitime à connaître des données collectées par l’intermédiaire de l’outil DLP. 
+ 
+Sur l’information et le droit d’accès  
+ 
+Les personnes concernées sont informées, conformément à l’article 32 de la loi du 6 janvier 1978 modifiée, par des mentions d’information sur le site intranet de la société EPARGNE ACTUELLE 
+ 
+La société EPARGNE ACTUELLE s’engage également à mettre en place d’autres modalités d’information, notamment l’affichage d’une fenêtre d’avertissement de type CPop-up”, en cas de détection d’une opération soumise à restriction. 
+ 
+Les droits d’accès, de rectification et d’opposition pour motif légitime s’exercent auprès de la Direction Sécurité du groupe AVIVA FRANCE - 80 avenue de l’Europe - 92270 Bois-Colombes. 
+ 
+Sous réserve des précédentes observations, la Commission considère que ces modalités d’information et d’exercice des droits des personnes sont satisfaisantes. 
+ 
+Sur les mesures de sécurité 
+ 
+Des profils d’habilitation définissent les données et les fonctionnalités accessibles en fonction des utilisateurs. 
+ 
+Les échanges de données sont sécurisés par l’utilisation d’un procédé de chiffrement (AES 128 bits). 
+ 
+Une fonctionnalité de journalisation des opérations permet d’identifier l’utilisateur à l’origine d’une opération. 
+ 
+Les interventions de maintenance sont enregistrées dans une main courante. 
+ 
+Les mesures de sécurité décrites par le responsable de traitement sont conformes à l’exigence de sécurité prévue par l’article 34 de la loi du 6 janvier 1978 modifiée. 
+ 
+La Commission rappelle toutefois que cette obligation nécessite la mise à jour des mesures de sécurité au regard de la réévaluation régulière des risques. 
+ 
+Dans ces conditions, la Commission autorise la société EPARGNE ACTUELLE à mettre en œuvre un traitement de données à caractère personnel ayant pour finalité la mise en œuvre d’un dispositif de détection de fuites d’information destiné à assurer la sécurité des systèmes d’information. 
+ 
+Sur les autres caractéristiques du traitement 
+ 
+Les données relevant de la vie privée des utilisateurs qui seraient collectées, malgré les précautions prises en amont par le responsable de traitement, seront immédiatement détruites. 
+ 
+Les données relatives à une alerte ne mettant pas en lumière une anomalie seront détruites au plus tard un mois à compter du constat.  
+ 
+En cas de mise à jour d’une anomalie, les données seront conservées pendant trois mois, le temps nécessaire à la réalisation de l’enquête associée, dans le respect des procédures internes et de la législation applicable. 
+ 
+La Commission considère que ces durées de conservation n’excèdent pas celles qui sont nécessaires à l’accomplissement des finalités poursuivies par le responsable traitement. 
+ 
+ 
+Autorise, conformément à la présente délibération, la société EPARGNE ACTUELLE à mettre en œuvre le traitement susmentionné. 
+ 
+Pour la Présidente 
+ 
+ 
+ 
+ 
+Le Vice-Président délégué. 
+Marie-France MAZARS 
+ 
+ 
+Nature de la délibération: Autorisation
+ 
+ 
+
+

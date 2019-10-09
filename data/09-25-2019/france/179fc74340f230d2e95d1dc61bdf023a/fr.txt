@@ -1,0 +1,155 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 28/06/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+DELIBERATION n°2018-110 du 22 MARS 2018 
+Délibération n° 2018-110 du 22 mars 2018 autorisant la mise en œuvre par le Commissariat à l’énergie atomique d’un traitement automatisé de données à caractère personnel ayant pour finalité une base de données dédiée à la santé mentale 
+
+(Demande d’autorisation n° 2071892) 
+ 
+La Commission nationale de l’informatique et des libertés, 
+Saisie par le Commissariat à l’énergie atomique (CEA) d’une demande d’autorisation concernant un traitement automatisé de données à caractère personnel ayant pour finalité la constitution d’une base de données dédiée à la santé mentale ; 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ; 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ; 
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment ses articles 8-IV et 25-I-1° ; 
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ; 
+Vu l’arrêté du 8 novembre 2006 fixant la durée de conservation par le promoteur et l’investigateur des documents et données relatifs à une recherche biomédicale portant sur un médicament à usage humain ; 
+Vu le dossier et ses compléments ; 
+Sur la proposition de Mme Valérie PEUGEOT, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement, 
+ 
+ 
+Formule les observations suivantes : 
+ 
+ 
+ 
+ 
+Sur le responsable du traitement 
+ 
+Le Commissariat à l’énergie atomique et aux énergies alternatives (CEA) est un organisme public de recherche à caractère scientifique, technique et industriel (EPIC).​ 
+Le CEA intervient dans quatre domaines : la défense et la sécurité, les énergies nucléaire et renouvelables, la recherche technologique pour l’industrie et la recherche fondamentale. 
+ 
+ 
+Sur la finalité 
+ 
+Le CEA développe une base de données, dénommée « IMAGEN », de données « biologiques, psychologiques et environnementales », alimentée par des promoteurs de recherche partenaires au niveau international. 
+ 
+Cette base de données est dédiée à la recherche sur le développement du cerveau et sur la santé mentale à l’adolescence.  
+ 
+Ses finalités sont de : 
+ 
+centraliser des données collectées dans le cadre de projets de recherche sur le développement du cerveau, la santé mentale, les addictions à l’adolescence et leurs effets à l’âge adulte ; 
+mettre à disposition de chercheurs, travaillant dans le même domaine, des données pseudonymisées ; 
+développer des stratégies de prévention et améliorer les prises en charge des troubles de santé mentale. 
+ 
+La Commission rappelle que les traitements de données de santé à caractère personnel qui seront mis en œuvre, à des fins de recherche dans le domaine de la santé, à partir des données centralisées sur la base de données, sont des traitements distincts qui devront faire l’objet de formalités propres au titre du chapitre IX de la loi « informatique et libertés ». 
+ 
+La Commission considère ces finalités comme déterminées, légitimes et explicites au sens de l’article 6 de la loi du 6 janvier 1978 modifiée. 
+ 
+Elle estime qu’il y a lieu de faire application des dispositions combinées des articles 8-IV et 25-I-1° de la loi du 6 janvier 1978 modifiée, qui soumettent à autorisation les traitements comportant des données relatives à la santé et justifiés, comme en l’espèce, par l’intérêt public. 
+ 
+Sur les données traitées 
+ 
+Les données traitées sont issues d’un premier projet de recherche, réalisé en conformité avec la méthodologie de référence MR001, auquel a participé le CEA, ainsi que d’autres données collectées et traitées par les organismes partenaires dans le cadre de recherches dans le domaine de la santé. 
+ 
+Les informations intégrées sur la base de données sont détenues par le CEA et ses partenaires. Elles concernent des participants volontaires à des protocoles de recherche menés par ces organismes. 
+Les catégories de données utilisées sont des: 
+ 
+ 
+données d’état civil ; 
+données d’imageries IRM ; 
+données cliniques obtenues à partir d’examens ; 
+données comportementales et environnementales collectées directement auprès des sujets via des formulaires ; 
+données génétiques. 
+ 
+Le CEA reçoit des données préalablement pseudonymisées parl’organisme contributeur. L’identité des personnes volontaires est remplacée par un code « PSC1 » composé de douze chiffres. 
+ 
+Les deux premiers chiffres correspondent au centre contributeur ; les quatre chiffres suivants sont toujours zéro et les six derniers chiffres sont choisis aléatoirement.Tous les organismes contributeurs utilisent cette même structure de code. 
+ 
+Les organismes contributeurs conservent la table decorrespondance entre l’identité du volontaire et le code. 
+ 
+Le CEA, en tant que récepteur des données, dispose d’une table de correspondance entre le PSC1 et la date de naissance du sujet de façon à convertir les dates de naissance présentes dans les données d’imagerie en âge du sujet au moment de la prise du cliché. 
+ 
+Le CEA pseudonymise une seconde fois les données par l’attribution d’un code « PSC2 » composé de 12 chiffres. Les quatre premiers chiffres sont toujours zéro, les huit chiffres suivants sont choisis aléatoirement. 
+ 
+La table de correspondance entre le code « PSC1 » et « PSC2 » est conservée par le CEA pendant toute la durée de la recherche. 
+ 
+Sur les destinataires 
+ 
+Les destinataires des données sont : 
+les personnes habilitées du King’s College de Londres, en tant que responsable du choix des organismes « contributeurs », des organismes « lecteurs » et de l’accès distant aux données ; 
+les personnes habilitées par le Kings’College, en tant que « contributeurs » à accéder aux données des sujets ayant participé à l’étude initiale ; 
+les chercheurs habilités par le King’s College, en tant que « lecteurs », dans le cadre de projets de recherche spécifiques, qui auront fait l’objet de formalités propres au titre du chapitre IX de la loi « informatique et libertés » portant sur la santé mentale à l’adolescence. 
+ 
+S’agissant des projets de recherche réalisés par des organismes situés hors de l’Union européenne, le King’s College est en charge de l’encadrement contractuel de l’accès distant aux données. 
+ 
+Les garanties mises en œuvre par les destinataires des données sont des clauses contractuelles type élaborées par la Commission Européenne relatives aux transferts de données de responsable de traitement à responsable de traitement. 
+ 
+Ces destinataires n’appellent pas d’observation de la part de la Commission. 
+ 
+Sur l’information et les droits des personnes  
+ 
+Les personnes sont informées, au moment de la collecte initiale des données les concernant, que celles-ci seront transférées sur une base de données dédiée à la recherche sur le cerveau et qu’elles pourront être réutilisées par des promoteurs de recherche situés en et hors de l’union européenne. 
+ 
+Le CEA vérifie auprès de l’organisme d’origine que les données à caractère personnel qui lui sont transmises ont été traitées et lui sont communiquées en conformité avec le droitapplicable.  
+ 
+L’exercice des droits s’effectue auprès de l’organisme ayant initialement recueilli les données. 
+ 
+La Commission estime que ces modalités d’information et d’exercice des droits sont satisfaisantes. 
+ 
+Sur les mesures de sécurité 
+ 
+Les accès au traitement se font via le protocole HTTPS, qui permet de garantir la confidentialité des données échangées ainsi que l’authentification du responsable de traitement. Concernant le recours à ce protocole, la Commission note qu’il ne sera possible d’utiliser que les versions de TLS les plus à jour possible. 
+ 
+Des profils d’habilitation sont prévus afin de gérer les accès aux données en tant que de besoin. En particulier, il existe trois profils habilitées à utiliser la base de données IMAGEN : les administrateurs, les contributeurs qui peuvent ajouter des données et les lecteurs qui ne peuvent que les consulter. Les lecteurs ne peuvent avoir accès qu’aux données pertinentes pour leur recherche. 
+ 
+La Commission rappelle que cette règle doit s’appliquer à tous les utilisateurs, lecteurs comme contributeurs : chaque utilisateur ne doit avoir accès qu’aux données nécessaires à ses missions. 
+Le CEA a mis en œuvre, pour l’ensemble de ces utilisateurs et administrateurs, une politique de mot de passe conforme à la délibération n° 2017-012 du 19 janvier 2017 portant adoption d’une recommandation relative aux mots de passe. 
+ 
+L’intégrité des données reçues est assurée par une étape de contrôle qualité, faisant intervenir du personnel et un logiciel dédié. Au cours de cette étape, les données sont vérifiées, analysées et visualisées pour leur associer des informations sur leur qualité. 
+ 
+La Commission note que, contrairement au chiffrement des postes nomades qui est mis en œuvre par le CEA, le chiffrement des données en base a été évalué comme n’étant pas possible au moment de cette demande. La Commission recommande de réévaluer la question tous les 3 ans. 
+ 
+Des mesures permettent cependant de limiter le risque sur la confidentialité des données, notamment les mesures suivantes. 
+Les données sont conservées et sauvegardées sur des serveurs dans des locaux dont les accès physiques sont restreints et contrôlés par un moyen d’authentification personnel. Les disques durs ainsi que les sauvegardes, qu’elles soient sur disques ou bandes magnétiques, sont physiquement détruits avant de quitter le CEA. Ceux-ci ne peuvent sortir du CEA pour de la maintenance. 
+Des sauvegardes quotidiennes sont réalisées. Les mêmes conditions de sécurité que pour le stockage des données sont appliquées aux sauvegardes. La Commission rappelle que celles-ci doivent être testées régulièrement afin de vérifier leur intégrité. 
+ 
+Les arguments du CEA sur l’impossibilité de chiffrer les données en stockage ne s’appliquant pas aux sauvegardes, la Commission recommande que celles-ci soient chiffrées. 
+ 
+Une journalisation est mise en place. La Commission rappelle que celle-ci doit couvrir les opérations de consultation, création et modification des données. 
+ 
+Une analyse automatique des traces est effectuée afin de répondre aux comportements suspects. Une analyse humaine est effectuée en cas d’incident.  
+ 
+Les traces sont conservées pendant une durée de 12 mois. 
+ 
+La Commission rappelle qu’il incombe au responsable de traitement d’informer les utilisateurs des mesures de traçabilité mises en place. 
+Sous réserve des précédentes observations, les autres mesures de sécurité décrites par le responsable de traitement sont conformes à l’exigence de sécurité prévue par l’article 34 de la loi du 6 janvier 1978 modifiée. 
+ 
+La Commission rappelle toutefois que cette obligation nécessite la mise à jour des mesures de sécurité au regard de la réévaluation régulière des risques. 
+Sur la durée de conservation des données 
+ 
+Les données sont conservées quinze ans après la fin de la recherche, conformément à l’arrêté du 8 novembre 2006 fixant la durée de conservation par le promoteur et l’investigateur des documents et données relatifs à une recherche biomédicale. 
+ 
+La Commission estime que cette durée de conservation est pertinente au regard de la finalité poursuivie par le traitement. 
+ 
+ 
+ 
+Autorise, conformément à la présente délibération, le Commissariat à l’énergie atomique à mettre en œuvre le traitement susmentionné. 
+ 
+ 
+ 
+Pour la Présidente, 
+Le Vice-Président délégué 
+ 
+ 
+ 
+Marie-France MAZARS 
+ 
+ 
+Nature de la délibération: Autorisation
+ 
+ 
+
+

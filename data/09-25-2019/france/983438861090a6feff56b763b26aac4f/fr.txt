@@ -1,0 +1,170 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 26/05/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+Délibération n°2018-146 du 3 mai 2018 
+Délibération n° 2018-146 du 3 mai 2018 portant avis sur un projet d’arrêté portant création d’un traitement automatisé de données à caractère personnel dénommé « plate-forme électronique de recueil des coordonnées bancaires et de leurs conditions d’emploi rapportées par les victimes d’achats frauduleux en ligne » (PERCEVAL) (demande d’avis n° 2118047) 
+NOR: CNIX1814151X
+
+La Commission nationale de l’informatique et des libertés,
+ 
+Saisie par le ministre de l’intérieur d’une demande d’avis concernant un projet d’arrêté portant création d’un traitement automatisé de données à caractère personnel dénommé plate-forme électronique de recueil des coordonnées bancaires et de leurs conditions d’emploi rapportées par les victimes d’achats frauduleux en ligne (PERCEVAL) ;
+ 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ;
+ 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+ 
+Vu le ;
+ 
+Vu le ;
+ 
+Vu le , notamment son article L. 163-3 ;
+ 
+Vu le , notamment son article L. 235-1 ;
+ 
+Vu la modifiée relative à l’informatique, aux fichiers et aux libertés, notamment ses articles 26-l (2°) et 27-II (4°) ;
+ 
+Vu le modifié pris pour l’application de la relative à l’informatique, aux fichiers et aux libertés ;
+ 
+Vu l’arrêté du 24 juillet 2015 modifié portant création d’un traitement de données à caractère personnel par la direction interministérielle des systèmes d’information et de communication d’un téléservice dénommé FranceConnect ;
+ 
+Vu l’arrêté du 24 février 2016 portant intégration au site internet service public.fr d’un téléservice permettant à l’usager d’accomplir des démarches administratives en tout ou partie dématérialisées et d’avoir accès à des services d’informations personnalisés ; 
+ 
+ 
+Sur la proposition de M. Jean-François CARREZ, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement,
+ 
+Emet l’avis suivant :
+ 
+La commission a été saisie par le ministre de l’intérieur d’une demande d’avis relative à un projet d’arrêté portant création d’un traitement automatisé de données à caractère personnel dénommé plate-forme électronique de recueil des coordonnées bancaires et de leurs conditions d’emploi rapportées par les victimes d’achats frauduleux en ligne (PERCEVAL) .
+ 
+Le traitement projeté doit notamment permettre aux victimes des infractions de compromission ou de recel d’un moyen de paiement sécurisé, prévues à l’ (CMF), d’en effectuer le signalement en ligne.
+ 
+Ce projet, fondé sur les articles 26-I (2°) et 27-II (4°) de la loi du 6 janvier 1978 modifiée, doit être autorisé par arrêté, pris après avis motivé et publié de la commission.
+ 
+Sur les finalités du traitement :
+ 
+Aux termes de l’article 1er du projet d’arrêté soumis à la commission, le traitement, qui doit être mis en œuvre par la direction générale de la gendarmerie nationale (DGGN) du ministère de l’intérieur, a pour finalités :
+ 
+I. - De permettre à une victime d’effectuer un signalement depuis un téléservice mis à sa disposition sur le site “service-public.fr”, contre un auteur inconnu, pour des faits constitutifs des infractions suivantes :
+ 
+1° Contrefaçon ou falsification d’un instrument de paiement ayant un dispositif de sécurité personnalisé ;
+ 
+2° Usage ou tentative d’usage, en connaissance de cause, d’un instrument de paiement ayant un dispositif de sécurité personnalisé contrefait ou falsifié ;
+ 
+3° Acceptation, en connaissance de cause, de recevoir un paiement au moyen d’un instrument de paiement ayant un dispositif de sécurité personnalisé contrefait ou falsifié.
+ 
+II. - D’exploiter les signalements mentionnés au I afin d’effectuer des rapprochements. 
+ 
+L’article 1er du projet d’arrêté précise, en outre, que le traitement permet également de faciliter et d’uniformiser les démarches administratives des victimes auprès de leurs établissements bancaires .
+ 
+De telles finalités s’expliquent par la baisse importante et constante, depuis 2010, du nombre de plaintes déposées concernant les infractions liées à la compromission ou au recel d’un moyen de paiement sécurisé, prévues et réprimées par l’article L. 163-3 du CMF, compte tenu de la possibilité dont bénéficie la victime d’obtenir le recouvrement du préjudice financier découlant d’un usage frauduleux de sa carte de paiement directement auprès de sa banque, sans obligation d’un dépôt de plainte préalable.
+ 
+Cette tendance, alors que le nombre de transactions à distance estimées frauduleuses est extrêmement important, limite considérablement l’information dont dispose les services d’enquête et les prive d’opportunités de rapprochements voire d’identification d’auteurs, en même temps qu’il déresponsabilise certaines porteurs de cartes bancaires.
+ 
+Pour remédier à cette situation, le ministère souhaite mettre en œuvre la recommandation n° 51 formulée par le procureur général Marc Robert dans son rapport relatif à la stratégie de lutte contre la cybercriminalité, remis au garde des sceaux en juin 2014, et consistant à organiser une centralisation du traitement des captations des cartes bancaires et des fraudes qui leur sont associées .
+ 
+Le ministère a précisé que la centralisation des signalements - par opposition au recueil isolé d’une plainte ou d’un signalement, qui conduit généralement à limiter l’investigation judiciaire - doit permettre de mobiliser des capacités d’investigation sur des faits supposés sériels et ainsi confondre prioritairement des auteurs d’habitude, voire des organisations criminelles.
+ 
+Le traitement PERCEYAL doit précisément permettre la centralisation du traitement des captations de cartes bancaires et des fraudes associées par la mise en œuvre d’un téléservice, accessible depuis le portail service-public.fr , offrant la possibilité aux victimes d’infractions prévues à l’article L. 163-3 du CMF de signaler en ligne les fraudes subies. Les personnes concernées sont ainsi celles qui découvrent à la lecture de leur relevé d’opérations par carte bancaire, une ou plusieurs transactions réalisées à leur insu, sans dépossession de la carte. Ces personnes devront impérativement, dans le cadre de l’accès au téléservice, s’authentifier par le biais du dispositif FranceConnect , autorisé par l’arrêté du 24 juillet 215 susvisé.
+ 
+La commission prend acte que le téléservice PERCEYAL invitera les personnes concernées à renseigner l’ensemble des informations permettant de réaliser un signalement complet et qu’à l’issue du signalement effectué, un récépissé sera mis automatiquement à leur disposition sur leur espace personnel. Ce récépissé, porteur des informations nécessaires pour solliciter des banques le recouvrement de leur préjudice financier, doit permettre d’éviter aux intéressés d’avoir à ressaisir les mêmes informations dans le cadre de la procédure d’indemnisation prévue à l’article L. 133-18 du CMF.
+ 
+Elle prend également acte que l’interface de recueil de signalement informera les victimes de l’obligation légale de signaler sans délai à leur banque la compromission de leur moyen de paiement et que le PERCEYAL comporte un lien direct vers un site interbancaire d’opposition, ce qui doit permettre de prévenir l’intervention de nouveaux préjudices.
+ 
+Le traitement PERCEYAL doit ainsi uniformiser et faciliter les démarches des usagers victimes, qui conserveront également la possibilité de se déplacer dans une brigade de gendarmerie ou un commissariat de police pour effectuer un dépôt de plainte.
+ 
+Les informations collectées par le biais de ce signalement en ligne seront en outre transmises aux enquêteurs du service central de renseignement criminel de la gendarmerie nationale, à des fins d’analyse et de rapprochement, ce qui doit permettre de rationaliser et d’améliorer l’exploitation des signalements et de mieux lutter contre les usages frauduleux de carte bancaire.
+ 
+Au regard de l’ensemble de ces précisions, la commission considère que les finalités poursuivies par le traitement sont déterminées, explicites et légitimes, conformément à l’article 6 (2°) de la loi du 6 janvier 1978 modifiée.
+ 
+Sur la nature des données traitées et leur durée de conservation :
+ 
+Les catégories de données à caractère personnel et les informations enregistrées dans le traitement PERCEVAL sont définies dans un document annexé au projet d’arrêté.
+ 
+Cette annexe mentionne d’abord des données relatives aux victimes, à savoir le sexe, les nom et prénom(s), la date et le lieu de naissance, l’adresse et la commune de résidence, les numéros de téléphone (fixe et portable), l’adresse électronique et le numéro de dossier. La commission prend acte que les données relatives à l’état civil (noms de naissance, prénoms, date de naissance, ville de naissance) seront importées depuis le compte FranceConnect et que les autres catégories de données seront renseignées par l’intéressé.
+ 
+L’annexe prévoit en outre la collecte de données relatives aux cartes de paiement des victimes. Ces données sont : le numéro de la carte de paiement, le nom de la banque émettrice, l’existence d’une déclaration d’opposition et, le cas échéant, le numéro du dossier d’opposition auprès de la banque émettrice.
+ 
+La commission relève que plusieurs mesures ont été prévues pour limiter les risques soulevés par le traitement des identifiants de carte de paiement. Le ministère a en particulier précisé que : 
+ 
+- le signalant doit explicitement confirmer avoir fait opposition sur sa carte de paiement lors de la saisie des informations sur le moyen de paiement compromis ;
+ 
+- le code de sécurité (CVV) et la date de validité sont écartés du formulaire, interdisant tout paiement sur la base des seules données saisies ;
+ 
+- seuls les quatre derniers chiffres du numéro de carte sont apparents sur le récépissé transmis automatiquement au signalant, destiné à être imprimé ou réexpédié vers la banque. 
+ 
+Dans ces conditions, les catégories de données relatives à la victime et à sa carte de paiement, nécessaires pour identifier la victime et son dossier, procéder aux investigations et reprendre contact, le cas échéant, avec le signalant, apparaissent adéquates, pertinentes et non excessives au regard des finalités poursuivies par le traitement.
+ 
+Il en va de même des données et informations relatives aux transactions frauduleuses réalisées avec l’instrument de paiement des victimes (date, montant, libellé…), des informations susceptibles d’identifier l’origine des infractions (site internet suspect visité par la victime, transaction réalisée sur internet via une connexion non sécurisée…) ainsi que des données et informations permettant de contrôler la véracité des éléments du signalement (adresse internet de connexion de la victime ; date, heure et fuseau horaire de la connexion de la victime au téléservice), également mentionnées par l’annexe au projet d’arrêté.
+ 
+L’article 3 du projet d’arrêté précise enfin que les catégories de données à caractère personnel et les informations enregistrées dans le traitement sont conservées pendant deux ans à compter de leur enregistrement.
+ 
+Cette durée de conservation, notamment justifiée par la complexité et la durée moyenne des investigations, n’apparaît pas excessive à la commission au regard des finalités pour lesquelles les données sont collectées et traitées.
+ 
+Sur les destinataires du traitement :
+ 
+Le projet d’arrêté distingue les personnels ayant accès aux données et informations enregistrés dans le traitement, des personnels pouvant être destinataires de ces mêmes données et informations.
+ 
+Concernant les personnels ayant directement accès aux données, le projet mentionne : 
+ 
+- les agents du service central de renseignement criminel ;
+ 
+- les magistrats du ministère public compétents pour les recherches relatives aux signalements des infractions concernées et les agents des services judiciaires agissant sous leur autorité. 
+ 
+Le projet précise que ces personnels, individuellement désignés et habilités, ne peuvent accéder aux données qu’à raison de leurs attributions et dans la limite du besoin d’en connaître, ce dont la commission prend acte.
+ 
+Elle prend également acte que deux profils d’accès distincts seront créées concernant les agents du service central de renseignement criminel, à savoir, un profil exploitant-analyste , attribué à des officiers ou agents de police judiciaire et qui n’autorise qu’un accès en lecture/extraction aux données enregistrées et un profil administrateur , qui seul permet un accès en lecture/suppression/extraction aux mêmes catégories de données.
+ 
+Le ministère a indiqué, en outre, que l’accès de magistrats du ministère public et d’agents agissant sous leur autorité est justifié par le souhait de satisfaire à l’obligation d’avis au parquet pour tout délit porté pour la première fois à la connaissance d’un officier ou agent de police judiciaire, conformément à l’ , et de vérifier l’existence et les éléments du signalement dans le système en cas de demande d’un justiciable ou de son avocat.
+ 
+Dans ces conditions, la commission considère que les accès autorisés par le projet d’arrêté sont justifiés au regard des finalités du traitement.
+ 
+Concernant les personnes pouvant être destinataires des données et des informations, à raison de leurs attributions et dans la limite du besoin d’en connaître, la commission prend acte que sont concernés : 
+ 
+- les agents des services de la police nationale et les militaires de la gendarmerie nationale exerçant des missions de police judiciaire et pour les seuls besoins d’une enquête judiciaire ;
+ 
+- les magistrats du ministère public et de l’instruction pour les recherches relatives aux infractions et procédures dont ils sont saisis ;
+ 
+- les organismes de coopération internationale en matière de police judiciaire et les services de police étrangers, dans les conditions énoncées à l’ . 
+ 
+Elle relève toutefois qu’il ressort du dossier de saisine qui lui a été adressé qu’en cas de soupçon de fraude déclarative auprès des établissements bancaires par des usagers, ces établissements auront la possibilité de s’adresser au responsable de traitement pour qu’il soit confirmé que le numéro unique du signalement correspond à l’état civil mentionné sur le récépissé présenté par le client. La commission prend acte que cet échange peut être justifié par la possibilité dont disposent les banques de s’opposer au remboursement en cas de fraude déclarative. Elle souligne toutefois qu’un tel échange, même s’il a pour unique objet la confirmation ou l’infirmation d’éléments contenus dans un récépissé présenté par des clients, est susceptible de révéler le contenu de données à caractère personnel enregistrées dans le traitement. La commission considère dès lors que les établissements bancaires doivent être regardés comme des destinataires du traitement au sens de l’article 3-II de la loi du 6 janvier 1978 modifiée et doivent être mentionnés par le projet d’arrêté, qui devra également définir les conditions précises de ces échanges.
+ 
+Sur l’information et les droits des personnes concernées :
+ 
+La commission prend acte que l’information des personnes prévue à l’article 32-I de la loi du 6 janvier 1978 modifiée sera délivrée par le biais de mentions sur la page d’accueil du téléservice PERCEVAL.
+ 
+Elle prend également acte que le droit d’accès prévu à l’article 39 de la même loi s’exercera auprès du service central de renseignement criminel de la gendarmerie nationale, étant précisé que les modalités d’exercice de ce droit seront indiquées sur le récépissé de signalement mis à la disposition de tout usager du téléservice.
+ 
+Le projet d’arrêté prévoit enfin que le droit d’opposition prévu à l’article 38 de la même loi ne s’applique pas au traitement, ce qui n’appelle pas d’observation de la part de la commission.
+ 
+Sur l’architecture, les mesures de sécurité et de traçabilité :
+ 
+La commission prend acte que, pour porter à la connaissance des forces de l’ordre des faits relatifs à la compromission ou au recel de leur moyen de paiement dans le cadre du traitement PERCEYAL, les usagers devront se connecter sur le site service­ public.fr et s’authentifier à l’aide du dispositif FranceConnect . Ce n’est qu’une fois que le questionnaire de signalement aura été rempli et validé par la personne concernée que les données seront transmises aux enquêteurs du service central de renseignement criminel précédemment évoqué. Le projet implique donc une interconnexion entre PERCEVAL et le téléservice service-public.fr , ce dont la commission prend acte.
+ 
+La commission relève, en outre, que les échanges entre l’usager et le site service­ public.fr bénéficieront des mesures de sécurité prévues pour la mise en œuvre de ce site, notamment s’agissant du chiffrement entre le poste de l’usager et le site ainsi que de l’authentification du responsable de traitement. Les échanges entre le site, mis en œuvre par la direction de l’information légale et administrative (DILA), et les serveurs de la gendarmerie nationale, s’effectueront par le biais d’un réseau virtuel privé, en l’espèce le WAN Gendarmerie , VPN/IP de niveau diffusion restreinte, connecté à la plate-forme d’échange et de confiance de la DILA par un lien d’interconnexion chiffré.
+ 
+La commission prend acte que des procédures d’habilitation individuelle sont prévues pour les personnels accédant au traitement, qu’il s’agisse des agents du service central de renseignement criminel, pour lesquels deux profils ( Exploitant et administrateur ) fournissant chacun des droits distincts ont été prévus, que pour les magistrats et agents des services judiciaires exerçant sous leur autorité, qui ne peuvent que consulter le traitement.
+ 
+La commission prend également acte que l’accès au traitement nécessite que les agents du service central de renseignement criminel s’authentifient à l’aide de leur carte agent associée à la saisie du code PIN afférent. Elle recommande que l’accès au traitement par les magistrats et agents agissant sous leur autorité fasse l’objet de mesures de nature à assurer un niveau de sécurité au moins équivalent à celui prévu pour les agents du service central de renseignement criminel.
+ 
+La commission souligne enfin qu’un dispositif de traçabilité est mis en œuvre au sein du traitement. Les traces, horodatées, sont, d’une part, techniques, utilisables par les services d’exploitation dans le cadre du maintien opérationnel du traitement, et, d’autre part, fonctionnelles. Les traces fonctionnelles, accessibles en lecture seule à l’administrateur fonctionnel et l’inspection générale de la gendarmerie nationale, conservent l’identifiant de l’utilisateur authentifié et de son poste, la référence des données accédées et les actions entreprises sur ces données (création, consultation, modification, suppression). Elle relève que ces différentes traces sont conservées pour une durée de trois (3) ans, ce qui n’apparaît pas excessif compte tenu des finalités du traitement.
+ 
+Dans ces conditions, la commission considère que les mesures prévues par le responsable de traitement sont conformes à l’exigence de sécurité prévue par l’article 34 de la loi du 6 janvier 1978 modifiée. Elle rappelle toutefois que le respect de cette exigence nécessite la mise à jour des mesures de sécurité au regard de la réévaluation régulière des risques. 
+ 
+Pour la présidente :
+ 
+ 
+Le vice-président délégué,
+ 
+ 
+M.-F. Mazars 
+ 
+ 
+Nature de la délibération: AVIS
+ 
+ 
+
+

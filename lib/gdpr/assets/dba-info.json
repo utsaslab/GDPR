@@ -302,5 +302,31 @@
         "render_type": "FULLY_RENDERED"
       }
     ]
+  },
+  "FR": {
+    "country": "France",
+    "name": "Commission Nationale de l'Informatique et des Libertés - CNIL",
+    "address": "3 Place de Fontenoy\nTSA 80715 – 75334 Paris, Cedex 07",
+    "phone": "1 53 73 22 22",
+    "country_code": "+33",
+    "website": "http://www.cnil.fr/",
+    "email": null,
+    "member": {
+      "name": "Ms Marie-Laure DENIS",
+      "title": "President of CNIL"
+    },
+    "sources": [
+      {
+        "host": "https://www.legifrance.gouv.fr",
+        "start_path": "/rechExpCnil.do?reprise=true&fastReqId=1934596120&page=1",
+        "target_element": {
+          "results": "div#center",
+          "pagination": "ul.pagination",
+          "document": "div#exportRTF",
+          "date": "div#contenu"
+        },
+        "render_type": "FULLY_RENDERED"
+      }
+    ]
   }
 }

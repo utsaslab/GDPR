@@ -1,0 +1,109 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 28/06/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+DELIBERATION n°2018-077 du 22 FEVRIER 2018 
+Délibération n° 2018-077 du 22 février 2018 autorisant l’observatoire régional de la santé Auvergne-Rhône-Alpes à mettre en œuvre un traitement automatisé de données à caractère personnel ayant pour finalité une enquête visant à déterminer l’état de santé des personnes entrant en établissement pénitentiaire en Auvergne-Rhône-Alpes 
+
+ 
+ 
+La Commission nationale de l’informatique et des libertés, 
+Saisie par l’Observatoire régional de la santé Auvergne-Rhône-Alpes d’une demande d’autorisation concernant un traitement automatisé de données à caractère personnel ayant pour finalité une enquête visant à déterminer l’état de santé des personnes entrant en établissement pénitentiaire en Auvergne-Rhône-Alpes ; 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ; 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ; 
+Vu le code de la santé publique, notamment son article R. 6112-19 ; 
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment ses articles 8-IV et 25-I°1 ; 
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ; 
+Vu le dossier et ses compléments ; 
+Sur la proposition de M. Alexandre LINDEN, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement, 
+ 
+ 
+Formule les observations suivantes : 
+ 
+Responsable du traitement 
+L’observatoire régional de santé (ORS) Auvergne-Rhône-Alpes, association créée en 1982 et membre du réseau français des ORS, réunis au sein de la Fédération nationale des observatoires régionaux de la santé (FNORS).  
+ 
+ 
+ 
+ 
+Sur la finalité 
+Dans le cadre de cette enquête, le traitement a pour finalité : 
+ 
+d’améliorer les connaissances sur l’état de santé des détenus (d’un point de vue somatique, psychiatrique et de la situation sociale) ; 
+d’adapter au mieux la prise en charge sanitaire des détenus ; 
+de rédiger un rapport sur les résultats obtenus (globaux et par établissements). 
+ 
+L’enquête vise à disposer d’un recueil de données épidémiologiques sur l’état de santé des personnes arrivant en établissement pénitentiaire, du ressort de la direction interrégionale des services pénitentiaires de Lyon (maison d’arrêt, quartiers maison d’arrêt et établissements pénitentiaires pour mineurs). L’enquête est réalisée par l’ORS sur une période de quatre à six semaines (hors vacances scolaires). Un questionnaire papier ou informatique est délivré à chaque unité sanitaire de niveau 1 (USN1) par l’ORS. Chaque USN1 devra renseigner un questionnaire pour chaque détenu entrant, lors de la visite médicale d’entrée. 
+ 
+La Commission considère les finalités poursuivies comme déterminées, légitimes et explicites au sens de l’article 6 de la loi du 6 janvier 1978 modifiée. 
+ 
+Sur les données traitées 
+Les catégories de données à caractère personnel dont le traitement est envisagé sont : 
+ 
+des données administratives du détenu : sexe ; année de naissance ; nationalité ; communication possible en français (oui/non) ; couverture sociale avant incarcération (type de couverture sociale) ; nombre de jours entre la date d’incarcération et la date de la visite médicale (différence de date à date) ;  
+des données relatives à la situation pénale du détenu : nom de l’établissement de détention ; première incarcération (oui/non) ; 
+des données relatives à l’état de santé du détenu :  traitement en cours (nom du traitement)/ aucun traitement en cours ; contact avec le système de soins l’année précédant l’incarcération (oui/non) / si oui le(s)quel(s) ; tentative de suicide (oui/non) / si oui année de la dernière tentative ; consommation de tabac (nombre moyen de cigarettes/jour / ne sait pas / a arrêté de fumer / n’a jamais fumé de tabac) ; consommation d’alcool (jamais/occasionnellement/consommation excessive) ; autres addictions dans les douze mois précédant l’incarcération (nom du produit addictif, fréquence de la consommation, forme de la consommation, addiction sans produit (oui/non) ; test de dépistage avant l’incarcération (oui/non ; si oui, le(s)quel(s) : HIV, hépatite B, hépatite C) ; vaccination contre l’hépatite B (oui/non/ne sait pas) et/ou DTP (à jour/incomplète/ne sait pas); examen médical (poids, taille, état général (bon/moyen/mauvais) ; état bucco-dentaire (bon/soins à programmer/soins urgents nécessaires), indice carieux ; présence de tatouage (oui/non), présence de piercing (oui/non) ; nécessite un suivi par médecin généraliste (oui/non), nécessite un traitement de substitution (oui/non), personne à mobilité réduite (oui/non)) ; nécessite un aménagement des conditions de détention du fait d’un problème médical ou d’un handicap (oui/non ; si oui le(s)quel(s)) ; prescription d’une consultation spécialisée (oui/non ; si oui laquelle ou lesquelles) ; prescription d’un traitement pour une pathologie aiguë (oui/non) ; prescription d’examens complémentaires (type d’examen) ; nécessite une extraction d’urgence (oui/non ; si oui pour quel motif).) 
+ 
+La Commission estime que les données traitées sont adéquates, pertinentes et non excessives au regard de la finalité poursuivie, conformément aux dispositions de l’article 6-3° de la loi du 6 janvier 1978 modifiée. 
+ 
+Sur les destinataires 
+Les destinataires des données sont : 
+ 
+le personnel (médecin ou infirmièr(e)) habilité de l’unité sanitaire de l’établissement pénitentiaire prenant en charge la personne concernée ;  
+la chargée d’études habilitée au sein de l’ORS Auvergne-Rhône-Alpes. 
+ 
+La Commission considère que les catégories de destinataires n’appellent pas d’observation. 
+ 
+Sur l’information et les modalités d’exercice des droits 
+Les personnes concernées sont informées de la manière suivante : 
+ 
+Lors de la visite médicale d’entrée dans l’établissement, le médecin en charge du patient l’informe du traitement des données le concernant.  
+La note d’information est conforme aux exigences précisées à l’article 32 de la loi informatique et libertés. 
+ 
+La personne concernée peut exercer ses droits d’accès, de rectification ou d’opposition au traitement de ses données à caractère personnel auprès de la chargée d’étude habilitée de l’ORS Auvergne-Rhône-Alpes. 
+La Commission rappelle que l’information délivrée doit-être adaptée à la personne concernée. Si la personne concernée est mineure, l’information doit être délivrée au titulaire de l’exercice de l’autorité parentale. 
+ 
+La Commission estime que ces modalités d’information et d’exercice des droits sont suffisantes. 
+ 
+Sur les mesures de sécurité 
+La Commission constate que la politique de mots de passe prévue par le responsable de traitement n’est pas conforme à sa délibération n° 2017-012 du 19 janvier 2017 portant adoption d’une recommandation relative aux mots de passe, en ce qu’elle ne prévoit pas que le responsable de traitement permette à la personne concernée de procéder elle-même au changement de son mot de passe. La Commission invite donc le responsable de traitement à revoir sa politique afin d’être en conformité avec sa doctrine et d’authentifier de manière fiable les utilisateurs du traitement. 
+ 
+L’ORS Auvergne-Rhône-Alpes saisit les données de manière anonyme dans l’outil mis en place à cet effet. 
+ 
+La Commission rappelle que l’anonymisation de l’extraction des données sur fichiers Excel doit être effective. Il conviendra donc de démontrer la conformité de la solution et des techniques d’anonymisation mises en œuvre, aux trois critères définis par l’avis du groupe de l’article 29 n° 05/2014, et de transmettre cette étude à la Commission.  
+À défaut, si ces trois critères ne peuvent être réunis, il conviendra de mettre en œuvre des conditions de sécurité effective, de haut niveau et de nature à garantir la confidentialité des données, et notamment des mesures complémentaires afin de limiter les risques de ré-identification des personnes, les interrogations ciblées et le niveau de détail des données fournies.  
+ 
+La Commission rappelle en outre au responsable de traitement la nécessité de mettre en place un système de journalisation permettant de conserver, sur une durée de six mois (hors contraintes légales spécifiques), une trace des opérations de consultation, création et modification des données.  
+La Commission considère également que la nature de ces données exige que celles-ci fassent l’objet de mesures de chiffrement à l’état de l’art tant au niveau des fichiers, des bases de données que des sauvegardes. 
+ 
+ 
+Sur les autres caractéristiques du traitement 
+ 
+Les données informatisées et les questionnaires papiers seront détruits dès la publication des résultats. 
+ 
+ 
+ 
+Autorise, conformément à la présente délibération, l’observatoire régional de la santé Auvergne-Rhône-Alpes à mettre en œuvre le traitement susmentionné. 
+ 
+ 
+ 
+Le Vice-Président délégué 
+ 
+ 
+ 
+Marie-France MAZARS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nature de la délibération: Autorisation
+ 
+ 
+
+

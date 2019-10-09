@@ -1,0 +1,139 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 14/12/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+Délibération n°2018-101 du 15 mars 2018 
+Délibération n° 2018-101 du 15 mars 2018 portant avis sur projet de décret pris pour l’application de l’article 6 de la loi n° 2016-1321 du 7 octobre 2016 pour une République numérique (demande d’avis n° 17001751) 
+
+La Commission nationale de l’informatique et des libertés,
+ 
+Saisie par la direction interministérielle du numérique et du système d’information de l’Etat d’une demande d’avis sur un projet de décret pris pour l’application de l’ pour une République numérique ;
+ 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes àl’égard du traitement automatisé des données à caractère personnel ;
+ 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+ 
+Vu le , notamment son article L. 312-1-2 ;
+ 
+Vu le , notamment ses articles L. 213-1 et L. 213-2 ;
+ 
+Vu la modifiée relative à l’informatique, aux fichiers et aux libertés, notamment son article 11-4°-a ;
+ 
+Vu la pour une République numérique, notamment son article 6 ;
+ 
+Vu le modifié pris pour l’application de la relative à l’informatique, aux fichiers et aux libertés ;
+ 
+Vu la délibération de la commission n° 2012-113 du 12 avril 2012 portant autorisation unique de traitements de données à caractère personnel contenues dans des informations publiques aux fins de communication et de publication par les services d’archives publiques ;
+ 
+Après avoir entendu M. Philippe LEMOINE, commissaire, en son rapport, et Mme Nacima BELKACEM, commissaire du Gouvernement, en ses observations, 
+ 
+ 
+Emet l’avis suivant :  
+ 
+La commission a été saisie d’un projet de décret pris pour l’application de l’ pour une République numérique. Cet article a inséré dans le (CRPA) un article L. 312-1-2 ainsi rédigé :
+ 
+Sauf dispositions législatives ou réglementaires contraires, lorsque les documents et données mentionnés aux articles L. 312-1 ou L. 312-1-1 comportent des mentions entrant dans le champ d’application des articles L. 311-5 ou L. 311-6, ils ne peuvent être rendus publics qu’après avoir fait l’objet d’un traitement permettant d’occulter ces mentions.
+ 
+Sauf dispositions législatives contraires ou si les personnes intéressées ont donné leur accord, lorsque les documents et les données mentionnés aux articles L. 312-1 ou L.312-1-1 comportent des données à caractère personnel, ils ne peuvent être rendus publics qu’après avoir fait l’objet d’un traitement permettant de rendre impossible l’identification de ces personnes. Une liste des catégories de documents pouvant être rendus publics sans avoir fait l’objet du traitement susmentionné est.fixée par décret pris après avis motivé et publié de la commission nationale de l’informatique et des libertés.
+ 
+Les administrations mentionnées au premier alinéa de l’article L. 300-2 du présent code ne sont pas tenues de publier les archives publiques issues des opérations de sélection prévues aux articles et du code du patrimoine.  
+A titre liminaire, la commission souligne que le projet de décret s’inscrit dans le contexte du renforcement de l’ouverture en ligne des données détenues par les administrations (ci-après open data ). La diffusion sur internet des données des administrations publiques dans un standard ouvert, aisément réutilisable et exploitable par un système de traitement automatisé, apporte une transparence administrative et permet également de susciter l’innovation économique par la création de nouveaux services en offrant une grande liberté quant aux possibilités de réexploitation de ces données.
+ 
+Dans ce contexte, la commission rappelle que la publication massive de données en ligne a naturellement pour effet d’augmenter les risques potentiels pour les personnes concernées. En effet, cette publication implique que des informations publiques puissent, sans même contenir initialement de données directement identifiantes, permettre, par recoupement avec d’autres informations publiques mises à disposition et plus généralement avec d’autres données disponibles sur internet, l’identification ou la ré-identification de personnes physiques. Dans cette hypothèse, plus que sa qualité intrinsèque, c’est bien l’usage fait de la donnée initiale qui lui confère son caractère personnel. 
+La commission entend dès lors porter une attention particulière aux conditions dans lesquelles ces jeux de données peuvent faire l’objet d’une diffusion.
+ 
+Elle relève tout d’abord que la loi pour une République numérique susvisée est venue modifier le régime juridique applicable à l’accès aux documents administratifs autour d’un principe général suivant lequel, sauf dispositions législatives contraires, tout document communicable est publiable en ligne et librement réutilisable. Si ces nouvelles dispositions témoignent de la volonté du législateur de passer d’une logique de communication à la demande à une logique d’offre à la réutilisation, ce dernier a réservé un sort particulier aux documents administratifs comportant des données à caractère personnel, de façon à préserver l’équilibre entre l’objectif de transparence et l’impératif de protection des personnes.
+ 
+En effet, la commission rappelle que si l’open data ne concerne pas principalement les données à caractère personnel, les organismes publics produisent ou détiennent néanmoins, dans le cadre de leurs mission de service public, une grande variété de données directement ou indirectement identifiantes susceptibles d’être diffusées en ligne.
+ 
+Le législateur a ainsi entendu, d’une part, interdire la publication de documents comportant des mentions portant atteinte à la vie privée des individus et, pour les documents ne comportant pas de telles mentions mais contenant des données à caractère personnel, conditionner leur publication à une anonymisation préalable sauf à ce que les personnes concernées aient donné leur accord ou que leur publication ait été expressément autorisée par une disposition législative spécifique. 
+D’autre part, ila souhaité introduire la possibilité de déroger à la condition d’anonymisation préalable par voie de décret pris après avis de la commission.
+ 
+La commission entend dès lors rappeler que les aménagements au principe d’anonymisation préalable ne doivent pas conduire à dénaturer les principes protecteurs des personnes prévus par la loi.
+ 
+Aussi, la commission rappelle que le dispositif règlementaire soumis pour avis à la commission ne devrait pas devenir le vecteur de publication par défaut des documents contenant des données à caractère personnel.
+ 
+Pour autant, la commission rappelle que l’open data ne doit pas rencontrer de contraintes excessives au regard du droit d’accès des individus à l’information publique. Les efforts pédagogiques qui seront déployés et auxquels la commission entend participer, devront permettre d’accompagner les administrations dans leur démarche de diffusion en ligne des documents qu’elles détiennent pour que ce droit d’accès puisse être pleinement concilié avec le droit à la protection des données à caractère personnel. 
+Sur le périmètre des documents administratifs pouvant faire l’objet d’une publication sans anonymisation préalable
+ 
+La commission relève qu’eu égard à son objet, le projet de décret n’a pas vocation à dresser une liste détaillée qui identifierait de manière exhaustive la nature des documents pouvant faire l’objet d’une publication sans anonymisation préalable. Aucune typologie spécifique de documents n’est ainsi mentionnée dans le projet de décret, si ce n’est à titre d’illustration (notamment les organigrammes et les annuaires des administrations).
+ 
+Compte tenu de la nécessité de maintenir la confiance des personnes dont les données à caractère personnel sont traitées tout en permettant le développement de l’open data, la commission estime que la typologie des documents administratifs concernés par ces dispositions à visée générale, ainsi que les modalités techniques encadrant la diffusion de ces documents, pourraient être pleinement explicités dans des documents annexes tels qu’une circulaire d’application ou un guide spécifique. Ces documents pourraient également intégrer des recommandations de bonnes pratiques pour inviter les administrations à opérer, préalablement à chaque publication de documents, un équilibre entre l’intérêt de l’information du public et les atteintes potentielles à la vie privée. 
+La commission relève également que, pour délimiter le champ des documents, le projet de décret précise, pour les catégories 1° à 8° qu’il s’agit des documents permettant au public d’être informé .
+ 
+Or, elle considère que l’emploi de cette dernière formulation est de nature à compliquer l’appréhension du périmètre matériel du texte qui mériterait d’être circonscrit aux seuls documents nécessaires à l’information du public. 
+La commission estime en conséquence que le projet de décret devrait être modifié afin que la formulation les documents nécessaires à l’information du public se substitue à la formulation moins restrictive les documents permettant au public d’être informé .
+ 
+La commission prend acte de l’engagement du Gouvernement de modifier le projet de décret en ce sens. 
+Par ailleurs, la commission observe que plusieurs catégories de documents, bien que manifestement susceptibles de contenir des données à caractère personnel nécessaires à l’information du public, ne sont pas mentionnés dans le projet de décret, tels que la culture (catégorie absente) et de l’enseignement et de la recherche (catégorie restreinte aux seuls résultats des examens et concours). Elle rappelle qu’à défaut de figurer dans le présent projet de décret, de tels documents ne pourront faire l’objet d’une communication sans anonymisation préalable, quand bien même leur publication sous une forme non anonymisée présenterait un intérêt réel pour le public. 
+La commission relève enfin que la rédaction du 8° du projet de décret, relatif aux documents administratifs permettant au public d’être informé que les activités soumises à des formalités préalables prévues par des dispositions législatives ou règlementaires ont été acquittées […] , devra être améliorée. Par ailleurs ce même 8° mentionne expressément, à titre d’illustration, les formalités effectuées auprès de l’administration en vue de l’occupation du domaine public et celles auprès de la commission nationale de l’informatique et des libertés .
+ 
+A cet égard, la commission estime que ce point devrait être clarifié compte tenu, de l’incertitude entourant la possibilité de publier sans anonymisation les formalités effectuées auprès de l’administration en vue de la délivrance des autorisations individuelles d’urbanisme, de la place importante que ces documents occupent dans les avis et conseils rendus par la commission d’accès aux documents administratifs et des enjeux qui s’y attachent. 
+Sur la nature des données contenues dans les documents administratifs visés par le projet de décret 
+En premier lieu, la commission rappelle que, sauf dispositions contraires, aucune donnée entrant dans le champ des articles L. 311-5 et L. 311-6 du CRPA ne peut être diffusée dans le cadre de l’open data sans occultation préalable comme le prévoit le premier alinéa de l’article L. 312-1-2 du même code.
+ 
+A cet égard, elle relève qu’il existe un risque que les exemples de documents désignés par le projet de décret au sein de chaque catégorie soient lus indépendamment du premier alinéa du projet d’article D. 312-1-3 nouveau dès lors que ce dernier n’explicite pas la notion de documents et informations communicables à tous qui, sauf dispositions contraires, exclut de facto de son champ d’application les mentions relevant des dispositions des articles L. 311-5 et L. 311-6 du CRPA non occultées. A titre d’exemple, s’agissant des annuaires des administrations , la commission rappelle qu’ils ne sont communicables que dans une forme particulière, à savoir en l’absence des extensions téléphoniques des agents et des adresses professionnelles électroniques de ces derniers qui relèvent de la vie privée. De même, en ce qui concerne les diplômes nationaux , relèvent de la vie privée la formation initiale, l’inscription dans un établissement d’enseignement et les diplômes. La commission observe dèslors que ne sont donc publiables sans occultation que les diplômes pour lesquelles une disposition, généralement réglementaire, a prévu qu’ils sont rendus publics, commepour le baccalauréat.
+ 
+Par ailleurs, la commission relève que l’expression communicables devrait être complétée de la mention ou accessibles à tous , de manière à inclure les documents qui, ayant déjà fait l’objet d’une diffusion, ne sont plus communicables au sens de l’article L. 311-2 du CRPA. C’est le cas par exemple de la base de données SIRENE . 
+Compte tenu de ce qui précède, dans un souci de meilleure lisibilité des dispositions règlementaires, la commission considère que le projet de décret. devrait être modifié afin, d’une part que soient expressément exclues de son champ d’application les données entrant dans le champ des articles L. 311-5 et L. 311-6 du CRPA sous réserve de dispositions contraires, et, d’autre part, que soit explicitée la notion de documents et informations communicables à tous qui ne renvoie à aucune notion législative positive.
+ 
+La commission prend acte de l’engagement du Gouvernement de modifier le projet de décret en ce sens. 
+En deuxième lieu, en ce qui concerne les documents permettant au public d’être informé des conditions d’organisation de l’administration (point 1° du projet de décret), la commission relève que le projet de décret prévoit qu’ils sont communicables sans anonymisation préalable sans préjudice de l’application des règles nécessaires à la protection de la sécurité publique ou de la sécurité des personnes .
+ 
+Elle souligne que cette précision, relative à cette seule catégorie du projet de décret, est de nature à complexifier la compréhension du dispositif en créant un a contrario pour les autres catégories. 
+Par ailleurs, la commission relève que cette précision n’apparaît pas juridiquement justifiée dès lors que l’article L. 311-5 2°d du CRPA dispose que ne sont pas communicables les documents dont la consultation ou la communication porterait atteinte à la sûreté de l’Etat, à la sécurité publique, à la sécurité des personnes ou à la sécurité des systèmes d’information des administrations . Elle rappelle que le premier alinéa de l’article D. 312-1-3 nouveau du CRPA est de nature à couvrir ce cas de figure dans l’hypothèse où la sécurité des agents est en cause.
+ 
+Dès lors, la commission recommande que la mention sans préjudice de l’application des règles nécessaires à la protection de la sécurité publique ou de la sécurité des personnes soit supprimée du dispositif du projet de décret. 
+En troisième lieu, s’agissant des documents contenant des données à caractère personnel n’entrant pas dans le champ d’application des articles L. 311-5 ou L. 311-6 du CRPA, la commission considère qu’une diffusion sans anonymisation préalable n’apparaît proportionnée que si elle ne concerne que les informations strictement nécessaires à la satisfaction de l’objectif d’information du public. 
+A cet égard, la commission rappelle qu’en vertu des dispositions du deuxième alinéa de l’article L. 312-1-2 du CRPA, la diffusion de documents administratifs sans anonymisation préalable demeure en tout état de cause une faculté pour les administrations.
+ 
+Elle estime dès lors que la mise en œuvre d’un dispositif d’anonymisation préalable demeure pertinente pour certains documents entrant dans le champ d’application du projet de décret dès lors qu’ils comporteraient des données à caractère personnel dépourvues de toute utilité pour l’information du public. A cet égard et à titre d’exemple, la commission relève qu’une anonymisation partielle des organigrammes et annuaires des administrations devra être envisagée s’agissant notamment des données relatives aux agents n’ayant pas de lien immédiat avec le public ou n’exerçant pas de responsabilités particulières. 
+Enfin, la commission rappelle que les personnes dont les données seront diffusées sans anonymisation préalable bénéficient de la possibilité de faire valoir leur droit d’opposition pour motiflégitime en application de l’article 38 de la loi du 6 janvier 1978 modifiée. Elle rappelle en outre que l’administration conservera la possibilité de refuser de faire droit à toute demande de suppression en faisant valoir un intérêt légitime supérieur à celui invoqué par l’intéressé sous le contrôle de la commission. 
+Sur la publication des documents administratifs conservés par les services publics d’archives
+ 
+La commission observe que le projet de décret inclut dans son champ d’application (point 9° de l’article 1er) les documents administratifs conservés par les services publics d’archives. Elle rappelle que le régime de diffusion des documents d’archives publiques contenant des données à caractère personnel fait déjà l’objet d’un encadrement par sa portant autorisation unique de traitements de données à caractère personnel contenues dans des informations publiques aux fins de communication et de publication par les services d’archives publiques. Par cette autorisation unique, la commission a entendu prévenir la mise en ligne prématurée de documents susceptibles de porter une atteinte disproportionnée à la vie privée des personnes concernées à l’expiration du délai de non-communicabilité fixé à 50 ans par l’ .
+ 
+Or, la commission relève que les délais de publication des documents détenus par les services publics d’archives contenant des données à caractère personnel tels que prévus par le projet de décret sont plus courts et diffèrent ainsi manifestement de ceux figurant dans ladite autorisation unique. 
+Elle relève également que, le projet de décret autorise notamment la publication sans anonymisation préalable de ces documents (dans un délai de 100 ans à compter de la date des documents) lorsqu’ils comprennent des données relatives aux infractions et aux condamnations au sens de l’article 9 de la loi du 6 janvier 1978 modifiée. La commission souligne à cet égard que l’autorisation unique exclut de son champ d’application de telles données dont la publication doit faire l’objet d’une autorisation spécifique. 
+Si, par principe, la commission n’est pas opposée à envisager un assouplissement des délais de publication tels que prévus par l’autorisation unique ainsi qu’à l’extension du champ de la publication aux données visées à l’article 9 de la loi du 6 janvier 1978, elle souligne qu’il existe cependant une distinction fondamentale entre l’accès aux informations contenant des données à caractère personnel et l’exposition de ces données nécessairement amplifiée par leur indexation. A cet égard, la commission rappelle que les dispositions de l’autorisation unique précitée relatives aux délais d’indexation des documents d’archives publiques restent pleinement applicables. 
+Par ailleurs, la commission constate à la lecture du projet de décret que les archives
+ 
+juridictionnelles (actes d’état civil, archives des procédures juridictionnelles et les
+ 
+minutes d’actes notariés) sont exclues du champ d’application du décret qui ne concerne que les archives administratives . Dans un souci de pédagogie, elle recommande cependant que le décret soit modifié afin que leur exclusion soit
+ 
+explicitée. 
+A titre subsidiaire, la commission observe que le a et le b du point 9° du projet de décret incluent les données visées à l’article 9 de la loi du 6 janvier 1978 modifiée dans la notion de donnée sensible . A cet égard, la commission rappelle que les données sensibles correspondent aux seules données visées à l’article 8 de la loi précitée. Elle propose donc que le projet de décret soit modifié en ce sens afin que soit rétablie la distinction entre données sensibles au sens de l’article 8 et données relatives aux condamnations et infractions au sens de l’article 9 de la loi susvisée.
+ 
+La commission prend acte de l’engagement du Gouvernement de modifier le projet de décret en ce sens. 
+Sur les garanties pouvant accompagner les modalités de diffusion et de réutilisation des données à caractère personnel 
+En premier lieu, la commission relève que, de par sa finalité, l’open data, implique un téléchargement massif de documents sans limite quantitative spécifique. Dans cette perspective, elle rappelle que la publication des documents administratifs détenus par les services publics d’archives doit faire l’objet d’une attention toute particulière dès lors que peuvent être concernées des données visées aux articles 8 et 9 de la loi du 6 janvier 1978 modifiée. 
+La commission recommande ainsi aux services publics d’archives ainsi qu’à tout organisme chargé d’une mission de service public d’archivage de mettre en œuvre des dispositifs permettant d’empêcher toute aspiration automatique des données par des programmes informatisés. A titre d’exemple, un système de captcha (visuel ou auditif) pourrait être utilisé afin de permettre à chaque internaute d’accéder aux données qui intéressent ses recherches personnelles sans pour autant avoir un accès simultané à l’ensemble d’une base de données. 
+En deuxième lieu, la commission relève que les documents publiés sans anonymisation préalable pourront faire l’objet d’une indexation afin de faciliter le travail de recherche des internautes dans les bases de données. Elle rappelle toutefois que l’indexation des données identifiantes sur des moteurs de recherche externes devrait être proscrite. 
+La commission recommande ainsi aux administrations qui publient des documents non anonymisés de mettre en place des mesures empêchant l’indexation sur des moteurs de recherche externe des seules données identifiantes publiées. Ces mesures peuvent consister, par exemple, en l’utilisation de règles d’indexation à destination des moteurs de recherche correctement définies (fichier robots.txt ) ou de mécanismes visant à s’assurer que l’émetteur d’une requête concernant un document est bien un internaute et non un programme informatique (dispositif de captcha précité).
+ 
+En troisième lieu, la commission rappelle que, en application de l’article 6 de la loi du 6 janvier 1978 modifiée, les administrations doivent s’assurer de l’exactitude des données qui feront l’objet d’une diffusion en ligne. Comme le prévoit d’ailleurs l’article
+ 
+L. 312-1-1 du CRPA, les administrations devront porter une attention particulière à la mise à jour régulière des données publiées, laquelle peut notamment être satisfaite par
+ 
+le recours à des moyens automatisés tels que les interfaces de programmation applicative (ou API, pour Application Programming Interface ), ou encore à des mécanismes d’horodatage de la publication. A cet égard, la commission rappelle également que, conformément aux dispositions de l’article L. 322-1 du CRPA, la réutilisation des informations publiques est soumise à la condition que leurs sources et la date de leur dernière mise à jour soient mentionnées. 
+En quatrième lieu, la commission souligne que si la réutilisation est au cœur du concept d’open data, elle en constitue également le risque principal pour les personnes physiques dès lors que sont en jeu des données à caractère personnel. Elle rappelle ainsi que la réutilisation des informations diffusées à titre gratuit par les administrations peut être encadrée par le biais des licences mentionnées dans le relatif aux licences de réutilisation à titre gratuit des informations publiques et aux modalités de leur homologation. 
+La commission relève à ce titre que les licences constituent des outils peu contraignants dans leur mise en œuvre et permettent de faciliter la compréhension de leurs droits et obligations par les réutilisateurs. Leur dimension pédagogique doit ainsi fortement inciter les administrations à en faire usage dans le cadre de leur démarche open data. 
+Enfin, la commission rappelle que toute réutilisation des données à caractère personnel, notamment à des fins commerciales, devra être conciliée avec le droit d’opposition des personnes concernées. La réutilisation des données devra ainsi respecter la volonté des personnes concernées telle qu’exprimée lors de la collecte. Elle recommande ainsi aux administrations de mettre en œuvre des dispositifs permettant aux réutilisateurs d’identifier précisément les documents pour lesquels des droits d’opposition à certaines réutilisations ont été enregistrés par le responsable du traitement initial.
+ 
+La commission rappelle également, à titre général, que la publication de documents administratifs sans anonymisation préalable doit avoir lieu sans préjudice des obligations imposées aux ré-utilisateurs par le cadre juridique relatif à la protection des données personnelles. 
+ 
+La présidente,
+ 
+ 
+I. Falque-Pierrotin 
+ 
+ 
+Nature de la délibération: AVIS
+ 
+ 
+
+

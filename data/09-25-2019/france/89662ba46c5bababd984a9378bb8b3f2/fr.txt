@@ -1,0 +1,127 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 26/06/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+Délibération n°2018-132 du 12 avril 2018 
+Délibération n° 2018-132 du 12 avril 2018 portant avis sur un projet de décret autorisant la création d’un traitement de données à caractère personnel en vue d’un contrôle d’accès biométrique à une emprise de la marine nationale (saisine 17025610) 
+
+La Commission nationale de l’informatique et des libertés,
+ 
+Saisie par le ministère des armées d’une demande d’avis concernant la création d’un traitement de données à caractère personnel en vue d’un contrôle d’accès biométrique à une emprise de la marine nationale ;
+ 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ;
+ 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+ 
+Vu le , notamment ses articles L. 4123-12 et R. 2363-1 à R. 2363-7 ;
+ 
+Vu le , notamment ses articles 413-7 et R. 413-1 à R. 413-5 ;
+ 
+Vu la modifiée relative à l’informatique, aux fichiers et aux libertés, notamment ses articles 26 et 27 ;
+ 
+Vu le modifié pris pour l’application de la relative à l’informatique, aux fichiers et aux libertés ;
+ 
+Vu la portant adoption d’une recommandation relative aux mots de passe ; 
+ 
+ 
+Après avoir entendu Mme Marie-France MAZARS, commissaire, en son rapport, et Mme Nacima BELKACEM, commissaire du Gouvernement, en ses observations,
+ 
+Emet l’avis suivant :
+ 
+La commission a été saisie d’une demande d’avis sur un projet de décret visant à autoriser la création, par l’état-major de la marine, d’un contrôle d’accès biométrique à un site de la marine nationale.
+ 
+Sur la finalité du traitement :
+ 
+La mise en œuvre de ce contrôle d’accès biométrique vise à sécuriser l’accès à des zones militaires constituées d’une zone protégée au sens des , et d’une zone de défense hautement sensible au sens de l’article et des articles du code de la défense.
+ 
+Le dispositif de contrôle d’accès biométrique par contour de la main permet de restreindre l’accès à ces zones aux seules personnes autorisées et de détecter les tentatives d’accès non autorisé.
+ 
+La commission considère que ces finalités sont déterminées, explicites et légitimes.
+ 
+Sur la nature des données traitées :
+ 
+L’article 2 du projet de décret indique que les données à caractère personnel traitées et enregistrées dans le cadre de ce traitement sont : 
+ 
+- le numéro d’identification du badge ;
+ 
+- les dates et heures d’entrée et de sortie ;
+ 
+- le gabarit du contour de la main. 
+ 
+Elles sont collectées auprès des seuls agents autorisés à pénétrer dans les zones concernées par ce contrôle d’accès biométrique.
+ 
+La commission estime que les données sont adéquates, pertinentes et non excessives au regard des finalités pour lesquelles elles sont collectées.
+ 
+Sur la durée de conservation des données :
+ 
+L’article 3 du projet de décret énonce que le numéro d’identification du badge et le gabarit du contour de la main sont conservés jusqu’à la cessation définitive ou temporaire des fonctions de l’agent justifiant l’accès aux zones concernées.
+ 
+Les données relatives aux entrées et sorties sont conservées pendant une durée d’un an à compter de leur enregistrement. Cette durée a été retenue par le ministère pour permettre la réalisation d’investigations le cas échéant.
+ 
+La commission estime que les données collectées ne sont pas conservées sous une forme permettant l’identification des personnes concernées, pendant une durée excédant la durée nécessaire aux finalités du traitement.
+ 
+Sur les destinataires des données :
+ 
+L’article 4 du projet de décret indique que dans le cadre de leurs missions de sécurisation des zones visées par le dispositif de contrôle biométrique, les personnels de la gendarmerie maritime n’ont accès qu’aux données relatives aux entrées et sorties des agents ainsi qu’au numéro d’identification du badge.
+ 
+La commission considère que ces personnes présentent un intérêt légitime à accéder aux données du présent traitement, dans la limite de leurs attributions et sous réserve que les données effectivement accessibles présentent un lien direct et nécessaire avec leurs fonctions.
+ 
+Sur l’information des personnes :
+ 
+Les agents concernés sont informés du dispositif de contrôle d’accès et de ses modalités de mise en œuvre, par voie d’affichage situé à l’entrée du site et via la publication du présent projet de décret au Journal officiel, informés conformément aux dispositions de l’article 32 de la loi du 6 janvier 1978 modifiée.
+ 
+Les modalités d’information des personnes concernées n’appellent aucune observation de la part de la commission.
+ 
+Sur les droits d’accès, de rectification et d’opposition des personnes :
+ 
+Les droits d’accès et de rectification prévus respectivement aux articles 39 et 40 de la loi du 6 janvier 1978 modifiée pourront être exercés par les agents auprès de l’amiral commandant les forces sous-marines et la force océanique stratégique (ALFOST), par courrier.
+ 
+La commission note que l’article 6 du projet de décret écarte l’application du droit d’opposition en application de l’article 38 alinéa 3 de la loi du 6 janvier 1978 modifiée.
+ 
+Sur la sécurité des données et la traçabilité des actions :
+ 
+Le responsable du traitement, en application de l’article 34 de la loi du 6 janvier 1978 modifiée, doit prendre toutes les précautions utiles pour préserver la sécurité des données collectées et traitées, au regard de la nature des données, des risques présentés par le traitement, et notamment empêcher que des tiers non autorisés y aient accès par l’intermédiaire de mesures de sécurité physiques, logiques et organisationnelles.
+ 
+La commission prend acte du fait que les échanges auront intégralement lieu sur des réseaux privés maitrisés par le responsable de traitement.
+ 
+Un logiciel antivirus et installé et régulièrement mis à jour sur tous les postes.
+ 
+Des profils d’habilitation sont prévus afin de gérer les accès aux données en tant que de besoin. Les permissions d’accès sont supprimées pour tout utilisateur n’étant plus habilité.
+ 
+La commission rappelle qu’une revue globale des habilitations doit être opérée régulièrement.
+ 
+Chaque utilisateur dispose d’un identifiant qui lui est propre.
+ 
+Le responsable de traitement a mis en œuvre une politique de mot de passe conforme à la portant adoption d’une recommandation relative aux mots de passe.
+ 
+Une journalisation des opérations de consultation, création et modification des données est mise en place.
+ 
+Lors de l’utilisation du dispositif biométrique, les dates et heures d’entrée et de sortie sont conservées pendant une durée de 1 an.
+ 
+Les données biométriques sont conservées dans une base de données ainsi que sur chacun des lecteurs permettant l’accès au site.
+ 
+La commission regrette l’absence d’éléments justifiant le choix du responsable de traitement de stocker les gabarits en base centralisée et non sur un support individuel détenu par les agents. Toutefois, elle ne remet pas en question le besoin justifié de sécuriser l’accès aux sites concernés par un dispositif biométrique.
+ 
+La commission prend acte que le responsable de traitement dispose d’une politique de sécurité des systèmes d’information qui s’appuie sur les instructions et les recommandations de l’ANSSI.
+ 
+La commission estime que le décret pourrait être complété d’un article précisant que le traitement doit mettre en œuvre les mesures adéquates pour assurer la sécurité des données, conformément à l’article 34 de la loi Informatique et Libertés .
+ 
+La commission rappelle enfin que l’exigence de sécurité prévue par l’article 34 de la loi du 6 janvier 1978 modifiée nécessite la mise à jour des mesures de sécurité au regard de la réévaluation régulière des risques. 
+ 
+Pour la présidente :
+ 
+ 
+Le vice-président délégué,
+ 
+ 
+M.-F. Mazars 
+ 
+ 
+Nature de la délibération: AVIS
+ 
+ 
+
+

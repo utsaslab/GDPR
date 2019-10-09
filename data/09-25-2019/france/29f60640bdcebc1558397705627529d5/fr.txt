@@ -1,0 +1,143 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 25/05/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+Délibération n°2018-138 du 19 avril 2018 
+Délibération n° 2018-138 du 19 avril 2018 portant avis sur un projet d’arrêté autorisant la mise en œuvre d’un traitement automatisé de données à caractère personnel dénommé « service d’attestation numérique des diplômes » (SAND) (demande d’avis n° 2062950) 
+NOR: CNIX1814138X
+
+La Commission nationale de l’informatique et des libertés,
+ 
+Saisie par le ministre de l’éducation nationale d’une demande d’avis concernant un projet d’arrêté autorisant la mise en œuvre d’un traitement automatisé de données à caractère personnel dénommé service d’attestation numérique des diplômes ;
+ 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ;
+ 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+ 
+Vu le , notamment ses articles L. 331-1, L. 613-1, D. 334-2, D. 336- 1 et D.613-2 ;
+ 
+Vu la modifiée relative à l’informatique, aux fichiers et aux libertés, notamment son article 27-II-4° ;
+ 
+Vu le modifié pris pour l’application de la relative à l’informatique, aux fichiers et aux libertés ;
+ 
+Vu l’arrêté du 22 avril 2013 portant création d’un traitement automatisé de données à caractère personnel relatif à la gestion des examens et concours scolaires dénommé OCEAN ;
+ 
+Sur la proposition de Mme Joëlle FARCHY, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement,
+ 
+Emet l’avis suivant :
+ 
+La Commission a été saisie par le ministère de l’éducation nationale d’une demande d’avis portant sur un projet d’arrêté autorisant la mise en œuvre d’un traitement automatisé de données à caractère personnel dénommé service d’attestation numérique des diplômes (SAND).
+ 
+Les diplômes concernés par SAND sont ceux délivrés par le ministère de l’éducation nationale tel que, par exemple, le baccalauréat, le brevet de technicien supérieur (BTS) ou le certificat d’aptitude professionnelle (CAP), depuis 1997. Le ministère a indiqué que, dans un second temps, les attestations de diplômes ou certifications délivrés par d’autres ministères ou établissements publics devraient être disponibles dans SAND.
+ 
+Dans la mesure où le traitement automatisé de données à caractère personnel a pour objet la délivrance d’attestations numériques de diplôme, il permet aux usagers du service public de l’éducation d’effectuer une démarche administrative et constitue un téléservice de l’administration électronique, au sens de l’article 27-II-4° de la loi du 6 janvier 1978 modifiée, qui doit dès lors être autorisé par arrêté ministériel, pris après avis motivé et publié de la Commission.
+ 
+Sur les finalités et le fonctionnement :
+ 
+En premier lieu, aux termes de l’article 1er du projet d’arrêté, le traitement SAND a pour finalité l’obtention, par voie dématérialisée, d’attestations de diplôme, pour son titulaire.
+ 
+En cas de perte, de vol ou de destruction d’un diplôme, il n’en est pas délivré de nouveau ni de duplicata. Jusqu’à présent, seule une attestation de réussite peut être établie par le rectorat compétent si les éléments qui figurent dans ses archives le permettent.
+ 
+Ainsi afin de faciliter l’obtention desdites attestations, le ministère souhaite mettre en œuvre un traitement automatisé permettant, d’une part, de centraliser les informations nécessaires à l’obtention d’une demande d’attestation de réussite à un diplôme et, d’autre part, d’offrir un service en ligne de délivrance d’attestations numériques certifiées .
+ 
+Conformément aux dispositions du , l’Etat a le monopole de la collation des grades et des titres universitaires et sanctionne par l’obtention de diplômes nationaux les formations secondaires. Les diplômes sont ainsi délivrés au nom de l’Etat, sous l’autorité du ministère. Dès lors, la mise en œuvre d’une base centralisée de données permettant de délivrer des attestations d’obtention de diplômes relève de l’exécution de la mission de service public dont est investi le ministère. La Commission relève toutefois que cette possibilité d’obtenir une attestation numérique ne se substitue pas à la délivrance des diplômes au format papier.
+ 
+En outre, elle prend acte que l’utilisation du téléservice SAND étant facultative et reposant sur le consentement des personnes concernées, les personnes concernées peuvent continuer d’obtenir une attestation de diplôme, directement auprès des rectorats compétents, selon les modalités que ceux-ci ont définies.
+ 
+S’agissant de l’intégrité des attestations, la Commission relève que le ministère a précisé que les attestations seraient accessibles par un code unique, généré par chiffrement des données du diplôme. Toutefois, la Commission rappelle qu’une telle mesure n’est pas de nature à s’assurer de la certification desdites attestations, le ministère n’ayant par ailleurs pas explicité l’algorithme utilisé dans le cadre du mécanisme retenu. Elle estime ainsi que des mesures telles que la génération d’un document imprimable auquel une garantie d’intégrité serait associée en recourant, par exemple, au standard 2Ddoc défini par l’Agence nationale des titres sécurisés, ou l’utilisation d’algorithmes cryptographiques, auraient pu apporter une garantie d’authenticité satisfaisante. En l’absence de telles mesures, elle demande à ce que le terme certifiées soit retiré de l’article 1er du projet d’arrêté.
+ 
+Par ailleurs, les usagers du téléservice se voient offrir une possibilité d’utiliser gratuitement les services du coffre-fort numérique Digiposte, le ministère et La poste ayant conclu une convention de partenariat en ce sens. La personne souhaitant utiliser ce service doit au préalable créer un compte Digiposte puis demander le versement de son attestation au format pdf dans ce compte. La Commission prend acte qu’un tel transfert n’a jamais lieu automatiquement, quand bien même le diplômé aurait déjà précédemment utilisé ce service, une démarche spécifique de la personne diplômée étant nécessaire pour chaque attestation.
+ 
+La Commission considère que la simplification des démarches administratives et l’amélioration des relations entre les administrés et l’administration constituent des finalités légitimes, sous réserve que des mesures de sécurité appropriées soient prévues et que les droits des personnes soient respectés.
+ 
+A cet égard, la Commission relève qu’en pratique, la personne souhaitant obtenir une attestation numérique crée un compte sur le site diplome.gouv.fr en renseignant ses nom de naissance, nom usuel, prénoms, date et lieu de naissance ainsi qu’une adresse électronique, qui constituera son identifiant. Il définit son mot de passe puis choisit dans une liste l’académie qui lui a délivré son diplôme, le type de diplôme et l’année obtention. Si un diplôme correspondant en tout point avec les données du diplômé (sans homonyme) est identifié au sein de la base de données SAND, la personne concernée accède à son attestation numérique qui comporte un identifiant unique de huit caractères. Cette attestation est conservée dans son espace personnel sur le site diplome.gouv.fr. Elle peut en outre être imprimée, copiée ou enregistrée sur le support de son choix.
+ 
+Selon le ministère, la saisine des données relatives à l’identité du diplômé doit permettre de limiter les risques d’homonymie. En outre, en cas d’homonymes, les informations relatives au diplôme doivent permettre d’identifier de manière fiable la correspondance entre le demandeur et son diplôme. Le ministère a indiqué que des recherches menées sur les cas d’homonymes dans des bases de diplômés volumineuses avaient montré un taux faible. Enfin, il a précisé que si plusieurs diplômes correspondaient à la saisine des informations relatives à l’identité et au diplôme, aucune attestation numérique ne serait délivrée, le demandeur devant alors se rapprocher du rectorat concerné.
+ 
+En outre, la saisine des données relatives à l’identité du diplômé doit permettre de limiter les risques de délivrer une attestation numérique à une personne autre que le titulaire du diplôme. A cet égard, la Commission considère que, compte tenu de la finalité de délivrance d’un document administratif officiel, les mesures de sécurité relatives à l’identification de la personne concernée devraient être renforcées. En tout état de cause, elle prend acte que les personnes concernées seront notamment invitées à certifier sur l’honneur de l’exactitude des informations fournies au titre de leur qualité de titulaire du diplôme .
+ 
+En deuxième lieu, le traitement SAND a pour finalité de permettre à une personne qui le souhaite d’adresser à un ou plusieurs tiers un lien d’accès à la plateforme à des fins de vérification de l’authenticité des diplômes dont elle se prévaut. En effet, le ministère a indiqué que, selon une enquête, trente pour cent des curriculum vitae (CV) mentionnent des diplômes inexistants ou falsifiés.
+ 
+En pratique, un usager peut décider de transmettre à toute personne de son choix un lien vers la plateforme ainsi que l’identifiant unique du diplôme dont elle se prévaut. Le ministère a indiqué que le tiers ne dispose que d’un accès en consultation à l’attestation, ce dont la Commission prend acte. Le diplômé peut en outre à tout moment choisir de supprimer la visibilité de son diplôme aux personnes à qui il aurait préalablement communiqué l’identifiant de celui-ci.
+ 
+Enfin, le traitement a une finalité statistique, ce qui n’appelle pas d’observations particulières de la Commission.
+ 
+Sous réserve de ses précédentes observations, la Commission considère que les finalités du traitement SAND sont déterminées, explicites et légitimes, conformément à l’article 6-2° de la loi du 6 janvier 1978 modifiée.
+ 
+Sur les données à caractère personnel :
+ 
+Les données à caractère personnel enregistrées dans le traitement, prévues à l’article 2 du projet d’arrêté, sont relatives à l’identité de la personne diplômée, à ses diplômes, à ses identifiants et mot de passe ainsi qu’à la traçabilité de ses accès.
+ 
+Les données relatives à l’identité de la personne concernée et à ses diplômes sont issues d’une mise en relation automatisée avec le traitement OCEAN-CYCLADE du ministère, dont la finalité est l’organisation des examens et concours scolaires et qui, conformément aux dispositions du , archive les données relatives aux examens et concours. Cette mise en relation n’appelle pas d’observation particulière de la Commission.
+ 
+Ces données et informations, qui sont nécessaires à la délivrance d’une attestation d’obtention d’un diplôme et à la mise en place d’un téléservice, sont adéquates, pertinentes et non excessives au regard des finalités du traitement, conformément à l’article 6-3° de la loi du 6 janvier 1978 modifiée.
+ 
+Sur les destinataires :
+ 
+L’article 3 du projet d’arrêté prévoit que peuvent être destinataires des données enregistrées dans SAND, tout tiers autorisé par la personne diplômée à vérifier l’authenticité du ou des diplômes dont elle se prévaut.
+ 
+Dans la mesure où, d’une part, seuls les tiers auxquels un diplômé a transmis le lien vers la plateforme et l’identifiant unique du diplôme concerné, peuvent avoir accès à l’attestation numérique correspondante, enregistrée dans SAND et où, d’autre part, la personne concernée peut mettre fin, à tout moment, à cet accès, la Commission estime que la consultation d’attestation par ces destinataires est justifiée.
+ 
+Peuvent également être destinataires des données les personnels de la Poste chargés du coffre-fort numérique Digiposte, lorsque la personne concernée choisit de verser une attestation numérique au format pdf dans un coffre-fort numérique qu’elle a ouvert. Dès lors que cette mise en relation repose sur le consentement de la personne concernée, qui décide pour chaque attestation si elle souhaite ou non la verser dans ledit coffre-fort numérique, la Commission considère que la transmission de données à ces destinataires est justifiée.
+ 
+Accèdent en outre au traitement les personnes habilitées des services informatiques de la Direction du numérique pour l’éducation (DNE) et celui de l’académie de Rennes, chargé de la maintenance de l’application. Ces accès n’appellent pas d’observation particulière de la Commission.
+ 
+Enfin, le projet d’arrêté prévoit qu’à des fins uniquement statistiques, peuvent être destinataires des données la Direction générale de l’enseignement scolaire (DGESCO) et la DNE. La Commission rappelle que de telles finalités justifient uniquement un accès à des données pseudonymisées.
+ 
+Sur les durées de conservation :
+ 
+L’article 4 du projet d’arrêté prévoit que les données sont conservées en base active jusqu’à l’âge légal de départ à la retraite augmentée de dix ans. Le ministère a précisé qu’à l’issue de cette durée de conservation les données étaient définitivement supprimées de manière sécurisée, ce dont la Commission prend acte.
+ 
+Selon le ministère, cette durée de conservation doit permettre à une personne d’attester de ses diplômes à tout moment de sa vie professionnelle, mais également après la retraite pour l’exercice d’une activité bénévole.
+ 
+La Commission constate que pour certains diplômes tels que, par exemple, les CAP ou le baccalauréat, qui sont généralement obtenus entre seize et dix-huit ans, la durée de conservation ainsi prévue pourrait excéder celle de la durée d’utilité administrative (DUA) de cinquante ans, prévue par l’instruction de tri n° 2005-003 du 22 février 2005 pour les procès-verbaux d’examen, d’admissibilité ou d’admission aux concours et les registres des admis.
+ 
+Dans la mesure où la finalité de SAND est la délivrance d’attestations de diplôme, la Commission considère que la durée de conservation prévue ne devrait pas excéder la DUA prévue par l’instruction de tri précitée, qui a précisément pour objet de permettre la délivrance de telles attestations. En outre, elle estime que le besoin de justifier d’un diplôme que pourraient avoir des personnes retraitées souhaitant exercer une activité à titre bénévole ne suffit pas, à lui seul, à justifier une telle durée. À cet égard, la Commission prend acte que, compte tenu des réserves précitées, le projet d’arrêté sera modifié afin d’indiquer que les données sont conservées pour une durée de cinquante ans.
+ 
+Par ailleurs, le ministère a indiqué que les données contenues dans l’espace personnel d’un usager, sur le site diplomes.gouv.fr, y sont conservées jusqu’à ce que l’intéressé demande leur suppression de cet espace, ce qui se justifierait par le fait qu’une personne peut avoir besoin de disposer d’une attestation d’obtention d’un diplôme pendant toute sa carrière professionnelle. La Commission prend acte du fait que le compte de l’utilisateur peut être fermé à tout moment par la personne concernée, conduisant ainsi à la suppression des données enregistrées dans l’espace personnel, mais non à celle des données enregistrées dans la base centralisée.
+ 
+Elle considère que la conservation, dans l’espace personnel, des données jusqu’à ce que l’intéressé demande leur suppression, n’est pas excessive au regard des finalités poursuivies dans la mesure où elle repose sur le consentement des personnes concernées. Elle estime toutefois que, pour s’assurer de l’effectivité de ce consentement, il convient, d’une part, d’en solliciter régulièrement le renouvellement et, d’autre part, de prévoir la possibilité pour la personne concernée de supprimer ses données à tout moment, ce dont elle doit être régulièrement informée. La Commission recommande dès lors qu’une procédure destinée à s’assurer du maintien du consentement des usagers soit mise en place. Elle estime en outre qu’une durée maximale de conservation doit être prévue dans l’hypothèse où la personne concernée ne répondrait pas à la demande de renouvellement de son consentement à la conservation de ses données.
+ 
+Sur l’information et les droits des personnes concernées :
+ 
+En ce qui concerne l’information des personnes concernées, le ministère a précisé que pour les sessions d’examen à venir, une mention reprenant les éléments de l’article 32 de la loi du 6 janvier 1978 modifiée sera insérée dans les convocations aux examens concernés. En revanche, pour les sessions d’examen antérieures ou en cours à la date de la mise en œuvre du traitement, le ministère a précisé que plus de deux millions de diplômes étant délivrés chaque année, les dispositions de l’article 32-111 de ladite loi qui permettent de déroger à l’information des personnes concernées lorsque leur information se révèle impossible ou exige des efforts disproportionnés par rapport à l’intérêt de la démarche trouveraient à s’appliquer.
+ 
+La Commission estime que, s’il est vrai que le ministère ou les rectorats ne disposent pas ou plus des coordonnées des personnes déjà diplômées, une telle impossibilité n’est toutefois pas établie dès lors qu’il peut être pr9cédé à une information générale, conforme à l’article 32 de la loi précitée, par exemple, en insérant, sur le site diplome.gouv.fr, un espace dédié aux mentions informatives dudit article 32 et en menant une large campagne d’information sur le service offert par SAND. À cet égard, elle prend acte qu’une information sera délivrée sur les relevés de notes des personnes concernées et qu’une information générale sera délivrée sur le site national de publication des résultats ainsi que sur le site de chaque rectorat.
+ 
+A des fins de transparence, elle recommande que ces modalités d’information soient expressément mentionnées dans le projet d’acte réglementaire.
+ 
+En ce qui concerne le droit d’opposition, l’article 6 du projet d’arrêté prévoit qu’il ne s’applique pas au traitement SAND. Toutefois, interrogé sur les raisons justifiant cette disposition, le ministère a indiqué qu’il n’écarterait finalement pas ce droit et que celui­ ci s’exercerait selon les mêmes modalités que les droits des articles 39 et suivants. La Commission prend acte que toute personne qui justifierait d’un motif légitime à ne pas figurer dans la base centralisée permettant de générer une attestation numérique de diplôme pourrait s’adresser au service compétent du ministère. Elle relève que le projet d’arrêté sera modifié en ce sens.
+ 
+Les droits prévus aux articles 39 et suivants s’exercent, par voie électronique, auprès de la mission du pilotage des examens de la DGESCO, ce qui n’appelle pas d’observation particulière de la Commission.
+ 
+Sur les mesures de sécurité :
+ 
+Le traitement SAND consiste en un service web accessible depuis Internet. S’agissant d’une application nationale, les mesures de sécurité sont prises en conformité avec la politique de sécurité des systèmes d’information (PSSI) et en coordination avec les cellules SSI du ministère et du rectorat de Rennes, en charge du déploiement de SAND.
+ 
+S’agissant de la mise en relation avec le traitement OCEAN-CYCLADE, les échanges entre les serveurs s’appuient sur des certificats et interviennent sur le réseau interne du ministère, limitant ainsi les risques d’atteinte en confidentialité.
+ 
+S’agissant du renouvellement du mot de passe nécessaire à l’authentification de l’utilisateur, le ministère a précisé qu’il n’était pas imposé dans la mesure où l’accès au service est peu fréquent .
+ 
+Une journalisation des évènements est prévue.
+ 
+Enfin, le ministère a indiqué qu’une analyse d’impact sur les données personnelles était en cours de réalisation, démarche que la Commission accueille favorablement. Elle invite le ministère à la lui transmettre une fois celle-ci finalisée.
+ 
+Sous réserve des précédentes observations, les mesures de sécurité décrites par le responsable de traitement sont conformes à l’exigence de sécurité prévue par l’article 34 de la loi du 6 janvier 1978 modifiée. La Commission rappelle toutefois que cette obligation nécessite la mise à jour des mesures de sécurité au regard de la réévaluation régulière des risques. 
+ 
+Pour la présidente :
+ 
+ 
+Le vice-président délégué,
+ 
+ 
+M.- F. Mazars 
+ 
+ 
+Nature de la délibération: AVIS
+ 
+ 
+
+

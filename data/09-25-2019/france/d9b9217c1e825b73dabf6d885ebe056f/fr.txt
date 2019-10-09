@@ -1,0 +1,100 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 28/06/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+DELIBERATION n°2018-121 du 5 AVRIL 2018 
+Délibération n° 2018-121 du 5 avril 2018 autorisant le GCS Normand’e-santé à mettre en œuvre un traitement automatisé de données à caractère personnel ayant pour finalité l’utilisation d’un dispositif de télésurveillance médicale dénommé « Suivi Clinique A Domicile de l’Insuffisance Cardiaque (SCAD IC) » 
+
+(Demande d’autorisation n° 2142180) 
+ 
+La Commission nationale de l’informatique et des libertés, 
+Saisie par le GCS Normand’e-santé d’une demande d’autorisation concernant un traitement automatisé de données à caractère personnel ayant pour finalité l’utilisation d’un dispositif de télésurveillance médicale dénommé « SCAD IC » ; 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ; 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ; 
+Vu le code de la santé publique, notamment ses articles L. 1110-4, L. 1111-8 et L. 6316-1 et R. 6316-1 et suivants ; 
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment son article 25-I-6° ; 
+Vu la loi n° 2017-1836 du 30 décembre 2017 de financement de la sécurité sociale pour 2018, notamment son article 54 ; 
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ; 
+Vu l’arrêté du 6 décembre 2016 portant cahiers des charges des expérimentations relatives à la prise en charge par télésurveillance mises en œuvre sur le fondement de l’article 36 de la loi n° 2013-1203 de financement de la sécurité sociale pour 2014 ; 
+Vu le dossier et ses compléments ; 
+Sur la proposition de M. Alexandre LINDEN, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement ;  
+ 
+Formule les observations suivantes : 
+ 
+Responsable du traitement 
+Normand’e-santé est un groupement de coopération sanitaire (GCS) reconnu comme l’opérateur préférentiel pour la mise en œuvre de la politique régionale d’e-santé. Il propose à ses membres une plateforme régionale de télésanté « Therap-e » pour le suivi des pathologies chroniques. 
+Sur la finalité 
+Le traitement de données à caractère personnel généré par l’utilisation de « SCAD IC » a notamment pour objectif la réalisation d’actes de télésurveillance médicale à domicile des personnes atteintes d’insuffisance cardiaque chronique. Il intègre les fonctionnalités suivantes : 
+ 
+un système de recueil des mesures du patient grâce à une balance, à un tensiomètre et à une tablette connectés par Bluetooth ; 
+un algorithme pour traiter les mesures recueillies et les questions / réponses quotidiennes posées au patient sur son état de santé ; 
+une plateforme web, à laquelle accèdent les professionnels de santé et les patients, et intégrant un espace de suivi des patients et d’échange direct entre les professionnels de santé et les patients. 
+ 
+La Commission estime que les finalités poursuivies par le traitement sont déterminées, explicites et légitimes. 
+ 
+Elle considère qu’il y a lieu de faire application de l’article 25-I-6° de la loi du 6 janvier 1978 modifiée, qui soumettent à autorisation de la Commission les traitements de données de santé qui contiennent, comme en l’espèce, le numéro d’inscription des personnes au répertoire national d’identification des personnes physiques (NIR) à des fins de remboursement. 
+Sur les données traitées 
+Concernant les patients, sont traités  des données d’identification, sur la vie personnelle, de connexion, de santé et le NIR. La Commission constate que l’identifiant national de santé calculé (INS-C) est collecté. Elle rappelle, à ce titre, qu’un responsable de traitement peut utiliser le NIR comme identifiant national de santé (INS) et qu’en toute hypothèse, l’utilisation de l’INS doit intervenir au plus tard dès la parution du référentiel. La Commission relève, en outre, que la photographie du patient est traitée mais qu’elle n’est pas nécessaire ; elle demande à ce que cette dernière ne soit pas collectée. 
+ 
+Concernant les professionnels de santé participant à l’acte de télésurveillance, sont traitées  des données d’identification, de connexion, la spécialité et les coordonnées du professionnel. 
+ 
+Concernant l’acte de télésurveillance, sont traités les actes réalisés dans le cadre de la télésurveillance, le compte-rendu de l’acte de télésurveillance, l’identité des professionnels de santé participant à l’acte, les prescriptions médicales, la date de début, la durée et la période d’interruption de l’acte, les questions / réponses sur l’état de santé du patient, les échanges écrits entre le patient et les professionnels de santé, le cas échéant les incidents techniques survenus au cours de l’acte. 
+ 
+Sous réserve de la photographie du patient, la Commission considère que ces données sont adéquates, pertinentes et non excessives au regard de la finalité du traitement, conformément aux dispositions de l’article 6-3° de la loi du 6 janvier 1978 modifiée.  
+Sur les destinataires 
+Les destinataires des données sont les professionnels de santé de l’équipe médicale et paramédicale intervenant dans le dispositif de télésurveillance médicale, les personnels du GCS Normand’e-santé, l’hébergeur, le prestataire de service en charge de l’installation du dispositif et de la hotline technique et, pour les établissements de santé, les gestionnaires des données de facturation et les médecins DIM. Tous accèdent aux données dans la limite de leurs attributions respectives. 
+ 
+La Commission demande à ce que la prescription nécessaire à la facturation à la caisse primaire d’assurance maladie de l’utilisation de « SCAD IC » soit envoyée par le patient au GCS Normand’e-santé. 
+Sur l’information et le droit d’accès  
+Le patient dispose d’une information orale délivrée par le médecin prescripteur et par l’équipe médicale et paramédicale intervenant dans la mise en œuvre du dispositif de télésurveillance. 
+ 
+Une information écrite est également faite dans un document intitulé « consentement éclairé ». Ce document porte sur le dispositif de télésurveillance et ses conséquences sur le traitement des données. Il est remis au patient par le médecin prescripteur. 
+ 
+La Commission demande à ce que ce document soit modifié pour intégrer les points suivants : 
+ 
+les dispositions sur l’information du patient doivent précéder celles sur le recueil du consentement ; 
+une dissociation doit être faite entre l’information sur le déroulement de la prise en charge en télésurveillance et le traitement de données de santé qui en découle ; 
+l’information sur le traitement doit reprendre les mentions de l’article 32 de la loi du 6 janvier 1978 modifiée ; 
+la destruction ou l’anonymisation irréversible des données archivées, à l’expiration du délai de conservation, doit être expressément prévue ; 
+le droit d’opposition du patient doit être expressément mentionné. 
+ 
+Le consentement du patient est recueilli oralement. Le recueil du consentement est tracé par écrit par le médecin prescripteur. 
+ 
+Les droits d’accès et de rectification tels que reconnus par la loi du 6 janvier 1978 sont précisés dans le document de recueil du « consentement éclairé ». Ils s’exercent directement par le patient auprès de l’équipe médicale et paramédicale intervenant dans la mise en œuvre du dispositif de télésurveillance.  
+Sur les mesures de sécurité 
+Concernant les habilitations : des profils d’habilitation sont prévus afin de gérer les accès aux données en tant que de besoin. Les permissions d’accès sont supprimées pour tout utilisateur n’étant plus habilité. La Commission rappelle qu’une revue globale des habilitations doit être est opérée annuellement. Des habilitations spécifiques sont prévues pour le personnel non professionnel de santé, afin qu’il ne puisse avoir accès aux données de santé des patients. Toutefois, la Commission prend acte de ce qu’en cas de télémaintenance, après accord du professionnel de santé, un accès temporaire peut être effectué sur des données de santé. 
+ 
+Concernant le contrôle des accès : chaque utilisateur dispose d’un identifiant qui lui est propre. En cas d’oubli du mot de passe principal, le processus de réinitialisation s’opère via la messagerie électronique. Conformément aux obligations découlant de l’article 34 de la loi du 6 janvier 1978, le responsable de traitement impose une authentification forte des professionnels de santé par l’utilisation d’une carte de professionnel de santé (CPS) ou un dispositif équivalent agréé par l’organisme chargé d’émettre la CPS pour toute transmission ou tout accès aux données de santé. Du fait de la mobilité des médecins et de la diversité des équipements à leur disposition pour l’accès à la plateforme, un dispositif alternatif à la CPS est mis en place par une authentification forte avec un identifiant, un mot de passe et un mot de passe à usage unique (code adressé par SMS ou messagerie électronique). En cas de difficulté liée à l’utilisation de la CPS, il est prévu une authentification alternative par un identifiant et un mot de passe, couplés à l’installation d’un certificat logiciel sur le poste de travail de l’utilisateur. Ces deux dernières modalités d’authentification, par identifiant et mot de passe couplés à un mot de passe à usage unique ou certificat logiciel, sont également mises en œuvre pour les administrateurs ne disposant pas de CPS. Les patients sont authentifiés sur l’application installée sur leur tablette par le recours à un identifiant et un mot de passe de quatre caractères, couplés à un certificat installé sur l’appareil. Le responsable de traitement a mis en œuvre une politique de mots de passe conforme aux délibérations n° 2017-012 du 19 janvier 2017 et n° 2017-190 du 22 juin 2017 portant recommandations relatives aux mots de passe. 
+ 
+Concernant les transferts de données : les échanges de données sont réalisés via des canaux de communication chiffrés et assurant l’authentification de la source et du destinataire. Le responsable de traitement a recours au protocole SSL, qui permet de garantir la confidentialité des données échangées ainsi que l’authentification du responsable de traitement. Concernant le recours à ce protocole, la Commission recommande d’utiliser la version de TLS la plus à jour possible. 
+Des mesures sont prévues pour assurer le cloisonnement du traitement. 
+ 
+Concernant la traçabilité : une journalisation des opérations de consultation, création et modification des données est mise en place. La durée de conservation des journaux de six mois est conforme aux préconisations de la Commission. 
+ 
+Concernant le stockage des données : la Commission prend acte de ce que les données ne sont pas conservées sur le terminal mis à disposition du patient. L’ensemble des données de santé à caractère personnel traitées sont hébergées auprès d’un hébergeur agréé conformément aux dispositions des articles R. 1111-10 et suivants du code de la santé publique. 
+Sur les autres caractéristiques du traitement 
+L’ensemble des données traitées par le GCS Normand’e-santé est conservé pendant dix ans après la fin du suivi des patients en télésurveillance. 
+ 
+La Commission demande la destruction des données à l’expiration du délai d’archivage ou leur anonymisation de manière irréversible. 
+ 
+ 
+Autorise, conformément à la présente délibération, le GCS Normand’e-santé à mettre en œuvre le traitement susmentionné. 
+ 
+ 
+ 
+Pour la Présidente Le Vice-Président délégué 
+ 
+Marie-France MAZARS 
+ 
+ 
+ 
+ 
+ 
+Nature de la délibération: Autorisation
+ 
+ 
+
+

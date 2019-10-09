@@ -1,0 +1,59 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 19/09/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+Décision n°HOM-2018-005 du 14 septembre 2018 
+Décision n° HOM-2018-005 du 14 septembre 2018 portant homologation de sécurité du téléservice de désignation des délégués à la protection des données de la Commission nationale de l’informatique et des libertés 
+
+La Présidente de la Commission nationale de l’informatique et des libertés, 
+Vu le règlement 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) ; 
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés ; 
+Vu l’ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives ; 
+Vu le décret n° 2007-284 du 2 mars 2007 modifié fixant les modalités d’élaboration, d’approbation, de modification et de publication du référentiel général d’interopérabilité ; 
+Vu le décret n° 2010-112 du 2 février 2010 pris pour l’application des articles 9, 10 et 12 de l’ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives ; 
+Vu l’arrêté du 13 juin 2014 portant approbation du référentiel général de sécurité et précisant les modalités de mise en œuvre de la procédure de validation des certificats électroniques ; 
+Vu l’arrêté du 20 avril 2016 portant approbation du référentiel général d’interopérabilité ; 
+Vu la circulaire du Premier ministre du 17 juillet 2014 relative à la politique de sécurité des systèmes d’information de l’État et son annexe ; 
+Vu la note de la Présidente de la CNIL du 14 avril 2014 relative à l’organisation de la sécurité des systèmes d’information à la CNIL ; 
+Vu la politique de sécurité des systèmes d’information de la CNIL ; 
+Vu les pièces composant le dossier d’homologation de sécurité ; 
+ 
+ 
+Observe : 
+ 
+I. Sur le téléservice 
+Le téléservice de désignation des délégués à la protection des données (DPO) a pour objet de permettre aux responsables de traitements de données à caractère personnel et aux sous-traitants de désigner un délégué à la protection des données auprès de la CNIL, conformément à l’article 37.7 du règlement général sur la protection des données (RGPD) et à l’article 70-17 de la loi du 6 janvier 1978 modifiée. 
+ 
+II. Sur le référentiel général de sécurité 
+Le référentiel général de sécurité, prévu par l’article 9 de l’ordonnance du 8 décembre 2005, a été approuvé, dans sa version 2.0, par l’arrêté du 13 juin 2014. Il contient un ensemble de règles et de recommandations applicables aux téléservices des administrations. Il a pour objet le renforcement de la confiance des usagers dans les services électroniques mis à disposition par les autorités administratives. 
+ 
+III. Sur les autres référentiels 
+Le règlement général sur la protection des données et la loi du 6 janvier 1978 modifiée imposent notamment au responsable d’un traitement de données à caractère personnel de mettre en œuvre les mesures techniques et organisationnelles appropriées afin de garantir un niveau de sécurité adapté au risque. 
+ 
+Le référentiel général d’interopérabilité, prévu par l’article 11 de l’ordonnance du 8 décembre 2005, a été approuvé, dans sa version 2.0, par l’arrêté du 20 avril 2016. Il comporte un ensemble de normes et bonnes pratiques qui favorisent l’interopérabilité au sein des systèmes d’information de l’administration. 
+ 
+IV. Sur l’évaluation et la réduction des risques 
+L’étude des risques a permis d’identifier, pour le téléservice concerné, les biens à protéger, les menaces et les objectifs de sécurité pour se protéger de manière proportionnée face aux risques. Les exigences du référentiel général de sécurité sont mises en œuvre. 
+ 
+L’étude des risques conduite dans le cadre de l’homologation de sécurité a également permis d’évaluer les garanties en matière de protection des données à caractère personnel ainsi que la conformité du téléservice en matière d’interopérabilité. 
+ 
+Un plan d’action visant à réduire les risques identifiés a été élaboré en concertation avec les services de la Commission chargés de la mise en œuvre du téléservice. 
+ 
+ 
+ 
+Considérant l’ensemble de ces éléments, décide : 
+ 
+la mise en œuvre des mesures prévues dans le plan d’action présenté dans le cadre du dossier d’homologation, et leur suivi par le responsable de la sécurité des systèmes d’information de la CNIL ;
+l’homologation de sécurité du téléservice, au vu de l’étude des risques réalisée et du plan d’action associé, jusqu’au 31 décembre 2019.
+ 
+ 
+La Présidente 
+ 
+ 
+ 
+I. FALQUE-PIERROTIN 
+
+

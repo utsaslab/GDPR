@@ -1,0 +1,104 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 28/06/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+DELIBERATION n°2018-161 du 17 MAI 2018 
+Délibération n° 2018-161 du 17 mai 2018 autorisant les ministères de l’économie et des finances et de l’action et des comptes publics à mettre en œuvre un traitement automatisé de données à caractère personnel ayant pour finalité de gérer les dossiers traités par la Direction des affaires juridiques et de piloter son activité dénommé « SILLAGE » 
+
+(Demande d’autorisation n° 1270413) 
+ 
+La Commission nationale de l’informatique et des libertés, 
+Saisie par les ministères de l’économie et des finances et de l’action et des comptes publics d’une demande d’autorisation concernant un traitement automatisé de données à caractère personnel ayant pour finalité de gérer les dossiers de la Direction des affaires juridiques et de piloter son activité dénommé « SILLAGE » ; 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ; 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ; 
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment son article 25 I-3° ; 
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ; 
+Vu la délibération n°2008-342 du 18 septembre 2008 autorisant la mise en œuvre par le ministère de l’économie des finances et de l’emploi et le ministère du budget, des comptes publics et de la fonction publique d’un traitement de données à caractère personnel ayant pour finalité la gestion électronique des dossiers de la direction des affaires juridiques et des documents qui leur sont associés ainsi que d’une base documentaire (ADAJ) ;  
+Vu le dossier et ses compléments ; 
+Sur la proposition de M. Jean-Luc VIVET, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement, 
+ 
+ 
+Formule les observations suivantes : 
+ 
+Responsable du traitement 
+Le traitement dénommé « SILLAGE » est mis en œuvre par la Direction des Affaires Juridiques (DAJ) relevant du ministère de l’économie et des finances et du ministère de l’action et des comptes publics. 
+Sur les finalités 
+Le traitement « SILLAGE » remplace le traitement dénommé « ADAJ » sur lequel la Commission s’est déjà prononcée dans le cadre de la délibération susvisée n°2008-342 du 18 septembre 2008. 
+ 
+Le traitement projeté doit permettre, d’une part, la gestion des dossiers traités par la DAJ, et, d’autre part, le pilotage de l’activité de la DAJ. À cet égard, la Commission relève qu’en tant qu’Agent Judiciaire de l’Etat (AJE), la DAJ exerce à ce titre le monopole de la représentation de l’Etat devant les juridictions de l’ordre judiciaire. 
+ 
+Elle relève également que la DAJ peut être amenée dans le cadre de ses missions à traiter des dossiers de nature différente : des dossiers de consultation juridique, des dossiers de contentieux judiciaires, des dossiers de contentieux administratifs et des dossiers de « coordination/gestion » (suivi de courriers ou de notes administratives).  
+ 
+La Commission relève en outre que le traitement projeté doit permettre : 
+la création et la mise à jour des dossiers métiers (en particulier de saisir des fiches contenant des informations relatives au dossier concerné, ou de rattacher des documents bureautiques ou numérisés à un dossier) ; 
+d’effectuer des recherches multicritères tant sur les éléments des dossiers que sur le contenu des documents attachés ; 
+l’export de dossiers et de statistiques ; 
+l’envoi de dossiers sortants (réponses à des consultations juridiques) à partir d’une boîte aux lettres fonctionnelle dédiée ; 
+la gestion d’un carnet d’adresses : l’application contient des fiches contact référençant les personnes intervenant dans les dossiers, elles permettent ainsi de lier des contacts à des dossiers et d’effectuer des recherches directement par contact ; 
+la gestion des utilisateurs et leurs habilitations dans l’application.  
+ 
+La Commission estime que les finalités du traitement sont déterminées, explicites et légitimes, conformément à l’article 6-2° de la loi du 6 janvier 1978 modifiée. 
+Sur les données traitées 
+Outre les différentes informations transmises, de manière déclarative, pour l’instruction d’un dossier, la Commission relève que plusieurs catégories de données à caractère personnel peuvent être enregistrées dans le traitement « SILLAGE ».  
+ 
+En premier lieu, les données traitées dans « SILLAGE » sont relatives à l’identification (civilité, nom, prénom, adresse électronique et numéro de téléphone) et à la vie professionnelle (situation professionnelle) des personnes concernées par le traitement.  
+ 
+La Commission relève à ce titre que le traitement « SILLAGE » peut concerner plusieurs catégories de personnes : les parties au litige, les avocats intervenant dans le cadre du réseau Agent Judiciaire de l’Etat (AJE), les utilisateurs de l’application (agents de la DAJ), les agents des ministères économiques et financiers ainsi que les agents publics référencés en tant que « contact » dans les dossiers de consultation juridique.  
+ 
+En second lieu, parmi les données traitées, « SILLAGE » est susceptible de contenir des données relatives à des infractions, condamnations ou à des mesures de sûreté, au sens de l’article 9 de la loi du 6 janvier 1978 modifiée. La Commission relève que le responsable de traitement constitue une autorité publique, agissant dans le cadre de ses attributions légales et est, dès lors habilité, conformément à l’article 9-1° de la loi précitée, à mettre en œuvre un traitement portant sur de telles données.  
+ 
+Au regard de ces éléments, la Commission estime que les données enregistrées dans le traitement sont adéquates, pertinentes, et non excessives au regard des finalités poursuivies, conformément à l’article 6-3° de la loi du 6 janvier 1978 modifiée. 
+Sur les destinataires 
+Les personnes accédant directement aux données et informations enregistrées dans « SILLAGE » sont, dans la limite de leurs habilitations respectives et du besoin d’en connaître, les agents de la DAJ et, dans les mêmes conditions, certains agents du service de l’environnement professionnel du secrétariat général des ministères économiques et financiers afin d’assurer le fonctionnement technique de l’application.  
+La Commission estime que l’accès aux données enregistrées dans le traitement par les personnels des ministères susvisés est justifié au regard des missions qui leur sont confiées.  
+Sur l’information et le droit d’accès  
+Les personnes concernées par le traitement sont informées conformément aux dispositions l’article 32 de la loi du 6 janvier 1978 modifiée. Cette information est délivrée par le biais de mentions spécifiques figurant sur les documents (courriers et courriels) qui leur sont adressés dans le cadre du traitement des dossiers les concernant, ainsi que sur la page internet de la DAJ. 
+ 
+S’agissant des affaires de contentieux judiciaires pour lesquels la DAJ fait appel à son réseau d’avocats, le responsable de traitement a prévu une « lettre circulaire » à destination de ces derniers. Cette « lettre circulaire » doit permettre de les informer du traitement de leurs données dans « SILLAGE » et les inviter à informer, pour le compte du responsable de traitement, les personnes susceptibles d’être concernées par le traitement de leurs données dans « SILLAGE » et avec lesquelles ils sont amenés à avoir des contacts réguliers (parties aux litiges, avocat de la partie adverse, toute personne intervenant dans la procédure, etc.).  
+ 
+Les droits d’accès et de rectification, prévus aux articles 39 et 40 de la loi du 6 janvier 1978 modifiée, s’exercent directement auprès de la DAJ.  
+ 
+La Commission prend acte que le responsable de traitement entend écarter l’application du droit d’opposition pour motifs légitimes, prévu à l’article 38 de la loi du 6 janvier 1978 modifiée, dès lors que le traitement projeté répond à une obligation légale.  
+Sur les mesures de sécurité 
+La Commission relève que des mesures de sécurité logique et physique sont mises en œuvre pour préserver la sécurité des données enregistrées dans le traitement. 
+ 
+Des sauvegardes quotidiennes sont réalisées et stockées dans un endroit garantissant leur sécurité et leur disponibilité. 
+ 
+Des profils d’habilitation sont prévus afin de gérer les accès aux données en tant que de besoin. Les permissions d’accès sont supprimées pour tout utilisateur n’étant plus habilité. 
+ 
+ 
+ 
+ 
+Le responsable de traitement a mis en œuvre une politique de mot de passe exigeant un mot de passe de quatorze caractères, lequel doit comprendre au minimum trois des quatre critères de complexité suivants : une lettre majuscule, une lettre minuscule, un chiffre et un caractère spécial. À cet égard, la Commission a élaboré dans une délibération 2017-012 du 19 janvier 2017 l’adoption d’une recommandation relative aux mots de passe. Elle relève ainsi que la mise en place de la politique de mots de passe élaborée par le responsable de traitement nécessite une mise à jour afin de maintenir sa conformité aux recommandations de la Commission. 
+ 
+Le réseau des ministères fait l’objet de mesures de filtrage ayant pour but de restreindre l’émission et la réception des flux réseau aux machines identifiées et autorisées. Les accès distants sont sécurisés via un VPN chiffré. 
+ 
+Dans ces conditions, les mesures de sécurité décrites par le responsable de traitement sont conformes à l’exigence de sécurité prévue par l’article 34 de la loi du 6 janvier 1978 modifiée. La Commission rappelle toutefois que cette obligation nécessite la mise à jour des mesures de sécurité au regard de la réévaluation régulière des risques. 
+Sur les autres caractéristiques du traitement 
+Pour garantir l’utilisation de certaines fonctionnalités, il est prévu que le traitement « SILLAGE » fasse l’objet d’une interconnexion avec l’annuaire « ANAIS » (annuaire des agents des ministères) et avec la messagerie des ministères.  
+ 
+Les données enregistrées dans « SILLAGE » sont conservées pendant la durée d’instruction du dossier, puis cinq ans à compter de sa clôture.  
+ 
+Si la Commission prend acte que la durée de conservation ainsi définie doit permettre de faciliter le traitement d’un dossier en cas de réouverture de celui-ci et de rechercher des précédents pour assurer une doctrine cohérente et homogène de la DAJ, à l’issue de cette durée, les données et informations enregistrées dans « SILLAGE » sont supprimées.  
+ 
+La Commission rappelle à cet égard que cette suppression devra intervenir de manière sécurisée ou, le cas échéant, les données devront être archivées dans des conditions définies en conformité avec les dispositions du code du patrimoine relatives aux obligations d’archivage des informations du secteur public pour les organismes soumis à ces dispositions. 
+ 
+Sous réserve de ce qui précède, la Commission estime que la durée de conservation n’est pas excessive au regard des finalités poursuivies par le traitement conformément aux dispositions de l’article 6-5° de la loi du 6 janvier 1978 modifiée. 
+ 
+ 
+Autorise, conformément à la présente délibération, les ministères de l’économie et des finances et de l’action et des comptes publics à mettre en œuvre le traitement susmentionné. 
+ 
+Pour la Présidente Le Vice-Président délégué 
+ 
+Marie-France MAZARS 
+ 
+ 
+ 
+Nature de la délibération: Autorisation
+ 
+ 
+
+

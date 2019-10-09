@@ -1,0 +1,127 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 25/05/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+Délibération n°2018-148 du 3 mai 2018 
+Délibération n° 2018-148 du 3 mai 2018 portant avis sur un projet de décret concernant la mise en œuvre d’un traitement automatisé de données à caractère personnel dénommé « Dialogue » ayant pour finalité la gestion des ressources humaines des agents relevant du ministère de l’intérieur (demande d’avis n° 2156780) 
+NOR: CNIX1813656
+
+La Commission nationale de l’informatique et des libertés,
+ 
+Saisie par le ministère de l’intérieur d’une demande d’avis concernant la mise en œuvre d’un traitement de données à caractère personnel dénommé Dialogue ayant pour finalité la gestion des ressources humaines ;
+ 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ;
+ 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+ 
+Vu la modifiée relative à l’informatique, aux fichiers et aux libertés, notamment son article 27-I-1° ;
+ 
+Vu le modifié pris pour l’application de la relative à l’informatique, aux fichiers et aux libertés ;
+ 
+Après avoir entendu Mme Marie-France MAZARS, commissaire, en son rapport, et Mme Nacima BELKACEM, commissaire du Gouvernement, en ses observations,
+ 
+Emet l’avis suivant :
+ 
+Dans la mesure où le traitement objet de la présente saisine comporte le numéro d’inscription des personnes au répertoire national d’identification des personnes physiques (NIR), il doit être autorisé, sur le fondement de l’article 27-I-1° de la loi du 6 janvier 1978 modifiée, par décret en Conseil d’Etat pris après avis motivé de la Commission nationale de l’informatique et des libertés.
+ 
+Sur la finalité :
+ 
+Dans le cadre d’un programme de modernisation interministériel, le ministère de l’intérieur souhaite remplacer son système actuel de gestion des ressources humaines, par un système unique d’information de ressources humaines (SIRH).
+ 
+Le SIRH, dénommé DIALOGUE , permettra la gestion administrative des agents (comprenant la gestion de la paie), la mise en état des dossiers de pension et d’allocation d’invalidité, ainsi que la gestion opérationnelle de l’ensemble des personnels relevant du ministère de l’intérieur, à l’exception des militaires de la gendarmerie nationale, soit 190 000 agents.
+ 
+La commission prend note que l’application DIALOGUE sera mise en relation avec plusieurs applications afin de répondre aux finalités susvisées.
+ 
+Par ailleurs, l’application sera dotée d’un portail agent ouvert à chaque agent, lui permettant dans un premier temps de consulter les informations relatives à son dossier individuel administratif. Dans un second temps, il lui sera également possible de demander, via l’application, la mise à jour des informations le concernant.
+ 
+La commission considère que les finalités poursuivies par le traitement sont déterminées, explicites et légitimes conformément aux dispositions de l’article 6-2° de la loi Informatique et Libertés.
+ 
+Sur les données traitées :
+ 
+Les catégories de données à caractère personnel enregistrées et traitées dans le traitement sont énumérées en annexe du projet de décret.
+ 
+S’agissant du NIR, la commission prend acte qu’il sera utilisé pour le paiement du salaire ainsi que pour l’alimentation du compte individuel de retraite.
+ 
+S’agissant des données relatives à la santé, la commission prend note qu’aucune information relative à la nature de la pathologie ou du handicap de l’agent ne sera enregistrée dans le traitement.
+ 
+Compte tenu des nombreuses informations susceptibles d’être collectées, la commission rappelle que les données ne doivent pas être collectées par le ministère de l’intérieur de manière systématique mais uniquement au regard de la situation de l’agent et lorsqu’elles sont nécessaires aux finalités poursuivies par le traitement.
+ 
+Sur les destinataires :
+ 
+L’article 3 du projet de décret liste les agents relevant des services du ministère de l’intérieur pouvant accéder aux informations contenues dans le traitement.
+ 
+A cet égard, la commission relève que le supérieur hiérarchique pourra avoir accès aux dossiers administratifs des agents placés sous son autorité.
+ 
+Sur ce dernier point, le ministère a indiqué que dans le cadre de ses missions d’encadrement, le supérieur hiérarchique a besoin d’avoir accès à certaines informations concernant les agents qui se trouvent sous sa responsabilité.
+ 
+D’une manière générale, la commission souhaite rappeler que les habilitations d’accès à tout ou partie des informations envisagées par le ministère doivent correspondre aux fonctions de chaque agent dans la limite de ses attributions respectives et du besoin qu’il a d’en connaître.
+ 
+Sur l’information et les droits des personnes :
+ 
+La commission prend note que les personnes seront informées conformément aux dispositions de l’article 32 de la loi, par une mention d’information figurant sur des courriers adressés à chacun des agents.
+ 
+Sur ce dernier point, elle précise que chaque nouvel agent devra également être informé du traitement des informations le concernant, conformément aux dispositions de l’article susvisé.
+ 
+Le projet de décret prévoit que les droits d’accès et de rectification prévus aux articles 39 et 40 de la loi susvisée s’exercent auprès du service chargé de la gestion des ressources humaines dont relève l’agent.
+ 
+Il exclut l’exercice du droit d’opposition en application des dispositions de l’article 38 qui prévoit que ce droit ne s’applique pas lorsque le traitement répond à une obligation légale ou lorsque l’application de ces dispositions a été écartée par une disposition expresse de l’acte autorisant le traitement.
+ 
+La commission considère que ces modalités d’information et d’exercice des droits des personnes sont satisfaisantes.
+ 
+Sur la durée de conservation :
+ 
+L’article 4 du projet de décret prévoit que les informations contenues dans le traitement sont conservées jusqu’à la fin de la cinquième année suivant la date à laquelle les agents publics concernés cessent définitivement leurs fonctions .
+ 
+La commission note que cette durée correspond à la durée pendant laquelle les éléments relatifs à la paie doivent être conservés par l’employeur.
+ 
+D’une manière générale, la commission rappelle que les données relatives à un agent ne doivent pas être conservées dans la base active accessible aux services gestionnaires au-delà de la période d’emploi de la personne concernée.
+ 
+Certaines catégories d’informations peuvent, en application de dispositions législatives et réglementaires, être conservées au-delà du départ de l’agent, sur un support d’archives, conformément aux règles applicables en matière d’archives publiques.
+ 
+Elle prend acte que les informations concernant les fonctionnaires de la police nationale, réservistes dans la réserve civile de la police nationale, sont conservées cinq ans à compter de la fin de la période de réserve conformément aux qui prévoit que les retraités de corps actifs de la police nationale sont tenus à une obligation de disponibilité afin de répondre aux rappels individuels ou collectifs du ministre de l’intérieur en cas de menaces ou de troubles graves à l’ordre public ou d’évènements exceptionnels.
+ 
+S’agissant des informations relatives aux collaborateurs occasionnels du service public, la commission prend également acte que celles-ci seront supprimées dès la fin de leur engagement.
+ 
+Par ailleurs, s’agissant de la durée de conservation des sanctions, la commission prend note que celles-ci seront conservées dans le respect des dispositions législatives et réglementaires applicables à la fonction publique qui prévoient des durées de conservations inférieures.
+ 
+Sur les mesures de sécurité :
+ 
+La commission prend acte que des mesures de protection physique et logique seront mises en œuvre pour préserver la sécurité du traitement et des informations, empêcher toute utilisation détournée et frauduleuse, notamment par des tiers non autorisés, et préserver l’intégrité des données traitées.
+ 
+A cet égard, l’accès à l’application par les agents habilités est sécurisé au moyen du protocole SSL. Concernant le recours à ce protocole, la commission rappelle qu’elle recommande d’utiliser la version la plus à jour possible.
+ 
+Des profils d’habilitation définissent les fonctions ou les types d’informations accessibles à un utilisateur. Ceux-ci ainsi que leurs droits respectifs sont spécifiés et documentés de manière détaillée, et prennent en compte les accès différentiés aux informations en fonction du besoin d’en connaître.
+ 
+La commission recommande que les permissions d’accès soient attribuées pour une durée déterminée, qu’elles soient supprimées pour tout utilisateur n’étant plus habilité et qu’une revue globale des habilitations soit opérée régulièrement.
+ 
+Elle relève que l’identification et l’authentification des personnes habilitées à accéder à l’application est opérée à l’aide d’une carte-agent ministérielle et d’un code PIN via un portail d’authentification.
+ 
+La commission relève que l’article 6 du projet de décret prévoit que les informations relatives à l’identification de l’utilisateur, la date, l’heure et la nature de l’intervention dans le cadre des opérations de création, de mise à jour, de suppression et de consultation sont conservées cinq ans.
+ 
+Sur ce dernier point, elle prend note qu’il s’agit d’une exigence du haut fonctionnaire de défense du ministère de l’intérieur dans le cadre de la procédure d’homologation sécurité des systèmes d’information concernant le traitement susvisé.
+ 
+La commission rappelle qu’elle recommande de réaliser un contrôle des traces de manière automatique, afin de détecter les comportements anormaux et lever des alertes.
+ 
+Des sauvegardes régulières sont réalisées et stockées dans un endroit garantissant leur sécurité et leur disponibilité. La commission tient à rappeler l’importance de tester régulièrement les sauvegardes.
+ 
+Sous réserve des précédentes observations, les mesures de sécurité décrites par le responsable de traitement sont conformes à l’exigence de sécurité prévue par l’article 34 de la loi du 6 janvier 1978 modifiée en août.
+ 
+La commission rappelle toutefois que cette obligation nécessite la mise à jour des mesures de sécurité au regard de la réévaluation régulière des risques. 
+ 
+Pour la présidente :
+ 
+ 
+Le vice-président délégué,
+ 
+ 
+M.-F. Mazars 
+ 
+ 
+Nature de la délibération: AVIS
+ 
+ 
+
+

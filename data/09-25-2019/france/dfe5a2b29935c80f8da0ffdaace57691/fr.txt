@@ -1,0 +1,187 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 19/07/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+Décision n°MED-2018-023 du 25 juin 2018 
+Décision n° MED 2018-023 du 25 juin 2018 mettant en demeure la société FIDZUP 
+
+La Présidente de la Commission nationale de l’informatique et des libertés, 
+ 
+Vu la Convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ; 
+ 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, abrogée par le règlement (UE) 2016/679 du Parlement européen et du conseil du 27 avril 2016 relatif à la protection des données à caractère personnel et à la libre circulation de ces données ; 
+ 
+Vu le code pénal ; 
+ 
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment son article 45 ; 
+ 
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ; 
+ 
+Vu la délibération n° 2013-175 du 4 juillet 2013 portant adoption du règlement intérieur de la Commission nationale de l’informatique et des libertés ; 
+ 
+Vu la décision n° 2017-212C du 6 septembre 2017 de la Présidente de la Commission nationale de l’informatique et des libertés de charger le secrétaire général de procéder ou de faire procéder à une mission de vérification des traitements de données à caractère personnel mis en œuvre par la société FIDZUP ou pour son compte ; 
+ 
+Vu le procès-verbal n° 2017-212/1 du 14 septembre 2017 ; 
+ 
+Vu le procès-verbal n° 2017-212/2 du 24 avril 2018 ; 
+ 
+Vu les autres pièces du dossier ; 
+ 
+ 
+La société FIDZUP (ci-après la société ), sise 13 rue Madame de Sanzillon à CLICHY (92110) est une société par actions simplifiée spécialisée dans la vente de campagne publicitaire et l’affichage de ces dernières dans les zones de chalandises de ses clients. Elle emploie environ 24 salariés et a réalisé, en 2016, un chiffre d’affaires compris entre 450.000€ et 500.000€. Sur cette même année, elle a également effectué une levée de fonds d’environ 3 millions d’euros.  
+ 
+Cette société, créée en 2011, a développé des technologies permettant d’identifier les prospects d’une enseigne, de les cibler avec des publicités personnalisées affichées sur leurs smartphones et de mesurer les visites générées en magasin.  
+ 
+La société a notamment effectué, le 11 janvier 2018, auprès de la CNIL une déclaration n° 2140728 dont la finalité déclarée est mesure de fréquentation et analyse du comportement des consommateurs dans les magasins , via une FIDBOX . Cette déclaration indique que les données de localisation et de connexion sont conservées durant trois mois.  
+ 
+La société a désigné un Délégué à la protection des données le 22 mai 2018. 
+ 
+En application de la décision n° 2017-212C du 6 septembre 2017 de la Présidente de la Commission nationale de l’informatique et des libertés (ci-après CNIL ou la Commission ), une délégation de la Commission a procédé, auprès de la société FIDZUP, à une mission de contrôle sur place le 14 septembre 2017, ainsi qu’à une mission de contrôle en ligne de plusieurs applications mobiles le 24 avril 2018. 
+ 
+La délégation s’est attachée à examiner le respect, par la société FIDZUP, de l’ensemble des dispositions de la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés (ci-après loi Informatique et Libertés ou loi du 6 janvier 1978 modifiée ).  
+ 
+Il résulte de l’analyse des pièces transmises à la délégation que la société FIDZUP se décrit comme une société spécialisée dans le développement et la fourniture de solutions marketing et publicitaire innovantes sur mobile . Dans ce cadre, elle propose un service permettant d’opérer des campagnes publicitaires mobiles ciblées sur des critères géographiques, comportementaux ou sur des smartphones identifiés comme ayant été localisés à proximité des points de vente des clients annonceurs de FIDZUP et équipés d’un dispositif de remontée d’informations WI-FI nommé FIDBOX .  
+ 
+En pratique, la délégation a été informée que la société a conclu des contrats avec trois partenaires qui éditent neuf applications mobiles. Il a également été précisé à la délégation que la société FIDZUP a développé un traceur SDK , intégré par ses partenaires dans leurs applications, permettant de collecter les identifiants publicitaires mobiles et l’adresse MACdes smartphones des personnes. Ces données peuvent également être collectées via une interface de programmation ( API ) mise à disposition par ces mêmes partenaires.  
+ 
+La délégation a, en outre, été informée que, dans le cadre des activités de prospection publicitaire qu’elle effectue, la société FIDZUP ne traite que les données des mobinautesdétenteur d’un appareil utilisant le système d’exploitation ANDROID.  
+ 
+La délégation a également été informée que la société FIDZUP a une centaine de clients dans la vente automobile et dans la vente au détail qui ont équipé leurs points de vente d’un dispositif FIDBOX . Il lui a été précisé que la société collecte par ce dispositif les données relatives notamment à l’adresse MAC ainsi qu’à la puissance du signal WIFI de tous les terminaux mobiles situés à portée de la FIDBOX .  
+ 
+ 
+Une fois les données collectées via le SDK installé dans les applications des partenaires de la société, elles sont croisées avec les données provenant des FIDBOX situés dans les points de vente de ses clients. La combinaison, via les données relatives aux adresses MAC des terminaux mobiles, des données collectées permet ainsi à la société de procéder à de la prospection publicitaire mobile géolocalisée et de faire le lien entre l’affichage d’une annonce publicitaire sur le téléphone d’un mobinaute et sa présence dans un point de vente équipé d’une FIDBOX .  
+ 
+La délégation a constaté, sur plusieurs applications mobiles, que lorsqu’un utilisateur télécharge l’application de l’un des partenaires de la société FIDZUP, il n’est pas informé que ses données sont collectées par le SDK et traitées par la société.  
+ 
+La délégation a en outre été informée que les applications des éditeurs partenaires utilisant le SDK n’existent pas dans une version sans celui-ci.  
+ 
+Elle a par ailleurs été informée que la société FIDZUP impose contractuellement que les conditions générales d’utilisation (CGU) des applications mobiles de ses partenaires indiquent que des traitements sont effectués par la société FIDZUP et incluent un lien vers la procédure d’opposition au traitement présente sur le site FIDZUP.  
+ 
+La délégation a été informée que la société effectue des vérifications sur ce point et qu’elle n’a, au jour du contrôle, pas eu le temps d’effectuer des vérifications sur chacune des applications partenaires.  
+ 
+En outre, la délégation a constaté, lors du contrôle sur place, que 5 962 383 identifiants publicitaires distincts avaient été collectés par la société. Chaque identifiant publicitaire permettant d’identifier le smartphone d’une personne ayant téléchargé au moins une application de l’un de ses partenaires. 
+ 
+À la suite du procès-verbal établi le 14 septembre 2017, la société a indiqué, par courrier électronique du 22 septembre 2017 avoir procédé à plusieurs modifications relatives au fonctionnement du service proposé. Par courrier postal du 26 février 2018, la société a informé la délégation des dernières actions menées afin de développer ses activités en toute conformité avec la réglementation . 
+ 
+Enfin, le 24 avril 2018, une délégation de la CNIL a procédé au contrôle de plusieurs applications mobiles des partenaires de la société FIDZUP. La délégation a constaté que lorsque les mobinautes installent une application mobile équipée du SDK, ils ne sont pas informés que leurs données sont collectées via un SDK installé par la société FIDZUP. En outre, ces vérifications ont permis de constater l’absence de mise en place d’un dispositif de recueil du consentement des personnes à ce traitement. 
+ 
+de données à caractère personnel 
+ 
+Sur la qualité de responsable du traitement  
+ 
+Aux termes de l’article 3-I de la loi du 6 janvier 1978 modifiée le responsable d’un traitement de données à caractère personnel est, sauf désignation expresse par les dispositions législatives ou réglementaires relatives à ce traitement, la personne, l’autorité publique, le service ou l’organisme qui détermine ses finalités et ses moyens .  
+ 
+Au regard des constats effectués par la CNIL et des pièces fournies lors des différents contrôles, il apparait que la société FIDZUP détermine dans une large mesure les finalités et les moyens des traitements mis en œuvre dans le cadre de l’utilisation du SDK et des FIDBOX .  
+ 
+Il ressort en effet des pièces transmises à la délégation que la société traite pour son propre compte les données à caractère personnel collectées via les dispositifs précités pour vendre des services d’analyse ou de ciblage auprès de ses clients annonceurs. 
+ 
+En outre, la délégation a été informée que les données des utilisateurs des applications mobiles collectées sont enregistrées au sein d’une base de données. La société a précisé que l’ensemble des données issues des SDK sont mutualisées au sein de cette base, ce que la délégation a constaté. 
+ 
+Enfin, la délégation a été informée par la société qu’elle impose contractuellement que les CGU des applications mobiles indiquent que des traitements sont effectués par elle. 
+ 
+La société FIDZUP doit, par conséquent, être considérée comme responsable du traitement mis en œuvre dans le cadre de l’utilisation du SDK. 
+ 
+Sur la collecte de données à caractère personnel  
+ 
+Aux termes de l’article 2 de la loi du 6 janvier 1978 modifiée constitue une donnée à caractère personnel toute information relative à une personne physique identifiée ou qui peut être identifiée, directement ou indirectement, par référence à un numéro d’identification ou à un ou plusieurs éléments qui lui sont propres. Pour déterminer si une personne est identifiable, il convient de considérer l’ensemble des moyens en vue de permettre son identification dont dispose ou auxquels peut avoir accès le responsable du traitement ou toute autre personne .  
+ 
+Constitue, en outre, un traitement de données à caractère personnel toute opération ou tout ensemble d’opérations portant sur de telles données, quel que soit le procédé utilisé, et notamment la collecte, l’enregistrement, l’organisation, la conservation, l’adaptation ou la modification, l’extraction, la consultation, l’utilisation, la communication par transmission, diffusion ou toute autre forme de mise à disposition, le rapprochement ou l’interconnexion, ainsi que le verrouillage, l’effacement ou la destruction .  
+La délégation a constaté que la société FIDZUP collecte, via le SDK installé au sein des applications mobiles, l’identifiant publicitaire du smartphone ainsi que l’adresse MAC de celui-ci associé à des données de géolocalisation de la personne. 
+ 
+L’identifiant publicitaire est un identifiant unique généré par le système d’exploitation du smartphone permettant d’identifier le terminal de l’utilisateur de façon stable dans le temps. Il est mis à disposition de l’ensemble des applications mobiles installées sur celui-ci et est également accessible aux différents SDK installés dans les applications mobiles.  
+ 
+Cet identifiant publicitaire est stocké de façon pérenne dans le smartphone de l’utilisateur et permet donc d’identifier l’utilisateur de façon indirecte. 
+ 
+ 
+L’adresse MAC quant à elle est l’adresse physique d’une carte réseau permettant d’identifier de façon unique un équipement. À la différence de l’identifiant publicitaire, qui est généré par le système d’exploitation, l’adresse MAC est attribuée par le constructeur de l’interface réseau et est inscrit de façon définitive dans le matériel lui-même. C’est donc un identifiant persistant, permettant de réaliser un suivi de l’utilisateur pendant la durée de vie de son smartphone, dans la mesure où celui-ci ne dispose d’aucun moyen pour le réinitialiser. 
+Il en résulte que la société traite des données à caractère personnel en application de l’article 2 de la loi du 6 janvier 1978 modifiée. 
+ 
+Le manquement au regard des dispositions de la loi du 6 janvier 1978 modifiée 
+ 
+Un manquement à l’obligation de disposer d’une base légale pour la mise en œuvre du traitement  
+ 
+La mise en œuvre des traitements de données à caractère personnel par la société FIDZUP, est soumise à l’article 7 de la loi du 6 janvier 1978 modifiée qui prévoit que :  
+ 
+Un traitement de données à caractère personnel doit avoir reçu le consentement de la personne concernée ou satisfaire à l’une des conditions suivantes :  
+1° Le respect d’une obligation légale incombant au responsable du traitement ;  
+2° La sauvegarde de la vie de la personne concernée ;  
+3° L’exécution d’une mission de service public dont est investi le responsable ou le destinataire du traitement ;  
+4° L’exécution, soit d’un contrat auquel la personne concernée est partie, soit de mesures précontractuelles prises à la demande de celle-ci ;  
+5° La réalisation de l’intérêt légitime poursuivi par le responsable du traitement ou par le destinataire, sous réserve de ne pas méconnaître l’intérêt ou les droits et libertés fondamentaux de la personne concernée . 
+ 
+Le traitement aux fins de marketing ciblé serait, selon son responsable, la société FIDZUP, fondé sur le consentement des personnes concernées. En effet, la société a indiqué à la CNIL, dans le courrier du 26 février 2018, avoir développé un pop-up demandant aux utilisateurs leur consentement à l’utilisation de leurs données personnelles à des fins de marketing ciblé.  
+ 
+En vertu de l’article 2, point h) de la directive, le consentement s’entend comme toute manifestation de volonté, libre, spécifique et informée par laquelle la personne concernée accepte que des données à caractère personnel la concernant fassent l’objet d’un traitement .  
+ 
+À cet égard, la notion de consentement, reprise dans le règlement général sur la protection des données, n’est pas moins exigeante dès lors qu’il est prévu que celui-ci doit être donné par un acte positif clair par lequel la personne concernée manifeste de façon libre, spécifique, éclairée et univoque son accord au traitement des données à caractère personnel la concernant .  
+ 
+Or, il ressort de l’analyse des pièces transmises à la Commission et du contrôle du 24 avril 2018 qu’aucun mécanisme n’est proposé aux utilisateurs ayant téléchargé les applications des partenaires de la société pour consentir préalablement aux traitements opérés par cette dernière. 
+ 
+En premier lieu, le consentement doit être informé. 
+ 
+Le groupe de travail de l’article 29 ( G29 ), dans son avis 15/2011 du 13 juillet 2011 sur la définition du consentement, a indiqué que Ceci implique que toutes les informations nécessaires doivent être données au moment de la demande du consentement et que ces informations doivent couvrir tous les aspects de fond du traitement que le consentement est censé légitimer .  
+ 
+Cependant, la délégation a constaté, lors du contrôle de plusieurs applications mobiles le 24 avril 2018, qu’aucun pop-up informant les personnes de la collecte de leurs données à des fins de ciblage publicitaire n’apparaît lors de l’installation ou de l’utilisation des applications.  
+ 
+En particulier, il ressort du contrôle effectué sur l’application mobile […] que les personnes sont informées de la manière suivante : Autoriser […] à accéder à la position de cet appareil ? Refuser – Autoriser . De la même manière, les personnes téléchargeant l’application […] sont informées de la façon suivante : Autoriser l’application […] à accéder à la position de cet appareil ? Refuser – Autoriser .  
+ 
+Il apparaît dès lors que l’information délivrée sur ces pop-up visant à autoriser la collecte des données de géolocalisation est incomplète dès lors qu’elle n’informe l’utilisateur de l’application ni de la finalité de ciblage publicitaire de ce traitement ni de l’identité du responsable de ce traitement, à savoir la société FIDZUP. 
+ 
+En outre, lors du contrôle du 14 septembre 2017, la société a indiqué à la délégation qu’elle impose contractuellement que les CGU des applications mobiles indiquent que des traitements sont effectués par la société FIDZUP.  
+ 
+Par courrier du 26 février 2018, la société a précisé qu’elle avait effectué des vérifications auprès des éditeurs d’applications partenaires quant à la présence de mentions d’informations adéquates au sein de leurs CGU. Elle a confirmé que les partenaires […], […] et […] avaient procédé à la modification de leurs notices d’information afin d’intégrer les traitements de données confiés à FIDZUP et a indiqué qu’elle allait procéder à des vérifications régulières afin de s’assurer du respect, par ses partenaires, des obligations légales précitées.  
+ 
+Enfin, la société a indiqué à la délégation qu’une notice informant les personnes de la mise en place du dispositif FIDBOX est affichée dans les magasins équipés de celui-ci. Les personnes sont informées que le point de vente est équipé des solutions technologiques de la société Fidzup pour détecter le passage des smartphones équipés de Wifi dans le but d’améliorer nos services et de personnaliser nos communications publicitaires. Seule l’adresse matérielle de votre puce Wifi (adresse MAC) est collectée et ne permet en aucun cas d’accéder aux informations stockées sur votre smartphone .  
+ 
+Il apparaît cependant que l’information délivrée au sein des conditions générales d’utilisation des applications mobiles est tardive dès lors qu’elle n’est accessible aux personnes qu’après l’installation de l’application et du SDK et donc une fois leurs données déjà traitées par la société FIDZUP. Il en est de même s’agissant de l’information fournie dans les établissements partenaires dès lors qu’elle ne peut être lue par les personnes que lorsqu’elles se situent en magasin, alors que leur adresse MAC est déjà collectée par la société FIDZUP via le SDK et combinée avec les données provenant de la FIDBOX . 
+ 
+Par conséquent, les personnes ne sont pas dûment informées de la collecte de leurs données par la société FIDZUP via l’installation d’un SDK à des fins de publicité, le cas échéant ciblée grâce aux données de localisation, avant que leurs données ne soient traitées par la société. 
+ 
+En deuxième lieu, les utilisateurs des applications ne fournissent pas un consentement libre au traitement réalisé par la société. 
+ 
+Dans son avis n°15/2011 du 13 juillet 2011, le G29 considère que Le consentement ne peut être valable que si la personne concernée est véritablement en mesure d’exercer un choix et s’il n’y a pas de risque de tromperie […] Si les conséquences du consentement sapent la liberté de choix des personnes, le consentement n’est pas libre .  
+ 
+Or, en l’espèce, la délégation a été informée, lors du contrôle du 14 septembre 2017, que les applications des éditeurs partenaires qui utilisent le SDK n’existent pas dans une version sans celui-ci et que par conséquent, les personnes ne peuvent télécharger les applications mobiles sans télécharger le SDK. Ce traceur est donc indissociable des applications partenaires. 
+ 
+En conséquence, les utilisateurs des applications mobiles ne sont pas libres de consentir au traitement des données réalisé par la société FIDZUP, à partir des données transmises par les applications, l’utilisation de ces dernières impliquant automatiquement la transmission de données à la société FIDZUP. 
+ 
+En troisième lieu, il apparait que les personnes ne fournissent pas un consentement spécifique à la collecte de leurs données personnelles à des fins publicitaires et le cas échéant, à des fins de ciblage réalisé à partir de leur localisation. 
+ 
+Dans un avis 15/2011 du 13 juillet 2011, le G29 a rappelé que : Pour être valable, le consentement doit être spécifique. En d’autres termes, un consentement général, sans préciser la finalité exacte du traitement, n’est pas acceptable. Pour être spécifique, le consentement doit être intelligible. Il doit mentionner, de façon claire et précise, l’étendue et les conséquences du traitement des données […] Le consentement doit être donné sur les différents aspects, clairement définis, du traitement. […] En effet, il ne saurait être considéré comme couvrant toutes les finalités légitimes poursuivies par le responsable du traitement .  
+ 
+S’agissant du pop-up proposé et recommandé aux éditeurs par la société FIDZUP, afin d’informer les utilisateurs du traitement de leurs données à des fins de marketing ciblé , la délégation a constaté, lors du contrôle du 24 avril 2018, qu’aucun mécanisme permettant de recueillir le consentement spécifique des personnes à la collecte de leurs données à des fins de ciblage publicitaire ne s’affiche lors du téléchargement et de l’utilisation des applications mobiles contrôlées. 
+ 
+En outre, la délégation a constaté que les personnes sont amenées à valider l’autorisation de la collecte de leurs données, y compris de localisation, uniquement pour l’utilisation de l’application mobile téléchargée. Elles ne fournissent donc pas de consentement spécifique au traitement de leurs données à des fins de ciblage publicitaire, le cas échéant géolocalisé. 
+ 
+Il résulte de tout ce qui précède que le consentement des personnes n’est pas valablement recueilli.  
+ 
+L’ensemble de ces faits est donc de nature à constituer un manquement aux dispositions de l’article 7 de la loi du 6 janvier 1978 modifiée.  
+ 
+En conséquence, la société FIDZUP, sise 13, rue Madame de Sanzillon à CLICHY (92110), est mise en demeure, sous un délai d’ un (3) mois, à compter de la notification de la présente décision et sous réserve des mesures qu’elle aurait déjà pu adopter, de :  
+ 
+ne pas procéder sans base légale au traitement des données des personnes à des fins de ciblage publicitaire y compris basé sur la localisation ; en particulier recueillir, de manière effective, le consentement des utilisateurs des applications éditées par les partenaires de la société FIDZUP au traitement de leurs données par cette dernière (par exemple par la mise en place d’un pop-up contenant une information et une case à cocher dédiées) et à défaut, supprimer lesdites données collectées ;
+ 
+justifier auprès de la CNIL que l’ensemble des demandes précitées a bien été respecté, et ce dans le délai imparti. 
+ 
+À l’issue de ce délai, si la société FIDZUP s’est conformée à la présente mise en demeure, il sera considéré que la présente procédure est close et un courrier lui sera adressé en ce sens.  
+ 
+À l’inverse, si la société FIDZUP ne s’est pas conformée à la présente mise en demeure, un rapporteur sera désigné qui pourra demander à la formation restreinte de la Commission de prononcer l’une des sanctions prévues par l’article 45 de la loi du 6 janvier 1978 modifiée.  
+ 
+ 
+ 
+La Présidente 
+ 
+ 
+ 
+ 
+ 
+Isabelle FALQUE-PIERROTIN 
+ 
+Kit de développement logiciel. 
+Adresse Media Access Control : identifiant technique d’une interface réseau physique contenue notamment dans un smartphone. 
+Personne qui navigue sur Internet à partir d’un appareil mobile. 
+
+

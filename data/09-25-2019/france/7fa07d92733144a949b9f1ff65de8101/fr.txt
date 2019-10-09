@@ -1,0 +1,112 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 28/06/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+DELIBERATION n°2018-076 du 22 FEVRIER 2018 
+Délibération n° 2018-076 du 22 février 2018 autorisant la société Astellas Pharma à mettre en œuvre un traitement automatisé de données à caractère personnel ayant pour finalité le suivi de l’information médicale 
+
+ 
+ 
+La Commission nationale de l’informatique et des libertés, 
+Saisie par la société Astellas Pharma d’une demande d’autorisation concernant un traitement automatisé de données à caractère personnel ayant pour finalité le suivi de l’information médicale ; 
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ; 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ; 
+Vu le code de la santé publique, notamment ses articles L. 5122-1 à L. 5122-16, R. 5122-2 et R.5124-36 ; 
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment ses articles 8-IV et 25-I-1° ; 
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ; 
+Vu le dossier et ses compléments ; 
+Sur la proposition de M Alexandre LINDEN, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement, 
+ 
+ 
+Formule les observations suivantes : 
+ 
+ 
+ 
+Responsable du traitement 
+Astellas Pharma est une société pharmaceutique internationale basée au Japon et dont l’activité porte sur le développement et la commercialisation de médicaments. 
+ 
+Sur la finalité 
+La finalité du traitement est l’information médicale, c’est-à-dire le suivi des questions médicales (émanant des patients, associations de patients ou professionnels de santé). Ce traitement répond à une obligation légale découlant des articles L. 5122-1 à L. 5122-16, R. 5122-2 et R. 5124-36 du code de la santé publique.  
+ 
+La Commission considère les finalités poursuivies comme déterminées, explicites et légitimes. 
+ 
+La Commission estime qu’il y a lieu de faire application des dispositions combinées des articles 8-IV et 25-I-1° de la loi du 6 janvier 1978 modifiée, qui soumettent à autorisation les traitements comportant des données relatives à la santé et justifiés par l’intérêt public. 
+ 
+Sur les données traitées 
+Les données à caractère personnel collectées sont : 
+ 
+les données d’identification du notificateur lorsque celui-ci n’est pas un professionnel de santé (patient ou membre d’une association agréée de patients) : nom, prénom, adresse postale, adresse électronique, numéro de téléphone ; 
+les données d’identification du patient : numéro, code alphanumérique ou code alphabétique d’identification, informations signalétiques (âge, année ou date de naissance, sexe, poids, taille) ; 
+les données de santé : traitements administrés, nature du ou des effets indésirables et toute information communiquée par le patient concernant le contexte de son événement indésirable ; 
+les données d’identification des professionnels de santé concernés par l’observation : nom, prénom, numéro de téléphone et de télécopie, adresse électronique, adresse postale, spécialité du professionnel de santé. 
+ 
+Le responsable de traitement doit mettre en place les mesures techniques adéquates afin que les données codées relatives aux patients soient séparées des autres données. 
+ 
+La Commission considère que les données traitées sont adéquates, pertinentes et non excessives au regard de la finalité poursuivie, conformément aux dispositions de l’article 6-3° de la loi du 6 janvier 1978 modifiée. 
+ 
+Sur les destinataires 
+Les destinataires des données sont :  
+les personnels dûment habilités de la société Astellas Pharma, Astellas France ou Astellas Global (membres de l’équipe de gestion médicale, du service informatique, du département des affaires médicales) ;  
+les organismes publics concernés ; 
+les prestataires tiers en charge de l’information médicale. 
+ 
+La Commission prend acte de ce que l’habilitation à consulter des données de santé n’est attribuée qu’à des personnes soumises au secret médical, et dans la stricte limite de leurs missions. 
+ 
+Cette liste de destinataires n’appelle pas d’observation de la part de la Commission. 
+ 
+Sur l’information et les droits des personnes  
+Les personnes concernées sont informées du traitement de leurs données, conformément à l’article 32 de la loi du 6 janvier 1978 modifiée, par un message téléphonique, postal ou électronique selon les modalités de prise de contact.  
+ 
+Les droits des personnes s’exercent auprès d’Astellas Pharma. 
+ 
+Ces modalités d’information et d’exercice des droits sont suffisantes. 
+ 
+Sur les mesures de sécurité 
+Des profils d’habilitation définissent les fonctions ou les types d’informations accessibles à un utilisateur. 
+ 
+La Commission rappelle que le responsable de traitement doit mettre en œuvre une politique de mot de passe conforme à la délibération n° 2017-012 du 19 janvier 2017 portant adoption d’une recommandation relative aux mots de passe.  
+ 
+La Commission rappelle également que les équipements mobiles doivent faire l’objet de mesures de chiffrement afin de garantir la confidentialité des données qu’ils contiennent en cas de perte ou de vol de l’équipement. 
+ 
+En outre, la Commission considère que la nature des données exige que celles-ci fassent l’objet de mesures de chiffrement conformes à l’annexe B1 du référentiel général de sécurité tant au niveau des bases de données que des sauvegardes. 
+ 
+La Commission recommande que les échanges se fassent via le protocole https (version de TLS la plus à jour possible) qui permet de garantir la confidentialité des données échangées ainsi que l’authentification du responsable de traitement.  
+ 
+La Commission rappelle que l’anonymisation doit être effective. Le responsable de traitement doit donc réaliser une analyse permettant de démontrer que ses processus d’anonymisation respectent les trois critères définis par l’avis du groupe de l’article 29 n°05/2014. À défaut, si ces trois critères ne peuvent être réunis, une étude des risques de ré-identification doit être menée. 
+ 
+Le traitement dispose d’une journalisation des accès. La commission recommande une durée de conservation des journaux de six mois.  
+ 
+Sous réserve des précédentes observations, les autres mesures de sécurité décrites par le responsable de traitement sont conformes à l’exigence de sécurité prévue par l’article 34 de la loi du 6 janvier 1978 modifiée. 
+ 
+La Commission rappelle toutefois que cette obligation nécessite la mise à jour des mesures de sécurité au regard de la réévaluation régulière des risques. 
+ 
+Sur les autres caractéristiques du traitement 
+Les données d’identification des personnes sont conservées pendant six ans à compter de la réception de la notification afin de pouvoir les recontacter si nécessaire. Passé ce délai, ces données seront supprimées ou conservées sous un format anonymisé.  
+ 
+La Commission estime que cette durée de conservation est pertinente au regard de la finalité poursuivie par le traitement. 
+ 
+S’agissant des transferts de données en dehors de l’Union européenne, Astellas Pharma met en œuvre des clauses contractuelles types pour encadrer ces transferts. 
+ 
+ 
+Autorise, conformément à la présente délibération, Astella Pharma à mettre en œuvre le traitement décrit ci-dessus.  
+ 
+Le Vice-Président délégué 
+ 
+ 
+Marie-France MAZARS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nature de la délibération: Autorisation
+ 
+ 
+
+

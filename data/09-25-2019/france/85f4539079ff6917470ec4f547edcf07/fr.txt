@@ -1,0 +1,163 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 28/06/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+DELIBERATION n°2018-137 du 19 AVRIL 2018 
+Délibération n° 2018-137 du 19 avril 2018 autorisant l’Agence nationale du traitement automatisé des infractions (ANTAI) à mettre en œuvre un traitement de données à caractère personnel dénommé « Service FPS – ANTAI » 
+
+(demande d’autorisation n° 2143957) 
+ 
+La Commission nationale de l’informatique et des libertés, 
+Saisie par le ministre de l’intérieur d’une demande d’autorisation relative à la mise en œuvre par l’Agence nationale du traitement automatisé des infractions (ANTAI) d’un traitement automatisé de données à caractère personnel dénomme « Service FPS-ANTAI » ; 
+Vu la Convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ; 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ; 
+Vu le code général des collectivités territoriales, notamment ses articles L. 2333-87 et suivants et R. 2333-120-20 et suivants ; 
+Vu le code de la route, notamment son article L. 330-2 ;  
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment son article 25-I-5° ; 
+Vu la loi n° 2014-58 du 27 janvier 2014 modifiée de modernisation de l’action publique territoriale et d’affirmation des métropoles (MAPTAM), notamment son article 63 ;  
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ; 
+Vu le décret n° 2011-348 du 29 mars 2011 modifié portant création de l’Agence nationale de traitement automatisé des infractions ;  
+Vu l’arrêté du 18 juillet 1994 modifié portant création du traitement automatisé de suivi du recouvrement des amendes et des condamnations pécuniaires ;  
+Vu l’arrêté du 13 janvier 2004 portant création du télépaiement des amendes ;  
+Vu l’arrêté du 23 octobre 2008 portant création d’un traitement automatisé de données à caractère personnel dénommé « système d’information télépaiement » mis en œuvre par le ministère de l’intérieur, de l’outre-mer et des collectivités territoriales et par le ministère du budget, des comptes publics et de la fonction publique ;  
+Vu l’arrêté du 10 décembre 2008 portant création par le ministère de l’intérieur d’un traitement automatisé de données à caractère personnel dénommé « base satellite VV » ; 
+Vu l’arrêté du 10 février 2009 modifié portant création d’un traitement automatisé de données à caractère personnel dénommé « système d’immatriculation des véhicules » ayant pour objet la gestion des pièces administratives du droit de circuler des véhicules ;  
+Vu l’arrêté du 6 novembre 2015 fixant les caractéristiques du numéro des avis de paiement et les spécifications techniques mentionnées à l’article R. 2333-120-10 du code général des collectivités territoriales ;  
+Vu l’arrêté du 15 décembre 2016 relatif aux informations devant être transmises à l’ordonnateur pour l’émission du titre exécutoire et du titre d’annulation prévus à l’article L. 2333-87 du code général des collectivités territoriales et aux modalités de transmission de ces informations ;  
+Vu la délibération n° 2017-348 du 21 décembre 2017 portant avis sur un projet d’arrêté portant création d’un traitement automatisé de données à caractère personnel dénommé « système d’information de la commission du contentieux du stationnement payant » ;  
+Vu le dossier et ses compléments,  
+Sur la proposition de Monsieur Jean-François CARREZ, commissaire, et après avoir entendu les observations de Madame Nacima BELKACEM, commissaire du Gouvernement,  
+ 
+Émet l’avis suivant : 
+ 
+La Commission nationale de l’informatique et des libertés a été saisie par le ministre de l’intérieur d’une demande d’autorisation relative à la mise en œuvre par l’Agence nationale du traitement automatisé des infractions (ANTAI) d’un traitement automatisé de données à caractère personnel dénommé « Service FPS – ANTAI ».  
+ 
+Ce traitement doit permettre à l’ANTAI de notifier, pour le compte des collectivités territoriales qui le souhaitent, les avis de paiement de « forfaits post-stationnement » (FPS) aux usagers qui ne respecteraient pas les règles de paiement du stationnement. Il doit également lui permettre d’émettre des titres exécutoires et de les transmettre au comptable public chargé de leur recouvrement, conformément aux nouvelles missions qui ont été confiées à cet organisme.  
+ 
+La Commission relève qu’il est prévu que le traitement projeté puisse faire l’objet d’interconnexions, de mise en relation ou de rapprochement avec plusieurs traitements de données à caractère personnel. Le traitement projeté doit dès lors être autorisé par la Commission en application des dispositions de l’article 25-I-5° de la loi du 6 janvier 1978 modifiée.  
+ 
+De manière générale, la Commission rappelle que l’ANTAI étant placée sous la tutelle du ministère de l’intérieur, il reviendra à ce dernier de s’assurer, le cas échéant, de la mise à jour des formalités déclaratives applicables aux traitements concernés. Elle relève enfin qu’un arrêté du ministre de l’intérieur rappellera les principales caractéristiques du traitement projeté ainsi que ses conditions de mise en œuvre.  
+ 
+Sur les finalités du traitement et les interconnexions mises en œuvre : 
+ 
+La loi n° 2014-58 du 27 janvier 2014 de modernisation de l’action publique territoriale et d’affirmation des métropoles, dite loi « MAPTAM », porte dépénalisation et décentralisation du stationnement payant.  
+Depuis le 1er janvier 2018, il est ainsi prévu que lorsqu’une redevance sur la voie publique ne sera pas ou sera insuffisamment réglée, la personne concernée soit redevable du paiement d’un forfait post-stationnement dont le montant sera librement fixé par la collectivité territoriale concernée.  
+ 
+L’article L. 2333-87 du code général des collectivités territoriales (CGCT), tel que modifié par l’article 63 de la loi précitée, prévoit ainsi que « le montant du forfait de post-stationnement dû, déduction faite, le cas échéant, du montant de la redevance de stationnement réglée dès le début du stationnement, est notifié par un avis de paiement délivré soit par son apposition sur le véhicule concerné par un agent assermenté de la commune, de l’établissement public de coopération intercommunale, du syndicat mixte ou du tiers contractant désigné pour exercer cette mission, soit par envoi postal au domicile du titulaire du certificat d’immatriculation du véhicule concerné effectué par un établissement public spécialisé de l’Etat ». Il résulte de ces modifications que la gestion de l’avis de paiement peut être effectuée soit directement par les collectivités territoriales après le dépôt sur le pare-brise du véhicule concerné de l’avis de paiement du FPS (« cycle partiel ») soit par l’ANTAI. Dans cette dernière hypothèse, l’ANTAI est chargée par la collectivité territoriale d’adresser l’avis de paiement du FPS à la personne concernée par voie postale ou par envoi dématérialisé (« cycle complet »).  
+ 
+La Commission relève que l’ANTAI, organisme placé sous la tutelle du ministère de l’intérieur, a vu ses missions élargies afin de lui permettre de prendre en compte la gestion du paiement du FPS. L’article 2 du décret du 29 mars 2011 susvisé prévoit désormais que l’ANTAI est notamment en charge de la préparation et de l’envoi des avis de paiement des forfaits de post-stationnement, de l’information des personnes destinataires d’un avis de paiement d’un FPS ainsi que de l’émission du titre exécutoire correspondant.  
+ 
+Dans ce contexte, le traitement projeté vise à tenir compte de l’évolution des missions confiées à l’ANTAI en lui permettant de mettre en œuvre un traitement qui poursuit les finalités suivantes :  
+ 
+la notification, pour le compte des collectivités territoriales, des avis de paiements initiaux et rectificatifs des FPS relevés sur leur ressort territorial ;  
+l’émission des titres exécutoires prévus à l’article L. 2333-87 du CGCT en vue du recouvrement du FPS impayé ainsi que des titres exécutoires rectificatifs ou des titres d’annulation des FPS en cas de rectification ou d’annulation par la commission du stationnement payant ;  
+la transmission des titres exécutoires précédemment énumérés au comptable public chargé de leur recouvrement.  
+ 
+La Commission relève par ailleurs que ce traitement pourra faire l’objet d’interconnexions, de mise en relation ou de rapprochement avec d’autres traitements. A titre général, elle prend acte que seules les données strictement nécessaires à l’exercice des missions confiées à l’ANTAI dans le cadre des prérogatives qui lui sont confiées pour la gestion du paiement du FPS lui seront transmises.  
+ 
+ 
+ 
+En particulier, la Commission prend acte que les échanges de données susceptibles d’intervenir avec les systèmes d’informations mis en place par les collectivités territoriales tels que prévus par l’article 3-II de l’arrêté du 6 novembre 2015 susvisé doivent permettre l’édition des avis de paiement ou la transmission des titres exécutoires à la Direction générale des finances publiques (DGFiP). De la même manière, la Commission relève qu’ il est prévu que le traitement projeté fasse l’objet d’interconnexions avec les traitements automatisés de données à caractère personnel mis en œuvre par la DGFiP pour l’édition et l’envoi d’avertissements aux redevables n’ayant pas réglé le FPS dans le délai prévu à l’article L. 2333-87 du CGCT ainsi qu’avec le traitement automatisé de données à caractère personnel « système d’information télépaiement », ce qui n’appelle pas d’observation particulière.  
+ 
+S’agissant de l’interface avec le système de la Commission du contentieux et du stationnement payant, sur lequel la Commission s’est prononcée dans sa délibération du 21 décembre 2017 susvisée, elle relève que les informations transmises doivent permettre à l’ANTAI d’être informée des suites données à l’exercice, par un redevable, d’un recours préalable administratif obligatoire auprès de cette Commission.  
+ 
+Elle observe par ailleurs que, s’agissant du « système d’immatriculation des véhicules » (SIV), l’article L. 330-2 du code de la route prévoit effectivement que certaines des informations contenues dans ce traitement puissent être communiquées l’établissement public de l’Etat chargé de participer aux opérations nécessaires à la délivrance par voie postale de l’avis de paiement mentionné à l’article L. 2333-87 du code général des collectivités territoriales ou à l’émission du titre exécutoire prévu au même article, à savoir l’ANTAI.    
+ 
+En ce qui concerne les échanges de données devant intervenir avec le traitement automatisé de données à caractère personnel dénommé « base satellite VV » recensant les véhicules volés, créé par arrêté du 10 décembre 2008 susvisé pris après avis de la CNIL, la Commission prend acte que les données transmises doivent permettre à l’ANTAI de savoir si le véhicule concerné est déclaré volé dès lors que, dans cette hypothèse, aucun avis de paiement relatif au FPS n’est adressé.  
+ 
+S’agissant du traitement automatisé de données à caractère personnel mis en œuvre par la Poste relatif au fichier des nouveaux voisins, la Commission prend acte que les informations transmises à l’ANTAI doivent lui permettre d’adresser l’avis initial de paiement du FPS ou le titre exécutoire émis lorsque ces titres n’ont pas pu être distribués (« plis non distribués ») et que les personnes concernées ont autorisé la communication de leurs nouvelles adresses.  
+ 
+Elle prend acte que l’interrogation de ce fichier par l’ANTAI s’effectuera de manière hebdomadaire.  
+ 
+Compte tenu de ce qui précède, la Commission considère que les finalités poursuivies sont déterminées, explicites et légitimes, conformément à l’article 6-2° de la loi du 6 janvier 1978 modifiée.  
+ 
+ 
+ 
+ 
+ 
+Sur la nature des données : 
+ 
+Les données personnelles collectées dans le cadre du traitement projeté se rapportent aux informations relatives :  
+ 
+au forfait post-stationnement (numéro du forfait, numéro d’immatriculation et marque du véhicule, montant dû, coordonnées du service auprès duquel le redevable peut exercer un recours administratif préalable obligatoire, adresse du destinataire du FPS, etc.) ;  
+à un forfait post-stationnement rectificatif (nouveau numéro de FPS, numéro et date d’établissement de l’avis de paiement rectificatif, montant correctif du FPS et montant d’une nouvelle majoration, etc.) ;  
+au paiement d’un forfait post-stationnement (montant payé au titre du FPS initial ou rectificatif, montant recouvré du FPS majoré et date du recouvrement, canal utilisé pour le paiement du FPS, mode de paiement du FPS, etc.).  
+ 
+La Commission relève par ailleurs que des données relatives aux collectivités territoriales (nom et adresse, numéro d’identification SIRET, forme juridique, date de début et de fin de la convention signée avec l’ANTAI, indication du cycle choisi par la collectivité, libellé et code budget) seront également collectées.  
+ 
+La Commission prend acte que les données figurant dans chacune de ces différentes catégories seront énumérées et annexées à l’arrêté précité.  
+ 
+Dans ces conditions, la Commission considère que les données traitées sont adéquates, pertinentes et non excessives au regard des finalités pour lesquelles elles sont collectées, conformément à l’article 6-3° de la loi du 6 janvier 1978 modifiée. 
+ 
+Sur les durées de conservation : 
+ 
+Les données à caractère personnel relatives aux avis de paiement initiaux et rectificatifs des FPS ainsi qu’aux titres exécutoires des forfaits FPS sont conservées pendant trois ans à compter de leur émission.  
+ 
+Les données relatives aux collectivités territoriales sont conservées pendant trois ans, conformément aux dispositions de l’article R. 2333-120-17-2 du CGCT. 
+ 
+La Commission prend acte que les durées de conservation ainsi définies pourront être prorogées jusqu’à l’extinction de l’action publique en cas de recours formé devant la commission du contentieux du stationnement payant. Elle prend également acte qu’à l’issue de ces durées, les données seront détruites. La Commission rappelle que cette destruction doit intervenir de manière sécurisée.  
+ 
+Compte tenu de ces éléments, la Commission estime que la durée ainsi définie est conforme à l’article 6-5° de la loi du 6 janvier 1978 modifiée. 
+ 
+ 
+ 
+ 
+ 
+ 
+Sur les personnes habilitées et les destinataires : 
+ 
+Seuls les agents de l’ANTAI et les personnels des prestataires de l’ANTAI chargés de la maintenance informatique du traitement ont accès aux données à caractère personnel enregistrées dans le traitement, à raison de leurs attributions et dans la limite de leur besoin d’en connaître.  
+ 
+La Commission relève que peuvent être destinataires de ces mêmes données, à raison de leurs attributions et dans la limite du besoin d’en connaître :  
+ 
+les agents des communes, des établissements publics de coopération intercommunale et des syndicats mixtes, pour les seules données à caractère personnel et informations relatives aux forfaits de post-stationnement relevant de leur ressort territorial ;  
+les agents de la DGFiP, pour les seules données à caractère personnel et informations relatives aux titres exécutoires à émettre, modifier ou à annuler.  
+ 
+La Commission considère que les finalités des traitements mis en œuvre justifient que, dans les conditions précitées, ces personnes accèdent ou soient destinataires des données amenées à figurer dans le traitement projeté.  
+ 
+Sur l’information et les droits les personnes : 
+ 
+La Commission prend acte qu’une information conforme aux dispositions de l’article 32 de la loi du 6 janvier 1978 modifiée sera délivrée aux personnes concernées.  
+ 
+Elle relève que les droits d’accès, de rectification et d’opposition pour motifs légitimes s’exercent directement auprès du Centre national de traitement des infractions routières (CNT), situé à Rennes. 
+ 
+La Commission prend acte qu’un bandeau d’information sera inséré sur les avis de paiement des FPS afin de préciser les modalités précises d’exercice de ces droits. Elle relève que ce bandeau précisera également que les personnes concernées peuvent exercer leurs droits auprès de l’autorité dont relève l’agent ayant établi l’avis de paiement.  
+ 
+Sur la sécurité des données et la traçabilité des actions : 
+ 
+Le traitement « Service FPS-ANTAI » fait l’objet de liaisons informatiques avec d’autres systèmes de traitements intervenant dans la chaîne de traitement des FPS et est mis en œuvre au CNT.  
+ 
+Les interconnexions mises en œuvre avec le « SIV » interviennent sur le réseau privatif du CNT et s’appuient sur le protocole sécurisé « Cross File Transfer » (CFT). Les interconnexions avec la « base Satellite VV » s’effectuent entre le réseau du CNT et le « Réseau Interministériel de l’Etat » (RIE) et s’appuient sur ce même protocole.  
+ 
+La transmission des données avec les collectivités territoriales est sécurisée au moyen du protocole HTTPS avec authentification mutuelle client-serveur basée sur des certificats qualifiés RGS. 
+  
+La gestion des échanges avec la Commission du contentieux et du stationnement payant fait également appel à des services web  sécurisés déployés sur le RIE. 
+  
+L’interrogation des services Alliage (plis non distribués) et Charade (changement d’adresse) s’appuie sur les interfaces de programmation applicatives (API) du fournisseur de ces services, soit le responsable de l’éditique de l’ANTAI. Les échanges interviennent ainsi sur le réseau du CNT et sont sécurisés au moyen de certificats dédiés. 
+  
+Les échanges de fichiers de données à caractère personnel avec la DGFiP interviennent sur une ligne dédiée du RIE et sont basés sur CFT, ce qui garantit leur confidentialité. 
+  
+La gestion des échanges pour les paiements est sécurisée au moyen du protocole IPSEC, ce qui garantit leur confidentialité. 
+  
+L’ensemble des opérations liées à ces services web est tracé au niveau base de données et au niveau métier sur une année glissante. Il en est de même des traces techniques. 
+  
+La Commission estime que les mesures de sécurité mises en œuvre sont satisfaisantes au regard des obligations de l’article 34 de la loi du 6 janvier 1978 modifiée. Elle rappelle toutefois que cette obligation nécessite une réévaluation régulière des risques et la mise à jour des mesures de sécurité en tant que de besoin.  
+ 
+Dans ces conditions, elle autorise, conformément à la présente délibération, l’Agence nationale du traitement automatisé des infractions (ANTAI) à mettre en œuvre le traitement susmentionné.  
+ 
+ 
+ 
+Pour La Présidente 
+Le Vice-Président Délégué 
+ 
+Marie-France MAZARS 
+ 
+ 
+Nature de la délibération: Avis
+ 
+ 
+
+

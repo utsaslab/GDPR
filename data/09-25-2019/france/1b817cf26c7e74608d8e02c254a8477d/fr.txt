@@ -1,0 +1,123 @@
+Le : 09/10/2019
+ 
+ 
+Date de publication sur legifrance: 28/06/2018
+ 
+Commission Nationale de l’Informatique et des Libertés 
+
+DELIBERATION n°2018-159 du 17 MAI 2018 
+Délibération n° 2018-159 du 17 mai 2018 autorisant la mise en œuvre par l’Association Française contre les Myopathies (AFM-Téléthon) d’un traitement automatisé de données à caractère personnel ayant pour finalité la constitution du registre français des dystrophinopathies 
+
+(Demande d’autorisation n° 917038) 
+ 
+La Commission nationale de l’informatique et des libertés, 
+Saisie par l’Association Française contre les Myopathies (AFM-Téléthon) d’une demande d’autorisation concernant un traitement automatisé de données à caractère personnel ayant pour finalité la constitution du registre français des dystrophinopathies ; 
+Vu la Convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ; 
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ; 
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment ses articles 8-II-1° et 25-I-2° ; 
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ; 
+Vu le dossier et ses compléments ; 
+Sur la proposition de M. Alexandre LINDEN, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement ; 
+ 
+ 
+Formule les observations suivantes : 
+ 
+Sur le responsable du traitement 
+L’Association Française contre les Myopathies (ci-après AFM-Téléthon)  
+Sur la finalité 
+L’AFM-Téléthon souhaite constituer un registre français des dystrophinopathies qui rassemble les données médicales, génétiques et cliniques, des personnes présentant la myopathie de Duchenne ou de Becker et d’autres maladies liées à une mutation du gène de la distrophine en France. Il s’agit de maladies rares pour lesquelles il n’existe pas à ce jour de traitement curatif.  
+ 
+ 
+ 
+Ce registre a pour objectifs de : 
+faciliter le recrutement des patients pouvant participer à des essais cliniques réalisés en France ; 
+d’améliorer les connaissances sur la maladie par la recherche, d’en comprendre notamment les mécanismes génétiques. 
+ 
+La Commission rappelle que les traitements de données de santé à caractère personnel qui seront mis en œuvre, à des fins de recherche dans le domaine de la santé, à partir des données centralisées au sein du registre, sont des traitements distincts qui doivent faire l’objet de formalités propres au titre du chapitre IX de la loi Informatique et Libertés. 
+ 
+La Commission considère ces finalités comme déterminées, légitimes et explicites au sens de l’article 6 de la loi du 6 janvier 1978 modifiée. 
+ 
+Elle estime qu’il y a lieu de faire application des dispositions de l’article 25-I-2° de la loi du 6 janvier 1978 modifiée, qui soumettent à autorisation les traitements automatisés portant sur des données génétiques hormis ceux utilisés à des fins de médecine préventive, des diagnostics médicaux ou dans le cadre de l’administration de soins ou de traitements. 
+ 
+Sur les données traitées 
+Le registre inclut tout patient ayant un diagnostic génétique de dystrophinopathie et des signes cliniques de la maladie, suivi dans l’un des centres de référence ou de compétences des maladies neuromusculaires situés au niveau de plusieurs centres hospitaliers. 4 000 personnes environ pourraient être concernées.  
+ 
+Les données proviennent des centres hospitaliers participant au registre.  
+ 
+Les données relatives aux patients figurant dans le registre sont les suivantes : 
+des données identifiantes (nom, prénom, sexe, date de naissance, commune de naissance, code postal de résidence et de naissance, email) ; 
+des données cliniques (telles que la description de la maladie et de ses conséquences sur les muscles, le cœur, les poumons, etc.) ; 
+des données génétiques (telles que la description précise des anomalies du gène responsable de la maladie). 
+ 
+ 
+ 
+Seuls le médecin et le laboratoire de diagnostic moléculaire ayant diagnostiqué la maladie accèdent aux données nominatives de leur patient.  
+ 
+Les données cliniques et génétiques seront par ailleurs accessibles sous la forme codée dans le cadre de projets de recherche dans le domaine de la santé ultérieurs. 
+ 
+Des données à caractère personnel relatives aux médecins référents sont également traitées (nom, prénom, email ou numéro de téléphone ou, à des fins d’authentification, identifiant de la carte de professionnel de santé). 
+ 
+La Commission considère que, compte tenu des finalités poursuivies, la collecte de ces données est pertinente au sens du 3° de l’article 6 de la loi « informatique et libertés ».  
+ 
+Sur les destinataires 
+Chaque médecin des centres de référence ou de compétence accède aux données de ses patients. Il en va de même des laboratoires de diagnostic moléculaire. 
+ 
+Les données codées seront accessibles aux équipes de chercheurs dans le cadre de projets de recherche sous réserve de l’accord d’un comité de pilotage créé au sein du registre composé d’un responsable scientifique, d’un représentant de chaque partie prenante au registre (dont un représentant des associations de patients). Ce comité veillera en particulier à ce que les projets de recherche effectués depuis les données du registre disposent des autorisations réglementaires adéquates. 
+ 
+Le patient dispose également d’une interface lui permettant de consulter ses données.  
+ 
+Sur les droits des personnes  
+Une note d’information individuelle et des formulaires de recueil du consentement sont prévus dans les conditions décrites ci-dessous.  
+ 
+Les personnes concernées sont informées directement par le médecin au moment de la pose du diagnostic pour les patients nouvellement diagnostiqués ou lors d’une consultation de suivi pour les patients déjà diagnostiqués. Une note d’information, comprenant l’ensemble des mentions prévues par l’article 32 de la loi informatique et libertés, est remise au patient ou aux titulaires de l’autorité parentale lorsqu’il s’agit d’un mineur.  
+ 
+La Commission rappelle que cette information initiale ne peut se substituer à l’information individuelle prévue par les dispositions de l’article 57 de la loi « informatique et libertés » et qui devra être réalisée pour chaque projet de recherche. 
+ 
+Un consentement spécifique écrit est recueilli auprès du patient adulte ou des titulaires de l’autorité parentale pour le traitement des données de leur enfant.  
+ 
+Le consentement de l’enfant est également demandé lorsqu’il est apte à exprimer sa volonté. Le consentement porte sur la participation au registre.  
+ 
+La Commission prend acte de ce que les données génétiques détenues dans le registre sont des données produites à l’occasion d’actes de soins et qu’aucune nouvelle analyse n’est réalisée spécifiquement pour le registre. Elle relève donc que les données contenues dans le registre pourront faire l’objet d’une réutilisation à des fins de recherche sans que le recueil d’un consentement écrit spécifique à chaque projet soit nécessaire.  
+ 
+Les droits d’accès, de rectification et d’opposition s’exercent directement auprès du médecin en charge du patient qui prendra contact avec le responsable scientifique du registre. 
+ 
+La Commission rappelle que le responsable de traitement doit prendre les mesures effectives dans le cas où une personne retirerait son consentement. Dans cette hypothèse, les données devront être détruites, ce qui devra être rappelé dans la note d’information. 
+ 
+Sur les mesures de sécurité 
+Le traitement s’appuie sur une plateforme bénéficiant d’un agrément en matière d’hébergement de données de santé. Si les serveurs sont virtualisés, ils bénéficient d’un cloisonnement logique garanti par un hyperviseur n’appelant pas d’observations. 
+ 
+Les communications réseaux sont cloisonnées au sein de la plateforme d’une part, les échanges entre les serveurs applicatifs et de base de données sont chiffrés au moyen du protocole IPSEC d’autre part. Les échanges sur internet sont quant à eux sécurisés au moyen du protocole HTTPS. 
+ 
+Une politique d’habilitation et d’authentification rigoureuse est mise en œuvre. 
+ 
+Les accès en qualité d’administrateur aux serveurs de production sont filtrés au moyen de serveurs bastion. Leur traçabilité est adossée à l’authentification par carte de personnel autorisé. 
+ 
+L’architecture technique n’appelle pas d’observations. 
+ 
+ 
+ 
+Les utilisateurs sont authentifiés par un identifiant et un mot de passe respectant la recommandation de la CNIL en la matière. Leur traçabilité est assurée au niveau de l’application. 
+ 
+S’agissant des mesures techniques destinées à limiter les risques de ré-identification par les chercheurs des données médicales : l’utilisation d’un identifiant pivot, ID_portail, permet le cas échant de rapprocher l’identité du patient de ses données médicales. Les équipes de recherche pour lesquelles une extraction des données sera réalisée ne disposeront que de l’identifiant et non des données nominatives. 
+ 
+Sur la durée de conservation des données 
+La durée de conservation du registre est de trente ans. Cette durée correspond à celle prévue pour la conservation des comptes rendus d’analyses des caractéristiques génétiques de biologie médicale ainsi que de leur commentaire explicatif par les laboratoires d’analyses de biologie médicale, conformément à l’article R. 1131-20 du code de santé publique. 
+ 
+La Commission estime que cette durée de conservation est pertinente au regard de la finalité poursuivie par le traitement. 
+ 
+ 
+ 
+Autorise, conformément à la présente délibération, l’Association Française contre les Myopathies (AFM-Téléthon) à mettre en œuvre le traitement susmentionné. 
+ 
+Pour la Présidente Le Vice-Président délégué 
+ 
+Marie-France MAZARS 
+ 
+ 
+ 
+ 
+Nature de la délibération: Autorisation
+ 
+ 
+
+
