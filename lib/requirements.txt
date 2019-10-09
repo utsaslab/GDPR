@@ -11,3 +11,4 @@ pytesseract===0.3.0
 anytree===2.6.0
 dateparser===0.7.2
 striprtf===0.0.5
+textract===1.6.3
