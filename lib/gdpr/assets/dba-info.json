@@ -354,5 +354,31 @@
         "render_type": "FULLY_RENDERED"
       }
     ]
+  },
+  "HU": {
+    "country": "Hungary",
+    "name": "Hungarian National Authority for Data Protection and Freedom of Information",
+    "address": "Szilágyi Erzsébet fasor 22/C\nH-1125 Budapest",
+    "phone": "1 3911 400",
+    "country_code": "+36",
+    "website": "http://www.naih.hu/",
+    "email": "peterfalvi.attila@naih.hu",
+    "member": {
+      "name": "Dr Attila PÉTERFALVI",
+      "title": "President of the National Authority for Data Protection and Freedom of Information"
+    },
+    "sources": [
+      {
+        "host": "https://www.naih.hu",
+        "start_path": "/az-adatvedelmi-reformmal-kapcsolatos-allasfoglalasok.html",
+        "target_element": {
+          "results": "table.imB0",
+          "pagination": null,
+          "document": "td.imW90.imVc",
+          "date": "td.imW120.imVc"
+        },
+        "render_type": "FULLY_RENDERED"
+      }
+    ]
   }
 }

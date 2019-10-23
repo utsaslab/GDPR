@@ -24,9 +24,9 @@ from ...policies import gdpr_policy
 
 import textract
 
-class Greece(DPA):
+class Hungary(DPA):
     def __init__(self):
-        iso_code='GR'
+        iso_code='HU'
         super().__init__(iso_code)
 
     def bulk_collect(self, path):
@@ -40,42 +40,45 @@ class Greece(DPA):
         target_element = source['target_element']
         render_type = source['render_type']
 
-        # find the 2nd nested tbody.
-
         folder_name = self.country.replace(' ', '-').lower()
         root_path = path + '/' + folder_name
 
         page_url = host + start_path
+
         results_response = requests.request('GET', page_url)
         results_html = results_response.content
         results_soup = BeautifulSoup(results_html, 'html.parser')
 
-        tables = results_soup.find_all('table')
-        results_table_index = 7
-        results_table = tables[results_table_index]
+        result_target_element = target_element['results']
+        element = result_target_element.split('.')[0]
+        class_ = result_target_element.split('.')[1]
 
-        paragraphs = results_table.find_all('p')
-        for i in range(0, len(paragraphs)-1, 2):
-            p = paragraphs[i]
-            p_next = paragraphs[i+1]
+        table = results_soup.find(element, class_=class_)
+        rows = table.find_all('tr')
+        for i in range(1, len(rows)): # skip the first and last row
+            row = rows[i]
+            date_cell = row.find(target_element['date'].split('.')[0], class_=target_element['date'].split('.')[1])
+            date_str = date_cell.get_text().strip()
 
-            if ("Press Release" in p.get_text()) == False:
+            if len(date_str) == 0 or date_str is None:
                 continue
 
-            date_str = p.get_text().split(' - ')[0].strip()
-            tmp = dateparser.parse(date_str)
+            # eg: 2019.01.28
+            tmp = datetime.datetime.strptime(date_str, '%Y.%m.%d')
             date = datetime.date(tmp.year, tmp.month, tmp.day)
 
             if gdpr_retention_specification.is_satisfied_by(date) is False:
                 continue # try another result_link
 
-            document_folder = p.get_text()
+            title = row.find('td', 'imW402')
+            document_folder = title.get_text().strip()
             document_folder_md5 = hashlib.md5(document_folder.encode()).hexdigest()
+            print('Collecting doc with hash:\t', document_folder_md5)
 
-            language_code = 'en'
+            language_code = 'hu'
 
-            document_link = links_from_soup_service(p_next)[0]
-            document_url = document_link[1]
+            document_link = links_from_soup_service(row.find('td', 'imW90'))[0]
+            document_url = host + '/' + document_link[1]
             document_response = requests.request('GET', document_url)
             document_content = document_response.content
 
@@ -85,12 +88,12 @@ class Greece(DPA):
             except FileExistsError:
                 print('Directory path already exists, continue.')
 
-            document_word_path = dirpath + '/' + language_code + '.doc'
+            document_pdf_path = dirpath + '/' + language_code + '.pdf'
 
-            with open(document_word_path, 'wb') as f:
+            with open(document_pdf_path, 'wb') as f:
                 f.write(document_content)
 
-            document_text = textract.process(document_word_path)
+            document_text = textract.process(document_pdf_path)
             with open(dirpath + '/' + language_code + '.txt', 'wb') as f:
                 f.write(document_text)
 
