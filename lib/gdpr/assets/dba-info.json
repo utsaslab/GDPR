@@ -380,5 +380,31 @@
         "render_type": "FULLY_RENDERED"
       }
     ]
+  },
+  "IE": {
+    "country": "Ireland",
+    "name": "Data Protection Commission",
+    "address": "21 Fitzwilliam Square\nDublin 2\nD02 RD28\nIreland",
+    "phone": "76 110 4800",
+    "country_code": "+353",
+    "email": "info@dataprotection.ie",
+    "website": "http://www.dataprotection.ie/",
+    "member": {
+      "name": "Ms Helen DIXON",
+      "title": "Data Protection Commissioner"
+    },
+    "sources": [
+      {
+        "host": "https://www.dataprotection.ie",
+        "start_path": "/en/news-media/press-releases",
+        "target_element": {
+          "results": "div.item-list",
+          "pagination": null,
+          "document": "div.content",
+          "date": "p.date"
+        },
+        "render_type": "FULLY_RENDERED"
+      }
+    ]
   }
 }
