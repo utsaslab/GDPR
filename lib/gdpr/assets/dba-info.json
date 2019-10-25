@@ -406,5 +406,30 @@
         "render_type": "FULLY_RENDERED"
       }
     ]
+  },
+  "IT": {
+    "country": "Italy",
+    "name": "Garante per la protezione dei dati personali",
+    "address": "Piazza di Monte Citorio, 121\n00186 Roma",
+    "phone": "06 69677 1",
+    "country_code": "+39",
+    "email": "garante@garanteprivacy.it",
+    "website": "http://www.garanteprivacy.it/",
+    "member": {
+      "name": "Mr Antonello SORO",
+      "title": "President of Garante per la protezione dei dati personali"
+    },
+    "sources": [
+      {
+        "host": "https://www.garanteprivacy.it",
+        "start_path": "/web/guest/home/stampa-comunicazione/interviste",
+        "target_element": {
+          "results": "div.journal-content-article",
+          "pagination": "div.journal-content-article",
+          "document": "div#content-area",
+          "date": null
+        }
+      }
+    ]
   }
 }
