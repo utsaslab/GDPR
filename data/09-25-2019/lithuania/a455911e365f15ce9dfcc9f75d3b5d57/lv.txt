@@ -1,11 +1,1 @@
-
-
-
-
-Data
-2019 06 28
-
-
-Įvertinimas
-
-2
+Valstybinė duomenų apsaugos inspekcija (VDAI), išanalizavusi per pastaruosius metus gautus pranešimus apie asmens duomenų saugumo pažeidimus, išskyrė dažniausią tokių pažeidimų priežastį – žmogiškąją klaidą. Nuo 2018 m. gegužės mėn. pradėjus taikyti Bendrąjį duomenų apsaugos reglamentą (BDAR) VDAI išnagrinėjo 141 pranešimą apie asmens duomenų saugumo pažeidimą, 54 iš jų išnagrinėti nuo 2019 m. pradžios. Paveiktų fizinių asmenų skaičius sudarė daugiau nei 163 tūkstančius, o žmogiškoji klaida lėmė daugiau nei kas antrą asmens duomenų saugumo pažeidimą (71 iš 141). Dažniausia pažeidimo aplinkybė – neautorizuota prieiga prie duomenų ar jų atskleidimas (103 atvejai).VDAI atkreipia dėmesį, kad efektyviausia priemonė minimizuoti žmogiškąsias klaidas yra darbuotojų mokymai. Mokymai apie duomenų apsaugą ir saugumo procedūras (pvz., slaptažodžių naudojimą ir prieigą prie konkrečių IT sistemų) yra svarbūs tinkamam organizacinių ir techninių saugumo priemonių įgyvendinimui ir prevencijai dėl netyčinio duomenų sunaikinimo, praradimo, pakeitimo, atskleidimo be leidimo ar neteisėtos prieigos prie jų (BDAR 32 straipsnio 2 dalis). Žinios apie asmens duomenų tvarkymui keliamus reikalavimus bei atsakomybes yra ypač svarbios tiems asmenims, kurie atlieka didelės rizikos asmens duomenų tvarkymo operacijas.Papildoma informacija dėl pranešimų apie asmens duomenų saugumo pažeidimus:    Viso išnagrinėtų pranešimų nuo 2018 m. gegužės mėn.   141     Aplinkybės (pažeidimo tipas):     Konfidencialumo praradimas (neautorizuota prieiga ar atskleidimas)   103     Vientisumo praradimas (neautorizuotas asmens duomenų pakeitimas)   22     Prieinamumo praradimas (asmens duomenų praradimas, sunaikinimas)   16     Duomenų valdytojo rūšis:     Elektroninių ryšių (ER) paslaugų ar tinklų teikėjas   9     Viešieji juridiniai asmenys (išskyrus ER paslaugų ar tinklų teikėjus)   42     Privatūs juridiniai asmenys (išskyrus ER paslaugų ar tinklų teikėjus)   89     Fiziniai asmenys   1     Kibernetiniai incidentai   27 (19 % nuo visų) (2018 m. 13 iš 87; 2019 m. 14 iš 54)     Žmogiškoji klaida   71 (50 % nuo visų)     Iš viso paveiktų abonentų arba fizinių asmenų skaičius    163 050                                   

@@ -1,11 +1,1 @@
-
-
-
-
-Data
-2019 06 11
-
-
-Įvertinimas
-
-5
+Valstybinė duomenų apsaugos inspekcija, reaguodama į viešoje erdvėje paskelbtą informaciją, savo iniciatyva pradėjo tyrimą dėl įmonės „D-Link“ galimai netinkamo asmens duomenų tvarkymo.Kaip skelbiama viešai pasirodžiusioje informacijoje, ši įmonė Lietuvos vartotojams teikia komunikacinę įrangą, kuri yra reikalinga norint prisijungti prie interneto. Nuogąstaujama, kad per įmonės teikiamus produktus Lietuvos gyventojų slaptažodžiai, naršymo istorija ar kita informacija gali patekti į trečiųjų valstybių serverius ir būti analizuojama. Tokia asmens duomenų analizė bei kiti stebėsenos rezultatai sudaro galimybę dideliu tikslumu apibendrinti vartotojo elgseną elektroninėje erdvėje ir tam tikrais atvejais nustatyti asmenį.Valstybinei duomenų apsaugos inspekcijai, kaip asmens duomenų apsaugos priežiūros institucijai, kyla abejonių dėl įmonės „D-Link“ atliekamo asmens duomenų tvarkymo atitikties Bendrajam duomenų apsaugos reglamentui. Ypač dėl jame įvirtinto skaidrumo principo įgyvendinimo. Bendrasis duomenų apsaugos reglamentas šiai įmonei taikomas atsižvelgiant į tai, kad ji, veikdama tarptautiniu mastu, taip pat ir Europos Sąjungos gyventojams siūlo prekes bei paslaugas.Atliekant tyrimą svarbu nustatyti, kurioje valstybėje yra įsikūrusi pagrindinė įmonės buveinė. Pastaroji būtų atsakinga už sprendimus dėl asmens duomenų apsaugos. Primename, kad įmonės iš trečiųjų valstybių, norinčios veikti Europos Sąjungoje, turi būti paskyrusios atstovą nors vienoje Europos Sąjungos valstybėje narėje. Net ir tuo atveju, jeigu Valstybinė duomenų apsaugos inspekcija nustatys, kad pagrindinė „D-Link“ buveinė yra ne Lietuvoje, inspekcija ir toliau aktyviai bendradarbiaus su vadovaujančia priežiūros institucija, kad galėtų kuo labiau prisidėti apsaugant Lietuvos piliečių asmens duomenis

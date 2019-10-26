@@ -1,11 +1,1 @@
-
-
-
-
-Data
-2019 03 25
-
-
-Įvertinimas
-
-2
+Valstybinė duomenų apsaugos inspekcija pradėjo tikrinimą, ar teisėtai naudojami biometriniai duomenys. Sprendžiamas klausimas, ar visais atvejais tokie duomenys gali būti tvrakomi, nes tai unikalūs asmens duomenys, kurių netinkamas tvarkymas gali kelti grėsmę asmens duomenų ir privatumo apsaugai. Planuojama, kad balandžio mėnesį bus paskelbtos išvados dėl biometrinių duomenų tvarkymo teisėtumo sporto klubuose. Jos bus naudingos ne tik šiam sektoriui, tačiau ir kitoms panašiu tikslu biometrinius duomenis tvarkančioms ar ketinančioms tvarkyti įmonėms. Bendrajame duomenų apsaugos reglamente biometrinių duomenų tvarkymo reglamentavimui skiriamas ypatingas dėmesys. Jie priskiriami prie specialių kategorijų asmens duomenų, kurių tvarkymui keliami griežtesni reikalavimai.Biometriniai duomenys – po specialaus techninio apdorojimo gauti asmens duomenys, susiję su žmogaus fizinėmis, fiziologinėmis arba elgesio savybėmis, leidžiančiomis nustatyti arba patvirtinti to asmens tapatybę. Tai – plaštakos geometrija, akies rainelė, akies tinklainė, veidas, kvapas, DNR bei tokios elgesio charakteristikos savybės, kaip klavišų paspaudimas, rašysena, balsas. Bene populiariausi biometriniai duomenys – pirštų atspaudai, tačiau vis labiau įsigali ir kitų biometrinių duomenų tvarkymas.„Biometrinių duomenų tvarkymas yra išskirtinis, nes tai unikalūs asmens duomenys, todėl, atsižvelgiant į galimas rizikas asmens privatumui ir duomenų apsaugai, kiekvienu konkrečiu atveju turi būti sprendžiama, ar tokių duomenų naudojimas yra pateisinamas. Kol kas nėra vienareikšmiškų atsakymų leisti ar drausti tvarkyti biometrinius duomenis atskirais atvejais, taip pat Europos Sąjungos šalys šiuo klausimu neturi vienodos praktikos, todėl keičiamės informacija ir ieškome tinkamiausių sprendimų“, – teigia Valstybinės duomenų apsaugos inspekcijos direktorius Raimondas Andrijauskas. Biometrinių duomenų analizė padeda gana tiksliai nustatyti tapatybę, nes kiekvienas asmuo turi savo unikalius identifikavimo požymius, o pati technologija lengvai pritaikoma praktikoje. Biometrinius jutiklius turi ir daugelis šiuolaikinių išmaniųjų įrenginių, pavyzdžiui, telefonai, planšetiniai, nešiojamieji kompiuteriai ir kiti.Taigi, Valstybinė duomenų apsaugos inspekcija, atlikdama patikrinimus, vertins, ar išlaikoma pusiausvyra tarp poreikio tvarkyti asmens duomenis ir asmenų teisės į asmens duomenų apsaugą ir savo poziciją pateiks įmonių sprendimuose.

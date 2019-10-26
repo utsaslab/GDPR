@@ -94,26 +94,18 @@ class Lithuania(DPA):
                 document_folder = title
                 document_folder_md5 = hashlib.md5(document_folder.encode()).hexdigest()
 
+                description_html = row['description']
+                document_html = BeautifulSoup(description_html, 'html.parser')
+
+                dirpath = root_path + '/' + document_folder_md5
                 try:
-                    document_response = requests.request('GET', document_url)
-                    document_content = document_response.content
-                    document_html = BeautifulSoup(document_content, 'html.parser')
+                    os.makedirs(dirpath)
+                except FileExistsError:
+                    print('Directory path already exists, continue.')
 
-                    dirpath = root_path + '/' + document_folder_md5
-                    try:
-                        os.makedirs(dirpath)
-                    except FileExistsError:
-                        print('Directory path already exists, continue.')
+                document_text = document_html.get_text()
 
-                    split_document_target_element = target_element['document'].split('.')
-                    document_target_area = document_html.find(split_document_target_element[0], class_=split_document_target_element[1])
-
-                    if document_target_area is not None:
-                        document_text = document_target_area.get_text()
-
-                        with open(dirpath + '/' + language_code + '.txt', 'w') as f:
-                            f.write(document_text)
-                except:
-                    print('something went wrong trying to get document')
+                with open(dirpath + '/' + language_code + '.txt', 'w') as f:
+                    f.write(document_text)
 
         return True

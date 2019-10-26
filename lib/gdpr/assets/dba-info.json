@@ -478,7 +478,7 @@
         "target_element": {
           "results": null,
           "pagination": null,
-          "document": "div.text",
+          "document": "div.content",
           "date": null
         },
         "render_type": "FULLY_RENDERED"
