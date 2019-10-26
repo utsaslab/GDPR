@@ -428,7 +428,8 @@
           "pagination": "div.journal-content-article",
           "document": "div#content-area",
           "date": null
-        }
+        },
+        "render_type": "FULLY_RENDERED"
       }
     ]
   },
@@ -453,7 +454,34 @@
           "pagination": "div#pagination",
           "document": "div.entry",
           "date": "div.meta"
-        }
+        },
+        "render_type": "FULLY_RENDERED"
+      }
+    ]
+  },
+  "LT": {
+    "country": "Lithuania",
+    "name": "State Data Protection Inspectorate",
+    "address": "A. Juozapaviciaus str. 6\nLT-09310 Vilnius",
+    "phone": "5 279 14 45",
+    "country_code": "+370",
+    "email": "ada@ada.lt",
+    "website": "https://vdai.lrv.lt",
+    "member": {
+      "name": "Mr Raimondas Andrijauskas",
+      "title": "Director of the State Data Protection Inspectorate"
+    },
+    "sources": [
+      {
+        "host": "https://vdai.lrv.lt",
+        "start_path": "/lt/naujienos",
+        "target_element": {
+          "results": null,
+          "pagination": null,
+          "document": "div.text",
+          "date": null
+        },
+        "render_type": "FULLY_RENDERED"
       }
     ]
   }
