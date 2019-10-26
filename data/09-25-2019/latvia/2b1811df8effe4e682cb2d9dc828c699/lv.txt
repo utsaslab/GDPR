@@ -1,0 +1,17 @@
+
+
+Briselē, 10.oktobrī — 8. un 9.oktobrī norisinājās četrpadsmitā plenārsēde Eiropas Datu aizsardzības kolēģijā, kurā tikās EEZ datu aizsardzības iestādes un Eiropas Datu aizsardzības uzraudzītājs. Plenārsēdes laikā tika apspriests plašs tematu loks.
+Vadlīnijas par tiešsaistes pakalpojumu apstrādes likumīgu pamatojumu, apstrādei, kuru pamatā ir līgumi ( VDAR 6. panta (1) b) punkts)
+Eiropas Datu aizsardzības kolēģija (turpmāk – EDAK) pieņēma vadlīniju galīgo redakciju par Vispārīgās datu aizsardzības regulas (turpmāk-VDAR) 6.panta 1. punkta b) apakšpunkta darbības jomu un piemērošanu informācijas sabiedrības pakalpojumu kontekstā. Pēc sabiedriskās apspriešanas tekstā ir iekļauti skaidrojumi. Vadlīnijās tiek sniegti vispārīgi novērojumi par datu aizsardzības principiem un VDAR 6. panta 1. punkta b) apakšpunktā minēto mijiedarbību ar citiem likumīgiem pamatiem. Turklāt vadlīnijās ir ietverti norādījumi par 6. panta 1. punkta b) apakšpunkta piemērojamību, apvienojot atsevišķus pakalpojumus un izbeidzot līgumu.
+VDAR 64. pants Atzinums par Equinix BCR
+EDAK pieņēma atzinumu par lēmuma projektu attiecībā uz Saistīto uzņēmuma noteikumu (BCR), ko kolēģijai iesniedza Apvienotās Karalistes Informācijas komisāra birojs (ICO). EDAK uzskata, ka Equinix saistošie uzņēmuma noteikumi ietver visus elementus kā arī aizsardzības pasākumus saskaņā ar VDAR 47. pantu un WP256 rev01.
+Pasažieru datu reģistrs (PDR)
+EDAK apstiprināja vēstuli, ar ko tiek sniegta atbilde uz EP deputātu Sophie in’t Veld vēstuli par pārskatīto PDR nolīguma projektu ar Kanādu un tā ietekmi uz citiem PDR nolīgumiem. Savā atbildē EDAK norāda, ka nolīguma projekts vēl nav saskaņots ar EDAK, bet tā ir gatava sniegt atzinumu. Vēstulē arī minēta 29. panta darba grupas (WP29) iepriekšējā vēstule, kas nosūtīta Eiropas Komisijai saskaņā ar Eiropas Savienības Tiesas (EST) atzinumu par pirmo PDR nolīguma ar Kanādu projektu.
+Atbilde Padomes darba grupai par sporta Antidopinga vielu (WADA)
+EDAK ir apstiprinājusi atbildi par Padomes darba grupu sporta jomā saistībā ar notiekošo Pasaules Antidopinga kodeksa pārskatīšanas procesu. Savā vēstulē padome piemin divus WP29 atzinumus par iepriekšējām WADA koda versijām. Vēstulē norādīts, ka ir panākts progress attiecībā uz drošības pasākumiem privātuma un datu aizsardzības jomā, ko nodrošina kodeksa jaunā versija un tās standarti, tomēr joprojām pastāv būtiskasbažas.
+Piezīme redaktoriem
+Lūdzam ņemt vērā, ka visos Eiropas Datu aizsardzības kolēģijas plenārsesijā pieņemtajos dokumentos ir veiktas nepieciešamās juridiskās, lingvistiskās un formatēšanas pārbaudes, un tās būs pieejamas EDAK tīmekļa vietnē pēc to pabeigšanas.
+
+
+
+ 

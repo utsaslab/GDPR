@@ -1,0 +1,21 @@
+
+
+Eiropas Datu aizsardzības kolēģijas astotā plenārsēde: Mijiedarbība e-privātuma direktīva un VDAR,
+paziņojums par E-privātuma regulu, NIDA saraksti Spānija & Islande, Paziņojums par vēlēšanām
+Briselē, 13. marts — 12. un 13. martā Eiropas Ekonomikas zonas (EEZ) datu uzraudzības iestādes un Eiropas Datu aizsardzības uzraudzītājs, kas veido Eiropas Datu aizsardzības kolēģiju (EDAK), tikās astotajā plenārsesijā Briselē. Plenārsēžu laikā tika apspriests plašs tematu klāsts.
+Mijiedarbība starp E-privātuma direktīvu un Vispārīgo datu aizsardzības regulu
+Eiropas Datu aizsardzības kolēģija pieņēma atzinumu par mijiedarbību starp E-privātuma direktīvu un Vispārīgo datu aizsardzības regulu. Atzinuma mērķis ir sniegt atbildi uz jautājumu, vai personas datu apstrādes darbības, kurām ir piemērojama gan VDAR , gan E-privatuma direktīva,  ierobežo datu uzraudzības iestāžu pilnvaras un uzdevumus, kurus tām piešķir saskaņā ar  VDAR. Eiropas Datu aizsardzības kolēģija (EDAK) uzskata, ka datu uzraudzības iestādes ir kompetentas īstenot VDAR.Tas vien, ka uz kādu apstrādes aspektu ir attiecināma e-privātuma direktīvas darbības joma, neierobežo datu aizsardzības iestāžu kompetenci saskaņā ar GDPR. VDAR pārkāpums vienlaikus var būt arī nacionālā regulējuma pārkāpums, kurš transponē E-privātuma direktīvu. Līdz ar to, datu uzraudzības iestādes, piemērojot VDAR, var ņemt vērā šo nosacijumu. Tas varētu attiekties uz  gadījumiem, kad tiek izvērtēta apstrādes atbilstība likumības vai taisnīguma principiem.
+Paziņojumā par gaidāmo E-privātuma regulu
+Eiropas Datu aizsardzības kolēģija pieņēma paziņojumu, kurā Eiropas Savienības (ES) likumdevēji tika aicināti kāpināt centienus, lai pieņemtu E-privātuma regulu, kas ir būtiski, lai pabeigtu ES regulējumu attiecībā uz datu aizsardzību un elektronisko sakaru konfidencialitāti.
+Nākotnē E-privātuma regulai nekādā gadījumā nevajadzētu pazemināt aizsardzības līmeni, ko nodrošina pašreizējā E-privātuma direktīva, un vajadzētu papildināt Vispārīgo datu aizsardzības regulu, nodrošinot papildus stingras garantijas visu veidu elektroniskajiem sakariem.
+Datu aizsardzības ietekmes novērtējuma (NIDA) saraksti
+EDAK pieņēma divus atzinumus par Datu aizsardzības ietekmes novērtējuma (NIDA) sarakstiem, kurus EDAK iesniedza Spānija un Islande. Šie saraksti ir svarīgs instruments konsekventai VDAR piemērošanai visā EEZ, un kuru mērķis  ir palīdzēt identificēt un mazināt tādus datu aizsardzības riskus, kas varētu ietekmēt personu tiesības un brīvības. Lai gan kopumā datu pārzinim ir jānovērtē, vai ir nepieciešams NIDA pirms iesaistīšanās apstrādes darbībā, valsts uzraudzības iestādes izveido un sagatavo sarakstu ar apstrādes darbībām, uz kurām attiecas prasība veikt datu aizsardzības ietekmes novērtējumu. Šie divi atzinumi atbilst pārējo 28 dalībvalstu atzinumiem, kurus EDAK ir pieņēmusi  iepriekšējās plenārsēdēs, un kuri turpmāk palīdzēs izstrādāt kopīgus kritērijus attiecībā uz NIDA sarakstiem visā EEZ.
+Paziņojums par personas datu izmantošanu politisko kampaņu laikā
+Ņemot vērā gaidāmās Eiropas Parlamenta vēlēšanas, kā arī citas vēlēšanas visā Eiropas Savienībā un ārpus tās 2019. gadā, EDAK ir pieņēmusi paziņojumu par personas datu izmantošanu vēlēšanu kampaņu laikā. Datu apstrādes metodes politiskos nolūkos var radīt nopietnus riskus ne tikai attiecībā uz tiesībām uz privātumu un datu aizsardzību, bet arī uz demokrātiskā procesa integritāti. Pārskatā EDAK ir likusi akcentus uz vairākiem svarīgiem aspektiem, kas jāņem vērā politiskajām partijām, apstrādājot peronas datus vēlēšanu kontekstā.
+Piezīme redaktoriem
+Lūdzam ņemt vērā, ka visiem Eiropas Datu aizsardzības kolēģijas plenārsēdē pieņemtajiem dokumentiem tiek veiktas nepieciešamās juridiskās, lingvistiskās un formatēšanas pārbaudes un tie būs pieejami EDAK tīmekļa vietnē pēc minēto pārbaužu pabeigšanas.
+Oriģinālavots: https://edpb.europa.eu/news/news/2019/european-data-protection-board-eighth-plenary-session-interplay-eprivacy-directive_en 
+ 
+
+
+ 

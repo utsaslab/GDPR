@@ -1,0 +1,27 @@
+
+
+
+Dalība vēlēšanās ir būtiskas visu pilsoņu tiesības, vienlaikus fizisko personu datu drošība un aizsardzība ir tiesības, ko ikvienam Eiropas Savienības (ES) un arī Latvijas pilsonim garantē Vispārējā datu aizsardzības regula (VDAR). Jāuzsver, ka personas datu aizsardzība pieder pie pamattiesībām, kas ierakstītas ES pamatdokumentos, norāda fizisko personu datu drošību un aizsardzību Latvijā uzraugošā neatkarīgā iestāde Datu valsts inspekcija (DVI).
+Svarīgi, lai ikvienam pilsonim ir iespējas gan piedalīties vēlēšanās, gan arī tas, lai personas dati tiktu atbilstoši aizsargāti, lai datu apstrādes process ir likumīgs, godprātīgs un pārredzams. DVI seko līdzi situācijai un atbilstoši savai kompetencei ir gatava rīkoties, kā arī ir atvērta sadarbībai ar citām iesaistītajām atbildīgajām institūcijām un sabiedrību.
+Šī gada Eiropas Parlamenta (EP) vēlēšanās VDAR un tajā noteiktie nosacījumi gan Latvijā, gan visās ES valstīs tiek piemēroti pirmo reizi. Tādēļ ir svarīgi nodrošināt skaidrību un vienotu izpratni visiem vēlēšanu procesā iesaistītajiem – valstu vēlēšanu iestādēm, datu starpniekiem un analītiķiem, tiešsaistes reklāmas tīkliem, sabiedrības informēšanā iesaistītajiem, vēlētājiem, politiskajām partijām.
+Tādēļ, jau gatavojoties EP vēlēšanām DVI veica aktīvu informēšanas darbu. Piemēram, piedalījās Korupcijas novēršanas un apkarošanas biroja organizētajos semināros par aktualitātēm politiskajām partijām un reklāmas pakalpojumu sniedzējiem; sagatavoja un visām Latvijas partijām nosūtīja informācija “Par personas datu apstrādi vēlēšanu kontekstā”, tai skaitā izstrādāja un izplatīja novērtējuma kontroljautājumu apkopojumu par ietekmi uz datu aizsardzības veikšanu. Tāpat DVI par tiesībām personas datu apstrādes/aizsardzības kontekstā informēja vēlētājus, skaidrojot, kādos gadījumos tiesību aizsardzības nolūkā nepieciešams informēt DVI.
+Neilgi pirms EP vēlēšanām DVI ir atsaukusies ikvienas institūcijas lūgumam, kas vērsusies pie DVI pēc konsultācijas vai ieteikumiem. Piemēram, sniegti ieteikumi Centrālajai vēlēšanu komisijai, lai varētu novērtēt ietekmi uz datu aizsardzību., Neraugoties uz ierobežotajiem resursiem un saspringtajiem termiņiem, DVI dažu stundu laikā sniedza atbildi Pilsonības un migrācijas lietu pārvaldei, kas lūdza skaidrot plānotās personas datu apstrādes atbilstību datu aizsardzības principiem (īsziņu sūtīšanu visiem Latvijas iedzīvotājiem, sniedzot informāciju par pieejamajiem resursiem vēlēšanu iecirkņa noskaidrošanai).
+DVI aicina vēlētājus atbildīgi izturēties pret saviem datiem
+DVI mājas lapā ir atrodama vēlētājiem svarīga un noderīga informācija saistībā ar EP vēlēšanām:
+-          par personas datu apstrādi pirms EP vēlēšanām: https://www.dvi.gov.lv/lv/zinas/informacija-veletajiem-par-personas-datu-apstradi-eiropas-parlamenta-prieksvelesanu-laika/;
+-          par atbildīgajām iestādēm un vēlētāju rīcību iespējamo pārkāpumu gadījumos: https://www.dvi.gov.lv/lv/zinas/eiropasvelesanas2019/.  
+ Skaidrojums par DVI darbību reglamentējošākajiem normatīvajiem aktiem EP vēlēšanu kontekstā
+DVI savā darbībā, gan informējot vēlētājus, gan sniedzot atbildes citām institūcijām ievēro normatīvajos aktos noteikto, tai skaitā gan Fizisko personu datu apstrādes likuma 3.panta trešajā daļā noteikto, ka DVI savā darbībā ir neatkarīga, gan Valsts pārvaldes iekārtas likuma 10.pantā noteiktos valsts pārvaldes principus, kas tai skaitā nosaka, ka  “Valsts pārvalde ir pakļauta likumam un tiesībām. Tā darbojas normatīvajos aktos noteiktās kompetences ietvaros.
+Valsts pārvalde savas pilnvaras var izmantot tikai atbilstoši pilnvarojuma jēgai un mērķim.” DVI ņem vērā arī Eiropas Komisijas izstrādātās vadlīnijas par ES datu aizsardzības regulējuma piemērošanu vēlēšanu kontekstā: http://ec.europa.eu/transparency/regdoc/rep/1/2018/LV/COM-2018-638-F1-LV-MAIN-PART-1.PDF.
+ DVI ievēro to, ka, ja kādas darbības īstenošana nav izrietoša no likuma un tiesībām, tad šāda darbība nebūtu atbilstoša Valsts pārvaldes iekārtas likumā noteiktajam. Valsts pārvaldei atbilstoši Vispārīgajai datu aizsardzības regulai nav likumīgo interešu, tās darbību stingri nosaka normatīvajos aktos noteiktu pienākumu veikšana. Piemēram, Vēlētāju reģistra likuma 13.pantā noteiktā pienākuma pildīšana (VDAR 6.panta 1.punkta c)apakšpunkts), vai arī darbojoties sabiedrības interesēs vai īstenojot datu pārzinim likumīgi piešķirtās oficiālās pilnvaras (VDAR 6.panta 1.punkta e)apakšpunkts).
+ DVI ievēro arī to, ka šo tiesisko pamatu interpretācija norādīta, tai skaitā VDAR 41. un 45 apsvērumā. Tajā noteikts, ka uzdevumam, kura sasniegšanai datu apstrāde veikta, jābūt noteiktam normatīvajos aktos. DVI ievēro to, ka Vēlētāju reģistra likuma 13.pantā ir noteikta precīza kārtība vēlētāju informēšanai.
+ Īsumā par Datu valsts inspekciju
+DVI aizsargā visu Latvijas iedzīvotāju tiesības, uzraugot vairāk nekā 190 000 Latvijā reģistrētās komercsabiedrības, vairāk nekā 4 000 ārstniecības iestādes, pašvaldības un valsts pārvaldes iestādes, izglītības iestādes, bibliotēkas un pašvaldības un vēl daudzus citus. DVI rūpējas, lai iesaistītie partneri saņem profesionālu ekspertīzi un konsultācijas. Inspekcija uzrauga datu aizsardzības procesu ieviešanu un īstenošanu, lai visi datu aizsardzības, uzraudzības procesi tiktu īstenoti atbilstoši Latvijas un ES regulējumam.
+ 
+Kontaktiem:
+Datu valsts inspekcija
+Tālrunis: 67686031
+E-pasts: info@dvi.gov.lv
+
+
+ 

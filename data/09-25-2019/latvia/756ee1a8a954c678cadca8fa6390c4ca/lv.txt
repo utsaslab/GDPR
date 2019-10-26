@@ -1,0 +1,19 @@
+
+
+Ikdiena nav iedomājama bez tādām ierīcēm kā personālie datori, planšetdatori, viedtālruņi, viedie TV, tomēr, ņemot vērā straujo tehnoloģiju attīstību, lietu internets (jeb lietiskais internets, saīsinājums angļ.val. – IoT)[1] straujiem soļiem ienāk tehnoloģiju laikmetā (Darba dokumentā “Lietu interneta vadības sistēmu programmatūras atjauninājumi” tiek minēts, ka līdz 2020.gadam tie varētu būt no 26 līdz pat 50 miljardu ierīču).
+IoT apzīmē ierīču savienošanu ar tīklu (pieslēgšanu internetam), sākot ar durvju zvaniem un spuldzēm līdz rotaļlietām un termostatiem[2].
+Starptautiskā darba grupas datu aizsardzības un telekomunikācijas jautājumos 2017.gada 28. novembra (27. un 28.novembra darba grupas sanāksme) darba dokumentā “Lietu interneta vadības sistēmu programmatūras atjauninājumi” apskatīti riski, kas saistīti ar nespēju atjaunināt aparātprogrammatūru, kas nodrošina IoT ierīces darbību. Tāpat dokumentā apskatīti daži veiksmīgas atjaunināšanas aspekti (piemēram, jaunu iespēju ieviešana, kas personai nav zināmas). Šie riski ietver neatļautu ierīces iegūtu personas datu apkopošanas, mainīšanas vai atklāšanas risku, kā arī ierīces ievainojamību izmantošanu, izmantojot ierīci kā rīku, lai apdraudētu citu sistēmu integritāti, apstrādājot vai aizsargājot personas datus. [3]
+ 
+Dokuments latviešu valodā pieejams - https://www.dvi.gov.lv/lv/wp-content/uploads/Lietu-interneta-vad%C4%ABbas-sist%C4%93mu-programmat%C5%ABras-atjaunin%C4%81jumi1.pdf [4] (Lietu interneta vadības sistēmu programmatūras atjauninājumi) (www.dvi.gov.lv Datu aizsardzība àsadaļa “Starptautiskā sadarbība” apakšsadaļa “Publikācijas”).
+Dokuments oriģinālvalodā pieejams - https://www.dvi.gov.lv/lv/wp-content/uploads/Working-Paper-%E2%80%9CUpdating-firmware-of-embedded-systems-in-the-Internet-of-Things%E2%80%9D.pdf (Working Paper “Updating firmware of embedded systems in the Internet of Things”) (www.dvi.gov.lv Datu aizsardzība àsadaļa “Starptautiskā sadarbība” apakšsadaļa “Publikācijas”).
+
+[1] Latvijas Zinātņu akadēmijas Akadēmiskā terminu datu bāze Pieejams: http://termini.lza.lv/term.php?term=lietu%20internets&list=lietu%20internets&lang=LV
+[2] Cert.lv 2016.gada 15.oktobra raksts “Lietiskais internets (IoT)” Pieejams:  https://cert.lv/lv/2016/05/lietiskais-internets-iot
+[3] Starptautiskā darba grupas datu aizsardzības un telekomunikācijas jautājumos 2017.gada 28. novembra darba dokuments “Lietu interneta vadības sistēmu programmatūras atjauninājumi” Pieejams: https://www.dvi.gov.lv/lv/wp-content/uploads/Lietu-interneta-vad%C4%ABbas-sist%C4%93mu-programmat%C5%ABras-atjaunin%C4%81jumi1.pdf 2.lpp
+[4] Pieejamās vadlīnijas ir iestādes neoficiālais tulkojums.
+
+
+
+
+
+ 

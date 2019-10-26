@@ -1,0 +1,30 @@
+
+
+
+2019.gada 27.maijs
+ Aprit gads kopš Vispārīgās datu aizsardzības regulas ieviešanas
+Pirmais gads, kopš Latvijā ieviesta Vispārīgā datu aizsardzības regula (VDAR), aizvadīts salīdzinoši mierīgi, bez būtiskiem satricinājumiem personas datu aizsardzības jomā. Tas izdevies, pateicoties sadarbībai ar partneriem un Datu valsts inspekcijas (DVI) darbam, nodrošinot konsultācijas un informāciju gan iedzīvotājiem, gan organizācijām, norāda DVI direktore Daiga Avdejanova.
+Vienlaikus viņa piebilst, ka īpaši svarīgi ir turpināt uzsāktos darbus, lai veicinātu visu iesaistīto vienotu izpratni par fizisko personu datu drošību, apstrādi, izmantošanu un nepieļautu atšķirīgu interpretāciju par VDAR normām. Datu aizsardzība un drošība ir arī sabiedrības un valsts drošības, tiesiskuma un reputācijas priekšnosacījums gan Latvijā, gan kopumā Eiropas Savienībā (ES).
+Tieslietu ministrijas valsts sekretārs Raivis Kronbergs uzsver: “Gadu pēc VDAR piemērošanas iespējams izdarīt pirmos secinājumus un novērtēt kopējo ainu datu aizsardzības jomā Latvijā. Ir patīkami apzināties, ka ne tikai iestāžu un uzņēmēju vidū ir jūtama lielāka izpratne par datu aizsardzības jautājumiem, bet arī sabiedrība apzinās datu aizsardzības nozīmi un novērtē, ka viņu dati ir drošībā. Tomēr vēlos uzsvērt, ka tehnoloģiju attīstība notiek nemitīgi, tāpēc datu aizsardzība vienmēr būs process, nevis padarīts darbs, par kuru varēsim aizmirst.”
+Sestdien, 2019.gada 25.maijā apritēja gads, kopš ES un arī Latvijā tika uzsākta VDAR tiešā piemērošana. DVI pieredze par pirmo VDAR gadu Latvijā ļauj secināt, ka kopumā ir izpratne par datu drošību. Organizācijas aizvien vairāk izprot datu drošības nozīmi, jo savlaicīga procesu sakārtošana ir ieguldījums sekmīgā ilgtermiņa darbībā.
+Piemēram, SKDS 2019.gada sākumā veiktā aptauja apliecina, ka vairāk nekā pusei – 65,6% organizāciju vadītājiem ir izpratne, ka uz viņiem attiecas VDAR; taču jāņem vērā arī tas, ka 25,6% uzskata, ka VDAR uz viņiem neattiecas un salīdzinoši lielai daļai aptaujāto – 8,8%, ir grūti pateikt par izprati saistībā ar regulu.
+“Esot atbildīgai par VDAR Latvijā, DVI savā darbībā ievēro principu “Konsultē vispirms”, proti, – primāri konsultē klientus un sniedz tiem atbalstu. DVI uzskata, ka ir svarīgi būt uzticamam klientu palīgam un partnerim, īstenojot VDAR noteiktās prasības attiecībā uz tiesisku personas datu apstrādi un aizsardzību, un veidojot tādu vidi, lai cilvēks spēj kontrolēt savu datu apstrādi un efektīvi īstenot savas tiesības,” stāsta D.Avdejanova.
+Pirmajā VDAR darbības gadā principu “Konsultē vispirms” DVI izmantoja 107 pārkāpumu gadījumos, aicinot datu pārziņus novērst nepilnības personas datu apstrādē un aizsardzībā, nevis piemēroja sodus. Sankcijas tika piemērotas tikai 31 nozīmīgu pārkāpumu gadījumos no 333 konstatētajiem.
+Salīdzinājumam – citās ES valstīs personas datu uzraudzības iestādes jau piemērojušas lielus sodus par neatbilstošu personu datu apstrādi. Viens no jaunākajiem gadījumiem: maija vidū Lietuvas uzraugošā institūcija par personas datu drošības pārkāpumiem piemēroja administratīvo sodu EUR 61 500 apmērā kādai no elektronisko maksājumu iestādēm.
+DVI direktore uzsver, ka ir ļoti būtiski turpināt uzsākto, lai nepieļautu sarežģījumus, atšķirīgu interpretāciju un datu aizsardzības pārkāpumus, jo personas dati ir viena no nozīmīgākajām 21.gadsimta vērtībām. Svarīgākie izaicinājumi otrajam VDAR gadam ir vienotas izpratnes veidošana par VDAR normām; personas datu drošība digitālajā vidē; sabiedrības, īpaši jauniešu, kā arī mazo un vidējo uzņēmumu informēšana; DVI kapacitātes stiprināšana atbilstoši Latvijas un ES regulējumam. Latvijai ir nepieciešama spēcīga datu aizsardzības sistēma un atbildīgā institūcija, lai cilvēku dati būtu drošībā un nepieļautu sankcijas pret valsti.
+VDAR kontekstā DVI savā darbībā ir neatkarīga institūcija. Tā pārstāv Latviju un aktīvi darbojas Eiropas Datu aizsardzības kolēģijā (European Data Protection Board) – neatkarīga ES struktūra, kas nodrošina VDAR konsekventu piemērošanu Eiropā.
+Kopš VDAR spēkā stāšanās ir nozīmīgi palielinājusies DVI atbildība gan nacionālajā, gan ES līmenī, tāpat pieaudzis arī inspekcijas darba apjoms. DVI klientiem samazina administratīvo slogu, piemēram, inspekcijā vairs nav jāveic personas datu apstrādes reģistrācija, notiek darbs pie datu aizsardzības speciālista eksāmena rīkošanas kārtības. Neraugoties uz ierobežotajiem resursiem, DVI cenšas sabalansēt savu kapacitāti ar nacionālajā un starptautiskajā regulējumā noteiktajām prasībām.
+VDAR mērķis ir veicināt fizisko personu un viņu datu aizsardzību, uzlabot datu aizsardzības un pārvaldības vidi organizācijās, veicināt uzņēmējdarbības un valsts pārvaldes vides sakārtošanu ilgtermiņā. VDAR visiem Eiropas iedzīvotājiem nodrošina vienādas iespējas un tiesības aizsargāt savu datu drošību. Piemēram, par iespējamiem pārkāpumiem, kas notikuši citā valstīs, cilvēks var ziņot savas valsts datu uzraudzības iestādē, Latvijā – DVI.
+Datu aizsardzība ir ikviena iedzīvotāja, katras organizācijas un visas valsts atbildība, tādēļ DVI aicina atbildīgi izturēties katram pret saviem un sev uzticētajiem datiem – lai dati būtu drošībā, lai nebūtu pārkāpumu, lai būtu vienāda izpratne par VDAR normu piemērošanu, lai neaizsargātu personas datu dēļ Latvijai nerastos problēmas. Tādēļ arī DVI augstu novērtē ikviena iesaistītā atbildīgu rīcību un jo īpaši VDAR konsultatīvās padomes lomu gan personas datu aizsardzībā, gan informācijas apritē un viedokļu koordinēšanā.
+ Īsumā par Datu valsts inspekciju
+DVI aizsargā visu Latvijas iedzīvotāju tiesības, uzraugot vairāk nekā 190 000 Latvijā reģistrētās komercsabiedrības, vairāk nekā 4 000 ārstniecības iestādes, pašvaldības un valsts pārvaldes iestādes, izglītības iestādes, bibliotēkas un pašvaldības un vēl daudzus citus. DVI rūpējas, lai iesaistītie partneri saņem profesionālu ekspertīzi un konsultācijas. Inspekcija uzrauga datu aizsardzības procesu ieviešanu un īstenošanu, lai visi datu aizsardzības, uzraudzības procesi tiktu īstenoti atbilstoši Latvijas un ES regulējumam.
+ 
+ 
+Kontaktiem:
+Datu valsts inspekcija
+Tālrunis: 67686031
+E-pasts: info@dvi.gov.lv
+
+
+
+ 

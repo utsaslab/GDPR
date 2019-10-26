@@ -431,5 +431,30 @@
         }
       }
     ]
+  },
+  "LV": {
+    "country": "Latvia",
+    "name": "Data State Inspectorate",
+    "address": "Blaumana str. 11/13-15\n1011 Riga",
+    "phone": "6722 3131",
+    "country_code": "+371",
+    "email": "info@dvi.gov.lv",
+    "website": "https://www.dvi.gov.lv",
+    "member": {
+      "name": "Ms DAIGA AVDEJANOVA",
+      "title": "Director of Data State Inspectorate"
+    },
+    "sources": [
+      {
+        "host": "https://www.dvi.gov.lv",
+        "start_path": "/lv/category/zinas/",
+        "target_element": {
+          "results": "div#content-part",
+          "pagination": "div#pagination",
+          "document": "div.entry",
+          "date": "div.meta"
+        }
+      }
+    ]
   }
 }

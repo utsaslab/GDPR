@@ -1,0 +1,35 @@
+
+
+Datu valsts inspekcija informē, ka Francijas datu aizsardzības uzraudzības iestāde CNIL (Commission Nationale de l’Informatique et des Libertés) 2019.gada 21.janvārī par neatbilstību Vispārīgās datu aizsardzības regulas[1] prasībām sodīja uzņēmumu GOOGLE LLC, piemērojot naudas sodu 50 miljonu eiro apmērā par personas datu apstrādes pārredzamības principa nenodrošināšanu un neatbilstošu datu subjekta piekrišanu attiecībā uz personalizētu komerciālu paziņojumu saņemšanu.
+ 
+CNIL 2018.gada 25.maijā saņēma divu asociāciju sūdzības “None Of Your Business”(“NOYB”) un “La Quadrature du Net” (“LQDN”) norādot, ka GOOGLE LLC nav juridiska pamata uzņēmuma lietotāju personas datu apstrādei, it īpaši personalizētu komerciālu paziņojumu sūtīšanai. Inspekcija norāda, ka LQDN tika pilnvarots pārstāvēt 10 000 uzņēmuma klientu (sūdzības iesniedzējus). Pēc sūdzību saņemšanas CNIL uzreiz uzsāka izmeklēšanu par iesniegtajām sūdzībām.
+Izskatot lietu CNIL konstatēja divu veidu pārkāpumus Vispārīgās datu aizsardzības regulas kontekstā:
+
+Nepietiekama personas datu apstrādes pārredzamības principa nodrošināšana un informācijas trūkums;
+Nepastāv tiesiskais pamats personalizētu komerciālo paziņojumu sūtīšanai.
+
+Nepietiekama personas datu apstrādes pārredzamības principa nodrošināšana un informācijas trūkums
+
+CNIL norāda, ka GOOGLE sniegtā informācija nav viegli pieejama klientiem (lietotājiem). Uzņēmuma informācijas izvietošanas struktūra neatbilst Vispārīgās datu aizsardzības regulas prasībām (VDAR 58.apsvērums – Pārredzamības principa pamatā ir prasība, ka visa informācija, kas adresēta sabiedrībai vai datu subjektam, ir kodolīga, viegli pieejama un viegli saprotama un ka tiek izmantota skaidra un vienkārša valoda un papildus – vajadzības gadījumā – vizualizācija. […] ) Lai iegūtu informāciju par savu personas datu apstrādes mērķi, datu glabāšanas termiņu, komerciālu paziņojumu personalizēšanu klientiem jāveic 5 līdz 6 darbības.
+Ņemot vērā lielo piedāvāto pakalpojumu skaitu (CNIL norāda – aptuveni 20 pakalpojumi), tad attiecībā pret apjomīgo GOOGLE LLC veikto personas datu apjomu, tai skaitā kombinēto datu apstrādi, personām pieejamā informācija par personas datu apstrādes mērķi un apstrādāto personas datu kategorijām ir pārāk vispārīga un neskaidra, lai lietotājs varētu saprast, ka personalizētu komerciālu paziņojumu saņemšanas tiesiskais pamats ir personas (datu subjekta) piekrišana nevis pārziņa leģitīmo interešu ievērošana.
+GOOGLE LLC nav sniedzis informāciju par atsevišķu apstrādāto datu glabāšanas termiņiem.
+
+Nepastāv tiesiskais pamats personalizētu komerciālo paziņojumu sūtīšanai
+
+Neskatoties uz GOOGLE LLC norādīto, ka uzņēmums saņem klientu (lietotāju) piekrišanu personalizētu komerciālu paziņojumu saņemšanai, CNIL norāda, ka saņemtā piekrišana nav atbilstoša Vispārīgās datu aizsardzības regulas prasībām, jo lietotājiem izsniegtā piekrišanā nav pietiekami daudz informācijas. Informācija par personalizētu komerciālo paziņojumu (reklāmu) saistītajām darbībām ir sadalīta vairākos informācijas avotos un nedod lietotājam iespēju saņemt visu informāciju par apstrādāto datu apjomu. Piemēram, sadaļā “Reklāmu personalizēšana” klientam nav iespējams saņemt visu informāciju konkrēto datu apstrādes apjomu par visiem GOOGLE LLC sniegtajiem pakalpojumiem, tīmekļa vietņu un lietojumprogrammu daudzveidību (Google search, You tube, Google home, Google maps, Playstore, Google pictures).
+CNIL norāda, ka klientu (lietotāju) sniegtās piekrišanas neatbilst Vispārīgās datu aizsardzības regulas prasībām, piekrišana nav ne “konkrēta”, ne “nepārprotama” (Regulas 4.panta 1.punkts – 11) | datu subjekta “piekrišana” ir jebkura brīvi sniegta, konkrēta, apzināta un viennozīmīga norāde uz datu subjekta vēlmēm, ar kuru viņš paziņojuma vai skaidri apstiprinošas darbības veidā sniedz piekrišanu savu personas datu apstrādei). Izveidojot lietotāju kontu, personai ir iespēja mainīt dažādas ar kontu saistītas opcijas noklikšķinot uz pogas “Citas opcijas”, kur iespējams konfigurēt ar iespēju personalizēt komerciālu paziņojumu saņemšanai, savukārt personalizēta komerciālu paziņojumu saņemšana ir jau iepriekš atzīmēta. Komisija norāda, ka konkrētās ieviestās darbības uzreiz nenodrošin atbilstību Vispārīgās datu aizsardzības regulas prasībām, jo saskaņā ar normatīvo regulējumu piekrišana “nepārprotama” tikai tad, ja klients (lietotājs) ir veicis skaidras, apzinātas un apsiprinošas darbības, piemēram, personīgi ieklikšķinot iepriekš neatzīmētā izvēles lauciņā.
+Kā pēdējo argumentu CNIL norāda, ka pirms lietotāja konta izveides personai ir jāatzimē “Es piekrītu Google pakalpojumu sniegšanas noteikumiem” un “Es piekrītu personas datu apstrādei, kas aprakstīts iepriekš un izskaidrota konfidencialitātes politikā”. Atzīmējot “Piekrītu” klients (lietotājs) dod savu piekrišanu personas datu apstrādei uz visām apstrādes darbībām, ko veic GOOGLE LLC. Tomēr Vispārīgā datu aizsardzības regula paredz, ka piekrišana ir jāsaņem katram personas datu apstrādes nolūkam atsevišķi.
+
+ 
+Naudas sods piemērots, balstoties uz pārkāpuma smagumu attiecībā pret Vispārīgās datu aizsardzības regulā noteiktajiem principiem – pārredzamība, atbilstošas informācijas sniegšana un datu subjekta piekrišana.
+CNIL norāda, ka GOOGLE LLC veiktā personas datu apstrāde ir liela apjoma un konstatētie pārkāpumi nedod garantijas klientiem (lietotājiem) attiecībā uz veiktajām apstrādes darbībām, kas varētu atklāt būtiskas privātās dzīves daļas. Turklāt konstatētie pārkāpumi nav viens vienīgs gadījums, bet, ņemot vērā lielo klientu (lietotāju) apjomu, tad konstatētie pārkāpumi ir uzņēmuma regulāra darbība.
+ 
+ 
+ 
+! Informējam, ka šis ir Datu valsts inspekcijas neoficiālais tulkojums.
+Oriģinālraksts pieejams - https://www.cnil.fr/en/cnils-restricted-committee-imposes-financial-penalty-50-million-euros-against-google-llc
+[1] Eiropas Parlamenta un Padomes regula (ES) 2016/679 par fizisko personu aizsardzību attiecībā uz personas datu apstrādi un šādu datu brīvu apriti un ar ko atceļ Direktīvu 95/46/EK (Vispārīgā datu aizsardzības regula) piemērošana uzsākta 2018.gada 25.maijā.
+
+
+
+ 

@@ -1,0 +1,24 @@
+
+
+Briselē, 13. februārī. – 12. februārī Eiropas Datu aizsardzības kolēģijas (EDAK) septītajā plenārsēdē tikās Eiropas Ekonomikas Zonas (EEZ) datu aizsardzības iestāžu pārstāvji un Eiropas Datu aizsardzības uzraudzītājs. Plenārsēdē tika apspriests plašs tematu klāsts.
+
+EDAK darba programma 2019.–2020. gadam
+EDAK saskaņā ar EDAK reglamenta 29. pantu pieņēma savu divu gadu darba programmu 2019.–2020. gadam. EDAK darba programmas pamatā ir vajadzības, kuras EDAK locekļi uzskata par prioritārām indivīdiem un ieinteresētajām personām, kā arī Eiropas Savienības likumdevēja plānotās darbības.
+Administratīvās kārtības projekts finanšu tirgu uzraudzības jomā
+EDAK pieņēma savu pirmo atzinumu par administratīvo kārtību, pamatojoties uz Vispārīgās datu aizsardzības regulas (VDAR) 46. panta 3. punkta b) apakšpunktu, attiecībā uz personas datu pārsūtīšanu starp EEZ finanšu uzraudzības iestādēm, tostarp Eiropas Vērtspapīru un tirgu iestādi (EVTI), un to trešo valstu partneriem. Šo kārtību iesniedz kompetentajām uzraudzības iestādēm (UI) atļaujas saņemšanai valsts līmenī. Kompetentās UI uzraudzīs administratīvo kārtību un tās praktisko piemērošanu, lai nodrošinātu, ka praksē tiek garantētas efektīvas un izpildāmas datu subjekta tiesības un piemēroti tiesiskās aizsardzības līdzekļi un uzraudzība.
+Brexit
+EDAK pieņēma komercstruktūrām un valsts iestādēm adresētu informatīvu paziņojumu par datu nosūtīšanu saskaņā ar Vispārīgo datu aizsardzības regulu bez vienošanās Brexit gadījumā.
+Datu plūsmas no EEZ uz Apvienoto Karalisti
+Ja starp Eiropas Savienību (ES) un Apvienoto Karalisti netiks panākta vienošanās (bez vienošanās Brexit), Apvienotā Karaliste no 2019. gada 30. marta plkst. 00.00 pēc Viduseiropas laika kļūs par trešo valsti. Tādējādi personas datu nosūtīšanai no EEZ uz Apvienoto Karalisti būs jāizmanto kāds šādiem instrumentiem: standarta vai ad hoc datu aizsardzības klauzulas, saistoši uzņēmuma noteikumi, rīcības kodeksi un sertifikācijas mehānismi un īpaši nosūtīšanas instrumenti, kas pieejami valsts iestādēm. Ja nav standarta datu aizsardzības klauzulu vai citu alternatīvu aizsardzības pasākumu, noteiktos apstākļos var piemērot atkāpes.
+Datu plūsmas no Apvienotās Karalistes uz EEZ
+Attiecībā uz datu pārsūtīšanu no Apvienotās Karalistes uz EEZ saskaņā ar Apvienotās Karalistes valdības sniegto informāciju bez vienošanās Brexit gadījumā turpinās piemērot pašreizējo praksi, kas ļauj personas datus brīvi pārsūtīt no Apvienotās Karalistes uz EEZ.
+Vadlīnijas par rīcības kodeksiem
+EDAK pieņēma vadlīnijas par rīcības kodeksiem. Šo vadlīniju mērķis ir sniegt praktiskus norādījumus un palīdzēt interpretēt VDAR 40. un 41. panta piemērošanu. Vadlīnijas ir paredzētas, lai palīdzētu precizēt procedūras un noteikumus, kas saistīti ar rīcības kodeksu iesniegšanu, apstiprināšanu un publicēšanu gan valsts, gan Eiropas līmenī. Šīm vadlīnijām būtu jāturpina darboties kā skaidram pamatam visām kompetentajām UI, EDAKun Eiropas Komisijai, lai konsekventi novērtētu rīcības kodeksus un racionalizētu novērtēšanas procesā iesaistītās procedūras. Vadlīnijas tiks nodotas sabiedriskajai apspriešanai.
+
+Piezīme redaktoriem
+Lūdzam ņemt vērā, ka visiem EDAK plenārsēdē pieņemtajiem dokumentiem tiek veiktas nepieciešamās juridiskās, lingvistiskās un formatēšanas pārbaudes un tie būs pieejami EDAK tīmekļa vietnē pēc minēto pārbaužu pabeigšanas.
+
+
+
+
+ 

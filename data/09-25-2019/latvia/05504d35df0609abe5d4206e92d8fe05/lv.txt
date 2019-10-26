@@ -1,0 +1,10 @@
+
+
+Tuvojoties  Eiropas Parlamenta vēlēšanām, kā arī citām vēlēšanām nacionālajā līmenī 2019. gadā visā Eiropas Savienībā un ārpus tās, Eiropas Datu aizsardzības kolēģija (EDAK) šā gada 13. martā ir nākusi klajā ar paziņojumu par personas datu apstrādes principiem un pienākumiem, kurus būtu jāievēro vēlēšanu kampaņā  iesaistītajiem dalībniekiem (piemēram, politiskajām partijām, kandidātiem, politiskajām apvienībām, fondiem). Ziņojumā EDAK ir likusi akcentus uz vairākiem svarīgiem aspektiem, kas jāņem vērā politiskajām partijām, apstrādājot personas datus atbilstoši Vispārīgās datu aizsardzības regulas nosacījumiem, tostarp ietverot pienākumus nodrošināt caurspīdīgumu vēlēšanu kampaņu procesos un pietiekamas informācijas sniegšanu personām, kuru dati tiek apstrādāti, neatkarīgi no tā, vai dati ir iegūti tieši vai netieši. Politiskajām partijām un kandidātiem jābūt gataviem demonstrēt, kā tie ir ievērojuši datu aizsardzības principus, jo īpaši likumības, taisnīguma un pārredzamības principus. EDAK ziņojums pieejams -  https://edpb.europa.eu/sites/edpb/files/files/file1/edpb-2019-03-13-statement-on-elections_en.pdf .
+Lai skaidrotu personas datu apstrādes pārziņa (piemēram, politiskās partijas) pienākuma veikt novērtējumu par ietekmi uz datu aizsardzību izpildi, Datu valsts inspekcija publicē jautājumu kopumu (Novērtējums par ietekmi uz datu aizsardzību), atbildes uz kuriem varētu veidot, vienu no iespējamajiem risinājumiem novērtējuma par ietekmi uz datu aizsardzību veikšanai, ne tikai politiskajām partijām, bet arī citu personas datu apstrāžu veicējiem.
+Datu valsts inspekcija uzsver, ka visa informācija par personas datu apstrādi ir tikai personas datu apstrādes pārziņa rīcībā un novērtējuma par ietekmi uz datu aizsardzību veikšanai ir iespējami arī citi risinājumi.
+Eiropas Komisijas vadlīnijas par personas datu apstrādi attiecībā uz Eiropas Parlamenta vēlēšanām pieejamas - https://ec.europa.eu/commission/sites/beta-political/files/soteu2018-data-protection-law-electoral-guidance-638_en.pdf 
+
+
+
+ 
