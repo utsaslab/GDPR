@@ -1,0 +1,40 @@
+When taking into account the
+current political situation concerning the eventual withdrawal of the United
+Kingdom from the European Union, this Office is providing the following brief
+guidance to data controllers established in Malta who are currently
+transferring personal data to the UK and who, as part of their business
+operations, intend to continue doing so after the 29th of March
+2019. The following two scenarios are possible as on 30th March 2019
+at 00:00hrs when the UK will eventually leave the EU. 
+1.      
+BREXIT Deal
+(Withdrawal Agreement negotiated between the UK Government and the European
+Commission)
+ In
+the event that the UK exits the EU with a deal, nothing is envisaged to change
+for controllers until the end of 2020. Personal data could continue to be
+transferred to the UK without any restrictions or the need of adopting
+additional safeguards. This transitional period is specifically intended to
+give sufficient time to the European Commission to negotiate and adopt an
+adequacy decision enabling the continuation of data flows between the EU and UK
+following the lapse of such period.
+ 2.      
+No-Deal BREXIT
+In
+the event of no-deal, on exit date, the UK will become a third country and free
+data flows to the UK will no longer be permissible. In these circumstances,
+data controllers will be required to rely on alternative tools ensuring
+appropriate safeguards, to legitimise transfers of personal data to the UK. The
+use of Standard Contractual Clauses, as one of these transfer mechanisms, is
+recommended. More information on the SCCs is accessible at the following
+hyperlink: https://idpc.org.mt/en/Pages/dp/transfers/transfers_safeguards/scc.aspx    In view of the evolving
+developments, controllers are being strongly encouraged to conduct, as soon as
+possible, an internal analysis of their processes and make the necessary
+preparations to respond to any eventuality that may happen.  This Office
+will remain available to provide controllers with any clarification or
+additional information on this specific subject matter.
+The EDPB has adopted an information note relating  to the
+available transfer mechanisms under the GDPR for the transfer of personal data
+to the UK in case of a No-deal Brexit. In this document, the EDPB provides for
+practical steps organisations can take to prepare for a No-deal Brexit. The
+information note is available on the EDPB website at https://edpb.europa.eu/sites/edpb/files/files/file1/edpb-2019-02-12-infonote-nodeal-brexit_en.pdf.​

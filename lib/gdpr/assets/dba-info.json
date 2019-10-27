@@ -510,5 +510,31 @@
         "render_type": "FULLY_RENDERED"
       }
     ]
+  },
+  "MT": {
+    "country": "Malta",
+    "name": "Office of the Information and Data Protection Commissioner",
+    "address": "Second Floor, Airways House\nHigh Street, Sliema SLM 1549",
+    "phone": "2328 7100",
+    "country_code": "+356",
+    "email": "idpc.info@idpc.org.mt",
+    "website": "https://idpc.org.mt/en/Pages/Home.aspx",
+    "member": {
+      "name": "Mr Saviour CACHIA,",
+      "title": "Information and Data Protection Commissioner"
+    },
+    "sources": [
+      {
+        "host": "https://idpc.org.mt",
+        "start_path": "/en/Press/Pages/Press-Releases.aspx",
+        "target_element": {
+          "results": "div.content",
+          "pagination": null,
+          "document": null,
+          "date": null
+        },
+        "render_type": "FULLY_RENDERED"
+      }
+    ]
   }
 }
