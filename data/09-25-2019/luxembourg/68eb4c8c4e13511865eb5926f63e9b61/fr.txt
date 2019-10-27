@@ -1,0 +1,944 @@
+Avis de la Commission nationale pour la protection des données
+
+relatif au projet de loi n°7425 portant : 1° transposition de la directive
+(DE) 2017/853 du Parlement européen et du Conseil du 17 mai 2017
+modifiant la directive 91/477/CEE du Conseil relative au contrôle de
+
+l'acquisition et de la détention d'armes ; 2° modification du Code
+pénal, et 3° abrogation de la loi du 20 avril 1881 concernant le
+transport et le commerce des matières explosives
+Délibération n° 42/2019 du 8 juillet 2019
+
+Conformément à l'article 57, paragraphe 1er, lettre (e) du règlement n° 2016/679 du 27 avril
+2016 relatif à la protection des personnes physiques à l'égard du traitement des données à
+
+caractèrepersonnel et à la libre circulation de ces données, et abrogeantla directive 95/46/CE
+(règlement général sur la protection des données) (ci-après « le RGPD »), auquel se réfère
+l'article 7 de la loi du 1er août 2018 portant organisation de la Commission nationale pour la
+
+protection des données et du régime général sur la protection des données, la Commission
+nationale pour la protection des données (ci-après désignée « la Commission nationale » ou
+
+« la CNPD ») « conseille, conformément au droit de l'Ëtatmembre, le parlement national, le
+gouvernement et d'autres institutions et organismes au sujet des mesures législatives et
+administratives relatives à la protection des droits et libertés des personnes physiques à
+l'égard du traitement ».
+Par courrier en date du 15 mars 2019, Monsieur le Ministre de la Justice a invité la Commission
+
+nationale à se prononcer sur le projet de loi n°7425 portant : 1° transposition de la directive
+
+(UE) 2017/853 du Parlement européen et du Conseil du 17 mai 2017 modifiant la directive
+91/477/CEE du Conseil relative au contrôle de l'acquisition et de la détention d'armes ; 2°
+modification du Code pénal, et 3° abrogation de la loi du 20 avril 1881 concernant le transport
+et le commerce des matières explosives (ci-après le « projet de loi »).
+
+Ledit projet ds loi a pour objet de transposer en droit national la directive (DE) 2017/853 du
+Parlement européen et du Conseil du 17 mai 2017 modifiant la directive 91/477/CEE du
+Conseil relative au contrôle de l'acquisition et de la détention d'armes (ci-après la
+« directive »).
+
+Selon l'exposé des motifs, ce projet de loi entend procéder à une refonte complète de la loi
+modifiée du 15 mars 1983 sur les armes et munitions (ci-après la « loi modifiée du 15 mars
+
+1983), en outre celui-ci « prévoit concernant ses aspects les plus importants, des dispositions
+relatives ;
+1 ° à une meilleure définition et classification des armes ;
+
+2° a l'interdiction de certaines armes semi-automatiques considérées comme étant
+particulièrement dangereuses ;
+3° à l'introduction de la neutralisation d'armes à feu :
+4° à l'exigence d'une attestation médicale :
+
+5° à une interdiction de manipuler des armes sous /'emprise de l'alcool ;
+6° au stockage des armes ;
+CNPD
+
+Avis de la Commission nationale pour la protection des données relatif au
+projet de loi n'7425/00
+
+1/15
+
+7" aux exportations d'armes ;
+8° au renforcement des mesures de contrôle de l'application de la future loi, et
+9° au renforcement des dispositions pénales en la matière. »
+Dans la mesure où le présent projet de loi transpose en droit national la directive précitée, la
+Commission nationale renvoie en ce qui concerne le cadre légal de cette directive à l'avis du
+17 février 2014 du Contrôleur européen de la protection des données (ci-après le « CEPD »)
+
+sur « Les armes à feu et la sécurité intérieure dans l'Union européenne : protéger les citoyens
+et déjouerles trafics illicites » et limitera ses observations aux dispositions légales concernant
+la mise en ouvre concrète de cette directive au Luxembourg.
+Le présent avis traitera donc des questions relatives aux aspects de la protection des données
+à caractère personnel, soulevées par les articles 13 (Fichier des armes et traitement de
+données à caractère personnel), 14 (Attestation médicale), 15 (Agrément d'armurier et de
+commerçant d'armes), 17 (Salariés et collaborateurs des armuriers), 19 (Registre d'armes),
+22 (Conditions générales concernant l'octroi des autorisations aux particuliers) et 52
+
+(Contrôles effectués par l'Administration des douanes et accises) du projet de loi.
+l.
+
+Remarques préliminaires :
+
+Tout d'abord, il convient de relever que, dans la mesure où le présent projet de loi constitue
+
+une refonte complète de la loi modifiée du 15 mars 1983, certains éléments qui figurent dans
+le projet de loi ne découlent pas directement de la directive mais sont utiles et nécessaires
+pour encadrer les différents traitements mis en ouvre par le Ministre ayant dans ses
+compétences la loi sous avis (ci-après le « ministre »).
+Du fait de l'abrogation de la loi modifiée du 15 mars 1983, la CNPD comprend que le « fichier
+des armes prohibées et autorisations », visé par l'article 5, alinéa 4, de la loi précitée, sera
+
+remplacé par le « fichier des armes » créé par l'article 13 du projet de loi. D'un point de vue
+du principe de la sécurité Juridique, la Commission nationale salue que le principe de la
+
+création d'un tel fichier soit prévu par le projet de loi conformément à l'article 6, paragraphe (3)
+du RGPD'. Cet article prévoit, en effet, une contrainte particulière liée à la licéité d'un
+traitement de données nécessaire au respect d'une obligation légale ou à l'exécution d'une
+mission d'intérêt public ou relevant de l'exercice de l'autorité publique dont est investi le
+
+responsable du traitement. Dans ces deux cas de figure, le fondement et les finalités des
+traitements de données doivent spécifiquement être prévus soit par le droit de l'Union
+européenne, soit par le droit de l'Etat membre auquel le responsable du traitement est soumis.
+
+L'article 6, paragraphe (3) dispose que la « base juridique peut contenir des dispositions spécifiques pour adapter l'application
+des règlesdu règlement, entre autres : les conditionsgénéralesrégissantla licéitédu traitement par le responsabledu traitement :
+/es personnes concernées ; les entités auxquelles tes données à caractère personnel peuvent être communiquées et les finalités
+pour lesquelles elles peuvent l'être ; la limitation des finalités ; les durées de conservation ; et les opérations et procédures de
+traitement, y compris les mesures visant à garantir un traitement licite et loyal, telles que celles prévues dans d'autres situations
+particulières de traitement comme le prévoit le chapitre IX ».
+
+CNPD
+Sf».
+
+Avis de la Commission nationale pour la protection des données relatif au
+projet de loi n"7425/00
+2/15
+
+De plus, le considérant (45) du RGPD précise qu'il devrait «[... ] appartenir au droit de l'Union
+ou au dro/ï d'un £(a( membre de déterminer la finalité du traitement. Par ailleurs, ce droit
+
+pourrait préciser les conditions générales du présent règlement régissant la licéité du
+traitement des donnéesà caractèrepersonnel, établirles spécificationsvisant à déterminer le
+responsable du traitement, le type de données à caractère personnel faisant l'objet du
+traitement, les personnes concernées, les entités auxquelles les données à caractère
+
+personnel peuvent être communiquées, les limitations de la finalité, la durée de conservation
+et d'autres mesures visant à garantir un traitement licite et loyal. [... ]». En vertu des
+
+dispositions précitées, ces bases légales devraient contenir des dispositions spécifiques
+concernant, entre autres, les types de données traitées, les personnes concernées, les entités
+auxquelles les données peuvent être communiquées et pour quelles finalités, les durées de
+conservation des données ou encore les opérations et procédures de traitement.
+
+Toutefois et bien que le principe de la création d'un tel fichier soit prévu dans le projet de loi,
+la Commission relève que certains éléments relatifs au traitement de données ne sont pas(ou
+pas suffisamment) précisésdans le projet de loi.
+En outre, la Commission nationale constate à la lecture du projet de loi qu'il est fait référence
+
+au « fichier des armes prohibées » à l'article 52 du projet de loi. Les auteurs du projet de loi
+mentionnent encore un « fichier du Sen/ice des armes prohibées » dans le commentaire de
+
+l'article 19 du projet de loi. Dans ce contexte, la Commission se demande s'il existe plusieurs
+fichiers ou s'il s'agit du fichier qui est visé à ['article 13 du projet de loi. Dans une telle
+hypothèse, ne conviendrait-il pas dans un souci de clarté et pour une meilleure compréhension
+desdits articles, de renvoyer expressément au fichier visé à l'article 13 ou d'utiliser la même
+
+terminologie à savoir le « fichier des armes »? A contrario, s'il s'agit de fichiers différents, il
+conviendrait alors de ['indiquer expressément dans le projet de loi, et de préciser pour chacun
+de ces fichiers les finalités, catégories de données, etc. qui y sont associées.
+
+ressort des développements qui précèdent que la Commission nationale ne dispose pas de
+toutes les informations concernant l'ensemble des traitements de données à caractère
+
+personnel mis en ouvre dans le cadre du projet de loi et ne peut pas apprécier pleinement si
+les traitements mis en ouvre sont conformes au RGPD.
+
+La CNPD précisera, dès lors, dans les développements ci-après, les éléments manquants
+concernant les traitements effectués dans le cadre de la tenue du fichier visé à l'article 1 3 (II),
+
+les spécificités relatives au traitement de données relatives aux infractions pénales et à la
+santé qui doivent être respectés par le responsable du traitement (III), les clarifications devant
+être apportées au registre des armes tenus par les armuriers (IV) et à l'accès prévu par l'article
+52 du projet de loi pour les agents de l'Administration des douanes et accises (V).
+II.
+
+Sur le « fichier comportant les données à caractère personnel » visé à l'artide_13
+du projet de loi
+
+Comme indiquéprécédemment, la Commission nationale comprend que ce fichier a vacation
+à remplacer le « fichier des armes prohibées et autorisations » visé par l'article 5, alinéa4, de
+la loi modifiée du 15 mars 1983 (ci-après le « fichier des armes prohibées et autorisations »).
+
+CNPD
+
+Avis de la Commission nationale pour la protection des données relatif au
+projet de loi n°7425/00
+
+3/15
+
+1. Sur la base juridique sur laquelle se fonde le traitement
+
+En premier lieu, il convient de rappeler qu'un traitement de données à caractère personnel
+n'est licite que si au moins une des conditions visées à l'article 6, paragraphe (1) lettres a) à f)
+est remplie.
+
+Il ressort du paragraphe (4) de l'article 13 du projet de loi, que les auteurs du projet de loi
+entendent fonder le traitement de données, tel que visé à l'article 13 précité, sur le
+consentement des personnes concernées.
+
+Or, il convient de relever que d'une part la rédaction actuelle de l'article ne permet pas de
+recueillir un consentement valable au sens du RGPD et d'autre part cette base de licéité n'est
+pas la plus appropriée dans le cadre de la présente loi sous avis.
+
+Concernant le consentement de la personne concernée, il convient de rappeler que
+conformément à l'article 4, paragraphe (11) du RGPD, le consentement est défini comme :
+
+« toute manifestation de volonté, libre, spécifique, éclairée et univoque par laquelle la
+personne concernée accepte, par une déclaration ou par un acte positif clair, que des données
+a caractère personnel la concernant fassent l'objet d'un traitement ». Toutefois, la formulation
+
+actuelle du paragraphe (4) de ['article 13du projet de loi en cequ'il disposeque « /a personne
+concernée consent au traitement de ses données personnelles, y compris à ce que le bulletin
+
+n °2 du casierjudiciaire soit délivrédirectement par le procureur générald'Etatau Ministre. ».
+n'est pas conforme au sens du RGPD, en ce que le consentement donné par la personne
+concernée s'apparente à un consentement forcé.
+
+En effet, il convient de rappeler que l'un des éléments d'un consentement valable est une
+
+« manifestation devolonté libre ». L'adjectif« libre » implique un choixet uncontrôle réelpour
+les personnes concernées. Ainsi, si la personne concernée n'est pas véritablement en mesure
+
+d'exercer un choix, se sent contrainte de consentir ou subira des conséquences négatives
+importantes si elle ne donne pas son consentement, alors le consentement ne sera pas
+
+valable2.
+
+En tout état de cause, le considérant 43 du RGPD indique clairement qu' « // existe un
+déséquilibre manifeste entre la personne concernée et le responsable du traitement, en
+
+particulierlorsque le responsable dutraitement estuneautoritépubliqueetqu'ilest improbable
+que le consentement ait été donné librement au vu de toutes les circonstances de cette
+situation particulière. ». De plus, le Groupe de travail « Article 29 » considère encore. dans ses
+
+lignesdirectricessurleconsentement ausensduRGPD3,qu'ilexisted'autresbasesjuridiques
+en principe plus appropriées aux activitésdes autorités publiques, notamment le paragraphe
+(1), points e) et e) de l'article 6 du RGPD.
+
+Au vu de ce qui précède, la Commission suggère donc que le passage suivant « la personne
+concernée consent au traitement de ses données à caractère personnel » soit supprimé.
+,
+
+P.T. 6dolignodirectrices 5urte. c°nsentement ausensdu RGPD. Groupe detravail « Article 29 ».adoptées le28 novembre
+
+2017, version réviséeet adoptée le 10 avril 2018
+
+Point3.^. 1.Déséquilibredesrapportsdeforce,pages6 et7 deslignesdirectricessurleconsentementausensduRGPD
+
+de travail « Article 29 », adoptées le 28 novembre 2017. version réviséeet adoptée le 10avril 2018' ~~ 1~" ' "" "'
+
+1CNPD
+
+Avis de la Commission nationale pour la protection des données relatif au
+projet de loi n°7425/00
+4/15
+
+2.
+
+Sur la détermination des finalités du traitement
+
+Tout d'abord, il convient de rappeler que conformément à l'article 5 paragraphe (1), b) du
+RGPD, les données à caractère personnel doivent être « collectées pour des finalités
+déterminées, explicites et légitimes, et ne pas être traitées ultérieurement d'une manière
+
+incompatible avec ces finalités(... ) ». De plus, l'article 6 paragraphe (3) du RGPD, lu ensemble
+avec son paragraphe (1) lettre e) et (e), prévoit une contrainte particulière liée à la licéitéd un
+traitement de données nécessaire au respect d'une obligation légale ou à l'exécution d une
+
+mission d'intérêt public ou relevant de l'exercice de l'autorité publique dont est investi le
+responsable du traitement. Dans ces deux cas de figure, le fondement et les finalités des
+traitements de données doivent spécifiquement être prévus soit par le droit de l'Union
+
+européenne, soit par le droit de l'Etat membre auquel le responsable du traitement est soumis.
+Le considérant (41) du RGPD précise encore que « cette base juridique ou cette mesure
+législative devrait être claire et précise et son application devrait être prévisible pour les
+
+justiciables, conformément à lajurisprudence de la Cour dejustice de l'Union européenne(ciaprès dénommée « Cour de justice ») e( de la Cour européenne des droits de l'homme. »
+Au vu de ce qui précède, la Commission nationale estime que la finalité telle qu'actuellement
+
+rédigée au paragraphe (1) de l'article 13 : « (... ) te traitement est nécessaire aux fins de
+l'exécution de la présente loi » est formulée de manière trop vague.
+
+Compte tenu desdéveloppements précédents,la Commission nationalerecommandedèslors
+de préciser les finalités des traitements et se demande s'il ne serait pas plus pertinent de
+transposer à l'identique le paragraphe (4) alinéa premier de l'article 4 de la directive qui précise
+
+que : « Ce fichierde donnéescomprend toutes les informations relatives aux armes à feu su/
+sont nécessaires pour tracer et identifier ces armes à feu ».
+Toutefois, si le fichier visé à l'article 13 du projet de loi traite également des données pour
+d'autres finalités, alors cet article devra être complété et préciser ces autres finalités. En effet,
+la CNPD se demande si le ministre ne collecterait pas des données à caractère personnel à
+
+des fins de gestion administrative des autorisations pour le port d'armes. Sur ce point, la
+Commission nationale souhaite attirer l'attention sur les dispositions légales prévues par le
+
+législateur belge qui a précisé concernant le registre centra] des armes, que les informations
+contenues dans ce fichier ne peuvent être utilisées que pour « la gestion des documents
+
+préi/usà l'article 29, et dans le cadre des missions de police judiciaire et administrative de ces
+autorités et services »".
+
+Conformément au principe de la limitation des finalités, les données personnelles doivent être
+collectées pour des finalités déterminées, explicites et légitimes, et ne pas être traitées
+ultérieurement d'une manière incompatible avec ces finalités. En principe, les données ne
+
+doivent pasêtretraitéespourdesfinalités"incompatibles" aveccesfinalitésinitiales précisées
+dans la loi. Il conviendrait donc si le fichier concerne plusieurs finalités d'indiquer précisément
+
+quelles catégoriesde donnéessont traitées pour quelles finalités.
+
+* Article 28 de l'arrêté royal exécutant la loi sur les armes du 20 septembre 1991. tel que modifié
+CNPD
+
+Avis de la Commission nationale pour la protection des données relatif au
+projet de loi n°7425/00
+
+5/15
+
+3. Sur les catégoriesde donnéesà caractère personnel
+
+Par ailleurs, la Commission nationale se félicite de la précision des catégories de données à
+caractère personnel, telles qu'énumérées au paragraphe (2) de l'article 13 du projet de loi qui
+estd'ailleurs une reprise littéralede la listequifigure à ['article4 paragraphe(4) de la directive.
+Toutefois, la Commission a constaté qu'afin de délivrer des autorisations administratives
+concernant les armes à feu, le ministre est actuellement amené à collecter et traiter des
+
+données personnelles telles que les photos d'identité, la copie de la carte d'identité du
+demandeur d'un permis d'arme ainsi que te cas échéant la copie de la carte d'identité du
+
+vendeur de l'arme. Ces documents sont, en effet, listés dans les annexes à joindre à la
+demande en obtention d'un permis d'armes, tel que cela figure sur le formulaire « Première
+
+demande en obtention d'un permis d'armes »5. Or, la collecte de ces catégories de données
+a caractère personnel n'est pas préciséedans le texte du projet de loi.
+Si ['intention du ministère ayant la justice dans ses attributions est de continuer à collecter de
+telles données dans le cadre de la délivrance de telles autorisations, la CNPD estime
+indispensable que ces catégories de données soient également clairement détaillées dans le
+
+projet de loi, et recommande d'énumérer quelles données sont collectées et pour quelles
+finalités. Il est, en effet, difficile de comprendre à la lecture du projet de loi quel est réellement
+lensemble des données qui sont collectées par le ministre, et à quelles fins celles-ci sont
+traitées.
+
+4. Sur les personnes concernées
+
+La Commission nationale recommande que le législateur insère des dispositions concernant
+les catégories de personnes concernées (acquéreur, fournisseur, titulaire d'une autorisation
+de détention d'armes... ) pour les différents traitements susceptibles d'être mis en ouvre dans
+
+le cadre du présent projet de loi. En effet, il conviendrait de préciser quelles catégories de
+personnes sont concernées par ces traitements, et d'indiquer quelles sont les catégories de
+données qui s'y rapportent.
+
+5. Sur l'origine des données à caractère personnel
+
+LaCommission nationale constate que l'origine des donnéestraitées par le ministre n'est pas
+préciséedans le texte de ['article 13 du projet de loi. Une clarification à ce titre mériteraitd'être
+
+précisée. Est-ce que les données sont collectées à partir des formulaires devant être remplis
+
+par les personnes qui souhaitent obtenir un permis d'armes ? Existe-il d'autres sources qui
+permettraient au Ministère de collecter indirectement les données relatives aux fournisseurs.
+
+acquéreurs ou détenteurs d'armes au Luxembourg à partir d'autresfichiers étatiques? Dans
+laffirmative, une telle communication de données entre ministères ou administrations
+devraient être préciséedans le texte du projet de loi.
+
+1 Disponible suf le site du Ministère de la Justice à ['adresse suivante : https://guichet. public lu/fr/formulaires/armes/obtention-
+
+permls-arme.
+
+html
+
+CNPD
+
+Avis de la Commission nationale pour la protection des données relatif au
+projet de loi n°7425/00
+6/15
+
+6. Sur l'accès aux données à caractère personnel
+
+La Commission nationale regrette le manque de précision dans l'article 13 du projet de loi
+quant à l'accès aux données,
+
+i.
+
+Sur l'accès aux données à caractère personnel par le ministre et ses agents
+
+La CNPD recommande de préciserqu'au sein du Ministèrede la Justice l'accèsaux données
+soit limité aux seuls agents ayant besoin d'en connaître dans le cadre de leur fonction. Il
+conviendrait également de prévoir les modalités de cet accès et de mettre en place une
+procédure comportant des garanties appropriées visant à exclure toute utilisation allant audelà des finalités pour lesquelles ces données sont initialement traitées.
+ii.
+
+Sur
+
+l'accès
+
+aux
+
+données
+
+par
+
+les
+
+« autres
+
+autorités
+
+compétentes
+
+administratives »
+
+La Commission nationale regrette que le point 1) du paragraphe (3) de l'article 13 du projet de
+loi contient une formulation vague. Cet article prévoit, en effet, que l'accès aux données à
+caractère personnel visées au paragraphe (2) de l'article 13 sont accessibles à « d'autres
+autorités compétentes administratives qui ont besoin d'en connaître dans l'exercice de leurs
+missions légales pendant une période maximale de dix ans qui court à partir de la destruction
+de f arme à feu ou des parties essentielles en question ».
+
+Or, cette formulation vague ne respecte pas les exigences de précision et de prévisibilité
+
+auxquelles doit répondre un texte légal. Une loi doit êtresuffisamment claire et préciseafin de
+permettre aux personnes concernées de connaître l'étendue des limitations, ainsi que les
+conséquences
+
+éventuelles pour elles6.
+
+Par ailleurs, il convient de noter que l'article 4 paragraphe (4), alinéa 2, de la directive, que la
+
+disposition sous avis est appelée à transposer, est plus précisen ce qu'il dispose que : « tes
+données à caractère personnel y afférentes sont accessibles : a) aux autorités compétentes
+afin d'accorder ou de retirer les autorisations visees_a_!Wjcle_6_QU_Z
+
+ou aux autorités
+
+compétentes en matière de procédure douanière, pendant une période de dix ans après la
+destruction de /'arme a feu ou des parties essentielles en question ». Il ressort de ce qui
+
+précèdeque la formulation retenue par les auteurs du projet de loi élargit le nombre d'autorités
+visées par ['article 4 paragraphe (4), alinéa 2, de la directive. En ne suivant pas la directive sur
+
+ce point, le projet de loi sous avis procède à une transposition incorrecte de la directive. La
+CNPD est d'avis que les auteurs du projet de loi doivent préciser la disposition, c'est-à-dire
+énumérer les autorités visées mais ne peuvent pas aller au-delà de ce qui est prévu par la
+directive.
+
+La Commission
+
+estime,
+
+dès lors, nécessaire d'énumérer les autorités administratives
+
+susceptibles d'y avoir accès et de préciser qu'un tel accès sera limité aux collaborateurs de
+l'autorité/l'organe ayant besoin d'en connaître. De plus et comme indiqué au point ci-avant,
+
+Voir entre autres CourEDH, Zakharov e. Russie [GCL n"47413/06, § 228-229, 4 décembre 2015.
+
+CNPD
+
+Avis de la Commission nationale pour la protection des données relatif au
+projet de loi n°7425/00
+
+7/15
+
+cet accès aux données ne doit pas permettre une utilisation qui diffère des finalités pour
+lesquelles ces données sont traitées.
+iii.
+
+Sur la traçabilité des accès
+
+Conformément à l'artide 5. 1, f) du RGPD les données à caractère personnel doivent être
+« traitées de façon à garantir une sécurité appropriée des données à caractère personnel, y
+compris la protection contre le traitement non autorisé ou illicite et contre la perte, la destruction
+ou tes dégâts d'ohgine accidentelle, à l'aide de mesures techniques ou organisationnelles
+appropriées (intégrité et confidentialité) ».
+En outre, l'article 32 du RGPD stipule que « te responsable du traitement et le sous-traitant
+
+mettent en ouvre les mesures techniques et organisationnelles appropriées afin de garantir
+un niveau de sécurité adapté au risque ». Pareilles mesures doivent être mises en ouvre afin
+d'éviter notamment des accès non-autorisés aux données ou des fuites de données.
+
+Parmi ces mesures de sécurité, la Commission nationale estime important que seules les
+personnes qui en ont besoin dans l'exercice de leurs fonctions et de leurs tâches
+professionnelles soient habilitées à avoir accès aux données nécessaires. Dans ce contexte,
+
+il est vivement recommandé de définir une politique de gestion des accès, afin de pouvoir
+identifier dès le début la personne ou le service, au sein de chaque administration concernée,
+
+qui aurait accès à l'interface informatique mise à disposition par le CTIE, et à quelles données
+précises cette personne ou ce service aurait accès.
+
+En outre, il est nécessaire de prévoir un système dejournalisation des accès. Enfin, la CNPD
+recommande que les données de journalisation soient conservées pendant un délai de cinq
+ans à partir de leur enregistrement, délai après lequel elles sont effacées, sauf lorsqu'elles
+font l'objet d'une procédure de contrôle.
+7.
+
+Sur les échanaes de données
+
+En ce qui concerne le paragraphe (5) de l'article 13 du projet de loi, la Commission nationale
+tient tout d'abord à préciser que les données à caractère personnel peuvent circuler librement
+
+depuis le Grand-Duché de Luxembourg au sein de l'Espace économique européen, tant que
+les principes généraux du RGPD sont respectés. Il faudra notamment veiller à respecter le
+principe de la limitation des finalités, en vertu duquel les données ne doivent pas être traitées
+pour des finalités « incompatibles » avec les finalités d'origine.
+Concernant le transfert de données hors de l'espace économique européen, il convient de
+rappeler qu'outre le respect des principes généraux du RGPD, de tels transferts devront
+s'opérer dans le respect des dispositions du chapitre V du RGPD concernant les transferts de
+données à caractère personnel vers des pays tiers ou à des organisations internationales.
+8.
+
+Sur le droit des personnes concernées
+
+Il convient encore de préciser que le responsable du traitement du fichier visé à l'article 13 du
+projet de loi, à savoir le ministre, devra respecter, lors de la collecte des données à caractère
+CNPD
+Avis de la Commission nationale pour la protection des données relatif au
+projet de loi n°7425/00
+8/15
+
+personnel auprès des personnes concernées, les dispositions de l'article 13 du RGPD, s'il les
+collecte directement auprès d'elles (comme cela pourrait être le cas auprès de l'acquéreur
+
+d'une arme à feu), ou les dispositions de l'article 14 du RGPD, s'il les collecte de manière
+indirecte (comme cela pourrait être le cas dans l'hypothèse où les fournisseurs d'armes à feu
+transmettraient au ministère les noms et adresses des acquéreurs). Le ministre devra fournir,
+
+selon les différentes hypothèses, toutes les informations prévues aux articles 13 ou 14 du
+RGPD, étant précisé qu'en cas de collecte indirecte il devra les fournir endéans les délais
+prévus à l'article 14, paragraphe (3) du RGPD.
+9. Sur la durée de conservation des données à caractère personnel
+
+Selon l'article 5 paragraphe (1), lettre e) du RGPD, les données à caractère personnel ne
+doivent pas être conservées plus longtemps que nécessaire pour la réalisation des finalités
+pour lesquelles elles sont collectées et traitées.
+
+Au vu de ce qui précède, la CNPD se félicite qu'une durée maximale de 30 ans concernant la
+conservation des données ait été préciséedans le projet de loi et comprend que cette durée
+est nécessaire afin de permettre un traçage des armes à feu et de leurs parties essentielles
+pénales7.
+et proportionnée au vu des finalités précitées.
+fins de
+
+aux
+
+procédures
+
+administratives
+
+et
+
+Cette limitation
+
+apparaît
+
+donc nécessaire
+
+Toutefois, concernant les autres finalités pour lesquelles les donnéespourraient être traitées,
+comme par exemple à des fins de gestion administrative, la Commission regrette que les
+auteurs du projet de loi n'aient pas indiqué les durées de conservation de telles données, de
+sorte que la CNPD n'est pas en mesure d'apprécier si en l'occurrence, le principe de durée de
+consen/ation limitée des données a été respecté concernant la collecte de ces données.
+
+III.
+
+Sur les agréments d'armurier et de commerçant d'armes ainsi que sur les
+agréments des salariéset collaborateurs des armuriers
+
+Les articles 15 (Les agréments d'armurier et de commerçant d'armes) et 17 (Salariés et
+collaborateurs des armuriers) du projet de loi visent à soumettre les armuriers ainsi que leurs
+salariés, collaborateurs, et les commerçants d'armes à un agrémentdu ministre afin d'exercer
+leur activité d'armurier ou professionnelle.
+
+Il convient de relever que les auteurs du projet de loi précisent au paragraphe (2) de l'article
+
+15 que « l'agrément ne peut être accordé qu'aux personnes physiques qui présentent les
+garanties d'honorabiliténécessaires(... ). L'honorabilités'appréciesur base du comportement
+et des antécédentsdu requérantet de tous les élémentsfournis par /'enquête administrative,
+effectuée parle Ministre suite à l'introduction d'une demande aux fins de l'octroi d'agrément ».
+L'article 17 du projet de loi se réfère également à la notion d'honorabilité en ce qu'il dispose
+
+que « L'agrémentne peut être accordé qu'aux personnes .' (... ) qui présentent les garanties
+d'honorabilité nécessaires ».
+
+7 Le considérant 9 de la directive dispose que : « Compte tenu du caractère dangereux et de la durabilité des armes à feu et de
+leurs parties essentielles, afin de garantir que tes autorités compétentes sont en mesure de tracer les armes à feu et les parties
+essentielles aux fins de procédure administratives et pénales et en tenant compte du droit procédural national, i! est nécessaire
+
+que les enregistrements danslesfichiers de donnéessoient conservéspendant une duréede trente ans après!adestruction des
+armes à feu ou des parties essentielles concernées. ».
+
+CNPD
+
+Avis de la Commission nationale pour la protection des données relatif au
+projet de loi n°7425f00
+
+9/15
+
+Or, la CNPD se demande quels sont les critères d'appréciation d'une telle « honorabilité »
+alors qu'aucune précision supplémentaire n'est indiquée dans le projet de loi. De même qu'elle
+se demande quelles sont les vérifications susceptibles cf'être opérées par le ministre dans le
+cadre de « l'enquête administrative », notamment quelles sont les données que celui-ci pourra
+
+consulter ? En effet, une telle procédure n'est pas détaillée dans le projet de la loi sous avis.
+Concernant les notions d'« honorabilité » et d' « enquête administrative », il convient d'attirer
+l'attention des auteurs du projet de loi sur le fait que des notions similaires sont indiquées dans
+la loi modifiée du 2 septembre 2011 réglementant l'accès aux professions d'artisan, de
+commerçant, d'industriel ainsi qu'à certaines professions libérales (ci-après la « loi modifiée
+du 2 septembre 2011 »), le règlement grand-ducal du 1er décembre 2011 déterminant les
+modalités de l'instruction administrative prévue à l'article 28 de la loi modifiée du 2 septembre
+2011 (ci-après le « règlement grand-ducal du 1 er décembre 2011) et le règlement grand-ducal
+du 28 avril 2015 portant création des traitements de données à caractère personnel
+nécessaires à l'exécution de l'article 32 de la loi modifiée du 2 septembre 2011 (ci-après le
+« règlement grand-ducal du 28 avril 2015 »).
+Par exemple, le chapitre 3 de la loi modifiée du 2 septembre 2011 intitulé « L'honorabilité
+
+professionnelle » définit cette notion et en précise les critères d'appréciation. L'article 2,
+paragraphe (4) du règlement grand-ducal du 1 er décembre 201 1 précise quant à lui les pièces
+
+devant être fournies par le demandeur et sur lesquelles son honorabilité sera appréciée.
+Il convient encore de relever que l'article 28 de ladite loi dispose que : « L'autorisation
+d'établissement est délivrée parle ministre après une instruction administrative. Les modalités
+de l'instruction administrative et les pièces à produire seront déterminées par règlement grandducal ». Le paragraphe (2) de l'article 32 de la loi précitée ainsi que l'article 2 du règlement
+grand-ducal du 28 avril 2015 énumèrent les traitements de données à caractère personnel
+auxquels peut accéder le ministre dans le cadre de cette instruction administrative.
+
+La CNPD estime, dès lors, nécessaire que les critères d'appréciation de l'honorabilité telle que
+visée aux articles 15 et 17 du projet de loi soient précisés, de même qu'il est également
+nécessaire de détailler les données auxquelles peut accéder le ministre dans le cadre de
+
+l'enquête administrative. Les auteurs du projet de loi pourraient s'ils le souhaitent s'inspirer
+des dispositions légales précitées concernant la délivrance d'une autorisation d'établissement.
+IV.
+
+Sur le traitement de données relatives aux infractions pénales et à la santé
+
+Il ressort du projet de loi que les données à caractère personnel relatives à la santé (article 14
+du projet de loi) et aux infractions pénales sont collectées (paragraphe (4) de l'article 13 et
+paragraphe (2) de l'article 22 du projet de loi) par le ministre. La Commission nationale se
+
+félicite que des bases légales aient été introduites pour le traitement des données précitées
+mais déplore toutefois que leurs finalités n'aient pas été précisées dans le projet de loi alors
+que ces traitements impliquent notamment la collecte de données sensibles au sens de l'article
+9 du RGPD8.
+
+8 [-'article 9, paragraphe (1) dispose que : « Le traitement des données à caractère personne! qui révèle l'ohgine raciale ou
+ethnique. Sesopinions poliîiques, les convictions reHgieuses ou philosophiques ou /'appartenance syndsca!e, amst que !e traitement
+des données génétiques, des données biométriques aux fins d'identifier une personne physique de manière unique, des données
+concernant ta santé ou des données concernant Savie sexuelle ou l'onentation sexueiie d'une personne physique sont snîerdits. »
+
+CNPD
+Avis de la Commission nationale pour la protection des données relatif au
+projet de loi n°7425/00
+10/15
+
+1. Sur le traitement des données relatives aux infractions
+
+Tout d'abord, la Commission nationale suggère que le paragraphe (4) de l'article 13 du projet
+de loi concernant le traitement des données relatives au bulletin n°2 du casier judiciaire se
+
+réfère aux dispositions de l'article 8, point 1) de la loi modifiée du 29 mars 2013 relative à
+
+l'organisation du casier judiciaire, telle qu'elle a été modifiée par une loi du 23 juillet 20169,
+comme précisé par les auteurs du projet de loi dans leur commentaire dudit article.
+Il convient encore de préciser que l'article 1er du règlement grand-ducal du 23 juillet 2016
+fixant la liste des administrations et personnes morales de droit public pouvant demander un
+bulletin 2 ou 3 du casier judiciaire avec l'accord écrit ou électronique de la personne
+concernée, dispose que le bulletin n°2 : « peut être délivré sur demande et avec /'accord
+exprès de façon écrite ou électronique de la personne concernée ». La Commission nationale
+recommande donc que le paragraphe (4) de l'article 13 se réfère à ces dispositions légales,
+plus particulièrement en ce qui concerne le consentement de la personne concernée.
+De plus, conformément à la définition du consentement au sens du RGPD, le consentement
+doit être spécifique, c'est-à-dire qu'il doit correspondre à un seul traitement, pour une finalité
+déterminée. Dans ses lignes directrices sur le consentement au sens du RGPD, le Groupe de
+travail « Article 29 » précise que : « conformément à l'article 5, paragraphe (1), point b), du
+RGPD, l'obtention d'un consentement valable est toujours précédée de la détermination d'une
+
+finalité déterminée, explicite et légitime pour l'activité de traitement envisagée. Combinée à la
+notion délimitationde la finalitéde l'article 5, paragraphe (1), point b), la nécessitéd'obtenirun
+consentement spécifique sert de garantie contre l'élargissement ou l'estompement progressif
+des fins auxquelles les données sont traitées après qu'une personne concernée a donné son
+consentement à la collecte initiale de ses données »10. Or, la formulation actuelle du
+
+paragraphe (4) de l'article 13 du projet de loi en ce qu'il dispose que « la personne concernée
+consent au traitement de ses données personnelles, y compris à ce que le bulletin n°2 du
+
+casier judiciaire soit délivré directement par le procureur général d'Etat au Ministre. » ne
+permet pas de satisfaire à cette condition.
+
+Dans un souci de clarté et compte tenu des développements qui précèdent, la Commission
+
+recommande que soit reformulé le paragraphe (4) de l'article 13 afin de refléter l'intention du
+législateur qui est de permettre au ministre, lorsque la personne concernée marque son
+accord, de demanderdirectement auprèsdu procureurgénérald'Etat un bulletin n°2 du casier
+
+judiciaire. Au cas où la personne concernée ne donne pas son accord, il faudrait qu elle
+fournisse elle-même le bulletin du casier. Le passage « la personne concernée consent au
+traitement de ses données à caractère personnel » devrait donc être supprime.
+
+9 L'article 8, paragraphe (1) de la loi du dispose que : « Le bulletin N' 2 d'une personne physique ou morale est délivré sur
+demande:
+
+1) aux administrations de i'Eiat, administrations communales et personnes morales de droit public saisies, dans le cadre de leurs
+missions légales, d'une demande présentée par !a personne physique ou morale concernée, laquelle a donné son accord de
+manière écnte ou électronique afin que le bulletin N' 2 soit délivré directement a l'administration ou a la personne morale de droit
+pubSsc.
+
+La liste des administrations et personnes morales de droit publie et les motifs d'une demande de délivrance sont fixés par
+
+règlement grand-ducal; »
+
+10Page13des lignesdirectrices surle consentement au sens du RGPD,Groupedetravail « Article 29 », adoptéesle 28 novembre
+2017, version réviséeet adoptée le 10 avril 2018
+
+CNPD
+
+Avis de la Commission nationale pour la protection des données relatif au
+projet de loi n'7425/00
+
+11/15
+
+La Commission nationale relève encore que les auteurs du projet de loi ont introduit de
+nouvelles dispositions visant à permettre, dans le cadre de la délivrance d'obtention de permis
+d'armes, au ministre de consulter les informations figurant au « registre spécial prévu par
+l'article 15 de la loi modifiée du 10 août 1992 relative à la protection de la jeunesse »11 dans
+l'hypothèse où le requérant serait âgé de moins de 21 ans au moment de l'introduction de la
+
+demande. Ces nouvelles dispositions prévues par la 21èmephrase du paragraphe (2) de l'article
+22 du projet de loi, soulèvent certaines interrogations de la part de la Commission nationale.
+En effet, les auteurs du projet de loi indiquent eux-mêmes dans leurs commentaires que ces
+nouvelles dispositions ont étéajoutées afin de permettre au ministre d'obtenir plus facilement
+['obtention de ces informations car « la pratique a montré qu'il y a beaucoup de réticences à
+fournir les informations en question au Service des armes prohibées, principalement pour des
+raisons, légitimes bien sûr, tenant à la confidentialité des informations concernées. ».
+
+Selon le principe de minimisation des données, seules les données à caractère personnel
+nécessaire à la réalisation des finalités doivent être traitées, compte tenu du risque que le
+traitement fait peser pour la vie privée des personnes concernées.
+
+Compte tenu des développements précédents, la CNPD se demande ainsi s'il n'existerait pas
+des moyens alternatifs, moins intrusifs et moins attentatoires à la vie privée des mineurs
+concernés, mais permettant d'amver aux mêmes finalités. Dans l'hypothèse où des moyens
+alternatifs ne pourraient être mis en ouvre, la Commission nationale recommande que des
+garanties soient prévues afin de limiter les risques d'atteintes à la vie privée des mineurs
+
+concernés. De telles garanties pourraient être mises en place en prévoyant un accès restrictif
+à ces données 2.
+2. Sur le traitement des données relatives à la santé
+La CNPD relève que les données relatives à l'attestation médicale sont des données sensibles
+
+au sens de l'article 9 du RGPD car elles concernent la santé des personnes concernées et
+rappelle que de tels traitements requièrent
+exigences plus strictes.
+
+une
+
+protection spécifique1 3
+
+et sont soumis à des
+
+De plus, il convient de soulever que le CEPD a précisé dans son avis du 17 février 2014 que :
+« tes « examens médicaux » devraient être définis. Les données pouvant être/susceptibles
+d'être traitées à ces fins devraient être énumérées de façon stricte, et des procédures de
+contrôle devraient être spécifiées de manière claire. Les raisons médicales de refus d'un
+permis devraient être indiquées clairement. »14.
+
+L'article 15 de la loi modifiée du 10 août 1992 relative à la protection de la jeunesse dispose que : « Les décisions du tribunal
+oudujugedelajeunessenesontpastnscritesaucasierjudidaire. AI'exceptsondeceaesprisesen vertu de l'article 302 du code
+civil, elles sont toutefois mentionnéessur un registre spécialtenu par le préposéau casierjudiciaire.
+
+Sont égalementmentionnées sur le registre spécialles condamnations prononcéespar une juridiction répressive à charge d'un
+mineur.
+
+Ces décisionset condamnattons peuvent être portées à la connaissance des autoritésjudiciaires. Elles peuvent également être
+portées à la connaissance des autorités administratives dans les cas où ces renseignements sont indispensabtes pour
+l'applicaîion d'une disposition iégaieou réglementaire, ainsique des tiers lésés, s'ils le demandent. »
+12Voir point 11. 5} du présent avis
+
+13Voir les affaires rendues par la CJUE du 8 avril 1992, C-62/90, point 23 et du 5 octobre 1994, C-404/92 P, point 17.
+14 Point 29, page 9 de l'Avis du CEPD
+
+CNPD
+Avis de la Commission nationale pour la protection des données relatif au
+projet de loi n°7425/00
+12/15
+
+Par ailleurs, la Commission se demande s'il ne faudrait pas préciser les critères sur lesquels
+
+doit porter l'examen médical afin de déterminer si l'état de la personne constitue ou ne
+constitue pas un risque pour son intégrité physique, celle d'autrui ou pour l'ordre et la sécurité
+publics ?
+3.
+
+Remaraues finales
+
+Enfin et tel que cela a été relevé à juste titre par la Chambre de Commerce dans son avis du
+2 mai 2019
+
+sur
+
+le
+
+présent projet
+
+de loi1 5, l'article 5
+
+paragraphe (2)
+
+de la directive1
+
+6
+
+qui prévoit
+
+un système de suivi des autorisations d'acquisition et de détention d'armes na pas été
+transposé par les auteurs du projet de loi. Il conviendrait donc de compléter l'article 22 du
+projet de loi afin de prévoir un tel système de suivi. Ledit système permettrait, en outre, au
+responsable du traitement de mettre à jour, rectifier ou supprimer les données qu'il collecte.
+V.
+
+Sur le registre des armes tenu par les armuriers
+
+La Commission nationale relève que la tenue d'un tel registre est prévu par l'article 12 de la
+loi modifiée du 15 mars 1983 sur les armes et munitions. L'article 1 9 du projet de loi concernant
+
+le registre d'armes reprend ce principe et transpose les dispositions de l'article 4, paragraphe
+(4), alinéa 5, de la directive.
+
+Parailleurs, en plus de la transposition desdispositions précitées,le paragraphe (4) de l'article
+19 du projet de loi prévoit une « connexion électronique » par les armuriers au fichier visé à
+l'article 13 du projet de loi, ce qui n'est pas prévu sous l'empire de la loi du 15 mars 1983.
+La CNPD se demande si ces dispositions ont pour but d'assurer un partage efficace des
+informations entre les armuriers et le ministre afin d'assurer un bon fonctionnement des fichiers
+
+de données, comme cela est précisédans le considérant 10 de la directive. Dans le cadre d'un
+tel partage, ledit considérant prévoit notamment que «(... ) les autorités nationales
+compétentes devraient mettre au point un moyen de connexion électronique accessible aux
+armuriers et aux courtiers, qui peut inclure la transmission des informations par courrier
+électronique ou l'inscription directe sur une base de données ou sur un autre registre ».
+Toutefois, la Commission nationale estime que le paragraphe (4) de l'article 19 du projet de
+
+loi n'est pas rédigé avec suffisamment de précision et de clarté pour comprendre quelle est la
+relation que souhaite mettre en place les auteurs du projet de loi entre les fichiers de l'article
+13etdel'article 19.
+
+La CNPD se demande si l'intention des auteurs du projet de loi est de permettre aux armuriers
+
+d'avoir accès au fichier de ['article 13 du projet de loi. Dans ce cas, il conviendrait que cet
+accès soit strictement encadré alors que les échanges mutuels de données entre un acteur
+
+15 Avis de la Chambre de Commerce du 2 mai 2019 (document n"7425/01), voir ses commentaires concernant l'article 22
+
+16 L'articte 5 paragraphe (2) de la directive dispose que « Les Etats membres disposent de suivi, qui fonctionne de manière
+continue ou périodique, vssant à garantir que tes conditions d'octroi d'une autorisation fixées par le droit national sont rempies
+pour toute la durée de i'autorisation et que, notamment, les informations médicales et psychologiques pertinentes sont évaluées.
+Les modalités spécifiques sont déterminées conformément au droit national. Lorsque l'une des conditions d'ocîroi dune
+autorisation n'est plus remplie, les Etats membres retirent i'autorisation correspondante. »
+
+CNPD
+
+Avis de la Commission nationale pour la protection des données relatif au
+projet de loi n°7425/00
+
+13/15
+
+du secteur public et du secteur privé présentent certains risques d'un point de vue de la
+protection de la vie privée et des données à caractère personnel. La Commission nationale
+
+souligne la nécessité de respecter le principe de minimisation des données, selon lequel tout
+traitement de données doit être proportionné aux finalités à atteindre, compte tenu du risque
+que le traitement fait peser pour la vie privée des personnes concernées. De plus, la CNPD
+se demande à quelles données auront accèsles armuriers, quels seront leurs moyens d'accès
+et quelles seront les mesures de sécuritémises en place dans le cadre de ces accès ?
+
+La Commission nationale remarque encore que l'obligation de conservation d'un tel registre
+par l armurier même après la cessation de son activité, tel que cela est prévu au paragraphe
+(3) de l'article 19, est susceptible d'être problématique. En effet, comment cette obligation de
+conservation minimum de 30 ans pourra être respectée en pratique si l'armurier cesse son
+activité au bout de 20 ans, soit avant la période minimum précitée ?
+
+A ce titre, la CNPD constate que l'article 4, paragraphe (4), dernier alinéa de la directive ne
+prévoit pas une telle obligation, mais dispose que « Lorsqu'ils cessent leurs activités, les
+
+armuhers et les courtiers remettent ce registre aux autorités nationales responsables des
+fichiers de données prévus au premier alinéa ». Dès lors et dans un souci de transposition
+correcte de la directive en droit national, la Commission nationale recommande de reprendre
+littéralement les dispositions de l'artide précité à ce sujet et que les auteurs du projet de loi
+prévoient donc que le registre soit transmis au ministre lorsque les armuriers cessent leur
+activité.
+
+VI.
+
+Sur laccès car les agents de l'Administration des douanes au fichier des armes
+prohibées
+
+Le paragraphe (6) de l'article 52 prévoit un accèsaux agents de l'Administration des douanes
+et accises dans le cadre de l'exercice de leurs fonctions telles que définies aux paragraphe (1)
+
+à (4) de l'article 52 précité. La CNPD regrette que le présent projet de loi ne soit pas
+accompagné d'un projet de règlement grand-ducal qui viendrait préciser les catégories de
+données auxquelles pourraient accéder les agents de ['Administration des douanes, de sorte
+qu'elle n'est pas en mesure d'apprécier si le principe de minimisation des données est
+respecté.
+
+Par ailleurs, il ne ressort pas clairement dudit article sur quel fichier cet accès porte, car celuici mentionne le fichierdes armes prohibés. Comme exposé au point l) du présent projet de loi,
+ce fichier n'est pas définidans le projet de loi mais est mentionné dans le texte de l'ancienne
+
+loi. Cette imprécision mériterait d'être clarifiée et le législateur devrait indiquer précisément sur
+quel fichiercet accèsporte. En effet, cela permettrait d'éviterque les agents de l'Administration
+
+des douanes et accises aient accèsà un fichier lorsqu'un tel accès n'est pas justifié dans le
+cadre de leurs missions légales.
+
+Enfin, la Commission nationale se félicite que les auteurs du projet de loi aient précisé les
+modalités d'accèsau fichierdes armes prohibées, de même qu'ils aient prévu une traçabilité
+des accèsparles agentsautorisés.Concernant la traçabilitédesaccès, il est renvoyéau point
+11. 5. iii, du présent avis.
+
+CNPD
+
+Avis de la Commission nationale pour la protection des données relatif au
+projet de loi n°7425/00
+14/15
+
+Ainsi décidé à Esch-sur-Alzette en date du 8 juillet 2019.
+La Commission nationale pour la protection des données
+
+/)frJ
+Tine A. Larsen
+Présidente
+
+Thierry Lallemang
+
+Cl?rfefophe Buschmann
+
+Commissaire
+
+C'ommissaire
+
+Marc Lemmer
+Commissaire
+
+ÏT
+
+CNPD
+
+Avis de la Commission nationale pour la protection des données relatif au
+projet de loi n°7425/00
+
+15/15
+
+

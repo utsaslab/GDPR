@@ -1,0 +1,2329 @@
+Avis de la Commission nationale pour la protection des données relatif au fichier central
+
+de la Police grand-ducaleau regard de la législation sur la protection des données
+Délibération n°45/2019 du 13 septembre 2019
+
+Conformément à l'article 46, paragraphe 1er, lettre (e) de la directive (UE) n" 2016/680 du 27 avril
+2016 relative à la protection des personnes physique à l'égard du traitement des données à
+caractère personnel par les autorités compétentes à des fins de prévention des infractions
+
+pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales, et à la
+
+libre circulation de ces données, et abrogeant la décision-cadre 2008/977/JAI du Conseil' (ciaprès désignée « la Directive »), à laquelle se réfère l'article 8 de la loi du 1er août 2018 portant
+organisation de la Commission nationale pour la protection des données et du régime général
+sur la protection des données (ci-après désignée « loi du 1er août 2018 portant organisation de la
+Commission nationale pour la protection des données et du régime général sur la protection des
+données »), la Commission nationale pour la protection des données (ci-après désignée « la
+Commission nationale » ou « la CNPD »), «conseille la Chambre des députés, le Gouvernement
+et d'autresinstitutionset organismesau sujetdes mesures législativeset administrativesrelatives
+à la protection des droits et libertés des personnes physiques à l'égard du traitement des données
+personnelles ».
+
+Eu égard à la mission de conseil qui lui est attribuée, la CNPD a été sollicitée par Monsieur le
+Ministre de la Sécurité intérieure pour rendre un avis au sujet du fichier central de la Police grandducale au regard de la législation en matière de protection des données.
+
+Si le domaine des fichiers de la Police est peu connu et suscite de réelles inquiétudes des
+citoyens quant au respect des libertés publiques et de la protection de leurs données
+
+personnelles, les fichiers constituent néanmoins des outils indispensables à ['exécution des
+missions des forces de police.
+
+Afin de répondreau mieux à la demande d'avis qui lui a étésoumise, la CNPD s'est nourri des
+préoccupations citoyennes, des nombreuses questions parlementaires émanant des députés et
+des réponses à ces interrogations par les ministres concernés. La CNPD a également sollicité
+les autorités de la protection des données d'autres Etats membres afin que ces dernières la
+renseignent quant au cadre légal en matière de protection des données encadrant les fichiers
+
+policiers dans leurs pays. De surcroît, au cours de l'été 2019, la CNPD s'est réunie à plusieurs
+reprises avec la Police grand-ducale(ci-après désignée« la Police »), dans le but d'approfondir
+sa compréhensionde la gestion et l'exploitation qui est faite du fichier central par cette dernière.
+Le présent avis se consacre exclusivement au fichier dit « central » de la Police grand-ducale.
+L'avis, qui n'a pas vocation à consacrer le résultat d'une enquêteau sens de ('article 8, 10° de la
+loi du 1er août 2018 portant organisation de la Commission nationale pour la protection des
+données et du régime général sur la protection des données, se limite à fournir une réponse à la
+question posée par le Ministre de la Sécuritéintérieure. L'avis se divise en trois parties. Après
+' JOL 119, 4. 5. 2016, p. 89-131
+tÇNPD
+
+s^h ;o-^,»ic.
+:£^ .^^
+
+Commission nationale pour la protection des données
+Délibération n" 45/2019 du 13 septembre 2019 de la Commission nationale pour la
+protection des données relatif au fichier central de la Police grand-ducale au regard de la
+législation sur la protection des données
+
+1/34
+
+une partie introductive sur la composition et l'utilisation du fichier central, il adresse l'utilisation
+dudit fichier par la Police et l'encadrement légal dont il fait l'objet. Sur la première partie,
+consacrée à l'encadrement du fichier central par la loi du 1er août 2018 relative à la protection des
+
+personnes physiques à l'égard du traitement des données à caractère personnel en matière
+pénaleainsi qu'en matièrede sécuriténationale, s'enchaïnera une analyse de la qualitéde la loi
+encadrant le fichier central. L'avis s'achèvera
+recommandations à l'attention des autorités.
+
+sur une
+
+conclusion
+
+comprenant
+
+des
+
+Introduction
+
+Selon les explications fournies par la Police, le fichier central existe depuis que les services de
+police ont commencé à rédiger des procès-verbaux et rapports afin de les transmettre aux
+
+autorités judiciaires conformément à la toi, alors qu'il fallait disposer d'un outil permettant
+d'assurer le suivi adéquat de ces procès-verbaux et rapports. Le fichier central est opérationnel
+sous forme informatisée depuis 2005.
+
+Le responsable du traitement est la Police, représentée par son Directeur général. La saisie des
+données, qui correspond concrètement à une digitalisation des documents rédigés par les
+officiers et agents de police judiciaire de la Police, est assurée par un service dédié.
+Sont centralisés au sein du fichier central les procès-verbaux et les rapports de la Police. Cette
+
+centralisation a comme finalités la prévention des infractions d'une part et la recherche et la
+constatation des infractions d'autre part. En d'autres termes, le fichiercentral est un outil de travail
+de la Police qui est nécessaire à l'accomplissement de ses missions telles que prévues par la loi
+du 18juillet 2018 sur la Police grand-ducale, ci-après désignées « la loi Police ».
+Le fichier central est scindé en deux parties, l'une dite signalétique et l'autre documentaire.
+
+Dans la partie signalétique sont renseignées des métadonnées à savoir les noms, prénoms, les
+alias, la date de naissance, le lieu de naissance, le pays de naissance, la nationalité, l'adresse
+du domicile, le numéro de matricule et, le cas échéant, la date du décès des personnes
+
+concernées. La personne concernée peut être une personne physique ou une personne morale
+même s'il s'agit surtout de personnes physiques.
+
+La partie documentaire contient les procès-verbaux et les rapports regroupés au sein de dossiers.
+Chaque dossier correspond à une personne concernée. Un numéro de dossier unique est attribué
+à chaque personne concernée. Cette même personne peut être reliée à plusieurs documents
+différents en fonction du nombre d'affaires dans lesquelles elle est impliquée et qui ont donné lieu
+à un procès-verbal ou à un rapport.
+
+Pour avoir une idée plus précise quant à la volumétrie, la configuration et l'utilisation du fichier
+central, desdonnéeschiffréesque la CNPDa pu inspecterdirectementdessystèmesde la Police
+peuvent être utiles :
+
+CNPD
+
+Commission nationale pour la protection des données
+Délibération n" 45/2019 du 13 septembre 2019 de la Commission nationale pour la
+
+protection desdonnéesrelatifau fichiercentral de la Policegrand-ducaleau regard de la
+législation sur la protection des données
+
+2/34
+
+.
+
+En date du 29 juillet 2019 le système contenait 511'499 dossiers. Sur ce total, 309'175
+
+dossiers sont dits « archivés » (i. e. l'intégralité des documents y relatifs était archivée et
+une consultation de ces documents n'est donc pas possible sans procédure
+supplémentaire).
+
+Il reste donc 202'324 dossiers pour lesquels au moins un document
+
+n'était pas archivé. A remarquer aussi que ces dossiers ne concernent pas uniquement
+des personnes résidentes ou de nationalité luxembourgeoise, mais toutes les personnes
+au nom desquelles un procès-verbal ou rapport a été rédigé par la Police. 89% des
+dossiers sont constitués de moins de 5 documents, 11 % des dossiers contiennent entre
+
+6 et 50 documents et moins de 1% des dossiers contiennent plus que 50 documents.
+.
+
+Sur la périodede 2010 jusqu'à 2019, en moyenne 15'157 nouveaux dossiers ont étécréés
+par année. En termes de nouveaux documents ainsi injectés dans le système, cela revient
+à une moyenne de 55'947 documents/année. Il est à remarquer que ces chiffres ne varient
+pas significativement sur cette période.
+
+.
+
+Sur la période de 2010jusqu'à 2019, en moyenne 176'550 recherches ont étéeffectuées
+par année dans le système pour identifier la présence ou non d'une personne dans le
+système. Il est cependant à remarquer que les recherches avaient atteint un sommet en
+
+2012 avec 239'460 recherches et sont depuis lors en déclin permanent et se situent pour
+l'année 2018 à 114'802. Il s'agit dès lors d'une diminution de plus de la moitié sur les 7
+dernières années. A noter qu'une recherche d'un dossier ne signifie pas que le dossier a
+effectivement été consulté. En effet, sur la période de 2010 jusqu'à 2019, en moyenne
+36'805 dossiers ont été consultés par année. Le nombre de consultations de dossiers
+avait atteint un sommet en 2012 avec 60'270 consultations et depuis lors, il est en déclin
+quasi permanent et se situe pour l'année 2018 à 21'187 consultations, à savoir une
+diminution d'environ 2/3 des consultations sur les 7 dernières années.
+
+Selon les informationsde la Police, l'accèsaufichiercentral est accordéd'officeà chaque nouvel
+agent ou officier de police judiciaire, étant donné qu'il pourra être amené à travailler avec cet outil.
+
+En ce qui concerne l'accèset l'utilisation du fichiercentral, il est cependant important de préciser
+que ce n'est pas parce qu'un policier dispose d'un accèsau fichier central qu'il peut en faire usage
+comme il le souhaite. Ladite utilisation doit correspondre à des finalités déterminées, explicites et
+légitimes et ne peut être incompatible avec celles-ci. A titre d'exemple un policier n'a pas le droit
+de rechercher ou consulter des personnes qui ne sont pas en lien avec les dossiers qu'il est en
+train de traiter. Les logues qui sont générés lors de recherches et de consultations servent
+notamment à pouvoir détecter de tels abus.
+Lors d'un contrôle de police administrative,
+
+la consultation
+
+du fichier central se limite
+
+généralementà la partie signalétique. Dans ce cas de figure, les officiers et/ou les agents de
+police n'ont pas accèsà distance direct au fichiercentral via un dispositifmobile. L'accèsne peut
+se faire qu'à partir d'un poste de travail hébergé dans les locaux sécurisés de la Police. Ainsi, les
+policiers sont tenus de contacter leurs collègues via le Réseau National Intégré de
+Radiocommunication (ci-après désigné « RENITA »), qui effectuent en interne la recherche sur
+;CNPD
+
+Commission nationale pour la protection des données
+Délibérationn" 45/2019 du 13 septembre 2019 de la Commission nationale pour la
+protection des données relatif au fichier central de la Police grand-ducale au regard de la
+législation sur la protection des données
+
+3/34
+
+une personne donnée. Cette requête permet aux policiers sur le terrain de vérifiersi la personne
+concernéepar l'intervention ou le contrôlefaitl'objet d'un signalementou non. Au sein de la partie
+signalétique du fichier ontral, la recherche d'une personne en entrant son nom ou une autre
+métadonnée la concernant est possible.
+
+Les recherches effectuées sont loguées sous le nom du policier qui a réalisé la recherche et non
+
+pas celui qui a effectué la demande au préalable. Le retraçage des appels des policiers sur le
+terrain n'est pour le moment pas réalisé.
+
+Lors de la consultation d'un dossier d'une personne concernée au sein du fichier central, un motif
+de recherche de la partie documentaire du fichier central doit être entré afin de s'assurer de la
+
+justification et de la légitimitéde l'utilisation des donnéescontenuesdans le fichiercentral. Il peut
+s'agir de motifs libres ou des motifs prédéfinis. Les motifs prédéfinis sont au nombre de dix-huit.
+Il sont dénommés de la manière suivantes : « contrôle frontière extérieure (aéroport) », « contrôle
+
+aux frontières intérieures », « contrôle cadre police des étrangers », « contrôle cadre alerte de
+
+police », « contrôle flagrant délit/crime », « contrôle dans service d'ordre », « contrôle cadre
+contrôle national », « contrôle dans enquête judiciaire », « contrôle stupéfiants », « contrôle
+mours », « contrôle vol de véhicules », « contrôle entraide judiciaire », « contrôle code de la
+route », « contrôle cadre environnement », « contrôle armes prohibées », « contrôle dans
+
+enquêtedouanière», « contrôleSLCPI »2. Lestrois motifs les plus utiliséssont : « contrôlecadre
+contrôle national ». le « contrôle SLCPI » et le « contrôle dans service d'ordre ».
+
+Pouravoir une idéeplus précisequant auxaccèsdu fichiercentral, des donnéeschiffréesque la
+CNPD a pu inspecter directement des systèmes de la Police peuvent être utiles :
+.
+
+En date du 30 juillet 2019, un total de 1840 personnes disposaient des accès logiques
+nécessaires afin de pouvoir utiliser le système pour effectuer des recherches
+
+respectivementconsulterdes dossiers. A noterqu'àcette mêmedate, seuls 36 personnes
+disposaient des autorisations qui leur permettaient de créer un nouveau dossier. A
+rappeler que le fait de disposer des accès logiques exprime la possibilité d'utiliser le
+système, mais n'en dit rien sur l'utilisation effectivementfaite- qui doit être motivé par un
+besoin concret par rapport à un dossier.
+
+.
+
+Sur les 6 premiers mois de l'année 2019, 69 policiers ont effectués plus que 100
+recherches (i. e. recherche pour identifier la présence ou l'absence d'un dossier). Une
+grande partie des membres de la police semblent utiliser le système de manière plus
+ponctuelle. En effet, sur cette période, 589 policiers ont réaliséentre 0 et 10 recherches
+et 487 policiers ont réaliséentre 11 et 100 recherches. Il est à noter qu'afin de pouvoir
+consulter un dossier, il faut tout d'abord effectuer une recherche pour l'identifier. De ce
+fait le nombre de consultations effectives de dossiers est de fait donc inférieur au nombre
+
+2 sen/ice /ou section de liaison de la coopération policière internationale
+
+ICNPD
+
+Commission nationale pour la protection des données
+Délibération n° 45/2019 du 13 septembre 2019 de la Commission nationale pour la
+
+protection des données relatif au fichier central de la Police grand-ducale au regard de la
+législation sur la protection des données
+
+4/34
+
+de recherches effectuées. Ainsi, que 19 policiers ont donc effectivement consulté plus que
+100 dossiers sur la période indiquée.
+
+La consultation et l'utilisation des données archivées sont beaucoup plus restreintes. En effet,
+l'accès aux données archivées dans le fichier central s'effectue sur demande et doit être accordée
+
+par le Procureur général d'Etat ou un membre de son parquet délégué. La consultation avait
+originairement été basée sur l'articte 2 paragraphe 1er alinéa 3 du règlement grand-ducal du 2
+octobre 1992 relatif à la création et à l'exploitation d'une banque de données nominatives de
+
+police générale, c'est-à-dire le règlement « Ingepol» qui pour sa part n'avait jamais vraiment été
+mis en ouvre, mais dont certains critères avaient été appliquées au fichier central même au-delà
+
+de l'abrogation de ce règlementau moment de rentrée en application de la loi du 1er août2018
+portant organisation de la Commission nationale pour la protection des données et du régime
+général sur la protection des données qui opère une réforme en matière de protection des
+données et ce également pour le volet dit police/justice. En effet, cette loi abrogeait la loi modifiée
+du 2 août 2002 relative à la protection des personnes à l'égard du traitement des données à
+caractère personnel.
+
+Dans le cadre d'une demande d'accès aux données archivées sont notamment renseignés les
+éléments suivants : la date de la demande, le login du demandeur, le nom du Procureur général
+d'Etat ou un membre de son parquet déléguéqui a accordé l'accèset la période pendant laquelle
+l archive peut être consultée. A noter que le nombre d'accèsaux archives est toutefois plus limité
+puisqu'au 18 juillet 2019 avaient été enregistrées 106 demandes et ce, depuis 2005.
+
+Après cet aperçu factuel du contenu et du fonctionnement du fichiercentral, il y a à présent lieu
+d'examiner le fichier central au regard de la loi du 1er août 2018 relative à la protection des
+personnes physiques à l'égard du traitement des données à caractère personnel en matière
+pénale ainsi qu'en matière de sécurité nationale.
+
+l.
+
+L'encadrement légal du fichier central par la loi du 1er août 2018 relative à la
+protection des personnes physiques à l'égard du traitement des données à
+caractère personnel en matière pénale ainsi qu'en matière de sécurité nationale
+
+La Directive (DE) 2016/680 relative à la protection des personnes physiques à l'égard du
+traitement des données à caractère personnel par les autorités compétentes à des fins de
+prévention et de détection des infractions pénales, d'enquêtes et de poursuites en la matière ou
+
+d'exécutionde sanctions pénales,et à la libre circulationde ces données(« Directive relative à la
+protection des données pour les autorités policières et judiciaires en matière pénale » ou « la
+Directive »), a pour objet de protéger les données à caractère personnel collectées et traitées
+à des fins de justice pénale.
+
+Au niveau de l'UE, la protection des données dans le secteur de la police et de la justice pénale
+est réglementée dans le contexte du traitement transfrontalier et national par des autorités de
+
+tCNPD
+Se^ï
+iî'g^
+^iiês'
+.
+
+Commission nationale pour la protection des données
+Délibération n° 45/2019 du 13 septembre 2019 de la Commission nationale pour la
+protection des donnéesrelatif au fichiercentral de la Policegrand-ducaleau regard de la
+législation sur la protection des données
+
+5/34
+
+police et de justice pénale des États membres et des acteurs de l'UE. Au niveau des Etats
+membres, la directive relative à la protection des données pour les autorités policières et
+judiciaires en matière pénale doit être transposée en droit national.
+Dans son « Manuel de droit européen en matière de protection des données », l Agence des
+droits fondamentaux de l'Union européenne précise ce qui suit : « La directive s'appuie, dans une
+large mesure, sur les principes et définitions énoncés dans le Règlement général sur la protection
+cfes données (« RGPD »), en tenant compte de la nature spécifique des domaines de la police et
+de la justice pénale. Mais bien que ces notions s'inspirent du RGPD, la directive les traite sous
+
+l'angle spécifique des autorités policières et judiciaires en matière pénale. Par rapport au
+traitement des données à des fins commerciales, qui est régi par le règlement, le traitement de
+
+données liées à la sécurité peut nécessiter un certain degré de flexibilité. Ainsi, la fourniture du
+même niveau de protection aux personnes concernées en termes de droit à l'information, de droit
+cf'accês a teurs données personnelles ou d'effacement de celles-ci, telle qu'elle est prévue par le
+
+RGPD, pourrait avoir pour conséquence qu'une mission de surveillance menée à des fins
+répressives deviendrait inefficace dans un contexte répressif. La directive ne fait donc pas
+référence au principe de la transparence.
+
+De même, les principes de minimisation des données et de limitation de la finalité, qui imposent
+que les données à caractère personnel soient limitées à ce qui est nécessaire au regard des
+finalités pour lesquelles elles sont traitées et qu'elles soient traitées pour des finalités déterminées
+
+et explicites, doivent aussi être appliquésde manièreflexibleau traitement de donnéesliées à la
+sécurité. Les informations collectées et conservées par les autorités compétentes pour une affaire
+
+particulièrepeuvent se révélerextrêmementutiles pour la résolutiond'affairesfutures. »
+La Directive est transposée en droit national par la loi du 1eraoût 2018 relative à la protection des
+
+personnes physiques à l'égard du traitement des données à caractère personnel en matière
+pénale ainsi qu'en matière de sécurité nationale (ci-après désignée « la loi » ou « la loi de
+transposition »), qui prévoit de manière générale et encadre l'ingérence qui est faite par les
+traitements mis en ouvre par les fichiers dans les droits fondamentaux. En effet, cette loi a pour
+
+objet detransposer la directive en droit luxembourgeoiset defacto, defixerdes règlesminimales
+spécifiquesrelatives à la protection des personnesphysiquesà l'égarddutraitementdesdonnées
+à caractère personnel par les autorités compétentes visées a l'article 1 de cette loi. En d autres
+termes, même si cette loi n'est pas spécifiquement dédiée à la gestion et l'exploitation du fichier
+central, elle encadre néanmoins les traitements dudit fichier utilisé par la Police dans le cadre des
+missions qui lui sont conférées par la loi du 18 juillet 2018 sur la Police grand-ducale.
+
+A titre liminaire, il y a lieu d'analyser les dispositions applicables au traitement des données à
+caractère personnel effectué via le fichier central (A) puis de faire état des droits des personnes
+
+concernées par le traitement de leurs données à caractère personnel à travers le fichier central
+(B) pour enfin examiner les obligations du responsable du traitement quant à la gestion et
+l'exploitation dudit fichier (C).
+
+Édition2018, p. 315-317
+
+tÇNPD
+ÏÏf'
+^£Ï^-, , ;. TC. *tE
+
+Commission nationale pour la protection des données
+Délibération n" 45/2019 du 13 septembre 2019 de la Commission nationale pour la
+
+protection des données relatif au fichier central de la Police grand-ducale au regard de ia
+législation sur la protection des données
+
+6/34
+
+A. Les principes applicables au traitement des données à caractère personnel effectué
+via le fichier central
+A travers le fichier central,
+
+la Police,
+
+autorité
+
+compétente
+
+au sens
+
+de la loi de
+
+transposition4,
+
+effectue un traitement de données à caractère personnel à des fins de prévention et de détection
+des infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions
+pénales, y compris la protection contre les menaces pour la sécurité publique et la prévention de
+telles menaces5.
+Cette loi
+
+reprend
+
+la définition du fichier telle
+
+qu'établie
+
+par la directive6 à savoir
+
+«
+
+tout ensemble
+
+structuré de données à caractère personnel accessibles selon des critères déterminés, que cet
+ensemble soit centralisé, décentralisé ou réparti de manière fonctionnelle ou géographique »7.
+Etant donné que le fichier central est une base de données comprenant à la fois un ensemble de
+métadonnées et des dossiers, il correspond à la présente définition.
+L'article 3 de la loi de transposition énonce les principes que le traitement de données à caractère
+personnel doit respecter et fixe le cadre auquel le responsable du traitement doit se conformer.
+
+Dans les articles suivants, la loi énonce quelques dispositions spécifiques applicables au
+traitement des données à caractère personnel. Il s'agit, entre autres, de la mise en place des
+
+délais de conservation et d'examen (1), la distinction entre les différentes catégories de
+personnes concernées (2), la distinction entre les données à caractère personnel et vérification
+
+de la qualité des données à caractère personnel (3), de la licéitédu traitement (4) et le traitement
+portant sur des catégories particulières de données à caractère personnel (5).
+1 ) Les délais de conservation et d'examen
+
+L'article 5 de la Directive donne une marge de manouvre aux Etats membres dans la fixation
+des délais appropriés pour l'effacement des données à caractère personnel et la vérification de
+la nécessité de conserver lesdites données. Elle mentionne par ailleurs que des règles
+procédurales doivent garantir le respect des délais en question8.
+
+4 Loi du 1 " août2018 relative à la protection des personnes physiques à l'égarddu traitement des données
+à caractère personnel en matière pénale ainsi qu'en matière de sécurité nationale, article 2 paragraphe 1
+point 7.
+
+5 Ibidem, article 1er paragraphe 1.
+
+8 Directive (DE) n° 2016/680 du 27 avril 2016 relative à la protection des personnes physique à l'égard du
+traitement des données à caractère personnel par les autorités compétentes à des fins de prévention des
+
+infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales, et à la
+libre circulation de ces données, et abrogeant la décision-cadre 2008/977/JAI du Conseil, JO L 119,
+4. 5. 2016, p. 89-131, article 3 paragraphe 6.
+
+7 Loi du 1 " août 2018 relative à la protection des personnes physiques à regard du traitement des données
+à caractère personnel en matière pénale ainsi qu'en matière de sécurité nationale, article 2 paragraphe 1
+point 6.
+
+8 Directive (UE) n° 2016/680 du 27 avril 2016 relative à la protection des personnes physique à l'égard du
+traitement des données à caractère personnel par les autorités compétentes à des fins de prévention des
+infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales, et à la
+CNPD
+
+Commission nationale pour la protection des données
+Délibération n° 45/2019 du 13 septembre 2019 de la Commission nationale pour la
+protection des données relatif au fichier central de la Police grand-ducale au regard de la
+législationsur la protection des données
+
+7/34
+
+Dans son avis du 28 décembre 2017 relatif au projet de loi ( 7168) de transposition de la
+directive, la CNPD avait estimé que l'article 5 de la directive n'était pas correctement transposé
+
+en droit national. Le législateurn'a cependant pas suivi l'argumentation de la CNPD.
+Ainsi, le législateur luxembourgeois a choisi de confier au responsable du traitement la fixation
+des délais de conservation des données ainsi que les règles procédurales en vue d'assurer le
+respect
+
+de
+
+ces
+
+délais9.
+
+En l'espèce, il revient donc au Directeur généralde la Police d'établirun délai d'effacementdes
+données à caractère personnel et de veiller à ce que la durée de conservation de ces dernières
+au sein du fichier central n'excède pas ce qui est nécessaire au regard des finalités pour
+lesquelles elles sont traitées10.
+Dans sa réponse à la question parlementaire n° 752, le Ministre de la Sécurité intérieure, indique
+
+que toutes les données à caractère personnel sont conservées 10 ans à partir de leur
+enregistrement au sein du fichier central. Une telle durée tient compte des délais de prescription
+
+tels que prévus par le Code de procédure pénale, à savoir 5 ans pour les délits" et 10 ans pour
+les crimes'2. Selon la Police, l'application d'un même délai présente l'avantage de se retrouver
+avec un délai identique pour les crimes et les délits. Une distinction entre la gravité des faits basée
+
+sur la catégoried'infraction ne s'impose plus entre le crime et le délitsi le principe d'un délaiinitial
+fixe est maintenu. La distinction en fonction de la catégorie d'infraction était par ailleurs toujours
+
+délicate, alors qu'une même infraction peut répondre à plusieurs qualifications, qui peuvent
+relever de différentes catégories, et qui peuvent évoluer au cours de la procédure pénale. Par
+ailleurs, les faits, à la base d'une catégorie d'infraction constatée par la Police, sont susceptibles
+d'être requalifiés par la suite par les autorités judiciaires aux cours de la procédure.
+D'après les informations de la Police, les données relatives aux contraventions ne seraient
+actuellement plus conservées dans le fichier central.
+
+A l'expiration du délai de 10 ans, les données sont automatiquement archivées et elles sont
+censées être effacées 60 ans après leur premier enregistrement tel qu'il était prévu par le
+
+règlement grand-ducal de 1992 relatif à la création et à l'exploitation d'une banque de données
+nominatives de police générale".A ce sujet, la CNPD est d'avis que la durée d'archivage des
+données est disproportionnée au regard des finalités du fichier central et des missions de la
+Police.
+
+Les demandes d'accès à la partie archivage, qui doivent être motivées par rapport à l affaire en
+cours dans le cadre de laquelle l'accès est demandé, sont traitées au cas par cas par le Procureur
+libre circulation de ces données, et abrogeant la décision-cadre 2008/977/JAI du Conseil, JO L 119,
+4. 5. 2016, p. 89-131, article 5.
+8 Loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données
+à caractère personnel en matière pénale ainsi qu'en matière de sécurité nationale, article 4.
+"' Ibidem, considérant 26.
+
+" Article 638 du Code de procédure pénale.
+12 Ibidem, article 637.
+
+" Article 8 paragraphe 2.
+CNPD
+
+Commission nationale pour la protection des données
+Délibération n° 45/2019 du 13 septembre 2019 de la Commission nationale pour la
+
+protection des données relatif au fichier central de la Police grand-ducale au regard de la
+législation sur la protection des données
+
+8/34
+
+général d'Etat ou un de ses adjoints et l'accès est autorisé s'il résulte de la motivation de la
+
+demande, par exemple, que ces données sont nécessaires dans le cadre d'une poursuite pénale
+nationale ou internationale actuelle. La CNPD s'interroge quant à la pertinence de l'application
+dudit règlement en l'espèce et sur le caractère proportionné dudit délai. En effet, la CNPD s'est
+
+à de nombreuses reprises prononcée quant au caractère désuet du règlement grand-ducal en
+question et la nécessité de tenir compte de révolution de la législation en matière du droit à la
+protection
+
+des données à caractère
+
+personnel1 4.
+
+Elle estime,
+
+que le besoin de conservation
+
+devrait s'appliquer en fonction de l'issue d'une affaire tel que le classement sans suite, le nonlieu, l acquittement, la condamnation ou la réhabilitation, tout en préservant toutes les garanties
+des personnes intéressées en cas de révision, ainsi que la flexibilité nécessaire pour mener à
+bon terme ses missions. Or, sans un retour qualifié de la part des autorités judiciaires, la Police
+n'est pasen mesurede répondreà ses obligationsde mises à jour ou d'effacementdes données.
+
+La CNPD salue d'autant plus la réponse à la question parlementaire n°752, selon laquelle la
+Police et le Ministère Public travaillent à la mise en place d'un système de transmission
+automatisé d informations succinctes sur le suivi réservé par les autorités judiciaires aux procèsverbaux transmis par la Police.
+
+Il peut également être ajouté que la police n'avait pas mis en place des règles procédurales'5 en
+vue d assurer le respect des délaisde conservation, ainsi que de la proportionnalité"de la durée
+
+u Voir notamment les avis suivants :
+
+Avis complémentaire du 1er décembre 2017 de la Commission nationale pour la protection des données
+relatif au projet de loi n°7045 sur la Police grand-ducale et portant modification et abrogation de plusieurs
+dispositions légales.
+
+Point 4 de l'avis du 24 mars 2017 de la Commission nationale pour la protection des données relatif au
+projet de loi n°7044 portant réforme de l'Inspection générale de la Police, du projet de règlement grand-
+
+ducal relatif au fonctionnement de l'Inspection généralede la Police et au projet de loi n°7045 portant
+réforme de la Police grand-ducale,
+
+Point 1. 1 de l'avisdu 17 novembre 2016 de la Commission nationale pour la protection des données relatif
+au projet de loi n 6976 relatif à l'échange de donnée à caractère personnel et d'informations en matière
+policière,
+
+Point 3 de l'avis du 30 juillet 2015 de la Commission nationale pour la protection des données relatif au
+projet de loi n°6759 portant approbation du « Memorandum of Understanding between the Government of
+
+the Grand-Duchyof Luxembourgandthe United StatesofAmericaforthe exchangeofterrorism screening
+information », signé à Luxembourg le 20juin 2012 et au projet de loi n°6762 portant approbation de l'Accord
+entre le Gouvernement de Luxembourg et de Gouvernement des Etats-Unis d'Amérique aux fins du
+
+renforcement de la coopération en matière de prévention et de lutte contre le crime grave, signé à
+Luxembourg le 3 février 2012,
+
+Avis du 25 juillet 2013 de la Commission nationale pour la protection des données relatif au projet de loi
+n 6566 facilitant l'échange transfrontalier d'informations concernant les infractions en matière de sécurité
+routière.
+
+15Art 4 (2) Loi du 1'r août2018 relative à la protection des personnes physiques à regard du traitement
+des données à caractère personnel en matière pénale ainsi qu'en matière de sécurité nationale.
+
+Art 7 (2) Loi du 1eraoût2018 relative à la protection des personnes physiques à l'égard du traitement
+des données à caractère personnel en matière pénale ainsi qu'en matière de sécurité nationale.
+
+.
+
+CNPD
+
+Commission nationale pour la protection des données
+Délibération n° 45/2019 du 13 septembre 2019 de fa Commission nationale pour la
+protection des données relatif au fichier central de la Police grand-ducale au regard de la
+législation sur la protection des données
+
+9/34
+
+de conservation des données à caractère personnel, compte tenu de l'objet du fichier et de la
+nature ou de la gravitédes infractions et faits concernés tels que prévus par la loi de transposition.
+2) La distinction entre différentes catégories de personnes concernées
+
+LA CNPD a constaté qu'au sein des documents repris dans le système, il n'est pas
+techniquement possible de faire une distinction de manière structurée entre les personnes ayant
+commis une infraction (ou suspectée d'avoir commis une infraction), les personnes reconnues
+
+coupables d'une infraction pénale, des victimes d'infractions pénales, les tiers à une infraction
+pénaletelles que les témoins, des contacts ou des associésaux personnes précédemment visées
+prévu
+
+tel que
+
+à la fois par la Directive1 7 et par la loi de
+
+transposition18.
+
+Les dossiers et les
+
+documents qui sont contenus dans le fichier ne sont donc pas classés en fonction de la qualité
+de la personne concernée.
+
+3) La distinction entre les données à caractère personnel et vérification de la qualité des
+données à caractère personnel
+
+La Directive dispose que les Etats membres prévoient que les données à caractère personnel
+fondées sur des faits sont, dans la mesure du possible, distinguées de celles fondées sur des
+appréciations personnelles1
+
+9.
+
+Elle dispose également que toutes les données à caractère personnel qui ne sont pas a jour ne
+disposition2
+transposition reprend de telles dispositions.
+peuvent
+
+être transmises
+
+ou
+
+mises à
+
+0.
+
+En
+
+transposant
+
+la Directive,
+
+la loi de
+
+Au cours des travaux qu'elle a menés, la CNPD n'a pas constaté l'existence d'appréciations
+
+personnelles au sein du fichier central. La CNPD n'a toutefois pas non plus pu constater la mise
+en ouvre d'une procédurede vérification quant à la qualitédes donnéesà caractèrepersonnel
+par la Police. A cet égard, il peut être mentionné que la quasi absence de retours des autorités
+
+judiciaires à l'égard de la Police en ce qui concerne les dossiers qui lui sont transférésapparaît
+compromettre l'existence d'une telle vérification. Un système de transmission automatisé
+
+17Directive(UE) n° 2016/680du 27 avril 2016relative à la protectiondes personnes physiqueà l'égarddu
+traitement des données à caractère personnel par les autorités compétentes à des fins de prévention des
+infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales, et à la
+libre circulation de ces données, et abrogeant la décision-cadre 2008/977/JAI du Conseil, JO L 119,
+4. 5. 2016, p. 89-131, article 6.
+
+18Loidu 1eraoût2018 relative à la protection des personnes physiques à regard du traitement des données
+à caractère personnel en matière pénale ainsi qu'en matière de sécurité nationale, article 5.
+19 Directive (UE) n° 2016/680 du 27 avril 2016 relative à la protection des personnes physique à l'égard du
+traitement des données à caractère personnel par les autorités compétentes à des fins de prévention des
+
+infractionspénales,d'enquêteset de poursuites en la matièreou d'exécutionde sanctionspénales, et à la
+libre circulation de ces données, et abrogeant la décision-cadre 2008/977/JAI du Conseil, JO L 119,
+4. 5. 201B, p. 89-131, article 7 paragraphe 1.
+20 Ibidem, article 7 paragraphe 2.
+
+CNPD
+
+Commission nationale pour ta protection des données
+Délibérationn° 45/2019du 13 septembre 2019de la Commission nationale pour la
+
+protection des donnéesrelatifau fichiercentral de la Policegrand-ducaleau regard de la
+législation sur la protection des données
+
+10/34
+
+d informations sur le suivi des affaires effectué par les autoritésjudiciaires devrait néanmoins voir
+le
+
+jour
+
+et favoriser la mise à jour des données contenues
+
+au
+
+sein du fichier central2 1.
+
+4) Les finalités
+
+Dans le cadre de la Directive, les responsables de traitement sont des autorités publiques
+compétentes ou d'autres organismes investis de prérogatives de puissance publique, qui
+déterminent les finalités et les moyens du traitement de données à caractère personnel. La
+directive impose plusieurs obligations au responsable du traitement afin d'assurer un niveau élevé
+de protection des données à caractère personnel traitées à des fins répressives2 2.
+
+Tandis que la Directive dispose que les Etats membres doivent prévoir que le traitement n'est
+licite que si et dans la mesure où il est nécessaire à l'exécution d'une mission effectuée par une
+autorité compétente, pour des finalités énoncées à l'article 1" paragraphe 1er", et où il est fondé
+
+sur le droit de l'Union ou le droit d'un Etat membre, la loi de transposition prévoit que ce même
+traitement n'est licite que si et dans la mesure où il est nécessaire à l'exécution des missions de
+
+l'autorité compétente [... ] pour une des finalitésénoncéesà l'article 1er et lorsque cette mission
+est effectuée en application des dispositions législatives régissant l'autorité compétente visée.
+Cette transposition réduit le champ des hypothèses dans lesquelles un traitement peut être licite
+à celles, où les missions à l'exécution desquelles il est nécessaire sont effectuées en application
+des dispositions législatives régissant l'autorité compétente visée, en l'espèce la Police et dont
+les finalités sont couvertes par l'article 1erde la Directive. Il s'ensuit, que même en l'absence d'une
+législation ou d'une documentation plus explicite sur les finalités spécifiques du fichier central, sa
+licéité ne peut pas être contestée.
+
+5) Le traitement portant sur des catégoriesparticulières de donnéesà caractère personnel
+au sein du fichier central
+
+Les données sensibles doivent faire l'objet d'une protection particulière lorsqu'elles font l'objet de
+traitements et ceux-ci ne doivent intervenir que dans des cas de nécessité absolue et se limiter
+aux conditions suivantes :
+
+La réponse à la question parlementaire n°752 « La Police et le Ministère Public travaillent à la mise en
+place d'un système de transmission automatisé d'informations succinctes sur le suivi réservé par les
+autorités judiciaires aux procès-verbaux transmis par la Police afin notamment d'assurer qu'en cas
+d'acquittement, l'accès aux données par les policiers soit supprimé et que les données en question soient
+transférées à la partie archivage où elles ne peuvent être accédées que sur autorisation écrite du Procureur
+générald'Etat ou d'un de ses adjoints ».
+
+Manuel de droit européen en matière de protection des données, Édition 2018, Agence des droits
+fondamentaux de ['Union européenne et Conseil de l'Europe, p. 320
+
+Article premier, 1. La présente directive établit des règles relatives à la protection des personnes
+physiques à regard du traitement des données à caractère personnel par les autorités compétentes à des
+fins de prévention et de détection des infractions pénale, d'enquêtes et de poursuites en la matière ou
+d exécution de sanctions pénales, y compris la protection contre les menaces pour la sécurité publique et
+la prévention de telles menaces.
+
+tÇNPD
+
+îâl^s
+
+Commission nationale pour la protection des données
+
+-.^^
+
+w^ -".c''"f.
+s8r .. Si. '.
+
+Délibérationn° 45/2019 du 13 septembre 2019de la Commission nationale pour la
+protection des donnéesrelatifau fichiercentral de la Policegrand-ducaleau regard de la
+législationsur la protection des données
+
+11/34
+
+« a) lorsqu'ils sont autorisés parle droit de l'Union européenne ou en application de la présente
+loi ou d'une autre disposition du droit luxembourgeois ;
+
+b) pour protéger les intérêtsvitaux de la personne concernée ou d'une autre personne physique,
+ou
+
+e) lorsque le traitement porte sur des données manifestement rendues publiques par la personne
+concernée »24.
+
+Au cours des travaux effectués, la CNPD n'a pas pu constater la mise en ouvre de mesures
+
+offrant des garanties supplémentaires spécifiques quant aux traitements de données sensibles
+effectués par la Police à travers le fichier central.
+
+Le traitement mis en ouvre par la Police à travers ledit fichier doit égalementconférerun degré
+de protection particulier à l'égard des personnes physiques mineures et ce, conformément au
+considérant 50 de la Directive 2016/68025, qui dans son corps de texte ne prévoit pas de garanties
+
+particulières pour les mineurs et a fortiori, sa loi de transposition non plus. Par contre, la loi du 10
+août 1992 relative à la protection de la jeunesse souligne le besoin d'une telle protection à part
+entière même si celle-ci ne prévoit pas explicitement la protection des données des personnes
+
+physiques mineures en tant que telle26. Ainsi, le statut particulier des mineurs et les règles de la
+loi de 1992 requièrent le respect de critères de traitement particuliers, se traduisant au niveau de
+l'enregistrement, de la conservation, de l'accès et de l'utilisation ultérieure de ces données.
+Pour avoir une idée plus précise quant aux accès du fichier central, des données chiffrées que la
+
+CNPDa pu inspecter directement des systèmesde la Police peuvent être utiles :
+«
+
+Sur la période de 2010 jusqu'à 2019, en moyenne 849 nouveaux dossiers ont été créés
+par année qui concernent des mineurs. Il est à remarquer que ces créations avaient atteint
+un sommet en 2013 avec 1239 nouveaux dossiers et par la suite ont diminué en 2018 à
+638 nouveaux dossiers.
+
+.
+
+Sur la période de 2010 jusqu'à 2019, en moyenne 820 dossiers ont été consultés par
+année. Il est à noter qu'afin de pouvoir consulter un dossier il faut tout d'abord effectuer
+une recherche pour l'identifier. Les consultations des dossiers avaient atteint un sommet
+en 2013 avec 1'622 consultations et par la suite ont diminué en 2018 à 423 consultations.
+
+Malgréune présenceclaire de documents concernantdes mineurs au sein du fichiercentral, une
+mise en ouvre de garanties spécifiques relatives aux traitements des données à caractère
+24 Ibidem, article 9.
+
+2SDirective (UE) n° 2016/680 du 27 avril 2016 relative à la protection des personnes physique à l'égard du
+traitement des données à caractère personnel par les autorités compétentes à des fins de prévention des
+
+infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales, et à la
+libre circulation de ces données, et abrogeant la décision-cadre 2008/977/JAI du Conseil, JO L 119,
+4. 5. 2016, p. 89-131, considérant 50.
+
+215 La qualité de la loi du 10 août 1992 relative à la protection de la jeunesse à cet égard fait l'objet de
+discussions au sein de la Partie II du présent avis.
+
+CNPD
+
+Commission nationale pour la protection des données
+Délibération n° 45/2019 du 13 septembre 2019 de la Commission nationale pour la
+
+protection des données relatif au fichier central de la Police grand-ducale au regard de la
+législation sur la protection des données
+
+12/34
+
+personnel de ces derniers fait défaut. Sur question, il nous a été confirmé qu'un champ texte libre
+au sein du dossier serait utilisé pour rendre les policiers attentifs au fait qu'il s'agit d'un mineur.
+
+B. Les droits des personnes concernées par le traitement de leurs données à caractère
+personnel à travers le fichier central
+La directive confère à l'égard des personnes concernées des droits relatifs aux traitements de
+leurs données à caractère personnel afin de permettre à ces dernières de garder le contrôle sur
+celles-ci. Il revient au responsable du traitement de faciliter ['exercice de ces droits et il se doit de
+fournir des informations concises, compréhensibles et aisément accessibles en des termes clairs
+et simples et ce, via des moyens appropriés.
+La loi de transposition de la Directive reprend lesdits droits, bien qu'avec une certaine flexibilité
+et un moindre degré de transparence comparé aux droits de la personne concernée tels qu'ils
+découlent du RGPD. Les personnes dont les données à caractère personnel font l'objet d'un
+traitement doivent être informées par le responsable du traitement quant audit traitement (1), les
+personnes concernées peuvent également exercer un droit d'accès à leurs données (2) et elles
+disposent d'un droit de rectification ou d'effacement des données (3). Or, selon le cas, la Police
+peut retarder ou limiter, en tout ou en partie, l'exercice des droits des personnes concernées (4).
+1) L'information des personnes concernées par le responsable du traitement
+La Directive27 et la loi de transposition déterminent un minimum de données que le responsable
+disposition de la personne concernée2 8. Il incombe à la Police de
+fournir aux personnes dont les données sont traitées au sein du fichier central l'identité et les
+coordonnées du responsable du traitement, les coordonnées du délégué à la protection des
+données, les finalités du traitement auquel sont destinées les données à caractère personnel, la
+possibilité d'introduire une réclamation auprès de la CNPD ou l'Autorité de contrôle judiciaire et
+la faculté d'exercer le droit d'accès aux données à caractère personnel, leur rectification ou leur
+du traitement doit mettre à la
+
+effacement.
+
+Le responsable du traitement peut, dans des cas particuliers, fournir des informations
+complémentaires afin de permettre à la personne concernée de faire valoir ses droits. Il s'agit de
+la base juridique du traitement, la durée de conservation des données à caractère personnel ou
+les critères utilisés pour déterminer ladite durée. Le responsable du traitement peut également
+
+27 Directive (DE) n° 2016/680 du 27 avril 2016 relative à la protection des personnes physique à l'égard du
+traitement des données à caractère personnel par les autorités compétentes à des fins de prévention des
+infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales, et à ta
+libre circulation de ces données, et abrogeant la décision-cadre 2008/977/JAI du Conseil, JO L 119,
+
+4. 5. 2016, p. 89-131, article 13.
+28 Loi du 1er août 2018 relative à la protection des personnes physiques à t'égard du traitement des données
+à caractère personnel en matière pénale ainsi qu'en matière de sécurité nationale, article 12, paragraphe
+1.
+
+CNPD
+eSSM-ijcaagi
+.
+
+Commission nationale pour la protection des données
+Délibération n° 45/2019 du 13 septembre 2019 de la Commission nationale pour la
+protection des données relatif au fichier central de la Police grand-ducale au regard de la
+législationsur la protection des données
+
+13/34
+
+indiquer les catégories de destinataires des données en question et dire si celles-ci ont été
+collectées à l'insu de la personne concernée
+
+ou
+
+non2 9.
+
+La CNPD a pu constater que la Police publie un nombre d'informations généralessur son site
+Internet dont son adresse, les coordonnées du déléguéà la protection des données et les droits
+conférés
+
+aux
+
+personnes concernées30. Une information
+
+plus spécifique quant
+
+au
+
+traitement de
+
+données à travers le fichier central fait défaut.
+
+2) Droit d'accès de la personne concernée
+Conformément à la Directive31 et à la loi de transposition32, les personnes concernées peuvent
+demander à la Police si leurs données à caractère personnel sont contenues ou non au sein du
+
+fichier central et si par conséquent elles font l'objet d'un traitement par la Police. Lors d'une
+réponse affirmative à une telle interrogation, l'accès aux données peut être obtenu concernant
+les informations relatives aux finalités du traitement ainsi que de sa base juridique, aux catégories
+
+de données à caractère personnel concernées, aux destinataires qui sont établis dans des pays
+
+tiers ou les organisations internationales. La Police, lorsque cela est possible, est également
+tenue d'indiquer la durée de conservation des données à caractère personnel ou les critères
+
+appliqués pour déterminer la durée de la conservation. Dans un tel cas de figure, la Police doit
+égalementinformer la personne concernéede son droit de rectification ou d'effacement. Le droit
+d'introduire une réclamation auprès de la CNPD et de l'Autorité de contrôle judiciaire doit
+également être communiqué, tout comme les données faisant l'objet d'un traitement en cours et
+des informations relatives à leurs sources.
+
+La Police a prévu des procédures pour la mise en ouvre du droit d'accès des personnes qui en
+font la demande. La possibilité d'effectuer ledit droit, les démarches à réaliser ainsi que les
+coordonnées du délégué à la protection des données de la Police sont affichées publiquement
+sur son site internet33.
+
+3) Droitde rectification ou d'effacementdes donnéesà caractèrepersonnel
+Il incombe au responsable du traitement de rectifier les données qui sont inexactes. Les données
+doivent être effacées par le responsable du traitement lorsque le traitement de ces données
+26 Ibidem, article 12, paragraphe 2.
+m Voir les publications sur
+
+le
+
+site
+
+Internet
+
+de
+
+la
+
+Police
+
+grand-ducale
+
+à
+
+la
+
+page
+
+https://police. public. lu/fr/support/aspects-legaux/2018-rgpd. html . consultée pour la dernière fois le
+29/08/2019.
+
+31 Directive (DE) n° 2016/680 du 27 avril 2016 relative à la protection des personnes physique à l'égard du
+traitement des données à caractère personnel par les autorités compétentes à des fins de prévention des
+infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales, et à la
+libre circulation de ces données, et abrogeant la décision-cadre 2008/977/JAI du Conseil, JO L 119,
+4. 5. 2016, p. 89-131, article 14.
+32 Loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données
+à caractère personnel en matière pénale ainsi qu'en matière de sécurité nationale, article 13.
+33 Voir les publications sur le site intemet de la Police grand-ducale à la page
+https://police. public. lu/fr/support/aspects-legaux/2018-rgpd. html . consultée pour la dernière fois le
+29/08/2019.
+
+CNPD
+
+Commission nationale pour la protection des données
+Délibération n° 45/2019 du 13 septembre 2019 de la Commission nationale pour la
+
+protection des données relatif au fichier central de la Police grand-ducale au regard de la
+législation sur la protection des données
+
+14/34
+
+constitue une violation des principes énoncés par la loi de transposition, une violation de la licéité
+du traitement ou encore une violation des dispositions relatives aux données sensibles.
+
+L'effacement peut également intervenir lorsque le responsable du traitement y est contraint afin
+de respecter
+
+une
+
+obligation légale3 4.
+
+Les destinataires des données à caractère personnel doivent être informés de l'effacement ou de
+la rectification des données par le
+
+responsable
+
+du traitement afin d'en tenir
+
+compte3 5.
+
+Fait est de constater que la Police communique quant à la possibilité qu'ont les personnes
+concernées d'exercer leur droit de rectification ou d'effacement des données à caractère
+personnel36.
+
+4) La limitation des droits reconnus aux personnes concernées
+
+En raison de la nature spécifique des activités policières, la Directive et a fortiori la loi de
+transposition, prévoient que la Police peut limiter les droits des personnes concernées. La Police
+peut ainsi retarder, limiter ou refuser l'information des personnes concernées ou encore leur
+limiter complètement ou partiellement l'accès aux données les concernant37. Cette limitation doit
+être nécessaire et proportionnée dans une société démocratique en tenant compte de la finalité
+
+du traitement en question et tenir compte des droits fondamentaux et des intérêts légitimes de la
+personne physique concernée. Par conséquent, la Police doit apprécierau cas par cas si elle
+invoque une limitation, afin :
+
+d'éviter de gênerdes enquêtes, des recherches ou des procédures officielles ou judiciaires,
+d'éviterde nuire à la prévention ou à la détectiond'infractions pénales, auxenquêtesou aux
+poursuites en la matière ou à l'exécution de sanctions pénales,
+de protéger la sécurité publique,
+de protéger la sécurité nationale et la défense nationale, ou
+de protéger les droits et les libertés d'autrui.
+
+Lorsque la Police oppose à une personne concernée une limitation de ses droits, elle est toutefois
+
+tenue d'informer la personne concernée de la possibilité qu'elle a d'exercer ses droits par
+l'intermédiaire de la CNPD ou de l'Autorité de contrôle judiciaire. Au cas où la personne
+concernéefait usage de cette possibilité, la CNPD ou l'Autorité de contrôlejudiciaire informe au
+moins la personne concernée du fait qu'elle a procédé à toutes les vérifications nécessaires ou à
+
+34Loidu 1eraoût2018relativeà la protectiondespersonnesphysiquesà regarddutraitementdesdonnées
+à caractère personnel en matière pénale ainsi qu'en matière de sécurité nationale, article 15 paragraphe
+2,
+
+35 Ibidem, article 15 paragraphe 6.
+
+https://police. public. lu/fr/support/aspects-legaux/2018-rgpd. html . consultée pour la dernière fois le
+29/08/2019.
+
+37Loidu 1eraoût2018 relative à la protection des personnes physiques à l'égarddutraitement des données
+à caractère personnel en matière pénale ainsi qu'en matière de sécurité nationale, article 12 paragraphe
+3, article 14, article 15 paragraphe 4.
+
+CNPD
+
+Commission nationale pour la protection des données
+Délibération n° 45/2019 du 13 septembre 2019 de la Commission nationale pour la
+protection des données relatif au fichier central de la Police grand-ducale au regard de la
+législation sur la protection des données
+
+15/34
+
+un examen. L'autoritéde contrôlecompétenteinforme égalementla personne concernéede son
+droit de former un recoursjuridictionnel.
+La CNPD ne dispose pas d'informations quant à la limitation des droits des individus mis en
+ouvre par la Police et ne peut donc pas se prononcer quant à la proportionnalité des procédures
+appliquées.
+
+Après avoir analysé les droits à la disposition des personnes concernées pour contrôler leurs
+données à caractère personnel alors que celles-ci font l'objet d'un traitement par la Police via le
+fichier central, il y a lieu à présent de revenir sur les obligations que doit remplir le responsable
+du traitement.
+
+C. Les obligations du responsable du traitement quant à la gestion et l'exploitation
+dudit fichier
+
+L'entrée en application du RGPD et de la Directive occasionne un changement de paradigme
+puisqu'elle vise à responsabiliser les responsables de traitement dans la vérification et le contrôle
+de la légalitédes traitements des données à caractère personnel qu'ils mettent en ouvre ainsi
+que la mise en place de garanties adéquates afin de protéger les personnes concernées par
+
+lesdits traitements. Le système de l'autorisation préalable que ce soit par demande auprès de la
+CNPD ou par règlement grand-ducal et de la notification préalable pour traiter les données à
+caractère personnel n'est donc plus de mise. Le régime du contrôle a priori laisse à présent place
+à un système de contrôle a posteriori par l'autorité de contrôle afin d'apprécier la conformité du
+traitement avec le cadre légal en matière de protection des données applicable à différents
+égards, à savoir, le respect des principes énoncés par la Directive, voire sa loi de transposition,
+le respect des droits de la personne concernée, ainsi que des obligations du responsable du
+traitement.
+
+La Directive et la loi de transposition définissent ce qu'est un responsable du traitement. Ainsi, le
+responsable du traitement est « l'autorité compétente qui, seule ou conjointement avec d'autres,
+détermine les finalités et les moyens du traitement de données à caractère personnel ; lorsque
+tes finalitéset les moyens de ce traitement sontdéterminésparle droitde l'Union européenneou
+te droit luxembourgeois, le responsable du traitement ou les critères spécifiques applicables à sa
+
+désignationpeuvent êtreprévusparle droitdel'Union européenne ou le droit luxembourgeois »39.
+En l'espèce, l'autorité compétente qui détermine les finalités et les moyens du traitement est la
+Police grand-ducalereprésentéepar son Directeurgénéral.
+
+38 Loi du l" août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à
+caractère personnel en matière pénale ainsi qu'en matière de sécurité nationale, article 16
+38 Ibidem, article 2 paragraphe 8.
+s. CNPD
+
+Commission nationale pour la protection des données
+Délibérationn° 45/2019du 13 septembre 2019 de la Commission nationalepour la
+protection des données relatif au fichier central de la Police grand-ducale au regard de la
+législation sur la protection des données
+
+16/34
+
+La Directive40 et la loi41 de
+
+transposition
+
+confèrent des
+
+obligations
+
+au
+
+responsable du traitement.
+
+La Police se doit de prendre des mesures appropriées et effectives pour garantir et pouvoir
+démontrer à tout moment que le traitement des données à caractère personnel est effectué de
+manière a présen/er les droits et libertés des personnes concernées dans une société
+
+démocratique. Il incombe à la Police de respecter le juste équilibre entre l'exercice de ses
+missions et l'observation de politiques appropriéesen matièrede protection des données.
+
+Il sagit d'obligations générales 1), d'une obligation quant à la sécurité des données 2) et une
+obligation quant à la désignation d'un délégué à la protection des données 3).
+1) Les obligations générales
+
+Lesobligations généralesqui incombent à la Police en cequi concerne la gestion et l'exploitation
+du fichier central sont : la protection des données dès la conception et la protection des données
+
+par défaut a), la tenue d'un registre d'activités de traitement b), la journalisation e) et l'analyse
+d'impact d).
+
+a) La protection des donnéesdèsla conception et la protection desdonnéespardéfaut
+Il incombe au responsable de traitement lors de la gestion et de l'exploitation d'un fichier comme
+
+lefichiercentral, d'intégrer, dèsla conception dufichierou unefoisquecelui-ci estopérationnel,
+le respect et la mise en ouvre des principes relatifs à la protection des données.
+Ainsi, par défaut, la Police doit notamment s'assurer que seules les données à caractère
+personnel qui sont nécessairesau regard de chaquefinalitéspécifiqueautraitement sonttraitées
+et que leur accès soit limité au minimum.
+
+La^protection des données dèsla conception et par défautsont des obligations introduites par le
+RGPD et la Directive. Tandis que la CNPD reconnaît que de facto, elles n'existaient donc pas
+lorsque lefichiercentralfutcréé,la CNPDestime néanmoinsque la réévaluationpermanente de
+l'adéquation des mesures de protection de données implémentées quant auxobligations légales
+qui lui incombent, aurait dû amener la Police à une revue approfondie, voire même une refonte
+des mécanismes d'accès au niveau du fichier central.
+
+En effet, un accèspermanent aufichiercentral pour quasiment 2'000 policiers, même en absence
+de cas d'abus démontré, comparé à la réelle nécessité de consultation sur le terrain, doit être
+considérée comme inadéquat. Même en l'absence d'une refonte approfondie du mécanisme
+d'accès, la CNPDestime que la Police aurait pu et dûimplémenterdes mesures comme la mise
+
+40Directive (UE) n° 2016/680 du27avril 2016 relative à la protection des personnes physique à l'égarddu
+
+traitement des donnéesà caractèrepersonnel par les autoritéscompétentes à des fins de prévention des
+infractions pénales, d'enquêtes et depoursuites en la matièreou d'exécution de sanctions pénales, et à la
+libre circulation de ces données, et abrogeant la décision-cadre2008/977/JAIdu Conseil, article 19 et
+suivants.
+
+41Loidu 1eraoût2018 relative à la protection des personnes physiques à regard du traitement des données
+a caractère personnel en matière pénale ainsi qu'en matière de sécurité nationale, article 18 et suivants.
+tCNPD
+
+Commission nationale pour la protection des données
+
+Délibération n' 45/2019 du 13 septembre 2019 de la Commission nationale pour la
+protection des données relatif au fichier central de la Police grand-ducale au regard de la
+législation sur la protection des données
+
+17/34
+
+en place de revues de logues pour détecter d'éventuels accès douteux pour mitiger le risque
+d'abus et assurer la protection des données des citoyens.
+b) Registre des activités de traitement
+
+Pour pouvoir apporter la preuve qu'il respecte les obligations lui imposé par la Directive,
+respectivement la loi de transposition, le responsable du traitement doit documenter en interne
+ses activités de traitement de données. Ainsi, la loi de transposition impose au responsable du
+
+traitement de tenir un registre de toutes les catégories d'activités de traitement effectuées sous
+
+sa responsabilité.Elle prévoitd'unemanièreclaireet préciseles informationsqui doiventy figurer,
+à savoir :
+
+« a) le nom et les coordonnéesdu responsable du traitement et, le cas échéant, du responsable
+conjoint du traitement et du déléguéà la protection des données ;
+b) les finalités du traitement ;
+
+e) les catégories de destinataires auxquels les donnéesà caractèrepersonnel ont étéou seront
+communiquées, y compris les destinataires dans des pays tiers ou des organisations
+internationales ;
+
+d) une description des catégories de personnes concernées et des catégories de données à
+caractère personnel,
+
+e) le cas échéant, le recours au profilage ;
+
+f) le caséchéantlescatégoriesdetransferts de donnéesà caractèrepersonnelvers un paystiers
+ou à une organisation internationale :
+
+g) une indication de la base juridique de l'opération de traitement, y compris les transferts, à
+laquelle les donnéesà caractèrepersonnel sont destinées ;
+
+h) dans la mesure du possible, les délaisprévus pour f effacement des différentes catégories de
+données à caractère personnel ;
+
+i) dans la mesure du possible, une description générale des mesures de sécuritétechniques et
+organisationnellesviséesà l'article 28, paragraphe ï42 »43.
+Le 5
+
+juillet
+
+2019 et conformément
+
+à la loi de
+
+transposition4 4,
+
+la Police
+
+a
+
+mis
+
+son
+
+registre
+
+de
+
+traitement à disposition de la CNPD. La CNPD a constaté que le registre contient des informations
+relatives au fichier central, mais que celles-ci sont incomplètes. La CNPD attire l'attention sur le
+
+rôle primordial qui revient à ce registre quant à la conformité destraitements avec la loi. En effet,
+42 Article relatif à la sécurité du traitement en particulier celui des données sensibles.
+
+43 Loidu 1 " août2018 relative à la protection des personnes physiques à l'égarddu traitement des données
+
+à caractèrepersonnel en matièrepénaleainsi qu'en matièrede sécuriténationale, article 23 paragraphe
+1er.
+" Ibidem, article 23 paragraphe 3.
+
+.
+
+CNPD
+
+Commission nationale pour la protection des données
+Délibération n° 45/2019 du 13 septembre 2019 de la Commission nationale pour la
+
+protection des données relatif au fichier central de la Police grand-ducale au regard de la
+législation sur la protection des données
+
+18/34
+
+la Police n'est pas en mesure de se conformer au principe de responsabilisation tant qu'elle n'a
+pas inventorié l'intégralité des traitements avec un niveau de détail minimal tel qu'exigé par la loi.
+e) Journalisation
+
+Les autorités compétentes doivent tenir un journal des opérations de traitement qu'elles
+
+effectuent dans des systèmes de traitement automatisés. Des journaux doivent être tenus à tout
+
+le moins pour la collecte, la modification, la consultation, la communication, y compris les
+
+transferts, l'interconnexion
+
+et l'effacement de données à caractère
+
+personnel4 5.
+
+La Directive prévoitque lesjournauxdes opérationsde consultation et de communication doivent
+permettre d'établir les motifs, la date et l'heure de celles-ci et, dans la mesure du possible,
+
+l'identificationde la personne qui a consulté le systèmeou communiquéles donnéesà caractère
+personnel, ainsique l'identitédesdestinatairesdesdonnéesà caractèrepersonnel. Lesjournaux
+sont utilisés uniquement à des fins de vérification de la licéité du traitement, d'auto-contrôle. de
+
+garantie de l'intégrité et de la sécurité des données à caractère personnel et à des fins de
+procédures pénales .
+
+Lors de ses visites sur site auprès de la Police, la CNPD a constaté l'existence de fichiers de
+
+journalisation au niveau du fichier central. Cependant, la CNPD se doit de constater que les
+mécanismes de journalisation ne permettent pas d'atteindre en pratique l'intégralité des finalités
+tels qu'énoncésdans la loi. Ainsi, la vérification de la licéitéde chaque consultation semble difficile
+
+sur base des informations contextuelles limitées qui sont reprises dans le journal (i. e. seul une
+motivation générique sommaire est reprise dans le journal). Aussi, vu que la pratique courante
+consiste à ce que les policiers sur le terrain n'accèdent pas directement au fichier, mais font plutôt
+appel à des policiers au niveau du RIFO, l'identification de la personne qui a in fine consulté le
+système ne peut pas être retracé de manière systématique avec des efforts raisonnables.
+
+d) L analyse d'impact et la consultation préalable de l'autorité de contrôle compétente
+
+La loi de transposition impose un exercice nouveau, à savoir la réalisation d'une analyse de
+l impact que les opérations de traitement envisagées ont sur les personnes concernées. Une telle
+analyse
+
+s'effectue
+
+a
+
+priori
+
+avant que ledit traitement
+
+ne
+
+soit mis
+
+en
+
+place4 7.
+
+Il est admis que chaque analyse doit être réévaluée,soit lorsque des changements importants
+affectant le traitement ont eu lieu, soit au moins tous les trois ans, afin de vérifierson adéquation
+avec des éventuels changements organisationnels ou techniques qui seraient intervenus
+entretemps.
+
+45Directive(UE) n° 2016/680du 27avril 2016relative à la protection des personnes physiqueà l'égard
+du traitement desdonnéesà caractèrepersonnel par les autoritéscompétentesà desfins de prévention
+des infractionspénales,d'enquêteset de poursuites en la matièreou d'exécutionde sanctionspénales,
+et à la libre circulation de ces données, et abrogeant la décision-cadre 2008/977/JAI du Conseil, article
+25 paragraphe 1.
+
+4' Ibidem, article 25, paragraphe 2.
+
+47 Ibidem, article 26 paragraphe 1.
+CNPD
+
+w
+
+Commission nationale pour la protection des données
+Délibération n° 45/2019 du 13 septembre 2019 de la Commission nationale pour la
+protection des données relatif au fichier central de fa Police grand-ducale au regard de (a
+législation sur la protection des données
+
+19/34
+
+La Police devra consulter la CNPDlorsque l'analyse d'impact indiqueque le traitement présente
+un risque élevé pour les droits et libertés des personnes concernées qui ne peut être mitigé a
+travers des mesures organisationnelles et techniques. La CNPD constate que jusqu'à présent,
+elle n'a pas étéconsultéeen ce qui concerne le fichiercentral.
+
+Vu rentréeen vigueurde la loi detransposition, unetelle analyse est obligatoireau plustard pour
+l'année 2021, ou avant en cas de changements majeurs sur le traitement.
+
+2) La sécurité des données que te responsable du traitement doit garantir
+La Directive48 oblige le responsable du traitement à garantir la sécurité des données à travers la
+sécurisation des traitements. En effet, elle dispose qu'il est important que « les données à
+
+caractère personnel soient traitées de manière à garantir un niveau de sécurité et de
+confidentialité approprié, notamment en empêchant l'accès non autorisé à ces données et à
+
+l'équipement servant à leur traitement ainsi que l'utilisation non autoriséede ces données et de
+cet équipement et à tenir compte de l'état des connaissances et de la technologie disponible,
+des coûts de mise en ouvre au regard des risques et de la nature des données à caractère
+personnel à protéger s49.
+
+La loi de transposition impose 10 types de contrôles et de garanties50 que le responsable du
+traitement doit mettre en ouvre à la suite d'une évaluation des risques que le traitement peut
+
+avoir sur les droits et les libertés des personnes concernées. Il s'agit du contrôle de l'accèsaux
+installations, du contrôle des supports de données, du contrôle de la conservation, du contrôle
+des utilisateurs, du contrôle de l'accès aux données, du contrôle de la transmission, du contrôle
+
+de l'introduction, du contrôledutransport, de la garantiede la restaurationet in fine de la garantie
+de la fiabilité du système et de son intégrité.
+
+Une analyse plus approfondie quant à la sécuritéconférée par la Police aux données à caractère
+personnel traitées via le fichier central permettrait d'avoir une idée plus précise quant a
+l'observation de ladite obligation. L'objectif de cet avis n'est toutefois pas d'effectuer un audit
+dédié du volet « sécurité ». Néanmoins, pendant les travaux préparatoires au présent avis
+
+certains points d'attention relatifs à ce dernier volet ont étésoulevés par la CNPD et communiqués
+à la Police.
+
+3) Le délégué à la protection des données
+
+48Directive(UE) n° 2016/680du 27 avril 2016relative à la protection des personnes physiqueà regarddu
+traitement des données à caractère personnel par les autorités compétentes à des fins de prévention des
+
+infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales, et à la
+libre circulation de ces données, et abrogeant la décision-cadre 2008/977/JAI du Conseil, JO L 119,
+4. 5. 2016, p. 89-131, article 29.
+49 Ibidem, considérant 28.
+
+50Loi du 1eraoût2018 relative à la protection des personnes physiques à l'égarddu traitement des données
+
+à caractèrepersonnel en matièrepénaleainsi qu'en matièrede sécuriténationale, article 28 paragraphe
+2.
+
+CNPD
+
+Commission nationale pour la protection des données
+Délibérationn* 45/2019du 13 septembre 2019 de la Commission nationale pour la
+
+protection desdonnéesrelatifau fichiercentral de la Policegrand-ducaleau regard de la
+législation sur la protection des données
+
+20/34
+
+La Directive confie au responsable du traitement la désignation d'un délégué à la protection des
+données (ci-après désigné« le délégué»), « qui l'aiderait à vérifierle respect au niveau interne,
+des dispositions adoptées en vertu de la présente directive »51. Cette fonction est nouvelle et
+s'intègre dans le principe de responsabilisation du responsable du traitement inhérent au RGPD
+et la Directive.
+
+La loi de transposition prévoit ladite obligation52 en précisant les qualités professionnelles53 et
+l'obligation
+
+de
+
+publier
+
+les coordonnées
+
+du
+
+délégué
+
+à la
+
+protection
+
+des données5 4. Elle
+
+prévoit
+
+également la fonction du déléguéà la protection des données, ainsi que les missions de ce
+dernier. A cet égard, il y a lieu de rappeler que le déléguéà la protection des données à caractère
+
+personnel se doit d'informer et de conseiller le responsable du traitement et les employés, en
+l'espèce, la Police représentée par son Directeur général quant aux obligations qui leur incombe
+tenant
+
+en
+
+compte
+
+tant du droit de l'Union que du droit
+
+luxembourgeois5
+
+5.
+
+Il revient audit déléguéde contrôler le respect de la loi de transposition, du droit de ['Union
+européenne et le droit national par la Police56.
+
+Le déléguéest également tenu de coopérer avec l'autorité de contrôle compétente et faire office
+de point de contact pour celle-ci et pour les personnes concernées.
+La CNPD constate que la Police a désigné un délégué à la protection des données et a rendu
+
+public les coordonnées de ce dernier et que celui-ci a été associé aux dossiers ayant trait au
+traitement des données effectué par la Police via le fichier central.
+
+Il y a à présent lieu d'analyser la qualité du cadre légal encadrant le fichier central.
+
+II.
+
+L'analyse de la qualité du cadre légal encadrant le fichier central
+
+Le respect desdroitsfondamentauxn'est pasabsolu puisqu'une ingérencedansces derniers est
+reconnue à l'article 52 paragraphe 1 de laCharte des droits fondamentaux de l'Union européenne
+(ci-aprèsdésignée« la Charte »). En effet, cet article dispose que « toute limitation de l'exercice
+
+Directive (UE) n" 2016/680 du 27 avril 2016 relative à la protection des personnes physique à l'égard du
+
+traitement des donnéesà caractèrepersonnel par les autoritéscompétentes à desfins de préventiondes
+infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales, et à la
+
+libre circulation de ces données, et abrogeant la décision-cadre 2008/977/JAI du Conseil, JO L 119.
+4. 5. 201S, p. 89-131, considérant 63. Voir également les articles 32 à 34 de la directive.
+
+52Loi du 1eraoût2018 relative à la protection des personnes physiques à regard du traitement des données
+à caractère personnel en matière pénale ainsi qu'en matière de sécurité nationale, article 31 paragraphe
+53 Ibidem, paragraphe 2.
+54 Ibidem, paragraphe 4.
+
+55 Ibidem, article 33, paragraphe 1 er.
+56 Ibidem, paragraphe 2.
+CNPD
+
+-a;.),{;
+
+.
+
+Commission nationale pour la protection des données
+
+Délibérationn* 45/2019du 13 septembre 2019de la Commission nationale pour la
+protection desdonnéesrelatifau fichiercentral de la Policegrand-ducale au regard de la
+législation sur la protection des données
+
+21/34
+
+desdroits et libertésreconnuspar la présenteChartedoitêtreprévueparla loi »57. LaConvention
+européenne des Droits de l'Homme (ci-après désignée CEDH) quant à elle, rend également
+possible
+
+ladite limitation tout en la rattachant
+
+au
+
+respect de la vie privée et familiale par exemple5 8.
+
+L'importance de prévoir par une loi l'ingérence dans les droits fondamentaux et les libertés est
+
+également reprise par lajurisprudence abondante des Hautesjuridictions européennes59.
+La loi du 1er août2018 relative à la protection des personnes physiques à l'égard du traitement
+des données à caractère personnel en matière pénale ainsi qu'en matière de sécuritéencadre
+l'ingérence dans les droits et les libertés des individus occasionnée par le traitement mis en ouvre
+par la Police vïa le fichiercentral. Néanmoins, cette dernière ne peut pas uniquement se contenter
+de prévoir l'ingérence faite dans les droits fondamentaux et les libertés par la Police en matière
+pénale.Elle doitégalementfaire preuve de qualité,conformémentà lajurisprudenceeuropéenne.
+La loi de transposition n'est pas la seule à encadrer légalement le fichier central et le traitement
+qui en résulte par la Police. Comme précédemment mentionné, la loi du 18 juillet 2018 sur la
+Police prévoit et encadre les missions de cette dernière qui s'inscrivent incontestablement dans
+le champ d'application de l'article 1er de la loi de transposition. L'existence du fichier central peut
+donc être qualifiée de licite dans la mesure où les traitements y effectués sont nécessaires à
+['exécution des missions de la Police.
+
+Découlant des besoins liés aux missions de la Police telles que décrites dans sa loi organique, le
+fichier central est étroitement encadré par la Directive et la loi de transposition très généreuse
+
+tant dans sa définition et son interprétation concernant les finalités d'un traitement tombant dans
+
+son champ de compétence, que lors de la répartition des prérogatives du responsable du
+traitement. Sans maintenant s'attarder sur l'analyse de la transposition conforme de la Directive
+
+en droit national, on peut tout de même se poser des questions quant à la prise en compte des
+principes généraux de la matière tels que dégagés par les conventions signées sous l'égide du
+Conseil de l'Europe et de la jurisprudence de la Cour européenne des droits de l'homme et la
+Cour dejustice de l'Union européenne d'une part, ainsi que des principes constitutionnels d'autre
+part.
+
+Laqualitéde la loi en matière pénale,s'apprécieau regard du respect du principede légalitédes
+incriminations. En effet, la légalité des peines est renonciation dans la loi des comportements
+incriminés60. Elle
+
+a
+
+pour effet d'
+
+«
+
+assurer
+
+la meilleure connaissance
+
+possible
+
+de la loi
+
+pénale :
+
+favoriser la prévisibilité et la sécurité dans les échanges sociaux »61, garantir le principe de la
+57 J. O. U. E., C 326, 26. 10.2012, p. 391-407.
+
+68Article8 paragraphe2 dela Conventioneuropéennedesdroitsde l'Homme, signéeà Rome, le4.XI. 1950.
+se Arrêt du 8 avril 2014, Digital Rights Ireland e. a. C-293/12 et C-594/12, EU :C :201 :2014 :238, point 38 ;
+Avis 1/15, du 8 septembre 2016, EU :C :2016 :656, Cour EDH, Kopp e. Suisse, n° 23224/94, 25 mars 1998,
+para. 56 à 61; Cour EDH, Amann e. Suisse [GC], n° 27798/95, 16 février 2000, para. 46 à 54; Cour EDH,
+Brunet e. France, n°21010, 18 décembre 2014, para. 35.
+
+60 Beccaria, C., (1870). Des délits et des peines. Guillaumin.
+
+61 Cartuyvels Y., "Les paradigmes du droit pénal moderne en période "postmoderne": évolutions et
+transformations, in Massé M., J-P. Jean, Giudicelli A. (sous la dir), (2009). Un droit pénal postmoderne ?
+
+Mise en perspective des évolutions et ruptures contemporaines. Presses universitaires de France, p. 77.
+ÏCNPD
+
+Commission nationale pour la protection des données
+Délibération n° 45/2019 du 13 septembre 2019 de la Commission nationale pour la
+
+protection des donnéesrelatifaufichiercentral de la Policegrand-ducaleau regard de la
+législationsur la protection des données
+
+22/34
+
+hiérarchie des normes et de la séparation des pouvoirs et par là, limiter l'arbitraire du juge.A
+
+léchelle supra nationale, ce principe est consacré par la CEDH à son article 7 qui le perçoit
+comme un droit absolu auquel nul ne peut déroger»2. La qualité de la loi est considérée comme
+un
+
+principe général du droit de l'Union européenne6 3.
+
+La partie suivante a pour objet d'analyser la qualité du cadre légal encadrant le fichier central
+géréet exploite par la Police grand-ducal d'une part (A) et de comparer le cadre légal national à
+celui d'autres Etats membres d'autre part(B).
+
+A. La qualité du cadre légal au regard du respect des principes générauxrelatifs au
+traitement des donnéesà caractèrepersonnel en matière pénale
+A titre liminaire, il y a lieu de rappeler que la Directive prévoit des conditions de licéité du
+traitement effectué par les autorités compétentes en matière pénale et en matière de sécurité
+nationale. En effet, elle dispose que pour être licite, le traitement doit être nécessaire à l'exécution
+
+d'une mission de l'autoritécompétente, correspondre auxfinalités pour lesquelles il a étémis en
+place mais aussi et surtout, il doit être prévu soit par le droit de l'Union, soit par le droit d'un Etat
+membre154. En outre, la Directive précise que la disposition nationale qui réglemente ledit
+traitement doit au moins préciser: les objectifs du traitement, les donnéesà caractère personnel
+devant faire l'objet du traitement et les finalités du traitement65.
+
+Le Règlement général sur la protection des données, pour sa part, dispose également que le
+fondement du traitement quant à l'exécution d'une mission d'intérêt public ou relevant de
+l'exercice de l'autorité publique dont est investi le responsable du traitement est définipar le droit
+de l'Union ou le droit de l'Etat membre auquel le responsable du traitement est soumis66.
+
+Afin d'analyser au mieux la disposition nationale relative au principe de licéitédu traitement et
+dans le souci d'être le plus précis possible, l'article 7 paragraphe 1er de la loi transposant la
+Directive peut ici être cité. Il dispose que :
+« Le traitement n 'est licite que si et dans la mesure où il est nécessaire à l'exécution des missions
+
+cfe l'autorité compétente définie à l'article 2 paragraphe 1er point 7°, pour une des finalités
+
+62 Cartuyvels Y., Guillain C., Kerchove M., Tulkens F. (Ed. ), (2010), Introduction au droit pénal. Aspects
+Juridiques et criminologiques, Bruxelles, Kluwer, p. 225.
+
+63Traitésur l'Unioneuropéenne, J.O. U. E., C 326, 26. 10.2012, p. 13-390, article 6 paragraphe3.
+84Directive (UE) n° 2016/680 du 27 avril 2016 relative à la protection des personnes physique à ['égard du
+
+traitement des donnéesà caractèrepersonnel par les autoritéscompétentesà des fins de préventiondes
+infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales, et à la
+libre circulation de ces données, et abrogeant la décision-cadre 2008/977/JAI du Conseil, article 8
+paragraphe 1.
+
+65 Ibidem, article 8 paragraphe 2.
+
+Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection
+
+despersonnes physiquesà regarddutraitement desdonnéesà caractèrepersonneletà la librecirculation
+
+de ces données, et abrogeant la directive 95/46/CE (règlement généralsur la protection des données),
+article 6, paragraphe 1, point e, paragraphe 3, point b.
+, CNPD
+îij»
+1?^X5!^.
+
+Commission nationale pour la protection des données
+Délibération n" 45/2019 du 13 septembre 2019 de la Commission nationale pour la
+protection des données relatif au fichier central de la Police grand-ducale au regard de la
+législation sur la protection des données
+
+23/34
+
+énoncées à l'article 1e' et lorsque cette mission est effectuée en application de disposition
+législatives régissant l'autorité compétente visée ».
+
+En l'espèce, il ne fait pas de doute que la gestion et l'exploitation du fichier central s'inscrivent
+dans les missionsde la Policetelles qu'elles sont prévuesparla loi du 18juillet 2018 sur la Police
+grand-ducale.
+
+Si la loi du 18juillet 2018 sur la Police grand-ducale contient un chapitre spécifiquement dédiéau
+traitement de données à caractère personnel, ledit chapitre n'encadre que l'accès par la Police
+aux fichiers d'autres administrations tels qu'entre autres « le fichier des étrangers exploité pour
+
+le compte du Service de étrangers du ministre ayant l'Immigration dans ses attributions »67, « le
+fichier des armes prohibées du ministre ayant la Justice dans ses attributions »68 ou encore « le
+fichier des sociétésdu registre de commerce et des sociétés»89. En effet, la CNPD regrette que
+ledit chapitre ne prévoit pas une disposition relative au traitement de données à caractère
+personnel dans le cadre de la gestion et de l'exploitation de fichiers par la Police elle-même.
+Ladite loi ne précisepas non plus que les conditionset modalitésd'un tel traitement de données
+à caractère personnel par la Police puisse faire l'objet d'un règlement grand-ducal.
+Il ne revient pas non plus à la loi de transposition de prévoir expressément ledit traitement. En
+effet, cette loi a pourobjet de garantirla protection des donnéesen matière pénaleet en matière
+de sécurité nationale. Il s'agit d'une loi-cadre qui prévoit des règles générales applicables aux
+autorités compétentes en la matière. Elle n'est pas spécifiquement dédiée à la gestion et à
+l'exploitation de fichiers par la Police.
+
+Pour répondre aux critères de la jurisprudence européenne, le traitement des données à
+caractère personnel contenues dans le fichier central doit répondre à des finalités déterminées,
+explicites et légitimes. Or, les finalités spécifiques du fichier central, explicitement définies et
+accessibles aux citoyens ne sont ni inscrites dans une notice d'information quant au
+fonctionnement de ce dernier ni dans la loi du 18 juillet 2018 sur la Police grand-ducale, alors
+
+qu'en vertu des dispositions de la loi de transposition le responsable du traitement, en l'espèce
+la Police grand-ducale représentée par son Directeur général, doit mettre en ouvre les mesures
+techniques et organisationnelles appropriées pour s'assurer et être en mesure de démontrer que
+le traitement est effectué conformément à cette loi70. Il peut être ajouté qu'il ne revient pas non
+
+plus à la loi transposant la Directive de préciser les finalités de tous les traitements entrant dans
+son champ d'application dont fait partie le fichier central.
+
+87 Loi du 18 juillet sur la Police Grand-ducale, article 43 point 3°.
+68 Ibidem, point 10.
+
+69 Ibidem, point 11 .
+70 Loi du 1" août 2018 relative à la protection des personnes physiques à regard du traitement des
+
+données à caractère personnel en matière pénale ainsi qu'en matière de sécurité nationale, article 18
+paragraphe 1 et 2.
+
+CNPD
+°o
+
+Commission nationale pour la protection des données
+Délibérationn° 45/2019 du 13 septembre 2019 de la Commission nationale pour la
+protection des données relatif au fichier central de la Police grand-ducale au regard de la
+législation sur la protection des données
+
+24/34
+
+Dans ['esprit du changement de paradigme au niveau du contrôle de la conformité en matière de
+
+protection des données, le législateur national peut certes déléguer des responsabilités
+importantes au responsabledu traitement, encorefaut-ilque ce dernierles embrassepleinement.
+
+Seul le respect de ses obligations par le responsable du traitement permet de garantir le respect
+des droits des personnes concernées.
+
+Afin de remplir les critères d'accessibilité et de prévisibilité de la loi, d'une part, et ainsi limiter
+d'éventuels comportements arbitraires et abusif de la part de l'autorité compétente, d'autre part,
+le droit national peut prévoir et encadrer plus spécifiquement la gestion et l'exploitation de fichiers
+par la Police. C'est la raison pour laquelle, la Cour européenne des droits de l'homme au sein de
+sa jurisprudence affirme que « le droit interne doit offrir une certaine protection contre des
+
+atteintes arbitraires de la puissance publique aux droits garantis par l'article 8 paragraphe 1 »71.
+Par conséquent, la loi « doit définir /'étendue et les modalités d'exercice du pouvoir avec une
+netteté suffisante- compte tenu du but légitime poursuivi - pourfournir à l'individu uneprotection
+adéquate contre l'arbitraire »72. La Cour de justice de l'Union européenne estime qu'en cas de
+limitation de la protection des données à caractère personnel ou du droit au respect de la vie
+privée untexte légal« doitprévoirdesrèglesclaires et précises régissantla portéeet l'application
+de la mesure en cause et imposant un minimum d'exigences de sorte que les personnes dont les
+
+données ont été conservées disposent de garanties suffisantes permettant de protéger
+efficacement leurs données à caractère personnel contre les risques d'abus ainsi que contre tout
+accès et toute utilisation illicites de ces données »73.
+
+Dans la réponseà la question parlementaire n°752, Messieurs les Ministres précisentque la loi
+
+du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des
+données à caractère personnel en matière pénale ainsi qu'en matière de sécurité nationale
+constitue la base légale du fichier central.
+
+Ceci étant dit, la CNPD souhaite attirer l'attention sur le fait que le droit national prévoit et encadre
+l utilisation de données spécifiques tel que les profils ADN74, les données collectées dans le cadre
+du contrôle de
+
+l'acquisition
+
+et de la détention d'armes7
+
+5
+
+ou encore
+
+les données contenues dans
+
+71 Cour EDH,Amann e. Suisse[GC], n°27798/95para 56.
+
+Ibidem Voir également Cour EDH, Malone e. Royaume-Uni, série A n°82, du 2 août 1984, pp. 31-32,
+para. 66^ Cour EDH Fernéndez Martinez e. Espagne CE:ECHR:2014:0612JUD005603007, 12 juin 2014
+para. 1J7 ; Cour EDH, Liberty et autres e. Royaume-Uni, n° 58243/00, du 1erjuillet 2008, para. 62 et 63;
+
+Cour EDH, Rotaruc. Roumanie, App. 28341/95, 4 mai 2000, para. 57 à 59 et Cour EDH, S et Marper
+
+e. Royaume-Uni, Requêtesn° 30562/04et 30566/04, du 4 décembre2008para. 99. ; Dimitrov-Kazakove.
+Bulgarie n°11379/03, du 10 février 2011.
+
+"Arrêtdu 8 avril 2014, DigitalRights Irelande.a. C-293/12 et C-594/12, EU :C:2014:238, point 54
+74 Loi modifiée du 25 août 2006 relative aux procédures d'identification par empreintes génétiques en
+matière pénale et portant modification du Code d'instruction criminelle, articles 5 et suivants"
+
+Loi modifiée du 25 mars 1983 sur les armes et munitions, article 5 alinéa 4 qui sera prochainement
+
+abrogée. Voir à ce titre le projet de loi n°7425 portant : 1° transposition de la directive (UE) 2017/853 du
+Parlement européen et du Conseil du 17 mai 2017 modifiant la directive 91/477/CEE du Conseil relative
+
+au controle de l'acquisition et de la détention d'armes ; 2° modification du Code pénal, et 3° abrogation de
+la loi du 20 avril 1881 concernant le transport et le commerce des matières explosives. Il peut être utile de
+fCNPD
+
+Commission nationale pour la protection des données
+
+Délibération n' 45/2019 du 13 septembre 2019 de la Commission nationale pour la
+protection des données relatif au fichier central de la Police grand-ducale au regard de la
+législation sur la protection des données
+
+25/34
+
+passagers7'. Le fait d'encadrer le fichier central davantage légalement, ne
+constituerait donc pas un précédent en la matière pour le législateur luxembourgeois. Si de l'avis
+de la CNPD, il ne s'agit pas de palier à une absence de base légale quant à la licéité du fichier
+central, il n'en reste pas moins qu'une précision législative plus spécifique quant aux finalités
+les
+
+dossiers
+
+précises et quant aux conditions et modalités de gestion et d'exploitation du fichier central
+contribuerait indiscutablement à améliorer la qualité de la loi.
+
+Une telle précision répondraitaux exigences de lajurisprudence de la Cour constitutionnelle selon
+laquelle « dans tes matières réservées parla Constitution à la loi, l'essentiel du cadrage normatif
+doit résulter de la loi, y compris les fins, les conditions et les modalités suivant lesquelles des
+élémentsmoins essentiels peuvent être régléspar des règlements et arrêtéspris par le GrandDuc ». Il ne fait aucun doute que les traitements de données effectuées par les autorités
+
+compétentes en matière pénale ainsi qu'en matière de sécurité nationale constituent une
+ingérence dans le droit au respect de la vie privée et le droit à la protection des données, de sorte
+que les conditions et les modalités de ces traitements doivent obligatoirement être prévues dans
+la loi. Comme déjà soulevé, le législateur luxembourgeois a opté pour une approche très large
+de responsabilisation du responsable du traitement aux termes de la loi de transposition. Au
+
+regard de l'article 1. 3 de la Directive, la CNPD estime qu'un encadrement légal plus strict des
+obligations de ce dernier augmenterait la qualité de la loi et par là, les garanties pour les
+personnes concernées.
+
+Il en va de même de certains autres aspects de ce fichier comme les délais de conservation, la
+
+procédured'accèsrestreinte à certaines donnéesou encore desgarantiesspécifiquesdestinées
+au traitement de données à caractère personnel relatives aux personnes physiques vulnérables,
+en particulier les enfants.
+
+Le législateur luxembourgeois pourrait ainsi utilement faire usage de la faculté laissée aux Etats
+membres telle que prévue au prédit article 1.3 qui dispose que: «La présente directive
+
+n'empêche pas les Etats membres de prévoirdes garanties plus étenduesque celles établies
+dans la présente directive pour la protection des droits et libertés de personnes concernées à
+
+l'égard du traitement des données à caractère personnel par les autorités compétentes ». Par
+l'adoption de la Directive, le législateur européen a procédé à une harmonisation minimale des
+
+règles applicable en la matière au niveau de l'Union européenne et les Etats membres ont la
+faculté de préciser davantage les règles dans leurs législations nationales respectives tout en
+respectant le cadre tracé par la Directive.
+
+noter que dans son avis du 8 juillet 2019 relatif au projet de loi précité, la CNPD souligne que ledit projet
+de loi doit faire preuve de plus de précisions quant à certains éléments relatifs au traitement de données
+effectué via le fichier armes qui remplacera son prédécesseurà savoir le fichier armes prohibées et
+autorisations. La CNPD vient ici encore mettre en exergue l'importance de la qualité de la loi,
+76 Loi du 1er août 2018 relative au traitement des données des dossiers passagers dans le cadre de la
+
+préventionet de la répressiondu terrorisme et de la criminalitégrave et portant modificationde la loi du 5
+juillet portant réorganisation du Service de renseignement de l'Etat.
+CNPD
+
+Commission nationale pour la protection des données
+Délibérationn° 45/2019du 13 septembre 2019de la Commission nationale pour la
+protection des données relatif au fichier centra! de la Police grand-ducale au regard de la
+législation sur ia protection des données
+
+26/34
+
+Rappelons que les précisions proposées ne s'inscriraient en principe pas dans la loi de
+transposition de la Directive, mais dans les lois spécifiques comme celle sur la Police ou celle
+relative à la protection de la jeunesse.
+
+L examen desdispositionsrelativesauxtraitements dedonnéesà caractèrepersonnel en matière
+pénale ainsi qu'en matière de sécurité nationale dans les législations des pays voisins peut être
+utile et peut servir d'exemple au législateur luxembourgeois.
+B. Le cadre légal national comparéà celui d'autres Etats membres en la matière
+1. Situation générale
+
+Avant de faire état des législations nationales des pays qui entourent le Luxembourg, rappelons
+que la CNPD a sollicité les autorités de la protection des données de l'ensemble des Etats
+
+membres de l'Union européenne afin de savoir si la loi transposant la Directive sert de base légale
+au traitement effectué par la Police à travers leurs fichiers ou si des lois ou des dispositions
+réglementaires spécifiquement dédiées à la gestion, à l'exploitation et à l'utilisation de fichiers
+policiers ont été adoptées. Sur les 25 réponses obtenues, dont il faut retirer les deux Etats
+membres qui n'avaient pas encore adopté de loi de transposition au moment où la CNPD a
+
+effectué son sondage, et deux dont la réponse ne permet pas de déterminer sans ambiguïté leur
+situation, seulement cinq affirmaient que la loi de transposition servait de base légale au
+traitement effectué par les fichiers de la Police. Par contre, 16 Etats membres ont affirmé disposer
+
+de textes spécifiquement dédiés. Les pays voisins au Luxembourg font partis de ce dernier
+groupe, puisqu'ils prévoient un encadrement légal spécifiquement dédiéauxfichiers exploités par
+la Police.
+
+En France par exemple, la loi transposant la Directive en droit national prévoit explicitement
+l encadrement par disposition législative ou réglementaire tout traitement de données à caractère
+personnel
+
+en
+
+régularisation
+
+matière
+
+pénale7 7.
+
+des nombreux
+
+Dans
+fichiers
+
+un
+
+rapport du 17 octobre 2018,
+police7 8 en France, si
+
+de la
+
+il est fait état de l'effort de
+bien que la Commission
+
+Nationale de l'Informatique et des Libertés(CNIL)estimait à cette date qu'il n'y a plus de fichiers
+de
+
+police irréguliers puisque
+
+ces
+
+derniers
+
+disposent
+
+d'une base
+
+légale qui
+
+leur est
+
+propre7 9.
+
+En
+
+77La loi n'78-17du 6 janvier 1978 relative à l'informatique, auxfichiers et auxlibertés(modifiée), articles
+88 et 89.
+
+78 En 2009, il existait en France 58 bases de données gérées et exploitées par la police et 27% d'entre
+elles étaient dénuées de bases légales.
+
+1548 Assemblée Nationale, Constitution du 4 octobre 1958,
+
+treizième législature, enregistré à la Présidence de l'Assemblée nationale le 24 mars 2009. Rapport
+d'information déposé en application de l'article 145 du Règlement par la Commission des 'lois
+
+constitutionnelles, de la législationetde l'administrationgénéralede la Républiquesurlesfichiersdepolice.
+Par Mme Delphine BATHO et M. Jacques Alain BENISTI, Députés, p. 43 et suivantes.
+
+79 1335 Assemblée Nationale, Constitution du 4 octobre 1958, Quinzième législature, enregistré à la
+
+Présidence de l'Assemblée nationale le 17 octobre 2018, Rapport d'information déposéen application de
+l'article 145 du Règlement par la Commission des lois constitutionnelles, de la législation et de
+CNPD
+ÏK®^
+
+Commission nationale pour la protection des données
+Délibération n* 45/2019 du 13 septembre 2019 de la Commission nationale pour la
+protection des données relatif au fichier central de la Police grand-ducale au regard de la
+législation sur la protection des données
+
+27/34
+
+plus de l'existence d'une base légale ou réglementaire sur laquelle repose les fichiers gérés et
+exploités par la police, les finalités desdits fichiers y sont précisés. A titre d'exemple, il est précisé
+dans la fiche descriptive du fichier TAJ que « Le traitement d'antécédents judiciaire (TAJ), en
+application des articles 230-6 à 230-11 du Code de procédure pénale, est utilisé dans le cadre
+cfes enquêtes judiciaires (recherche des auteurs d'infractions) et d'enquêtes administratives
+(comme les enquêtes préalables à certains emplois publics ou sensibles) »8°.
+En Belgique, la loi relative à la protection des personnes physiques à l'égard des traitements de
+donnéesà caractèrepersonnel met en ouvre le RGPDet transpose la Directive en droit national.
+Cette loi prévoit également la nécessité d'une base légale spécifique à savoir un texte légal ou
+
+réglementaireencadrant les traitements de donnéesà caractère personnel en matière pénale81.
+Dans la lignée du législateur français, le législateur belge dote les fichiers de la police de bases
+légales spécifiques. En effet, la loi sur la fonction de police dispose que « lorsque /'exercice des
+missions de police administrative et de police judiciaire nécessite que les services de police
+structurent les données à caractère personnel et les informations visées à l'article 44/1 de sorte
+
+qu'elles puissent être directement retrouvées, celles-ci sont traitées dans une banque de données
+policière opérationnelle [.. ]»a2. La loi encadre trois types de fichiers à savoir « la Banque de
+données Nationale Générale », « les banques de données de base », « les banques de données
+
+particulières ». La loi belge précise également les finalités de ces trois types de banques de
+données. A titre d'exemple, la Banque de données Nationale Générale est utilisée par les
+services de police belge pour exercer leurs missions afin de permettre : « l'identification des
+personnes visées à l'article 44/5 , paragraphe 1eret 3 ; l'identification des personnes ayant accès
+à la B. N. G. ; la coordination et le croisement des données à caractère personnel et informations
+
+policières ; la vérification au niveau national des antécédents de police administrative et de police
+judiciaire ; l'aide aux contrôles effectués par les services de police par l'indication des mesures à
+prendre soit sur la base d'une décision des autorités de police administrative ou des autorités de
+police judiciaire compétentes, soit en fonction de l'existence des antécédents de police
+administrative ou de police judiciaire ; l'appui à la définition et à la réalisation de la politique
+policière et de sécurité »83.
+
+En Allemagne in fine, les fichiers gérés et exploités par la police sont principalement réglés au
+niveau des Lânder"4.Parexemple, dans le Land de Hesse, ce sont la loi de police ainsi que des
+
+l'administration générale de la République, en conclusion des travaux d'une mission d'information sur les
+fichiers mis à la disposition des forces de sécuritéet présenté par MM. Didier PARIS et Pierre MOREL-AL'HUISSIER, Députés, p. 9.
+
+80 Fiche descriptive du fichier « TAJ : Traitement d'Antécédents judiciaires » disponible sur la page
+https://www. service-public. fr/particuliers/vosdroits/F32727, consultée pour la dernière fois le 24/08/2019.
+81 30 juillet 2018 loi relative à la protection des personnes physiques à l'égard des traitements de données
+à caractère personnel, Titre 2., article 33 paragraphe 1er.
+1)2 5 août 1992 loi relative sur la fonction de police (mise à jour au 19-06-2019), article 44/2 paragraphe 1 ".
+83 Ibidem, article 44/7.
+
+84 II existe toutefois des traitements de données (traitements à caractère national et échanges de données)
+
+réglés au niveau fédéral, surtout dans la loi BKA, Gesetz iiber das Bundeskriminalamt und die
+Zusammenarbeit des Bundes und der Lânder in kriminalpolizeilichen Angelegenheiten.
+
+CNPD
+
+Commission nationale pour la protection des données
+Délibération n° 45/2019 du 13 septembre 2019 de la Commission nationale pour la
+protection des données relatif au fichier central de la Police grand-ducale au regard de la
+législationsur la protection desdonnées
+
+28/34
+
+règlements d'application de cette loi qui prévoient la mise en place d'un système de consultation
+automatisé des données
+
+policières8 5.
+
+Il est donc indéniableque les législations des pays voisins prévoient la gestion et l'exploitation
+des fichiers par la police et en précisentles finalités.
+2) La question des dispositions spécifiques relatives aux délaisde conservation des données
+Comme mentionné précédemment, le responsable du traitement se doit notamment de fixer les
+
+délais appropriés pour l'effacement des données à caractère personnel et rétablissement de
+
+règlesprocéduralesen vue du respect desditsdélais.LaCNPDse demandes'il est opportun de
+confier detelles responsabilités au Directeur généralde la Police grand-ducale. Eneffet, une telle
+marge de manouvre est susceptible de méconnaître les principes d'accessibilité et de
+prévisibilité de la loi qui découlent du principe de légalité de la loi pénale. A cet égard, la Cour
+européenne des droits de l'homme au sein de sajurisprudence affirme que « le droit interne doit
+
+offrirunecertaine protection contre des atteintes arbitrairesde la puissance publique aux droits
+garantis par l'article 8 paragraphe 1 8'»87. Par conséquent, la loi « doit définir /'étendue et les
+
+modalités d'exercice du pouvoir avec une netteté suffisante - compte tenu du but légitime
+poursuivi- pour fournir à l'individu une protection adéquatecontre l'arbitraire »ss.
+Dans les législations des pays voisins, les délais de conservation des données à caractère
+
+personnel au sein des fichiers gérés et exploités par la police sont fixés dans des base légales
+dédiéesspécifiquement à ces fichiers en question.
+
+En Franceparexemple, la loi n-2011-267du 14mars2011 d'orientationetde programmation de
+la performance de la sécurité intérieure qui encadre le fichier relatif au traitement d'antécédents
+
+judiciaires 89dispose que les données concernant les personnes mises en cause majeures sont
+conservées 20 ans. Les données concernant les personnes mineures mises en cause sont
+
+85Hessisches GesetzUberdieôffentlicheSicherheitundOrdnung(HSOG), voirégalementVerordnung zur
+Durchfuhrung des Hessischen Gesetzes Uber die offentliche Sicherheit und Ordnung und des Hessischen
+Freiwilligen-Polizeidienst-Gesetzes (HSOG-DVO) vom 12. Juni 2007.
+Convention européenne des droits de l'homme
+
+87 Cour EDH, Amann e. Suisse [GC], n°27798/95 para 56.
+
+Ibidem VoirégalementCour EDH, Malonee. Royaume-Uni, sérieA n°82, du2 août 1984, pp. 31-32,
+
+para. 66j Cour EDH FernândezMartineze. Espagne CE:ECHR:2014:0612JUD005603007,12juin 2014
+para. lJJ , Cour EDH, Liberty et autres e. Royaume-Uni, n° 58243/00, du 1erjuillet 2008, para. 62 et 63;
+
+Cour EDH, Rotaruc. Roumanie, App. 28341/95, 4 mai 2000, para. 57 à 59 et Cour EDH, S et Marper
+e. Royaume-Uni, Requêtesn° 30562/04et 30566/04, du4 décembre2008para. 99. ; Dimitrov-Kazakove.
+Bulgarie n°11379/03, du 10 février 2011.
+
+89 Le traitement d'antécédents judiciaire (TAJ) est un fichier commun à la police et à la gendarmerie
+
+nationale, en remplacement desfichiers STICde la police nationale et JUDEX,de la gendarmerie nationale,
+
+qui ont été définitivement supprimés.
+CNPD
+'i'!^.
+
+Commission nationale pour la protection des données
+
+Délibérationn"45/2019du 13septembre 2019de la Commission nationale pour la
+protection des donnéesrelatifau fichiercentral de la Policegrand-ducaleau regard de la
+législation sur la protection des données
+
+29/34
+
+conservées 5 ans et les données concernant les victimes sont conservées au maximum 15 ans90.
+
+Un tel exemple révèle le degré de précision de la loi française énonçant explicitement les délais
+de conservation des données tout en effectuant la distinction entre les différentes catégories de
+personnes concernées.
+
+En Belgique, la loi sur la fonction de police prévoit que les données traitées dans la Banque de
+donnéesNationaleGénéraleà desfins de policejudiciairesont archivéeslorsqu'elles présentent
+
+un caractère non adéquat, non pertinent ou excessif. L'archivage s'effectue un an à partir de
+l'enregistrement du fait s'il s'agit d'un fait qualifié de contravention, dix ans s'il s'agit d'un fait
+qualifiéde délit et trente ans s'il s'agit d'un fait qualifié de crime, à partir de l'enregistrement du
+fait91. La durée de l'archivage est de 30 ans. A l'expiration de ces 30 ans, les données sont
+effacées92.
+
+En Allemagne, les Lânder prévoient également des délais de conservation et d'archivage des
+données à caractère personnel contenues dans les fichiers de la police. C'est le cas notamment
+du Land de Hesse dont le règlement d'exécution de la loi de police dispose que la nécessité de
+conserver les données doit être appréciée de manière régulière et qu'une vérification de la
+
+pertinence de la conservation doit avoir lieu tous les 10 ans. Les délais de conservation sont
+également modulés en fonction de ce qu'il s'agit d'une personne physique mineure ou majeure.
+
+Au vu des présentesconsidérations,la CNPDestime que les délaisde conservation ou du moins
+les critères applicables pour déterminer la durée de conservation ainsi que les procédures
+permettant la vérification régulièrede la nécessitélesdits délaismériteraientd'être préciséspar
+le législateurafinde limiter au maximum la margede manoeuvre du responsable du traitement et
+garantir la transparence, l'accessibilitéet la proportionnalitédesditsdélais.
+3) La question des dispositions spécifiques relatives aux personnes vulnérables et aux
+données sensibles
+
+Auxtermes de ses considérants,la Directive prévoitque « tes mesures prises par le responsable
+du traitement devraient comprendre rétablissement et la mise en ouvre de garanties spécifiques
+destinées au traitement de données à caractère personnel relatives aux personnes physiques
+vulnérables, telles que les enfants »93.
+
+Dans son corps de texte, la Directive ne prévoit pas de dispositions particulières relatives aux
+traitements des données à caractère personnelles des personnes mineurs par les responsables
+de traitement qu'elle vise, tout comme la loi de transposition se retreint de le faire.
+La loi du 10 août 1992 relative à la protection de la jeunesse ne fait pas non plus état d'une telle
+protection.
+90 Loi n'2011-267 du 14 mars 2011 d'orientation et de programmation pour la performance de la sécurité
+
+intérieure, voir également les articles 230-6 à 230-11 du Code de procédure pénale.
+91 5 août 1992 loi relative sur la fonction de police (mise à jour au 19-06-2019), article 44/9 et suivants.
+92 Ibidem, article 44/10.
+93 Directive, considérant 50.
+
+%CNPD
+
+Commission nationale pour la protection des données
+
+"tl-&
+
+Délibération n" 45/2019 du 13 septembre 2019 de la Commission nationale pour la
+
+protection des données relatif au fichier central de la Police grand-ducale au regard de !a
+législationsur la protection des données
+
+30/34
+
+La législation luxembourgeoise diffère donc également à cet égard si on la compare avec celles
+
+des pays voisins. En effet, la France et l'Allemagne prévoient des garanties spécifiques au
+traitement des données à caractère personnel des personnes mineures lorsque celles-ci sont
+contenues au sein de fichiers policiers94.
+
+94Voiren ce sens les développementseffectuésdansle pointprécédent.
+ttCNPD
+
+Commission nationale pour la protection des données
+Délibération n" 45/2019 du 13 septembre 2019 de la Commission nationale pour la
+protection des données relatif au fichier central de la Police grand-ducale au regard de la
+législation sur la protection des données
+
+31/34
+
+Conclusion
+
+Le traitement des données à caractère personnel tel qu'effectué par la Police grand-ducale à
+travers le fichier central est encadré par la loi du 1er août 2018 relative à la protection des
+
+personnes physiques à l'égard du traitement des données à caractère personnel en matière
+pénale ainsi qu'en matière de sécuriténationale et par la loi du 18juillet 2018 sur la Policegrandducalequi prévoitexplicitementles missionsdecette dernière.Ensemble, ces deuxloisconfèrent
+un fondement légal et rendent licite le traitement de données relatif au fichier central.
+L'utilisation du fichier central soulève toutefois un certain nombre de questions quant à la
+conformité du traitement aux dispositions de la loi de transposition.
+
+Dans l'esprit du changement de paradigme en matière de contrôle dans le domaine de la
+protection desdonnées, le législateura chargéle responsable dutraitement en matièrede pénale
+et de sécurité nationale du respect des obligations de la loi. Il lui appartient de définirles politiques
+
+appropriées en matièrede protection desdonnéeset de mettre en ouvre les mesures techniques
+et organisationnelles appropriées pour s'assurer et être en mesure de démontrer à tout moment
+que le traitement est effectuéconformémentà la loi de transposition.
+Pour ce qui est du fichier central, il est incontestable que la Police grand-ducale en tant que
+responsable du traitement n'est actuellement pas en mesure de démontrer pleinement cette
+conformité, ce qui met en péril la garantiedes droits et libertésdes personnes concernées, ainsi
+que la confiance que portent les citoyens en cette institution importante.
+Cette situation de fait amène la CNPD à conclure que la situation actuelle nécessite une
+
+intervention qui va au-delà du périmètre strict de la Police grand-ducale afin de garantir une
+protection effective des droits des personnes concernées.
+
+Dans cette perspective et afin de mieux encadrer les obligations du responsable du traitement en
+
+['espèce et de façon générale pour améliorer la qualité de loi encadrant la matière, la CNPD
+propose que le législateur précise la législation nationale à cet égard, en vertu de l'article 1. 3 de
+la Directive et à ta lumière de la jurisprudence des Hautes juridictions européennes.
+Ainsi, la loi sur la Police devrait être complétée de dispositions précisant, entre autres, le principe
+
+et les finalités spécifiques des fichiers opérés par la Police grand-ducale pour les besoins
+d'exécution de ses missions, les délais de conservation des données ou les critères applicables
+
+pour déterminer les durées de conservation des données, ainsi que les autres aspects essentiels
+des traitements de données opérés par la Police grand-ducale, tels que développés plus haut
+dans le présent avis.
+
+Partant, les mesures législatives à adopter devraient préciser le cadre législatif général posé par
+la loi de transposition quant aux aspects essentiels des traitements de données, mais aussi
+
+prévoir la possibilité d'adopter des règlements grand-ducaux pour régler les modalités moins
+essentielles, à la lumièrede la jurisprudence de la Cour constitutionnelle.
+
+fCNPD
+.
+
+Commission nationale pour la protection des données
+
+it'ï-,'
+
+T-^¥Î
+
+'"'.
+
+Délibérationn" 45/2019 du 13 septembre 2019de la Commission nationale pour la
+
+protection des donnéesrelatif aufichiercentral de la Policegrand-ducaleau regard de la
+législationsur la protection desdonnées
+
+32/34
+
+Entre-temps, la Commission nationalefaitappelà la Policegrand-ducaledese conformerle plus
+rapidement possible aux obligations résultant de la loi de transposition de la Directive (DE)
+2016/680 et plus particulièrement au niveau des points suivants :
+
+Etablir la documentation complète relative au fichier central précisant tant l'objet que les
+finalités spécifiques de ce dernier, ainsi que les mesures techniques et organisationnelles
+adoptées compte tenu de la nature, de la portée, du contexte des finalités du traitement
+ainsi que des risques.
+
+Revoir les accèsau fichier central accordésau regard de leur nécessitéalors qu'àl'heure
+actuelle, il semble y avoir un décalage entre le nombre important des accès accordés au
+fichier central et l'utilisation effective de ces accès.
+
+Mettre en place unejournalisation conforme à l'article 24 de la loi de transposition et
+plus particulièrement de :
+
+o prendre des mesures permettant de garantir que l'identité de la personne ayant
+fait une demande de recherche (en particulier par téléphone) puisse être retracée
+dans le cas de figure où un agent effectue pour le compte d'un autre la recherche
+dans le fichier central ;
+
+o assurer la tenue desjournauxconformément aux règles de la loi de transposition.
+Fixer sans ambiguïté les délais de conservation appropriés et établir des règles
+procédurales en vue d'assurer le respect de ces délais et plus particulièrement :
+o
+
+améliorer la transparence et la précision quant aux délais de conservation ;
+
+o vérifier l'adéquation du délai de conservation de la partie active au regard des
+délais de prescription applicables ;
+
+o
+
+vérifier le caractère proportionné de la durée de conservation de la partie archives.
+
+Convaincue qu'une amélioration de la protection des droits des personnes concernées pourra en
+résulter, la Commission nationale salue la coopérationde la Police grand-ducale et du Ministère
+Public en vue de la mise en place d'un système de transmission automatisé d'informations
+
+succinctes sur le suivi réservé par les autorités judiciaires aux procès-verbaux transmis par la
+Police grand-ducale et encourage les protagonistes de faire avancer rapidement leurs travaux.
+
+Entre-tempsetafinquelesdroitsetlibertésdespersonnesconcernées,dontlesdonnéesfigurent
+dans le fichier central, soient garanties, la CNPD estime nécessaire de mettre en place un
+mécanismede transmission manuel entre les autoritésjudiciaireset la Police grand-ducale, afin
+que cette dernière soit en mesure de garantir l'exactitude et la mise à jour des données.
+
+.
+
+CNPD
+
+Commission nationale pour la protection des données
+
+Délibérationn* 45/2019 du 13septembre 2019de la Commission nationalepour la
+protection des donnéesrelatifau fichiercentral de la Policegrand-ducaleau regard de la
+législation sur la protection des données
+
+33/34
+
+Au regard des éléments dont dispose la CNPD actuellement quant à la structure et la
+configuration du fichiercentral, elle tient à rappeler que la Police grand-ducale ne pourra pas se
+réfuter derrière des contraintes techniques pour justifier une non-conformité. Il incombe à ce
+moment au responsable du traitement de prendre toutes les mesures nécessaires pour assurer
+
+qu'il soit en mesure de respecter pleinement les droits des personnes concernées - même si ceci
+nécessite le redéveloppement d'un système informatique.
+
+La Commission nationale fait également appel aux autorités compétentes pour soutenir la Police
+
+grand-ducaledanssestravauxdemiseenconformité, notamment en lui mettant à disposition les
+ressources nécessaires à cette fin.
+
+Enfin, la Commission nationale suggère aux autorités compétentes de préciser et mettre en
+
+ouvre des garanties spécifiques destinées au traitement de données à caractère personnel
+relatives aux personnes physiques vulnérables telles que les enfants.
+
+Ainsi décidé à Esch-sur-Alzette en date du 13 septembre 2019.
+
+La Commission nationale pour la protection des données
+
+^-
+
+Tine A. Larsen
+Présidente
+
+J^CNPD
+L^ss
+.
+
+w'F
+
+Thierry Lallemang
+Commissaire
+
+itophe Buschmann
+Commissaire
+
+larc Lemmer
+Commissaire
+
+Commission nationale pour la protection des données
+Délibération n" 45/2019 du 13 septembre 2019 de la Commission nationale pour la
+
+protection des données relatif au fichier central de la Police grand-ducale au regard de la
+législation sur la protection des données
+
+34/34
+
+

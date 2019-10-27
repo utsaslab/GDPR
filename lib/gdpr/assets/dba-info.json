@@ -484,5 +484,31 @@
         "render_type": "FULLY_RENDERED"
       }
     ]
+  },
+  "LU": {
+    "country": "Luxembourg",
+    "name": "Commission Nationale pour la Protection des Données",
+    "address": "1, avenue du Rock’n’Roll\nL-4361 Esch-sur-Alzette",
+    "phone": "2610 60 1",
+    "country_code": "+352",
+    "email": "info@cnpd.lu",
+    "website": "https://cnpd.public.lu",
+    "member": {
+      "name": "Ms Tine A. LARSEN",
+      "title": "President of the Commission Nationale pour la Protection des Données"
+    },
+    "sources": [
+      {
+        "host": "https://cnpd.public.lu",
+        "start_path": "/fr/decisions-avis.html",
+        "target_element": {
+          "results": null,
+          "pagination": null,
+          "document": null,
+          "date": null
+        },
+        "render_type": "FULLY_RENDERED"
+      }
+    ]
   }
 }

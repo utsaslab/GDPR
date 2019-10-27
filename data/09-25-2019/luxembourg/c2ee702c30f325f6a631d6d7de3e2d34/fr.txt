@@ -1,0 +1,161 @@
+Avis de la Commission nationale pour la protection des données
+relatif au projet de loi n° 6539 relatif à la préservation des
+
+entreprises et portant modernisation du droit de la faillite
+Délibérationn° 441/2018 du 16 juillet 2018
+Conformément à l'article 32 paragraphe (3) lettre (e) de la loi modifiée du 2 août 2002 relative
+à la protection des personnes à regard du traitement des données à caractère personnel (ciaprès désignée « la loi modifiée du 2 août 2002 » ou « la loi »), la Commission nationale pour
+la protection des données (ci-après désignée « la Commission nationale » ou « la CNPD ») a
+notamment pour mission d'« être demandée en son avis sur tous les projets ou propositions
+de loi portant création d'un traitement de même que sur toutes les mesures réglementaires ou
+administratives émises sur base de la présente loi ».
+Par courrier en date du 19 mars 2018, Monsieur le Ministre de la Justice a fait parvenir à la
+
+CNPD une série d'amendements gouvernementaux au projet de loi n° 6539 relative à la
+préservation des entreprises et portant modernisation du droit de la faillite (ci-après « les
+amendements » ou le « projet de loi »).
+
+Pour rappel, la CNPD a rendu, le 20 novembre 2015, un premier avis relatif au projet de loi n°
+
+6539 relatif à la préservation des entreprises et portant modernisation du droit de la faillite'
+dans lequel elle a formulé différentes observations concernant notamment la problématique
+des données judiciaires, la collecte des données sur les entreprises en difficulté, le droit
+d'accès, la création d'une base légale pour la transmission de certains jugements au
+(secrétariat du) Comité de conjoncture, la demande de communication d'informations de la
+part du (secrétariat du) Comité de conjoncture et la problématique de la liste des protêts.
+La CNPD relève que le règlement n° 2016/679 du 27 avril 2016 relatif à la protection des
+personnes physiques à l'égard du traitement des données à caractère personnel et à la libre
+circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la
+protection des données) (ci-après « le RGPD ») est applicable dans tous les Etats membres
+de l'Union européenne depuis le 25 mai 2018. Ainsi, elle considère qu'il n'y a plus aucun intérêt
+à analyser le projet de loi à la lumière de la loi modifiée du 2 août 2002 actuellement toujours
+en vigueur, mais elle ['avisera uniquement sur base des dispositions du RGPD.
+La Commission nationale limite ses observations aux amendements n° 6, 7 et 15 qui donnent
+
+lieu à observations en rapport avec le respect de la vie privée et avec la protection des
+données à caractère personnel.
+
+1) Amendement n° 6 concernant l'article 5 initial (article 5 paragraphe (1) nouveau)
+a.
+
+La détermination du ou des responsable(s) du traitement
+
+La CNPD note que l'article 5 paragraphe (1) du projet de loi laisse entendre que le secrétariat
+
+du Comité de conjoncture est censé agir comme responsable du traitement. Concernant la
+Délibération n° 652/2015 du 20 novembre 2015 de la Commission nationale pour la protection des données.
+
+<i;CNPD
+
+Avis de la Commission nationale pour la protection des données
+relatif au projet de loi n° 6539 relatif à la présen/ation des entreprises et portant
+modernisation du droit de la faillite
+1/3
+
+problématique de ladistinction entre le secrétariatdu Comitédeconionctureet^com^té:d^
+'lui-même, la Commission nationale renvoie à son avis du 20 novembre 2015.^
+
+en'vade'même pour la nécessité de la désignation d'un responsable de traitement dans^
+
+texte"du'pTojetdeîoT. Lesamendements n'ont pas résolu cette problématique ma"3_lacNPD
+considère' toujours'que le Comité de conjoncture lui-même agit comme responsable du
+traitement.
+
+b. Les finalités des traitements de données à caractère personnel et la nature et les
+catégories de données traitées
+
+LaCNPDremarque d'un côtéque l'article 5 paragraphe (1) du projet de loi contient désormais
+uneïiste'des'donnees auxquelles le secrétariatdu Comitédeconjoncture auraaccèsauxfins
+
+de'rempliMes" missions prévuespar le projet de loi. De l'autre côté, les amend®ments
+mtroduisent avec le dernier alinéa de l'article 5 paragraphe (1) un nouveau libellé très vague
+
+traitement, «Peufyo /"dreau
+dossier'Se'srenseignements etdonnéesutilesqui luisonttransmises parle débiteuroupar^un
+
+pou'rte
+
+responsable
+
+du traitement.
+
+Le fait que le
+
+responsable
+
+du
+
+c'reancie~r~('.. ~.)» signifieque la listedesdonnéescollectées n'estpaslimitative maispeut-être
+
+élargieïibrement II est indiquédans le commentaire de l'article 5 Para9raPhe_,(_1)j_ue tes
+critères"ne'peuvent pas être définis avec une précision absolue parce que les eléments_c'ul
+peuvent être pertinents seraient trop nombreux. La Commission nationale est "sanm0"^
+
+d'avis'que"cette formulation ne répond pas aux exigences de précision et de prévisibilité
+auxquelles doit répondre un texte légal.
+
+La CNPD rejoint le Conseil d'Etat qui, dans son avis du 1 décembre 2015'^s'est^oppose
+formellement auxdispositions del'article 5 alinéa1erinitialparcequecesdispositionsontomis
+
+'«'de~préciser"comment et d'après quels critères le Comité de conjoncture détermina
+
+débiteurs dont tesdonnées seraient collectées ». Même si les auteurs des amendements ont
+
+ajouté à Farticle 5 paragraphe (1) alinéa 3 (nouveau) que le secrétariatdu Comité de
+
+conjoncture estime « surbass de critères objectifs et vérifiables » qu^il yamise_enPenld,e
+Fenïeprise, îa'CNPD considère que i) cette disposition continue à créer une_^nsecunt_e
+juridique'et que'ii) elle ne permet pas à la CNPD d'examiner sj lesdonné_es_t_raitëes_sont
+p'ertinentes etnonexcessives auregarddesfinalitéspourlesquelles ellessont collectées.
+2) Amendement n° 7 concernant l'article 7 paragraphe (2)
+
+La Commission nationale approuve cet amendement utile parce que le droit d'accès et le droit
+de rectification du débiteur sont déjà abordés par l'artide 5 paragraphe (2) nouveau du texte
+sous examen.
+
+3) Amendement n° 15 concernant l'article 16
+
+LaCNPD recommande d'aligner laterminologie surcelle du RGPDet de remplacer les termes
+Fdonnées'nominatives» de l'artide 16 alinéa 3 (nouveau) par les termes «données a
+caractère personnel » utilisés par le RGPD.
+
+La CNPD n'a pas d'autres observations à formuler en ce qui concerne \es amendements
+soumis pour avis et renvoie pour le surplus à son avis du 20 novembre 2015.
+
+.
+
+CNPD
+
+Avis de la Commission nationale pour la protection des données
+
+relatif au projet de loi n° 6539 relatif à la préservation des entreprises et portant
+modernisation du droit de la faillite
+
+2(3
+
+Ainsi décidéà Esch-sur-Alzette en date du 16Juillet 2018.
+La Commission nationale pour la protection des données,
+
+Tine A. Larsen
+Présidente
+
+CNPD
+
+Thierry Lallemang
+Membre effectif
+
+Cbi-istophe Buschmann
+Membre effectif
+
+Avis de la Commission nationale pour la protection des données
+
+..<;;-:?(,.'»
+
+S
+
+relatif au projet de loi n° 6539 relatif à la préservation des entreprises et portant
+modernisation du droit de la faillite
+
+3/3
+
+
