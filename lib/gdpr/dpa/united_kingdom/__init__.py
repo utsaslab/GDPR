@@ -21,7 +21,7 @@ class UnitedKingdom(DPA):
         iso_code='GB'
         super().__init__(iso_code)
 
-    def bulk_collect(self, path):
+    def get_docs(self, path):
 
         spreadsheet = self.sources[0]
         host = spreadsheet['host']

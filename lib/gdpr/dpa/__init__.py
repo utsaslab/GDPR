@@ -28,5 +28,5 @@ class DPA(object):
         self.member = dpa['member']
         self.sources = dpa['sources']
 
-    def bulk_collect(self, path):
+    def get_docs(self, path):
         raise NotImplementedError("Subclasses should implement this function.")

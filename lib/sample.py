@@ -40,6 +40,14 @@ from gdpr.policies import summary_policy
 
 import os
 
+from gdpr.services.dpa_html_reachability_service import dpa_html_reachability_service
+from gdpr.services.py_line_inspector_service import py_line_inspector_service
+from gdpr.services.github_issue_template_service import GithubIssueTemplateService
+
+from gdpr.factories.github_issue_factory import GithubIssueFactory
+from gdpr.repositories.github_commit_repository import GithubCommitRepository
+
+from gdpr.specifications import closed_dpa_issues_specification
 #from striprtf.striprtf import rtf_to_text
 
 nlp = en_core_web_sm.load()
@@ -48,12 +56,44 @@ def main():
     #logpath = '/tmp/gdpr.log'
     #dispatch_background_logging_service(logpath)
 
-    now = datetime.datetime.now()
-    data_path = '../data/{date}/'.format(date='09-25-2019') # prod: now.strftime("%m-%d-%Y")
+    os.environ['gh-username'] = 'INSERT_USERNAME_HERE'
+    os.environ['gh-password'] = 'INSERT_PASSWORD_HERE'
+    os.environ['gh-repo-owner'] = 'DanielRanLehmann'
+    os.environ['gh-repo-name'] = 'GDPR'
 
     gdpr = GDPR()
-    dpa = gdpr.get_dpa(GDPR.EU_MEMBER.MALTA)
-    dpa.bulk_collect(data_path)
+    dpa = gdpr.get_dpa(GDPR.EU_MEMBER.NETHERLANDS)
+
+    if closed_dpa_issues_specification.is_satisfied_by(dpa) is False:
+        return None
+
+    reachability = dpa_html_reachability_service(dpa)
+    for iso_code, xpath, label, reachability_flag in reachability:
+        if reachability_flag != 1:
+            gh_commit_repository = GithubCommitRepository()
+            gh_commit_repository.set_auth(username=os.environ['gh-username'], password=os.environ['gh-password'])
+            gh_commit_repository.set_repo(owner=os.environ['gh-repo-owner'], name=os.environ['gh-repo-name'])
+
+            commits = gh_commit_repository.list(params={'path': 'lib/gdpr/dpa/%s/__init__.py' % dpa.country.lower()})
+            last_dpa_commit = commits[0] if len(commits) > 0 else None
+
+            gh_issue_template_service = GithubIssueTemplateService()
+            issue = gh_issue_template_service.dpa_html_reachability_issue(dpa, reachability, last_dpa_commit)
+
+            gh_issue_factory = GithubIssueFactory()
+            gh_issue_factory.set_auth(username=os.environ['gh-username'], password=os.environ['gh-password'])
+            gh_issue_factory.set_repo(owner=os.environ['gh-repo-owner'], name=os.environ['gh-repo-name'])
+            gh_issue_factory.create(
+                title=issue['title'],
+                body=issue['body'],
+                labels=issue['labels'],
+                assignees=issue['assignees']
+            )
+            return None
+
+    now = datetime.datetime.now()
+    data_path = '../data/{date}/'.format(date='09-25-2019') # prod: now.strftime("%m-%d-%Y")
+    dpa.get_docs(data_path)
 
     """for root, _, files in os.walk(data_path):
         filename = files[0] if len(files) > 0 else None

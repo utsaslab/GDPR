@@ -1,0 +1,9 @@
+iso_code, xpath, label
+nl, /html/body/article/div/div[1]/div/ul, results
+nl, /html/body/article/div/div[1]/div/ul/li[1]/div/a, results
+nl, /html/body/article/div/div[1]/div/div[3], pagination
+nl, /html/body/article/div/div[1]/div/div[3]/div/ul, pagination
+nl, /html/body/article/div/div[1]/div/div[3]/div/ul/li[2], pagination
+nl, /html/body/article/div/div[1]/div/div[3]/div/ul/li[2]/a, pagination
+nl, /html/body/article/div/div[1]/div/ul/li[1]/div/a, document
+nl, /html/body/article/div/div[1]/div/ul/li[1]/div/a/div/span[2], date

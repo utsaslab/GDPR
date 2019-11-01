@@ -1,0 +1,783 @@
+Onderzoeksrapport
+
+Onderzoek naar de
+verwerking van BSN in btwidentificatienummers door
+de Belastingdienst
+Onderzoeksrapport
+Juni 2018
+
+Onderzoeksrapport 26 juni 2018
+Z2017-03235
+
+Inhoudsopgave
+Samenvatting
+1.
+
+Inleiding
+
+4
+
+1.1
+1.2
+1.3
+
+Aanleiding en doel van het onderzoek
+Verloop onderzoek
+Wettelijk kader
+
+4
+5
+5
+
+2.
+
+Bevindingen
+
+8
+
+2.1
+2.2
+2.3
+2.4
+
+Verwerking van persoonsgegevens en de verwerkingsverantwoordelijke
+Uitwerking van de normen inzake verwerking van het BSN
+Beoordeling
+Zienswijze Belastingdienst
+
+8
+9
+11
+14
+
+3.
+
+Conclusies
+
+18
+
+Onderzoeksrapport 26 juni 2018
+
+2
+
+Samenvatting
+Op 13 juni 2017 heeft de Autoriteit Persoonsgegevens (AP) aangekondigd dat zij ambtshalve een onderzoek is
+gestart bij de Belastingdienst. De Belastingdienst is in Nederland belast met het verstrekken van btwidentificatienummers.
+Het onderzoek richt zich op het vaststellen of er een wettelijke grondslag is voor het gebruik van het
+burgerservicenummer (BSN) in btw-identificatienummers van zelfstandigen met een eenmanszaak (veelal
+zzp’ers) door de Belastingdienst.
+Het BSN is een wettelijk identificatienummer en mag op basis van artikel 10 van de Wet algemene bepalingen
+burgerservicenummer (Wabb) bij de verwerking van persoonsgegevens slechts worden gebruikt ter
+uitvoering van de betreffende wet dan wel voor doeleinden bij de wet bepaald.
+Uit het onderzoek is – kort samengevat – naar voren gekomen dat artikel 10 van de Wabb geen wettelijke
+grondslag biedt om het BSN zelfstandig te gebruiken in btw-identificatienummers. Een expliciete wettelijke
+grondslag voor deze verwerking van het BSN is echter verplicht op basis van artikel 46 van de Uitvoeringswet
+Algemene verordening gegevensbescherming (UAVG). Aangezien artikel 10 van de Wabb geen wettelijke
+grondslag biedt is het gebruik van het BSN van zelfstandigen in btw-identificatienummers in strijd met artikel
+46 van de UAVG.
+Voorts is geen sprake van de op grond van artikel 6, eerste lid, onder e, van de AVG vereiste verwerkingsgrond
+voor de onderzochte verwerking van de Belastingdienst. Ook de is verwerking ten aanzien van de betrokkene
+niet ‘rechtmatig en behoorlijk’ en daarmee is de verwerking in strijd met artikel 5, eerste lid, onder a, van de
+AVG.
+
+Onderzoeksrapport 26 juni 2018
+
+3
+
+1. Inleiding
+1.1
+
+Aanleiding en doel van het onderzoek
+Op grond van artikel 214 van de Btw-richtlijn1 moeten lidstaten de nodige maatregelen treffen voor de
+identificatie onder een individueel nummer (het btw-identificatienummer; ook wel btw-nummer genoemd2)
+van zelfstandige ondernemers op hun grondgebied. Er worden aan dat nummer verder geen specifieke eisen
+gesteld op grond van de richtlijn, behalve dat het moet worden voorafgegaan door de landencode (voor
+Nederland ‘NL’). De Btw-richtlijn is in Nederland geïmplementeerd in de Wet op de Omzetbelasting 1968 (wet
+OB). De Belastingdienst is in Nederland belast met het verstrekken van btw-identificatienummers. Het is de
+bestaande praktijk van de Belastingdienst om het btw-identificatienummer voor zelfstandigen met een
+eenmanszaak (veelal zzp’ers3) op te bouwen uit het burgerservicenummer (het BSN) van de betreffende
+natuurlijke persoon, voorafgegaan door ‘NL’ en de toevoeging ‘B’ plus een volgnummer (bijvoorbeeld 01)
+daarachter. In dit rapport wordt de zelfstandige ondernemer met een eenmanszaak verder ook aangeduid als
+‘zelfstandige’.
+Het btw-identificatienummer is bedoeld om veelvuldig te worden gebruikt in het zakelijk verkeer. Elke
+ondernemer, dus ook een zpp’er, is bijvoorbeeld verplicht dit nummer kenbaar te maken aan (potentiële)
+afnemers door het op zijn facturen te vermelden4. Ondernemers die hun diensten online aanbieden zijn sinds
+1 juli 2004 verplicht5 hun btw-identificatienummer op hun website te vermelden. Op deze wijze wordt, via het
+btw-identificatienummer, het BSN van zelfstandigen in de maatschappij breed verspreid.
+Het BSN is bedoeld voor de communicatie tussen burger en overheid, waarbij het gebruik van een
+persoonsnummer nodig is ten behoeve van een eenduidige identificatie en registratie van personen en voor
+de gegevensuitwisseling tussen overheidsorganen onderling.6 Het gebruik van het BSN is bij wet geregeld.
+Omdat de brede verspreiding van het BSN van zelfstandigen via het btw-identificatienummer privacyrisico’s78
+met zich meebrengt, is de Autoriteit Persoonsgegevens (AP) een onderzoek gestart naar de vraag of er een
+wettelijke grondslag is voor de het gebruik door de Belastingdienst van het BSN in btw-identificatienummers
+van zelfstandige ondernemers met een eenmanszaak.
+1
+
+Richtlijn 2006/112/EG van 28 november 2016.
+Artikel 2 a, eerste lid, onder g, van de Wet OB
+3
+Zpp’er staat voor zelfstandige zonder personeel. Een eenmanszaak kan overigens wel personeel hebben.
+4
+Artikel 35a, onder c, van de Wet OB.
+5
+Artikel 3:15d BW (diensten van de informatiemaatschappij)
+6
+Kamerstukken II, 2005/06, 30312, nr. 3., p. 2.
+7
+“Vast staat immers dat persoonsnummers de koppeling van verschillende bestanden aanzienlijk vergemakkelijken en daarmee een
+extra bedreiging voor de persoonlijke levenssfeer vormen.”; Kamerstukken II, 2017/18, 34851, nr. 3, p. 128 (MvT bij artikel 46 van de
+UAVG).
+8
+Antwoord van Staatssecretaris Snel (Financiën), mede namens de Staatssecretaris van Economische Zaken en Klimaat op vragen van
+de leden Lodders en Wörsdörfer over het btw-nummer van zzp-ers; Kamerstukken II 2017/18, Aanhangsel 1956.
+2
+
+Onderzoeksrapport 26 juni 2018
+
+4
+
+1.2
+
+Verloop onderzoek
+
+
+
+
+1.3
+
+Op 13 juni 2017 heeft de AP een rapport met de voorlopige bevindingen aan de Belastingdienst
+verstuurd.
+Bij brief van 11 oktober 2017, ontvangen op 25 oktober 2017, heeft de Directeur Generaal van de
+Belastingdienst zijn zienswijze gegeven op het rapport voorlopige bevindingen.
+Bij brief van 15 november 2017 heeft de Belastingdienst zijn zienswijze nader onderbouwd met het
+verweerschrift in de rechtszaak AMS 17/4262 WBP9.
+
+Wettelijk kader
+Het onderzoek van de AP is gestart in 2017, toen de Wbp nog van kracht was. Per 25 mei 2018 is de Algemene
+verordening gegevensbescherming (AVG) van kracht, alsmede de Uitvoeringswet AVG (UAVG). Tevens is op
+die datum de Wbp ingetrokken, ingevolge artikel 51 van de UAVG. De onder de Wbp geldende regels voor de
+verwerking van het BSN zijn onder de AVG en de UAVG inhoudelijk gecontinueerd.10
+De conclusies van de AP hebben betrekking op een in tijd voortdurende verwerking, die zowel vóór 25 mei
+2018 (toen de Wbp van kracht was) als vanaf 25 mei 2018 plaatsvindt (als de AVG en de UAVG van kracht zijn).
+De bevindingen in dit onderzoeksrapport hebben betrekking op beide wettelijke regimes. In deze
+bevindingen11 wordt primair uitgegaan van de nu geldende wetgeving, de AVG en de UAVG.
+Voorts is de Wet algemene bepalingen burgerservicenummer (Wabb) van toepassing, waarin algemene regels
+over de toekenning, het beheer en het gebruik van het BSN zijn opgenomen.
+Artikel 87 AVG (van kracht vanaf 25 mei 2018)
+Verwerking van het nationaal identificatienummer
+De lidstaten kunnen de specifieke voorwaarden voor de verwerking van een nationaal
+identificatienummer of enige andere identificator van algemene aard nader vaststellen. In dat geval
+wordt het nationale identificatienummer of enige andere identificator van algemene aard alleen
+gebruikt met passende waarborgen voor de rechten en vrijheden van de betrokkene uit hoofde van
+deze verordening.
+Artikel 46 UAVG (van kracht vanaf 25 mei 2018)
+Verwerking nationaal identificatienummer
+1
+Een nummer dat ter identificatie van een persoon bij wet is voorgeschreven, wordt bij de
+verwerking van persoonsgegevens slechts gebruikt ter uitvoering van de desbetreffende wet dan wel
+voor doeleinden bij de wet bepaald.
+9
+
+Deze zaak betreft een verzoek van een zzp’er aan de Belastingdienst om een btw-identificatienummer waar niet het BSN in is
+verwerkt. In deze procedure speelt dezelfde vraag als in het onderzoek van de AP. De rechter (rechtbank Amsterdam) heeft nog geen
+uitspraak in de zaak gedaan ten tijde van de afronding van dit rapport.
+10
+Kamerstukken II, 2017/18, 34851,nr. 3, p. 51.
+11
+In de voorlopige bevindingen van 13 juni 2017 is uitgegaan van de Wbp. Maar voor de inhoudelijke toets maakt dat geen verschil
+omdat, zoals eerder opgemerkt, de onder de Wbp geldende regels voor de verwerking van het BSN onder de AVG en de UAVG zijn
+gecontinueerd.
+
+Onderzoeksrapport 26 juni 2018
+
+5
+
+2
+Bij algemene maatregel van bestuur kunnen andere dan in het eerste lid bedoelde gevallen
+worden aangewezen waarin een daarbij aan te wijzen nummer als bedoeld in het eerste lid, kan
+worden gebruikt. Daarbij kunnen nadere regels worden gegeven over het gebruik van een zodanig
+nummer.
+Artikel 10 Wabb
+Overheidsorganen kunnen bij het verwerken van persoonsgegevens in het kader van de uitvoering
+van hun taak gebruik maken van het burgerservicenummer, met inachtneming van hetgeen bij of
+krachtens dit hoofdstuk is bepaald.
+Artikel 11 Wabb
+1
+Bij het uitwisselen van persoonsgegevens tussen gebruikers onderling, waarbij een
+persoonsnummer wordt gebruikt als middel om persoonsgegevens in verband te brengen met een
+persoon aan wie een burgerservicenummer is toegekend, wordt het burgerservicenummer van die
+persoon vermeld.
+2
+Het eerste lid is niet van toepassing voor zover:
+a. ten behoeve van de desbetreffende gegevensverwerking bij of krachtens wet het gebruik van een
+ander persoonsnummer dan het burgerservicenummer is voorgeschreven;
+b. sprake is van bijzondere omstandigheden waarin het gebruik van het burgerservicenummer in een
+individueel geval onwenselijk is met het oog op de bescherming van de persoonlijke levenssfeer van
+de betrokkene, de opsporing of vervolging van strafbare feiten dan wel de veiligheid van de staat.
+Artikel 5 AVG
+1.Persoonsgegevens moeten:
+a)worden verwerkt op een wijze die ten aanzien van de betrokkene rechtmatig, behoorlijk en
+transparant is („rechtmatigheid, behoorlijkheid en transparantie”);
+(…)
+Artikel 6 AVG
+1
+De verwerking is alleen rechtmatig indien en voor zover aan ten minste een van de
+onderstaande voorwaarden is voldaan:
+(…)
+e) de verwerking is noodzakelijk voor de vervulling van een taak van algemeen belang of van een taak
+in het kader van de uitoefening van het openbaar gezag dat aan de verwerkingsverantwoordelijke is
+opgedragen;
+(…)
+Artikel 24 Wbp (van kracht tot 25 mei 2018)
+1
+Een nummer dat ter identificatie van een persoon bij wet is voorgeschreven, wordt bij de
+verwerking van persoonsgegevens slechts gebruikt ter uitvoering van de betreffende wet dan wel
+voor doeleinden bij de wet bepaald.
+2
+Bij algemene maatregel van bestuur kunnen andere dan in het eerste lid bedoelde gevallen
+worden aangewezen waarin een daarbij aan te wijzen nummer als bedoeld in het eerste lid, kan
+worden gebruikt. Daarbij kunnen nadere regels worden gegeven over het gebruik van een zodanig
+nummer.
+
+Onderzoeksrapport 26 juni 2018
+
+6
+
+Artikel 2a Wet op de Omzetbelasting 1968
+1
+In deze wet en in de daarop gebaseerde bepalingen wordt verstaan onder:
+(…)
+g.
+btw-identificatienummer: het nummer dat ingevolge artikel 214 van de BTW-richtlijn 2006
+door een lidstaat aan een ondernemer of aan een rechtspersoon, andere dan ondernemer, is
+toegekend;
+(…)
+Artikel 35a Wet op de Omzetbelasting 1968
+1
+Op de factuur zijn de volgende vermeldingen verplicht:
+(…)
+c.
+het btw-identificatienummer waaronder de ondernemer de goederenleveringen of de
+diensten heeft verricht;
+(…)
+
+Onderzoeksrapport 26 juni 2018
+
+7
+
+2. Bevindingen
+2.1
+
+Verwerking van persoonsgegevens en de verwerkingsverantwoordelijke
+Onderwerp van het onderzoek van de AP is het gebruik het BSN van zelfstandigen in hun btwidentificatienummer door de Belastingdienst. De Belastingdienst is in Nederland belast met het verstrekken
+van btw-identificatienummers. De Belastingdienst bouwt het btw-identificatienummer voor zelfstandigen
+op uit het BSN van de zelfstandige, voorafgegaan door ‘NL’ en de toevoeging ‘B’ plus een volgnummer
+daarachter. De Belastingdienst verwerkt in het kader van zijn taken nog vele andere gegevens over
+zelfstandigen, waaronder hun naam en adresgegevens.
+De gegevens over zelfstandigen die de Belastingdienst verwerkt zijn persoonsgegevens in de zin van in de zin
+van artikel 4, onder 1 van de AVG12, omdat het informatie over geïdentificeerde13 natuurlijke personen betreft.
+Voorts is sprake van een verwerking van persoonsgegevens in de zin van artikel 4, onder 2 van de AVG14. Door
+zijn reikwijdte omvat het begrip ‘verwerking’ elke mogelijke bewerking of geheel van bewerkingen van
+persoonsgegevens. De bevindingen van de AP hebben betrekking op verschillende fasen van verwerking van
+het BSN door de Belastingdienst. De verwerking door de Belastingdienst betreft primair het opnemen c.q.
+omdopen van het BSN in het btw-identificatienummer bij het opbouwen en toekennen van het btwidentificatienummer aan een zelfstandige. Voorts betreft de verwerking het verder verwerken van het BSN
+dat in het btw-identificatienummer is geïncorporeerd, in het kader van het heffen van de omzetbelasting
+door de Belastingdienst.
+De Belastingdienst (directoraat-generaal Belastingdienst) is een onderdeel van het ministerie van Financiën.
+De minister van Financiën wordt voor de verwerkingen van persoonsgegevens van de Belastingdienst in het
+verwerkingsregister aangeduid als de verwerkingsverantwoordelijke15, in de zin van artikel 4, onder 7, van de
+AVG16. Omdat de Belastingdienst de organisatie is die de door de AP onderzochte verwerking van
+persoonsgegevens feitelijk uitvoert, wordt de verwerking in dit rapport aangeduid als de verwerking door de
+Belastingdienst.
+12
+
+Artikel 4, onder 1 van de AVG: ” „persoonsgegevens”: alle informatie over een geïdentificeerde of identificeerbare natuurlijke persoon
+(„de betrokkene”); als identificeerbaar wordt beschouwd een natuurlijke persoon die direct of indirect kan worden geïdentificeerd,
+met name aan de hand van een identificator zoals een naam, een identificatienummer, locatiegegevens, een online identificator of van
+een of meer elementen die kenmerkend zijn voor de fysieke, fysiologische, genetische, psychische, economische, culturele of sociale
+identiteit van die natuurlijke persoon;”
+13
+Omdat onder meer naam en adresgegevens en ook het BSN worden verwerkt, staat de identiteit van de personen vast en betreft het
+dus geïdentificeerde personen. Het BSN is in dit geval zowel een persoonsgegeven (informatie over een persoon) als een middel
+waarmee de persoon kan worden geïdentificeerd. Zie ook Kamerstukken II, 1997/98, 25892, nr. 3., p. 127: “Het BSN is op zichzelf al als
+een persoonsgegeven aan te merken.”
+14
+Artikel 4, onder 2 van de AVG: “„verwerking”: een bewerking of een geheel van bewerkingen met betrekking tot persoonsgegevens of
+een geheel van persoonsgegevens, al dan niet uitgevoerd via geautomatiseerde procedés, zoals het verzamelen, vastleggen, ordenen,
+structureren, opslaan, bijwerken of wijzigen, opvragen, raadplegen, gebruiken, verstrekken door middel van doorzending, verspreiden
+of op andere wijze ter beschikking stellen, aligneren of combineren, afschermen, wissen of vernietigen van gegevens;”
+15
+Het verwerkingsregister van de Belastingdienst d.d. 24 mei 2018 is te vinden op
+https://download.belastingdienst.nl/belastingdienst/docs/verw persoonsgegevens belastingdienst al5303z5fd.pdf. Zie ook de
+Privacyverklaring van het ministerie van Financiën (https://www.rijksoverheid.nl/ministeries/ministerie-van-financien/privacy).
+16
+Artikel 4, onder 7, van de AVG. “„verwerkingsverantwoordelijke”: een natuurlijke persoon of rechtspersoon, een overheidsinstantie,
+een dienst of een ander orgaan die/dat, alleen of samen met anderen, het doel van en de middelen voor de verwerking van
+persoonsgegevens vaststelt; wanneer de doelstellingen van en de middelen voor deze verwerking in het Unierecht of het lidstatelijke
+recht worden vastgesteld, kan daarin worden bepaald wie de verwerkingsverantwoordelijke is of volgens welke criteria deze wordt
+aangewezen;”
+
+Onderzoeksrapport 26 juni 2018
+
+8
+
+2.2
+
+Uitwerking van de normen inzake verwerking van het BSN
+UAVG
+De memorie van toelichting17 van artikel 46 van de UAVG18 luidt als volgt (onderstreping AP):
+
+Dit artikel voorziet in een algemene regeling voor gebruik van identificatienummers, waaronder als
+belangrijkste het burgerservicenummer (BSN). Het artikel komt overeen met het thans geldende artikel 24
+van de Wbp en artikel 87 van de verordening maakt het mogelijk om deze regeling te continueren.
+Uit een oogpunt van bescherming van de persoonlijke levenssfeer is het noodzakelijk geacht om aan het
+gebruik van identificatienummers beperkingen te stellen. Vast staat immers dat persoonsnummers de
+koppeling van verschillende bestanden aanzienlijk vergemakkelijken en daarmee een extra bedreiging voor de
+persoonlijke levenssfeer vormen. De voorgestelde bepaling laat in de eerste plaats toe dat een wettelijk
+voorgeschreven persoonsnummer wordt verwerkt ter uitvoering van de wet waarin het voorschrift over het
+nummer is opgenomen.
+Vanwege de extra risico’s die het gebruik van dergelijk nummers met zich kan brengen voor de bescherming
+van de persoonlijke levenssfeer, wordt in het onderhavige artikel daarenboven bepaald dat verwerking van
+persoonsnummers voor andere doeleinden dan de uitvoering van de desbetreffende wet (verdere
+verwerking) alleen mogelijk is voor zover dat bij de wet is bepaald. Aldus is een afweging op het niveau van de
+formele wet in beginsel gegarandeerd. Er is met andere woorden voor gekozen om op dit punt geen delegatie
+door de formele wetgever toe te staan en eventuele andere gebruiksdoeleinden dienen derhalve door de
+formele wetgever zelf te worden vastgesteld. Wel is het op grond van het tweede lid mogelijk om bij
+algemene maatregel van bestuur andere gevallen aan te wijzen waarin een persoonsnummer mag worden
+gebruikt. Ook bestaat hier voor verdere verwerking van een dergelijk nummer dus geen ruimte voor een eigen
+afweging van de verwerkingsverantwoordelijke.
+Wabb
+De memorie van toelichting van de Wabb zegt over het gebruik van het BSN onder meer het volgende
+(onderstreping AP):
+
+De kern van deze actualisering bestaat uit de introductie van het burgerservicenummer (BSN) voor de
+klantcontacten tussen burger en overheid waarbij het gebruik van een persoonsnummer nodig is ten behoeve
+van eenduidige identificatie en registratie van personen en voor de gegevensuitwisseling tussen
+overheidsorganisaties onderling.19
+Het voorstel van wet beoogt algemene regels te stellen omtrent het burgerservicenummer. Dit houdt in de
+eerste plaats in, dat het wetsvoorstel geen gedetailleerde regeling bevat van alle aspecten van het gebruik
+17
+
+Kamerstukken II, 2017/18, 34851, nr. 3, p. 128.
+Vergelijkbaar is de MvT van artikel 24 van de Wbp; Kamerstukken II, 1997/98, 25892, nr. 3., p. 128: (…) “Omdat het gebruik van
+persoonsnummers – zoals hiervoor beschreven – extra risico’s met zich kan brengen voor de bescherming van de persoonlijke
+levenssfeer, wordt in het onderhavige artikel daarenboven bepaald dat verwerking van persoonsnummers voor andere doeleinden
+dan de uitvoering van de betreffende wet alleen mogelijk is voor zover dat bij de wet is bepaald. Aldus is een afweging op het niveau
+van de formele wet in beginsel gegarandeerd. Daarbij is er conform het advies van de Registratiekamer voor gekozen om op dit punt
+geen delegatie door de formele wetgever toe te staan. Eventuele andere gebruiksdoeleinden dienen derhalve door de formele
+wetgever zelf te worden vastgesteld.” (…)
+19
+Kamerstukken II, 2005/06, 30312, nr. 3., p. 2.
+18
+
+Onderzoeksrapport 26 juni 2018
+
+9
+
+van het burgerservicenummer, maar uitsluitend de kaders aangeeft waarbinnen het burgerservicenummer
+gebruikt mag of moet worden.20
+Het wetsvoorstel regelt dat alle overheidsorganen het nummer mogen gebruiken bij het verwerken van
+persoonsgegevens in het kader van hun publieke taak, zonder dat daarvoor nadere regelgeving vereist is. Voor
+het gebruik buiten de kring van overheidsorganen blijft een specifieke wettelijke grondslag nodig. Het
+wetsvoorstel reguleert niet de gegevensverwerkingen in het kader waarvan het burgerservicenummer als
+hulpmiddel wordt gebruikt . Die gegevensverwerkingen dienen aan de daarop betrekking hebbende eisen,
+zoals onder meer vastgelegd in de Wbp, te voldoen. Het wetsvoorstel geeft voor wat betreft het gebruik van
+het burgerservicenummer slechts de grondslag voor overheidsorganen om het burgerservicenummer bij zo’n
+elders gereguleerde gegevensverwerking te gebruiken.21
+Met het onderhavige wetsvoorstel wordt beoogd om een sluitend stelsel van persoonsnummers te realiseren.
+Met het woord sluitend wordt bedoeld dat het stelsel zodanig is ontworpen dat de persoonsnummers de
+hulpmiddelen vormen waarvoor ze bedoeld zijn, namelijk om het beheer van persoonsgegevens in diverse
+administraties en registraties te vereenvoudigen. Daarnaast mogen in een sluitend stelsel geen oneigenlijke
+rollen aan persoonsnummers worden gehecht.22
+Persoonsnummers moeten alleen gebruikt worden wanneer dat nodig is. Als een overheidsorgaan een dienst
+kan leveren zonder dat het nodig is om gegevens van de persoon vast te leggen of te raadplegen, dan is het
+niet nodig om een persoonsnummer bij deze transactie te betrekken.23
+Het gebruik van het burgerservicenummer kent een aantal verschijningsvormen. In de eerste plaats dient het
+burgerservicenummer voor opname in een registratie van een organisatie, zodat de gegevens van een
+persoon doeltreffend zijn terug te vinden. In de tweede plaats is het burgerservicenummer een hulpmiddel bij
+het ophalen of raadplegen van algemene persoonsgegevens zoals die in de GBA en de toekomstige registratie
+van niet-ingezetenen zijn vastgelegd. In de derde plaats is het burgerservicenummer een hulpmiddel bij het
+raadplegen van gegevens die in andere registraties zijn opgeslagen, bijvoorbeeld op het gebied van inkomens
+of opgebouwde verzekeringsrechten.24
+In de context van een registratie waarin persoonsgegevens worden opgeslagen, is het burgerservicenummer
+een hulpmiddel om gegevens goed te kunnen opslaan, te bewerken en terug te zoeken. Aangezien het
+burgerservicenummer geen informatie bevat, is het niet mogelijk om er informatie aan te ontlenen die de
+persoonlijke levenssfeer kan raken. Het burgerservicenummer is daarmee te beschouwen als een
+administratief hulpmiddel waarvan het toegestane gebruik in een registratie samenvalt met het toegestaan
+zijn van de registratie zelf.25
+Teneinde overheidsorganen de mogelijkheid te bieden in het kader van de uitvoering van hun
+publiekrechtelijke taken bij het verwerken van persoonsgegevens waar mogelijk gebruik te maken van het
+
+20
+
+Kamerstukken II, 2005/06, 30312, nr. 3., p. 2.
+Kamerstukken II, 2005/06, 30312, nr. 3., p. 3.
+22
+Kamerstukken II, 2005/06, 30312, nr. 3., p. 8.
+23
+Kamerstukken II, 2005/06, 30312, nr. 3., p. 10.
+24
+Kamerstukken II, 2005/06, 30312, nr. 3., p. 13-14.
+25
+Kamerstukken II, 2005/06, 30312, nr. 3., p. 24.
+21
+
+Onderzoeksrapport 26 juni 2018
+
+10
+
+burgerservicenummer, is in het onderhavige artikel [10 Wabb] een algemene bevoegdheid daartoe
+opgenomen.26
+
+2.3
+
+Beoordeling
+In het navolgende zal de AP beoordelen of er een wettelijke grondslag is voor het gebruik van het BSN in btwidentificatienummers van zelfstandigen met een eenmanszaak door de Belastingdienst.
+BSN
+Uit paragraaf 2.2 blijkt dat het BSN is bedoeld voor de communicatie tussen burger en overheid (doel:
+eenduidige identificatie) en voor de gegevensuitwisseling tussen overheidsorganen onderling, of tussen de
+overheid en andere, bij wet aangewezen partijen (doel: doelmatige en betrouwbare verwerking en
+uitwisseling van gegevens). Het BSN is vertrouwelijk en met uitwisseling ervan moet terughoudend worden
+omgegaan, omdat het BSN misbruikt kan worden (identiteitsfraude), met mogelijk ernstige gevolgen voor de
+betrokkene. Het risico op misbruik neemt toe naarmate het BSN breder bekend en toegankelijk is. Het BSN is
+dus een gevoelig persoonsgegeven dat niet thuishoort in de openbaarheid. Uit artikel 87 van de AVG volgt dat
+een identificatienummer zoals het BSN alleen mag worden gebruikt met “passende waarborgen voor de
+rechten en vrijheden van de betrokkene”.
+Btw-identificatienummer
+Het btw-identificatienummer is een fiscaal nummer dat door de Belastingdienst aan ondernemingen wordt
+toegekend in het kader van de heffing van de omzetbelasting door de Belastingdienst. Het btwidentificatienummer is bedoeld om veelvuldig te worden gebruikt in het zakelijke verkeer. Het is - in
+tegenstelling tot het BSN - geen vertrouwelijk nummer en het is bedoeld voor de openbaarheid. Elke
+ondernemer, dus ook een zelfstandige, is verplicht dit nummer kenbaar te maken aan (potentiële) afnemers
+door het op zijn facturen te vermelden.27 Ondernemers die hun diensten online aanbieden zijn sinds 1 juli 2004
+verplicht hun btw-identificatienummer op hun website te vermelden.28 Hoewel een btw-nummer een
+zakelijk nummer is dat betrekking heeft op een onderneming, heeft het in het geval van zelfstandige
+ondernemers met een eenmanszaak een directe relatie met de persoon van de ondernemer, omdat de btwnummers hoofdzakelijk bestaan uit het BSN van de ondernemers. Zij zijn als gevolg hiervan automatisch
+verplicht om hun BSN te verstrekken aan iedereen met wie zij potentieel zakendoen, op facturen, offertes en
+website. Dat het BSN dan btw-nummer wordt genoemd, maakt dit niet anders. Dergelijke verspreiding
+strookt niet met de aard van het BSN.
+Beoordeling van de grondslag: artikel 46 UAVG jo. artikel 10 Wabb
+Artikel 87 van de AVG bepaalt dat de lidstaten de specifieke voorwaarden voor de verwerking van een
+nationaal identificatienummer of enige andere identificator van algemene aard nader kunnen vaststellen. Op
+grond van artikel 87 van de AVG heeft de Nederlandse wetgever in artikel 46, eerste lid, van de UAVG bepaald
+dat een nummer dat ter identificatie van een persoon bij wet is voorgeschreven, slechts wordt gebruikt ter
+uitvoering van de desbetreffende wet dan wel voor doeleinden bij de wet bepaald.
+Het BSN is een persoonsnummer dat ter identificatie van een personen bij wet (de Wabb) is voorgeschreven.
+Dat betekent dat het gebruik van het BSN onder de reikwijdte valt van artikel 46 van de UAVG. Op grond van
+26
+
+Kamerstukken II, 2005/06, 30312, nr. 3., p. 35.
+Artikel 35a, onder c, van de Wet Omzetbelasting.
+28
+Artikel 3:15d BW (diensten van de informatiemaatschappij)
+27
+
+Onderzoeksrapport 26 juni 2018
+
+11
+
+artikel 46 van de UAVG kan het BSN slechts worden gebruikt ter uitvoering van de Wabb dan wel voor
+doeleinden die in de Wabb of in een andere wet zijn bepaald.
+Artikel 10 van de Wabb voorziet in een algemene grondslag voor de overheid voor het gebruik van het BSN bij
+het verwerken van persoonsgegevens in het kader van de uitvoering van zijn taak. Nadere regelgeving is
+hiervoor niet vereist29. Het ‘uitvoeren van de taak’ van het betreffende overheidsorgaan is dus het ‘doeleinde’
+waarvoor het BSN kan worden gebruikt. Daarbij geldt dat het BSN is bedoeld als hulpmiddel bij het registeren
+en uitwisselen van persoonsgegevens en bovendien ziet deze grondslag op het gebruik van het BSN als
+zodanig. 30
+Bij het opbouwen en daarna uitgeven van een btw-identificatienummer, neemt de Belastingdienst het
+integrale BSN van de zelfstandige als uitgangspunt en voegt daaraan enkele tekens toe. In feite is sprake van
+het omdopen van het BSN tot een ander wettelijk voorgeschreven nummer, het btw-identificatienummer.
+Hiermee maakt de Belastingdienst oneigenlijk31 gebruik van het BSN. Dit gebruik van het BSN gaat verder dan
+het gebruik van het BSN als hulpmiddel bij uitwisselen en registeren waarvoor de algemene grondslag van
+artikel 10 van de Wabb is bedoeld. Er is geen wettelijke bepaling die voorschrijft dat het btwidentificatienummer van een zelfstandige ondernemer met een eenmanszaak (deels) uit zijn BSN moet
+bestaan. Noch artikel 10 van de Wabb, noch een andere wettelijke bepaling in de Wabb, de Wet
+Omzetbelasting of enige andere wet, voorziet in de op grond van artikel 46 van de UAVG vereiste specifieke
+wettelijke grondslag die nodig is om het BSN te gebruiken als, c.q. om te dopen tot, een btwidentificatienummer.
+Nu artikel 10 Wabb geen grondslag biedt voor het door de Belastingdienst gebruiken van het BSN van
+zelfstandigen in een btw-identificatienummer en hiervoor evenmin in een andere wettelijke bepaling een
+grondslag bestaat, is deze verwerking in strijd met artikel 46 van de UAVG.
+Artikel 6 AVG (verwerkingsgrond e: noodzakelijk voor uitoefening overheidstaak)
+De AP heeft in het voorgaande geconcludeerd dat de verwerking in strijd is met artikel 46 van de UAVG.
+Voorts concludeert de AP dat de verwerking is strijd is met artikel 6 van de AVG.
+Op grond van artikel 6, eerste lid, van de AVG is een verwerking alleen rechtmatig indien en voor zover sprake
+is van één van de in die bepaling limitatief genoemde grondslagen. De overheid kan zich voor de verwerking
+van persoonsgegevens in het kader van haar overheidstaak uitsluitend beroepen op de verwerkingsgrond 6,
+eerste lid, onder e van de AVG. Op grond van deze bepaling is de verwerking rechtmatig indien en voor zover
+“de verwerking noodzakelijk is voor de vervulling van een taak van algemeen belang of van een taak in het
+kader van de uitoefening van het openbaar gezag dat aan de verwerkingsverantwoordelijke is opgedragen”.
+
+29
+
+Kamerstukken II, 2005/06, 30312, nr. 3., p. 3.
+“Met het onderhavige wetsvoorstel wordt beoogd om een sluitend stelsel van persoonsnummers te realiseren. Met het woord
+sluitend wordt bedoeld dat het stelsel zodanig is ontworpen dat de persoonsnummers de hulpmiddelen vormen waarvoor ze bedoeld
+zijn, namelijk om het beheer van persoonsgegevens in diverse administraties en registraties te vereenvoudigen. Daarnaast mogen in
+een sluitend stelsel geen oneigenlijke rollen aan persoonsnummers worden gehecht.” (Kamerstukken II, 2005/06, 30312, nr. 3., p. 8.)
+31
+“Daarnaast mogen in een sluitend stelsel geen oneigenlijke rollen aan persoonsnummers worden gehecht.” (Kamerstukken II,
+2005/06, 30312, nr. 3., p. 8.)
+30
+
+Onderzoeksrapport 26 juni 2018
+
+12
+
+Het noodzakelijkheidsbegrip32 houdt in dat als het belang van de verantwoordelijke anderszins of met minder
+ingrijpende middelen worden gediend, de gegevensverwerking niet is toegestaan (subsidiariteit en
+proportionaliteit). De AP constateert dat de verwerking (het gebruik c.q. het omzetten van het BSN in het
+btw-identificatienummer) niet ‘noodzakelijk’ is voor de vervulling van de taak door de Belastingdienst (het
+innen van de btw). Immers, dat het gebruik van het BSN in het btw-identificatienummer vanuit een
+administratief oogpunt wellicht praktisch is, neemt niet weg dat niet valt in te zien dat de Belastingdienst
+redelijkerwijs niet met een andere nummer dan het BSN kan werken bij het uitgeven van het btwidentificatienummer.
+Dat betekent dat er geen sprake is van de op grond van artikel 6, eerste lid, onder e, van de AVG vereiste
+verwerkingsgrond voor de onderzochte verwerking van de Belastingdienst. Omdat de verwerking ook niet op
+een andere grond van artikel 6, eerste lid, van de AVG kan worden gebaseerd, is de verwerking in strijd met
+artikel 6, eerste lid, van de AVG.
+Artikel 5, eerste lid, onder a van de AVG (rechtmatigheid en behoorlijkheid)
+Op grond van artikel 5, eerste lid , onder a, van de AVG moeten persoonsgegevens “worden verwerkt op een
+wijze die ten aanzien van de betrokkene rechtmatig, behoorlijk en transparant is”. In het voorgaande heeft de
+AP reeds geconstateerd dat het BSN op een oneigenlijke manier wordt gebruikt door het om te dopen en te
+gebruiken als btw-identificatienummer. Het gevolg hiervan is dat de zelfstandige gedwongen wordt om zijn
+BSN te openbaren (via zijn btw-nummer) aan derden. Dit staat haaks op de uitgangspunten33 voor het gebruik
+van het BSN. De AP wijst er in dit kader op dat het BSN sinds 2014 niet meer op de standaardpagina van het
+paspoort staat, teneinde identiteitsfraude te voorkomen34. Het voorgaande betekent dat de verwerking van
+de Belastingdienst, behalve niet rechtmatig , ook niet behoorlijk is ten aanzien van de betrokkenen. Daarmee
+is de verwerking in strijd met artikel 5, eerste lid, onder a, van de AVG.
+
+32
+
+EHRM 25 maart 1983, nr. 97 (Silver & Others v. United Kingdom): “(a) the adjective "necessary" is not synonymous with
+"indispensable", neither has it the flexibility of such expressions as "admissible", "ordinary", "useful", "reasonable" or "desirable” (…).”
+
+33
+
+“Uit een oogpunt van bescherming van de persoonlijke levenssfeer is het noodzakelijk geacht om aan het gebruik van
+identificatienummers beperkingen te stellen. Vast staat immers dat persoonsnummers de koppeling van verschillende bestanden
+aanzienlijk vergemakkelijken en daarmee een extra bedreiging voor de persoonlijke levenssfeer vormen.”; Kamerstukken II, 2017/18,
+34851, nr. 3, p. 128.
+34
+Factsheet Burgerservicenummer: “Het burgerservicenummer op het paspoort 2014 niet meer vermeld bij de overige
+
+persoonsgegevens, maar op de achterkant van de pagina met de persoonsgegevens (de zogenaamde houderpagina). In de
+Nederlandse identiteitskaart is het BSN vermeld op de achterkant van de kaart. Deze wijzigingen zijn doorgevoerd in het kader van de
+aanpak voor het voorkomen van identiteitsfraude.”
+(https://www.rvig.nl/reisdocumenten/documenten/brochures/2015/02/27/factsheet-burgerservicenummer)
+
+Onderzoeksrapport 26 juni 2018
+
+13
+
+2.4
+
+Zienswijze Belastingdienst
+In zijn zienswijze beroept de Belastingdienst zich op drie hoofdpunten.
+Allereerst stelt de Belastingdienst zich op het standpunt dat het btw-identificatienummer met daarin
+opgenomen het BSN past binnen de reikwijdte van artikel 10 van de Wabb en dat deze verwerking voldoet aan
+artikel 24 van de Wbp (vanaf 25 mei 2018: artikel 46 van de UAVG).
+Ten tweede is de huidige situatie volgens de Belastingdienst te verklaren vanuit de ontstaansgeschiedenis
+van het BSN en is de verwerking aldus rechtmatig. De Belastingdienst erkent dat de wetgever wellicht
+onvoldoende heeft ingespeeld op de wringende situatie van de door de overheid bepleite en gepraktiseerde
+omgang met het BSN enerzijds en de verplichte bekendmaking van het btw-identificatienummer anderzijds.
+Ten derde merkt de Belastingdienst op dat een andere wijze van het toekennen van het btw-nummer aan
+zelfstandigen (zonder BSN) uitvoeringstechnisch op grote problemen stuit en veel tijd en geld kost; dat geldt
+zowel voor de overheid als voor de eenmanszaken.
+Hierna worden deze hoofdpunten nader uitgewerkt en geeft de AP puntsgewijs haar reactie.
+1. Geen overtreding van artikel 24 van de Wbp (artikel 46 van de UAVG).
+In zijn zienswijze op de voorlopige bevindingen stelt de Belastingdienst zich op het standpunt dat het btwidentificatienummer met daarin opgenomen het BSN past binnen de reikwijdte van artikel 10 van de Wabb en
+dat deze verwerking voldoet aan artikel 24 van de Wbp (inmiddels artikel 46 van de UAVG). De Belastingdienst
+stelt in dit kader het volgende.
+Artikel 10 van de Wabb bepaalt dat overheidsorganen bij het verwerken van persoonsgegevens in het kader
+van de uitvoering van hun taak gebruik kunnen maken van het BSN. Een van de taken van de Belastingdienst
+is het heffen van omzetbelasting. Om ondernemers te identificeren ten behoeve van het uitvoeren van deze
+taak wordt het BSN gebruikt. Volgens de Belastingdienst staat de Wabb er niet aan in de weg dat aan het BSN
+elementen worden toegevoegd. In het geval van het btw-identificatienummer om te voldoen aan de
+specificatie van dat nummer in de btw-richtlijn 2006. In dat licht voldoet het btw-identificatienummer
+volgens de Belastingdienst aan de eisen van artikel 24 van de Wbp (artikel 46 van de UAVG) in de zin dat het
+een nummer is bij de Wet op de omzetbelasting 1968 (Wet OB) voorgeschreven en door de Belastingdienst
+voor bij die wet voorgeschreven doeleinden wordt gebruikt.
+Reactie AP
+Ten aanzien van de stelling dat het heffen van omzetbelasting tot de taken behoort van de Belastingdienst en
+dat artikel 10 van de Wabb daarom een grondslag biedt voor het gebruik van het BSN overweegt de AP het
+volgende. De Belastingdienst mag het BSN op grond van artikel 10 van de Wabb inderdaad gebruiken voor het
+uitvoeren van zijn taken, waaronder het heffen van omzetbelasting. Maar dit geldt alleen voor het gebruik
+waarvoor het BSN is bedoeld, namelijk in de communicatie met de burger en als hulpmiddel voor het
+registeren en uitwisselen van gegevens. Voor gebruik voor andere doeleinden, zoals het omdopen van het
+BSN tot het btw-identificatienummer, is wel degelijk een andere expliciete grondslag nodig, op grond van
+artikel 46 UAVG. Er is geen wettelijke bepaling die de vereiste grondslag biedt, noch in de Wabb, noch in een
+andere wet. Het argument dat artikel 10 van de Wabb een grondslag biedt voor het gebruik van het BSN zoals
+in dit kader aan de orde is, treft daarom geen doel.
+
+Onderzoeksrapport 26 juni 2018
+
+14
+
+Ten aanzien van de stelling dat de Wabb er niet aan in de weg staat dat elementen aan het BSN worden
+toegevoegd, overweegt de AP het volgende. Het oordeel van de AP over de handelswijze van de
+Belastingdienst betreft niet slechts het toevoegen van enkele elementen aan het BSN, het gaat om het
+daadwerkelijk gebruiken (omdopen tot een ander wettelijk nummer) van het BSN op een wijze waar het BSN
+niet voor is bedoeld. Voor dit gebruik bestaat geen wettelijke grondslag, terwijl dat op grond van artikel 46 van
+de AVG wel verplicht is. Het argument dat de Wabb er niet aan in de weg staat dat aan het BSN elementen
+worden toegevoegd treft daarom geen doel.
+Ten aanzien van de stelling dat het btw-identificatienummer voldoet aan de eisen van artikel 24 van de Wbp
+(artikel 46 van de UAVG) overweegt de AP het volgende. De conclusie van de AP betreft een overtreding van
+de regels met betrekking tot het gebruik van het BSN van zzp ‘ers. Dat het btw-identificatienummer op
+zichzelf juist wordt gebruikt, rechtvaardigt niet het oneigenlijke gebruik van het BSN. Dit argument treft geen
+doel.
+2. Verklaring vanuit de ontstaansgeschiedenis van het BSN
+De huidige situatie is volgens de Belastingdienst te verklaren vanuit de ontstaansgeschiedenis van het BSN.
+Volgens de Belastingdienst heeft de wetgever ten tijde van de introductie van het BSN bewust ervoor
+gekozen de bestaande situatie te laten bestaan waardoor het BSN onderdeel uitmaakt van btw-nummers van
+zelfstandigen, en is de verwerking aldus rechtmatig.
+In het verleden is een voorganger van het BSN, het fi-nummer, geïntroduceerd, dat breed is toegepast in
+fiscale processen. Op deze wijze is het fi-nummer onderdeel geworden van het btw-identificatienummer. Het
+fi-nummer is doorontwikkeld tot het sofi-nummer en daarna tot het BSN. Dit is gepaard gegaan met een
+steeds bredere toepassing. Met betrekking tot de bescherming van de persoonlijke levenssfeer stelt de
+Belastingdienst dat de wetgever hier wellicht onvoldoende op heeft ingespeeld, door het oorspronkelijk
+alleen voor fiscale doeleinden gebruikte fi-nummer om te vormen tot sofinummer en het uiteindelijke BSN.
+Daarbij is onvoldoende onderkend dat voor eenmanszaken geen onderscheid is te maken tussen
+onderneming en ondernemer. Aangezien er voor de ondernemer sinds 2004 een expliciete verplichting
+bestaat om het btw-identificatienummer bekend te maken op de eigen website en factuur van de
+onderneming, wringt dit in het bijzonder. De Belastingdienst stelt dat door de toename van het belang van
+privacy en de door de overheid bepleitte en gepraktiseerde omgang met het BSN de toekenning van het btwidentificatienummer een andere lading heeft gekregen, waarmee in het verleden niet of nauwelijks rekening
+is gehouden.
+De Belastingdienst wijst er op35 dat bij de beraadslaging over de wijziging op de Wet OB en de Wabb aan de
+orde zou zijn gesteld dat het incorporeren van het sofinummer en later het BSN in het btwidentificatienummer van zelfstandigen zou worden voortgezet. De wetgever heeft toen geen aanleiding
+gezien om de systematiek van het toekennen van btw-identificatienummers aan eenmanszaken aan te
+passen. De Belastingdienst verwijst naar de Memorie van Toelichting op de Wabb waaruit, volgens de
+Belastingdienst, blijkt dat in de sectoren belastingen en sociale zekerheid het sociaal-fiscaalnummer veel
+wordt gebruikt en er nu met één nummer wordt gewerkt en er derhalve niets verandert in de sector met
+betrekking tot het koppelen van gegevens en gegevensbestanden. 36 De Belastingdienst merkt op dat in de
+Memorie van Toelichting wordt vermeld dat organisaties die het sociaal-fiscaalnummer hanteren minimale
+
+35
+36
+
+Verweerschrift ov. 3,18 e.v.
+Kamerstukken II,2005-2006, 30312, nr. 3, p. 11.
+
+Onderzoeksrapport 26 juni 2018
+
+15
+
+administratieve lasten ondervinden van de realisatie van de centrale voorzieningen voor het BSN en het BSN
+gelijk is aan het sociaal-fiscaalnummer37.
+De Belastingdienst wijst er op dat tijdens de parlementaire behandeling van de aanpassing op de Wet OB
+(verplichting het btw-nummer op de website te plaatsen; artikel 3:15d BW) uitdrukkelijk de mogelijkheid aan
+de orde is geweest om voor eenmanszaken een ander nummer toe te wijzen dan toen der tijd het
+sofinummer38, maar dat de wetgever dat kennelijk niet nodig achtte. Doordat in 2007 het BSN is
+geïntroduceerd werd voor natuurlijke personen het sofinummer omgezet in het BSN, waardoor de situatie is
+ontstaan dat het btw-identificatienummer ook het BSN van de eigenaar bevat. Bij de wijziging van het sofinummer naar het BSN heeft de wetgever geen aanleiding gezien om de publicatieverplichting aan te passen.
+Reactie AP
+De ontstaansgeschiedenis van het BSN maakt weliswaar inzichtelijk hoe de huidige situatie is ontstaan, maar
+de ontstaansgeschiedenis doet niet af aan de conclusie dat de werkwijze van de Belastingdienst in strijd is
+met artikel 46 van de UAVG. De Belastingdienst erkent zelf ook, evenals de AP, dat de consequenties van het
+opnemen van het BSN in het btw-nummer destijds onvoldoende zijn onderkend door de wetgever.
+De AP merkt op dat ten tijde van de invoering van het BSN geen expliciete overwegingen zijn gemaakt door de
+wetgever ten aanzien van de gevolgen van de invoering van het BSN voor de bestaande praktijk van de
+Belastingdienst met betrekking tot het btw-nummer voor eenmanszaken. Er kan dan ook niet worden gesteld
+dat het nadrukkelijk de bedoeling van de wetgever is geweest dat de Belastingdienst het BSN zou verwerken
+in het btw-identificatienummer. Bij de invoering van BSN is juist beoogd een strenger wettelijk regime ten
+aanzien van het gebruik van BSN ten opzichte van het gebruik van het sofinummer te introduceren. 39
+De Belastingdienst betoogt ten onrechte dat de totstandkomingsgeschiedenis bij de Wabb een
+rechtvaardiging zou kunnen zijn voor de verwerking van het BSN in btw-identificatienummers. Het betoog
+van de Belastingdienst kan artikel 46 van de UAVG jo. artikel 87 van de AVG niet opzij zetten, nu daar juist
+expliciet is bepaald dat het doel van het verwerken van identificatienummers wettelijk moet zijn vastgelegd.
+Hierin kan artikel 10 van de Wabb niet voorzien, gelet het zeer specifieke en - van de oorspronkelijke
+bedoeling die de wetgever met het BSN heeft - afwijkende gebruik van het BSN door de Belastingdienst.
+3. Uitvoeringsproblemen bij omzetting
+De Belastingdienst verzet zich niet principieel tegen een ‘niet aan het BSN’ gerelateerd btwidentificatienummer. Maar een andere wijze van toekenning van btw-identificatienummer is volgens de
+Belastingdienst uitvoeringstechnisch een groot probleem, zowel voor de Belastingdienst als voor de
+ondernemingen en een dergelijke wijziging zal veel tijd en geld kosten.
+Gezien de consequenties voor zowel de overheid als de ondernemingen stelt de Belastingdienst dat de
+beslissing om het systeem te veranderen niet zelfstandig kan worden genomen. Er is politieke besluitvorming
+nodig, nadat er grondig onderzoek is verricht waarin alle gevolgen en risico’s worden belicht. Tot slot geeft de
+Belastingdienst aan dat zij de AP nader zal berichten over een plan van aanpak over de gekozen oplossing.
+37
+
+Kamerstukken II 2005-2006, 30312, nr. 3., p. 16-17.
+Kamerstukken I 2003-2004, 29036, D, p.2.
+39
+Kamerstukken II 2005-2006, 30312, nr. 3., p.2: “Met het wetsvoorstel wordt bewerkstelligd:1. Een passende juridische vormgeving van
+het burgerservicenummer als algemeen persoonsnummer binnen het publieke domein. Momenteel is het sociaal-fiscaalnummer de
+facto een algemeen persoonsnummer maar is het niet als zodanig juridisch vorm gegeven. Die situatie wordt gecorrigeerd.”
+38
+
+Onderzoeksrapport 26 juni 2018
+
+16
+
+Reactie AP
+Het onderzoek van de AP ziet op de vraag of de Belastingdienst de wet overtreedt door de wijze waarop het
+BSN wordt gebruikt. Het antwoord daarop luidt bevestigend. Het onderzoek van de AP ziet niet op de vraag
+welke maatregelen genomen moeten worden om de overtreding te beëindigen. De AP erkent dat een
+aanpassing van de bestaande systematiek van het toekennen van btw-nummers aan zelfstandigen tijd en
+geld kost. Echter, dat doet niet af aan de conclusie dat de huidige werkwijze van de Belastingdienst in strijd is
+met de wet en bovendien tot gevolg heeft dat het BSN van zelfstandigen breed wordt verspreid, waardoor zij
+onnodige privacyrisico’s40 lopen.
+In zijn zienswijze van 11 oktober 2017 heeft de Belastingdienst een plan van aanpak over een oplossing
+aangekondigd. Per e-mail van 4 februari 2018 heeft de Belastingdienst de AP geïnformeerd hiervoor meer tijd
+nodig te hebben. Tot op heden heeft de AP geen plan van aanpak ontvangen. In dit kader is van belang dat de
+staatssecretaris van Financiën bij brief van 19 april 201841, in antwoord op vragen van de Tweede Kamerleden
+Van der Molen, Omtzigt en Lodders heeft geantwoord dat hij de Tweede Kamer voor de zomer van 2018 zal
+informeren over de resultaten van het onderzoek naar de mogelijkheden van een andere vormgeving van het
+btw-identificatienummer.
+
+40
+
+Kamerstukken II 2017/18, Aanhangsel 1956.
+Antwoord van Staatssecretaris Snel (Financiën) op vragen van de leden Van der Molen, Omtzigt en Lodders over het btw-nummer
+van zelfstandigen dat het burgerservicenummer bevat; Kamerstukken II 2017/18, Aanhangsel 1841 (Kenmerk brief 2018-0000050486).
+41
+
+Onderzoeksrapport 26 juni 2018
+
+17
+
+3. Conclusies
+De Belastingdienst is in Nederland belast met het verstrekken van btw-identificatienummers aan
+ondernemingen. Aan zelfstandigen met een eenmanszaak (veelal zzp’ers) wordt een btwidentificatienummer toegekend dat grotendeels bestaat uit het BSN van de betreffende ondernemer.
+De minister van Financiën is de verwerkingsverantwoordelijke voor deze verwerking van persoonsgegevens.
+Op grond van artikel 46 van de UAVG is voor dit gebruik van het BSN, dat niet strookt met het doel van het
+BSN en dat evenmin noodzakelijk is in het kader van de uitvoering van de taak van de Belastingdienst, een
+expliciete wettelijke grondslag vereist. Echter, deze expliciete grondslag ontbreekt.
+Dat betekent dat het gebruik van het BSN in btw-identificatienummers van zelfstandigen met een
+eenmanszaak door de Belastingdienst in strijd is met artikel 46 van de AVG. Deze verwerking is voorts in strijd
+met artikel 5, eerste lid, onder a van de AVG en artikel 6, eerste lid, van de AVG.
+
+Autoriteit Persoonsgegevens
+Voor deze,
+
+mr. drs. G.N.J.A. Bukkems
+Directeur Klantcontact en Controlerend onderzoek
+
+Onderzoeksrapport 26 juni 2018
+
+18
+
+Contactgegevens
+Bezoekadres
+(alleen volgens afspraak)
+Bezuidenhoutseweg 30
+2594 AV DEN HAAG
+Let op: bij bezoek aan de Autoriteit Persoonsgegevens moet u een geldig identiteitsbewijs laten zien.
+Postadres
+Postbus 93374
+2509 AJ DEN HAAG
+Telefonisch spreekuur
+Op onze website autoriteitpersoonsgegevens.nl vindt u informatie en antwoorden op vragen over de
+bescherming van persoonsgegevens. Heeft u op deze website geen antwoord op uw vraag gevonden?
+Dan kunt u contact opnemen met de publieksvoorlichters van de Autoriteit Persoonsgegevens tijdens
+het telefonisch spreekuur via telefoonnummer 0900-2001 201. De publieksvoorlichters zijn bereikbaar
+op maandag, dinsdag, donderdag en vrijdag van 10.00 tot 12.00 uur. (5 cent per minuut, plus de kosten voor
+het gebruik van uw mobiele of vaste telefoon).
+Persvoorlichting
+Journalisten en redacteuren kunnen met vragen terecht bij de woordvoerders van de Autoriteit
+Persoonsgegevens via telefoonnummer 070-8888 555.
+Zakelijke relaties
+Bent u een zakelijke relatie van de Autoriteit Persoonsgegevens, zoals een leverancier, dan kunt u ons
+telefonisch bereiken via telefoonnummer 070-8888 500.
+
+Over de Autoriteit Persoonsgegevens
+Iedereen heeft recht op een zorgvuldige omgang met zijn persoonsgegevens. De Autoriteit Persoonsgegevens houdt toezicht op de
+naleving van de wettelijke regels voor bescherming van persoonsgegevens en adviseert over nieuwe regelgeving.
+
+

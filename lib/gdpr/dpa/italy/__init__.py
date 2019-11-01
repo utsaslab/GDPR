@@ -30,7 +30,7 @@ class Italy(DPA):
         iso_code='IT'
         super().__init__(iso_code)
 
-    def bulk_collect(self, path):
+    def get_docs(self, path):
         if bulk_collect_location_policy.is_allowed(path) is False:
             raise ValueError('Bulk collect path is illegal ' + path)
 

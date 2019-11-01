@@ -536,5 +536,31 @@
         "render_type": "FULLY_RENDERED"
       }
     ]
+  },
+  "NL": {
+    "country": "Netherlands",
+    "name": "Autoriteit Persoonsgegevens",
+    "address": "Bezuidenhoutseweg 30\nP.O. Box 93374\n2509 AJ Den Haag/The Hague",
+    "phone": "70 888 8500",
+    "country_code": "+31",
+    "email": null,
+    "website": "https://autoriteitpersoonsgegevens.nl",
+    "member": {
+      "name": "Mr Aleid WOLFSEN",
+      "title": "Chairman of the Autoriteit Persoonsgegevens"
+    },
+    "sources": [
+      {
+        "host": "https://autoriteitpersoonsgegevens.nl",
+        "start_path": "/nl/publicaties/onderzoeken",
+        "target_element": {
+          "results": null,
+          "pagination": null,
+          "document": null,
+          "date": null
+        },
+        "render_type": "FULLY_RENDERED"
+      }
+    ]
   }
 }
