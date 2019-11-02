@@ -562,5 +562,31 @@
         "render_type": "FULLY_RENDERED"
       }
     ]
+  },
+  "PO": {
+    "country": "Poland",
+    "name": "Urząd Ochrony Danych Osobowych (Personal Data Protection Office)",
+    "address": "ul. Stawki 2\n00-193 Warsaw",
+    "phone": "22 531 03 00",
+    "country_code": "+48",
+    "email": "kancelaria@uodo.gov.pl;zwme@uodo.gov.pl",
+    "website": "https://uodo.gov.pl/",
+    "member": {
+      "name": "Mr Jan NOWAK",
+      "title": "President of the Personal Data Protection Office"
+    },
+    "sources": [
+      {
+        "host": "https://uodo.gov.pl",
+        "start_path": "/pl/p/decyzje",
+        "target_element": {
+          "results": null,
+          "pagination": null,
+          "document": null,
+          "date": null
+        },
+        "render_type": "FULLY_RENDERED"
+      }
+    ]
   }
 }

@@ -62,7 +62,13 @@ def main():
     os.environ['gh-repo-name'] = 'GDPR'
 
     gdpr = GDPR()
-    dpa = gdpr.get_dpa(GDPR.EU_MEMBER.NETHERLANDS)
+    dpa = gdpr.get_dpa(GDPR.EU_MEMBER.POLAND)
+
+    now = datetime.datetime.now()
+    data_path = '../data/{date}/'.format(date='09-25-2019') # prod: now.strftime("%m-%d-%Y")
+    dpa.get_docs(data_path)
+
+    return None
 
     if closed_dpa_issues_specification.is_satisfied_by(dpa) is False:
         return None
@@ -90,10 +96,6 @@ def main():
                 assignees=issue['assignees']
             )
             return None
-
-    now = datetime.datetime.now()
-    data_path = '../data/{date}/'.format(date='09-25-2019') # prod: now.strftime("%m-%d-%Y")
-    dpa.get_docs(data_path)
 
     """for root, _, files in os.walk(data_path):
         filename = files[0] if len(files) > 0 else None
