@@ -56,13 +56,32 @@ def main():
     #logpath = '/tmp/gdpr.log'
     #dispatch_background_logging_service(logpath)
 
+    # put this somewhere.
+    # prevent requests hanging.
+    # source: https://stackoverflow.com/questions/45267003/python-requests-hanging-freezing
+    from requests.adapters import TimeoutSauce
+
+    REQUESTS_TIMEOUT_SECONDS = float(os.getenv("REQUESTS_TIMEOUT_SECONDS", 30))
+
+    class CustomTimeout(TimeoutSauce):
+        def __init__(self, *args, **kwargs):
+            if kwargs["connect"] is None:
+                kwargs["connect"] = REQUESTS_TIMEOUT_SECONDS
+            if kwargs["read"] is None:
+                kwargs["read"] = REQUESTS_TIMEOUT_SECONDS
+            super().__init__(*args, **kwargs)
+
+
+    # Set it globally, instead of specifying ``timeout=..`` kwarg on each call.
+    requests.adapters.TimeoutSauce = CustomTimeout
+
     os.environ['gh-username'] = 'INSERT_USERNAME_HERE'
     os.environ['gh-password'] = 'INSERT_PASSWORD_HERE'
     os.environ['gh-repo-owner'] = 'DanielRanLehmann'
     os.environ['gh-repo-name'] = 'GDPR'
 
     gdpr = GDPR()
-    dpa = gdpr.get_dpa(GDPR.EU_MEMBER.ROMANIA)
+    dpa = gdpr.get_dpa(GDPR.EU_MEMBER.SLOVAKIA)
 
     now = datetime.datetime.now()
     data_path = '../data/{date}/'.format(date='09-25-2019') # prod: now.strftime("%m-%d-%Y")

@@ -640,5 +640,31 @@
         "render_type": "FULLY_RENDERED"
       }
     ]
+  },
+  "SK": {
+    "country": "Slovakia",
+    "name": "Office for Personal Data Protection of the Slovak Republic",
+    "address": "Hraničná 12\n820 07 Bratislava 27",
+    "phone": "2 32 31 32 14",
+    "country_code": "+421",
+    "email": "statny.dozor@pdp.gov.sk",
+    "website": "https://dataprotection.gov.sk",
+    "member": {
+      "name": "Ms Soňa PŐTHEOVÁ",
+      "title": "President of the Office for Personal Data Protection of the Slovak Republic"
+    },
+    "sources": [
+      {
+        "host": "https://dataprotection.gov.sk",
+        "start_path": "/uoou/sk/frontpage",
+        "target_element": {
+          "results": null,
+          "pagination": null,
+          "document": null,
+          "date": null
+        },
+        "render_type": "FULLY_RENDERED"
+      }  
+    ]
   }
 }
