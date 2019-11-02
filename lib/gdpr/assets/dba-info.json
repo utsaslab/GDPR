@@ -614,5 +614,31 @@
         "render_type": "FULLY_RENDERED"
       }
     ]
+  },
+  "RO": {
+    "country": "Romania",
+    "name": "The National Supervisory Authority for Personal Data Processing",
+    "address": "B-dul Magheru 28-30\nSector 1, BUCUREŞTI",
+    "phone": "31 805 9211",
+    "country_code": "+40",
+    "email": "anspdcp@dataprotection.ro",
+    "website": "https://www.dataprotection.ro",
+    "member": {
+      "name": "Ms Ancuţa Gianina OPRE",
+      "title": "President of the National Supervisory Authority for Personal Data Processing"
+    },
+    "sources": [
+      {
+        "host": "https://www.dataprotection.ro",
+        "start_path": "/?page=allnews",
+        "target_element": {
+          "results": null,
+          "pagination": null,
+          "document": null,
+          "date": null
+        },
+        "render_type": "FULLY_RENDERED"
+      }
+    ]
   }
 }
