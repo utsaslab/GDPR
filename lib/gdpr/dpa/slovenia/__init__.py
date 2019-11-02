@@ -77,7 +77,7 @@ class Slovenia(DPA):
         # Download stable version of ChromeDriver
         # https://chromedriver.storage.googleapis.com/index.html?path=78.0.3904.70/
         # make service that can generate path to exe for sys version running
-        exec_path = webdriver_executable_path_policy.path_for_platform()
+        exec_path = webdriver_executable_path_policy.path_for_system()
 
         options = webdriver.ChromeOptions()
         options.add_argument('headless')

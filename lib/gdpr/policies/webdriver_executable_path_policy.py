@@ -1,6 +1,6 @@
 import platform
 
-def path_for_platform():
+def path_for_system():
     system = platform.system()
     supported = ['Darwin', 'Linux', 'Windows']
     if system not in supported:
