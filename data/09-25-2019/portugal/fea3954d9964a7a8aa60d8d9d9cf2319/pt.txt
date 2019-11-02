@@ -1,0 +1,248 @@
+Processo n.° PAR/2019/15 | 1 /
+
+ 
+  
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+PARECER/2019/23
+
+|. Pedido
+
+1. Atraves do Gabinete da Secretaria de Estado Adjunta e da Administracdo Interna foi
+solicitado parecer da Comissao Nacional de Protecao de Dados (CNPD) sobre 0 projeto
+de instalagao, pela Policia de Seguranga Publica (PSP), de um sistema de
+videovigilancia na cidade de Estremoz.
+
+A utilizagao de sistemas de vigilancia por camaras de video pelas forcas e servicos de
+seguranga em locais publicos de utilizagao comum, para captagdo e gravacdo de
+imagem e som e seu posterior tratamento é regulada pela Lei n.° 1/2005, de 10 de
+janeiro, alterada e republicada pela Lei n.° 9/2012, de 23 de fevereiro.
+
+A instalagao de camaras fixas, nos termos desta lei, esta sujeita a autorizacdo do
+membro do Governo que tutela a forga ou servigo de seguranca requerente, precedida
+de parecer da CNPD.
+
+OQ pedido vem acompanhado de um documento do qual consta a fundamentacao do
+
+pedido e a informagao técnica do sistema, doravante designado por “Fundamentacao”.
+ll. APRECIACAO
+
+1. Objeto do parecer a emitir nos termos do artigo 3.° da Lei n.° 1/2005, de 10 de
+
+janeiro
+
+Nos termos do n.° 2 do artigo 3.° da Lei n.° 1/2005, de 10 de janeiro, na redagao dada
+pela Lei n.° 9/2012, de 23 de fevereiro (doravante, Lei n.° 1/2005), o parecer da CNPD
+restringe-se a pronuncia sobre a conformidade do pedido com as regras referentes a
+seguran¢a do tratamento dos dados recolhidos, bem como acerca das medidas
+especiais de seguranca a implementar adequadas a garantir os controlos de entrada
+nas instalagoes, dos suportes de dados, da insercdo, da utilizagao, de acesso, da
+transmissao, da introdugao e do transporte e, bem como a verificacdo do cumprimento
+do dever de informacao e perante quem os direitos de acesso e retificagao podem ser
+eXercidos.
+
+De acordo com o disposto no mesmo preceito legal e nos n.°s 4, 6 e 7 do artigo 7.°
+
+daquela lei, € também objeto do parecer da CNPD o respeito pela proibicao de
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 [| FAX: +351 213 976 832
+Processo n.° PAR/2019/15 | 1v.
+
+instalagao de camaras fixas em areas que, apesar de situadas em locais publicos,
+sejam, pela sua natureza, destinadas a ser utilizadas em resguardo ou a utilizacao de
+camaras de video quando a captacao de imagens e de sons abranja interior de casa ou
+edificio habitado ou sua dependéncia.
+
+Deve ainda a CNPD verificar se estao assegurados, a todas as pessoas que figurem
+em gravacgoes obtidas de acordo com a presente lei, os direitos de acesso e eliminacdo,
+com as excecoes previstas na lei.
+
+Nos termos do n.° 7 do artigo 3.° do mesmo diploma legal, pode também a CNPD
+formular recomendagoes tendo em vista assegurar as finalidades previstas na lei,
+sujeitando a emissao de parecer totalmente positivo 4 verificagdo da completude do
+
+cumprimento das suas recomendac6es.
+
+2. Videovigilancia em locais publicos de utilizag&ao comum na cidade de Estremoz
+
+para a finalidade de protegao de pessoas e bens e prevencdo de crimes
+
+2.1. Ponto prévio
+
+Nao pode a CNPD deixar de assinalar nado ser facto notdrio, ao contrario do que se
+afirma no pedido e respetiva fundamentacao do Comando Distrital de Evora da PSP,
+que «a contianca do cidadao nestes sistemas e na sua atualizacao tem vindo a crescer
+de forma signiticativa, existindo uma efetiva disponibilidade das pessoas para abdicar,
+na medida do necessario e em termos proporcionals, da sua privacidade em func&o da
+colocagao de sistemas de videovigilancia em espacos publicos, tendo consciéncia do
+seu potencial em matéria do aumento da sua seguranca» (cf. pagina 10 da
+Fundamentagao). Na realidade, esta convicgao carece de demonstracao. Tanto mais
+que o numero de participacdes e denuincias que os cidadaos apresentam a CNPD tem
+vindo a aumentar, revelando uma crescente consciéncia da importancia da salvaguarda
+da sua privacidade, em especial no contexto dos espacos publicos. Considera, por isso,
+a CNPD que a alegada disponibilidade dos cidad&os para abdicar da privacidade ndo
+pode servir de fundamento para qualquer ponderagdo da proporcionalidade quanto a
+utilizagao do sistema de videovigilancia descrito naquele pedido.
+
+No mais, por nao caber na competéncia que Ihe esta legalmente atribuida, a CNPD
+limita-se a assinalar que os concretos fundamentos da utilizacdo da videovigilancia
+
+ficam reduzidos a bem pouco, sobretudo considerando que a criminalidade diminuiu
+Processo n.° PAR/2019/15 | 2
+
+ 
+  
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+significativamente no ultimo ano na cidade de Estremoz, em especial no que diz respeito
+aos Crimes contra as pessoas e contra o patrimdnio — cuja prevencdo é, recorde-se, a
+finalidade da instalagdo deste sistema de videovigilancia (cf. pagina 10 da
+
+Fundamentacao).
+
+2.2. Os direitos de informagao, de acesso e de eliminacdo dos dados
+
+Em relagao ao direito de informagao, apesar de se declarar que os modelos de aviso e
+simbologia a utilizar respeita o estatuido na Portaria n.° 373/2012, de 16 de novembro,
+a CNPD chama a aten¢ao para o facto de o direito de informacdo relativo a tratamentos
+de dados pessoais estar mais densificado na Diretiva (UE) 2016/680, de 27 de abril.
+Deste modo, quando for aprovada lei nacional que transponha a Diretiva, importara
+adequar os avisos as exigéncias nela definidas, recomendando-se que o conteudo do
+direito de informacgao que nao esteja vertido nos referidos avisos seja disponibilizado
+por outros meios adequados (v.g., no sitio da Internet da PSP).
+
+No que respeita aos direitos de acesso e eliminacdo dos dados, previstos no artigo 10.°
+da Lei n.° 1/2015, menciona-se na Fundamentacdo (pagina 14) a possibilidade do
+exercicio do direito de acesso, identificando-se perante que agente da PSP o mesmo
+
+pode ser garantido.
+
+2.3. Das caracteristicas tecnicas do equipamento
+
+De acordo com o pedido (cf. pagina 6 da Fundamentagao), pretende instalar-se um
+sistema composto por nove cAmaras dispostas nas entradas histéricas da cidade, na
+zona industrial e no centro da cidade, na principal praca ptiblica.
+
+Sublinha-se que o presente pedido vem acompanhado de uma_ descricado
+pormenorizada das caracteristicas do equipamento, permitindo por isso a CNPD
+pronunciar-se sobre os diferentes aspetos de regime indicados no n.° 2 do artigo 3.° da
+Lei n.° 1/2015 e na Portaria n.° 372/2012, de 16 de novembro. Aqui serao especialmente
+destacadas as caracteristicas suscetiveis de afetar a privacidade ou de nao cumprir os
+
+niveis de seguranca adequados.
+
+a. No que diz respeito a salvaguarda da privacidade e intimidade da vida privada,
+
+refere-se na Fundamentacdo que tanto as camaras fixas como as que permitem
+
+Av. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832
+Processo n.° PAR/2019/15 | 2v.
+
+a rotagao de 360° (denominadas camaras moveis) nado terao captacao de som
+(cf. paginas 11 e 12 da Fundamentacao).
+
+Quanto as duas camaras que permitem a rotagao de 360°, uma das quais
+instalada no centro da cidade, afirma-se que serao configuradas com mascaras
+fisicas de privacidade «nas zonas onde for necessario (por exemplo, janelas,
+Portas ou zonas privadas)» — cf. pagina 12 da Fundamentacdo. Declara-se ainda
+que as camaras 2, 4, 6 e 8 nao captam o interior de casas ou locais habitados
+(cf. pagina 7 da Fundamentagao). Considerando que a camara n.° 3 ndo vem
+expressamente incluida neste grupo de camaras, fica a duivida sobre a sua
+Capacidade para incidir sobre edificios de habitacao ou interior de outros
+edificios. Nao obstante, a consulta da imagem relativa ao angulo de visdo da
+camara n.° 3, na pagina 20 da Fundamentac&o, indicia estar afastada essa
+possibilidade.
+
+Indica-se ainda que «as camaras suportam zoom Otico de controlo remoto em
+zoom digital em qualquer zona da imagem», mas que sera aplicada tecnologia
+analitica de forma a “pixelizar” a imagem das pessoas, deste modo se limitando
+o impacto na privacidade (cf. paginas 11 e 12 da Fundamentacdo).
+
+Assim, em face do declarado, a CNPD considera respeitado 0 disposto no n.° 6
+e, em parte, o n.° 7 do artigo 7.° da Lei n.° 1/2005.
+
+No que diz respeito as condigdes de seguranca do sistema, assinala-se a
+encriptagao das camaras bem como da transmissao das imagens entre as
+camaras e o servidor, situado no centro de comando, recorrendo ao protocolo
+HTTPS (cf. paginas 12 e 13 da Fundamentacdo).
+
+Refere-se ainda, a paginas 7 e seguintes da Fundamentacao, que o sistema para
+gestao e controlo da gravagao funciona em rede TCP/IP e que o controlo sera
+realizado a partir de dois postos de controlo (um principal, e um secundario; este,
+situado na sala do servidor, serve para «analise de ocorréncias de forma
+devidamente controlada e segura» «em caso de necessidade e em situacdes
+especificas»). Descrevem-se ainda medidas de seguranga fisica e ldgica.
+
+E ainda afirmado, na pagina 8 da Fundamentagao, que o sistema permite a
+busca inteligente “Intellex Smart Search”, garantindo a possibilidade de se
+
+procurar imagens a partir de alertas pré-definidos.
+Processo n.° PAR/2019/15 | 3
+
+    
+
+ 
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+Em relagao a esta funcionalidade, a CNPD tem algumas reservas. Na realidade,
+o impacto da sua utilizagao na privacidade dos cidadaos pode ser significativo,
+sobretudo porque a sua utilizacao no contexto da videovigilancia em espacos
+publicos (de acesso e circulac&o livres) para prevenc&o da criminalidade e
+seguran¢a de pessoas e bens nao se afigura justificada, em abstrato, desde logo
+no plano da adequacao. E que esta funcionalidade parece ter reduzida utilidade
+no contexto deste sistema de videovigilancia, nado sendo evidente que tipo de
+alertas poderao ser pré-definidos tendo em conta aquela finalidade e as
+atribuigdes da PSP. Na verdade, o sistema de busca inteligente aqui indicado é
+mais adequado para vigilancia de espacos cuja utilizacdo seja proibida ou seja
+proibida em determinado periodo do dia — o que nao se verifica nos espacos
+publicos aqui em vista, que sao de acesso livre — ou no contexto da investigacao
+criminal — fungao que nao esta a cargo da PSP.
+
+Nessa medida, considerando a dificuldade em compreender a proporcionalidade
+da utilizagao da tecnologia Intellex Smart Search” no contexto deste sistema de
+videovigilancia, desde logo a idoneidade ou adequacao do mesmo a
+prossecu¢ao da finalidade de prevengdo criminal e de seguranca de pessoas e
+bens no espaco publico, a CNPD recomenda que a utilizagcao desta
+funcionalidade, bem como a pré-definicdo dos alertas que estao na base do seu
+funcionamento, sejam em concreto especificamente justificadas a luz do
+
+principio da proporcionalidade.
+
+Ill. CONCLUSAO
+
+Nao cabendo na competéncia que Ihe esta legalmente atribuida pronunciar-se sobre os
+concretos fundamentos da utilizag4o da videovigilancia na cidade de Estremoz, a CNPD
+limita-se a assinalar, com os argumentos acima expostos, que:
+
+a. Apos a transposic¢ao da Diretiva (UE) 2016/680, de 27 de abril, no ordenamento
+juridico nacional, importaraé adequar a garantia do direito de informacao as
+exigéncias naquela definidas, recomendando-se que os elementos integradores
+do conteudo deste direito que nao estejam vertidos nos avisos de videovigilancia
+sejam dados a conhecer aos cidados por outros meios adequados;
+
+b. Nao sendo evidente a idoneidade ou adequacao da utilizacdo da funcionalidade
+
+“Intellex Smart Search” para a prossecugao da finalidade de prevencao criminal
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832
+Processo n.° PAR/2019/15 | 3v.
+
+e de seguranga de pessoas e bens no espac¢o pliblico no contexto do presente
+sistema de videovigilancia, a CNPD recomenda que a sua utilizacao, bem como
+a prée-definigao dos alertas que estao na base do seu funcionamento, sejam em
+
+concreto especificamente justificadas a luz do principio da proporcionalidade.
+
+Lisboa, 23 de abril de 2019
+
+“2
+fod «
+Ge (ooo
+
+Filipa Calvao (Presidente)

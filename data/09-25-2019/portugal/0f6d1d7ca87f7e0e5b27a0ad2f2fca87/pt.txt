@@ -1,0 +1,223 @@
+Processo n.° PAR/2019/32 "
+
+-COMISSAO NACIONAL TEAS
+DE PROTECAO DE DADOS :
+
+PARECER/2019/34
+
+i. Pedido
+
+O Gabinete do Secretario de Estado Adjunto e das Finangas remeteu a Comissao
+Nacional de Protegao de Dados (CNPD), para apreciacao, o projeto de Proposta de Lei
+que procede a transposi¢ao da Diretiva (UE) 2017/828 do Parlamento Europeu e do
+Conselho, de 17 de maio de 2017, que altera a Diretiva 2007/36/CE do Pariamento
+Europeu e do Conselho, de 11 de junho de 2007, no que se refere aos incentivos ao
+
+envolvimento dos acionistas a longo prazo.
+
+O pedido formulado e o parecer ora emitido decorrem das atribuigdes e competéncias
+da CNPD, enquanto entidade administrativa independente com poderes de autoridade
+para o controlo dos tratamentos de dados pessoais, conferidos pela alinea c) do n.° 1
+do artigo 57.° e pelo n.° 4 do artigo 36.° do Regulamento (UE) 2016/679 do Parlamento
+Europeu e do Conselho, de 27 de abril de 2016 (Regqulamento Geral sobre a Prote¢ao
+de Dados — RGPD), em conjuga¢gao com o disposto no n.° 1 do artigo 21.° eno n.° 1 do
+artigo 22.°, ambos da Lei n.° 67/98, de 26 de outubro, alterada pela Lei n.° 103/2015, de
+
+24 de agosto (Lei de Protegao de Dados Pessoais).
+
+A apreciagao da CNPD cinge-se as normas que preveem ou regulam tratamentos de
+
+dados pessoais.
+
+ll. Apreciagao
+
+O presente projeto de Proposta de Lei transp6e, para a ordem juridica interna, a Diretiva
+(UE) 2017/828 do Parlamenito Europeu e do Conselho, de 17 de maio de 2017, que
+altera a Diretiva 2007/36/CE do Parlamento Europeu e do Conselho, de 11 de junho de
+2007, relativa ao exercicio de certos direitos dos acionistas de sociedades cotadas, no
+
+que se refere aos incentivos ao envolvimento dos acionistas a longo prazo.
+
+ 
+
+AV. D. CARLOS 1, 134- 1° | 1200-651 LISBOA | WWw.CNPD.PT | TEL: +351 213.928 400 | FAX: +351 213 976 832
+Processo n.° PAR/2019/32
+
+ 
+  
+
+ 
+
+Iv, pap {ou
+_—
+ae
+
+COMISSAO NACIONAL
+- DE PROTECAO DE DADOS
+
+O projeto de Proposta de Lei procede a alteracéo do Cddigo de Valores Mobiliarios,
+aprovado pelo Decreto-Lei n.° 486/99, de 13 de novembro, a alteracao do Regime Geral
+dos Organismos de Investimento Coletivo aprovado pela Lei n.° 16/2015, de 24 de
+fevereiro, a alteragado do Regime geral das Instituicdes de Crédito e Sociedades
+Financeiras, aprovado pelo Decreto-Lei n.° 298/92, de 31 de dezembro, a revogacao da
+Lei n.° 28/2009, de 19 de junho, e 4 determinacd&o do regime de medidas e sancdes
+
+aplicaveis ao incumprimento das normas da presente Proposta de Lei.
+
+Importa agora analisar as quest6es especificas que se colocam em matéria de protecao
+
+de dados pessoais:
+
+1 - O artigo 3.° do projeto de Proposta de Lei em analise adita os artigos 22.°-A, 26.°-
+A, a 26.°-F, 93.°-A, a 93.°-D, 240.°-A a 249.°-D, 251.°-A a 251.°-E ao Codigo de Valores
+Mobiliarios.
+
+Ora, 0 artigo 93.°-A sobre a epigrafe «ldentificagao dos acionistas» consagra que as
+sociedades emitentes de acdes admitidas a negociacao em mercado regulamentado
+tém o direito de solicitar a entidade gestora do sistema centralizado a informagao relativa
+a identidade dos seus acionistas, incluindo nomeadamente o nome e elementos de
+contacto do acionista (cfr. n.°1, alinea a)), sendo que esta entidade «solicita aos
+intermediarios financeiros participantes nesse sistema centralizado que prestem os
+servicos previstos na alinea a) do artigo 291.°, as informagdes relativas a identidade dos
+acionistas, devendo aqueles responder imediatamente a solicitagao» (n.° 2). Note-se
+que os dados pessoais devem ser eliminados até 12 meses apds as sociedades
+emitentes, a entidade gestora do sistema centralizado e os intermediarios financeiros
+
+que prestem os servicos previstos na alinea a) do artigo 291.° terem tido conhecimento
+
+Av. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+de que a pessoa em causa deixou de ser acionista, sem prejuizo de qualquer prazo de
+
+conservacao mais alargado previsto na lei (cfr n.° 4).
+
+Estes preceitos visam o tratamento de dados pessoais nos termos do artigo 4.°, alineas
+a) e b), do RGPD, pelo que se recomenda que seja feita remissdo expressa para o
+regime juridico de protegao de dados consagrado no RGPD, salvaguardando os direitos
+de informagao, de acesso e retificacao dos titulares dos dados nos termos previstos nos
+
+artigos 14.° a 16.° deste diploma legal.
+
+Chama-se ainda a ateng&o para o facto da alinea a) do artigo 93.°-A, quando prevé a
+informacao relativa a identidade dos acionistas, referir que esta inclui nomeadamente o
+nome e elementos de contacto do acionista. Ora, a recolha e a conservacao dos dados
+pessoais obedecem aos principios da finalidade e da minimizacao dos dados, pelo que
+apenas devem ser recolhidos elementos de identificagao dos acionistas estritamente
+necessarios a finalidade em causa — cf. allneas b) e c) do n.° 1 do artigo 5.° do RGPD.
+Recomenda-se, assim, a eliminacao do vocabulo «nomeadamente» e a sua substitui¢ao
+
+pela enumeracao concreta dos dados pessoais a tratar. -
+
+Refira-se, por ultimo, que a consagragao do dever das entidades supra referidas
+eliminarem os dados pessoais até 12 meses apds terem tido conhecimento de que a
+pessoa em causa deixou de ser acionista vem demonstrar que um dos principios
+basilares do tratamento de dados — o da limitagao da conservacao, previsto na alinea c)
+
+do artigo 5.° da LPDP e do RGPD — se encontra cumprido.
+
+2 —~ Por sua vez, 0 artigo 235.°-C introduzido pelo projeto de Proposta de Lei impde ao
+orgao de administracado das sociedades emitentes de acdes admitidas a negociacao em
+mercado regulamentado a elaboracao de um relatorio que proporcione uma visao
+
+abrangente das remuneracoes atribuidas ou devidas durante o ultimo exercicio a cada
+
+' Tais disposigc6es correspondem ao artigo 3.°- A, n.° 3 en.° 4 da Diretiva ja citada.
+
+ 
+
+ 
+
+Processo n.° PAR/2019/32 2
+
+etek |
+
+ 
+
+AV. D. CARLOS |, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928400 | FAX: +351 213 976 832
+Processo n.° PAR/2019/32 | 2v.
+
+tn, £
+
+ 
+  
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+membro dos orgaos de administracdo e fiscalizagao. O projeto de Proposta de Lei
+estipula que este relatério deve ser publicado no sitio da internet do emitente
+
+mantendo-se disponivel durante 10 anos.
+
+Com esta norma, que, no essencial, reproduz o disposto no artigo 9.°-B introduzido pela
+Diretiva 2017/828, prevé-se a divulgacao na Internet de dados pessoais relativos a
+situagao remuneratoria dos administradores das sociedades abrangidas, em termos que
+restringem substancialmente o direito a protegao de dados pessoais. Na verdade, a
+publicitagao on-/ine desta informagdo pessoal permite a utilizagao dos dados para as
+mais diversas finalidades, sem que seja, em rigor exequivel controlar essa utilizacdo.
+Para o que contribui também o longo periodo em que tal informacaéo pessoal fica
+
+disponivel (10 anos).
+
+De todo o modo, a CNPD reconhece que o legislador nacional, neste ponto, nado pode
+contrariar a opcao do legislador europeu, sendo certo que a Diretiva fundamenta
+expressamente esta opcao legislativa (cf. considerandos 33 e seguintes), fazendo
+prevalecer sobre aquele direito 0 objetivo de transparéncia de forma a reforgar o nivel
+de responsabilizagcao dos érgaos de administracdo e fiscalizacao e a capacidade de
+
+Supervisdo dos acionistas relativamente a remuneracdo destes.
+
+A unica ressaiva que, a este propdsito, a Diretiva faz, no sentido de salvaguardar uma
+dimensao minima daquele direito fundamental, vem também consagrada no projeto de
+Proposta de Lei. Com efeito, nos termos do n.° 9 do artigo 245.°-C, o referido reiatorio
+nao pode incluir categorias especiais de dados pessoais dos administradores, nem
+
+dados pessoais referentes a sua situagdo familiar.
+
+? Este artigo corresponde ao n.° 2 do artigo 9.°-B da Diretiva sendo que ai se remete para a definicao de
+
+categorias especiais de dados pessoais na acecao do artigo 9.° do RGPD.
+
+ 
+
+AV. D. CARLOS 1, 134-1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928 400 | FAX: +351 213 976 832
+Processo n.° PAR/2019/32 | 3
+
+ 
+
+    
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+ 
+
+Para maior clareza jurfdica, a CNPD sugere que, nesse ntimero, seja feita remissao
+expressa para o elenco de categorias especiais de dados pessoais previsto no artigo 9.°
+
+do RGPD.
+
+ill. Conclusées
+
+Com os fundamentos acima expostos, a CNPD recomenda que, no artigo 93.°-A agora
+aditado ao Céddigo de Valores Mobilidrios, seja feita referéncia expressa ao regime
+juridico de protegao de dados consagrado no RGPD, salvaguardando os direitos de
+informagao, de acesso e retificacao dos titulares dos dados nos termos previstos nos
+
+artigos 14.° a 16.° deste diploma legal.
+
+A CNPD recomenda ainda a densificac&o do n.° 9 do artigo 245.°-C, remetendo para a
+
+definig¢ao de categorias especiais de dados pessoais nos termos do artigo 9.° do RGPD.
+
+Lisboa, 19 de junho de 2019
+
+   
+
+Maria Candida Guedes de Oliveira (Relatora)
+
+cer mt th nttl lth tte NRRL inN NRRL ree RETR RA tt httehemenem—niermit eevee rs atta titre he TIRANA eer PIR Atte tee rninnmnn ite
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213.928 400 | FAX: +351 213 976 832

@@ -1,0 +1,484 @@
+Processo PAR/2019/42 | 1
+
+ 
+  
+
+| COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+PARECER/2019/49
+|. Pedido
+
+© Gabinete do Ministro do Ambiente e da Transigao Energética remeteu a Comissao
+Nacional de Protecao de Dados (CNPD), para aprecia¢ao, o Projeto de Decreto-Lei que
+aprova o regime juridico aplicavel ao autoconsumo de energia renovavel - Diretiva
+
+2018/2001 do Parlamento Europeu e do Conselho, de 11 de dezembro.
+
+O pedido formulado e o parecer ora emitido decorrem das atribuigdes e competéncias
+da CNPD, enquanto entidade administrativa independente com poderes de autoridade
+para o controlo dos tratamentos de dados pessoais, conferidos pela alinea c) don? 4
+do artigo 57.° e pelo n.° 4 do artigo 36.° do Regulamento (UE) 2016/679 do Parlamento
+Europeu e do Conselho, de 27 de abril de 2016 (Regulamento Geral sobre a Protecao
+de Dados — RGPD), em conjugac&o com o disposto no artigo 3.°e6°, n° 1, al. a) da
+Lei n.° 58/2019, de 8 de agosto.
+
+A apreciacdo da CNPD cinge-se as normas que preveem Ou regulam tratamentos de
+
+dados pessoais.
+li. Apreciagao
+
+O projeto de Decreto-Lei sob analise nao incide especificamente sobre materias ligadas
+4 protecdo de dados pessoais. No que respeita 2 competéncia desta Comissao, existem,
+contudo, aspetos cuja regulamentagao se apresenta algo deficitaria ou puramente
+
+inexistente e gue reclamariam melhor concretizacao.
+
+Para que se perceba o alcance da pronuncia aqui vertida, importa comegar por
+reproduzir o conceito de “Autoconsumidor de energia renovavel” a que se refere o
+projeto: um consumidor final que produz energia renovavel para consumo proprio, Nas
+suas instalacées situadas no territorio nacional, @ que pode armazenar ou vender
+eletricidade com origem renovavel de produgao propria...’. Como facilmente se
+
+percebe, o autoconsumidor podera ser uma pessoa singular, o que, como se
+
+Ay £) Curlos 1 P84 - 1° 1200-081 Lasboa
+Tel: 35} 213 928 400 Fax: +35 E 213476832
+
+verakienpa pt wav ccnp pt
+Processo PAR/2019/42 | Iv.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ys.
+- Neo.
+
+| COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+ 
+
+demonstrara, tem reflexos sensiveis na forma como pode ou deve ser tratada qualquer
+
+informacao pessoal que lhe diga respeito.
+
+ 
+
+e Portal
+
+As preocupagées quanto a protegao de dados pessoais iniciam-se no facto de estar
+prevista a criagao de um portal que sera a plataforma eletrénica, acessivel atraves do
+Portal da DGEG, bem como através do Portal ePortugal, na qual sao aoresentados,
+processados e comunicados os pedidos de registo, licenciamento e demais
+procedimentos previstos no presente decreto-lei, para a gestao e controlo da atividade
+do autoconsumo de energia renovavel e que contém o cadastro das UPAC [Unidade de
+Producao de Autoconsumo de Eletricidade] existentes (cfr. artigo 2.°, alinea u) do
+
+projeto)'.
+
+Se é certo que nao é pelo facto de existir mais uma plataforma eletrénica que o risco
+potencial para os dados pessoais automaticamente aumenta, ndo menos certa é a
+constatacdo que a profusdo destas plataformas e bases de dados sobre inumeros
+aspetos da vida pessoal dos titulares dos dados, refletindo a desmaterializagao da
+relacdo dos cidadaos e empresas com a administragao publica, constitul um acervo
+cada vez mais detalhado e estruturado sobre quem sao, como, quando e 0 que fazem
+os cidaddos na relacdo com o Estado. Para além disso, é evidente que a preocupagao
+com este tipo de bases de dados e plataformas deve merecer uma especial atengao e
+
+preocupac¢aéo por quem as concebe, implementa e gere.
+
+O responsavel pelo tratamento de dados pessoais para este portal vem determinaco no
+artigo 8.°, n.° 2, al. a) - a DGEG, ainda que ai se nao faga mencao a essa condicao,
+mas apenas ao facto de Ihe competir criar, manter, gerir e operar 0 Portal. Como tal,
+sera a DGEG a entidade que devera assegurar os aspetos fundamentais do tratamento,
+
+ja que 0 projeto de decreto-lei nao é totalmente claro quanto aos dados pessoais a fazer
+
+ 
+
+O artigo 9.° detalha, com maior profundidade, as funcionalidades do Portal.
+
+t., €% Foaelece +8 oop} aft ft cab
+Aw €3. Cartas |. p34 - b° P200-051 Lasoo
+
+ 
+ 
+  
+ 
+
+Tels 3S( 213928400 Fax: 381213976832
+
+ 
+
+§ 1h Aas tA
+
+» Wty Yok aad
+PREV Go ERASERS
+
+ecrala@enpd pt wav venpd, pl
+Processo PAR/2019/42
+
+ 
+
+ 
+
+ 
+
+   
+
+| comtss40 NACIONAL
+4. DEPROTECCAO DE DADOS
+
+incluir no perfil de acesso, o seu prazo de conservagao ou relativamente as matérias da
+
+seguranca da informagao, entre outros aspetos relevantes?.
+
+E verdade que se refere que o processo de autenticagao deve ser preferencialmente
+concretizado “através do mecanismo central de autenticagao «Autenticagao.Gov»,
+nomeadamente com recurso ao cartdo de cidad&o ou chave movel digital, previsto na
+Lei n.° 37/2014, de 26 de junho” (cfr. artigo 9.°, n.° 1, al. a)), mas em nenhum lugar se
+especifica integralmente o que deve constar desse perfil. Assim sendo, e porque é, nos
+termos do artigo 4.°, n.° 7, do RGPD, o responsavel pelo tratamento a pessoa singular
+ou coletiva, a autoridade publica, a agéncia ou outro organismo que, individuaimente ou
+em conjunto com outras, determina as finalidades e os meios de tratamento de dados
+pessoais; sempre que as finalidades e os meios desse tratamento sejam determinados
+pelo direito da Unido ou de um Estado-Membro, o responsavel pelo tratamento ou os
+critérios especificos aplicaveis 4 sua nomeagao podem ser previstos pelo direito da
+
+Uniao ou de um Estado-Membro;
+
+e O-consentimento como fundamento de licitude para acesso a informagao do
+
+portal
+
+O n.° 3 do artigo 9.°, prevé que “O acesso a informagao a que se refere a alinea a) do
+n.° 1 deve ser autorizada pelo titular dos dados, aquando do respetivo registo no Portal’.
+Ora, esta formulacao, parece-nos equivoca se se referir ao acesso a dados pessoais,
+como parece também poder acontecer*, dadas as funcionalidades previstas para o
+
+portal.
+
+A atual redacao da alinea a) do n.° 1 do artigo 9.°, prevé a autenticacao segura dos
+
+utilizadores que permita o acesso a informag&o constante da sua area reservada. Ora,
+
+2 Tais como os elencados no artigo 13.°, n.° 1 e 2 do RGPD, ai a titulo de informago a prestar ao titular
+dos dados.
+
+3 A al. a) do n.° 1 do artigo 9.° dispde o seguinte: O Portal disponibiliza as seguintes funcionalidades: a)
+Autenticagéo segura dos utilizadores que permita o acesso 4 informagdo constante da area reservada ao
+autoconsumidor de energia renovavel e das CER e aos demais intervenientes nos procedimentos regulados
+pelo presente decreto-lei, nomeadamente os operadores de rede, comercializadores, agregadores
+independentes, entidades instaladoras e inspetoras e terceiros proprietdrios ou gestores da UPAC,
+preferencialmente através do mecanismo central de autenticagdo «Autenticagao, Gov», nomeadaimente com
+recurso ao cartdo de cidadGo ou chave move digital, previsto na Lei n.° 37/2014, de 26 de junho
+
+Curlos §, i34- 1° 1200-641 Lisbou
+$
+
+DEB 928 400 Fax: «RSP 223 976882 ch,
+& 12 AS V8 ny
+
+flag ules
+Miasasar een py
+
+verabia@enpd pt wwiwenpel py
+
+  
+   
+ 
+
+ 
+
+med
+
+Eo saamancers rovenrmanteomee
+Processo PAR/2019/42 | 2v
+
+ 
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+| COMISSAO NACIONAL
+4. DE PROTECCAO DE DADOS
+
+se 6 esse 0 fito da alinea, como se pode, neste n.° 3, prescrever que o acesso a
+informagao que consta desse portal depende da autorizagao do proprio titular dos
+dados? Ou existe uma manifesta deficiancia de redacdo e o que se pretende, ao arrepio
+do que se redige, é autorizar diversas pessoas singulares e entidades distintas a aceder
+a informacao de outras pessoas que estejam registadas no portal — e esta conclusao
+nao resulta claramente da redacdo; ou, entao, o que se quer é permitir o acesso do
+oréprio titular dos dados ao seu perfil e as informagdes que sobre ele existam no portal,
+
+o que este fara através da autenticagao segura.
+
+No caso da primeira hipdtese avancada o consentimento so fara sentido se se tratar de
+algum acesso por terceiros a informagao do titular dos dados que nao seja ja legalmente
+acessivel por aqueles. Tal sé fara sentido se, do ponto de vista da finalidade do acesso,
+se justificar que terceiros possam conhecer essa informagao, 0 que, por ora, Carece de
+demonstracdo, sendo, por isso, dificilmente defensavel. Tanto mais que nem sequer se
+
+define a que informacdo se podera aceder, para qué e durante quanto tempo.
+
+Caso o legislador pretenda abarcar a segunda hipdtese, entao, ainda menos sentido
+fara reportar-se ao consentimento, ja que se trata apenas do préprio utilizador a poder
+aceder as suas informacdes pessoais, nao existindo qualquer razao para buscar um
+
+fundamento de licitude para que aquele possa aceder a sua informagao.
+e Contadores inteligentes
+
+O artigo 15.°, n.° 1 do projeto obriga 4 contagem da energia elétrica total produzida pela
+UPAC em varias circunstancias*. E essa contagem, de acordo com o n.° 2 do mesmo
+artigo, “é feita por telecontagem, devendo o equipamento de contagem encontrar-se
+capacitado para fazer a contagem nos dois sentidos, cumprindo os requisitos técnicos
+e funcionais estabelecidos na Portaria n.° 231/2013, de 22 de julho”. Por sua vez, o n.°
+
+6 aponta para uma medicéo da energia consumida, do excedente injetado na rede e do
+
+ 
+
+4 No caso de autoconsumo coletivo; no caso de autoconsumo individual, quando a IU associada a UPAC
+se encontre ligada a RESP ¢ a poténcia instalada seja superior a 1,5k VA; em todos os casos de autoconsumo
+em que sejam pretendidas garantias de origem,
+
+% ¥ he atu... ¢ ¢ o% 8 7 *~ yoo ®t go AE. .
+An. E> Caries 1, | 34 - PS P20o-oS | Lispoa
+2
+i
+
+Pel e352 213 928 400 Fax: 3SL21S 076832
+Wels dax 14 a6 (2h
+2 So pate ask
+
+Roce cast
+EIS: Tre
+
+eerakaonpe pt woaccnpd pt
+Processo PAR/2019/42 | 3
+
+ 
+
+ 
+
+ 
+ 
+  
+
+ 
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+consumo importado da RESP tendo por base cada periodo de 15 minutos. Finaimente,
+on. 7, obriga-se a que, nos casos de autoconsumo coletivo, a telecontagem seja
+
+efetuada com recurso a contador inteligente.
+
+Este artigo, ao impor obrigagdes de contagem através de meios com um potencial
+elevado de intrusdo na privacidade dos titulares dos dados, como 0 sao os contadores
+inteligentes, justifica uma nota adicional, ainda que eventualmente repetitiva face a
+
+outras pronuncias da CNPD.
+
+Percebe-se a facilitacao de processos que estes contadores podem trazer ao quotidiano
+de utilizadores e fornecedores de energia, contudo, como ainda recentemente esta
+Comissdo apontou, nao pode a conveniéncia dos procedimentos legitimar atropelos aos
+
+direitos fundamentais dos titulares dos dados’®.
+
+Disse-se, entao a propdsito do projeto de Regulamentagao dos Servicos das Redes
+inteligentes de Distribuicdo de Energia Elétrica, e agora recupera-se que fendo em conta
+gue os dados de consumo devem ser conservados por dois e trés anos (cf n.° 8 do
+artigo 17.° do Decreto-Lei n.° 68-A/2015, de 30 de abril, que transpde a ODiretiva
+2012/27/UE, de 25 de outubro de 2012) e que o seu regisio 6 feito com uma intensa
+frequéncia (de 15 em 15 minutos — cf. artigo 7.° da Portaria n. ° 2317/2013, de 22 de julho,
+e a alinea f) da n.° 1 do respetivo Anexo 1), o tratamento de informacao relativa aos
+consumos, por pessoas singulares, de energia elétrica permite a criag¢ao e@ analise de
+perfis de comportamento sobre os consumidores tinais, com impacto significative sobre
+a vida privada dos mesmos. Tal impacto nao se reflete apenas no marketing adaptado
+ao pertil detalhado do cliente ou no risco de discriminagao no prego a cobrar pelo servico
+de distribuicdo e fornecimento de energia, como também no risco de utilizacao indevida
+
+da informacao e de pretensdo da sua utilizagao para os tins de investigacao criminaf.
+
+5 Parecer 2019/32, disponivel em https://www.cnpd.pt/bin/decisoes/Par/PAR 2019 32.pdf.
+6 Neste sentido, v. os pareceres do Grupo de Trabalho do Art. 29.°, que congregava os comissarios de
+
+protecdo de dados dos Estados-membros da Unido Europeia, n.°s 12/2011, de 4 de abril, 4/2903, de 22 de
+abril de 2013 (WP205), acessivel em https://ec.europa.eu/justice/article-29/documentation/opinion-
+recommendation/files/20 1 |/wp183_en.pdf https://ec.europa.cu/justice/article-29/documentation/opinion-
+recommendation/files/2013/wp205_en.pdt
+Ay, BP. Carlos 1 b34- 1° 1200-
+
+Tels SS 223928400 Fax: 341) 213 97 G832
+
+GE Lasad
+t
+
+eo
+
+Olas leis des (OAs TH
+gt ont
+
+duvidasdinared 9%
+
+avralacenpd pt wayav.cnpd. pt
+
+    
+
+er a
+=o
+Processo PAR/2019/42
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+yf COMISSAO NACIONAL
+
+wh. DE PROTECCAO DE DADOS
+
+ 
+
+Sobretudo, o conjunto massivo de informacao sobre habitos ou caracteristicas e estado
+de satide das pessoas que a georreferenciacao e a internet das Coisas permite recolher
+potencia o risco de combinagdo ou relacionamento dos diferentes tipos de dados
+
+pessoais, tornando imperiosa a adogao de medidas mitigadoras de tals tmpactos.
+
+Nessa medida, a CNPD considera imprescindivel que as entidades que vao realizar
+tratamentos de dados pessoais a partir de redes inteligentes de distribuicao de energia
+e/étrica cumpram o RGPD, em especial no que diz respeito as obrigacoes de realizagao
+de estudo de impacto sobre a protecao de dados pessoais, bem como de ado¢ao de
+medidas de proteggo de dados desde a concecao e por defeito (cf. artigos 29.° € 3S, °
+do RGPD, bem como o Regulamento da CNPD n.° 1/2018, publicado no Diario da
+Republica 2.7 Série, de 30 de novembro’ ).
+
+Serve esta citacdo para notar a imprescindibilidade de, também aqui, o legislador
+promover a consciencializagao dos responsaveis pelo tratamento e subcontraiantes
+ligados a gest4o deste tipo de contadores para a obrigatoriedade de levarem a cabo
+estas avaliagdes de impacto em momento prévio a sua utilizagao. Alias, também o
+Estado, que aqui tera um papel fundamental, através da DGEG, deveria promover essas
+avaliacdes por forma a perceber os potenciais impactos do acesso e gestao da
+informacdo que lhe sera transmitida no quadro da operacionalizagao das solucdes de
+
+reporte de dados incluidas neste projeto.
+Ili. Conciusdes
+
+O presente projeto de decreto-lei carece de algumas clarificagées de redacao por forma
+a esclarecerem-se as dtividas quanto aos tratamentos de dados pessoais que
+
+efetivamente se devam efetivar no contexto do portal que nele se prevé.
+
+ 
+
+? Acessivel em htips://Awww.cnpd.pt/bin/decisoes/regulamentos/regulamento_1_2018.pdf
+
+ 
+
+Ay. BD. Carlos 1. 134-12 260-651 Lisboa
+
+Pele 38 DES 928 400 Pax: 38) 2)3976832
+
+Pee
+
+  
+     
+
+ 
+
+gan tas Tih
+
+eecralgecnpd pt wavev.cnpd pit eee Be
+BASE BM
+
+3V.
+Processo PAR/2019/42
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1) COMISSAO NACIONAL
+“DE PROTECCAO DE DADOS
+
+ 
+
+Alerta-se, igualmente, para o facto de que o referido portal nao vem suficientemente
+regulamentado no que respeita aos dados pessoais que haverdo de ser introduzidos e
+
+acedidos no contexto do regime juridico aplicavel ao autoconsumo de energia renovavel.
+
+Ademais, tal como se encontra, a obrigatoriedade de utilizagao de contadores inteligente
+para a medicdo da energia consumida, do excedente injetado na rede e do consumo
+importado da RESP, implica, de acordo com Regulamento da CNPD n.° 1/2018,
+publicado no Diario da Republica 2.2 Série, de 30 de novembro, a realizagao de
+avaliacdes de impacto sobre a protegdo de dados, tal como esto previstas no artigo
+35.° do RGPD.
+
+Lisboa, 9 de agosto de 2019
+
+ls Map
+
+{ |
+
+. j
+Joao Marques (Vogal, que relatou)
+
+i
+
+ 
+
+As, Do turnles [, P34 - 0° 1200-68) Lisboa
+Teb«35) 21S 928 don Paxr 35 2.21353 970832
+
+s
+geraldeonpad pt wavewcnpe, pt
+
+ 
+
+4

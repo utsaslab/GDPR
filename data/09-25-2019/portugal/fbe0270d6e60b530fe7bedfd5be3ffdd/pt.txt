@@ -1,0 +1,328 @@
+Processo n.° PAR/2019/46
+
+   
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+PARECER/2019/50
+
+|. Pedido
+
+Através do Gabinete da Secretaria de Estado Adjunta e da Administragao Interna foi solicitado,
+no dia 8 de agosto de 2019, a emissdo de parecer da Comissao Nacional de Protecgao de
+Dados (CNPD) sobre o pedido de utilizagao de camaras de video portateis pela Guarda
+Nacional Republicana (GNR) e pela Policia de Seguranga Publica (PSP) na prevengao e
+monitorizacao de incidentes decorrentes da greve anunciada pelo Sindicato afeto aos
+
+motoristas de Mateérias Perigosas.
+
+A utilizagao de sistemas de vigilancia por camaras de video pelas forgas e servigos de
+seguranca em locais publicos de utilizagao comum, para captagao e gravagao de imagem e
+som e seu posterior tratamento 6 regulada pela Lei n.° 1/2005, de 10 de janeiro, alterada e
+
+republicada pela Lei n.° 9/2012, de 23 de fevereiro.
+
+A instalagao de camaras fixas, nos termos desta Lei, esta sujeita a autorizagao do membro
+do Governo que tutela a forca ou servigo de seguranga requerente, precedida de parecer da
+CNPD.
+
+ll. Apreciagao
+Nota prévia: Ambito da competéncia da CNPD
+
+Nos termos do n.° 2 do artigo 3.° da Lei n.° 1/2005, de 10 de janeiro, na redagao dada pela
+Lei n.° 9/2012, de 23 de fevereiro (doravante, Lei n.° 1/2005), o presente parecer da CNPD
+restringe-se @ pronuncia sobre a conformidade do pedido com as regras referentes a
+seguranca do tratamento dos dados recolhidos, bem como acerca das medidas especiais de
+seguranca a implementar, adequadas a garantir os controlos de entrada nas instalagoes, dos
+suportes de dados, da insercao, da utilizagao, de acesso, da transmissao, da introdugao e do
+transporte e também quanto a verificagao do cumprimento do dever de informagao e perante
+
+quem os direitos de acesso e retificagao podem ser exercidos.
+
+Av. D. Carlos 1, 134 - 1.° 1200-651 Lisboa 21 393 00 39
+lel: +351 213928400 Fax: +351213 976832 LINHA PRIVACIDADE
+
+geral@cnpd.pt www.cnpd, pt s
+
+Dias dteia das 10 As 13h
+vor'y ry
+
+CUuViIdas GON t
+Processo n.° PAR/2019/46 | 1v.
+
+  
+  
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+De acordo com o disposto no mesmo preceito legal e nos n.°s 4, 6 e 7 do artigo 7.° daquela
+
+lei, 6 também objeto do parecer da CNPD 0 respeito pela proibigao de instalagao de camaras
+
+ 
+
+fixas em areas que, apesar de situadas em locais publicos, sejam, pela sua natureza,
+destinadas a ser utilizadas em resguardo ou a utilizagao de camaras de video quando a
+captacao de imagens e de sons abranja interior de casa ou edificio habitado ou sua
+
+dependéncia.
+
+Deve ainda a CNPD verificar se estado assegurados, a todas as pessoas que figurem em
+gravac6ées obtidas de acordo com a presente lei, os direitos de acesso e eliminagao, com as
+
+excecodes previstas na lei.
+
+Nos termos do n.° 7 do artigo 3.° do mesmo diploma legal, pode também a CNPD formular
+recomendacées tendo em vista assegurar as finalidades previstas na lei, sujeitando a emissao
+
+de parecer totalmente positivo a verificagao do cumprimento pleno das suas recomendagoes.
+
+1. A tutela da reserva da intimidade da vida privada
+
+A avaliagdo dos aspetos que 4 CNPD compete avaliar sera feita em conjunto para qualquer
+das forcas de seguranca, uma vez que ha uma grande identidade nos pedidos efetuados junto
+
+da tutela, salvo quanto ao numero de camaras a utilizar (30 pela PSP e 6 pela GNR).
+
+Uma vez que as areas potencialmente sujeitas a captagao de imagens podem ser de natureza
+muito distinta, consoante se esteja a falar de instalagdes de tipo industrial ou de postos de
+abastecimento junto de zonas residenciais, 0 risco de intrusao na esfera privada dos cidadaos
+também é variavel. Neste sentido, importa que a concreta utilizagao destes meios de vigilancia
+respeite a reserva da intimidade da vida privada e 0 nucleo essencial da protegao de dados
+pessoais, ambos direitos fundamentais constitucionalmente consagrados (cfr. arts. 26.° e 35.°
+da CRP). Significa isto que as forgas de seguranga devem abster-se de captar imagens de
+areas destinadas a ser utilizadas em resguardo ou do interior de casa ou edificio habitado ou
+
+sua dependéncia, até porque é a propria Lei n.° 1/2005 que o determina no artigo 7.°, n.° 6.
+
+Percebe-se, pela ldgica da atuagdo operacional que esta em causa, que aqui nao se indique
+a aposicdo de mascaras sobre as imagens. Tal procedimento poderia_ tornar-se
+
+contraproducente, resultando, até, na obsolescéncia do meio, ja que as camaras servirao
+
+Av. D. Carlos |, 13: 21 3293 00 39
+Tel: +351 213 928 400 Fax: 351213976832 LINHA PRIVACIDADE
+Dias Gteis das 10 As 13h
+
+GuVIASEDCIpG 4
+
++- 1.° 1200-6451 Lisboa
+
+geral(@ecnpd.pt www.cnpd.pt
+Processo n.° PAR/2019/46 | 2
+
+  
+  
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+justamente para que se garanta a identificagao de individuos que, pela sua agao, atentem
+contra a lei. Sucede, porém, que pela escala e abrangéncia da operagao policial anunciada,
+muitos cidadaos insuspeitos poderao ser sujeitos a captagao de imagens, cujo registo se
+podera prolongar pelo periodo legal admissivel. Por este motivo, recomenda-se uma especial
+atencao a quantidade e qualidade de informacao recolhida, a qual, nos termos do n.° 8 do
+artigo 7.° da Lei n.° 1/2005, por poder ser considerada como acidental e nao respeitar a
+
+qualquer suspeito de atividade ilicita, deve ser imediatamente destruida.
+
+No que respeita a captacao de som, apesar de muitas das camaras utilizadas possuirem essa
+funcionalidade, ambas as forcas de seguranga garantem, no ponto 4 de cada um dos pedidos
+de autorizacao formulados, que os sistemas de videovigilancia a utilizar nao tém essa
+finalidade, pelo que, quanto a este aspeto, e assim se concretizando a ag¢ao policial, considera
+
+a CNPD estar respeitado o disposto no n.° 7 do artigo 7.° daquele diploma legal.
+2. Os direitos dos titulares dos dados
+
+No que diz respeito a garantia dos direitos dos cidadaos, e porque esta apenas prevista a
+utilizacao de camaras moveis, nao se aplicam as condicgées previstas no artigo 4.° da Lei n.°
+1/2005. De toda a forma, ambas as forgas de segurancga se comprometem a difundir um “aviso
+prévio, nos meios habituais de divulgacgao, de que a [GNR e PSP irao] utilizar estes sistemas
+de videovigilancia nos locais indicados a partir das OOh00 do dia 12 de agosto de 2019, ate
+ao ‘érminus da greve e dos seus efeitos diretos”. O apelo a ideia de férminus dos efeitos
+direitos da greve deve ser entendido de forma tao restritiva quanto possivel, uma vez que
+estamos perante restricdes consideraveis de direitos fundamentais. A utilizagao de conceitos
+cuja extensao se nao alcanca automaticamente pode constituir uma desnecessaria
+compressao dos direitos reconhecidos aos titulares dos dados, mormente o direito de
+informacao. Deve, de resto, alertar-se para o facto de a entrada em vigor da Lei n.° 59/209,
+de 8 de agosto’, implicar para a atividade de prevengao criminal, a prestagao de um conjunto
+de informacées aos titulares dos dados, nos termos do seu artigo 14.°. E verdade que a Lei
+n.° 1/2005 constitui /ex specia/is face aquele diploma legal, mas a inexisténcia de previsao
+
+legal precisa e especifica, na Lei n.° 1/2005, sobre a informagao a prestar aos titulares dos
+
+' Que aprova as regras relativas ao tratamento de dados pessoais para efeitos de prevengao, detegao, investigagao
+ou repressdo de infragdes penais ou de execucdo de sanc¢des penais, transpondo a Diretiva (UE) 2016/680 do
+Parlamento Europeu e do Conselho, de 27 de abril de 2016.
+
+\Wv. D. Carlos i, 134 - 1.° 1200-651 Lisboa 2141 393 00 39
+
+lel: +35] 213 928400 Fax: 381213976832 LINHA PRIVACIDADE
+Dias Gteis das 10 As 13h
+
+duvidas@ionpd.o
+
+geral@ecnpd.pt wwiw.cnpd. pt
+Processo n.° PAR/2019/46 | 2v.
+
+  
+ 
+ 
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+dados por forca da utilizagado de camaras moveis, ha de redundar na interpretagao de que,
+
+para a utilizacao de camaras moveis, as forgas de seguranga deverao prever e implementar
+
+ 
+
+um meio de divulgacado dos elementos informativos exigidos pelo referido artigo 14.°. Pense-
+se, por exemplo, na divulgacao, nos sitios institucionais, das ditas informagoes quanto a
+
+generalidade das aces operacionais em que sao utilizadas camaras moveis?.
+3. Caracteristicas tecnicas das camaras e medidas de seguranga
+
+Sao ainda descritas medidas de seguranga quanto a captagao e conservacao das imagens,
+bem como quanto ao acesso as mesmas, assinalando-se que a gravacao é encriptada e que
+as operacées realizadas sao objeto de registo, permitindo assim a auditoria das mesmas,
+conforme exige a Portaria n.° 372/2012, de 16 de novembro (cf. pontos 5 e 6 do oficio da GNR
+e pontos 9 e 10 do oficio da PSP).
+
+Nao sao, todavia, discriminadas as medidas de segurang¢a relativas a transmissao das
+imagens, nem vem especificado, nos referidos oficios de qualquer das forgas de seguranga,
+o protocolo de encriptagdo da gravacgao das imagens. Quer a GNR quer a PSP devem garantir
+a confidencialidade das imagens transmitidas, nomeadamente através da cifragem dos dados,
+
+pelo que importa solucionar este aspeto critico.
+
+No que respeita as camaras a utilizar pela PSP, algumas sao identificadas como sendo
+equipamentos PTZ portateis: camaras de marca DSS com o modelo DDIP-M36SD-IR200 e
+AXIS, com o modelo P5534-E. Ora, por norma, a funcionalidade de PTZ esta associada a
+equipamentos fixos, dai a sua mais-valia na funcionalidade de movimento (pane f/f) a partir
+de controlo remoto. O equipamento AXIS é, efetivamente, um equipamento fixo. Assim,
+suscita-se a duvida quanto a portabilidade destes sistemas. A verificar-se que se pretende,
+efetivamente, recorrer a utilizagao de camaras fixas, é relevante que sejam identificadas as
+localizacdes de instalagao e respetivas areas a captar, devendo, igualmente, cumprir-se as
+
+exigéncias de informagao associadas a este tipo de dispositivos.
+
+2 O que traduziria com fidedignidade a exigéncia de disponibilizagéo publica e de forma permanentemente
+acessivel das informacdées a que a Lei 59/2019 se refere. Caso existissem particularidades em determinadas
+operagdes que tornassem o conteido dessa informag&o genérica incompleto, a forga de seguranga poderia
+disponibilizar as informagdes suplementares necessarias nesse mesmo sitio, mas apenas quanto a essa opera¢ao
+em especifico.
+
+Av. D. Carlos I. 134 - 1.° 1200-651 Lisboa
+
+21 393 00 39
+Tel: +351 213928400 Fax: +351213976832 LINHA PRIVACIDADE
+
+Dias dtels das 10 Ag 13h
+
+duviasgacnipd
+
+geral@ecnpd.pt www.cnpd.pt
+Processo n.° PAR/2019/46 | 3
+
+  
+  
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+De acordo com o descrito pelas forcas de seguranga, as imagens serao conservadas no
+
+respeito pelo limite definido no n.° 1 do artigo 9.° da Lei n.° 1/2005.
+
+ 
+
+4. Utilizagao de veiculos aéreos pilotados remotamente (drones)
+
+A GNR refere, no ponto 3, alinea c), do seu pedido, a pretensao de utilizar um “drone marca
+DJI, modelo Phantom 3SE...”. A utilizagao destes meios auxiliares das camaras de vigilancia
+nao se encontra prevista na Lei n.° 1/2005, nem em qualquer outro instrumento legal aplicavel
+as forcas de seguranca. A CNPD entende, de resto, que a consideragao destes meios como
+analogos aos previstos na Lei n.° 1/2005, por nos encontrarmos perante um meio restritivo
+de direitos fundamentais seria sempre insustentavel. A este fator acresce que a ja referida Lei
+n.° 59/2019, apenas admite tratamentos para efeitos de prevengao, detecao, investigagao ou
+repressao de infracdes penais “se estiver[em] previsto[s] na lei e na medida em que for[em]
+necessario para o exercicio de uma atribuigao da autoridade competente para os efeitos
+previstos no artigo 1.°, sem prejuizo do disposto no n.° 3.”4, o que reforga a inadmissibilidade
+de um meio que nao esta expressamente previsto como legitimo para potenciar tratamentos
+de dados pessoais.
+
+A inadmissibilidade da utilizacao destes meios sem autorizagao expressa da lei € ainda mais
+defensavel no presente contexto, em que, como é sabido, o nivel de ingeréncia na protegao
+de dados pessoais de inumeros titulares € amplamente potenciada por uma tecnologia que
+multiplica o espaco sob vigilancia para um nivel até ha bem pouco tempo impensavel para as
+forgas de seguranca. A esse raio de acao e supervisao ampliado corresponde um
+infinitamente maior numero potencial (e provavel) de titulares de dados afetados, cidadaos
+que, na maioria dos casos, nao serao sequer suspeitos de qualquer atividade criminosa.
+Finalmente, em nenhum local é referido ou, pelo menos, insinuado pela forga de seguranga
+que este meio vira acompanhado de medidas mitigadoras da referida ingeréncia na protegao
+
+de dados pessoais de quem por ele seja visado, nomeadamente medidas que impedissem a
+
+3 Sublinhe-se que o n.° 2 do artigo 1.° da Lei n.° 1/2005, refere que “Quaisquer referéncias feitas na presente lei a
+camaras de video fixas ou portateis entendem-se extensiveis a qualquer outro meio técnico analogo, bem como a
+qualquer sistema que permita a realizagao das gravac¢oes nela previstas.”.
+
+*O n,.° 3 prevé que “Caso nao esteja autorizado por lei, o tratamento dos dados pessoais apenas pode ser realizado
+se for necessario para a protecdo dos interesses vitais do titular dos dados ou de outra pessoa singular.”, ndo sendo
+esta excecdo aqui aplicavel, nem tendo sido invocada.
+
+Av. D. Carlos 1, 134 - 1.° 1200-651 Lisboa 21 393 00 39
+
+Tel: +351 213 928 400 Fax: *351213 976832 LINHA PRIVACIDADE
+Dias dteis das 10 As 13h
+
+duVIdaSqDCnpd Of
+
+geral@cnpd.pt www.cnpd.pt
+Processo n.° PAR/2019/46 | 3v.
+
+  
+  
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+identificagao dos titulares dos dados, o que colocaria a utilizagao dos drones e das camaras
+
+que lhe estao acopladas fora do ambito da legislagao que concretiza o artigo 35.° da CRP.
+
+Ill. Conclusao
+
+Com os fundamentos acima expostos e no estrito Ambito das suas competéncias, a CNPD
+nao se opde a utilizacao de camaras de video portateis pela Guarda Nacional Republicana
+(GNR) e pela Policia de Seguran¢a Publica (PSP) na prevengao e monitorizagao de incidentes
+decorrentes da greve anunciada pelo Sindicato afeto aos motoristas de Matérias Perigosas,
+conquanto se implementem as medidas de segurancga imprescindiveis a garantia de
+incorruptibilidade da transmissao das imagens dos dispositivos para os centros operacionais
+e se proceda a informacao dos titulares dos dados, nos termos do artigo 14.° da Lei n.°
+59/2019, de 8 de agosto.
+
+Ja quanto a utilizacado de drones como elemento de apoio ao uso de camaras de
+videovigilancia, a CNPD considera que esses meios nao estao legitimados pela Lei n.° 1/2005,
+de 10 de janeiro, alterada e republicada pela Lei n.° 9/2012, de 23 de fevereiro, pelo que deve
+
+a GNR abster-se de os empregar nas operacoées vigilancia que venha a levar a cabo.
+
+Lisboa, 9 de agosto de 2019
+
+ 
+ 
+
+J a0 Marques (Vogal, que relatou)
+
+Av. D. Carlos I. 134 - 1.° 1200-651 Lisboa 24 39300 39
+Tel: +351 213 928 400 Fax: *351213 976832 LINHA PRIVACIDADE
+Dias Gtels das 10 as 13h
+
+UViaSeDCnpd pt
+
+geral@cnpd.pt www.cnpd. pt

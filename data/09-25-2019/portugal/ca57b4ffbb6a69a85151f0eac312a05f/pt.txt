@@ -1,0 +1,663 @@
+PAR/2019/7 | 1
+
+  
+ 
+ 
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+PARECER/2019/6
+
+|. Pedido
+
+O Gabinete do Ministro dos Negécios Estrangeiros remeteu a Comissao Nacional de
+Proteccao de Dados (CNPD), para parecer, 0 Projeto de Decreto-Lei que cria e regula
+
+a emissao e utilizacdo do cartao de identidade diplomatico.
+
+O pedido formulado e o parecer ora emitido decorrem das atribuigdes e competéncias da
+CNPD, enquanto entidade administrativa independente com poderes de autoridade para
+0 controlo dos tratamentos de dados pessoais, conferidos pela alinea c) do n.° 1 do artigo
+57.° e pelo n.° 4 do artigo 36.°, do Regulamento (UE) 2016/679, de 27 de abril de 2016
+(Regulamento Geral sobre a Protegao de Dados -RGPD), em conjugagao com o disposto
+no n.° 1 do artigo 21.° e no n.° 1 do artigo 22.°, ambos da Lei n.° 67/98, de 26 de outubro,
+alterada pela Lei n.° 103/2015, de 24 de agosto (Lei de Protegéo de Dados Pessoais —
+LPDP).
+
+A apreciagao da CNPD no presente parecer restringe-se aos aspetos de regime relativos
+aos tratamentos de dados pessoais, ou seja, a operagdes que incidem sobre informagao
+respeitante a pessoas singulares, identificadas ou identificaveis — cf. alineas a) e b) do
+artigo 4.° do RGPD -, centrando-se nos preceitos que preveem ou implicam tratamentos
+
+de dados pessoais.
+
+il. Analise
+Av. D. Carlos I, 134 - 1.° 1200-651 Lisboa 21 393 00 39
+Tel: +351 213 928 400 Fax: +351213976832 LINHA PRIVACIDADE
+
+Dias Gtels das 10 4s 13h
+duvidas@enpd. pt
+
+geral@ecnpd.pt www.cnpd.pt
+PAR/2019/7 | 1v.
+
+  
+ 
+ 
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+O projeto de decreto-lei, como a sua epigrafe indica, visa enquadrar a criagao e emissao
+dos cartdes de identidade diplomaticos (CID), matéria da responsabilidade do Ministério
+dos Negocios Estrangeiros'(MNE). Este tipo de identificacao nao se limita aos “agentes
+diplomaticos e consulares acreditados em Portugal, [ao] pessoal administrativo e
+doméstico ou equiparado que venha a prestar servigo nas miss6es diplomaticas ou
+postos consulares dos respetivos Estados, [aos] funcionarios das organizagoes
+internacionais com sede ou representagaéo em Portugal e [aos] membros das suas
+familias”, estendendo-se ainda “a outros membros ou funcionarios de entidades com as
+quais o Estado portugués tenha celebrado acordos e aos quais tenha reconhecido
+
+estatuto diplomatico” (cfr. exposigao de motivos).
+
+E indicado como um dos desideratos desta nova legislagao a compatibilizagao tecnica
+destes cartées de identidade com a regulamentagao europeia e internacional mais
+recente, sendo especificamente mencionado o “reforgo da seguranga dos documentos de
+identidade e de viagem e [as] diretrizes fixadas pelas organizagées internacionais
+competentes, designadamente pela Uniao Europeia e pela Organizagao da Aviagao Civil
+Internacional (ICAO)”. Mais se concretizando que “O novo modelo obedece aos requisitos
+e especificagdes técnicas cujos parametros e procedimentos de fixagao se encontram
+definidos peio Regulamento (CE) n.° 2252/2004, do Conselho, de 13 de dezembro de
+2004, alterado pelo Regulamento (CE) n.° 444/2009, do Parlamento Europeu e do
+Conselho, de 28 de maio de 2009, que estabelece normas para OS dispositivos de
+seguranca e dados biométricos dos passaportes e documentos de viagem emitidos pelos
+Estados-Membros, e pelo Doc. 9303 da ICAO, Sétima edi¢ao, de 2015, que contém as
+especificacdes técnicas para a implementa¢ao dos documentos de identidade e viagem
+
+de leitura Otica.”.
+
+ 
+
+1 Competindo “ao Protocolo do Estado, no ambito da Secretaria-Geral do MNE, emitir documentos de
+identificac3o dos estrangeiros residentes no territorio nacional que beneficiem do estatuto diplomatico,
+conforme prescreve a alinea r) do artigo 4.2 da Portaria n.° 33/2012, de 31 de janeiro”.
+
+2 Nos termos das disposicdes conjugadas dos artigos 87.° e 10.°, n.° 3, al. a) da Lei n.2 23/2007, de 4 de
+julho, alterada, em ultimo, pela Lei n.° 26/2018, de 05 de julho.
+
+Av. D. Carlos I, 134 - 1.° 1200-651 Lisboa 21 393 00 39
+Tel: +351 213928400 Fax: 351213976832 LINHA PRIVACIDADE
+
+Dias Gteis das 10 4s 13h
+
+duvidasgicnpd
+
+gera l(@ iC npd : pt WWW.,C npd pl
+
+rm
+PAR/2019/7 | 2
+
+  
+ 
+ 
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+Quanto as questdes procedimentais, e em matéria de tratamentos de dados pessoais, é
+ao MNE que compete assegurar a “recolha e tratamento de dados pessoais” necessarios
+4 emissao do CID, ainda que esteja obrigado a consultar.o Servigo de Estrangeiros e
+
+Fronteiras (cfr. artigo 6.°, n.° 1, do projeto).
+
+Como dados pessoais tratados surgem, de forma indistinta, por se tratar de um modelo
+Unico?, os seguintes: no rosto - apelido(s); nome(s) proprio(s); nacionalidade; data de
+nascimento: sexo; imagem facial; nome da missao diplomatica, posto consular,
+organizacao internacional ou entidade a qual o titular pertence; categoria profissional;
+assinatura. Ja no verso acrescentam-se — a funcao ou vinculo familiar (categoria
+profissional do titular que presta fungdes em territorio nacional ou, no caso de dependente
+
+familiar, indicagdo do vinculo familiar) e observagées (privilégios e imunidades do titular).
+
+Na zona destinada a leitura dtica podem ser acedidos os dados relativos ao apelido;
+nome(s) prdprio(s) do titular; nacionalidade; data de nascimento; sexo; Republica
+Portuguesa, enquanto Estado emissor; tipo de documento; numero de documento; data
+
+de validade.
+
+E expressamente referido que o modelo do CID deve respeitar a legislagao europeia e
+
+internacional supracitada.
+
+A emissao do CID compete exclusivamente a Imprensa Nacional — Casa da Moeda, S.A.
+(INCM).
+
+Existe um artigo especialmente dedicado a protegao de dados pessoais (artigo 8.°) onde
+se estabelece a finalidade do tratamento (n.° 1), a possibilidade de o titular dos dados
+verificar, a todo o tempo, os seus dados pessoais e de solicitar a sua alteragao (n.° 2), a
+impossibilidade de serem comunicados ou revelados dados pessoais tratados no ambito
+do CID fora dos termos do decreto-lei (n.° 3), a responsabilidade pelo tratamento, no caso
+
+atribuida ao MNE, ao SEF e a INCM (n.° 4), a obrigatoriedade de os responsaveis pelo
+
+ 
+
+3 Existem quatro tipologias de cartées, com diferentes tarjas de cor, atribufdas de acordo com a fungao ou
+vinculo familiar que esta associada ao seu titular.
+
+este es yn
+
+Av. D. Carlos I, 134 - 1.° 1200-651 Lisboa 21 393 00 39
+Tel: +351 213 928 400 Fax: 351213976832 LINHA PRIVACIDADE
+
+Dias Gteis das 10 as 13h
+
+duvidas@icnpod pt
+
+geral@cnpd.pt wiww.cnpd. pt
+PAR/2019/7 | 2v.
+
+  
+ 
+ 
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+tratamento colocarem em pratica as “garantias de seguranga” necessarias a “impedir a
+consulta, a modificacdo, a destruigao e a comunicagao de dados pessoais nao
+consentidos no presente decreto-lei” (n.° 5) e, ainda, as obrigacgdes de confidencialidade
+das pessoas que, no ambito das fungoes que desempenhem, possam contactar com
+
+dados pessoais de ficheiros dos sistemas do CID (n.° 6).
+
+e Aspetos relevantes
+
+o Aaplicagao do RGPD
+
+Nota-se, no texto do projeto, a presenga de referéncias a Lei n.° 67/98, de 26 de outubro
+(a Lei da Protegao de Dados Pessoais - LPDP), nomeadamente no artigo referente a
+matéria da protegdo de dados (artigo 8.°). Quer para a identificagdo dos responsaveis
+pelo tratamento, quer para as obrigagoes de sigilo dos profissionais que possam ter
+acesso aos dados pessoais dos titulares com direito ao CID, a remissao para a LPDP
+esta expressamente consagrada. Ocorre, todavia, que a LPDP foi, em muitas das suas
+disposicdes, e nomeadamente nas que o legislador cita no projeto, alvo de revogagao a
+partir do momento em que o Regulamento (UE) 2016/679, de 27 de abril de 2016
+(Regulamento Geral sobre a Protegao de Dados — RGPD) passou a aplicar-se, isto é,
+desde 25 de maio de 2018.
+
+O novo regulamento que, pela sua natureza, é aplicavel diretamente no espaco da UE,
+consagrou um regime coerente e unico de protegao de dados pessoais para todos os
+cidaddos que se encontrem na Uniao (cfr. corpo do n.° 2 do artigo 3.°). Sendo, portanto,
+inquestionavel que o RGPD se aplica a todos os titulares dos dados na UE, por maioria
+de razdo, os cidadados estrangeiros, portadores de CID, estao diretamente abrangidos
+pelas normas deste instrumento juridico. Poder-se-ia questionar se a gestao e emissao
+dos CID no se encontram excluidas das previs6es do RGPD, a luz da alinea b) do n.o2
+do artigo 2.° deste regulamento, onde expressamente se afirma que ele nao é aplicavel
+“ao tratamento de dados pessoais: (...) Efetuado pelos Estados-Membros no exercicio
+de atividades abrangidas pelo Ambito de aplicacgao do titulo V, capitulo 2, do TUE’, é
+
+dizer, relativas a politica externa e de seguranca comum. No entanto, 0 que aqui se regula
+
+Av. D. Carlos I, 134 - 1.° 1200-651 Lisboa 21 393 00 39
+Tel: +351 213 928 400 Fax: +351213 976832 LINHA PRIVACIDADE
+
+Dias dteis das 10 As 13h
+duvidas@onpd 4
+
+geral@cnpd.pt www.cnpd. pt
+PAR/2019/7
+
+ 
+ 
+  
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+nao € tanto, somente ou sobretudo quem tem direito ao CID, mas antes quais os
+procedimentos, as técnicas e os responsaveis pela sua gest4o, emissao e destruigao.
+Estas matérias, claramente auxiliares do direito ao estatuto diplomatico ou equiparado,
+nado devem ser incluidas nessa excecdo prevista no RGPD, sob pena de se ampliar a
+niveis desproporcionados derrogagées semelhantes. Mesmo quando apenas parte do
+regime incluido no RGPD possa ser aplicavel, entendemos que esse conteudo, ainda que
+fragmentario, deve ser resgatado e produzir todos os efeitos legais devidos, na esteira da
+jurisprudéncia (maximalista) sobre protegao dos direitos fundamentais inscritos na Carta
+
+e nos Tratados‘, afirmada repetidamente pelo Tribunal de Justiga da Uniao Europeia?.
+
+Como tal, devera proceder-se a retificagao dos artigos indicados, substituindo o texto do
+n.° 4 do artigo 8.° do projeto pelo seguinte: “O MNE e o SEF sao as entidades
+responsaveis pelo tratamento, nos termos e para OS efeitos do Regulamento (UE)
+2016/679, de 27 de abril de 2016, nas operacgdes em que intervenham para a emissao e
+concessao do CID.”. Assinala-se, nesta proposta de redac¢ao, a eliminagao da referéncia
+4 INCM, o que se explicaraé no ponto seguinte. Prescindiu-se, ainda, da formula
+“responsavel...pelo tratamento e protegao de dados pessoais”, uma vez que é Clara a
+autossuficiéncia do conceito previsto no artigo 4.°, n.° 7, do RGPD, para abarcar a
+totalidade da realidade descrita na atual redagdo do projeto. Ja no n.° 6 do mesmo artigo
+8.°, onde se prescrevem as obrigagdes de confidencialidade das pessoas que, por forga
+da sua funcdo, tenham acesso aos dados pessoais dos requerentes/titulares do CID,
+propée-se a alteragao para a seguinte redacdo “Ficam obrigadas a sigilo profissional as
+pessoas que tenham conhecimento, no exercido das suas funcdes, de dados pessoais
+constantes de ficheiros dos sistemas do CID”. A inexisténcia de referéncia expressa ao
+RGPD explica-se pelo facto de nele nao constar uma norma exatamente coincidente com
+
+a que se previa na LPDP, limitando-se agora o regulamento a enunciar a
+
+ 
+
+4 artigo 8.2 da Carta dos Direitos Fundamentais da Unido Europeia e artigo 16.2 do Tratado sobre o
+Funcionamento da UE.
+
+5 Ver, a titulo de exemplo, o que o TJUE afirma nos considerandos 10, 54, 68 e 69 do Acordao de 13 de maio
+de 2014, no processo C-131/12, disponivel em
+juri .isf?docid=152065&doclang=PT.
+
+  
+
+—_ mete tenenee = orateh ntenewtn tener enero NN me ere ene penne vo cm Luipamereerinrmentijenae ala mee iit mene
+
+Av. D. Carlos I. 134 - 1.° 1200-651 Lisboa
+
+yt i Rel ed
+Tel: +351 213 928400 Fax: +351213 976832 LINHA PRIVACIDADE
+
+Dias iteis das 10 4s 13h
+
+duvidaseicnpd
+
+geral@cnpd.pt www.cnpd. pt
+
+3
+PAR/2019/7 | 3v.
+
+  
+ 
+ 
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+confidencialidade como principio, no artigo 5.°, n.° 1, al. f), e a concretiza-lo na Sec¢ao 2
+(“Seguranca dos dados pessoais”) do Capitulo IV ("Responsavel pelo tratamento e
+subcontratante”), mais especificamente no artigo 32.°, n.° 1, al. b), relativo a seguranga
+
+dos tratamentos.
+
+Optando por enquadrar, na sua totalidade, este tratamento no RGPD, tal como
+defendemos, sempre teriamos de encontrar um fundamento de licitude para os
+tratamentos existentes, neste caso, para a finalidade de gestao do processo de emissao
+e destruicao do CID. Facilmente, entao, se poderia recorrer ao artigo 6.°, n.° 1, al. c), ou
+seja, a obrigagdo legal que impende sobre o Estado portugués, em virtude da existéncia
+de convencées internacionais que o obrigam a reconhecer o estatuto diplomatico (ou
+equiparado) de cidadaos estrangeiros e a desenvolver os meios que o atestem. Aqui,
+como é sabido, é 0 artigo 8.°, n.° 2, da CRP, o preceito que determina, em primeira linha,
+a obrigacdo do Estado portugués cumprir os compromissos que assume nas convengoes
+internacionais, sendo a Convencgao sobre Relacées Diplomaticas, celebrada em Viena,
+em 18 de Abril de 19616, o instrumento juridico infraconstitucional que contextualiza a
+necessidade da existéncia do CID. Neste ambito, o artigo 25.° da dita convengao oferece
+suficiente amparo a emissdo de identificag6es credenciadoras do estatuto especial
+reconhecido ao pessoal diplomatico e equiparado, ao dispor que “O Estado acreditador
+
+dara todas as facilidades para o desempenho das fungdes da missao’.
+
+Finalmente, sempre que o fundamento de licitude convocado seja a obrigagao legal
+prevista no ja referido artigo 6.°, n.° 1 al. c), do RGPD, é necessario prover pelas
+condicédes do n.° 3, in fine, desse mesmo preceito, é dizer: “A finalidade do tratamento é
+determinada com esse fundamento juridico (...). Esse fundamento juridico pode prever
+disposicdes especificas para adaptar a aplicagao das regras do presente regulamento,
+nomeadamente: as condicédes gerais de licitude do tratamento pelo responsavel pelo seu
+tratamento; os tipos de dados objeto de tratamento; os titulares dos dados em questao;
+as entidades a que os dados pessoais poderao ser comunicados e para que efeitos; os
+
+limites a que as finalidades do tratamento devem obedecer; os prazos de conservagao; e
+
+ 
+
+6 Relativamente a qual foi aprovada a adesdo de Portugal pelo Decreto-Lei 48295 de 27 de marco.
+
+Av. D. Carlos I. 134 - 1.° 1200-651 Lisboa 214 393 00 39
+Tel: +351 213 928 400 Fax: +351 213976832 LINHA PRIVACIDADE
+
+Dias dteis das 10 As 13h
+
+duvidasgonpd
+
+geral@cnpd.pt www.cnpd. pt
+PAR/2019/7
+
+  
+ 
+ 
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+as operacdes e procedimentos de tratamento, incluindo as medidas destinadas a garantir
+a legalidade e lealdade do tratamento, como as medidas relativas a outras situagoes
+especificas de tratamento ...”. E verifica-se, com efeito, que o presente projeto da resposta
+a estas multiplas condicgdes, ainda que, nos termos que indicamos neste parecer, haja
+
+pontuais corregdes a ponderar.
+
+o Os responsaveis pelo tratamento
+
+Como ja foi explicitado, o projeto de decreto-lei prevé serem responsaveis pelo
+tratamento, cumulativamente, o MNE, o SEF e a INCM (cfr. artigo 8.°, n.° 3). Sem prejuizo
+de o RGPD prever que “sempre que as finalidades e os meios [dos] tratamento[s] sejam
+determinados pelo direito da Unido ou de um Estado-Membro, o responsavel pelo
+tratamento ou os critérios especificos aplicaveis 4 sua nomeagao podem ser previstos
+pelo direito da Uniao ou de um Estado-Membro”, questiona-se a adequa¢gao de
+determinar, no texto do decreto-lei, a responsabilidade conjunta das trés entidades
+envolvidas na materializacao do cartao de indentidade. Nao oferece duvidas o facto de o
+MNE ser responsavel pelo tratamento, dada a sua fungao de recolha dos dados pessoais
+requeridos, de decisao sobre a concessao e emissao do CID e de gestao subsequente
+da informacdo. Quanto ao SEF, que aqui tem uma fun¢ao meramente consultiva, nao se
+alcancando sequer que essa consulta resulte numa pronuncia vinculativa, pode, ainda,
+perceber-se a atribuigao dessa qualidade pelo facto de a analise dos dados pessoais que
+Ihe esta atribuida se enquadrar nas atribuigdes deste servigo e dea finalidade e os meios
+do tratamento que competem ao SEF serem totalmente estranhos e alheios ao MNE,
+antes resultando da lei. O que ja se estranha, pela aparente impropriedade, e a
+qualificacdo da INCM como responsavel pelo tratamento. Ao contrario do MNE, a INCM
+nao controla qualquer vertente do tratamento de dados pessoais ligado a recolha,
+verificacao e alteragao desses dados, limitando-se a emitir e destruir os cartOes que O
+
+MNE requerer, nos termos que este determinar.
+
+Parecer-nos-ia, pela fungao residual e meramente instrumental que protagoniza no
+
+quadro do projeto de decreto-lei, que a INCM fosse mais adequada a classificagao como
+
+pon anctareneet et armenanaene wee tit eigneniyehevenmenanins 8 . - “ mene ere SORTA ee Rene ANE REED eV ERIM HOI ortega sanemererey| seamen 26
+
+Av. D. Carlos I, 134 - 1.° 1200-651 Lisboa Cre) et)
+Tel: +351 213 928400 Fax: +351213 976832 LINHA PRIVACIDADE
+
+Dias dtels das 10 As 13h
+
+GUVIGASARCNPS PR
+
+geral@cnpd.pt www.cnpd. pt
+
+4
+
+a”
+«
+PAR/2019/7
+
+ 
+ 
+ 
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+subcontrante, uma vez que ela se limita proceder aos tratamentos de dados pessoais
+indicados pelo MNE. O carater coadjuvante e acessorio desta a¢ao, para além da sua
+possivel prestagdo por outros fornecedores deste tipo de servicos, concorrem para uma
+clara aproximacao da INCM ao conceito de subcontratante. Ademais, como é sabido, o
+responsavel pelo tratamento tem, entre outras incumbéncias, a obrigagao de responder
+ao exercicio dos direitos por parte dos titulares. Ora, nao se antevé como possa a INCM
+responder, de forma cabal ou precaria, a qualquer pedido que lhe seja efetuado, ja que
+nado detém a base de dados onde estao incluidos os dados pessoais daqueles que
+requerem e utilizam este meio de identificagao. Podera, admite-se, conservar, por tempo
+determinado e necessariamente mais curto do que aquele previsto no presente projeto,
+um conjunto de dados sobre os requerentes para justamente cumprir a Sua missao, que
+é a de producao dos carté6es. Reconhece-se, igualmente, que tenha a INCM de aceder
+aos cartées, logo aos dados pessoais que estao neles expostos, quando os recebam com
+vista a sua destruicdo. O que ja nao acontecera é que a INCM conserve uma base de
+dados propria ou tenha acesso indiscriminado a que venha a ser criada pelo MNE, quando
+
+a Unica funcdo que Ihe cabe é produzir o CID e/ou destrui-lo.
+
+o Seguranga do(s) tratamento(s)
+
+Importa comecar por referir que, percebendo-se a intengao do legislador nacional de
+compatibilizar as exigéncias de seguranga e fiabilidade dos documentos identificativos de
+quem esta legitimado a requerer e usufruir do estatuto especial do pessoal diplomatico
+ou equiparado com os requisitos europeus e internacionais, a CNPD apenas podera
+reforcar a imprescindibilidade de cumprir integralmente com os requisitos técnicos da
+
+legislagao apontada.
+
+O que nao esta refletido, em matéria de seguranga da informacgao, sao os demais
+requisitos de gestao da informacao tratada. Note-se que a emissao e gestao do CID é
+uma vertente do conjunto de tratamentos de dados pessoais implicados em todo o ciclo
+da finalidade do projeto de decreto-lei. Explicando, para emitir um cartao de identificagao
+deste tipo pressupde-se um prévio processo de recolha dos dados necessarios. E este
+processo prévio devera estar rodeado das necessarias medidas de seguranga previstas
+
+e aaeen na legielagan de preleyeo de dados. Este raciocinio a apie -se, com idéntica
+
+otarnaevomenienmuiearensnen revererevenensasamenes mere - - <— mermerennann ee
+
+AV. D. ( asios I. 34 - 1 1200- 651 Lisboa or Cee CD
+
+Tel: «351 213928400 Fax: +351213976832 LINHA PRIVACIDADE
+
+Dias otels das 10 As 13h
+duvidas@icnpd
+
+geral@cnpd.pt. www.cnpd. pt
+PAR/2019/7 | 5
+
+  
+ 
+ 
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+relevancia, a conservacdo dos e futuro acesso aos dados pessoais recolhidos e inseridos
+no cartdo. A base de dados assim criada tera, necessariamente, que ser rodeada de
+semelhantes preocupagées, tal como terao de se assegurar as condicdes de limitagao de
+acesso a informacao que venham a impedir que pessoas nao autorizadas possam
+
+conhecer, alterar, difundir, subtrair ou eliminar o seu conteudo.
+
+Nao se desconhece o contetido do n.° 5 do artigo 8.° que justamente obriga a que se
+coloquem “em pratica as garantias de seguranga necessarias para impedir a consulta, a
+modificacao, a destruigao e a comunicagao de dados pessoais nao consentidos no
+presente decreto-lei”. O que se duvida é da suficigncia de um tal preceito, sobretudo no
+quadro da necessaria criagado de uma base de dados (que julgamos) autonoma e que,
+por isso, reclama regras concretas que garantam, entre outras, a integridade da
+informacao nela inscrita. A mera repetigao da obrigacao ja prescrita no regime de
+protecdo de dados pessoais vigente sera eventualmente util, mas incompleta face aos
+atuais requisitos legais. Com efeito, o artigo 32.° do RGPD, que versa sobre a seguranga
+do tratamento, impde medidas certas e determinadas neste dominio o que, podendo nao
+estar espelhado no projeto de decreto-lei havera, pelo menos, de ser objeto de
+
+regulamentagao propria.
+o Respeito pelos principios da minimizagao e limitagao dos dados
+
+Quanto a quantidade e qualidade dos dados pessoais tratados para a emissao do CID,
+manda o principio da necessidade (previsto no artigo 5.° n.° 1, al. c), quer da Lei n.°
+67/98, de 26 de outubro, alterada pela Lei n.° 103/2015, de 22 de agosto, doravante
+LPDP, quer do RGPD) que se limite ao essencial a informacao tratada para uma
+determinada finalidade. E atento o rol de dados pessoais previstos no projeto de decreto-
+lei, entende-se que este principio é efetivamente cumprido, nao sendo requeridos dados
+
+excessivos ou desproporcionados.
+
+lgualmente adequada é a previsao do artigo 11.°, n.° 4, onde se determina que os dados
+pessoais tratados no ambito sejam eliminados aquando da destruigao do CID. Tambem
+aqui um dos principios basilares — o da limitagao da conservacao (previsto no artigo 5.°,
+
+n.° 1, al. e quer da LPDP, quer do RGPD) — aparece cumprido.
+
+Ay. D. Carlos I. 134 - 1.° 1200-651 Lisboa 21 393 00 39
+Tel: +351 213928400 Fax: «351213976832 LINHA PRIVACIDADE
+
+Dias Gtels das 10 45 13h
+
+duvidas@enpd pt
+
+geral@ecnpd.pt wiww.cnpd. pt
+PAR/2019/7 | Sv.
+
+  
+ 
+ 
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+o Os direitos dos titulares dos dados
+
+Quanto aos direitos dos titulares dos dados, eles aparecem sumaria e insuficientemente
+previstos no artigo 8.°, n.° 2, onde se dispoe que “O titular do CID tem o direito de, a todo
+o tempo, verificar os dados pessoais nele constantes, inclusive na zona de leitura Otica,
+e de solicitar a sua alteracdo.”. Com efeito, os direitos dos titulares dos dados nao se
+limitam a possibilidade de acesso e retificagao, como aqui aparecem listados, ainda que
+
+com conceitos apartados dos normalmente utilizados em matéria de protecao de dados.
+
+Para la dos direitos tradicionais — de acesso, retificagao, oposig¢ao, apagamento e de
+informacao — 0 RGPD veio prever novos direitos: portabilidade (artigo 20.°) e limitagao do
+tratamento (artigo 18.°). No caso presente, é verdade que os direitos de portabilidade e
+de oposicao nao parecem ser aplicaveis ao Caso da emissdo e gestao do CID. Ja nao
+sera assim, porém, quanto ao direito de informagao, devido a qualquer titular dos dados,
+salvo especifica condigaéo que o permita afastar e que aqui nao ocorre. Este direito nao
+tera necessariamente de ficar previsto neste decreto-lei, mas cumpre vincar que ele nao
+pode ser omitido; Quanto a limitagao do tratamento vé-se como dificil a sua total
+indisponibilidade, embora se admita que apenas em casos residuais tal direito possa vir
+a ser exercido; E quanto ao direito de apagamento, que nao fica precludido pela existéncia
+de uma obrigacao legal de apagamento dos dados, como a prevista no artigo 11.°, n.° 4,
+do projeto, ha de também poder ser exercido. Imagine-se, desde logo, 0 caso em que,
+apesar de ter cessado a justificagao legal para a concessao do CID, o MNE mantem, por
+
+incuria ou intencionalmente, a informacado respeitante ao titular dos dados.
+
+Pelo exposto, impde-se a consagragado expressa do direito ao apagamento dos dados e
+a limitagado do tratamento, bem como a prestacdo do direito de informagao,
+
+independentemente da sua consagra¢ao no texto final do decreto-lei.
+o Da possibilidade de reprodugao do CID
+
+Nao se inclui, em parte alguma do projeto, qualquer obstaculo a retencdo e reprodugao
+
+do CID, a exemplo do que ocorre quanto ao documento de identificacao de cidadaos
+
+Av. D. Carlos I. 134 - 1.° 1200-651 Lisboa PL ete Wel etd
+Tel: +351 213 928400 Fax: +351213976832 LINHA PRIVACIDADE
+
+Dias itels das 10 As 13h
+duvidasgdonpd pt
+
+geral@enpd.pt wiww.ecnpd. pt
+PAR/2019/7 | 6
+
+  
+ 
+ 
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+nacionais?. Embora o CID nao pressuponha a perenidade do cartao do cidadao, ele
+constitui, para todos os efeitos legais, “titulo bastante para provar a identidade do titular
+perante quaisquer autoridades e entidades publicas ou privadas, sendo valido em todo o
+territorio nacional...” (cfr. artigo 2.°, n.° 1). Desta forma, e atenta a reciprocidade de
+direitos que aos cidadaos estrangeiros é reconhecida constitucionalmente®, a que
+acrescem Obvias consideracdes de seguranga da informagao e proporcionalidade no
+acesso e disponibilizagéo de cdpias dos documentos de identificagado, nao se antevé
+qualquer razdo formal ou material para descartar, aos cidadaos estrangeiros titulares do
+CID, um regime idéntico ao que vigora para o cartao do cidadao. Em suma, isto significaria
+que a retencdo do CID apenas se admitira quando a lei o obrigasse ou mediante decisao
+de autoridade judiciaria ou, ainda, e apenas no caso da reproducao, quando o titular dos
+dados nisso consentisse. Para tanto bastaria espelhar a redagao existente das normas
+vigentes para o cartao do cidadao ou remeter-se para esse regime, no que a retengao e
+
+reprodugao diz respeito.
+
+Ill. Conclusao
+
+A CNPD entende que o presente projeto de decreto-lei carece de algumas alteragoes
+
+pontuais que permitam suprir algumas lacunas ou aspetos menos claros do articulado.
+
+De entre essas, convira atualizar as referéncias legislativas a LPDP, substituindo-as,
+
+quando relevante, pelas correspondentes mengoes ao RGPD.
+
+Importara igualmente repensar o elenco de responsaveis pelo tratamento que aqui vém
+previstos, desde logo 0 caso da INCM, em face da concreta funcdo que lhe cabe (de mera
+producao ou destruigao dos CID). Atento o contetido dos conceitos de responsavel pelo
+
+tratamento presentes no regime de protegao de dados pessoais vigente, bem como as
+
+ 
+
+7 Tal como previsto no artigo 5.2 da Lei n.2 7/2007, de 5 de fevereiro, alterada, em ultimo pela Lei n.2
+32/2017, de 1 de junho.
+
+8 Atento o disposto no artigo 15.2, n.2 1, da CRP.
+
+Ae AMON bee mer . en arte nt Shere che en a PREY SE a item A RN aN terme neers mente Tere ENL os bn O88
+
+Av. D. Carlos I, 134 - 1.° 1200-651 Lisboa 214 393 00 39
+Tel: +351 213 928400 Fax: «351213976832 LINHA PRIVACIDADE
+
+Dias dteis das 10 As 13 h
+duvidas@icnpd.pt
+
+geral@enpd.pt www.cnpd.pl
+PAR/2019/7 | 6v.
+
+  
+ 
+ 
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+incumbéncias que decorrem da atribuigao dessa qualidade aos intervenientes nos ciclos
+de tratamentos (com especial enfoque no respeito pelos direitos dos titulares), aparece
+
+como deslocado assim qualificar a INCM.
+
+Em matéria de seguranca dos tratamentos, nao basta enunciar e cumprir as obrigagoes
+previstas quanto aos cart6es de identificagao propriamente ditos (Regulamento (CE) n.°
+2252/2004, do Conselho, de 13 de dezembro de 2004, alterado pelo Regulamento (CE)
+n.° 444/2009, do Parlamento Europeu e do Conselho, de 28 de maio de 2009, que
+estabelece normas para os dispositivos de seguranga e dados biométricos dos
+passaportes e documentos de viagem emitidos pelos Estados-Membros, e pelo Doc.
+9303 da ICAO, Sétima edicdo, de 2015). A emissao dos CID pressupoe um ciclo de
+tratamentos que abarcam momentos prévios e outros subsequentes ao dessa emissao,
+mormente os ligados a recolha, manutengao e eliminagao da informacao incluida no CID.
+E, para estes, havera também que garantir a seguranga, nos termos prescritos no RGPD,
+
+aspeto que nao se encontra positivado no texto do projeto.
+
+Finalmente, considera-se util, na dtica da seguranga da informagao, prever mengao
+expressa a impossibilidade de retengao e reprodugao do CID, nos mesmos termos em
+que esta prevista na Lei do Cartao do Cidadao, ou através de remissao para esse regime,
+uma vez que aquele constitui “titulo bastante para provar a identidade do titular perante
+quaisquer autoridades e entidades publicas ou privadas, sendo valido em todo o territorio
+nacional...” e nao se antevé razdo para trata-lo com distinta dignidade face ao documento
+
+de identificacao dos cidadaos nacionais.
+
+Lisboa, 12 de fevereiro de 2019
+
+fr, f\
+i} ?
+
+\ i |
+f if
+Joao Marques i
+
+\
+
+aac NEN SIERO A EE - — ~ . severance rnneremnyMN RANMA RRA SOSA NSN
+
+Av. D. Carlos I, 134 - 1.° 1200-651 Lisboa 21 39300 39
+
+Tel: +351 213 928400 Fax: 351213976832 LINHA PRIVACIDADE
+
+Dias Gteis das 10 4s 13h
+duvidas@cnpd. pt
+
+reral(@cnpd.pt www.cnpd.pt
+8 ¢ pa.]

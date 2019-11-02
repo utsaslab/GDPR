@@ -1,0 +1,363 @@
+Processo PAR/2019/37 | 1.4
+
+ 
+
+   
+
+ 
+
+ 
+
+~~ COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+PARECER/2019/38
+
+|. Pedido
+
+A Secretaria de Estado da Justica solicitou 4 Comissao Nacional de Proteccao de Dados
+(CNPD) que se pronunciasse sobre o Anteprojeto de decreto-lei de alteragao ao Decreto-Lei
+n.° 171/2015, de 25 de agosto, que regulamenta e desenvolve o regime juridico da
+
+identificacao criminal.
+
+A CNPD emite parecer no ambito das suas atribuicdes e competéncias enquanto autoridade
+administrativa independente com poderes de autoridade para o controlo dos tratamentos de
+dados pessoais, conferidos pela alinea c) do n.° 1 do artigo 57.° e pelo n.° 4 do artigo 36.° do
+Regulamento (UE) 2016/679, de 27 de abril de 2016 — Regulamento Geral sobre a Protecao
+de Dados (RGPD), em conjugac&o com o disposto no n.° 1 do artigo 22.° e no n.° 1 do artigo
+23.°, ambos da Lei n.° 67/98, de 26 de outubro, alterada pela Lei n.° 103/2015, de 24 de agosto
+(Lei de Protecao de Dados Pessoais ~ LPDP).
+
+Pretende-se com esta alteragdo introduzir a possibilidade de disponibilizar a informacao do
+registo criminal e do registo de contumazes, permanentemente atualizada, mediante consulta
+com um codigo de acesso valido por um periodo variavel de acordo com a escolha do proprio
+
+requerente.
+
+No preambulo do Anteprojeto de Decreto-Lei (doravante «Anteprojeto»), afirma-se tratar-se
+de uma medida de melhoria na forma de acesso a informagao em registo por parte dos
+cidadaos e empresas, no Ambito da modernizac4o dos servicos de identificacado criminal e da
+
+consolidagao do Portal do Registo Criminal Online.
+
+O regime juridico da identificagao criminal abrange pessoas singulares e pessoas coletivas.
+A CNPD limita a sua pronincia as normas com incidéncia nas pessoas singulares, por
+
+estarem em causa dados pessoais, na acegao da alinea 1) do artigo 4.° do RGPD.
+
+As alteragdes preconizadas neste Anteprojeto dizem respeito sobretudo aos necessarios
+ajustamentos do diploma a nova modalidade de acesso a informagao quer do registo criminal,
+quer do registo de contumazes, através do pedido de um codigo de acesso que permite obter
+
+Sucessivos certificados, num periodo de tempo determinado pelo requerente, ou permitir a
+
+ 
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT [| TEL: +351 213 928 400 | FAX: +351 213 976 832
+Processo PAR/2019/37 | tv,
+
+consulta por terceiros que detenham esse cddigo de acesso durante a sua vigéncia. O titular
+da informacao pode pedir em qualquer momento o cancelamento do codigo de acesso (cf.
+
+aditamento de um novo artigo 25.°-A).
+
+De acordo com o articulado do Anteprojeto, o cddigo de acesso ao registo criminal e ao
+registo de contumazes pode ser pedido diretamente pelo titular dos dados, presencialmente
+ou através de plataforma eletrénica em linha, ou por um seu representante com legitimidade
+para o efeito nos termos da lei de identificagao criminal (v.g. ascendentes de titular menor ou
+tutor ou curador de titular incapaz); bem como por qualquer terceiro expressamente autorizado
+
+por escrito para esse ato pelo titular (cf. n.° 1 do artigo 22.° do Anteprojeto).
+
+No pedido do cédigo de acesso, deve ser indicada a finalidade do acesso. E emitido um
+certificado, atualizado, quando é solicitado um cddigo de acesso pelo titular (ou por um seu
+representante) e sempre que houver um acesso a informacao por quem detenha o codigo de
+
+acesso ao registo e o utilize no decurso do respetivo periodo de vigéncia.
+
+Nos termos do n.°4 do artigo 19.° do Anteprojeto, o cddigo de acesso é facultado em
+certificado do registo criminal ou do registo de contumazes, emitido quando do pedido. O n.°
+7 do mesmo artigo prevé que o titular possa facultar o codigo de acesso a entidade que haja
+solicitado a apresentacao de certificado do registo em causa, 0 que preenche, para todos os
+
+efeitos legais, a exigéncia legal de apresentacao do certificado.
+
+Il. Apreciagao
+
+O Anteprojeto procede a terceira alteracao ao Decreto-Lei 171/2015, por forma a consagrar
+este novo conceito de cddigo de acesso ao registo criminal e ao registo de contumazes e a
+introduzir as adaptacdes necessdarias (...) nesta nova elapa da sua moderniza¢ao, a qual
+decorre de uma medida inserta no Programa Simplex — segundo se pode ler no preambulo do
+
+Anteprojeto.
+
+A este propdsito, e porque se encontra ainda a decorrer o procedimento legislativo que ira
+permitir legitimar modificagdes no acesso ao registo criminal e ao registo de contumazes, a
+CNPD nao pode deixar de manifestar estranheza pelo facto de, neste preciso momento, ja ser
+possivel obter um certificado de registo criminal mediante um codigo de acesso, tal como
+
+consta de informacao prestada em sitio da Internet do Ministerio da Justicga:
+
+fb
+Processo PAR/2019/37 | 2
+
+ 
+  
+
+ 
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+«O certificado pode ser consultado online, por qualquer pessoa, através de um cddigo de
+
+acesso que pode ser encontrado no préprio certificado»’.
+
+Com efeito, apondo um cédigo de acesso de 16 caracteres, ja é possivel consultar um
+
+certificado de registo criminal2, ao arrepio do atual regime juridico da identificacao criminal.
+
+Apesar da evidente consumac4o do facto, voltemos ao texto do Anteprojeto para analisar o
+
+alcance das alteracdes propostas.
+
+Basicamente, pretende-se facilitar o acesso a informagao constante do registo criminal e do
+registo de contumazes, transpondo para este contexto uma pratica ja vulgarizada noutro tipo
+de registos (cf. pessoas coletivas). A justificagao prende-se com a facilidade que pode
+representar para o cidadao ou a empresa facultar um codigo de acesso a quem exija a
+apresentacao de certificado de registo em ocasiées sucessivas em cumprimento de uma
+obrigagao legal.
+
+De facto, nao é feita neste aspeto nenhuma destringa entre o cidad&o e a empresa, quando,
+na verdade, o acesso a informacdo de pessoas singulares pode ter um impacto real nos
+
+direitos, liberdades e garantias dos individuos.
+
+Apesar de estarem legalmente definidas as situagdes em que é exigivel a apresentacdo de
+um certificado de registo criminal de pessoa singular, existe uma enorme apeténcia por este
+tipo de informagao em contextos profissionais variados, 0 que pode implicar uma certa coacdo
+
+sobre o cidadao, trabalhador ou candidato a emprego ou a prestagao de um qualquer servico.
+
+E de salientar que a inexisténcia de antecedentes criminais, ou seja, um certificado de registo
+criminal “sem registo” constitui por si s6 uma informagao de caracter pessoal, que é
+frequentemente exigida em condi¢oes nao previstas pela lei e em que existe um claro
+desequilibrio entre as partes em causa, o que pode resultar num verdadeiro obstaculo a
+
+liberdade de recusar tal intimacdo.
+
+O facto de o titular dos dados estar habilitado a fornecer um codigo de acesso que permitira
+a qualquer terceiro aceder, sem mais nenhum requisito, ao seu registo criminal, em qualquer
+altura, podendo inclusive partilhar esse codigo com outros (por exemplo, com empresas do
+
+mesmo grupo empresarial ou empresas parceiras) sem controlo ou conhecimento por parte
+
+ 
+
+https://justica.gov.pt/Servicos/Pedir-e-consultar-registo-criminal-de-pessoas
+eee eer falr-e-consultar-registo-criminal-de-pessoas
+
+https://registocriminal justica.gov.pt/consulta-de-certificado-do-registo-criminal
+EE SEN PUCONSUlla-GE-CEMMNCadO-d0-registo-criminal
+
+ 
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928 400 | FAX: +351 213 976 832
+Processo PAR/2019/37 | 2v.
+
+do titular, representa um acesso desajustado e desproporcionado a dados pessoais, em
+
+violacdo da alinea c) do n.° 1 do artigo 5.° do RGPD.
+
+A limitagao do acesso ao periodo de vigéncia do cdédigo de acesso nao constitui em si mesma
+uma restricao ao acesso a informacao. Em primeiro lugar, o Anteprojeto preve que o titular
+dos dados defina qual 0 periodo de duraga&o do cddigo de acesso, mas nao regula nenhum
+prazo maximo ou minimo. Como em cada acesso € emitido um novo certificado de registo,
+atualizado ao momento do acesso, deixou até de se colocar a questao da vigéncia de 3 meses
+do préprio certificado de registo criminal, o que significa que um codigo de acesso pode ter a
+vigéncia de varios anos, permitindo multiplos acessos, mesmo que nao se verifique, no caso
+concreto, o cumprimento de uma obrigacg4o legal. Isso nao é escrutinavel, nem pelos Servi¢os
+
+de identificacao criminal nem pelo proprio titular.
+
+Por outro lado, o requisito legal de indicar a finalidade do acesso, aquando do pedido do
+codigo, e todos os acessos subsequentes a informagao serem reconduzidos a finalidade
+inicialmente declarada pelo requerente titular dos dados, embora positivo, nao é
+suficientemente limitativo de uma utilizacao abusiva da informagao relativa ao registo criminal,
+uma vez que as finalidades so descritivas e nao obedecem a uma lista pré-definida que se
+
+cinja as situagdes legalmente admissiveis.
+
+Da-se aqui por integralmente reproduzido o ja afirmado pela CNPD, no ponto II.4, do seu
+Parecer 58/2015, de 14 de julho, sobre o projeto de diploma que veio a regulamentar o regime
+juridico da identificagao criminal, através do Decreto-Lei n.° 171/2015, que agora se vem
+alterar: « (....) seria vantajoso, por motivos de clareza e evidéncia, que estivesse expresso Oo
+elenco de finalidades para que sao solicitados e emitidos os varios certificados de registo
+
+(...)».
+
+Essa insuficigncia mantém-se no atual quadro legal e nao restringe, assim, de forma
+inequivoca os fins do acesso a informagao dos registos, abrindo a porta a uma utilizagao dos
+dados para finalidades diferentes das legalmente admitidas, em desconformidade com a
+alinea b) do n.° 1 do artigo 5.° do RGPD.
+
+Por todas as razées acima explanadas, nao se pode concordar com a possibilidade acrescida
+de ser um terceiro a realizar o pedido de um cédigo de acesso, mesmo que autorizado pelo
+
+titular dos dados com menc@o da finalidade do acesso (cf. n.° 3 do artigo 22.° do Anteprojeto).
+
+r
+Processo PAR/2019/37 | 3
+
+ 
+  
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+Desde logo, nao se prevé que seja o titular dos dados a autorizar também o periodo de
+vigéncia do cddigo de acesso, sendo assim deixado a discricionariedade desse terceiro definir
+
+a duracao do cddigo de acesso.
+
+Com efeito, nado se encontra justificada a razdo de ser desta norma e nada é regulado sobre
+quem recebe o codigo de acesso nestas circunstancias, se o requerente terceiro, se o titular
+da informagao, sendo de presumir que a resposta € retornada a quem apresenta o
+requerimento. Considera-se ser esta disposicdo legal demasiadamente aberta, afastando
+
+ainda mais 0 controlo do titular sobre a sua informacgao pessoal.
+
+Este novo conceito de cddigo de acesso podera ser porventura justificado no caso das
+
+empresas, mas nao foi de todo demonstrada a sua necessidade no caso dos cidadaos.
+
+O artigo 10.° do RGPD reconhece a especial sensibilidade deste tipo de dados pessoais e
+confere-lhe, por isso, uma protecdo reforcada ao nivel das condigdes de licitude do seu
+
+tratamento e exigindo as garantias adequadas para os direitos e liberdades dos titulares.
+
+Ora resulta desta proposta uma banalizagao do acesso a informacdo pessoal do registo
+criminal e do registo de contumazes, que faz perigar as balizas legalmente estabelecidas
+sobre a legitimidade do acesso, prestando-se a consultas excessivas, potencialmente
+forgando a livre vontade do titular e dificilmente verificaveis pelo titular e pelos servicos de
+identificagao criminal.
+
+Deste modo, para minorar esta situagao, o Anteprojeto deveria, pelo menos, prever que o
+titular dos dados pudesse conhecer, mediante pedido (inclusive on/ine), a identidade de quem
+acedeu, e€ quando, ao seu registo usando um codigo de acesso. Essa informacdo é
+aparentemente conservada’, nos termos da redacdo proposta para os n.°s 3 e 4 do artigo
+30.°, pelo prazo de seis meses apés o termo da vigéncia do cdédigo de acesso que permitiu a
+emissao de certificado.
+
+A eventual benevoléncia em desenvolver um sistema moderno e simplificador da vida dos
+cidadaos deve ter em devida conta os riscos de o converter num instrumento de utilizagdo
+abusiva e discriminatéria por terceiros, com claro prejuizo para os direitos, liberdades e
+
+garantias desses mesmos cidad4os.
+
+rere rrert—prprerera—iiry
+
+* Se a origem dos acessos significar que € possivel identificar a pessoa que acedeu ao registo com cédigo de
+acesso.
+
+ 
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213.928 400 | FAX: +351 213 976 832
+Processo PAR/2019/37
+
+lll. Conclusao
+
+Com os fundamentos acima expostos, a CNPD considera que o Anteprojeto de Decreto-Lei
+que altera o regime juridico de identificagao criminal deveria ser revisto no quer diz respeito a
+
+sua aplicabilidade as pessoas singulares, nos seguintes aspetos:
+
+1. Deveria ser seriamente ponderada a disseminacao da pratica do codigo de acesso ao
+registo como meio de aceder a informagao do registo criminal e do registo de
+contumazes no caso especifico de pessoas singulares, atento o potencial impacto
+
+negativo que pode dai resultar para os direitos, liberdades e garantias dos cidadaos;
+
+2. Caso se opte, ainda assim, por essa modalidade de acesso, deve o legislador nacional,
+em conformidade com as exigéncias do RGPD, adotar as garantias adequadas para
+
+minimizar os riscos que este tipo de tratamento de dados comporta, designadamente:
+
+a. Impor um prazo maximo, nao muito dilatado, para a vigéncia do cddigo de
+acesso, para garantir uma maior controlabilidade do acesso a informagao por
+
+parte do titular;
+
+b. Otitular dos dados deveria poder conhecer, mediante pedido feito aos servigos
+de identificacao criminal (inclusive online), a identidade de quem acedeu e
+quando a informacdo que Ihe diz respeito relativa aos certificados de registo
+
+criminal ou de registo de contumazes, por meio de um codigo de acesso;
+
+c. Nd&o deveria ser possivel um terceiro, mesmo que autorizado pelo titular dos
+
+dados, requerer um codigo de acesso;
+
+3V.
+
+r
+Processo PAR/2019/37 | 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+/ COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+d. No entanto, nessa eventualidade, deveria o titular dos dados poder definir na
+autorizagao prévia que da, tanto a finalidade do acesso, como o prazo de
+
+vigéncia do cdédigo de acesso:
+
+e. Ainda, nesse caso, 0 cddigo de acesso sé deveria ser facultado ao seu titular
+
+e€ nao ao requerente terceiro.
+
+Lisboa, 2 de julho de 2019
+
+A Presidente,
+
+/
+
+Filipa Calvao
+
+ 
+
+ 
+
+ 
+
+Av. D. CARLOS I, 134- 1° [| 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928 400 | FAX: +351 213 976 832

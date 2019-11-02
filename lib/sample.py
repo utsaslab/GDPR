@@ -62,7 +62,7 @@ def main():
     os.environ['gh-repo-name'] = 'GDPR'
 
     gdpr = GDPR()
-    dpa = gdpr.get_dpa(GDPR.EU_MEMBER.POLAND)
+    dpa = gdpr.get_dpa(GDPR.EU_MEMBER.PORTUGAL)
 
     now = datetime.datetime.now()
     data_path = '../data/{date}/'.format(date='09-25-2019') # prod: now.strftime("%m-%d-%Y")

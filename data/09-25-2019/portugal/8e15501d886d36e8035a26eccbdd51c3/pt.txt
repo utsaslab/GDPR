@@ -1,0 +1,168 @@
+Processo n.? PAR/2019/12 | 4 /~
+
+ 
+  
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+PARECER/2019/10
+I. Pedido
+
+A Camara Municipal do Cartaxo vem solicitar 4a Comissao Nacional de Protecc4o de Dados
+(CNPD) que se pronuncie sobre o projeto de «Regulamento de transmissao audio/video em
+
+direto e online das reunides dos orgaos do Municipio do Cartaxo».
+
+O pedido formulado e o parecer ora emitido decorrem das atribuicées e competéncias da
+CNPD, enquanto entidade administrativa independente com poderes de autoridade para o
+controlo dos tratamentos de dados pessoais, conferidos pela alinea c) do n.° 1 do artigo 57.°
+e pelo n.° 4 do artigo 36.° do Regulamento (UE) 2016/679, de 27 de abril de 2016
+(Regulamento Geral sobre a Protegao de Dados —- RGPD), em conjugacdo com o disposto no
+n.° 1 do artigo 21.° eno n.° 1 do artigo 22.°, ambos da Lei n.° 67/98, de 26 de outubro, alterada
+pela Lei n.° 103/2015, de 24 de agosto (Lei de Protecao de Dados Pessoais — LPDP).
+
+H. Apreciagao
+
+O Regulamento tem por objeto a filmagem e a transmissdo audio/video em direto e online das
+reunides dos orgaos do Municipio do Cartaxo, para que a transmissdo seja visionada no sitio
+
+da internet do Municipio.
+
+A referida transmissao em direto corresponde a um tratamento de dados pessoais, nos termos
+das alineas 1) e 2) do RGPD, por implicar a recolha e divulgacdo de informagao relativa a
+pessoas singulares identificadas ou identificaveis. Essa informac&o compreende nao apenas
+a imagem das pessoas, o que revela inclusive o local e contexto em que se encontram em
+determinado momento, como também o conteUdo das suas declaragé6es, as quais podem
+expor, entre outros dados pessoais, aspetos da vida privada dos declarantes ou de terceiros
+
+e revelar conviccgées politicas, filosdficas ou de outra natureza.
+
+Nessa medida a referida divulgagao afeta, para além do direito a imagem, o direito a protegao
+dos dados pessoais e é suscetivel, em funcdo do contetido das declaragdes proferidas, de
+afetar o direito a reserva da vida privada (cf. n.° 1 do artigo 26.° e artigo 35.° da Constituicao
+
+da Republica Portuguesa).
+
+Ora, nao existindo norma legal que preveja especificamente este tratamento de dados e nem
+
+norma legal que reconhec¢a as autarquias locais uma especifica func3o de divulgacao
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213.928 400 | FAX: +351 213 976 832
+Processo n.° PAR/2019/12 | Av.
+
+mediatica da sua atividade plenaria habitual’, o consentimento prévio e expresso de todos as
+pessoas abrangidas pela filmagem e transmissao aparece como unica condicdo suscetivel de
+
+legitimar o referido tratamento de dados.
+
+Assim, a CNPD assinala a conformidade com o RGPD do disposto na alinea a) do artigo 2.°
+do Regulamento, onde se faz depender a licitude do referido tratamento do consentimento por
+parte dos intervenientes nas reunides, o qual deve respeitar as exigéncias da alinea 11) do
+artigo 4.° do RGPD - cf. alinea a) do n.° 1 do artigo 6.° e a alinea a) do n.° 2 do artigo 9.° do
+RGPD.
+
+A CNPD recorda que o referido consentimento deve ser recolhido nao apenas em relacao
+aqueles que, no exercicio de funcdes ou no exercicio do direito de participacao, facam
+declaragoes durante as reunides, como também em relacdo aos que exercem o mesmo direito
+
+de participacao através da mera presenga ou assisténcia naquelas.
+
+Apenas se recomenda a alteracdo da redagao na parte final do preceito, atualizando a
+referéncia ao diploma legal: considerando a aplicacdo, desde 25 de maio de 2018, do RGPD,
+sugere-se a substituigao da expressao «nos termos da Lei de Protecao de Dados Pessoais»
+por 0s fermos do Regulamento Geral sobre a Protecao de Dados ou nos termos do regime
+Juridico de protecao de dados pessoais, uma vez que aquela formula é a que, tipicamente,
+
+identifica a Lei n.° 67/98, de 26 de outubro (em parte ja revogada pelo RGPD).
+
+No que diz respeito, as alineas b) e c) do artigo 2.°, especificamente dirigida aos municipes,
+a CNPD recomenda ainda que se preveja a garantia do direito de informacao, bem como um
+meio adequado de registar o consentimento daqueles, nado apenas para as reunides de
+Camara, mas também no ambito das reunides da Assembleia Municipal. Deve também
+especificar-se no modelo de declaragao de consentimento, transcrito na alfnea c), para além
+da transmissao da imagem, a transmissao de eventuais declaragcdes que os mesmos profiram
+
+se lhes for dada oportunidade para o efeito.
+
+' No que diz respeito a publicidade da atividade dos Orgaos autarquicos locais, a lei é clara em
+determinar quais sao os atos juridicos que merecem essa publicitacdo (artigo 56.° da Lei n.° 75/2013,
+
+de 12 de setembro - Regime Juridico das Autarquias Locais).
+
+/-
+Processo n.° PAR/2019/12 | 2
+
+ 
+  
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+Ainda a proposito do direito de informacao, a que se refere a alinea b) do artigo 2.°, assinala-
+se a importancia de se alertar especificamente para o facto de as imagens e som, uma vez
+
+disponibilizados on /ine, serem suscetiveis de ser reutilizados e difundidos por terceiros.
+
+Em relagao ao artigo 3.°, assinala-se, na alinea c), a previsao do dever de adocgao de medidas
+de seguranga. Apesar de os termos da sua previsdo serem genéricos, pouco acrescentando
+a obrigagao imposta pelo RGPD (artigo 24.°), ndo deixa de se sublinhar a importancia da
+ado¢gao de medidas que garantam a integridade dos contetidos durante a transmissao, pelo
+que a referéncia a medidas para prevenir a alteracdo das imagens e som transmitidos se
+afigura pertinente. Ja nao sera tao pertinente, pela natureza das coisas (decorrente da
+disponibilizagao da informagao na Internet), a refer€ncia ao objetivo de prevenir a d/fusao ou
+O acesso nao autorizados as imagens e som. A CNPD recomenda, por isso, a eliminagao
+
+desta referéncia.
+
+Ainda no contexto do mesmo artigo 3.°, importa reformular o disposto na alinea d), pela
+
+confusao que pode gerar na aplicacao.
+
+Na verdade, o RGPD refere-se a /nteresses vitais dos titulares dos dados pessoals, mas com
+o sentido de caracterizar as situagdes em que ha risco de vida dos titulares dos dados e os
+mesmos nao estao em condicdes de consentir num tratamento de dados pessoais que pode
+ser instrumento para combater aquele risco — trata-se de uma condi¢ao de licitude dos
+tratamentos de dados por regra referentes a satide dos respetivos titulares, prevista na alinea
+c) do n.° 2 do artigo 9.°.
+
+Ora, no contexto das reunides municipais, presume-se que nao sera normal que o tratamento
+de dados pessoais concretizado com a transmissdo das mesmas possa interferir com a
+integridade fisica e vida (no sentido de a poder pdr em risco) dos intervenientes nas reunides.
+Nao obstante, admite-se que se pretenda aqui Salvaguardar o poder de suspender ou proibir,
+parcial ou totalmente, a transmiss&o das reunides, para acautelar situagdes em que os direitos
+e interesses dos titulares dos dados pessoais se afirmem de modo premente, prevalecendo
+sobre o interesse de informagao da populacdo subjacente a esse tratamento de dados — como
+podera suceder quando o assunto ou as declaracdes que forem sendo produzidas incidam
+sobre dimensGes especialmente sensiveis da vida das pessoas visadas. Essa previsao e, na
+perspetiva da protecao de dados pessoais, fundamental, pelo que a CNPD apenas recomenda
+
+a revisao da redac¢ao da alinea c) do artigo 3.°, aclarando o sentido da mesma. Sugere, a este
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928 400 | FAX: +351 213 976 832
+Processo n.° PAR/2019/12
+
+proposito, que onde se menciona «[...] quando se torne necessario proteger interesses vitais
+dos titulares dos dados e as circunstancias 0 exijam [...]» passe a referir-se: [...] quando as
+concretas circunstancias demonstrem a necessidade de proteger os direitos ou interesses
+
+prevalecentes dos titulares dos dados, |...].
+
+Hl. Conclusao
+
+Com os fundamentos acima expostos, a CNPD considera que o Regulamento em apreco esta
+em conformidade com o RGPD, no que diz respeito a condi¢ao de licitude do tratamento — no
+
+caso o consentimento dos intervenientes na reuniao.
+
+Considera ainda que outros aspetos do regime devem ser melhorados, designadamente o
+
+disposto nos artigos 2.° e 3.° do Regulamento, nos termos acima explicitados.
+
+Lisboa, 26 de fevereiro de 2019
+
+L7a-
+
+Fillpa Calvao (Presidente)
+
+QV.

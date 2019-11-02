@@ -1,0 +1,227 @@
+i
+
+Processo n.° 10851/2018 | |
+
+ 
+
+ 
+  
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+PARECER/2019/12
+I. Pedido
+
+A Diregao-Geral da Segurancga Social (DGSS) do Ministério do Trabalho, Solidariedade e
+Segurang¢a Social solicita € Comissao Nacional de Protegao de Dados (CNPD) a emissao de
+parecer sobre a Convengao de Seguranca Social entre Portugal e o Canada que se
+
+pretende que venha a substituir e revogar a atualmente em vigor.
+
+O pedido formulado e o parecer ora emitido decorrem das atribuigdes e competéncias da
+CNPD, enquanto entidade administrativa independente com poderes de autoridade para o
+controlo dos tratamentos de dados pessoais, conferidos pela alinea c) do n.° 1 do artigo 57.°
+e pelo n.° 4 do artigo 36.° do Regulamento (UE) 2016/679, de 27 de abril de 2016
+(Regulamento Geral sobre a Protecao de Dados — RGPD), em conjugagao com o disposto
+no n.° 1 do artigo 21.° e no n.° 1 do artigo 22.°, ambos da Lei n.° 67/98, de 26 de outubro,
+alterada pela Lei n.° 103/2015, de 24 de agosto (Lei de Protegao de Dados Pessoais -
+LPDP).
+
+Il. Objetivos da Convencdo
+
+Com a presente proposta de Convencao as Partes desejam desenvolver as relacdes no
+dominio da seguranga social entre si, consagrando principios e regras que garantam o
+respeito pelos direitos adquiridos e os direitos em curso de ser adquiridos ao abrigo da
+legislagao nacional aplicavel. Pretende-se abranger os regimes aplicaveis a generalidade
+dos trabalhadores por conta de outrem, trabalhadores independentes e regimes de inscricado
+
+facultativa do sistema previdencial.
+
+O projeto de convengao, no artigo 20.°, prevé ainda a celebracao de acordos administrativos
+
+que concretizem as medidas necessarias 4 execucdo da mesma.
+
+Ill. | Contratagao internacional e transferéncia de dados pessoais
+
+A presente Convengao pressupde transferéncias e troca de dados pessoais entre as
+autoridades competentes portuguesas e canadianas, como decorre claramente do artigo
+
+22.° do projeto em apreco. A luz da alinea 1) do artigo 4.° do RGPD, os dados objeto de
+
+Av. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT [| TEL: +351 213 928 400 | FAX: +351 213 976 832
+Processo n.° 10851/2018 | Iv.
+
+transferéncia constituem dados pessoais, pelo que, nos termos do artigo 46.° do RGPD, a
+Republica Portuguesa so pode realizar transferéncias de dados pessoais para um pais
+terceiro situado fora da Uniao Europeia, como o Canada, se esse pais apresentar garantias
+
+adequadas, e na condicao de os titulares dos dados gozarem de direitos oponiveis.
+
+Assim, importa antes do mais analisar se o Canada assegura um nivel de protecao
+
+adequado.
+
+IV. | Protegao de dados pessoais no Canada
+
+A existéncia de uma lei de protecao de dados pessoais e de uma entidade administrativa
+independente com atribuicdes de garantir o cumprimento interno dos instrumentos juridicos
+internacionais de aplicagao em matéria de dados pessoais sao condi¢goes essenciais para o
+
+reconhecimento de um nivel de protecao adequado de um Estado terceiro.
+
+O Canada possui duas leis federais de protecao de dados, Privacy Act e a Personal
+Information Protection and Electronic Documents Act?. O Privacy Act entrou em vigor no dia
+1 de Julho de 1983 impondo deveres aos servicos publicos em relacao ao respeito pela vida
+privada e o Personal Information Protection and Electronic Documents Act (PIPEDA), em
+vigor desde 1 de Janeiro de 2004, estabeleceu as grandes linhas orientadoras do setor
+privado em materia de protegcao de dados. E dispde de uma autoridade publica denominada
+Office of the Privacy Commissioner of Canada (OPC), liderada por uma personalidade
+designada pelo Governo mediante concordancia do Senado e da Camara dos Comuns. O
+Privacy Commissioner pode ser destituido pelo mesmo orgao que o designou no caso da
+Sua conduta se revelar inadequada (Seccao 53.%, subseccao 2.* do Privacy Act) nao
+obstante a lei refere a autonomia de funcionamento do Privacy Commissioner em relagao ao
+poder executivo e apresenta um vasto elenco de atribuigdes relacionadas com a fiscalizagao
+e a garantia de aplicacao da lei (cf. seccao 34.°, subsec¢ao 3.7). A aplicagao das normas em
+vigor no Canada eé também garantida pelo recurso aos tribunais nos termos das secgdes
+12.2 e 14.2 da PIPEDA.
+
+1 Disponiveis nas suas versdes- eletrdnicas in  http://laws-lois.justice.gc.ca/PDF/P-21.pdf ee
+http://www.parl.gc.ca/content/hoc/Bills/362/Government/C-6/C-6_4/C-6_4.pdf, respetivamente.
+Processo n.° 10851/2018 | 2
+
+©
+
+ 
+
+ 
+  
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+Embora a Comissao Europeia, através da Decisdo 2002/2/CE2, tenha reconhecido como
+adequado o nivel de protecdo conferido pela lei no Canada, limitou esse reconhecimento as
+transferéncias de dados da Uniao para o Canada no setor privado. Assim, a Decisao da
+Comissao Europeia nao abrange o Privacy Act aplicavel ao setor publico, no qual estarao
+enquadradas algumas entidades publicas com competéncias no Ambito da Convenc¢ao que
+se pretende celebrar.
+
+E certo que, além daqueles dois diplomas que integram o ordenamento juridico do Canada,
+existem, ao nivel de estados federados, disposig6es legais que regulam a atividade dos
+servigos publicos e privados no que toca aos tratamentos de dados pessoais da sua
+responsabilidade, fazendo-se ai referéncia a uma autoridade responsavel pela aplicacao e
+fiscalizagao do cumprimento e execucdo dos instrumentos juridicos que visam a protecdo da
+
+vida privada dos cidadaos, com competéncias tanto no setor publico, como no privado.
+
+Todavia, uma vez que nao ha um conjunto de normas legais, do Estado federal e de todos
+os Estados federados, que preveja e garanta a vinculagao da Administracao Publica a
+regras de prote¢ao de dados pessoais e o controlo do seu respeito por parte de uma
+entidade administrativa independente, considera-se que o regime legal em matéria de
+proteg¢ao de dados oferecido pelo Canada, apesar de nalgumas areas de atividade ser
+satisfatorio, nao garante um nivel de protecdo de dados adequado em todos os dominios de
+
+aplicagao do presente projeto de Convencdo em analise.
+
+Nesta medida, devera o texto da Convencdo conter as normas essenciais em matéria de
+protegao de dados, obrigando as Partes ao seu cumprimento, suprindo assim as
+deficiéncias da legislagao nacional do Canada e dando cumprimento as exigéncias da
+legislagao portuguesa.
+
+V. Texto da proposta de Convencdo
+
+O artigo 22.° da Convengao sob epigrafe “Protection of Personal Data” é 0 preceito mais
+importante em matéria de protecdo de dados, nos termos do qual as partes se
+
+comprometem a garantir a confidencialidade dos dados pessoais tratados, protegé-los de
+
+ 
+
+2 Decisfo da  Comissdo Europeia de 20 de  dezembro de 2001 disponivel in
+http:/Awww.cnpd.pt/bin/legis/internacional/DecCom20-1 1-01 -Canada.pdf
+Ee ee sg sintemacionavVecuomzy-11-071-Canada.pdf
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928400 | FAX: +351 213 976 832
+Processo n.° 10851/2018 | 2v.
+
+qualquer acesso ou comunicagao nao autorizada, e tomar medidas para manter a
+
+informagao segura e atualizada.
+
+Prevé-se igualmente que as partes nao possam transmitir para outros os dados recebidos
+sem o consentimento prévio escrito da parte que os transmitiu. Simplesmente, na medida
+em que se ressalva em varios pontos do artigo que os tratamentos de dados pessoais se
+realizarao em conformidade com a legislacao nacional das partes — parecendo inclusive
+bastar para a transmissao de dados a outros Estados tal previsao na legislacao nacional (cf.
+n.° 3 do artigo 22.°) —, tendo em conta que o Canada nao garante, na perspetiva europeia,
+protegao adequada dos dados pessoais tratados por entidades do setor publico, o disposto
+no artigo nao é suficiente para acautelar a protegao dos dados pessoais dos cidadaos cujos
+
+dados sejam transmitidos para as entidades administrativas do Canada.
+
+Assim, a Convengao devera conter normas especificas que visem garantir o respeito pela
+legislagao europeia de protecao de dados, comegando por clarificar que os dados tratados
+
+devem:
+
+1) Ser utilizados apenas para as finalidades explicitas da presente Convencdo, nao
+podendo em caso algum serem tratados de forma incompativel com essas
+
+finalidades em momento ulterior;
+
+2) Ser adequados, pertinentes e nao excessivos relativamente as finalidades para que
+
+sao recolhidos, transferidos e posteriormente tratados;
+
+3) Ser conservados de forma a permitir a identificacdo das pessoas em causa apenas
+durante o periodo necessario para a prossecucao das finalidades para que foram
+recolhidos ou para que sao tratados posteriormente, sendo  eliminados
+
+posteriormente;
+
+4) A transmissao dos dados pelo Estado recetor a Estados terceiros depende sempre
+
+da autorizagao do Estado parte que os transferiu.
+
+Deve ainda fazer-se expressa mencao ao dever de garantia do exercicio dos direitos
+
+fundamentais de informagao, de acesso e de retificacao.
+
+Acresce ainda que devera ficar prevista a possibilidade de os cidaddos recorrerem as
+entidades administrativas com competéncia para a protecao de dados, quando existam, e
+
+aos tribunais, caso se verifique eventual recusa no exercicio dos seus direitos.
+
+Ly
+Processo n.° 10851/2018 | 3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+os j “COMISSAO NACIONAL
+= DE PROTECAO DE DADOS
+
+VI. Conclusao
+
+Com os fundamentos acima expostos, a CNPD recomenda a revisao do artigo 22.° do
+Projeto de Convengao entre a Republica Portuguesa e o Canada sobre Seguranca Social,
+atraves da insercao de disposigdes especificas que estabelecam limites ao tratamento dos
+dados pessoais no que ao principio da finalidade e ao principio da proporcionalidade diz
+
+respeito, e que expressamente salvaguardem os direitos fundamentais dos titulares.
+
+Lisboa, 19 de marco de 2019
+
+fi——
+
+Filipa Calvao (Presidente)
+
+AV. D. CARLOS J, 134 - 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928 400 | FAX: +351 213 976 832

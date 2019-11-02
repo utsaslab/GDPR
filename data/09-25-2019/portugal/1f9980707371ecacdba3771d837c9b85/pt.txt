@@ -1,0 +1,165 @@
+Processo PAR/2019/56 | 1.
+
+   
+
+~ COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+PARECER/2019/57
+
+|. Pedido
+
+O Gabinete da Secretaria de Estado da Justica solicitou € Comissao Nacional de Protegao de
+Dados (CNPD) a emissao de parecer sobre o projeto de Portaria que visa proceder a
+regulamentacao das comunicacées eletronicas realizadas pelos tribunais judiciais dirigidas ao
+Banco de Portugal ao abrigo da alinea c) do n.° 6 do artigo 38.° e do n.° 2 do artigo 230.° do
+Codigo da Insolvéncia e da Recuperacdo de Empresas, aprovado pelo Decreto-Lei n.°
+93/2004, de 18 de marco.
+
+O pedido formulado e o parecer ora emitido decorrem das atribuig¢des e competéncias da
+CNPD, enquanto autoridade nacional de controlo dos tratamentos de dados pessoais,
+conferidos pela alinea c) do n.° 1 do artigo 57.° e pelo n.° 4 do artigo 36.° do Regulamento
+(UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016 (Regulamento
+Geral sobre a Protecao de Dados - RGPD), em conjugagao com o disposto no artigo 3.°, no
+
+n.° 2 do artigo 4.° e da alinea a)do n.° 1 do artigo 6.°, todos da Lei n.° 58/2019, de 8 de agosto.
+
+A apreciagao da CNPD cinge-se as normas que preveem ou regulam tratamentos de dados
+
+pessoals.
+
+Il. Apreciacao
+
+O Decreto-Lei n.° 97/2019, de 26 de julho, que entrou em vigor a 16 de setembro de 2019,
+veio alterar o regime de tramitacdo eletrénica dos processos judiciais previstos no Codigo de
+Processo Civil, tendo-se a CNPD pronunciado sobre o projeto de diploma em causa através
+do Parecer n.° 22/2019, de 15 de abril.
+
+Nos termos do n.° 5 do artigo 132.° (Processo Eletronico) do referido Decreto-Lei, as
+comunicagoes entre tribunais e entidades publicas podem ser efetuadas por via eletrdénica,
+através do envio de informacao estruturada e da interoperabilidade entre o sistema de
+informagao de suporte a atividade dos tribunais e os sistemas de informacao das referidas
+entidades, nos termos previstos em portaria dos membros do Governo responsaveis pela area
+
+da justica e pela entidade publica em causa.
+
+Como decorre do preambulo do presente projeto de Portaria, com a publicagao do Decreto-Lei
+
+n.° 97/2019, de 26 de julho consideram-se criadas as condicoes para a implementacao de
+
+AV. D. CARLOS I, 1384- 1° | 1200-651 LISBOA | WWwW.CNPD.PT | TEL: +351 213928400 | FAX: +351 213 976 832
+Processo PAR/2019/56
+
+diversas medidas que respeitam a simplificagao e desmaterializagdo das comunicacées entre
+
+os tribunais e as entidades publicas.
+
+O presente Projeto de Portaria concretiza uma dessas medidas ao prever que sejam
+efetuadas por via eletrénica as comunicagées dos tribunais judiciais dirigidas ao Banco de
+Portugal previstas na alinea c) do n.° 6 do artigo 38.° e do n.° 2 do artigo 230.° do Cddigo da
+Insolvéncia e da Recuperagao de Empresas, aprovado pelo Decreto-Lei n.° 53/2004, de 18
+de margo, a saber, a declaragao de insolvéncia para efeitos de inscricao na central de riscos
+de crédito e a decisao de encerramento do processo, bem como a anulac&o ou revogacao da
+sentenga, a desisténcia do pedido ou da instancia ou o encerramento desta, a notificacao do
+despacho inicial ou final de exoneragao do passivo restante, a notificacao do despacho de
+cessacao antecipada ou de revogacao da exoneracao do passivo restante e o despacho de
+
+confirmagao pelo juiz do fim do periodo de fiscalizacao.
+
+Constata-se, no entanto, que o artigo 2.° do projeto de Portaria se limita a referir que tais
+comunicagoes sao efetuadas por via eletrdnica, através do envio de informacao estruturada
+e de documentos eletronicos entre o sistema de suporte a atividade dos tribunais e o sistema
+de informagao do Banco de Portugal. Ora, tal disposicao normativa revela-se manifestamente
+insuficiente para garantir o cumprimento dos principios relativos aos tratamentos de dados
+pessoais, em especial do principio da minimizagcao de dados pessoais, concretizacao do
+
+principio da proporcionalidade, consagrado na alinea c) do n.° 1 do artigo 5.° do RGPD.
+
+Importa, pois, que o projeto de Portaria defina com precisao os termos em que tal tratamento
+de dados pessoais se pode concretizar, especificando quais sao as categorias de dados
+pessoais envolvidas nas transmiss6des de informagao entre os tribunais judiciais e o Banco de
+Portugal e especificando os tipos de documentos transmitidos eletronicamente. De outro
+modo, a CNPD nao pode apreciar nem concluir pela proporcionalidade dos dados a tratar,
+nos termos do disposto na alinea c)do n.° 1 do artigo 5.° do RGPD. A CNPD recomenda, por
+isso, a densificagao do artigo 2.° do projeto de Portaria por forma a conter as especificacdes
+
+referidas.
+
+Note-se que o artigo 2.° do projeto refere que o envio da informacdo entre o sistema de
+informagao de suporte a atividade dos tribunais e o sistema de informacdo do Banco de
+Portugal sera efetuada nos termos de protocolo a celebrar entre o Instituto de Gestdo
+Financeira e Equipamentos da Justi¢a, IP e o Banco de Portugal, sem, contudo, ser feita
+
+menc¢ao a previa consulta da CNPD.
+
+1v.
+
+ya
+Processo PAR/2019/56 | 2 i
+
+ 
+  
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+A CNPD recorda que os protocolos, na medida em que correspondem a atos juridicos de
+entidades publicas que definem regras vinculativas para as partes quanto a tratamentos de
+dados pessoais, tem natureza de regulamento administrativo. Nessa medida, nos termos do
+n.° 4 do artigo 36.° e da alinea c) do n.° 1 do artigo 57.° do RGPD, tém de ser sujeitos a
+apreciacgao prévia da CNPD. Para que nao restem duvidas quanto a tal dever, a CNPD sugere
+
+a sua explicitagao no texto do artigo.
+
+Por sua vez, 0 artigo 3.° do projeto de Portaria levanta questoes particularmente relevantes
+relativamente a seguranga das comunicacées em causa, uma vez que apenas refere que os
+sistemas de suporte a atividade dos tribunais e o sistema de informacgao do Banco de Portugal
+garantem o respeito pelas normas de seguranca e@ de acesso a informacao por forma a
+assegurar a contidencialidade dos dados. Estranha-se que a norma seja totalmente omissa
+relativamente as medidas de seguranca envolvidas na transmissao dos dados, nao
+especificando, desde logo, se a transmissao é efetuada em rede publica ou privada. Estranha-
+se ainda que o preceito normativo utilize uma formulagao notoriamente vaga para se referir a
+confidencialidade dos dados sem concretizar a forma como a mesma é garantida. Assim, em
+obediéncia ao principio da integridade e confidencialidade previsto na alinea 7) do n.° 1 do
+artigo 5.° do RGPD, a CNPD recomenda a alteracdo do artigo 3.° do projeto de Portaria por
+
+forma a conter as medidas de seguranca envolvidas neste tratamento de dados pessoais.
+
+Por ultimo, o n.° 2 do artigo 3.° do projeto de Portaria faz refer€ncia a “registos eletrénicos
+necessarios ao conhecimento das comunicacées efetuadas” nado sendo claro se estes registos
+tém como finalidade o registo de atividade (/ogs). Salienta-se que os sistemas de informacao
+devem possuir mecanismos que permitam registar e auditar a atividade, nomeadamente a
+que diz respeito as transmissdes de informagao para outros organismos. Pela importancia que
+oO registo (/og) de atividade tem no Ambito de auditorias e de fiscalizagao, sugere-se a inclusao
+
+neste artigo do dever de registar tais interacdes.
+
+Ill. Conclusao
+
+Com os fundamentos acima expostos, para que o Projeto de Portaria cumpra o comando
+legislativo contido no n.° 5 do artigo 132.° do Decreto-Lei n.° 97/201 9, de 26 de julho, a CNPD
+recomenda:
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832
+Processo PAR/2019/56 | 2v.
+
+1 — A densificagao do artigo 2.° do projeto de Portaria, especificando as categorias de dados
+pessoais envolvidas nas transmissées de informacao entre os tribunais judiciais e o Banco de
+
+Portugal, bem como os tipos de documentos transmitidos eletronicamente;
+
+2 — A consagragao expressa da obrigatoriedade de o protocolo referido no mesmo artigo ser
+
+sujeito a apreciagao prévia da CNPD:
+
+3 — A reformulagao do artigo 3.° do projeto de Portaria, por forma a conter as medidas de
+
+seguranga envolvidas neste tratamento de dados pessoais:
+
+4 —Aclarificagao do n.° 2 do artigo 3.° no sentido de incluir o dever do registo (/og) de atividade.
+
+Lisboa, 17 de setembro de 2019
+
+—
+
+Filipa Calvao (Presidente)

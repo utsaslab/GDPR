@@ -1,0 +1,178 @@
+Processo PAR/2019/64 | 1 f
+
+  
+
+DE PROTECAO DE DADOS
+
+PARECER/2019/72
+|. Pedido
+
+A Secretaria de Estado Adjunta e da Administracdo Interna solicitou, no dia 14 de
+outubro de 2019, a emissao de parecer da Comissao Nacional de Protecao de Dados
+(CNPD) sobre 0 pedido, pela Policia de Seguranca Publica (PSP), «de autorizacao de
+utilizagao de camaras de video na monitorizacdo de incidentes decorrentes do WEB
+SUMMIT 2019 que decorreraé no Parque das NacGes, Lisboa - 04.11.2019 a
+07.11.2019».
+
+A utilizagao de sistemas de vigilancia por camaras de video pelas forgas e servicos de
+seguran¢a em locais publicos de utilizagao comum, para captacdo e gravacao de
+imagem e som e seu posterior tratamento é regulada pela Lei n.° 1/2005, de 10 de
+
+Janeiro, alterada e republicada pela Lei n.° 9/2012, de 23 de fevereiro.
+
+A instalagao de camaras fixas, nos termos desta Lei, esta sujeita a autorizacao do
+membro do Governo que tutela a forca ou servico de seguranca requerente, precedida
+de parecer da CNPD.
+
+Il. Apreciagao
+Nota prévia: Ambito da competéncia da CNPD
+
+Nos termos do n.° 2 do artigo 3.° da Lei n.° 1/2005, de 10 de janeiro, na redacao dada
+pela Lei n.° 9/2012, de 23 de fevereiro (doravante, Lei n.° 1/2005), o presente parecer
+da CNPD restringe-se a prontincia sobre a conformidade do pedido com as regras
+referentes a seguranca do tratamento dos dados recolhidos, bem como acerca das
+medidas especiais de segurang¢a a implementar, adequadas a garantir os controlos de
+entrada nas instalagoes, dos suportes de dados, da insercdo, da utilizagao, de acesso,
+da transmissao, da introdug&o e do transporte e também quanto a verificacao do
+cumprimento do dever de informac&o e perante quem os direitos de acesso e retificacao
+
+podem ser exercidos.
+
+De acordo com o disposto no mesmo preceito legal e nos n.°s 4, 6 e 7 do artigo 7.°
+daquela lei, € também objeto do parecer da CNPD o respeito pela proibicao de
+
+instalagao de camaras fixas em areas que, apesar de situadas em locais publicos,
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT [| TEL: +351 213 928400 | FAX: +351 213 976 832
+Processo PAR/2019/64 | 1v.
+
+sejam, pela sua natureza, destinadas a ser utilizadas em resguardo ou a utilizacao de
+camaras de video quando a captacao de imagens e de sons abranja interior de casa ou
+
+edificio habitado ou sua dependéncia.
+
+Deve ainda a CNPD verificar se estao assegurados, a todas as pessoas que figurem
+em gravacoes obtidas de acordo com a presente lei, os direitos de acesso e eliminacao,
+
+com as excecoes previstas na lei.
+
+Nos termos do n.° 7 do artigo 3.° do mesmo diploma legal, pode também a CNPD
+formular recomendagoes tendo em vista assegurar as finalidades previstas na lei,
+sujeitando a emissao de parecer totalmente positivo a verificacao do cumprimento pleno
+
+das suas recomendacoes.
+
+1. A tutela da reserva da intimidade da vida privada
+
+Pretende-se instalar e utilizar um sistema de videovigilancia, composto por catorze (14)
+camaras fixas, a maior parte delas com capacidade rotativa e todas com capacidade de
+zoom, na zona envolvente do pavilnhao Altice Arena, no Parque das Nac6ées, em Lisboa,
+especificando-se na fundamentacao constante do oficio da PSP que acompanha o
+pedido de parecer os locais exatos da sua instalagao e zona abrangida por cada uma
+
+delas.
+
+Nao cabendo a CNPD pronunciar-se sobre a adequacao e necessidade da utilizacao do
+referido sistema de videovigilancia no contexto descrito, a CNPD centra-se nos aspetos
+do tratamento de dados pessoais sobre os quais a lei Ihe reconhece competéncia
+
+consultiva.
+
+Um dos aspetos pertinentes para efeito de tutela da privacidade prende-se com a
+captagao de imagens de areas destinadas a ser utilizadas em resguardo e a captacao
+
+de imagens e de sons do interior de casa ou edificio habitado ou sua dependéncia.
+
+Afirma-se no oficio da PSP, que acompanha o pedido de parecer, que «Na captagao de
+imagens em locais que abranjam espacos privados ou deva ser preservada a reserva,
+intimidade das pessoas e da vida privada [...] € assegurada a colocacgao de mascaras,
+que impedem o seu visionamento e cuja manipulagao, remocgao ou desativacao nao é
+
+permitida aos operadores», acrescentando-se que «Todas as camaras de video [...]
+Processo PAR/2019/64 | 2
+
+   
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+permitem configurar definicao ldgica de mascaras nos locais em que é legalmente
+
+proibida a captagao de imagens» (cf. pontos II e III do referido documento).
+
+Apesar de a zona sobre a qual vai incidir o sistema de videovigilancia, integrar casas ou
+edificios destinados a habitagao, e embora esteja apenas declarada (e nao
+demonstrada) a colocagdo de mascaras ldgicas de modo a impedir o visionamento de
+imagens de espacos privados ou reservados, a CNPD considera respeitado o disposto
+no n.° 6 do artigo 7.° da Lei n.° 1/2005, no pressuposto de que tal seja efetivamente
+
+executado.
+
+Quanto a captacao de som, embora no oficio da PSP este ponto nao seja referido, no
+oficio informativo do Gabinete da Secretaria de Estado Adjunta e da Administracao
+Interna afirma-se em I.2. «sem que haja captacdo de som». Nesse pressuposto, também
+quanto a este aspeto, de acordo com o declarado, considera a CNPD estar respeitado
+O disposto no n.° 7 do artigo 7.° da Lei n.° 1/2005.
+
+2. Os direitos dos titulares dos dados
+
+No que diz respeito a garantia dos direitos dos cidaddos, declara-se que serao
+colocados avisos, em conformidade com o disposto na Portaria n.° 373/2012, de 16 de
+novembro (cf. ponto VI do oficio da PSP). Nestes termos, a CNPD considera garantido
+
+O direito de informagao previsto hoje no artigo 14.° da Lei n.° 59/2019, de 8 de agosto.
+
+Identifica-se também o responsavel pelo tratamento, especificando-se que junto do
+mesmo poderao os interessados exercer os seus direitos de acesso e eliminacao dos
+
+dados, previstos nos artigos 15.° e 17.° da mesma lei (cf. ponto IV do mesmo oficio).
+
+3. Caracteristicas técnicas das cAmaras e medidas de seguranca
+
+Sao ainda descritas medidas de seguranca quanto a captacdo, transmissdo e
+conservacao das imagens, bem como quanto ao acesso as mesmas, assinalando-se
+que a transmissao 6 encriptada e que as operacées realizadas sao objeto de registo,
+permitindo assim a auditoria das mesmas, conforme exige a Portaria n.° 372/2012, de
+
+16 de novembro (cf. ponto Ill e VII do oficio).
+
+Av. D. CARLOS I, 134- 1° [| 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832
+Processo PAR/2019/64
+
+Todavia, no que diz respeito as medidas de seguranca, importa ressalvar que na
+descrigao das formas de transmissao das imagens nao fica clara a adequacao das
+mesmas. Com efeito, declara-se no ponto III do officio da PSP que «As transmissées de
+imagens sao encriptadas, ocorrendo sobre Protocolo IP, por trés vias», que se enunciam
+em seguida. Mas nesse elenco apresentado figuram dois canais de comunicacao
+(cablagem UTP e link wireless ponto a ponto) cuja utilizac&o, s6 por si, nao garante a
+cifragem das comunicagoes. A tecnologia de LTE/4G, por seu lado, tem intrinseca a
+utilizagao de mecanismos criptograficos, o que esclarece melhor sobre a seguranca da
+
+comunicacao.
+
+Nao sendo claro que sejam aplicadas medidas de encriptagao em todo o processo de
+transmissao de imagens, a CNPD recomenda que a solucgdo de LTE/4G seja aplicada
+na transmissa@o das imagens ou, pelo menos, que as formas de comunicacdo
+enunciadas se revistam de medidas criptograficas que garantam a seguranca da
+
+informacao.
+
+E ainda declarado que as imagens ser3o conservadas no respeito pelo limite definido
+no n.° 1 do artigo 9.° da Lei n.° 1/2005.
+
+Ill. CONCLUSAO
+
+Com os fundamentos acima expostos e no estrito Ambito das suas competéncias, a
+CNPD nada tem a opor ao tratamento de dados decorrente da utilizacao de cAamaras de
+video na monitorizagao de incidentes decorrentes do WEB SUMMIT 2019, entre os dias
+4 e / de novembro de 2019, no pressuposto de que o tratamento decorra nas condicdes
+
+declaradas e que sejam adotadas medidas de seguranca adequadas.
+
+Lisboa, 29 de outubro de 2019
+
+< 4
+
+Filipa Calvao (Presidente)
+
+2V.

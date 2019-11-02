@@ -1,0 +1,300 @@
+Processo PAR/2019/35 | 1 /<
+
+ 
+  
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+PARECER/201 9/40
+|. Pedido
+
+O Gabinete da Ministra do Mar remeteu A Comissdo Nacional de Protecao de Dados
+(CNPD), para apreciacgao, o projeto de decreto-lei que estabelece o regime juridico da
+
+atividade profissional do maritimo.
+
+O pedido formulado e o parecer ora emitido decorrem das atribuicdes e competéncias
+da CNPD, enquanto entidade administrativa independente com poderes de autoridade
+para o controlo dos tratamentos de dados pessoais, conferidos pela alinea c) do n.° 1
+do artigo 57.° e pelo n.° 4 do artigo 36.° do Regulamento (UE) 2016/679 do Parlamento
+Europeu e do Conselho, de 27 de abril de 2016 (Regulamento Geral sobre a Protecao
+de Dados - RGPD), em conjugagdo com o disposto no n.° 1 do artigo 21.°e no n.° 1 do
+artigo 22.°, ambos da Lei n.° 67/98, de 26 de outubro, alterada pela Lei n.° 103/2015, de
+
+24 de agosto (Lei de Protegao de Dados Pessoais).
+
+A apreciacao da CNPD cinge-se as normas que preveem ou regulam tratamentos de
+
+dados pessoais.
+
+l]. Apreciacao
+
+O presente projeto de decreto-lei, a emitir ao abrigo de uma lei de autorizacdo, visa
+simplificar e desmaterializar os procedimentos relativos a regime juridico da atividade
+profissional do maritimo, prevendo e regulando tratamentos de dados pessoais, alguns
+
+inovadores, outros com alteracGes de parte dos seus elementos.
+
+No geral, o projeto de diploma define com precisdo os principais aspetos dos diferentes
+tratamentos de dados, aqui se destacando apenas os pontos que suscitam duvidas ou
+
+reservas a CNPD.
+
+Sublinhe-se que parte das normas contidas no Projeto correspondem a transposicao da
+Diretiva 2012/35/UE, de 21 de novembro de 2012, que altera a Diretiva 2008/106/CE, e
+que o teor do projeto, quanto aos tratamentos de dados pessoais nele regulados,
+respeita os termos da redagao final da Proposta de Lei n.° 198/XIII/4.2, ainda em
+apreciag¢ao na Assembleia da Republica, pela qual se autoriza o Governo a estabelecer
+
+requisitos para o acesso a atividade profissional dos maritimos, e da qual consta, entre
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Rua de Sao Bento, 148-3° ° 1200-821 LISBOA 2 93 00
+Tel: 213 928 400 Fax: 213 976 832 LINHA PRIVACIDADE
+
+Dias Uteis das 10 as. 13h
+www.cnip d.pt duvidas@cnpd.pt
+Processo PAR/2019/35
+
+ 
+
+outros aspetos de regime, o elenco dos dados dados pessoais cujo tratamento o
+Governo esta autorizado a regular, bem como a autorizacao para estabelecer a
+tramitagao exclusiva do procedimentos por via de uma plataforma eletrdnica (Balcao
+Eletronico do Mar) e ainda a proibicao de consumo de alcool e de substancias
+
+psicotropicas no exercicio das funcoes.
+
+7. Base de dados do SNEM
+
+No que diz respeito a base de dados que congrega informacoes relativas as
+embarcacgoes e maritimos (SNEM), define-se no artigo 6.° o responsavel pelo tratamento
+— a Diregao Geral dos Recursos Maritimos (DGRM) e no artigo 7.° os dados pessoais
+
+daquela constantes.
+
+Assinala-se a adequacgao e necessidade da maior parte dos dados, com excecao do
+dado naturalidade, que, na perspetiva da CNPD, nao se afigura imprescindivel, também
+considerando que, como os tempos mais recentes demonstram, o seu tratamento é
+suscetivel de gerar discriminagao. De todo o modo, também se reconhece que esse
+dado vem especificado na reda¢ao final da Proposta de Lei de autorizacao acima citada,
+pelo que se admite que, nesta fase, o Governo nao possa omitir a sua inclusao no elenco
+
+dos dados tratados.
+
+Aproveita-se ainda para sublinhar que a informacao constante dos atestados e
+certificados medicos deve estar limitada, em conformidade com o disposto no artigo 8.°
+do Projeto e com o principio da minimizagao dos dados pessoais (consagrado na alinea
+c) do n.° 1 do artigo 5.° do RGPD), a referéncia a aptidao ou nao aptidao para o
+
+desempenho da atividade de maritimo.
+
+Para a “alimentacao” e atualizagao da referida base de dados, prevé-se no n.° 5 do
+artigo 7.°, a realizagao de interconexdes, que correspondem a tratamentos aut6nomos
+
+de dados pessoais.
+
+Todavia, no n.° 3 do artigo 59.°, apenas se especifica a interconexao com a base de
+dados do cartao de cidadao — remetendo-se a sua regulacao para protocolo entre as
+entidades responsaveis pelas duas bases de dados, devidamente identificadas (DGRM
+e Instituto dos Registos e Notariado, |.P., doravante IRN, IP). Ora, se se pode considerar
+
+adequada e necessaria essa interconexao, ja a referéncia na parte final daquela
+
+Iv.
+
+rp
+Processo PAR/2019/35
+
+ 
+
+ 
+  
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+‘disposico a protocolos a celebrar “com outras entidades publicas com competéncia na
+materia, quando aplicavel” nao se encontra suficientemente densificada para legitimar,
+desde logo, outras interconexdes, nem é suficientemente explicita quanto as eventuais
+outras partes signatarias do protocolo regulador daquela interconex4o. Isto porque nao
+se conhecem outras entidades responsaveis pela base de dados do cart&o de cidadao
+
+que nao seja o IRN, IP.
+
+A CNPD recomenda, assim, que por razées de certeza juridica, se indique que outras
+
+entidades poderao ter competéncia nessa matéria.
+
+Ainda no contexto do artigo 6.°, importa referir a criagao do sistema de balcdo unico
+eletronico — o Balcdo Eletrdnico do Mar — para as interacgdes dos diferentes interessados
+com a administragao publica. Esse portal ou plataforma de interoperabilidade nao vem
+contudo regulado no presente Projeto, nada se dizendo, desde logo, quanto a quem o
+
+gere ou quanto as medidas de seguranca a adotar.
+
+Sendo certo que através dela ocorre a transmissao de dados pessoais, importa pelo
+menos que, além da remissao no n.° 5 do artigo 7.° para o regime juridico de protecao
+de dados, aqui se especifique que entidade é responsavel pela sua gestdo (e a sua
+exata qualidade, no ambito das operacdes de tratamento dos dados pessoais, nos
+termos do RGPD: se atua como subcontratante ou como corresponsavel), ainda que os
+termos exatos em que a transmissdo dos dados pessoais ocorre e a regulacao dos
+
+acessos a plataforma venham a ser definidos no plano regulamentar.
+
+Acrescente-se que o n.° 9 do artigo 6.° determina que, no que diz respeito a informacao
+relativa as formagdes, a interoperabilidade fica a cargo das prdprias entidades
+formadoras. Importa, contudo, sublinhar que Oo modo como se processa oO acesso ao
+referido portal por estas entidades nado pode deixar de ser definido centralmente, pela
+
+mesma entidade que gerira o Balcao Eletrénico do Mar.
+
+Deste modo, a CNPD recomenda a revisdo do artigo 6.° no ponto referente ao Balcdo
+Eletronico do Mar, para se especificar quem é responsavel pela sua gestao e qual o seu
+
+papel na transmissao dos dados pessoais, em conformidade com o disposto no RGPD.
+
+2
+
+ 
+
+ 
+
+Rua de Sao Bento, 148-3° * 1200-821 LISBOA 21 2930020
+Tel: 213 928 400 Fax: 213 976 832 LINHA PRIVAGIDADE
+
+Dias tteis das 10 as 13h
+Ww Sap d.p t duvidas@cnpd.pt
+
+~
+Processo PAR/2019/35
+
+2. Documento Unico do Maritimo
+
+Para alem da previsao de emissao de outros atos administrativos que envolvem o
+tratamento de dados pessoais, o projeto prevé, no artigo 62.°, o documento Unico
+eletronico do maritimo. Importa a este propdsito apenas mencionar que os dados
+pessoais dele constantes (designadamente os relativos a identificagao), a definir por
+portaria, devem cingir-se aos estritamente necessarios a finalidade de identificacdo do
+maritimo, em obediéncia ao principio da minimizagao dos dados, podendo portanto
+
+justificar-se que dele nao constem todos os dados de identificacao constantes do SNEM.
+
+Em todo o caso, sauda-se a proibigao constante do n.° 2 do artigo 64.° do Projeto.
+
+3. Registo de certificados
+
+No artigo 89.° do Projeto, prevé-se a criagado de uma base de dados que integra todos
+os certificados profissionais emitidos para este Aambito de atividade, e outros
+
+documentos equivalentes.
+
+Ainda que se compreenda que em causa esta a transposicao de uma norma da Diretiva
+2012/35/UE, de 21 de novembro de 2012, que assenta na adequacao e necessidade de
+manter o historico dos certificados, a verdade é que a conservacao e disponibilizacao
+dos dados pessoais obedece ao principio da proporcionalidade (cf. alinea c) do n.° 1 do
+artigo 5.° do RGPD e, especificamente quanto a4 conservacao dos dados pessoais, a
+alinea e) do n.° 1 do mesmo artigo). Nessa medida, a CNPD recomenda que se adote
+um sistema de “soft deletion”, ou seja, que aqui se fixe um prazo adequado de
+conservacao da informagao na referida base de dados de modo a garantir a sua
+acessibilidade enquanto é pertinente, decorrido o qual, a informacg&o passara a arquivo,
+
+nao imediatamente acessivel.
+
+Esta base de dados é objeto de acesso por entidades de outros Estados-membros da
+Uniao Europeia e ainda de Estados terceiros signatarios da Convencdo Internacional
+sobre Normas de Formagao, de Certificagao e de Servico de Quartos para os Maritimos,
+de 1978, como decorre do artigo 93.° do Projeto, podendo implicar portanto
+
+transferéncias internacionais de dados, devidamente enquadrada pela Convencao.
+
+2V.
+
+r
+Processo PAR/2019/35
+
+    
+
+ 
+
+ 
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+4. Envio de dados estat/sticos
+
+Finalmente, importa referir que o artigo 96.° do Projeto prevé a comunicac3o de dados
+para efeitos estatisticos a Comiss&o Europeia, o qual, para cumprimento das regras de
+protegao de dados, esta sujeito a um processo de anonimizacao nos termos do n.° 3 do
+
+mesmo artigo. Nessa medida, a CNPD nada tem a opor a esta previsao.
+
+Ill. Conclus6es
+
+Com os fundamentos acima expostos, a CNPD reconhece que a Proposta de
+Decreto-Lei regula adequadamente a generalidade dos tratamentos de dados pessoais
+nele previstos, sem prejuizo de alguns aspetos de regime carecerem de maior precisao
+
+ou explicitagao. Em especial, destaca-se a necessidade de:
+
+a. Aclarar 0 disposto no n.° 3 do artigo 59.°, quando se refere aos protocolos a
+celebrar “com outras entidades publicas com competéncia na matéria, quando
+aplicavel”:
+
+b. Rever o artigo 6.°, no ponto referente ao Balcao Eletrénico do Mar, para se
+especificar quem € responsavel pela sua gest4o e que papel desempenha na
+transmissao dos dados pessoais, em conformidade com o disposto no RGPD;
+
+c. Fixar um prazo adequado de conservacdo da informacdo na base de dados
+prevista no artigo 89.°, de modo a garantir a sua acessibilidade enquanto é
+pertinente, decorrido o qual, a informac&o passara a arquivo, nado imediatamente
+
+acessivel.
+
+Lisboa, 2 de julho de 2019
+
+Filipa Calvao (Presidente)
+
+3
+
+ 
+
+ 
+
+Rua de Sao Bento, 148-3° * 1200-821 LISBOA 21 3930039
+
+Tel: 213 928 400 Fax: 213 976 832 LINHA PRIVACIDADE
+d t Dias tteis das 10 4s 13h
+
+www.cnpda.p duvidas@cnpd.pt

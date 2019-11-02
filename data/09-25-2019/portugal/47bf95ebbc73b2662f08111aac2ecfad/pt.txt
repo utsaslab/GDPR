@@ -1,0 +1,154 @@
+Processo n.° PAR/2019/36
+
+a
+
+ 
+
+ 
+  
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+PARECER/2019/32
+|. Pedido
+
+A Entidade Reguladora dos Servicos Energéticos remeteu a Comissao Nacional de
+Protegao de Dados Pessoais (CNPD) o projeto de Regulamentacao dos Servicos das
+
+Redes Inteligentes de Distribuigao de Energia Elétrica.
+
+O pedido formulado e o parecer ora emitido decorrem das atribuicdes e competéncias
+da CNPD, enquanto entidade administrativa independente com poderes de autoridade
+para o conirolo dos tratamentos de dados pessoais, conferidos pela alfnea c) do n.° 1
+do artigo 57.° e pelo n.° 4 do artigo 36.° do Regulamento (UE) 2016/679, de 27 de abril
+de 2016 (Regulamento Geral sobre a Protegcao de Dados - RGPD), em conjugacao com
+o disposto no n.° 1 do artigo 21.° eno n.° 1 do artigo 22.°, ambos da Lei n.° 67/98, de 26
+de outubro, alterada pela Lei n.° 103/2015, de 24 de agosto (Lei de Protecao de Dados
+
+Pessoais).
+
+O presente parecer incide apenas sobre as disposicées relativas ao tratamento de
+
+dados pessoais.
+
+ll. Apreciacao
+
+O projeto de Regulamentag4o define alguns aspetos dos tratamentos de dados pessoais
+que as redes inteligentes de distribuigao de energia elétrica implicam. Sendo certo que
+esses tratamentos de dados pessoais sao impostos e regulados no plano legislativo,
+nao cabendo a ERSE fixar novas condicées a realizacdo de tais tratamentos para a
+protecgao de dados pessoais, importa sublinhar que as redes inteligentes de distribuicao
+de energia elétrica importam um elevado risco para os dados pessoais dos clientes
+
+finais, que a legislagao vigente nao previne.
+
+Na verdade, tendo em conta que os dados de consumo devem ser conservados por dois
+e trés anos (cf. n.° 8 do artigo 17.° do Decreto-Lei n.° 68-A/2015, de 30 de abril, que
+transpoe a Diretiva 2012/27/UE, de 25 de outubro de 2012) e que o seu registo é feito
+com uma intensa frequéncia (de 15 em 15 minutos — cf. artigo 7.° da Portaria n.°
+231/2013, de 22 de julho, e a alinea f) do n.° 1 do respetivo Anexo 1), o tratamento de
+
+informagao relativa aos consumos, por pessoas singulares, de energia elétrica permite
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT [| TEL: +351 213928 400 | FAX: +351 213 976 832
+Processo n.° PAR/2019/36 | 1v.
+
+a criagao e analise de perfis de comportamento sobre os consumidores finais, com
+impacto significativo sobre a vida privada dos mesmos. Tal impacto nao se reflete
+apenas no marketing adaptado ao perfil detalhado do cliente ou no risco de
+discriminagao no preco a cobrar pelo servico de distribui¢ao e fornecimento de energia,
+como tambem no risco de utilizacao indevida da informagao e de pretensdo da sua
+
+utilizagao para os fins de investigacdo criminal.
+
+Sobretudo, 0 conjunto massivo de informacao sobre habitos ou caracteristicas e estado
+de saude das pessoas que a georreferenciacdo e a Internet das Coisas permite recolher
+potencia o risco de combinacdo ou relacionamento dos diferentes tipos de dados
+
+pessoais, tornando imperiosa a adocdo de medidas mitigadoras de tais impactos.
+
+Nessa medida, a CNPD considera imprescindivel que as entidades que vao realizar
+tratamentos de dados pessoais a partir de redes inteligentes de distribuigao de energia
+eletrica cumpram o RGPD, em especial no que diz respeito as obrigagdes de realizacao
+de estudo de impacto sobre a protec&o de dados pessoais, bem como de adocgao de
+medidas de protecao de dados desde a concec&o e por defeito (cf. artigos 25.° e 35.°
+do RGPD, bem como o Regulamento da CNPD n.° 1/2018, publicado no Diario da
+
+Republica 2. Série, de 30 de novembro?’).
+
+Considerando agora 0 articulado do Projeto de Regulamentacao, e tendo em conta as
+atribuigoes da ERSE, a CNPD entende que 0 disposto no n.° 3 do artigo 7.°, bem como
+no artigo 11.°, 6 suscetivel de gerar confusao quanto ao fundamento de licitude dos
+
+acessos aos dados pessoais.
+
+Na verdade, importa desde logo clarificar que o tratamento dos dados pessoais de
+consumo detalhado, em especial o acesso a esses dados, é, nalguns casos, imposto
+por lei ou necessario a execuc¢do de um contrato de prestacdo de servico (como sucede
+
+com 0 acesso pelo comercializador), enquanto noutros, ainda que tenha subjacente um
+
+ 
+
+" Neste sentido, v. os pareceres do Grupo de Trabalho do Art. 29.°, que congregava os comissarios de
+protecao de dados dos Estados-membros da Unido Europeia, n.°s 12/201 1, de 4 de abril, 4/2903, de 22 de
+abril de 2013 (WP205), acessivel em_https://ec.europa.eu/justice/article-29/documentation/opinion-
+
+recommendation/files/2011/wp183_en.pdf https://e
+recommendation/files/2013/wp205_en.pdf
+
+2 Acessivel em https://www.cnpd.pt/bin/decisoes/regulamentos/regulamento_1_2018.pdf
+EE EEUU eo TegulaMentos/regulamMento_}_¢4U070.pat
+
+ 
+ 
+
+c.europa.eu/justice/article-29/documentation/opinion-
+
+   
+
+fr
+Processo n.° PAR/2019/36 | 2
+
+   
+
+-COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+contrato de prestagao de servico, o acesso sé é legitimado se a entidade terceira que
+pretende aceder aos dados demonstrar ter havido consentimento do titular dos dados
+para o efeito - uma vez que o responsavel pela recolha e conservacdo dos dados
+pessoais nao é parte nesse contrato (cf. alineas a), b) e c) do n.° 1 do artigo 6.° do
+RGPD).
+
+Em segundo lugar, a CNPD recomenda que seja expressamente referido no articulado
+do Projeto que os dados pessoais de consumo sejam utilizados apenas para finalidades
+especificas, em conformidade com a alinea b) do n.° 1 do artigo 5.° do RGPD. Assim,
+por exemplo, os acessos pelos comercializadores apenas podem ter em vista o
+cumprimento de deveres legais impostos no contexto das redes inteligentes ou para
+faturagao. Quanto as entidades terceiras, a finalidade ou finalidades devem estar
+especificadas no contrato que justifica o acesso ou na declaracdo de consentimento
+
+quanto ao acesso, consoante o que servir de fundamento de licitude do tratamento.
+
+Em terceiro lugar, considerando que a frequéncia de recolha dos dados de consumo e
+OS prazos de conservagao da informagao decorrem de imposicao legal ou regulamentar
+previa, € que, como se referiu supra, tal importa um impacto consideravel na vida
+privada dos titulares dos dados, a CNPD recomenda como medida mitigadora desse
+impacto que a identificagao do consumo (na plataforma eletrdnica de disponibilizagao
+dos dados ou por outro meio eletrdnico) nao seja feita pelo nome do cliente final, quando
+
+seja uma pessoa singular, mas antes pelo Cédigo do Ponto de Entrega.
+
+Finalmente, a CNPD considera conveniente que neste projeto se faga a remissao para
+o RGPD, destacando-se algumas das principais obrigagdes que dele decorrem,
+nomeadamente quanto a adocao de medidas de seguranca ou a prestacao de
+
+informag6es sobre o tratamento de dados pessoais.
+
+Lisboa, 12 de junho de 2019
+
+Fililpa Calvao (Presidente, que relatou)
+
+Av. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928 400 | FAX: +351 213 976 832

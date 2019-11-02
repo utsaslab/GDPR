@@ -1,0 +1,183 @@
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+PARECER/2019/20
+
+|-O pedido
+
+O Diretor-Geral dos Assuntos Europeus do Ministério dos Negdcios Estrangeiros vem solicitar
+oO parecer da Comissao Nacional de Protegao de Dados sobre 0 Projeto de Protocolo que revé
+a Convengao entre a Republica Portuguesa e o Reino da Suécia para Evitar a Dupla
+Tributagao e Prevenir a Evasao Fiscal em matéria de Impostos sobre o Rendimento celebrada
+no dia 29 de agosto de 2002 e publicada no Diario da Republica n.° 59, | série-A - de 11 de
+marco de 2003.
+
+O pedido formulado e o parecer ora emitido decorrem das atribuigodes e competéncias da
+CNPD, enquanto entidade administrativa independente com poderes de autoridade para o
+controlo dos tratamentos de dados pessoais, conferidos pela alinea c) do n.° 1 do artigo 57.°
+e pelo n.° 4 do artigo 36.° do Regulamento (EU) 2016/679, de 27 de abril de 2016
+(Regulamento Geral sobre a Proteg&o de Dados - RGPD), em conjugagao com o disposto no
+n.° 1 do artigo 21.° e non.° 1 do artigo 22.°, ambos da Lei n.° 67/98, de 26 de outubro, alterada
+pela Lei n.° 103/2015, de 24 de agosto (Lei de Protecdao de Dados Pessoais- LPDP).
+
+ll - Contratagao internacional e transferéncia de dados pessoais
+
+Tendo em conta que a Suécia é um Estado pertencente a Unido Europeia desde 1995, com
+um quadro juridico bastante abrangente, nao se suscitam, quer na perspectiva legal, quer na
+institucional, quaisquer duvidas acerca do respeito, por parte do Reino da Suécia, das regras
+de protecgao de dados consagradas a nivel europeu.
+
+Analisa-se em seguida o texto do projeto para verificar se o mesmo oferece as garantias
+suficientes para que os dados pessoais sejam transferidos, com a finalidade prevista, em
+
+respeito pelo principio consagrado no artigo 44.° do RGPD.
+
+lll — Apreciagao
+
+O artigo 25.° que se pretende aditar ao texto da Convengao através da aprovacao do Protocolo
+em apreciagao, regula as trocas de informacées pelas Partes, reproduzindo expressi/s verbis
+O artigo 26.° da Convencao Modelo da OCDE sobre Dupla Tributagao do Rendimento e do
+
+Capital, na versao resumida de 2008.
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832
+
+Processo n.° PAR/2019/21 | 1
+Processo PAR/2019/21 | tv.
+
+a) Finalidades da troca de informagdes
+
+On.° 1 do artigo 25.° atribui a troca de informacgdes duas finalidades: a) a aplicacdo da
+Convengao, portanto a eliminagao da dupla tributagao em matéria de impostos sobre o
+rendimento e a prevengao da fraude e evasao fiscal; b) a administragao ou execucao das leis
+internas sobre impostos, na medida em que a tributacdo nelas prevista nado seja contraria ao
+acordo.
+
+A este proposito, destaca-se que os dados pessoais recolhidos tém de visar finalidades
+determinadas, explicitas e legitimas, nado podendo ser posteriormente tratadas de forma
+incompativel com esses fins (cf. alinea c) do n.° 1 do artigo 5.° do RGPD). A especificacao
+
+Clara de finalidades dos tratamentos de dados pessoais é relevante no que respeita a tutela
+
+dos direitos dos titulares dos dados pessoais, desde logo para se poder aferir da adequacdo |
+
+e necessidade do tratamento dos dados para a sua prossecucao.
+
+Todavia, a parte final do n.° 1 do artigo 25.°, ao determinar que a troca de informacées nao
+fica restringida pelo disposto nos artigos 1.° e 2.° da mesma Convencdo, pde em causa o
+principio da finalidade, prejudicando ainda a verificagao da aplicacao dos restantes principios
+em materia de protecao dos dados pessoais
+
+Na verdade, uma tal previsa€o abre o tratamento de dados a qualquer finalidade e para
+quaisquer sujeitos (categorias de titulares de dados), ultrapassando os limites decorrentes do
+objeto (e objetivo) da Convengao. Se se pretende estender este regime juridico a outros
+sujeitos ou para outros fins impde-se que os mesmos sejam especificados no texto da
+Convengao, sob pena de violagao do principio consagrado na alinea c) do n.° 1 do artigo 5.°
+do RGPD.
+
+b) O principio da proporcionalidade
+
+O mesmo n.° 1 do artigo em andalise prevé que as autoridades competentes dos Estados
+Contratantes trocarao entre si as “informacdes previsivelmente relevantes” para aplicar a
+Convencao ou para a administragao ou execucao das leis internas.
+
+Remeter a determinacao dos dados pessoais sujeitos a comunicacgao e troca entre os dois
+Estados para um juizo de prognose sobre quais sejam os previsivelmente relevantes para
+combater a dupla tributagao e a evas€ao fiscal, importa um grau de incerteza juridica que, sé
+por si, € inadmissivel no contexto da regulac&o de direitos fundamentais como sdo o da
+
+protegao de dados pessoais e o da reserva da intimidade da vida privada e familiar — aqui, em
+
+SS,
+%
+Processo n.° PAR/2019/21
+
+ 
+  
+
+ 
+
+ 
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+materia fiscal, também em causa dada a extensdo da informagao pessoal que a autoridade
+tributaria recolhe a luz da legislacao vigente no nosso ordenamento juridico. O apelo ao juizo
+de prognose dificulta ainda a apreciacao do cumprimento do principio da proporcionalidade
+quanto aos dados tratados, de acordo com o determinado na alinea c) do n.° 1 do artigo 5.°
+do RGPD, que impde que sé possam ser objeto de intercAmbio as informagdes adequadas,
+pertinentes e nao excessivas relativamente a finalidade do tratamento.
+
+Neste sentido, somos de opiniao que uma previsao com semelhante teor contraria o principio
+geral constante do artigo 5.° da Convencdo 108 do Conselho da Europa e do artigo 5.°, n.° 4,
+alinea c), do RGPD, nao sendo coerente com o regime assumido como indispensavel pelo
+artigo 2.° do Protocolo Adicional 4 Convencao 108.° e pelos artigos 44.° e 46.° do RGPD para
+as transferéncias de dados para paises terceiros.
+
+Recomenda-se, por isso, que pelo menos, no n.° 1 do artigo 25.°, em vez de “informacées
+previsivelmente relevantes” se empregue a expressdo ‘informagdes necessarias”, a qual, faz
+apelo ao principio da proporcionalidade. Refira-se a este proposito que em diversas
+convengoes sobre a mesma matéria’ é utilizada a expressdo “informacgédes necessarias”. De
+resto, OS proprios comentarios oficiais 4 Convencao Modelo da OCDE admitem que qualquer
+uma destas express6es seja empregue, em alternativa, com um significado equivalente, pelo
+que, sendo o conceito de necessidade mais preciso e rigoroso do ponto de vista de protecao
+
+de dados pessoais, nao parece haver motivo para nao o introduzir no texto do Projeto.
+
+Cc) Oacesso a dados sob sigilo bancario
+
+No preceito em que, como se referiu supra, se reproduz o artigo 26.°, n.° 5, da Convencao
+Modelo, 0 n.° 5 do artigo 25.° do Projeto determina que um Estado Contratante nao pode
+recusar-se a prestar informagoes unicamente porque possuidas por uma instituigao de crédito,
+outra instituigao financeira, um mandatario ou por uma pessoa agindo na qualidade de agente
+ou fiduciario, ou porque essas informacdes sdo conexas com os direitos de propriedade de
+uma pessoa.
+
+Este preceito torna evidente que, na ponderagao de bens juridicos ou interesses efetuada na
+
+Convengao Modelo da OCDE, se deu prevaléncia ao interesse publico dos Estados Partes na
+
+ 
+
+' Veja-se a titulo meramente exemplificativo as Convengdes celebradas com a mesma finalidade com Israel,
+Paquistao, Singapura, Chile, Argélia, Holanda, aprovadas pelas Resolugdes da Assembleia da Reptiblica n.°
+2/2008, 66/2003, 85/2000, 28/2006, 22/2006 e 62/2000 respetivamente.
+
+ 
+
+AV. D. CARLOS I, 134-19 [ 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928 400 | FAX: +351 213 976 832
+
+2
+Processo PAR/2019/21
+
+tributagao efetiva dos rendimentos abrangidos sobre o direito fundamental dos particulares
+em ver salvaguardada a reserva da sua vida privada, ainda que este sacrificio venha
+acompanhado de garantias adequadas quanto a confidencialidade da informacao transmitida.
+A este proposito, a CNPD permite-se notar que o artigo 25.°, n.° 5, deve, no entanto, ser
+interpretado no seu devido contexto. Deste modo, apesar dos termos literais da primeira parte
+do n.° 3 do artigo 25.°, deve entender-se que a aplicacao do n.° 5 nao afasta a aplicacdo
+daquela disposi¢ao, isto €, que 0 acesso as informacgdes dos bancos nao pode contrariar as
+condigdes estabelecidas na lei interna para o levantamento do segredo bancario. E esta, de
+resto, a interpretacgao sugerida pelos comentarios oficiais ao n.° 5 do artigo 26.° da Convencao
+Modelo da OCDE.
+
+IV — Conclusao
+Em face das observacgoes feitas, a CNPD recomenda a revisao do texto do projeto de
+Protocolo que revé a Convengao entre a Republica Portuguesa e o Reino da Suécia para
+Evitar a Dupla Tributagao e Prevenir a Evasao Fiscal, no sentido de introduzir as seguintes
+alteracdes:
+
+a) Eliminar a parte final do n.° 1 do artigo 25.° (ultimo periodo):
+
+b) Substituir, no n.° 1 do artigo 25.°, a expressdo «informacdes que sejam previsivelmente
+
+relevantes» por /nformacdes gue sejam necessarias.
+
+Lisboa, 9 de abril de 2019
+
+po
+
+Filipa Calvao (Presidente)
+
+2V.

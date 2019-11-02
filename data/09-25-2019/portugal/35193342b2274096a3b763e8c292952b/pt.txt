@@ -1,0 +1,312 @@
+Processo PAR/2019/33 11. 7
+
+ 
+  
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+PARECER/2019/36
+
+|. Do Pedido
+
+O Grupo de Trabalho Investigacao em Células e Tecidos de Origem Humana, criado no seio
+da Comissao de Satide da Assembleia da Republica, remeteu A Comissdo Nacional de
+Proteg¢ao de Dados (CNPD), para apreciacao, a Proposta de Lei n.° 142/XIll (37), que
+estabelece o regime juridico da colheita, processamento, andlise, d isponibilizacao e utilizacao,
+armazenamento e destrui¢ao de células e tecidos de origem humana para fins de investigacao
+
+cientifica, incluindo células estaminais.
+
+O pedido formulado e o parecer ora emitido decorrem das atribuigdes e competéncias da
+CNPD, enquanto entidade administrativa independente com poderes de autoridade para o
+controlo dos tratamentos de dados pessoais, conferidos pela alinea c) do n.° 1 do artigo 57.°
+e pelo n.° 4 do artigo 36.° do Regulamento (UE) 2016/679, de 27 de abril de 2016
+(Regulamento Geral sobre a Proteg&o de Dados - RGPD), em conjugaGao com o disposto no
+n.° 1 do artigo 21.° eno n.° 1 do artigo 22.°, ambos da Lei n.° 67/98, de 26 de outubro, alterada
+pela Lei n.° 103/2015, de 24 de agosto (Lei de Protecao de Dados Pessoais).
+
+ll. Da Apreciacao
+
+A Proposta de Lei submetida a parecer é uma verso revista de dois projetos de proposta de
+lei sobre a mesma matéria, sobre os quais a CNPD se pronunciou no Parecer n.° 26/2016, de
+29 de julho, e no Parecer n.° 45/2016, de 5 de dezembro’.
+
+Neste sentido, o presente parecer incidira sobre as novas solucdes introduzidas na Proposta,
+resultantes quer das recomendacées entao feitas pela CNPD, quer também da circunstancia
+do quadro legal em matéria de protecdo de dados pessoais se ter alterado e estar atualmente
+consubstanciado no RGPD.
+
+Para além de estabelecer o regime juridico da_ colheita, processamento, analise,
+
+disponibilizagao e utilizacao, armazenamento e destruigao de células e tecidos de origem
+
+ 
+
+i Acessiveis em https://www.cnpd.pt/bin/decisoes/Par/40_26_2016.pdf e
+
+https://www.cnpd.pt/bin/decisoes/Par/40_45 201 6.pdf, respetivamente.
+
+AV. D. CARLOS I, 134 - 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832
+Processo PAR/2019/33 | ‘Vv.
+
+humana para fins de investigacao cientifica, incluindo células estaminais, a presente proposta
+de lei define também os requisitos para a constituicao e funcionamento dos bancos de células
+
+e tecidos de origem humana, para fins de investigacao cientifica.
+
+De acordo com a respetiva exposi¢ao de motivos, pretende-se com a presente proposta de
+lel definir as condigd6es em que é€ permitida a colheita, processamento, andalise,
+disponibilizagao, utilizagao e armazenamento de células humanas para efeitos de
+investigagao cientifica, sem aplicagdo em seres humanos, que tenham por objetivo a
+prevengao, o diagnostico, e o tratamento de patologias, o aperfeicoamento das técnicas de
+procriag¢ao medicamente assistida (PMA), a constituica€o de bancos de tecidos e células de
+origem humana, incluindo células estaminais, e a constituigdo de projetos baseados no
+
+conhecimento gerado pela investigacao.
+
+Analisada a redacao atual da Proposta de Lei, assinala-se o facto de ter sido acolhida uma
+boa parte das sugest6es anteriormente feitas pela CNPD (por exemplo, no que toca ao
+conceito de «dador», que acabou por prevalecer em detrimento do conceito de «doador», bem
+como a definigao de «banco de células e tecidos de origem humana» redefinido para
+«repositorio», tendo-se abandonado o conceito de «organismos» que a CNPD considerava
+
+nao espelhar a natureza destes bancos de dados).
+
+Destaca-se ainda que foram introduzidos no projeto conceitos novos, sem que estes tenham
+sido definidos paralelamente a outros, como acontece com o conceito de «destruicdo» (cf.
+artigo 1.°, n.° 1, e artigo 2.° da proposta). Recomenda-se, assim, a sua inclusdo no preceito
+
+relativo as definic6es.
+
+Nao obstante as alteragdes introduzidas na Proposta, mantém-se algumas reservas ou
+suscitam-se novas duvidas, pelo que, seguindo-se a estrutura de andalise do anterior parecer,
+
+se passam a considerar os seguintes aspetos de regime:
+
+a) O consentimento para o tratamento dos dados pessoais
+
+Tal como a CNPD teve oportunidade de referir nos dois anteriores pareceres, nado restam
+duvidas de que das operacées sobre «células» e «tecidos» de origem humana podera resultar
+
+a identificagao dos seus titulares, pelo que aquelas implicam o tratamento de dados pessoais.
+
+Fn
+Processo PAR/2019/33 | 2
+
+    
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+Ora, considerando estarem em causa dados pessoais especiais ou sensiveis (/e., informacao
+relativa a pessoas singulares identificadas ou identificaveis especialmente protegida pelo n.°
+1 do artigo 9.° do RGPD), o fundamento de licitude do seu tratamento tem de ser encontrado
+
+no seio do n.° 2 do mesmo artigo 9.° do RGPD.
+
+A presente Proposta, em especial no n.° 2 do artigo 6.°, assume como fundamento de licitude
+do tratamento dos dados pessoais o consentimento do titular dos dados, em conformidade
+com com a alinea a) do n.° 2 do artigo 9.° do RGPD. Nessa medida, este consentimento
+obedece as regras do RGPD, seja quanto aos seus atributos (Oo consentimento é livre,
+informado, especifico e explicito), seja quanto a possibilidade e consequéncias da sua
+
+revogacao pelo titular dos dados — cf. a alinea 11) do artigo 4.° e artigo 7.° do RGPD.
+
+Sauda-se, por isso, a autonomizacdo deste requisito em relagao ao consentimento para
+efeitos de colheita, processamento, analise, disponibilizagao e utilizagdo de células e tecidos
+de origem humana para efeitos de investigagao cientifica, previsto no artigo 5.° da Proposta.
+Alias, 0 mesmo artigo 5.°, no seu n.° 9, diferencia os dois tipos de consentimento, que tém,
+
+portanto, objetos diferentes ainda que relacionados.
+
+Nao obstante, a CNPD entende que o dever de informagao previsto no n.° 3 do artigo 5.°, ao
+fazer referéncia aos «dados pessoais e de satide associados», pode gerar confusao quanto
+
+ao ambito do mesmo.
+
+A CNPD recomenda, assim, que se destaque deste preceito a informacdo relativa ao
+tratamento de dados pessoais (que abrange obviamente os dados de saude e os dados
+geneéticos), para o integrar, porventura no n.° 9 artigo 5.° ou no artigo 6.° (com uma referéncia
+
+especifica ao direito de informacao previsto no artigo 13.° do RGPD).
+
+Recorda-se apenas, ainda a este propésito, que o consentimento relativo ao tratamento dos
+dados pessoais devera ser prestado de forma que possa ser distinguido claramente do outro
+consentimento relativo a dadiva do material bioldgico, o que nao impede que venham contidas
+
+num mesmo documento (cf. artigo 7.°, n.° 2, do RGPD).
+
+b) Avaliacao de impacto sobre a protecao de dados
+
+No que diz respeito ao artigo 7.° da Proposta, a CNPD sugere somente a alteracao da sua
+epigrafe, uma vez que coincide com a do artigo 6.° — porventura passando a «avaliacdo de
+impacto».
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928 400 | FAX: +351 213 976 832
+Processo PAR/2019/33 | 2v.
+
+Nao sendo esta disposi¢ao imprescindivel, uma vez que a obrigacdo de realizacdo de uma
+avaliagao de impacto do tratamento de dados decorrente deste tipo de investigacao cientifica
+ja decorreria do artigo 35.° do RGPD e do Regulamento n.° 1/2018 aprovado pela CNPD
+(publicado na 2.% Série do Diario da Republica em 30 de novembro de 2018)? ao abrigo do n.°
+4 do mesmo artigo 35.° do RGPD, sempre se reconhece um positivo efeito pedagdégico na sua
+
+previsao especifica neste diploma.
+
+Sublinha-se que, no contexto do concreto estudo de impacto, devem ser definidas as medidas
+adequadas de protecao dos dados pessoais e de minimizacao do impacto do tratamento sobre
+
+os direitos dos titulares dos dados.
+
+Cc) Os bancos de células e tecidos de origem humana para investigacao cientifica
+
+Em relagao a previsao da alinea g) do n.° 1 do artigo 18.° da Proposta de Lei, nos termos da
+qual a constituigao de bancos de células e tecidos de origem humana carece de autorizacao
+da CNPD, importa assinalar que tal solucao é ainda compativel com o RGPD, no ambito do
+n.° 5 do artigo 36.° do RGPD, o mesmo sucedendo com a previsdo de notificacao prévia das
+comunicagoes e transferéncias de dados pessoais constante dos artigos 21.° e 22.° da
+
+Proposta’®.
+
+Ainda no ambito do artigo 18.°, importa trazer, de novo, a colacdo o facto de a redacdo do n.°
+3 se manter inalterada, nao obstante as observacées feitas pela CNPD nos seus anteriores
+pareceres. A CNPD recorda a chamada de atencao para a imprecisdo juridica de se falar
+numa “anonimizagao irreversivel” por contraposigao a uma outra “anonimizacdo”
+aparentemente suscetivel de reidentificagao das pessoas a quem a informacao diz respeito.
+O conceito de anonimizacgao pressupoe a impossibilidade de reidentificar as pessoas a quem
+a informagao (anonimizada) diz respeito. Por essa razao, a CNPD reitera a recomendacao de
+se falar em anonimizacgao e em pseudonimizagao no n.° 3 do artigo 18.° (cf. alinea 5) do artigo
+4.° do RGPD). De resto, considera que o principio da minimizacgao, previsto na alinea c) do
+
+n.° 1 do artigo 5.° do RGPD, que justifica a opc¢ao pela anonimizacao dos dados salvo quando
+
+* Acessivel em https://www.cnpd.pt/bin/decisoes/regulamentos/regulamento_1_2018.pdf .
+
+5 Recorda-se, a este propdsito, que com a aprovacado da Proposta de Lei n.° 120/XIII/3.2, que assegura
+a execu¢ao do RGPD, o regime fixado na presente proposta de lei, se entrar em vigor apds aquela,
+
+assumira natureza de regime especial que prevalecera sobre o regime-regra.
+Processo PAR/2019/33 | 3
+
+   
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+seja necessario manter a possibilidade de identificagao da informacdo, se estende a todos os
+
+restantes tratamentos de dados previsto na Proposta.
+
+d) Ulteriores operacées de tratamento dos dados pessoals
+
+No que diz respeito ao artigo 21.° da Proposta de Lei, o qual tem como epigrafe a «cedéncia
+e transferéncia de amostras», verifica-se que o que se preiende ¢é transmitir as amostras para
+outras entidades situadas em territério nacional ou no territorio da Unido Europeia, tendo em
+
+vista a reutilizacado.
+
+A primeira nota sobre este artigo prende-se com a conveniéncia, por uma questao de
+coeréncia entre regimes legais, de substituir a expressao «transferéncia» por transmissdo,
+uma vez que tal cedéncia implica a comunicacdo de dados pessoais, mas este tratamento
+diferencia-se do envio de dados pessoais para o territorio de paises fora da Unido Europeia —
+que, de acordo com o RGPD, se designa por transferéncia — e que, de resto, 6 regulado no
+
+artigo seguinte da Proposta.
+
+A segunda nota diz respeito a necessidade de limitar neste preceito as finalidades da
+reutilizagao dos dados pessoais, especificando o tipo de objetivos que podem legitimar essa
+transmissao, em conformidade com o principio da finalidade previsto na alinea b) do n.° 1 do
+artigo 5.° do RGPD, tendo sempre presente que o fundamento deste tratamento dos dados
+
+pessoais € 0 consentimento do respetivo titular.
+
+A terceira nota prende-se com a imprescindibilidade de que a avaliacdo de impacto prevista
+no artigo 7.° se estenda a eventuais transmissées de dados pessoais a que se refere o artigo
+21.° da Proposta. Na verdade, implicando a cedéncia e transmissao de amostras, regulada
+neste artigo, uma autdnoma operacdo de tratamento de dados pessoais especiais ou
+sensiveis, deve a mesma ser precedida da avaliagao de impacto, nos termos do artigo 35.°
+do RGPD.
+
+Assim, a CNPD recomenda que no artigo 21.° se faga uma referéncia expressa a necessidade
+de realizagao de uma avaliacdo de impacto, remetendo-se, eventualmente, para o artigo 7.°
+da Proposta.
+
+Finalmente, 0 artigo 22.°, relativo a transferéncia de amostras para paises terceiros, implica
+
+ou pode implicar a transferéncia de dados pessoais. Nessa medida, seria util a remissao
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928400 | FAX: +351 213.976 832
+Processo PAR/2019/33
+
+expressa para o capitulo V do RGPD, onde se fixam condicées especificas para que tal
+
+operacao de tratamento de dados pessoais ocorra, a acrescer as do artigo 9.° do RGPD.
+
+De qualquer modo, a CNPD insiste que, de acordo com o principio da minimizacgao dos dados
+(expressao do principio da proporcionalidade), as amostras deverao ser transferidas sem que
+seja possivel a identificagao do seu dador (seja por terem sido anonimizadas, seja porque,
+tendo sido pseudonimizadas, nao é possivel no pais do destino conhecer a chave que permite
+a reidentificagao do dador). Nesse caso, em rigor a informacao a transferir nao preenche o
+
+conceito de dados pessoais e, nessa medida, a transferéncia nao esta sujeita ao RGPD.
+
+Assim, a CNPD recomenda a previsao no artigo 22.° da transferéncia de amostras
+anonimizadas, sempre que tal seja adequado e suficiente a realizacao da finalidade da
+transferéncia e, quando seja necessaria a sua identificagao, a explicita remissao para o
+
+regime do capitulo V do RGPD.
+
+lll. Das Conclus6es
+
+A CNPD reconhece que a nova Proposta de Lei acolheu parte das recomendacoes por si
+anteriormente formuladas, considerando que ainda ha, todavia, normas que devem ser
+revistas, seja por razOes de certeza juridica e de mais clara articulacao entre regimes juridicos
+aplicaveis nesta materia, seja por ser ainda omissa quanto a alguns aspetos na regulacao dos
+
+tratamentos de dados pessoais que preve.
+Assim, com os fundamentos acima expostos, a CNPD recomenda:
+
+1. O destaque ou autonomizacgao do dever de prestacao de informagao relativo ao
+tratamento de dados pessoais em relacao ao dever de informacao regulado no artigo
+5.° da Proposta, integrando-o, porventura, no n.° 9 artigo 5.° ou no artigo 6.° (com uma
+referéncia especifica ao direito de informagao previsto no artigo 13.° do RGPD);
+
+2. Aalteragao da epigrafe do artigo 7.°, em conformidade com a sua estatuicao;
+
+3. A diferenciagao, no n.° 3 do artigo 18.°, entre a operacao de anonimizacao de dados
+e a operacao de pseudonimizac¢ao;
+
+4. A referéncia expressa, no artigo 21.°, a obrigatoriedade de realizacao de uma
+
+avaliagao de impacto sobre a transmissao de dados pessoais decorrente da cedéncia
+
+3V.
+
+yr
+Processo PAR/2019/33 | 4
+
+    
+
+ 
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+ou transmissao de amostras, remetendo-se, eventualmente, para o artigo 7.° da
+Proposta;
+
+9. A previsao no artigo 22.° da transferéncia para paises terceiros em relacao a Unido
+Europeia de amostras anonimizadas, sempre que tal seja adequado e suficiente a
+realizagao da finalidade da transferéncia e, quando seja necessdria a sua
+
+identificagao, a explicita remissao para o regime do capitulo V do RGPD.
+
+Lisboa, 25 de junho de 2019
+a
+
+Fillpa Calvao (Presidente)
+
+ 
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928400 | FAX: +351 213 976 832

@@ -1,0 +1,335 @@
+Processo PAR 2019/1 | 1
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+' COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+PARECER/2019/1
+
+|. Pedido
+
+O Diretor-Geral de Politica Externa do Ministério dos Negdcios Estrangeiros remeteu a
+Comissao Nacional de Protecc&o de Dados (CNPD), para parecer, o Protocolo de
+Alteragao a Convengao para a Protecao de Pessoas relativamente ao Tratamento
+Automatizado de Dados de Carater Pessoal, tendo em vista o respetivo processo de
+
+ratificagao pelo Estado portugués.
+
+O pedido formulado e o parecer ora emitido decorrem das atribuicdes e competéncias da
+CNPD, enquanto entidade administrativa independente com poderes de autoridade para o
+controlo dos tratamentos de dados pessoais, conferidos pela alinea c) do n.° 1 do artigo 57.°
+€ pelo n.° 4 do artigo 36.° do Regulamento (UE) 2016/679, de 27 de abril de 2016
+(Regulamento Geral sobre a Protegdo de Dados - RGPD), em conjugagao com o disposto no
+n.° 1 do artigo 21.° eno n.° 1 do artigo 22.°, ambos da Lei n.° 67/98, de 26 de outubro, alterada
+pela Lei n.° 103/2015, de 24 de agosto (Lei de Protecdo de Dados Pessoais — LPDP).
+
+A apreciagao da CNPD no presente parecer restringe-se aos aspetos de regime relativos a
+tratamentos de dados pessoais, ou seja, a operacdes que incidem sobre informa¢ao
+respeitante a pessoas singulares, identificadas ou identificaveis — cf. alfneas 1) e 2) do artigo
+4.° do RGPD -, centrando-se nos preceitos que preveem ou implicam tratamentos de dados
+
+pessoais.
+
+Il. Analise
+
+A Convengao para a Protecdo de Pessoas relativamente ao Tratamento Automatizado de
+Dados de Carater Pessoal, ETS! n.° 108, foi o primeiro instrumento vinculativo de natureza
+internacional especificamente dedicado a matéria da protecao de dados pessoais. Aberto a
+
+adesao desde 28 de janeiro de 1981, a Convencao entrou em vigor em 1 de outubro desse
+
+' Acronimo para “European Treaty Series”.
+
+ 
+
+Rua de Sao Bento, 148-3° » 1200-821 LISBOA ne
+Tel: 213 928 400 Fax: 213 976 832 LINHA PRIVACIDADE
+
+d.pt Dias uteis das 10 as 13h
+www.cnpa.p duvidas@cnpd.pt
+
+ 
+
+Fk
+Processo PAR 2019/1 | 1v.
+
+ano. Portugal foi um dos primeiros Estados a aderir 4 Convencdo (a 14 de maio de 1981),
+embora apenas tenha vindo a ratifica-la em 2 de setembro de 1993, sendo aplicavel, no nosso
+
+pais, desde 1 de janeiro de 1994.
+
+Como instrumento inovador e percursor de muitas das solucdes nacionais que haveriam de
+pontificar (sobretudo) no espago europeu, esta Convencdo, a caminho dos quarenta anos de
+existéncia, mostrava-se ja datada em alguns dos conceitos e solucdes propostos, facto
+exponenciado pela hiper-evolugao a que se assistiu nas Uultimas décadas em matéria de
+tratamentos de dados pessoais, seja na sua quantidade, seja na sofisticacao e complexidade
+
+que cada vez mais apresentam.
+
+A emergéncia de novos riscos, associada a banalizag&o dos tratamentos de dados pessoais
+(cada vez mais acriticamente exigidos para toda e qualquer finalidade), espoletaram um
+processo de atualizagao bem-vindo e que fica marcado por alteracdes muito em linha com
+aquelas que a reforma da legislacao de protegdo de dados pessoais? assumiu para o espaco
+
+da Uniao Europeia (UE) e as quais Portugal, como Estado-membro, se encontra ja vinculado.
+
+Como nota genérica e antes de uma visao mais detalhada dessas alteracdes, 0 que se pode,
+desde ja, afirmar é que a renovada Convengao 108% nao coloca, na visao da CNPD, quaisquer
+
+entraves a sua ratificagao e entrada em vigor na ordem juridica nacional.
+e As modificagées mais relevantes
+
+De modo resumido, apontariamos como relevantes algumas novidades do Protocolo de
+Alteragao a Convengao 108 (CETS* n.° 223) que a projetam para um patamar superior na
+
+defesa do direito 4 protecdo de dados.
+
+A consideravel diminuigaéo de excegdes a aplicagao da convencdo, agora praticamente
+
+limitadas aos tratamentos domésticos®, 6 uma dessas novidades. Neste ponto, o novo artigo
+
+* Composta por varios instrumentos juridicos de grande relevo, de entre os quais se destaca o
+famigerado RGPD (Regulamento Geral sobre a Proteg&o de Dados).
+
+3 Também apelidada de “Convencao 108+”.
+
+4 Acronimo para “Council of Europe Treaty Series”.
+
+° Tambem o RGPD prevé excecao semelhante no artigo 2.°, n.° 2, alinea c).
+
+ig
+Processo PAR 2019/1 | 2 4
+
+ 
+  
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+11.° apenas as admite no contexto da seguranca nacional ou da defesa da liberdade de
+expressao quando tais finalidades sejam enquadradas por lei e a prdpria excecao respeite a
+esséncia dos direitos e liberdades fundamentais e constitua uma medida necessdaria e
+proporcionada numa sociedade democratica’. Ademais, e quanto a excecdes especificas
+aplicaveis ao setor da segurancga nacional e defesa’, a Convencdo é clara quanto a
+imprescindibilidade de supervisao e controlo independente e efetivo, de acordo com a
+legislagao nacional do Estado-parte, uma novidade de grande alcance, ainda que, na Unido
+
+Europeia, a tradi¢ao ja ditasse o cumprimento desta prerrogativa.
+
+Em termos concetuais € notdria a evolucao existente, sobretudo quando se atenta na
+disposigao onde constam os fundamentos de licitude dos tratamentos®, algo que estava
+
+ausente da versao originaria da Convencao.
+
+A preocupagao com a transparéncia dos tratamentos é substancialmente fortalecida quer com
+a mengao no artigo 5.°, n.° 4, al. a), a propdsito dos principios da legitimidade® para o
+tratamento de dados e qualidade dos dados, quer com maior destaque no novo artigo 8.°,
+
+onde Ihe é consagrada sede propria.
+
+E notoria a evolucdo no que respeita as categorias especiais de dados, tendo os Estados-
+parte optado por emular as categorias previstas no artigo 9.°, n.° 1, do RGPD"°. E idéntica
+emula¢ao pode ser encontrada a respeito das violagdes de dados e respetivas notificacdes"":
+dos direitos dos titulares dos dados"? (ainda que com menor ambic4o'3); na consagracao do
+
+principio da responsabilidade"*; na previsao da obrigacdo de os responsaveis pelo tratamento
+
+6 Cfr. artigo 11.°, n.° 1, da Convencgao atualizada.
+
+” Nomeadamente quanto a informac&o a prestar as autoridades de controlo e ao proprio Comité da
+Convengao, previsto no Capitulo VI.
+
+8 Cfr. artigo 5.°, n.° 2.
+
+° Equivalente, mas nado igual, ao da licitude no RGPD.
+
+10 Cfr. artigo 6.° da Convencao.
+
+"| Cfr. artigo 7.°, n.° 2, da Convencao e artigos 33.° e 34.° do RGPD.
+
+"2 Cfr. artigos 9.°, n.° 1, e 12.° da Convengao e artigos 15.° a 17.°, 21.° e 22.°, 77.° e 82.° do RGPD
+
+'S Faltando, expressa ou implicitamente o direito a portabilidade e o direito a limitagao do tratamento.
+4 Artigo 10.°, n.° 1, da Conveng&o e artigo 5.°, n.° 2, do RGPD.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Rua de Sao Bento, 148-3° « 1200-821 LISBOA s ¥: areas
+Tel: 213 928 400 Fax: 213 976 832 LINHA PRIVACIDADE
+
+Dias iteis das 10 as 13h
+
+www.cnpd.pt duvidas@cnpd.pt
+Processo PAR 2019/1 | ov,
+
+e, eventualmente, os subcontratantes (numa possibilidade nao aberta pelo RGPD) levarem a
+cabo avaliagoes de impacto na protecao de dados dos tratamentos em momento prévio ao da
+sua efetivagao’’; na concretizagao do principio da minimizacdo dos dados através do recurso
+aos conceitos de protegao de dados desde a conceg¢ao e por defeito'®; na regulacdo dos fluxos
+internacionais entre Estados-parte e entre Estados-parte e Estados terceiros'?; na
+harmonizagao dos poderes das autoridades de controlo'® e na necessidade de essas
+autoridades, para aleém dos Estados-partes, cooperarem para garantir a efetividade da
+Convengao'’; até mesmo, no reforgo das competéncias do anterior Comité Consultivo, agora
+designado Comité da Convengao, que, a imagem do Comité Europeu para a Protecdo de
+Dados no RGPD, pode vir a desempenhar um papel fulcral na efetividade e harmonia da
+
+aplicagao das regras da Convencao29,
+
+Para 0 final desta lista de elementos aproximadores dos dois instrumentos juridicos deixamos
+a cristalina obrigagao de os Estados-partes preverem, na legislacdo nacional, mecanismos de
+sancionamento de condutas contrarias as normas previstas na Convencao e de consequente
+ressarcimento ou reparagao dos prejuizos causados. Tal como no RGPD, tais medidas
+podem, eventualmente, passar pela aplicagao de sangdes administrativas ou coimas2', mas,
+ao contrario do RGPD”, a Convengao nao parece admitir que se distingam entidades publicas
+
+e privadas, em favor destas ultimas, na concreta legislagao que venha a ser aplicada23. Quer
+
+'S Cfr. artigo 10.°, n.° 2, da Conveng&o e artigo 35.° do RGPD.
+
+‘© Cfr. artigo 10.°, n.° 3, da Convengao e artigo 25.° do RGPD.
+
+ Cfr. artigo 14.° da Convengao (com a derrogagdo especial relativa aos Estados que pertencam a
+organizacoes internacionais regionais, como é 0 caso da UE, no n.° 1 /n fine desta norma) e Capitulo
+V do RGPD.
+
+'8 Cfr. artigo 15.°, n.° 2, da Convenc&o e artigos 57.° e 58.° do RGPD.
+
+'9 Cfr. Capitulo V da Convengao e Capitulo VII do RGPD.
+
+20 Cfr. Capitulo VI da Convengao e Seccao 3 do Capitulo VII do RGPD.
+
+*1 Cfr. artigos 12.° e 15.°, n.° 2, al. c) da Convengao e artigos 58.°, n.° 2, al. i), artigo 77.°, 79.°, 82.° a
+84.° do RGPD.
+
+“2 Que o permite se o Estado-membro assim o entender dispor na legislacdo nacional (cfr. artigo 83.°,
+n.° 7).
+
+23 Salvo nas excecoes ja elencadas a propésito das finalidades ligadas 4 seguranca nacional e defesa,
+
+previstas no artigo 11.°, n.° 3 da Convencao.
+
+r
+Processo PAR 2019/1
+
+ 
+   
+
+ 
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+isto dizer que Portugal, apds a ratificagao desta Convencdo, se encontrara obrigado a nao
+encetar o caminho trilhado pela Proposta de Lei n.° 120/XIII, do Governo4, no seu artigo 44.°,
+n.° 1, visto que, consultadas as reservas efetuadas pelos Estados-partes?5 ao texto do
+
+Protocolo de Alteragao, constata-se que nenhuma foi apresentada pelo Estado portugués.
+lll. Conclusao
+
+As alteragdes a Convengao 108 introduzidas pelo Protocolo em andalise representam um
+passo no sentido da modernizagao do regime de protecdo de dados no seio do Conselho da
+Europa e seguem o rumo de aproximacdo notéria as normas de protegao de dados
+recentemente aprovadas na UE, maxime as conhecidas no Regulamento Geral sobre a
+Protegao de Dados. Ademais, a evolucao notavel em matéria de conceitos, principios e
+fundamentos de licitude dos tratamentos, para la do enquadramento convergente do catalogo
+dos direitos dos titulares dos dados com o existente na UE e da padronizagao das funcdes
+das autoridades de controlo de forma paralela as previstas na legislacdo da Unido, permitem,
+na Otica da CNPD, a recec&o harmoniosa dos preceitos do tratado assim revisto com a
+
+legislagao ja em vigor em Portugal.
+
+A CNPD nota, ainda, que o Estado portugués nado apresentou qualquer reserva ao conteudo
+do texto do Protocolo de Alteragao da Convengao 108, pelo que entende que a assinatura do
+tratado representa uma clara assuncado de que nao existirao discriminagdes entre o setor
+publico e privado na aplicagao do regime de protecdo de dados pessoais, salvo nos estritos
+termos permitidos pela Convencao, conquanto esta nado contenda (como nos parece nao
+
+contender) com as demais obrigagées de igual dignidade juridica a que o pais esta obrigado.
+
+Lisboa, 7 de janeiro de 2019
+
+ 
+
+ilipa Calvao (Presidente)
+
+ 
+
+** Que visava assegurar a execugdo, na ordem juridica nacional, do Regulamento (UE) 2016/679,
+relativo a protegao das pessoas singulares no que diz respeito ao tratamento de dados pessoais e a
+
+livre circulacdo desses dados.
+
+25 Disponiveis em https://www.coe.int/en/web/conventions/recent-changes-for-treaties/-
+
+/conventions/treaty/223/d eclarations?p_auth=OcgjOWaE.
+
+Rua de Sao Bento, 148-3° * 1200-821 LISBOA 39023 00 39
+Tel: 213 928 400 Fax: 213 976 832 LINHA PRIVACIDADE
+
+d t Dias ufeis das 10 as 13h
+www.cnp -p duvidas@cnpd.pt
+
+ 
+
+ 
+
+3

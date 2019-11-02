@@ -1,0 +1,440 @@
+/
+
+Processo PAR/2019/6 | 1
+
+ 
+  
+
+ 
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+PARECER/2019/2
+|. Pedido
+
+A Comissao de Economia, Inovagao e Obras Publicas remeteu 4 Comissdo Nacional de
+Protecgao de Dados (CNPD), para parecer, a Proposta de Lei n.° 173/XIII/44 (GOV) que
+regula a operagao de sistemas de aeronaves civis nao tripuladas («drones») no espaco
+
+aéreo nacional.
+
+O pedido formulado e o parecer ora emitido decorrem das atribuicdes e competéncias da
+CNPD, enquanto entidade administrativa independente com poderes de autoridade para o
+controlo dos tratamentos de dados pessoais, conferidos pela alinea c) do n.° 1 do artigo 57.°
+e pelo n.° 4 do artigo 36.°, do Regulamento (UE) 2016/679, de 27 de abril de 2016
+(Regulamento Geral de Protecao de Dados — RGPD), em conjugac3o com o disposto no n.°
+1 do artigo 21.° e no n.° 1 do artigo 22.°, ambos da Lei n.° 67/98, de 26 de outubro, alterada
+pela Lei n.° 103/2015, de 24 de agosto (Lei de Protecao de Dados Pessoais — LPDP).
+
+A apreciagao da CNPD no presente parecer restringe-se aos aspetos de regime relativos aos
+tratamentos de dados pessoais, ou seja, a operacdes que incidem sobre informacgao
+respeitante a pessoas singulares, identificadas ou identificaveis — cf. alineas a) e b) do artigo
+4.° do RGPD -, centrando-se nos preceitos que preveem ou implicam tratamentos de dados
+
+pessoais.
+
+ll. Analise
+
+A presente Proposta de Lei é apresentada apds a publicacao do Decreto-Lei n.° 58/2018, de
+
+23 de julho, sobre cujo anteprojeto a CNPD teve oportunidade de emitir o Parecer n.° 5/2018.
+
+Aproveita-se para assinalar o facto de algumas das recomendacées entdo apresentadas pela
+CNPD no referido parecer terem sido seguidas na redac4o final do Decreto-Lei n.° 58/2018 —
+v.g.,a natureza publica do registo das aeronaves civis nao tripuladas —, e de agora, por via da
+presente Proposta de Lei, se pretender colmatar as lacunas e a insuficiéncia organica e formal
+daquele diploma do Governo para regular o impacto que a utilizacao destas aeronaves pode
+
+ter nos direitos fundamentais ao respeito pela vida privada e a liberdade quando a elas
+
+' Acessivel em https:/Avww.cnpd.pt/bin/decisoes/Par/40_5 2018.pdf
+
+Rua de Sao Bento, 148-3° * 1200-821 LISBOA 21 203 00 3¢
+Tel: 213 928 400 Fax:213 976 832 LINHA PRIVACIDADE
+
+Dias uteis das 10 as 13h
+www.cnpd.p t duvidas@cnpd.pt
+Processo PAR/2019/6
+
+estejam acoplados dispositivos suscetiveis de captar som ou imagem ou, inclusive, dados
+
+biométricos de pessoas.
+
+Subsistem, porém, algumas duvidas quanto a regulagao contida na Proposta de Lei aqui em
+
+apreco, que importa clarificar.
+
+1. A operacao de drones e os tratamentos de dados pessoais dela decorrentes
+
+A Proposta de Lei regula a operagao e a fiscalizagao de sistemas de aeronaves civis nao
+tripuladas no espacgo aéreo nacional que sejam utilizadas para fins ludicos ou no ambito de
+uma atividade profissional. Nesse ambito, define regras sobre a operacao das referidas
+aeronaves, comummente designadas por drones, tanto nos espacos publicos como sobre
+
+propriedades privadas.
+
+No ambito dos espacos publicos, a Proposta prevé, no seu artigo 3.°, diferentes tipos de locais
+ou areas, diferenciando o regime juridico da operacao de drones em fungao daqueles. Assim,
+prevé a definicao de espacos publicos pela Administragao central, regional ou local, em cuja
+area nao sera necessaria a autorizacao para a operacao de drones com fins ludicos ou
+recreativos. Prevé ainda uma zona livre tecnoldgica, a definir por portaria, e locais autorizados
+para a pratica de aeromodelismo, onde também se dispensa o controlo administrativo prévio
+pela Autoridade Nacional da Aviacgao Civil (ANAC).
+
+1.1. A operacao de drones para fins lidicos ou recreativos em espacos publicos e o
+
+impacto sobre a privacidade
+
+Se quanto as restantes areas indicadas a CNPD nada tem a assinalar, ja o regime da
+operacdo de dronesem espacos publicos a definir pela administragao publica central, regional
+
+ou local suscita algumas reservas.
+
+Quanto a estes espacos fixa-se, no n.° 1 do artigo 5.° da Proposta, como requisitos para a sua
+delimitacdo que os mesmos distem 30 metros da infraestrutura de terceiros e que permitam a
+visibilidade necessaria para os voos em linha de vista. Ora, considerando que, como se
+especifica no n.° 4 do artigo 11.° da Proposta, quanto a estes espacos se admite a captacgao
+de imagens no contexto de operagdes com aeronaves nao tripuladas, a distancia minima de
+30 metros em relacdo a «infraestrutura de terceiros» 6 ou pode ser insuficiente para prevenir
+
+a captacdo de imagens suscetiveis de restringir de modo intoleravel a vida privada. Tendo em
+
+Iv.
+
+yr
+Processo PAR/2019/6 | 2p
+
+ 
+  
+
+‘COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+conta a capacidade de resolucao das camaras fotograficas e de video que podem ser
+acopladas aos drones e se se pensar que tais infraestruturas podem, por exemplo, ser casas
+de habitagao, em especial com jardins, escolas, com areas exteriores de recreio, ou hospitais,
+nao pode ignorar-se o elevado impacto sobre a privacidade e a liberdade, e sobretudo em
+relagao a pessoas que se encontram em situagdo de maior fragilidade, permitindo a captacao
+
+e eventual transmissao de dados pessoais potenciadores de tratamentos discriminatorios.
+
+E certo que a dispensa da autorizagao da Autoridade Aeronautica Nacional (AAN) para a
+captagao de imagens nesses espagos publicos nao afasta o regime juridico de protecao de
+dados pessoais, nem preclude o dever de garantir o respeito da reserva da vida privada e do
+direito a imagem, como se destaca no n.° 5 do artigo 11.° da Proposta. Mas, insiste-se, a
+definig¢ao daqueles locais por parte da Administracao Publica nao pode ignorar que sobre ela
+recai tambem o dever de garantir que terceiros nao afetem os direitos, liberdades e garantias,
+dos quais se destacam os direitos a reserva da vida privada, a imagem ea prote¢ao dos dados
+pessoais. E nessa vertente destes direitos fundamentais, /e., na dimensdo de direito a acao
+do Poder Publico para garantir o seu respeito nas relacdes entre privados, € mais do que
+recomendavel que a lei vincule a Administragao Publica central, regional e local, na definigao
+de tais espagos, a garantir o respeito por aqueles direitos. Para o efeito, sugere-se ainda que
+se acrescente ainda no n.° 2 do artigo 5.°, ouem numero auténomo no mesmo artigo, o dever
+de consulta a CNPD, para que fique claro o imperativo de acautelar tais dimensdes
+fundamentais.
+
+Na verdade, importa ter presente que a atuacdo da CNPD a posteriori, em sede de fiscalizagao
+sobre a captacgao de imagens por drones operados nestes espacos publicos para fins ludicos
+ou recreativos, esta dificultada pelos termos do regime qui apreciado, em especial pela
+dificuldade de identificagao dos mesmos (apenas por referéncia ao numero de registo aposto
+no proprio aparelho, nao visivel para quem se encontre a 30 metros do local onde o mesmo
+opera) e impossibilidade de rastreabilidade da sua utilizagao (que esta limitada as operacdes
+sujeitas a autorizagao da ANAC — cf. artigo 10.° da Proposta). Deste modo, a compatibilizacao
+do regime constante da presente Proposta de Lei com o RGPD e, especificamente, com o
+principio da prevengao de risco de lesdo irremediavel sobre a vida privada, a liberdade e o
+direito a nao discriminagao, justifica que se imponha um juizo previo de avaliacdo desse
+impacto, que, reitera-se, recai sobre a Administracdo Publica e em Ccuja formacao a CNPD
+
+pode desempenhar um relevante papel de orientacao.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Rua de Sao Bento, 148-3° » 1200-821 LISBOA 234 202 00 20
+Tel: 213 928 400 Fax: 213 976 832 LINHA PRIVACIDADE
+
+Dias uteis das 10 as 13h
+WWww.chip d.p t duvidas@cnpd.pt
+Processo PAR/2019/6 | Qv.
+
+Alias, porque a delimitacao destes espacos publicos tem um conjunto indeterminado de
+destinatarios e uma pretensao de aplicagao sucessiva no tempo, a definigao desses espacgos
+pelos diferentes organismos administrativos (central, regionais ou locais) tem natureza de
+regulamento administrativo. Enquanto tal e na medida em que delimita zonas onde pode
+ocorrer a recolha de dados pessoais através da captagao de som e imagens ou de outro tipo
+de informacao pessoal, o mesmo deve ser objeto, nos termos do n.° 4 do artigo 6.° do RGPD,
+de consulta prévia a autoridade nacional de controlo dos tratamentos de dados pessoais (cf.
+n.° 4 do artigo 36.° do RGPD).
+
+Em segundo lugar, 6 essencial, para garantia do principio da transparéncia dos tratamentos
+de dados pessoais (consagrado na alinea a) don.° 1 do artigo 5.° do RGPD), que a delimitagao
+dos espacos publicos em questao seja publicitada — nao apenas nos locais em causa, como
+também nos sitios da Internet de cada organismo administrativo com competéncia para essa
+fixac&o e no sitio da Internet da ANAC e ainda, porventura, da AAN. Desta forma contribui-se
+para uma maior consciencializagao das pessoas quanto aos riscos de circularem nessas
+areas ou na sua proximidade, reconhecendo-lhes assim alguma autonomia para minorar o
+
+impacto de tais tratamentos na sua esfera juridica.
+
+Note-se que o dever imposto a ANAC, no n.° 4 do artigo 12.°, de disponibilizar na plataforma
+a que se refere esse mesmo artigo a identificagao destes espacos publicos apenas beneficia
+os operadores das aeronaves e nao os potenciais titulares de dados pessoais afetados com
+
+a sua utilizagao.
+
+Pelo que se recomenda que se acrescente um novo numero ao artigo 5.° a impor aquele dever
+
+de publicitagao.
+
+1.2. Aoperacao de drones em espac¢os privados ou espacos de acesso publico
+
+Ainda a proposito das zonas nas quais os drones podem operar, define-se no artigo 4.° um
+regime especifico para o sobrevoo de espacos privados e de espagos, publicos ou privados,
+de acesso publico. De acordo com esse regime, a operacao de tais aeronaves sobre espagos
+privados depende do «consentimento do proprietario ou do seu legitimo possuidor», enquanto
+a operacao sobre espacos de acesso publico depende «do prévio consentimento expresso do
+
+seu proprietario ou responsavel».
+
+ar
+Processo PAR/2019/6 | 3
+
+ 
+
+ 
+
+ 
+  
+
+ 
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+Em primeiro lugar, assinala-se que nao é evidente a raz3o de ser da especificagao do atributo
+previo e expresso para 0 consentimento no segundo caso e a sua auséncia no primeiro caso.
+Porventura prender-se-a com o facto de, no primeiro caso, estar em causa uma pessoa cuja
+imagem e dados pessoais so objeto de tratamento e, al, sempre se imporem os requisitos
+da alinea 41) do artigo 4.° do RGPD, que abrangem aqueles atributos, o que na segunda
+
+hipotese pode nao se verificar.
+
+De todo o modo, a CNPD entende haver utilidade em reiterar tais atributos do consentimento
+no n.° 1 do artigo 4.°, para que nao sobrem duvidas de interpretacao da diferente redacao dos
+
+preceitos.
+
+Em segundo lugar, a CNPD recorda que a aplicagao do regime previsto no artigo 4.° da
+Proposta diz apenas respeito 4 operacdo de arone sobre aquelas areas, e nao a captacdo
+das imagens ou ao tratamento de outros dados pessoais por forcga da utilizacao de dispositivos
+acoplados ao arone. Por outras palavras, o consentimento a que se refere o artigo 4.° nao
+dispensa a verificagao de uma das condicées de licitude de tratamentos de dados pessoais
+previstas no artigo 6.° do RGPD (que podera ser uma declaragao de consentimento especifica
+para o tratamento de dados pessoais pretendido, a obter de cada uma das pessoas afetada
+pelo mesmo).
+
+No mesmo artigo, dispensa-se a exigéncia de obtengao prévia do consentimento quando a
+operagao seja objeto de autorizacdo pela ANAC. Nao se questionando diretamente esta
+solugao, nao deixa de se chamar a atencdo para o facto de poder ainda ser exigivel a
+
+obtengao de autorizagao da AAN se em causa estiver a captacao de imagens.
+
+Por essa razao, a CNPD recomenda que se ressalve no n.° 3 do artigo 4.° da Proposta o
+regime especifico de captagdo de imagens, previsto no artigo 11.° do mesmo projeto de
+diploma.
+
+1.3. A auséncia de regulacao de outras formas de recolha de dados pessoais por
+
+drones
+
+Finalmente, a CNPD nao pode deixar de lamentar que num diploma desta natureza a
+preocupa¢ao de regulacao de tratamento de dados pessoais decorrentes da operacao de
+drones se limite a captagdo de imagens, ignorando a captagao de som — que pode ter um
+
+impacto ainda mais significativo sobre a privacidade — e o processamento de outro tipo de
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Rua de Sdo Bento, 148-3° ° 1200-821 LISBOA 21 393 OC
+Tel: 213 928 400 Fax: 213 976 832 LINHA PRIVACIDADE
+
+Dias Uteis das 10 as 13h
+www.cnp d.p t duvidas@cnpd.pt
+Processo PAR/2019/6
+
+informacao relativa a pessoas assim identificadas ou, relacionando com outra informagao
+pessoal, suscetivel de as identificar. Na verdade, os drones podem ser operados com
+dispositivos acoplados que permitem a captagao e gravacao de som e, portanto, de conversas
+de pessoas, ou que permitem a captagdo de outros dados pessoais — por exemplo, atraves
+
+de sensores de infravermelhos ou tecnologia de soft biometrics.
+
+Nessa medida, a CNPD recomenda que o regime previsto no artigo 11.° sobre captagao de
+imagens seja ainda estendido a outras formas de captagao e ulterior tratamento de dados
+
+pessoais.
+
+2. Acompeténcia para fiscalizagaéo dos tratamentos de dados pessoais decorrentes da
+
+operacao de drones
+
+Um outro aspeto do regime que importa destacar prende-se com a competéncia para a
+fiscalizacao. Considerando que cabe a autoridade nacional de controlo dos tratamentos de
+dados pessoais a competéncia de fiscalizagao, de aplicagao de medidas corretivas, entre as
+quais figuram as sancdes pecuniarias (definidas no RGPD), para que o disposto no n.° 1 do
+artigo 17.° nao pareca excluir essa competéncia quanto aos tratamentos de dados pessoais
+realizados com a operacdo de aeronaves nao tripuladas, recomenda-se a ressalva, no inicio
+do preceito ou em numero auténomo no mesmo artigo, da competéncia da CNPD para
+fiscalizar os tratamentos de dados pessoais que se realizem no territorio nacional neste
+contexto.
+
+3. Restantes tratamentos de dados pessoais da responsabilidade da ANAC e AAN
+
+A terminar, destaca-se que se encontram regulados na presente Proposta de Lei os
+tratamentos de dados pessoais decorrentes do procedimento de controlo administrativo previo
+
+da operacao de drones.
+
+Com efeito, no n.° 4 do artigo 10.° preveem-se as categorias de dados objeto de recolha para
+efeito da emissdo de autorizacado pela ANAC, os quais se afiguram adequados e necessarios
+
+para a finalidade do tratamento.
+
+No n.2 1 do artigo 12.° prevé-se uma plataforma eletrénica para o processamento da
+
+informacao, da responsabilidade da ANAC, que assegura a interligagao com a AAN.
+
+3V.
+I
+
+Processo PAR/2019/6 | 4
+
+ 
+  
+
+ 
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+E no n.° 3 do artigo 12.° prevé-se 0 acesso permanente pelas entidades com competéncia de
+autorizagao ou fiscalizagao aos «dados da plataforma». A remissao para o regime juridico de
+protegao de dados pessoais torna clara a necessidade de observar os principios e regras de
+
+protecao de dados pessoais no contexto destes tratamentos.
+
+De todo o modo, assinala-se que a referéncia ao acesso aos d300s da Plataforma nao é a
+mais correta, porque os dados, tanto quanto se consegue compreender da redagao do artigo,
+nao estao na plataforma mas sim conservados em base de dados especifica. E, portanto,
+melhor seria falar-se em acesso 4 base de dados que a plataforma alimenta ou em acesso 4
+
+Plataforma pata consulta de dados.
+
+ltl. Conclusao
+
+1. Com os fundamentos acima expostos, a CNPD entende que a Proposta de Lei em apreco
+vem colmatar as lacunas e a insuficiéncia organica e formal do Decreto-lei n.° 98/2018, de 13
+de julho, para regular o impacto que a utilizagao das aeronaves nao tripuladas («drones»)
+pode ter nos direitos fundamentais ao respeito pela vida privada, a imagem e a liberdade,
+quando a elas estejam acoplados dispositivos suscetiveis de captar som ou imagem ou,
+
+inclusive, dados biométricos de pessoas.
+
+2. O diploma carece, porém, de pontuais revisGes, sobretudo tendo em vista a garantia do
+principio da transparéncia dos tratamentos de dados pessoais, bem como da seguranca e
+certeza juridicas na aplicagao do regime nele fixado. Assim, a CNPD vem recomendar o
+
+seguinte:
+
+i. Em relagao a operagao de drones para fins ludicos ou recreativos em espacos
+publicos, na definigao destes espacos por parte da Administragao Publica central,
+regional ou local tem de se garantir que nado sejam afetados os direitos, liberdades
+€ garantias de terceiros, em especial daqueles que vivam ou se encontrem em
+edificios ou infraestruturas situados a uma distancia de apenas 30 metros; assim,
+recomenda que se acrescente ainda no n.° 2 do artigo 5.°, ou em numero auténomo
+no mesmo artigo, o dever de consulta prévia A CNPD no procedimento
+
+administrativo de fixagao de tais espacos:
+
+Rua de Sao Bento, 148-3° ° 1200-821 LISBOA “ei jletey =i
+Tel: 213 928 400 Fax: 213 976 832 LINHA PRIVACIDADE
+
+d t Dias uteis das 10 as 13h
+www.cnp -P duvidas@cnpd.pt
+Processo PAR/2019/6 | 4v.
+
+iL. Sugere também que se acrescente um novo numero ao artigo 5.° a impor o dever
+de publicitacao, na Internet,dos espagos publicos destinados a operagao de drones
+para fins ludicos e recreativos;
+
+lil. Em relacdo aos espacos privados e espacos de acesso publico, a CNPD considera
+haver utilidade em explicitar no n.° 1 do artigo 4.° os atributos prévioe expresso do
+consentimento, para que nao sobrem duvidas de interpretagao da diferente
+redacao do n.° 1 edon.® 2;
+
+iV. Recomenda que se ressalve no n.° 3 do artigo 4.° da Proposta o regime especifico
+de captacdo de imagens previsto no artigo 11.° do mesmo diploma, para clarificar
+que a autorizacdo da ANAC nao dispensa outros deveres nele previstos;
+
+Vv. Sugere a clarificagao, no artigo 17.°, de que o disposto no seu n.° 1 nao afasta as
+competéncias da CNPD de fiscalizagao e de adogao de medidas corretivas quanto
+aos tratamentos de dados pessoais realizados com a operagao de aeronaves nao
+
+tripuladas.
+
+3. Por fim, considerando que os dispositivos acoplados aos drones permitem nao apenas a
+captacdo de imagens, mas também de som e, portanto, de conversas de pessoas, e que
+podem também permitir a captacao de outros dados pessoais (por exemplo, atraves de
+sensores de infravermelhos ou tecnologia de soff biometrics), a CNPD recomenda que o
+regime previsto no artigo 11.° sobre captagao de imagens seja ainda estendido a outras
+
+formas de captacao e ulterior tratamento de dados pessoais.
+
+Lisboa, 5 de fevereiro de 2019
+
+-
+‘
+
+—
+
+Filipa Calvao (Presidente)

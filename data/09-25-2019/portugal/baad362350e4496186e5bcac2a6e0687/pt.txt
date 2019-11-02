@@ -1,0 +1,120 @@
+Processo n.° PAR/2019/9 | 1 [
+
+ 
+  
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+PARECER/2019/7
+
+[. Pedido
+
+O Presidente da 5.2 Comissdo Especializada Permanente de Satide e Assuntos Sociais da
+Assembleia Legislativa da Regiado Autonoma da Madeira remeteu & Comissdo Nacional de
+Protec¢ao de Dados (CNPD), para parecer, o Projeto de Decreto Legislativo Regional que
+estabelece o regime juridico do licenciamento e fiscalizacao de unidades de internamento e
+equipas de apoio integrado domicilidrio, constituidas pelas Instituicdes Privadas de
+Solidariedade Social, Misericdérdias, Pessoas Coletivas de Utilidade Publica e Entidades
+Privadas que prestem ou venham a prestar servicos de cuidados continuados e de apoio social
+
+na Regiao Aut6énoma da Madeira.
+
+O pedido formulado e o parecer ora emitido decorrem das atribuigoes e competéncias da
+CNPD, enquanto entidade administrativa independente com poderes de autoridade para o
+controlo dos tratamentos de dados pessoais, conferidos pela alfnea c) do n.° 1 do artigo 57.°
+e pelo n.° 4 do artigo 36.° do Regulamento (UE) 2016/679, de 27 de abril de 2016
+(Regulamento Geral sobre a Protecao de Dados — RGPD), em conjugagao com o disposto no
+n.° 1 do artigo 21.°e non.° 1 do artigo 22.°, ambos da Lei n.° 67/98, de 26 de outubro, alterada
+pela Lei n.° 103/2015, de 24 de agosto (Lei de Protecdo de Dados Pessoais — LPDP).
+
+A apreciagao da CNPD no presente parecer restringe-se aos aspetos de regime relativos aos
+tratamentos de dados pessoais, ou seja, a operacdes que incidem sobre informacao
+respeitante a pessoas singulares, identificadas ou identificaveis — cf. alineas 1) e 2) do artigo
+4.°do RGPD.
+
+ll. Apreciagao
+
+O Decreto-Lei n.° 101/2006, de 6 de junho, que cria a Rede Nacional de Cuidados
+Continuados Integrados, bem como o Decreto-Lei n.° 136/2015, de 28 de julho, que altera e
+republica aquele diploma legal, remetem para diploma prdprio o regime de fiscalizacao e
+licenciamento das unidades de internamento e das equipas de apoio integrado. A Rede de
+
+Cuidados Continuados da Regiao Auténoma da Madeira foi criada pelo Decreto Legislativo
+
+ 
+
+ 
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928400 | FAX: +351 213 976 832
+Processo n.° PAR/2019/9 | 1.
+
+Regional n.° 30/2012/M, de 8 de novembro, que adaptou a esta Regido o regime instituido no
+Decreto-Lei n.° 101/2006, de 6 de junho.
+
+O presente Projeto de Decreto Legislativo Regional visa estabelecer o regime juridico de
+licenciamento e fiscalizagao das unidades de internamento e das equipas de apoio integrado
+que prestem servigos no ambito da Rede de Cuidados Continuados Integrados na Regiao
+Autonoma da Madeira (REDE) ao abrigo do disposto no n.° 2 do artigo 7.° do Decreto
+Legislativo Regional n.° 9/2007/M, de 15 de marco.
+
+O Projeto de Decreto Legislativo Regional encerra alguns preceitos que visam o tratamento
+de dados pessoais nos termos do artigo 4.°, alineas 1 e 2, do RGPD, pelo que importa analisar
+se respeitam as disposicdes nele constantes. Referimo-nos as disposigdes relativas ao
+tratamento de dados de identificagao do requerente do pedido de licenciamento, do diretor
+clinico, diretor de enfermagem ou enfermeiro coordenador e do diretor tecnico nos casos
+legalmente exigidos (cfr. a alinea h) do n.° 2 do artigo 4.° do Projeto) bem como o numero de
+
+identificagao fiscal (NIF) do requerente.
+
+Note-se que os pedidos de licenciamento da atividade e das infraestruturas das unidades de
+internamento, bem como os pedidos de licenciamento da atividade das equipas de apoio
+integrado domiciliario devem ser instruidos com cépia autenticada do bilhete de identidade
+(BI) do requerente e do respetivo cart&éo de contribuinte ou, em alternativa, do cartao de
+cidadao (alinea a) do n.° 3 e alinea a) do n.° 4 do artigo 4.°).
+
+Ora, a Lei n.° 7/2007, de 5 de fevereiro, no n.° 2 do seu artigo 5.°, consagra a interdicao da
+reprodugao do cartao de cidadao em fotocdpia ou qualquer outro meio sem consentimento do
+titular, salvo nos casos expressamente previstos na lei ou mediante decisdo de autoridade
+judiciaria. Sublinha-se, a este propdsito, que o direito 4 protecao de dados pessoais integra o
+catalogo dos direitos, liberdades e garantias, pelo que os diplomas legais que prevejam
+tratamentos de dados pessoais, na medida em que estes consubstanciam uma restricdo ou
+condicionamento desse direito, tm de revestir a forma de lei, ou de decreto-lei autorizado,
+nos termos da alinea b) do n.° 1 do artigo 165.° da Constituig&o da Republica Portuguesa
+(CRP). Assim, a CNPD entende que o ato legislativo regional em andlise nado tem a forga
+juridica constitucionalmente exigida.
+
+fv
+Processo n.° PAR/2019/9 | 2
+
+   
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+Constata-se ainda que o Projeto de Decreto Legislativo Regional nao consagra qualquer
+disposi¢ao que diretamente regule os tratamentos de dados pessoais nele previstos, nem faz
+qualquer referéncia ao RGPD, que se aplica na ordem juridica portuguesa desde 25 de maio
+de 2018.
+
+Recomenda-se assim que seja feita remissao expressa para o regime juridico de protecao de
+dados consagrado no RGPD salvaguardando assim os direitos de informacdo, de acesso e
+
+retificagao dos titulares dos dados nos termos previstos nos artigos 14.° a 16.° do RGPD.
+
+HH. Conclusao
+
+Com os fundamentos acima expostos, a CNPD alerta para o condicionamento constitucional
+decorrente da alinea b) do n.° 1 do artigo 165.° da Constituigao e recomenda que no texto do
+
+diploma seja feita remissao expressa para o regime juridico de protecdo de dados vigente.
+Lisboa, 19 de fevereiro de 2019
+NX
+
+$i —
+
+Filipa Calvao (Presidente)
+
+ 
+
+AV. D. CARLOS I, 134- 1° {| 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832

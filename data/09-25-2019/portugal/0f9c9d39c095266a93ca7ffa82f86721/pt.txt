@@ -1,0 +1,674 @@
+Processo n.° PAR/2019/24
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+PARECER 2019/24
+
+|. Pedido
+
+A Comissao de Assuntos Constitucionais, Direitos, Liberdades e Garantias remeteu,
+para parecer, a Comissao Nacional de Protegao de Dados (CNPD) as «Propostas de
+alteragao a Lei n.° 43/2004, de 18 de agosto — Lei de Organizacdo e Funcionamento da
+Comissao Nacional de Protegao de Dados (Artigo 62.°-A)» apresentadas pelo Grupo
+
+Parlamentar do Partido Socialista.
+
+O documento sujeito a parecer tem por titulo «Propostas de aditamento a Proposta de
+Lei n.° 120/XIlI/3.2 (GOV)», integrando dois artigos: o artigo 62.°-A relativo a Lei n.°
+43/2004, de 18 de agosto, entretanto alterada pela Lei n.° 55-A/2010, de 31 de
+dezembro, e o artigo 62.°-B, que altera a Lei n.° 26/2016, de 22 de agosto.
+
+O pedido formulado e o parecer ora emitido decorrem das atribuigdes e competéncias
+da CNPD, enquanto entidade administrativa independente com poderes de autoridade
+para o controlo dos tratamentos de dados pessoais, conferidos pela alinea c) do n.° 1
+do artigo 57.° e pelo n.° 4 do artigo 36.° do Regulamento (UE) 2016/679, de 27 de abril
+de 2016 (Regulamento Geral sobre a Protecdo de Dados — RGPD), em conjugacao com
+o disposto no n.° 1 do artigo 21.° eno n.° 1 do artigo 22.°, ambos da Lei n.° 67/98, de 26
+de outubro, alterada pela Lei n.° 103/2015, de 24 de agosto (Lei de Protecao de Dados
+Pessoais ~ LPDP).
+
+Il. Apreciagao da proposta de aditamento do artigo 62.°-A: alteracao a Lei de
+
+organizacao e funcionamento da CNPD
+
+A CNPD sauda a iniciativa de revisao da sua lei de organizacdo e funcionamento, por
+ser imprescindivel a atividade por si desenvolvida, no novo quadro jurfdico de protecdo
+de dados, a reestruturagdo dos servicos de apoio e o reconhecimento de um conjunto
+
+de poderes necessarios a adequada e eficaz gestao dos mesmos.
+
+Com efeito, a aplicagao do Regulamento Geral sobre a Protecao de Dados —
+Regulamento (UE) 2016/679, de 27 de abril de 2016 (doravante RGPD) -, bem como o
+
+novo regime decorrente da Diretiva relativa aos tratamentos de dados pessoais no setor
+
+AV. D. CARLOS I, 134- 1° {| 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832
+
+1
+Processo n.° PAR/2019/24
+
+policial e judicial (Diretiva (UE) 2016/680), cuja transposicao se aguarda, implicam uma
+alteragao radical da matriz da atividade de regulacdo dos tratamentos de dados
+pessoais, com a transformagao da fungao de controlo prévio numa tarefa excecional, e
+a Sua substituigao pela fungao de orientagdo, que agora assume um particular relevo,
+passando o essencial da intervencao da CNPD a centrar-se na fiscalizacdo e aplicacao
+de sangoes. Ora, uma tal alteragdo tem de ser acompanhada do redimensionamento e
+adaptacao da estrutura organica desta Comissdo0, bem como da Criagao de condicdes
+efetivas de independéncia, 0 que depende em boa medida da revisdo da Lein.° 43/2004,
+
+de 18 de agosto.
+
+Nao obstante a presente proposta prever algumas das condicdes indispensaveis a
+reestruturagao da CNPD, fica nalguns aspetos aquém do necessario. E sobre esses
+aspetos que em seguida nos debrugaremos, deixando para o final algumas observacdes
+
+pontuais sobre quest6es de coeréncia do regime.
+
+1. Oreconhecimento da autonomia administrativa e financeira a CNPD
+
+A atribuigao de autonomia administrativa e financeira A CNPD, expressa na redacgao
+proposta para 0 n.° 1 do artigo 2.° da Lei n.° 43/2004, é uma solucao que nado pode
+deixar de ser bem acolhida. Esta é, na verdade, uma pretensdo antiga da Comissdo,
+justificada em parte pela circunstancia de a CNPD ter receitas proprias no seu
+or¢amento, mas sobretudo pela necessidade de se fazer refletir no Ambito da gestao
+financeira a sua independéncia funcional e organica. Naturalmente que esta autonomia
+nao afeta a manutengao dos diferentes mecanismos de controlo da legalidade financeira
+ja previstos na ordem juridica portuguesa para as entidades administrativas
+
+independentes que funcionam junto da Assembleia da Reptblica.
+
+Simplesmente, o reconhecimento da autonomia administrativa e financeira nao foi
+acompanhado da correspondente reestruturacdo da CNPD, designadamente na
+previsao da obrigatoriedade de um fiscal Unico, para o acompanhamento independente
+das contas, como impée o n.° 1 do artigo 12.° da Lei n.° 8/90, de 20 de fevereiro, que
+
+fixa as bases da contabilidade publica.
+
+Alias, na perspetiva da CNPD seria preferivel assumir formalmente o reconhecimento
+
+legal de personalidade juridica de direito publico A CNPD, como consequéncia desse
+
+1v.
+Processo n.° PAR/2019/24
+
+ 
+
+ 
+
+  
+  
+
+ 
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+regime de autonomia, o qual casa melhor com o reconhecimento pelo RGPD de
+personalidade judiciaria plena’. E assim justifica-se ainda distinguir dentro desta
+entidade, como érgao autdnomo (e nao diretamente confundivel com a pessoa juridica
+CNPD), 0 érgao colegial titular das competéncias e dos poderes que o RGPD reconhece
+a autoridade nacional de controlo. Destaque-se, de resto, que nas alineas h) e i) do
+artigo 27.° da Proposta se encontra a expressa diferenciagao de duas estruturas
+
+organicas, falando-se ai em conse/ho reguladore fiscal Unico.
+
+Assim, em coeréncia com a previsdo do regime de autonomia administrativa e financeira
+no artigo 2.°, a CNPD recomenda a introducao de um artigo que preveja a existéncia
+dentro da CNPD de um fiscal Unico, as suas competéncias e os termos da sua
+designa¢ao em condicgées de independéncia. Toma-se a liberdade de sugerir a seguinte
+
+redacgao do referido artigo:
+
+Fiscal unico
+7 - O fiscal unico € o 6rgao responsavel pelo controlo da legalidade e eficiéncia da gestao
+financeira e patrimonial da CNPD e de consulta por esta neste ambito.
+2 - O fiscal unico é um revisor oficial de contas, designado pela Assembleia da
+Republica, por resolucao, @ que toma posse perante o Presidente da Assembleia da
+Republica.
+3 - O mandato do fiscal unico tem a duracdo de cinco anos, nao renova vel
+permanecendo em exercicio de funcdes até 4 efetiva substituicao.
+4 — O fiscal unico € remunerado por valor correspondente a 25% da remuneracao base
+auferida pelos vogais do conselho regulador da CNPD.
+35 - Compete, designadamente, ao fiscal unico:
+a) Acompanhar e controlar a gestao financeira e patrimonial da CNPD:
+b) Examinar periodicamente a situac&o financeira e econémica da CNPD e verificar o
+cumprimento das normas reguladoras da sua atividade;
+c) Emitir parecer prévio no prazo maximo de 10 dias sobre a aquisicao, oneracao,
+arrendamento e alienacao de bens méveis;
+d) Emitir parecer sobre qualquer assunto gue /he sea submetido pela CNPD;
+
+e) Farticipar as entidades competentes as itregularidades gue detete.
+
+ 
+
+' Cf. artigo 9.° da Lei n.° 8/90, de 20 de fevereiro.
+
+ 
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928 400 | FAX: +351 213 976 832
+
+2
+Processo n.° PAR/2019/24 | 2v.
+
+Tambem como consequéncia do regime de autonomia previsto no artigo 2.°, deveon.°
+1 do artigo 20.° da Lei n.° 43/2004 ser revisto, alterando-se a referéncia ao gozo de
+«autonomia administrativa», para gozo de autonomia administrativa e financeira.
+
+Ainda a proposito deste artigo, importa recordar que a independéncia da CNPD tem de
+ser garantida perante todos os intervenientes nos tratamentos de dados pessoais, sejam
+eles pessoas singulares, geralmente enquanto titulares dos dados, sejam organismos
+publicos e empresas que realizam os tratamentos. Por isso, 6 imprescindivel assegurar
+essa independéncia também em relagao ao dorgao que dirige toda a administracao
+central do Estado, no seio da qual se realizam muitos e muito impactantes tratamentos
+de dados pessoais: o Governo?. Nesse sentido, uma das formas de concretizar essa
+independéncia é de nao subordinar a autorizagao ministerial a realizacao de despesas
+pela CNPD, mantendo esse controlo prévio de legalidade financeira a cargo do
+Presidente da Assembleia da Republica, tal como ja se encontra previsto na Lei do
+
+Orcamento de Estado de 2019 (LOE), no n.° 3 do artigo 254.°.
+
+Assim, a CNPD recomenda que seja introduzido no artigo 20.° um novo numero,
+
+sugerindo a seguinte redagao, que repete o disposto naquela disposicao da LOE:
+
+A gestao do orgamento da CNPD, incluindo as dotacées néo integradas no orcamento
+da Assembleia da Republica, fica sujeita ao regime aplicével ao orcamento da
+Assembleia da Republica, sendo igualmente aplicdvel o regime previsto no n.° 10 do
+artigo 60.° da Lei n.° 71/2018, de 31 de dezembro.
+
+2 Neste sentido se tem especificamente pronunciado o Tribunal de Justica da Unido Europeia — cf. os
+acordaos de 16 de outubro de 2012, C-614/10, e de 9 de marco de 2010, C-518/07, acessiveis em
+http://curia.europa.eu/juris/document/document.jsf?docid=130265&mode=req&pagelndex=1 &dir=&o0cc=firs
+t&part=1&text=&doclang=PT &cid=7906887 e
+http://curia.europa.eu/juris/document/document jsf?text=&docid=79752&pagelndex=0&doclang=PT&mode
+=|st&dir=&occ=first&part= 1 &cid=5303372, respetivamente.
+Processo n.° PAR/2019/24
+
+  
+  
+
+COMISSAO NACIONAL
+DF PROTECAO DE DADOS
+
+2. Composi¢gao da CNPD e estatuto dos seus membros
+
+Um aspeto do regime que suscita sérias reservas em termos de conformidade com a
+
+legislagao europeia e nacional vigente diz respeito a composicao da CNPD.
+
+No n.° 1 do artigo 3.° define-se a composicao da CNPD, mantendo-se o numero de
+membros que estava previsto no artigo 25.° da Lei n.° 67/98, de 26 de outubro, mas com
+
+inovagao em relacao a competéncia para a sua designacdo.
+
+Na realidade, o disposto no RGPD exige alteracdes quanto ao modo de “nomeacgao” dos
+membros da CNPD, uma vez que define que orgdos nacionais podem ter competéncia
+para os escolher. No n.° 1 do artigo 53.° do RGPD reconhece-se tal poder apenas ao
+Parlamento, Governo, Chefe de Estado ou a um organismo independente incumbido da
+nomeagao nos termos do direito nacional. Neste novo quadro legislativo europeu, a
+proposta que agora se aprecia mantém a designacdo de dois membros pelo Governo e
+aos tres membros (presidente e dois vogais) eleitos pela Assembleia da Republica junta
+
+agora mais um membro.
+
+Se esta alteragao nao contraria em nada o disposto no RGPD, ja a previsao de que o
+setino membro seja «uma personalidade designada, de entre os seus membros, pela
+Comissao de Acesso aos Documentos Administrativos» (CADA) contradiz clara e
+objetivamente o disposto no n.° 1 do artigo 53.° do RGPD. E evidente que a CADA nao
+constitui «um organismo independente incumbido da nomeacao nos termos do direito
+nacional». Nao porque nao seja um organismo independente, mas antes porque nao
+tem nas suas atribuigdes a funcdo de selecionar personalidades para este tipo de
+
+organismos, que € 0 queo RGPD tem claramente em vista com aquela previsao.
+
+Alias, a limitagao da escolha da personalidade aos membros da CADA sempre suscitaria
+uma nova contradi¢ao com as exigéncias impostas pelo RGPD, em especial no n.° 3 do
+artigo 54.°, quando lido em conjugacdo com o regime de incompatibilidades e
+impedimentos dos titulares de altos cargos publicos, /e, a Lei n° 64/93, de 26 de
+
+agosto, alterada por ultimo pela Lei Organica n.° 1/2011, de 30 de novembro.
+
+Naquela norma determina-se que «Os membros da autoridade de controlo [...], durante
+oO seu mandato, nao podem desempenhar nenhuma atividade, remunerada ou nao, que
+com elas seja incompativel.» Ora, sendo a CADA constituida por personalidades que
+
+exercem outras atividades remuneradas (v.g., deputados e advogados, para além de
+
+Av. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928 400 | FAX: +351 213 976 832
+
+3
+
+(
+Processo n.° PAR/2019/24
+
+presidentes de autarquias locais) — cf. n.° 1 do artigo 29.° da Lei n.° 26/2016, de 22 de
+agosto —, nao se vé como possa a lei admitir que tais personalidades sejam designadas
+para um cargo que tem natureza de alto cargo publico (ao contrario do que sucede com
+a CADA) e que, por essa razao, esta sujeito a proibigao de cumulacao de funcdes
+profissionais remuneradas, com excegao das de ensino superior e investigacao (cf.
+
+alinea c) do n.° 1 do artigo 3.° e artigo 7.° da Lei n.° 64/93, de 26 de agosto).
+
+De resto, pelo mesmo motivo, esta forma de designagao do membro da CNPD sempre
+estaria, per se, em contradiga€o com a lei nacional que prevé o regime de
+
+incompatibilidades e impedimentos dos titulares de altos cargos publicos.
+
+Por fim, e tentando compreender a razao de ser desta proposta legislativa, importa
+esclarecer que a reciprocidade de designagao de membros entre estes dois organismos
+
+independentes nao tem justificagao no plano substantivo.
+
+Por outras palavras, sendo competéncia da CADA garantir o cumprimento da Lei n.°
+26/2016, de 22 de agosto, pronunciando-se, nesse Aambito, sobre o acesso a
+documentos administrativos nominativos (/@, com dados pessoais), a opcao do
+legislador nacional em integrar na composicao deste organismo um membro da CNPD
+assenta evidentemente no contributo que a perspetiva da CNPD, tendo em conta as
+suas atribuigdes, pode ter no seio das reunides daquele organismo quando em causa
+esteja a apreciacgao do acesso a dados pessoais. Ja o inverso nao parece fazer sentido,
+quando se interprete aquele diploma legal como tendo retirado 4 CNPD a competéncia
+para conhecer do acesso a dados pessoais que integrem documentos administrativos,
+por nao caber nas atribuig6es da CADA acompanhar outro tipo de tratamentos de dados
+pessoais°’, nem se reconhecer aos seus membros, enquanto tais, uma especial aptidao
+
+para se pronunciar sobre os mesmos.
+
+° Ou seja, nao é atribuigaéo da CADA apreciar outro tipo de operacdes de tratamento de dados pessoais,
+como por exemplo a recolha, a conservac¢aéo, a pseudonimizacao ou a publicacdo de dados pessoais, nem,
+quanto a operagao que se consubstancia no acesso a dados pessoais, pronunciar-se sobre os acessos a
+dados pessoais detidos por entidades privadas (nao abrangidas pelo artigo 4.° da Lei n.° 26/2016), por
+neste contexto nao se fazerem sentir as raz6es de transparéncia administrativa que est4o na base de um
+
+regime juridico especifico para o acesso a documentos administrativos.
+
+SV.
+Processo n.° PAR/2019/24
+
+ 
+  
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+Deve, pois, a alinea d) do n.° 1 do artigo 3.° ser eliminada e ser definida uma outra forma
+de designagao do sétimo membro da CNPD que esteja em conformidade com o direito
+nacional e o direito da Unido Europeia. Ou, em alternativa, ser reduzido o numero de
+membros desta Comissao, em moldes proximos do que sucedeu com a generalidade
+
+das entidades reguladoras nos ultimos anos.
+
+Ainda a proposito da composigao da CNPD, refira-se a novidade de os mandatos dos
+seus membros serem renovaveis duas vezes. Considerando o tempo de dura¢gao de
+cada mandato (cinco anos, que era o que resultava ja da Lei n.° 67/98, de 26 de
+outubro), a suscetibilidade da sua renovacdo por duas vezes permite aos membros
+permanecer quinze anos nesta entidade. Sendo esta uma op¢ao que nao contradiz os
+limites impostos pelo RGPD - que define apenas o tempo minimo de duragao do
+mandato, fixando em 4 anos esse limite (cf. alinea d) do n.°1 do artigo 54.°) —-, nao pode
+deixar de se destacar tal novidade, a qual, porventura, tera sido inspirada no regime da
+CADA. Importa, porém, assinalar que o resultado pratico da previsao desta possibilidade
+de renovagao por duas vezes é bem diferente num e noutro contexto. Sendo os
+mandatos dos membros da CADA apenas de trés anos, os membros da CNPD poderao
+
+permanecer muito para além do periodo de 9 anos a que aqueles estdo limitados.
+
+A CNPD aproveita a ocasido para sublinhar a importancia de uma atualizagao do
+estatuto dos seus membros, no que diz respeito a remuneracao. Recorda-se que, de
+acordo com o estatuido no artigo 9.° da Lei n.° 43/2004, o presidente da Comissao é
+remunerado de acordo com a tabela indicidria e o regime fixados para o cargo de
+
+diretor-geral, cabendo aos restantes membros uma remuneracao igual a 85% daquela.
+
+Em primeiro lugar, cumpre notar que, de todas as entidades administrativas
+independentes que funcionam junto da Assembleia da Republica, a CNPD parece ser a
+unica em que o presidente e os vogais tm uma remuneracao tao baixa (de entre as
+entidades cujos vogais auferem efetivamente remuneragao por forga das funcées ali
+desempenhadas com continuidade). Com efeito, a generalidade daquelas entidades
+tem como presidente, por determinacdo legal, juizes conselheiros, portanto com
+
+remuneracgao substancialmente mais elevada; e o presidente e vogais da Entidade
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832
+
+4
+
+f
+Processo n.° PAR/2019/24 | 4v.,
+
+Reguladora da Comunicagao Social tém uma remuneracao equiparada a dos gestores
+
+publicos, empresa do grupo A.
+
+Em segundo lugar, considerando a natureza da fungcao da CNPD, afigura-se nao haver
+similitude de situagdes que suporte a equiparacdo de remuneracaéo a dos
+diretores-gerais e subdiretores-gerais (todos eles inferiores hierarquicos na hierarquia
+dos ministerios). Na verdade, ao contrario do que sucede com o diretor-geral, o
+presidente da CNPD tem a mesma responsabilidade financeira do ministro (cf. alinea g)
+do n.° 1 do artigo 19.° da Lei n.° 43/2004), e a extensdo e natureza dos setores de
+atividade regulados pela CNPD justificam garantias reforgadas de independéncia. Com
+especial énfase desde maio de 2018: o valor dos limites maximos previsto no RGPD
+para as coimas que a CNPD podera aplicar é suscetivel de gerar uma maior pressao
+externa sobre os seus membros, pelo que, similarmente ao que sucede com os
+membros dos conselhos das autoridades reguladoras, se justifica assegurar condicédes
+
+suficientes de iseng¢ao no desempenho dos mandatos.
+
+Deste modo, seria aconselhavel uma revisao do n.° 1 do artigo 9.° da Lei n.° 43/2004,
+no sentido de tornar o estatuto remuneratdorio dos seus membros mais consentaneo e
+
+adequado a dignidade e independéncia que o exercicio de tal funcdo exige.
+
+3. As competéncias relativas a gestao dos recursos humanos e o regime dos
+
+trabalhadores
+
+Em relagao aos poderes reconhecidos a CNPD importa especificar nesta lei uma
+competéncia que e essencial para dar pleno cumprimento ao regime do SIADAP
+(Sistema Integrado de Gestao e Avaliagao do Desempenho na Administracao Publica).
+Na verdade, a CNPD, por forga da sua estrutura organica, nao tem como aplicar direta
+e plenamente o regime previsto na Lei n.° 26-B/2007, de 28 de dezembro, pois, nao
+dispondo de poderes regulamentares para 0 efeito, tem aguardado a aprovacdo de uma
+lei que venha adaptar aquele regime aos seus servicos, como, alias, impunha a Lei n.°
+64.°-A/2008, de 31 de dezembro, no n.° 1 do seu artigo 23.°, em conjugacao com a
+alinea f) do n.° 1 do artigo 48.° da Lei n.° 3/2004, de 15 de janeiro).
+
+Na auséncia de uma tal lei e sendo essencial que o dirigente e os trabalhadores da
+
+CNPD sejam avaliados pelo seu desempenho em condicées similares as dos restantes
+Processo n.° PAR/2019/24 | 5
+
+ 
+  
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+trabalhadores no exercicio de funcdes publicas, é necessario o reconhecimento a esta
+Comissao da competéncia regulamentar para adaptar o regime do SIADAP, no respeito
+
+pelos limites legais.
+
+Assim, a CNPD recomenda que seja alterada a redacdo proposta para o n.° 3 do artigo
+22.°, acrescentando-se no final do preceito bem como o regulamento de avaliacao dos
+
+trabalhadores.
+
+Ainda a respeito da gestao dos recursos humanos, a CNPD assinala revestir a maior
+utilidade para suprir a insuficiéncia dos mesmos, no contexto do regime de mobilidade,
+uma previsao similar 4 que consta da lei de organizacado da CADA (Lei n.° 10/2012, de
+29 de fevereiro): a dispensabilidade do acordo do servico de origem para a mobilidade
+sempre que a mesma Opere por iniciativa do trabalhador. Alias, essa previsdo é também
+admitida para os ministérios, com base em decis&o ministerial, na Lei Geral do Trabalho
+em Fung6es Publicas. Semelhante previsao permitiria a CNPD desbloquear situacdes
+de impasse no recrutamento de novos trabalhadores, tanto mais importante quando
+estejam em causa pessoas com conhecimentos especializados no contexto das
+materias de que se ocupa esta entidade, o que é essencial para a garantia de
+
+prossecugao efetiva e eficaz das suas atribuicdes.
+
+Assim, a CNPD sugere que seja introduzido no artigo 30.° da Lei n.° 43/2004 um novo
+
+numero com o seguinte teor:
+
+Para o desempenho de fungdes nos servicos de apoio da CNPD no ambito dos
+mecanismos de mobilidade, quando estes operem por iniciativa do trabalhador, 6
+
+dispensado o acordo do servico de origem.
+
+Importa ainda notar a importancia que para a CNPD tem a reestruturagao dos servicos,
+nos termos aqui propostos, para melhor corresponder as funcdes que Oo RGPD lhe
+atribui.
+
+Todavia, dificilmente se podera garantir a eficiéncia e agilizagao dos procedimentos
+decisorios enquanto os servicos estiverem sujeitos a um Unico dirigente. A atividade da
+CNPD é cada vez mais diversificada, exigindo por isso uma coordenagao efetiva das
+
+diferentes unidades de servico, nado sendo eficiente nem eficaz que a coordenacao de
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832
+Processo n.° PAR/2019/24
+
+cinco unidades de servico recaia sobre a mesma pessoa. Basta pensar na natureza tao
+distinta da atividade desenvolvida pela Unidade de Inspecao e da atividade da Unidade
+de Relagdes Publicas e Internacionais, e da importancia das mesmas no quadro no novo
+regime juridico. A fungao de fiscalizagao dos tratamentos de dados, que sera uma das
+atividades principais da CNPD, exige uma articulacao atenta dos trabalhadores nela
+envolvidos (juristas e especialistas da area de tecnologia), enquanto a intervencao nos
+procedimentos de cooperacgao e de coeréncia com as outras autoridades de controlo da
+Uniao Europeia e no seio do Comité Europeu para a Protecao de Dados reclama um
+acompanhamento permanente. Que a uma Unica pessoa caiba garantir a coordenacao
+de cada uma destas unidades e das demais (Direitos e San¢des, Informatica e Apoio
+Administrativo e Financeiro), bem como a articulagao entre todas elas, afigura-se uma
+
+tarefa herculea, que nunca podera ser desenvolvida de modo cabal.
+
+Por estas razoes, a CNPD recomenda a previsao neste diploma da criacdo de uma
+figura intermedia que assegure a coordenacgao de cada unidade, sugerindo a seguinte
+
+redagao de um numero auténomo a inserir no artigo 22.°:
+
+Cada unidade tem um coordenador, cujos critérios de recrutamento so fixados em
+reguiamento da CNPD, designado em comissao de servico por periodos de trés anos,
+renovaveis medianie despacho do presidente, ouvida a CNPD, e que tem direito 4
+remuneracao base da sua categoria de origem acrescida de um suplemento de 8% sobre
+
+esse valor.
+
+4. Disposigoes diversas
+
+Finalmente, importa assinalar um conjunto de disposicdes da Proposta em apreco que,
+na perspetiva da CNPD, merecem pontual revisao, por razdes de coeréncia com outras
+
+disposicées legais.
+
+Assim, em primeiro lugar, aconselha-se que o n.° 3 do artigo 16.° seja alterado no
+sentido de ai serem considerados, para efeitos do dever de publicidade, outros
+regulamentos para cuja emissfao a CNPD seja competente. E que a competéncia
+regulamentar da CNPD decorre também do RGPD e abrange diferentes matérias — por
+exemplo, a CNPD aprovou e publicou um regulamento administrativo relativo a lista de
+tratamentos de dados pessoais sujeitos a avaliagao de impacto sobre a protecado de
+
+dados pessoais, em cumprimento do disposto no n.° 4 do artigo 35.° do RGPD.
+
+5.
+
+yr
+Processo n.° PAR/2019/24 | 6 y
+
+ 
+  
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+Nessa medida, sugere-se que a redacgdo do n.° 3 do artigo 16.° passe a ser a seguinte:
+
+Sao também publicados na 2.7 série do Diario da Republica os regulamentos
+administrativos, incluindo os relativos 4 fixacao de taxas e os emitidos ao abrigo do
+
+disposto no n.° 3 do artigo 22.°
+
+Em relagao ao artigo 20.°, nota-se apenas que a introducdo da alinea g) no n.° 2 parece
+repetir a previsao da alinea d) do mesmo numero, sugerindo-se a substituicao da
+
+redacao desta alinea pelo proposto na nova alinea g).
+
+Finalmente, por uma raz&o de coeréncia com as alteracédes legislativas entretanto
+operadas quanto a administragdo publica, recomenda-se a substituicdo da referéncia ao
+«Quadro» de pessoal por apa de pessoal na alinea d) do n.° 1 do artigo 19.°, no n.° 4
+
+do artigo 22.° e na epigrafe e n.° 1 do artigo 30.°.
+
+Ill. Apreciagao da Proposta de aditamento do artigo 62.°-B
+
+No ambito da competéncia que é reconhecida pela alinea b) do n.° 3 do artigo 58.° do
+RGPD, a CNPD pronuncia-se, ainda que sucintamente, sobre a proposta de aditamento
+do artigo 62.°-B, pelo qual se pretende alterar o artigo 6.° da Lei n.° 26/2016, de 22 de
+agosto, lei que aprova o regime de acesso a informacdo administrativa e ambiental e de
+
+reutilizagao de documentos administrativos.
+
+Ai se prevé definir um novo regime de acesso a documentos administrativos nominativos
+(ou seja, documentos administrativos que contenham dados pessoais) quando os dados
+pessoais em causa nao correspondam a categorias especiais de dados (os previstos n.°
+1 do artigo 9.° do RGPD) nem sejam relativos a intimidade da vida privada, para
+estabelecer o livre acesso a tais documentos; recorda-se que este regime esta,
+atualmente, apenas previsto para o acesso a documentos administrativos sem dados
+pessoais (cf. artigo 5.° da Lei n.° 26/2016, de 22 de agosto).
+
+Nao pode deixar de se notar que esta alteracao esta deslocada quer no tempo, quer no
+
+modo, quer ainda no contetdo.
+
+Quanto ao tempo, nao se percebe qual o motivo pelo qual se vem agora introduzir uma
+pretensa clarificagao no regime de acesso aos documentos administrativos. O diploma
+
+aqui objeto de alteragao foi aprovado varios meses depois da publicagao do RGPD e
+
+AV. D. CARLOS I, 134-19 | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832
+Processo n.° PAR/2019/24
+
+tomou em consideragao o disposto nas suas normas, como nao poderia deixar de ser,
+
+considerando que tal legislagao europeia se encontrava entao ja em vigor.
+
+Esta alteragao, alias, so parece introduzir ruido num aspeto de regime que nao estava
+a suscitar duvidas quanto a sua aplicacao, dada a clareza com que o legislador nacional
+definiu os documentos nominativos, ai incluindo todos os documentos administrativos
+
+com dados pessoais (cf. b) do n.° 1 do artigo 3.° da Lei n.° 26/2016).
+
+Quanto ao modo, é, pelo menos, surpreendente que no contexto da lei de execucdo do
+RGPD se pretenda legislar sobre o contetido da Lei de Acesso aos Documentos
+
+Administrativos.
+
+Quanto ao conteudo, torna-se insondavel a raz4o pela qual se limitou a presuncdo de
+que o pedido de acesso aos documentos nominativos se fundamenta no direito de
+acesso a documentos administrativos quando nao estejam em causa aquelas tipologias
+
+de dados pessoais.
+
+Recorda-se que, embora o RGPD, no artigo 86.°, reconheca a cada Estado-Membro o
+poder de definir a compatibilizacao entre a transparéncia administrativa e o direito a
+protegao de dados pessoais, ele nao deixa de impor uma conciliacao entre aquele valor
+e este direito fundamental. E essa conciliagao nao esta seguramente presente quando,
+por via de uma presungao legal, se aniquila o direito 4 protegao dos dados pessoais
+sempre que nao estejam em causa dados relativos a intimidade da vida privada e os
+
+dados previstos no n.° 1 do artigo 9.° do RGPD.
+
+O critério de determinacao da aplicagdo do RGPD e portanto da protecao reconhecida
+aos dados pessoais nao é o destas categorias de dados: todos os dados pessoais estado,
+a partida, protegidos, pelo que o processo de harmonizacdo dos diferentes direitos e
+valores fundamentais em tensao tem de ser alcangado por via da aplicacao do principio
+da proporcionalidade. No caso, nao se vé onde estejam a ponderacao da necessidade
+e o juizo de nao excesso na op¢ao legislativa do livre acesso a dados pessoais. Na
+verdade, nao se retire da norma agora proposta qual seja o especifico valor fundamental
+que sempre justificaria a desprotegao das pessoas singulares no que a sua informacao
+diz respeito - nao ha seguramente base para consagrar, em abstrato, um direito legal
+de acesso a documentos administrativos que sempre se sobreponha ao direito
+
+fundamental a protecao dos dados pessoais.
+
+6v.
+
+pr
+Processo n.° PAR/2019/24 | 7
+
+FE) COMISSAO NACIONAL
+-£.. DE PROTECAO DE DADOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Para melhor ilustragao do que se vem de dizer, repare-se que a presun¢ao que aqui se
+pretende introduzir apaga ou nega o direito a protecdo dos dados pessoais quando em
+causa esteja 0 acesso por quaisquer terceiros a documentos administrativos com dados
+pessoais tais como a morada ou dados de contacto dos cidadaos, bem como informacao
+relativa ao patrimonio de qualquer cidad&o, ou ainda os horarios laborais, remuneracao
+e justificagao de faltas que nao envolva informacdo sobre satide relativo a qualquer
+trabalhador.
+
+Esta solugao afigura-se, pois, desproporcionada, por ser excessiva, nao permitindo
+apreciar em concreto as situagdes em que tal acesso se pode justificar, o que parece
+
+violar 0 disposto no n.° 2 do artigo 18.° da Constituicdo da Republica Portuguesa.
+
+IV. Conclusao
+
+A CNPD sauda a iniciativa de revisdo da sua lei de organizagao e funcionamento,
+considerando contudo, com os fundamentos acima expostos, que as alteracdes
+propostas nao sao suficientes para assegurar o cabal cumprimento das fungdes que o
+
+RGPD impoe a autoridade nacional de controlo dos tratamentos de dados pessoais.
+
+1. Assim, para garantia efetiva da sua independéncia, quanto ao estatuto de autonomia
+
+e composicao, a CNPD recomenda:
+
+I. Em coeréncia com a previsao do regime de autonomia administrativa e
+financeira, a previsao da exist€ncia de um fiscal Unico e a definicao das
+respetivas competéncias, bem como os termos da sua designacao em
+condigdes de independéncia:
+
+ll. Para garantia efetiva da independéncia desta Comissado e do cumprimento
+das regras de legalidade financeira, a introducdo de uma norma similar a do
+n.° 3 do artigo 254.° da Lei do Orcamento de Estado de 2019, que sujeita as
+despesas a controlo prévio de legalidade financeira do Presidente da
+Assembleia da Republica;
+
+UH. A eliminagao da alinea d) do n.° 1 do artigo 3.°e a definig¢ao de uma forma
+de designagao do sétimo membro da Comissao que esteja em conformidade
+
+com 0 direito nacional e o direito da Unido Europeia;
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928 400 | FAX: +351 213 976 832
+Processo n.° PAR/2019/24 | 7v.
+
+IV. A revisao do n.° 1 do artigo 9.° da Lei n.° 43/2004, no sentido de tornar o
+estatuto remuneratdério dos membros da Comissao mais consentaneo e
+
+adequado a dignidade e independéncia que o exercicio de tal funcdo exige.
+
+2. Em relagao aos poderes da CNPD no ambito da gest€éo dos recursos humanos,
+aconselha a previsao de competéncia regulamentar para adaptar especificamente o
+regime do SIADAP, bem como a previsao da dispensabilidade do acordo do servico de
+origem para a mobilidade dos trabalhadores sempre que a mesma opere por iniciativa
+
+destes.
+
+3. No que diz respeito a organizagao dos servigos, entende ser adequada ao
+desenvolvimento da sua atividade no quadro do novo RGPD a proposta de
+reestruturagao em cinco unidades, mas considera imprescindivel para a gestao dos
+mesmos a criagao de uma figura intermédia que assegure a coordenacdo de cada
+unidade, sob pena de o Unico dirigente da CNPD nao conseguir assegurar de modo
+
+eficiente e eficaz a articulacao das diferentes tarefas da Comissdo.
+
+4. Alerta ainda para a necessidade de revisdo da redacgao de algumas normas, por
+razoes de coeréncia de regime (intra-legal e com outras regras legais), entre as quais
+aqui se destaca a do n.° 1 do artigo 20.°, onde deve estar especificada a autonomia
+
+administrativa e financelra.
+
+Finalmente, ao abrigo dos poderes conferidos pelo RGPD, a CNPD sublinha que a
+solugao proposta no artigo 62.°-B viola o n.° 2 do artigo 18.° da Constituicao da
+Republica Portuguesa, por negar em abstrato, sem atender as circunstancias do caso e
+ao concreto interesse no acesso, 0 direito a protegao dos dados pessoais sempre que
+em causa estejam documentos administrativos que nao contenham dados especiais e
+
+os relativos a intimidade da vida privada.
+
+Lisboa, 2 de maio de 2019
+
+oi
+
+Filipa Calvao (Presidente)

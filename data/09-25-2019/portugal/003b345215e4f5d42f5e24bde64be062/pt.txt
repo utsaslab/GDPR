@@ -1,0 +1,314 @@
+PAR/2019/3 | 1 rr
+
+  
+  
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+PARECER/2019/5
+| — Pedido
+
+O Ministério dos Negdcios Estrangeiros, através da Diregao-Geral de Politica Externa, vem
+solicitar 0 parecer da Comissdo Nacional de Protecao de Dados sobre o Projeto de revisao
+que altera a Convencgao entre a Republica Portuguesa e a Reptiblica Federativa do Brasil para
+Evitar a Dupla Tributagao e Prevenir a Evas3o Fiscal em matéria de Impostos sobre o
+Rendimento aprovada em abril de 2001 e ratificada pelo Presidente da Republica pelo Decreto
+do Presidente da Republica n.° 27/2001.
+
+A CNPD, enquanto entidade administrativa independente com poderes de autoridade para o
+controlo dos tratamentos de dados pessoais, nos termos do n.° 1 do artigo 21.° e n.° 1 do
+_ artigo 22.° da Lei n.° 67/98, de 26 de outubro, alterada pela Lei n.° 103/2015, de 24 de agosto,
+emite o presente parecer ao abrigo do disposto na alfnea b) do n.° 3 do artigo 58.° do
+Regulamento (UE) 2016/679, do Parlamento Europeu e do Conselho, de 27 de abril de 2016
+— Reguiamento Geral sobre a Protec&o de Dados (doravante, RGPD), restringindo-se aos
+
+aspeios relativos a protecao de dados pessoais.
+
+Il - Contratagao internacional e transferéncia de dados pessoais
+
+Nos termos do artigo 46.° do RGPD, a Republica Portuguesa so pode realizar transferéncias
+de dados pessoais para um pais terceiro situado fora da Unido Europeia, como a Republica
+Federativa do Brasil, se esse pais apresentar garantias adequadas e na condicao de os
+
+titulares dos dados gozarem de direitos oponiveis e de medidas juridicas corretivas eficazes.
+
+A luz da alinea 1) do artigo 4.° do RGPD, os dados tributdrios objeto de transferéncia
+constituem dados pessoais e por esse facto, antes de celebrarem um acordo bilateral com a
+Republica Federativa do Brasil, as autoridades portuguesas devem certificar-se de que este
+Estado esta em condigdes de assegurar um nivel de protecao adequado para os dados
+
+tributarios cuja transferéncia esteja prevista no texto do projeto.
+
+A adequacgao do nivel de protecdo dos dados deve ser apreciada em funcao de todas as
+circunstancias que rodeiam a transferéncia ou o conjunto de transferéncias, tomando em
+consideragao, designadamente, a natureza dos dados, a finalidade e a duragao dos
+
+tratamentos projetados, o pais de origem e o pais de destino final, as regras de direito
+
+gerais
+Rua de S40 Bento, 148-3° * 1200-821 LISBOA (
+Tel: 213 928 400 Fax: 213 976 832 LINHA PRIVACIDADE
+
+ww Dias uteis das 10 as 13h
+Ww -cnpd.p t duvidas@cnpd.pt
+PARI2019/3 | 4v.
+
+ou sectoriais, em vigor no Estado em causa e, bem assim, as regras e as medidas de
+
+seguranca que sao adotadas no Brasil.
+
+Importa referir que no dominio dos instrumentos juridicos de protegao de dados, a Republica
+Federativa do Brasil nado aderiu a Convencao n.° 108 do Conselho da Europa’, aberta a paises
+nao pertencentes ao Conselho da Europa. Foi aprovada a nova Lei de Protegao de Dados do
+Brasil no dia 14 de agosto de 2018, mas a mesma ainda nao se encontra em vigor nem existe
+uma autoridade com atribuicdes nesta matéria. Por essa razao, é imprescindivel que o texto
+do Projeto de Convengao, enquanto instrumento juridico especifico de regulagao do
+intercambio dos dados pessoais, contenha as salvaguardas necessarias para a transferéncia
+internacional de dados.
+
+Assinala-se que, no caso portugués, embora a transferéncia de dados nao resulte
+expressamente de disposi¢ao legal, se reconduz ainda a lei a licitude deste tratamento, ja que
+que o artigo 81.° do Cédigo do Imposto sobre o Rendimento das Pessoas Singulares, sobre
+eliminacao da dupla tributacao internacional (como também o artigo 51.° do Cédigo do
+Imposto sobre o Rendimento das Pessoas Coletivas, no tocante aos ljucros e reservas
+distribuidos, relativo as pessoas coletivas, mas com reflexos em pessoas singulares), tem
+como pressuposto ldgico a troca de informacées entre os Estados interessados como um meio
+adequado para garantir a eficacia das normas que contém e que o faz, alem disso, em
+
+beneficio dos interesses especificos dos contribuintes afetados.
+
+Analisa-se em seguida o texto do projeto para verificar se o mesmo oferece as garantias
+suficientes de um nivel adequado de protegao dos dados pessoais que sejam transferidos,
+com esta finalidade, para o territério paquistanés, em respeito pelo principio consagrado no
+artigo 44.° do RGPD.
+
+Ili — Apreciagao
+
+O artigo 26.° que se pretende aditar ao texto da Convencao através da aprovacgao do Protocolo
+
+em apreciacdo, regula as trocas de informacdes pelas Partes, reproduzindo expressis verbis
+
+1 Convencaéo para Protec&o das Pessoas relativamente ao Tratamento Automatizado de Dados de Caracter
+Pessoal aprovada em 28 de Janeiro de 1981, foi aprovada para ratificacdo pela Resolucao da Assembleia da
+Republica n.° 23/93, de 9 de julho, e ratificada pelo Decreto do Presidente da Republica n.° 21/93, da mesma data.
+
+--
+PAR/2019/3 | 2
+
+/-
+
+ 
+  
+
+COMISSAO NACIONAL
+
+DE PROTECCAO DE DADOS
+
+O artigo 26.° da Convencao Modelo da OCDE sobre Dupla Tributagao do Rendimento e do
+Capital, na versao resumida de 2008.
+
+a) Finalidades da troca de informacdes
+
+On.° 1 do artigo 26.° atribui a troca de informag6es duas finalidades: a) a aplicacdo da
+Convengao, portanto a eliminacao da dupla tributagao em matéria de impostos sobre o
+rendimento e a prevencéo da fraude e evasdo fiscal: b) a administragao ou execucdo das leis
+internas sobre impostos, na medida em que a tributagao nelas prevista nao seja contraria ao
+acordo.
+
+A este propdsito, destaca-se que os dados pessoais recolhidos tém de visar finalidades
+determinadas, explicitas e legitimas, ndo podendo ser posteriormente tratadas de forma
+
+_ incompativel com esses fins (cf. alinea c) do n.° 1 do artigo 5.° do RGPD). Como melhor se
+expora adiante, maxime no ponto dedicado aos principios gerais de protecao de dados
+pessoais (cf. infra, alinea d)), a especificacdo clara de finalidades dos tratamentos de dados
+pessoais ¢ relevante no que respeita a tutela dos direitos dos titulares dos dados pessoais,
+desde logo para se poder aferir da adequacdo e necessidade do tratamento dos dados para
+a sua prossecucao.
+
+Todavia, a parte final do n.° 1 do artigo 26.°, ao determinar que a troca de informacées nado
+fica restringida pelo disposto nos artigos 1.° e 2.° da mesma Convengao, poe em causa o
+principio da finalidade, prejudicando ainda a verificagao da aplicagao dos restantes principios
+em materia de protegao dos dados pessoais
+
+Na verdade, uma tal previsdo abre o tratamento de dados a quaiquer finalidade e para
+quaisquer sujeitos (categorias de titulares de dados), ultrapassando os limites decorrentes do
+objeto (e objetivo) da Convencao. Se se pretende estender este regime juridico a outros
+sujeitos ou para outros fins impde-se que os mesmos sejam especificados no texto da
+Convengao, sob pena de violacao do principio consagrado na alinea c) do n.° 1 do artigo 5.°
+do RGPD.
+
+b) O principio da proporcionalidade
+
+O mesmo n.° 1 do artigo em andlise prevé que as autoridades competentes dos Estados
+Contratantes trocardo entre si as ‘informagdes previsivelmente relevantes” para aplicar a
+Conven¢ao ou para a administracdo ou execucao das leis internas.
+
+Rua de Sao Bento, 148-3° « 1200-821 LISBOA |
+Tel: 213 928 400 Fax: 213 976 832 LINHA PRIVACIDADE
+
+www Dias tteis das 1045 13h
+-copd.p ¢ duvidas@cnpd.pt
+PAR/2019/3 | ov,
+
+Remeter a determinacdo dos dados pessoais sujeitos a comunicagao e troca entre os dois
+Estados para um juizo de prognose sobre quais sejam os previsivelmente relevantes para
+combater a dupla tributacao e a evasdo fiscal, importa um grau de incerteza juridica que, so
+por si, 6 inadmissivel no contexto da regulagao de direitos fundamentais como sao o da
+protecdo de dados pessoais e o da reserva da intimidade da vida privada e familiar — aqui, em
+matéria fiscal, também em causa dada a extensao da informagao pessoal que a autoridade
+tributaria recolhe a luz da legislac&o vigente no nosso ordenamento juridico. O apelo ao juizo
+de prognose dificulta ainda a apreciagao do cumprimento do principio da proporcionalidade
+quanto aos dados tratados, de acordo com o determinado na alinea c) do n.° 1 do artigo 5.°
+do RGPD, que impde que sé possam ser objeto de intercambio as informagées adequadas,
+
+pertinentes e nao excessivas relativamente a finalidade do tratamento.
+
+Neste sentido, somos de opiniao que uma previsfo com semelhante teor contraria o principio
+geral constante do artigo 5.° da Convengao 108 do Conselho da Europa e do artigo 5.°, n.° 1,
+alinea c), do RGPD, nao sendo coerente com o regime assumido como indispensavel pelo
+artigo 2.° do Protocolo Adicional 4a Convencado 108.° e pelos artigos 44.° e 46.° do RGPD para
+
+as transferéncias de dados para paises terceiros.
+
+Recomenda-se, por isso, que pelo menos, no n.° 1 do artigo 26.°, em vez de “informagées
+previsivelmente relevantes” se empregue a expressao “informagdes necessarias”, a qual, faz
+apelo ao principio da proporcionalidade. Refira-se a este propdosito que em diversas
+convencdes sobre a mesma matéria? é utilizada a expressao “informacgdes necessarias”. De
+resto, os proprios comentarios oficiais 4 Convengao Modelo da OCDE admitem que qualquer
+uma destas expressdes seja empregue, em alternativa, com um significado equivalente, pelo
+que, sendo o conceito de necessidade mais preciso e rigoroso do ponto de vista de protegao
+
+de dados pessoais, nao parece haver motivo para nao o introduzir no texto do Projeto.
+
+c) O acesso a dados sob sigilo bancario
+
+Num preceito que, como se referiu supra, se reproduz o artigo 26.°, n.° 5, da Convengao
+Modelo, o n.° 5 do artigo 26.° do Projeto determina que um Estado Contratante nao pode
+
+recusar-se a prestar informacdes unicamente porque possuidas por uma instituigao de crédito,
+
+2 Veja-se a titulo meramente exemplificativo as Convengdes celebradas com a mesma finalidade com Israel,
+Paquistao, Singapura, Chile, Argélia, Holanda, aprovadas pelas Resolugdes da Assembleia da Republica n.°
+2/2008, 66/2003, 85/2000, 28/2006, 22/2006 e 62/2000 respetivamente.
+
+ir
+PAR/2019/3 | 3
+
+   
+
+~ COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+outra instituigao financeira, um mandatario ou por uma pessoa agindo na qualidade de agente
+ou fiduciario, ou porque essas informacdes sAo conexas com os direitos de propriedade de
+uma pessoa.
+
+Este preceito torna evidente que, na ponderacgao de bens juridicos ou interesses efetuada na
+Convengao Modelo da OCDE, se deu prevaléncia ao interesse pUblico dos Estados Partes na
+tributagao efetiva dos rendimentos abrangidos sobre o direito fundamental dos particulares
+em ver salvaguardada a reserva da sua vida privada, ainda que este sacrificio venha
+
+acompanhado de garantias adequadas quanto a confidencialidade da informacdo transmitida.
+
+A este propdosito, a CNPD permite-se notar que o artigo 26.°, n.° 5, deve, no entanto, ser
+interpretado no seu devido contexto. Deste modo, apesar dos termos literais da primeira parte
+do n.° 3 do artigo 26.°, deve entender-se que a aplicagdo do n.° 5 nao afasta a aplicacdo
+daquela disposi¢ao, isto €, que 0 acesso as informacgdes dos bancos nao pode contrariar as
+condicgoes estabelecidas na lei interna para o levantamento do segredo bancério. E esta, de
+resto, a interpretagao sugerida pelos comentarios oficiais ao n.° 5 do artigo 26.° da Convencdo
+Modelo da OCDE.
+
+d) Qs direitos dos titulares dos dados
+
+Constata-se que as Partes neste acordo optaram por incluir um artigo sob epigrafe “Use and
+transfer of personal data” ~ artigo 27.° — ai se vinculando ao dever de garantir aos titulares dos
+dados o direito de acesso e o direito de retificagao. Em causa esta, pois, uma disposicdo
+pertinente na medida em que salvaguarda o respeito por duas das dimensGes fundamentais
+do direito 4 protegao dos dados pessoais, consagradas no n.° 1 do artigo 35.° da Constituicao
+da Republica Portuguesa, ainda que nao as esgote, omitindo outros direitos reconhecidos ao
+titular dos dados na ordem juridica portuguesa, como seja o direito de informacdo. Por outro
+lado, o exercicio daqueles direitos deve ser coordenado com as diversas finalidades da troca
+de informacdes.
+
+Sugerimos, assim, que seja aditado ao artigo 27.° um novo numero onde seja feita a
+coordenagao das duas finalidades. Este numero deve observar as linhas gerais que a seguir
+se expdem:
+
+a) No caso de troca de informagdées com o objetivo de aplicar as leis internas ou a
+
+Convengao, no que toca a tributacao dos rendimentos, as isencdes e a outros
+
+ 
+
+ 
+
+Rua de Sao Bento, 148-3° » 1200-821 LISBOA
+Tel: 213 928 400 Fax: 213 976832 LINHA PRIVACIDADE
+
+ww Dias uteis das 10 4s 13 h
+w .cnpd.pt duvidas@cnpd.pt
+PAR/2019/3 | 3v. yn
+
+mecanismos de eliminagao da dupla tributagao internacional, a autoridade competente
+deve notificar os contribuintes afetados informando-os sobre a comunicagdo que vai
+ser feita, os seus destinatarios, a sua finalidade e o modo como podem exercer os
+
+direitos de acesso e de retificacao dos dados.
+
+So desta forma a Convencao se encontrara em conformidade com os direitos do titular
+
+dos dados garantidos pelo artigo 35.°, n.° 1, da Constituigao portuguesa.
+
+b) Nos casos de trocas de informacdes destinadas a evitar ou a combater a evasdo e a
+fraude fiscais, o direito de informacgao dos titulares dos dados nao pode ser garantido
+sem prejudicar a propria prossecugao deste interesse publico. Uma boa ponderacdo
+dos interesses em presenc¢a impde a sua dispensa nos tratamentos efetuados com
+esta finalidade. O direito de acesso e retificacao também nao devera ser concedido se
+
+for previsivel que o seu exercicio podera afetar o sucesso da investigacao.
+
+c) Em caso de troca de informagao com o objetivo de investigar e reprimir os crimes e
+infragdes tributarias conexos com as operagGdes internacionais dos contribuintes,
+podera também justificar-se a dispensa da obrigac&o de informag&o por parte da
+autoridade responsavel pelo tratamento. No entanto, os Estados Partes devem
+garantir que o titular dos dados possa exercer o seu direito de acesso aos mesmos
+atraves das autoridades independentes a quem o direito interno atribua a verificacdo
+do cumprimento da legislagao de protecdo de dados pessoais e nao exatamente como
+se prevé no n.° 2 do artigo 27.°.
+
+IV — Conclusao
+
+Em face das observagoes feitas, a CNPD recomenda a revisdo do texto do projeto de revisao
+da Convengao de cooperagao bilateral entre a Reptblica Federativa do Brasil para Evitar a
+Dupla Tributagao e Prevenir a Evasao Fiscal em matéria de Impostos sobre o Rendimento
+carece de algumas reformulagées, em cumprimento do quadro legal portugués e europeu de
+protegao de dados, no sentido de introduzir as seguintes alteracées:
+
+a) Eliminar a parte final do n.° 1 do artigo 26.° (ultimo periodo);
+b) Substituir, no n.° 1 do artigo 26.°, a expressdo «informacées que sejam previsivelmente
+
+relevantes» por /nformacdes gue sejam necessdarias,
+PAR/2019/3 | 4
+
+   
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+c) Introduzir ao artigo 27.° um novo numero onde seja feita a coordena¢ao entre as
+diversas finalidades da troca de informagées no que toca ao exercicio do direito de
+
+acesso por parte dos titulares.
+
+Lisboa, 5 de fevereiro de 2019
+| <
+jo
+
+Filipa Calvao (Presidente)
+
+Rua de Sao Bento, 148-3° » 1200-821 LISBOA
+Tel: 213 928 400 Fax: 213 976 832 LINHA PRIVACIDADE
+
+Dias Uteis das 10 4s13h
+wv w.cnpd.pt duvidas@cnpd.pt

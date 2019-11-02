@@ -1,0 +1,328 @@
+Processo n.° PAR/2019/22 | 1 i
+
+ 
+  
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+PARECER 2019/25
+
+|. Pedido
+
+A Entidade Reguladora da Saude (ERS) solicitou 4 Comissao Nacional de Protecado de
+Dados (CNPD), ao abrigo do artigo 91.° do Cédigo do Procedimento Administrativo, a
+emissao de parecer no ambito dos projetos de deliberacado da ERS emitidos nos
+processos de inqueérito n.°s ERS/118/2018, ERS/128/2018, ERS/133/2018 e
+ERS/143/2018.
+
+Nos referidos processos esta em causa a recusa de prestacao de cuidados de saude
+por parte de unidades de satde a titulares de dados que nao assinaram declaracao de
+autorizagao de tratamentos dos seus dados pessoais.
+
+Embora a principal questao juridica controvertida seja a mesma em todos os processos,
+ela vem configurada de modo diferente em cada um deles, em funcdo dos factos
+descritos ou da fundamentagao apresentada pelos responsaveis pelos tratamentos de
+dados.
+
+Acresce que em dois dos processos de inquérito coloca-se ainda uma questao
+autOnoma, nao confundivel com a exigéncia de consentimento para o tratamento de
+dados pessoais, que se prende com a possibilidade de obter do titular dos dados
+pessoais uma declaracao escrita que comprove que lhe foi prestado o direito de
+informagao sobre os tratamentos de dados.
+
+Por essa razao, neste parecer as duas questées serdo analisadas separadamente,
+tendo-se em aten¢ao os aspetos especificos de cada processo.
+
+O presente parecer, emitido ao abrigo da competéncia definida na alinea b) do n.° 3 do
+artigo 58.° do Regulamento (UE) 2016/679, de 27 de abril de 2016 (Regulamento Geral
+sobre a Protegao de Dados - RGPD), em conjugacao com o disposto no n.° 1 do artigo
+21.°e no n.° 1 do artigo 22.°, ambos da Lei n.° 67/98, de 26 de outubro, alterada pela
+Lei n.° 103/2015, de 24 de agosto (Lei de Protecao de Dados Pessoais —- LPDP), tem
+por objeto apreciar a conformidade com o RGPD dos procedimentos adotados pelas
+unidades de saude em causa, na estrita medida da sua relevancia para o exercicio das
+competéncias da ERS, nao incidindo, nomeadamente, na apreciacdo da politica de
+
+privacidade das entidades visadas nos processos.
+
+ 
+
+ 
+
+AV. D. CARLOS I, 134- 1° {| 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928400 | FAX: +351 213 976 832
+Processo n.° PAR/2019/22
+
+ 
+
+Il. Apreciagao
+4. Oconsentimento dos utentes/clientes de unidades de saude como condigao para o
+tratamento de dados pessoais de saude
+Em todos os processos acima indicados, foi negado 0 acesso a prestagao de cuidados
+de satide pelo facto de o utente/cliente nao ter assinado uma declaragao de
+consentimento relativo ao tratamento de dados pessoais.
+Na verdade, essas entidades apresentam-se como responsaveis pelo tratamento de
+dados pessoais e, nessa qualidade, exigiram aos utentes como condicao da prestagao
+do servico agendado (v.g., consulta médica, exame de diagnostico) a assinatura de um
+documento.
+No caso do Processo ERS/128/2018, relativo ao Centro Hospitalar Sao Francisco, S.A.,
+no documento apresentado ao titular dos dados afirma-se que os dados sao apenas os
+necessarios para a prestagdo de cuidados de saude, tendo sido declarado no ambito do
+processo que, para efeito de utilizagao da informagao para marketing, era apresentada
+uma declaracdo de consentimento auténoma (cf. §7 do projeto de deliberagao da ERS).
+Ja n&o assim no processo relativo € Somardental Servigos Policlinicos, Lda. (processo
+ERS/133/2018), onde, pelo-declarado por esta entidade, conforme §6 do projeto de
+deliberacdo da ERS, a declaragdo de consentimento congrega o tratamento dos dados
+para finalidade de prestagao de cuidados de saude e o tratamento para a finalidade de
+marketing.
+Em ambos os processos, a CNPD entende que o procedimento adotado pelas duas
+entidades contraria o RGPD, por assentar num erro quanto ao fundamento de licitude
+do tratamento. Na verdade, as duas entidades consideram que o consentimento do
+titular dos dados é imprescindivel a recolha dos dados pessoais, invocando para o efeito
+o RGPD, pelo que, na auséncia daquele, entendem nao poder prestar cuidados de
+saude.
+Este erro implica a violacdo do principio da licitude do tratamento de dados pessoais,
+consagrado na alinea a) do n.° 1 do artigo 5.° do RGPD, uma vez que o consentimento
+nao 6 a condicao adequada para legitimar os tratamentos de dados pessoais
+necessarios a prestacdo de cuidados de satide. Na realidade, o RGPD prevé uma
+condic&o auténoma para esta finalidade do tratamento de dados pessoais na alinea h)
+
+do n.° 2 do artigo 9.°. Acresce que, numa tal situagao, sendo os dados necessarios para
+
+\v.
+
+f
+Processo n.° PAR/2019/22 | 2
+
+ 
+  
+
+COMISSAO NACIONAL
+DF PROTECAO DE DADOS
+
+a prestagao do servico, nao se vé onde haja liberdade para consentir ou nao no
+tratamento dos dados — e portanto, nunca estaria cumprido um dos atributos do
+consentimento fixados por lei para que este tivesse relevancia juridica (cf. alinea 11) do
+artigo 4.° do RGPD).
+
+Ja o tratamento de dados pessoais para a finalidade de marketing pode depender de
+consentimento (porque o interesse legitimo, em determinadas circunstancias é
+suficiente para legitimar o tratamento), mas, evidentemente, pela auséncia de conexdo
+direta entre esta finalidade e a de prestacdo de cuidados de satide, a obtencdo desse
+especifico consentimento nunca poderia servir de condicao para a prestacado de
+cuidados de saude.
+
+Acrescente-se que as alegagdes do Grupo Sanfil Medicina (onde se integra o Centro
+Hospitalar Sao Francisco, S.A.) no Ambito do processo ERS/128/2018 (cf. §7 do projeto
+de deliberagao da ERS), de que as empresas desse grupo, enquanto responsaveis pelo
+tratamento de dados pessoais, nao estao legitimadas pela alinea h) do n.° 2 do artigo
+9.° do RGPD a recolher e a conservar tais dados para a prestacao de cuidados de
+saude, laboram num erro, ja destacado pela ERS no projeto de deliberacao, nos §§ 148-
+Ta2Z.
+
+Com efeito, se o Centro Hospitalar Sdo Francisco, S.A., nao prestasse cuidados de
+satide (ainda que por interposta pessoa, o profissional de sauide) nao teria, em caso
+algum, legitimidade para recolher, conservar e comunicar dados pessoais relativos a
+saude dos seus clientes. Nessa hipdtese, o consentimento para a prestacdo de cuidados
+de saude nao poderia ser dado a esta entidade, mas apenas aos profissionais de sauide
+que prestassem efetivamente aqueles cuidados.
+
+E, pois, evidente que a empresa que explora o Centro Hospitalar Sdo Francisco detém
+uma base de dados dos seus clientes com a ficha clinica dos mesmos porque esta
+legitimada para o efeito pela alinea h) do n.° 2 do artigo 9.° do RGPD. E para respeitar
+o disposto no n.° 3 do artigo 9.° do RGPD tem de garantir que apenas os profissionais
+de saude vinculados a dever de sigilo profissional podem recolher e aceder aos dados
+pessoais de saude.
+
+Quanto ao processo ERS/118/2018, relativo ao Hospital de Esposende — Valentim
+Ribeiro, importa sublinhar que a declaracao de consentimento que se pretendia ver
+assinada nao dizia respeito ao tratamento de dados pessoais necessarios a prestacao
+
+de cuidados de saude (cf. §11 do projeto de deliberacao emitida nesse processo).
+
+AV. D. CARLOS [, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928400 | FAX: +351 213 976 832
+Processo n.° PAR/2019/22 | 2v.
+
+O mesmo sucedeu, em relacdo ao Processo ERS/143/2018, relativo a CLIRIDAL —
+Clinica de Diagnéstico e Radiologia, Lda. Tambem aqui a declaracao de consentimento
+que se pretendia ver assinada era relativa ao tratamento dos dados para o envio de
+lembretes ou alteracdo de agendamento de exames e ainda de informacao promocional
+(marketing) (cf. §10 do projeto).
+
+Nao se tratou, pois, de exigir o consentimento para a prestacao do servico de
+diagnéstico ou de cuidados de saude, mas sim para o tratamento ulterior dos dados
+pessoais para outras finalidades. Uma tal declaracdo de consentimento esta
+consentanea com o RGPD (com a ressalva da utilizagao dos dados de contacto para
+alteracao de agendamento dos exames, que parece caber ainda na gestao dos servi¢os
+de satide, portanto, no Ambito da alinea h) do n.° 2 do artigo 9.° do RGPD).
+
+O que nao pode, em qualquer caso, aceitar-se é que a prestacao do servico contratado
+dependa do consentimento do titular dos dados para uma finalidade de tratamento de
+dados que nao é sequer essencial a concretizagao de tal prestacao.
+
+Aqui, tal como também no processo ERS/118/2018 (cf. §11), o facto de a declaragao de
+que se tomou conhecimento dos termos do tratamento de dados pessoais vir
+imediatamente antes da declaracdo relativa a autorizagado de um certo tipo de
+tratamento de dados pessoais prejudica a compreensao do exato ambito da declaragao
+de consentimento, verificando-se que os representantes dos responsaveis que
+interagem com os titulares dos dados nao estao, eles proprios, suficientemente
+esclarecidos para desfazer eventual confusao quanto ao objeto do consentimento. E em
+especial no processo ERS/118/2018, os termos em que esta redigida a declaragao de
+
+consentimento nao facilita em nada a compreensao do seu ambito.
+
+2. A prova da garantia do direito de informagao
+
+Quanto aos processos de inquérito ERS/118/2018 e ERS/143/2018, no documento
+relativo ao tratamento de dados pessoais que é apresentado aos clientes/utentes para
+sua assinatura, é prestada informac&o sobre o tratamento e solicitada assinatura por
+baixo da declaracao «Tomei conhecimento».
+
+Importa aqui considerar as alegagdes dos responsaveis pelo tratamento dos dados, que
+alegam que o documento em causa € composto por trés partes autonomas.
+
+Na primeira parte, estava em causa a recolha de dados pessoais para efeito da
+
+prestacado de servico contratado (v.g., dados de identificagao e de contacto), como
+
+[-
+Processo n.° PAR/2019/22
+
+ 
+
+ 
+  
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+sucedeu no processo ERS/143/2018, ou confirmar (“validar”) dados pessoais recolhidos
+antes da aplicagao do RGPD (como sucedeu no processo ERS/118/2018) — ou seja,
+com a intengao de atualizar ou garantir a atualizacao da informacao pessoal
+conservada.
+
+Na segunda parte da declaracdo, pretendia~-se dar a conhecer ao titular dos dados a
+informagao que sobre eles foi recolhida, as finalidades dessa recolha, bem como outros
+elementos elencados no artigo 13.° do RGPD, portanto, para garantia do direito de
+informagao. No final desta parte 6 apresentado um paragrafo em que o declarante atesta
+ter tomado conhecimento dessas informacées, com espaco destinado a assinatura do
+titular dos dados.
+
+Logo a seguir, surge um novo paragrafo em que o declarante autoriza o tratamento de
+dados para a prestagado de cuidados de satide ou, nalguns casos, para outras
+finalidades, parte sobre a qual a CNPD ja se pronunciou no ponto anterior.
+
+Quanto a recolha ou atualizagao dos dados pessoais, a CNPD nada tem a referir no
+ambito destes processos, ja que essa operacao de tratamento de dados nao esta aqui
+em discussao (e€ nos projetos da ERS nao vém explicitados, quanto a todos os
+responsaveis, as categorias de dados pessoais objeto do tratamento). Assentando que
+ha um conjunto de dados pessoais que sao necessarios para assegurar a prestacdo de
+cuidados de satide e que devem estar atualizados (cf. alinea d) do n.° 1 do artigo 5.° do
+RGPD), a CNPD reserva-se o poder de se pronunciar sobre esses tratamentos de dados
+pessoais noutra sede.
+
+Especifica ateng¢ao merece, aqui, a segunda parte dos documentos.
+
+Importa aqui esclarecer que os responsaveis pelos tratamentos de dados pessoais
+estao obrigados a prestar informacao ao titular dos dados pessoais sobre o tratamento,
+nos termos previstos nos artigos 13.° e 14.° do RGPD, e que nessa medida podem
+recolher prova de que cumpriram essa obrigacao.
+
+Ora, sendo certo que o RGPD impée que o direito de informacao seja prestado por
+escrito, embora admita a prestacao por forma oral a pedido do titular dos dados (cf. n.°
+1 do artigo 12.° do RGPD), o procedimento utilizado esta conforme o RGPD. E também
+certo que recai sobre o responsavel pelo tratamento dos dados fazer prova de que
+cumpre 0 RGPD — cf. n.° 2 do artigo 5.°.
+
+Ainda que este diploma legislativo nao defina a forma adequada de prova do
+
+cumprimento desta obrigagao, nao exigindo, portanto, uma declaracdo escrita do titular
+
+ 
+
+ 
+
+ 
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213.928 400 | FAX: +351 213 976 832
+
+3
+
+[
+Processo n.° PAR/2019/22 | 3v.
+
+dos dados, nada impede os responsaveis de prestarem as informagoes pela forma em
+que o fizeram o Hospital de Esposende — Valentim Ribeiro e a CLIRIDAL — Clinica de
+Diagnostico e Radiologia, Lda., e de solicitarem ao titular que ateste ter tomado
+conhecimento das referidas informagoes. Por outras palavras, este procedimento nao é
+violador do RGPD e, na medida em que seja claramente explicado ao titular dos dados,
+pode ser eficaz.
+
+Na hipdtese de os titulares dos dados recusarem assinar tal declaragao, pode o
+representante do responsavel registar que 0 utente nao quis assinar e, porventura,
+certificar-se de que dispde de prova testemunhal para o efeito.
+
+Coisa diferente é exigir essa assinatura ao titular dos dados, apresentando-a como
+condicdo para a prestagao do servico objeto do contrato com este. Aqui, e na medida
+em que as entidades tenham efetivamente apresentado essas declaragoes e a sua
+assinatura como condicdo para a prestacdo dos cuidados de saude, e que podera haver
+um comportamento ilicito. Na verdade, das alegagoes dos dois responsaveis nao é claro
+que essa assinatura tenha sido apresentada como condicao da prestagao do servigo,
+embora se admita que o facto de esta declaragao, que atesta a tomada de
+conhecimento, estar imediatamente antes da declaragao relativa a autorizagao do
+tratamento pode ter confundido os titulares dos dados, confusao para que pode ainda
+ter contribuido a auséncia de explicacdes ou o escasso esclarecimento dos
+representantes dos responsaveis que apresentaram Os documentos em causa aos
+titulares dos dados.
+
+Recorda-se que, de acordo com o n.° 1 do artigo 12.° do RGPD, as informagoes devem
+ser prestadas numa linguagem clara e simples, e que uma declaragao pre-definida de
+tomada de conhecimento das informacées, para assinatura do titular dos dados, tem de
+estar autonomizada de eventuais declaracdes de consentimento de outros tratamentos
+de dados pessoais (cf. n.° 2 do artigo 7.° do RGPD).
+
+Ill. Conclusao
+
+A CNPD entende que a exigéncia de consentimento do titular dos dados pessoais para
+o tratamento de dados pessoais necessarios a prestagao de cuidados de saude assenta
+num erro quanto ao fundamento de licitude do tratamento dos dados e, portanto,
+contradiz o disposto no RGPD, nos termos da alinea a) do n.°1 do artigo 5.° e da alinea
+h) do n.° 2 do artigo 9.° do RGPD.
+
+r
+Processo n.° PAR/2019/22 | 4
+
+ 
+
+E) COMISSAO NACIONAL
+~ DE PROTECAO DE DADOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+E ainda seu parecer que a obrigacdo de prestar informacées sobre os tratamentos de
+dados pessoais ao respetivo titular, imposta pelos artigos 13.° e 14.° do RGPD, pode
+ser concretizada por meio de um documento escrito que a este é apresentado, nada
+obstando a que, para efeito de prova, se solicite a sua assinatura a atestar que tomou
+conhecimento dessas informacdes. Todavia, essa assinatura nao é condi¢gao de
+prestacao do servico contratado, pelo que em caso de recusa em assinar por parte do
+titular dos dados, devem ser encontradas outras formas de prova de que se garantiu
+aquele direito.
+
+De todo o modo, as informagdes devem ser prestadas numa linguagem clara e simples,
+e a declaracao pré-definida de tomada de conhecimento das informa¢gdes tem de estar
+devidamente autonomizada de eventuais declaracdes de consentimento dos
+
+tratamentos de dados pessoais para outras finalidades.
+
+Lisboa, 10 de maio de 2019
+
+=
+
+Filipa Calvao (Presidente)
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213.928 400 | FAX: +351 213 976 832

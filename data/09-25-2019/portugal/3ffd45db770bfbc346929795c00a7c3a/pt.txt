@@ -1,0 +1,177 @@
+PAR/2019/53 | 1
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS XK %
+
+PARECER/2019/61
+
+|. Pedido
+
+O Gabinete da Ministra da Justic¢a remeteu a Comissao Nacional de Protegao de Dados
+(CNPD), para apreciagao, o projeto de Decreto-Lei que procede a alteragao do Codigo do
+lmposto sobre o Rendimento das Pessoas Coletivas, aprovado pelo Decreto-Lei n.°
+442-B/88, de 30 de novembro, na sua reda¢ao atual, do Decreto-Lei n.° 42/2001, de 9 de
+fevereiro, na sua redacgao atual, que cria as seccdes do processo executivo do sistema de
+solidariedade e seguranca social e define as regras especiais daquele processo, e do
+Decreto-Lei n.° 119/2015, de 29 de junho, na sua redacao atual que, aprova o Regulamento
+
+da Caixa de Previdéncia dos Advogados e Solicitadores.
+
+O pedido formulado e o parecer ora emitido decorrem das atribuigGes e competéncias da
+CNPD, enquanto autoridade nacional de controlo dos tratamentos de dados pessoais,
+conferidos pela alinea c) do n.° 1 do artigo 57.° e pelo n.° 4 do artigo 36.° do Regulamento
+(UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016 (Regulamento
+Geral sobre a Protecao de Dados — RGPD), em conjugacao com o disposto no artigo 3.° e
+na alinea a) do n.° 1 do artigo 6.° da Lei n.° 58/2019, de 8 de agosto.
+
+A apreciagao da CNPD cinge-se as normas que preveem ou regulam tratamentos de dados
+
+pessoais.
+
+ll. Apreciagao
+
+1. O presente Projeto de diploma é emitido ao abrigo da autoriza¢ao legislativa contida no
+artigo 266.° da Lei n.° 71/2018, de 31 de dezembro, que aprovou a Lei do Orgamento de
+Estado para 2019. Todavia, esta autorizacao apenas cobre a isencao da Caixa de
+Previdéncia dos Advogados e Solicitadores (CPAS) do imposto sobre o rendimento das
+
+pessoas coletivas (IRC), nada dispondo sobre o regime de cobran¢a de dividas a CPAS.
+
+Na verdade, ainda que aquela isencgao e esta ultima medida tenham uma finalidade comum
+~ a de garantir e reforcar a sustentabilidade da CPAS - e sendo indiscutivel o direito ou
+
+poder da CPAS em cobrar as dividas dos seus beneficiarios, € manifesto que a autorizagao
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928400 | FAX: +351 213 976 832
+PAR/2019/53 | Vv.
+
+we
+
+legislativa da Assembleia da Republica nao abrange alteragdes ao regime de cobranga de
+
+dividas a CPAS. E, contudo, tal autorizacao seria, neste caso, necessaria.
+
+Com efeito, o artigo 3.° do Projeto, que altera o artigo 2.° do Decreto-Lei n.° 42/2001, de 9
+de fevereiro, introduz uma novidade no regime de cobrancga de dividas a CPAS, estendendo
+ao mesmo o processo de execucao por dividas a seguranga social, com a consequente
+previsdo de um novo tratamento de dados pessoais no artigo 5.° do mesmo Projeto — a
+comunicacdo de dados entre a CPAS eo IGSFF, I.P. Na verdade, no artigo 5.° sao aditados
+dois artigos ao Decreto-Lei n.° 42/2001, de 9 de fevereiro, um dos quais (especificamente, o
+n.° 1 do artigo 18.°-A) prevé «a comunicacao e interoperabilidade entre o IGSFF, P., ea
+CPAS, designadamente para efeitos de participacao da divida e comunicagdes ou
+
+notificacées posteriores as relativas a CPAS».
+
+Ora, o Projeto ao prever o poder de execugao coerciva, nao so introduz uma restrigao, no
+plano da cobranga de dividas, ao direito fundamental de propriedade dos beneficiarios
+devedores, como também prevé um novo tratamento de dados pessoais que permite a
+concretizacao ou efetivagdo de tal restrigao, com isso comprimindo ou restringindo o direito
+fundamental a protegao de dados. Nessa medida, e nos termos da alinea 6) do n.° 1 do
+artigo 165.° da Constituigao da Republica Portuguesa (CRP), por estarem em causa os
+direitos previstos nos artigos 35.° e 62.° da Lei Fundamental (este ultimo, enquanto direito
+analogo aos direitos, liberdades e garantias, por forga do artigo 17.° da CRP), nao pode o
+
+Governo diretamente, por via de um decreto-lei, impor tais restrigdes.
+
+Por outras palavras, ainda que seja indiscutivel o direito ou poder da CPAS em cobrar
+dividas e se admita a necessidade de prever mecanismos para a sua garantia, os
+tratamentos de dados pessoais necessarios a um processo coercivo de cobranga tém, de
+acordo com o estatuido na alinea b) do n.° 1 do artigo 165.° da CRP, de estar previstos em
+
+lei da Assembleia da Republica ou em decreto-lei autorizado por este 6rgao de soberania.
+
+Deste modo, a CNPD adverte para a falta de fundamento legislativo suficiente para a
+previsdo e regulagdéo do tratamento de dados pessoais — comunicagao de dados —
+relacionado com o poder e o processo de cobranga coerciva de dividas, previsto no artigo
+
+5.° do Projeto, em violagao da Constitui¢ao.
+PAR/2019/53 | 2
+
+COMISSAO NACIONAL '
+DE PROTECAO DE DADOS “ee
+
+2. Sem prejuizo do afirmado, importa sublinhar que a finalidade da comunicagao e
+interoperabilidade entre o IGSFF, |.P., e a CPAS, prevista no n.° 1 do artigo 18.°-A do
+Decreto-Lei n.° 42/2001, de 9 de fevereiro, introduzido pelo artigo 5.° do Projeto, deve estar
+ai determinada, nao sendo admissivel a introducao do advérbio designadamente se esta
+norma pretender constituir o fundamento legal da licitude do tratamento de dados, nos
+
+termos e para os efeitos previstos na alinea c) do n.° 1 do artigo 6.° do RGPD.
+
+Na verdade, uma leitura atenta da primeira parte do n.° 3 do artigo 6.° deste diploma da
+Uniao Europeia permite concluir que a lei tem, pelo menos, de definir a finalidade do
+tratamento, pelo que a indicagao meramente exemplificativa de uma finalidade ou mais
+finalidades retira qualquer forca de fonte legitimadora do tratamento de dados pessoas para
+
+finalidades diferentes.
+
+A CNPD recomenda, por isso, a eliminagao do advérbio “designadamente” do n.° 1 do artigo
+18.°-A do Decreto-Lei n.° 42/2001, de 9 de fevereiro, introduzido pelo artigo 5.° do Projeto.
+
+3. Ainda a propdsito do artigo 18.°-A do Decreto-Lei n.° 42/2001, de 9 de fevereiro,
+introduzido pelo artigo 5.° do Projeto, agora quanto ao n.° 2 daquele artigo, assinala-se a
+remissao da regulacao do tratamento de dados para protocolo entre as duas entidades
+
+publicas envolvidas na operagao de comunica¢ao dos dados.
+
+Em primeiro lugar, a CNPD volta a recordar que os protocolos, na medida em que
+correspondem a atos juridicos de entidades publicas que definem regras vinculativas para
+as partes quanto a tratamentos de dados pessoais, e na medida em que tais regras afetam
+a esfera juridica dos titulares dos dados pessoais objeto do tratamento, tém natureza de
+regulamento administrativo. Nessa medida, nos termos do n.° 4 do artigo 36.° e da alinea c)
+
+do n.° 1 do artigo 57.° do RGPD, tém de ser sujeitos a apreciagao prévia da CNPD.
+
+Para que nao restem duvidas quanto a tal dever, a CNPD sugere a sua explicitagao no texto
+
+ao artigo.
+
+Em segundo lugar, a CNPD sublinha que de nada serve a previsao, no artigo 7.° do Projeto,
+de que «a definicao dos procedimentos que se revelem necessarios a aplicacao do alisposto
+nos artigos 3.° e 5.° do presente diploma sao aprovadas por portaria dos membros do
+
+Governo responsavels pela area da justica e da seguranca social», quando a pratica tem
+
+AV. D. CARLOS I, 134 - 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928400 | FAX: +351 213 976 832
+PAR/20 19/53
+
+revelado a tendéncia para que estas portarias se limitem a repetir a previsao, ja contida em
+lei, de comunicacao de dados e de interoperabilidade dos sistemas de informagao de
+
+entidades publicas, remetendo a definicao exata dos procedimentos a adotar para protocolo.
+
+Esta transferéncia ou delegacdo de poderes regulamentares, que por imposigao legal
+cabem ao Governo ou aos seus membros, para os organismos publicos diretamente
+envolvidos no tratamento de dados pessoais (por via de protocolo), afigura-se uma forma de
+
+gorar este objetivo da lei.
+
+A que acresce o facto de tal remiss4o, nas portarias, para protocolos poder ser interpretada
+pelos organismos publicos visados como um meio de evitar a consulta da CNPD no ambito
+dos procedimentos regulamentares, quando nao parecem resultar duvidas sobre a natureza
+
+regulamentar dos protocolos.
+
+ill. Conclusoes
+
+A CNPD adverte para a circunstancia de um decreto-lei do Governo nao ser fundamento
+legislativo suficiente para a previsao e regulacdo do tratamento de dados pessoais —
+comunicacdo de dados — relacionado com o poder e o procedimento de cobranga coerciva
+de dividas, previsto no artigo 5.° do Projeto, sob pena de violacao da alinea 6) do n.° 1 do
+
+artigo 165.° da Constituigao.
+
+Quanto ao disposto no artigo 18.°-A do Decreto-Lei n.° 42/2001, de 9 de fevereiro,
+introduzido pelo artigo 5.° do Projeto, e com os fundamentos acima expostos, a CNPD
+recomenda especialmente:
+I. A eliminagao do advérbio “designadamente” do n.° 1 daquele artigo;
+il. A explicitagdo no n.° 2 do mesmo artigo do dever de sujeitar o protocolo a
+celebrar entre o IGSFF, I.P., e a CPAS a parecer prévio da CNPD, dada a
+
+natureza regulamentar do seu teor.
+
+Lisboa, 24 de setembro de 2019
+
+Maria Candida Guedes de Oliveira (Relatora)
+
+QV.

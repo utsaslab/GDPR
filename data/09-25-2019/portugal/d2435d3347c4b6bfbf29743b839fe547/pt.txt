@@ -1,0 +1,468 @@
+Processo PAR/2019/16
+
+ 
+  
+
+ 
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+ 
+
+PARECER/2019/16
+
+|. Do Pedido
+
+A Comissao de Economia, Inovacgao e Obras Publicas da Assembleia da Republica remeteu
+a Comissao Nacional de Protecao de Dados (CNPD), para apreciagao o Projeto de Lei n.°
+439/Xli1/2.2 (PSD), que determina a criac&o, no seio da Direcao-Geral do Consumidor, de um
+
+portal de registo nacional de consumidores aderentes a publicidade telefénica.
+
+O pedido formulado e o parecer ora emitido decorrem das atribuig6es e competéncias da
+CNPD, enquanto entidade administrativa independente com poderes de autoridade para o
+controlo dos tratamentos de dados pessoais, conferidos pela alinea c) do n.° 1 do artigo 57.°
+e pelo n.° 4 do artigo 36.° do Regulamento (UE) 2016/679, de 27 de abril de 2016
+(Regulamento Geral sobre a Protecado de Dados — RGPD), em conjugacao com o disposto no
+n.° 1 do artigo 21.° eno n.° 1 do artigo 22.°, ambos da Lei n.° 67/98, de 26 de outubro, alterada
+pela Lei n.° 103/2015, de 24 de agosto (Lei de Protegao de Dados Pessoais - LPDP).
+
+Il. Da Apreciacao
+
+A iniciativa parlamentar agora submetida a parecer visa introduzir alteragdes na legislacdo
+relativa a publicidade por telefone, alegadamente regulada pela lei relativa a publicidade
+domiciliaria (Lei n.° 6/99, de 27 de janeiro).
+
+Se a CNPD compreende as preocupacées que estado na base da presente iniciativa legislativa,
+nao deixa porém de notar que as solugdes normativas avancadas nao tomam em
+
+consideragao o regime juridico europeu e nacional vigente, nem parecem constituir um reforco
+efetivo dos direitos dos cidadaos.
+
+Na verdade, o Projeto de Lei prevé a criagao de um portal, gerido e mantido pela
+Diregao-Geral do Consumidor, com o registo nacional de consumidores aderentes a
+publicidade telefénica. De acordo com a exposi¢ao de motivos existem atualmente
+«(...)multiplas listas, geridas por um intermindvel numero de entidades as quails os
+consumidores nao acedem, nem para delas constarem Ihes foj solicitado O seu
+consentimento, associado ao facto do desconhecimento generalizado sobre os mecanismos
+
+de inclusao nas referidas listas», as quais « fém gerado um sentimento de impunidade face as
+
+AV. D. CARLOS I, 134- 1° [| 1200-651 LISBOA | WWW.CNPD.PT {| TEL: +351 213928 400 | FAX: +351 213 976 832
+
+1
+Processo PAR/2019/16 | 1v.
+
+Violacoes do direito a privacidade a que os consumidores tém estado sujeitos». Ai se refere
+expressamente a /isla dos cidadaos que manifestem o desejo de nao receber essa publicidade
+[publicidade por telefone], prevista na /legislacao em vigor que regula a publicidade
+domiciliaria, Cuja feitura, manuten¢ao e atualizacao estara a cargo das entidades comerciais
+ou organismos que as representam. A este propdsito refere-se a lista mantida pela AMD —
+Associagao Portuguesa do Marketing Direto, Relacional e Interativo através de um protocolo
+
+de coopera¢gao com a Direcao-Geral do Consumidor.
+
+A este proposito, a CNPD nao pode deixar de fazer trés observacées:
+
+Em primeiro lugar, importa assinalar o erro em que esta iniciativa legislativa assenta quanto
+ao regime juridico atualmente em vigor. Na verdade, e como melhor se explicara no ponto
+seguinte, a lista prevista no artigo 5.° da Lei n.° 6/99, de 27 de janeiro, ja nao tem cobertura
+legal, porque esta disposigao foi implicitamente revogada por leis nacionais em transposicao
+da legislagao da Uniao Europeia. Assim, nao existe enquadramento legal para a lista mantida
+pela AMD, nem em rigor para o protocolo a ela relativo, devendo as entidades que promovem
+
+publicidade dar cumprimento a outro tipo de obrigagdes legais, como adiante se especificara.
+
+Em segundo lugar, sublinha-se que este projeto, tal como se encontra conformado, parece
+esquecer que o que esta em causa é, antes do mais, a utilizacao de dados pessoais dos
+cidadaos para efeito da promogao das acdes promocionais, e com isso, a afetacao da
+privacidade dos mesmos. Importa, pois, recentrar o regime proposto e aprecia-lo em funcao
+do direito fundamental constitucionalmente consagrado no artigo 35.° da Constituicao da
+Republica Portuguesa (CRP).
+
+Na verdade, € inegavel que o envio de uma comunicacao nao solicitada com recurso ao
+numero de telefone constitui um tratamento de dados pessoais, na acecao do artigo 4.°,
+alineas 1) e 2), do RGPD. Nessa medida, todos aqueles que enviem comunicacées deste tipo
+estao sujeitos ao cumprimento dos principios e regras do RGPD, sendo responsaveis por
+demonstrar o seu cumprimento (cf. n.° 2 do artigo 5.° RGPD). Note-se ainda que tais
+comunicag6ées utilizando o numero de telefone abrangem nao apenas a chamada telefonica,
+
+como também o envio de SMS ou de MMS.
+
+y
+Processo PAR/2019/16
+
+    
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+Assim, tomando como referéncia o quadro legislativo europeu e nacional vigente sobre
+protecgao de dados pessoais, ha que considerar o regime especial da protegao da privacidade
+no setor das comunicagoes eletrdnicas, o qual inegavelmente abrange as comunicacdées por
+via telefonica. Este regime consta hoje da Lei n.° 41/2004, de 18 de agosto, alterada pela Lei
+n.° 46/2012, de 29 de agosto, em transposicao da Diretiva europela e-Privacy’, com solucées
+
+que devem ser ponderadas no contexto deste Projeto de lei.
+
+Na verdade, a matéria objeto do presente projeto de lei encontra-se ja regulada na lei
+portuguesa e em termos que se afiguram suficientes para afastar as preocupacoes e receios
+Expressos na exposi¢ao de motivos da presente iniciativa parlamentar, como em seguida se
+
+procurara demonstrar.
+
+Em terceiro lugar, alerta-se para o facto de estar em curso a revisdo da Diretiva @-Privacy,
+prevendo-se ainda para este ano a aprovagao de um novo Regulamento europeu sobre esta
+materia, o qual, pela sua natureza, se aplicara diretamente na ordem juridica nacional.
+Considerando que a proposta europeia atualmente em discuss3o0 nao prevé um mecanismo
+similar ao avangado agora no Projeto de Lei, a CNPD realca nao ser este o momento oportuno
+
+para a aprovacgao de um novo regime legal nesta matéria.
+
+De todo o modo, e porque sobre o tratamento de dados pessoais para fins de marketing
+inicialmente previsto em especial na Lei n.° 6/99, de 27 de janeiro, sofreu profundas
+alteragdes, nao estando, nessa medida, o regime ai previsto plenamente em vigor, entende a
+CNPD ser conveniente relembrar aqui, sucintamente, a historia do atual regime legal, para em
+seguida proceder a apreciagdo do presente Projeto de Lei a luz do mesmo e dos diplomas
+
+legislativos da Unido Europeia.
+
+A) Evolucao legislativa
+
+O quadro legal em matéria de publicidade/marketing alterou-se substancialmente desde a Lei
+
+n.° 6/99, de 27 de janeiro, que regula a publicidade domicilidria, de tal modo que o regime
+
+ 
+
+' Diretiva 2002/58/CE, de 12 de julho, relativa ao tratamento de dados pessoais e a protecao da privacidade no sector das
+comunicacoes eletronicas, com as alteragdes introduzidas pela Diretiva 2009/136, de 25 de novembro.
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832
+
+2
+
+o-
+Processo PAR/2019/16 | 2V.
+
+legal neste previsto, concretamente o disposto no seu artigo 5.°, foi implicitamente revogado
+
+por diplomas legais posteriores, em transposi¢ao de Diretiva Europeias. Se nao, vejamos.
+
+A Diretiva n.° 2000/31/CE, do Parlamento Europeu e do Conselho, de 8 de Junho de 2000,
+relativa a certos aspetos legais dos servicos da sociedade de informacao, em especial do
+comeércio eletronico, no mercado interno, apesar de nao estabelecer um regime comum em
+materia de comunicagées comerciais nao solicitadas, permitiu aos Estados Membros? a op¢ao
+entre o sistema de registo negativo (opt out’ e o do necessario consentimento prévio do
+
+destinatario (opt-in)*.
+
+Em transposi¢ao daquela diretiva, o artigo 22.° do Decreto-Lei n.° 7/2004, de 7 de janeiro,
+introduziu pela primeira vez no ordenamento juridico nacional, a obrigatoriedade da prestacao
+do consentimento prévio do destinatario da comunicagao (opt-in), no caso das pessoas
+singulares, mantendo o regime do opf-out para os clientes por ocasiao de um transacao
+
+comercial — venda ou prestacao de servi¢o - ou em momento posterior.
+
+Além disso, e na linha do Considerando 31 daquela Diretiva, abriu a possibilidade de criacao
+de uma «//sfa atualizada de pessoas que manifestaram o desejo de nao receber aquele tipo
+de comunicacgoes» da responsabilidade das entidades que promovem «o envio de
+comunicacoes publicitarias nao solicitadas», ou de um organismo que as representasse, tal
+
+como ja havia sido previsto no artigo 5.°, n.° 3, da Lei n.° 6/99.
+
+Ulteriormente, a Diretiva 2002/58/CE, de 12 de julho, relativa ao tratamento de dados pessoais
+e a protecao da privacidade no sector das comunicacdes eletrénicas, em especial no seu
+
+artigo 13.° (cf. também Considerandos 40 a 43), veio estabelecer para os Estados Membros
+
+2 Considerandos 14, 30, 31 e artigo 2°, alinea f).
+
+3 Sistema de opt-out procedimento de conhecimento da vontade do titular dos dados pelo qual lhe é oferecida a
+possibilidade de se inscrever num registo de opositores ao tratamento dos seus dados pessoais, ficando vedado
+ao responsavel (emissor de comunicacées eletrénicas) o tratamento dos dados pessoais (envio de comunicagdes
+eletronicas) desse titular — Cf. /dern.
+
+4 Sistema de opt-ir. procedimento de conhecimento da vontade do titular dos dados pelo qual se exige que este
+expresse a sua aceitacao e intencao de os ver tratados (receber as comunicacdées eletrénicas) para que o
+responsavel pelo tratamento (emissor da comunica¢ao) possa, legitima e licitamente, proceder a esse tratamento
+(envio de comunicacao eletrénica) - Cf. Luis Menezes Leitao, “Direito da Sociedade da Informagao”, Vol. IV,
+Coimbra Editora, pag. 199.
+
+i
+Processo PAR/2019/16 | 3 L
+
+   
+
+ 
+
+-COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+ 
+
+principios e regras uniformizadoras, nesta matéria, mais limitativas no que aos tratamentos
+
+de dados pessoais nas comunicacdes nao solicitadas diz respeito.
+
+Com efeito, a op¢ao do regime de opt-in era compreensivel, face a motivagao e finalidade da
+Diretiva 2002/58/CE, descrita nos seus considerandos, mas também perante os efetivos
+
+desvirtuamentos do mercado e os reais perigos para a privacidade®.
+
+Mais tarde, o Decreto-Lei n.° 62/2009, de 10 de marco, fixou o regime de opf-out para clientes
+€ nao clientes, ao impor a Direcao-Geral do Consumidor a criacdo de uma lista (nova) de
+ambito nacional de pessoas que manifestassem «o desejo genérico de nao receber qua/squer
+comunicagoes publicitarias», em simultaneo com o regime de opt-in para nao clientes,
+
+situagao que levantava dificuldades na sua interpretacdo e aplicacao.
+
+Com.a atual redacgdo do artigo 13.°-A da Lei n.° 41/2004, de 18 de agosto, dada pela Lei n.°
+46/2012, de 29 de agosto (que transpés 0 artigo 13.° da Diretiva 2009/136/CE, de 25 de
+novembro®), veio estabelecer-se, de modo claro e inequivoco, Oo regime do opt-in para nao
+clientes, ao exigir o seu consentimento prévio, como condi¢ao para o envio de comunicacées
+
+para fins de marketing direto.
+
+Por sua vez, 0 artigo 13.°-B deste diploma, determinou, relativamente as pessoas singulares,
+
+a obrigatoriedade por parte das entidades responsaveis pelo envio das comunicagdoes nao
+
+ 
+
+° Em primeiro lugar, porque de outro modo os cidadaos recetores ver-se-iam obrigados a destinar grande parte do
+tempo e avultados recursos a manifestar a sua intencdo de nao receber as mensagens nao solicitadas; em
+segundo lugar, nao sendo, tantas vezes, conhecida a identidade do emissor, existe a pratica de os emissores nado
+respeitarem a oposicao dos cidadaos ao envio de mensagens para os seus terminais; em terceiro lugar, a oposic&o
+do recetor revela aos emissores que aquele cidaddo é um utilizador atento e cioso do seu terminal, o que estimula
+ainda mais o envio de mensagens de Marketing Direto; em quarto lugar, as frequentes e vastas transmissdes de
+virus informaticos e obstrucdes de linhas, através das mensagens nao solicitadas enviadas massivamente; por
+fim, 0 envio de mensagens é um modo de promocao tao barato e com tao proficuos resultados que a tendéncia
+(ou tenta¢ao) para ignorar o registo negativo é grande, sobretudo tendo em conta, repete-se, o anonimato do
+emissor para o recetor comum. Cf. Documento sobre os Principios Gerais aplicaveis ao Marketing Politico nas
+comunicagoes _eletrénicas in _https://www.cnpd.pt/bin/orientacoes/PRINCIPIOS-MARKETING-POLITICO-
+eprivacy.pdf.
+
+6 Que altera a Diretiva 2002/22/CE relativa ao servico universal e aos direitos dos utilizadores em matéria de redes
+e servigos de comunica¢ées eletrénicas, a Diretiva 2002/58/CE relativa ao tratamento de dados pessoais e a
+protecao da privacidade no sector das comunicagées eletronicas e o Regulamento (CE) n.° 2006/2004 relativo a
+
+cooperacao entre as autoridades nacionais responsaveis pela aplicacdo da legislagao de defesa do consumidor.
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT [ TEL: +351 213928 400 | FAX: +351 213 976 832
+Processo PAR/2019/16
+
+solicitadas de manterem uma lista «positiva»’ de nao clientes que manifestaram,
+expressamente e de forma gratuita, o consentimento para a rececao de comunicacgdes nao
+solicitadas, bem como de clientes que nao se opuseram a rececao de comunicacées para fins
+de marketing direto que possam vir a ser enviadas pelo fornecedor de um produto ou de um
+
+Servicgo.
+
+Neste novo quadro legal, a Diregao-Geral do Consumidor mantém-se responsavel por uma
+lista de ambito nacional, porém, circunscrita as pessoas coletivas que manifestem
+expressamente opor-se a rececao de comunicacgdes nao solicitadas- opf out (Cf. artigo 13°-B,
+n.° 2).
+
+Assim, a ordem juridica nacional exige dois tipos de listas: as listas positivas, nas maos de
+cada responsavel pelo tratamento de dados para finalidade de marketing, e a lista negativa,
+
+circunscrita as pessoas coletivas, da responsabilidade da Direcao-Geral do Consumidor.
+
+Pelo exposto, é pacifico que o artigo 13.°-A da Lei n.° 41/2004, na sua atual versao, regula o
+regime das comunicacgoes nao solicitadas, de cariz comercial e nao comercial, no setor da
+comunicagoes eletronicas®, quando os destinatarios sao pessoas singulares e existe recurso
+ao seu endereco de emai//, ao fax, ao numero de telefone, movel e fixo, e outros meios
+
+similares.
+
+A solugao atual de impor a conservacao de «listas positivas», da responsabilidade das
+entidades que pretendam proceder ao envio de comunicacoes para fins de marketing direto,
+aS quais, por essa razao, estao obrigadas a manter por si, Ou por organismo que as
+represente, uma lista atualizada de pessoas singulares que manifestaram expressamente de
+forma gratuita o consentimento para a rececao das referidas comunicac6es, esta em plena
+conformidade com o disposto no RGPD. Na verdade, deste regime decorre a obrigacao para
+quem realiza tratamentos de dados pessoais de verificar previamente e demonstrar que as
+condicoes legais para a sua concretiza¢gao estao preenchidas — no caso, que os titulares dos
+
+dados deram o seu consentimento prévio e expresso (artigo 13.°-A da Lei n.° 41/2004), o qual,
+
+“Em oposi¢ao a expressao «lista negativa», até entao vigente aberta as pessoas que tivessem recusado receber
+comunicacodes nao solicitadas.
+8 Naturalmente que nao estado incluidas no ambito desta disposicdo legal o envio de comunicacédes de marketing
+
+direto/publicidade com recurso a via postal.
+
+BV.
+Processo PAR/2019/16 | 4 4
+
+ 
+
+   
+
+-COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+em respeito pelo disposto nos artigos 4.°, alinea 11), e 7.° do RGPD, corresponde ainda a
+
+uma manifestacao de vontade livre, especifica e informada.
+
+B) Apreciagao do projeto de lei
+
+Entrando agora na analise do teor do Projeto de Lei, e avaliando da sua conformidade com o
+regime europeu de protegdo de dados pessoais e 0 regime europeu da privacidade no setor
+das comunicagées eletrénicas, a primeira conclusao 6 a de que a lista cuja criacao vem
+prevista no artigo 2.° do Projeto de Lei nao afasta a obrigacdo de verificagao da existéncia do
+consentimento com aqueles atributos, nem em rigor a pode afastar (sob pena de violacdo da
+Diretiva e-Privacye do RGPD). Tao-pouco afasta o regime especificamente previsto no artigo
+13.°-A da Lei n.° 41/2004, que impde a cada entidade que pretenda proceder ao envio de
+comunicacoes para fins de marketing direto o dever de manter uma lista positiva das pessoas
+singulares que nisso consentiram e dos clientes que a isso ndo se Opuseram — regime que,
+alias, abarca mais meios de comunicac@o eletrénica do que o telefone e portanto sempre se
+
+manteria quanto a esses outros meios.
+
+1. Ora, nestes termos, o Projeto de Lei nado consegue alcancar as finalidades de simplificar o
+regime das comunicagées para fins de marketing direto e de tornar mais transparente para os
+
+titulares dos dados quem trata os seus dados.
+
+Na verdade, o resultado pratico de um tal regime é uma multiplicagao de listas: a acrescer as
+listas que cada entidade que envia comunicacées para fins de marketing direto tem de manter,
+existiria ainda uma lista nacional com os dados de pessoas que consentiram no marketing
+direto por utilizagao do numero de telefone; e ainda de uma lista com os contactos telefénicos
+daqueles que revoguem o consentimento inicialmente dado ou a se oponham ao tratamento
+de dados (cf. alinea b) do n.° 1 do artigo 2.° do Projeto de Lei).
+
+Por outro lado, nao é regulado no Projeto, nem se percebe como se podera articular, o regime
+da Lei n.° 41/2004 com o regime agora em andlise. Em especial, quando um cliente de uma
+determinada entidade se oponha ao tratamento dos seus dados pessoais para efeito de
+marketing (direito reconhecido no n.° 2 do artigo 13.° da Diretiva e-Privacy), nao se alcanca
+
+como consegue esta entidade assegurar o respeito pelo exercicio desse direito, no contexto
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT [| TEL: +351 213928 400 | FAX: +351 213 976 832
+Processo PAR/2019/16 | Av.
+
+da tal lista nacional — desde logo, como garante que, entretanto, outras entidades nao
+
+continuem a usar os contactos recolhidos na lista nacional.
+
+Nao se vé, pois, em que medida se pode considerar haver um reforco do controlo dos dados
+
+pessoais por parte dos respetivos titulares, nem, consequentemente, dos seus direitos.
+
+2. Acresce que a CNPD tem reservas quanto a conformidade do regime previsto no artigo 1.°
+
+do Projeto de Lei com a Diretiva e-Privacy e o RGPD, lidos conjugadamente.
+
+Em primeiro lugar, e comegando pelo disposto no n.° 2 do artigo 1.°, nao se percebe como
+conseguem os fornecedores de determinado produto ou servico garantir, no seio do referido
+registo nacional, o disposto no n.° 2 do artigo 13.° daquela Diretiva: que o tratamento de dados
+pessoais dos clientes para promocao de produtos ou servicos se restrinja aos produtos ou
+servicos analogos aos transacionados. Isto porque o registo nacional previsto no artigo 2.°
+parece ter uma natureza ampla e genérica e nao permitir a diferenciag¢ao em func¢ao do tipo
+
+de produtos ou servico comercializado.
+
+Depois, porque € duvidoso que se possa retirar do mecanismo de opf-out previsto no artigo
+13.° da Diretiva e-Privacy (e desenvolvido no artigo 13.°-A da Lei n.° 41/2004) a legitimidade
+de uma empresa inscrever nesse registo nacional e assim tornar publico o numero de contacto
+telefonico de um seu cliente. Reitera-se, nas hipdoteses previstas no n.° 2 do artigo 1.°, nao ha
+consentimento do titular dos dados. Afigura-se, neste ponto, que o Projeto de Lei esta a
+incorrer num excesso, adotando uma solucao que claramente vai mais além na intrusao da
+privacidade dos cidadaos do que aquilo que é justificado e, seguramente, do que aquilo que
+
+decorre da diretiva europeia.
+
+A nao ser que se entenda, 0 que nao é€ evidente da reda¢ao dos dois preceitos, que a inscrigao
+definitiva no registo nacional depende ainda da confirmagao da inscri¢cao pelo cliente no portal
+de registo. Ainda assim, mantém-se sérias reservas quanto a reconhecer-se a uma empresa
+a legitimidade para transmitir um dado pessoal de um cliente seu a um portal sem que para
+isso este tenha dado o seu consentimento e sem que esta solucao esteja, na verdade,
+justificada em termos de necessidade desse tratamento para alcancar as finalidades visadas
+
+por essa empresa.
+
+iy
+Processo PAR/2019/16 | 5 fr
+
+ 
+   
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+Em segundo lugar, os termos em que se encontra previsto e regulado o portal do registo
+nacional prejudicam a possibilidade de a declaracdo de consentimento prevista no n.° 1 do
+
+artigo 1.° respeitar o disposto no RGPD.
+
+Na verdade, nao restam duvidas que o consentimento a que se refere o artigo 13.° da Diretiva
+e-Privacy tem de cumprir os requisitos previstos na alinea 11) do artigo 4.° do RGPD e,
+portanto, tem, para o que aqui agora interessa, de ser informado e especifico. E a informacao
+tem de abarcar os elementos do tratamento de dados enunciados nos artigos 13.° e 14.° do
+RGPD.
+
+Recorda-se que 0 direito de informacao implica o dever de dar a conhecer ao titular dos dados,
+em momento prévio a prestagao do consentimento, para além de outros aspetos do
+tratamento, a identificagado da entidade que pretende enviar comunicagoes sobre produtos,
+servicos, de natureza promocional ou informativa, ou pelo menos, as categorias de entidades
+que pretendem enviar tais comunicagées. O que nado parece poder ser assegurado no regime
+
+previsto no Projeto de Lei.
+
+Além disso, na perspetiva da CNPD, a especificidade do consentimento respeita nado apenas
+as finalidades, mas também as entidades destinatarias dos seus dados pessoais (aqui os
+dados de contacto e de identificacao) - ou, pelo menos, as categorias de entidades
+destinatarias. Pois o titular dos dados podera consentir que lhes seja enviada comunicacgées
+da entidade A e nao o pretender relativamente a entidade B. O poder de consentir quanto aos
+tratamentos de dados pessoais deve ser exercido em fungao da entidade que é, ou podera
+vir a ser, responsavel pelos seus dados pessoais. Aspeto de regime que este Projeto de Lei
+
+nao cumpre.
+
+Ill. Das Conclusé6es
+
+Com os fundamentos acima expostos, a CNPD manifesta sérias reservas quanto a
+conformidade do Projeto de Lei em andlise com o regime juridico europeu de protecdo de
+
+dados e de protecao da privacidade no setor das comunicacoes eletrdénicas.
+Em particular, entende que:
+
+1. A presente iniciativa parlamentar assenta num erro quanto ao regime legal em vigor
+
+sobre envio de comunicagédes promocionais utilizando o numero de telefone;
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213.928 400 | FAX: +351 213 976 832
+Processo PAR/2019/16 | 5v.
+
+2. A presente iniciativa parlamentar nao se afigura oportuna, ja que esta em curso a
+revisao da Diretiva e-Privacy e a sua substituigao por um regulamento europeu;
+
+3. O presente Projeto de Lei nao torna o regime das comunicacoées para fins de marketing
+direto mais transparente para os titulares dos dados relativamente a quem trata os
+seus dados, nem determina um reforgo do controlo dos dados pessoais dos cidadaos
+e, consequentemente dos seus direitos, uma vez que:
+
+i. | Acrescenta as listas ja existentes, uma lista nacional com os dados de pessoas
+que consentiram no marketing direto por comunicac6es telefonicas, nao Ihes
+permite saber quem esta a aceder e a utilizar os seus dados;
+
+li. | Nao articula o exercicio dos direitos dos titulares dos dados, em especial do
+direito de oposi¢ao;
+
+4. Oconsentimento a que se refere o artigo 13.° da Diretiva e-Privacy tem de cumprir os
+requisitos previstos na alinea 11) do artigo 4.° do RGPD e, portanto, tem, para o que
+aqui agora interessa, de ser informado e especifico, exigéncia que o regime previsto
+
+no Projeto nao permite cumprir.
+
+Lisboa, 25 de marco de 2019
+
+—
+
+a
+
+Filipa Calvao (Presidente)

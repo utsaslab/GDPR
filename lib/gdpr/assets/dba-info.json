@@ -588,5 +588,31 @@
         "render_type": "FULLY_RENDERED"
       }
     ]
+  },
+  "PT": {
+    "country": "Portugal",
+    "name": "Comissão Nacional de Protecção de Dados - CNPD",
+    "address": "Av. D. Carlos I, 134, 1º\n1200-651 Lisboa",
+    "phone": "21 392 84 00",
+    "country_code": "+351",
+    "email": "geral@cnpd.pt",
+    "website": "https://www.cnpd.pt",
+    "member": {
+      "name": "Ms Filipa CALVÃO",
+      "title": "President, Comissão Nacional de Protecção de Dados"
+    },
+    "sources": [
+      {
+        "host": "https://www.cnpd.pt",
+        "start_path": "/bin/decisoes/decisoes.asp?primeira_escolha=2019&segunda_escolha=40",
+        "target_element": {
+          "results": null,
+          "pagination": null,
+          "document": null,
+          "date": null
+        },
+        "render_type": "FULLY_RENDERED"
+      }
+    ]
   }
 }

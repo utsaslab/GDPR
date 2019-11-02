@@ -1,0 +1,208 @@
+Processo PAR/2019/50 | 1
+
+    
+
+y
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+PARECER/2019/55
+
+|. Do Pedido
+
+O Gabinete do Secretario de Estado da Defesa do Consumidor remeteu a Comissao Nacional
+de Protegao de Dados (CNPD), para apreciacdo, 0 Projeto de Decreto-Lei que estabelece as
+regras a que deve obedecer a colocacdo no mercado de matérias fertilizantes, assegurando
+em simultaneo, a execugao na ordem juridica interna das obrigacdes decorrentes do
+Regulamento (CE) n.° 2003/2003 do Parlamento Europeu e do Conselho, de 13 de outubro,
+
+relativo aos adubos (doravante Regulamento).
+
+O pedido formulado e o parecer ora emitido decorrem das atribuigodes e competéncias da
+CNPD, enquanto autoridade nacional de controlo dos tratamentos de dados pessoais,
+conferidos pela alinea c) do n.° 1 do artigo 57. ¢ pelo n.° 4 do artigo 36.° do Regulamento
+(UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016 (Regulamento
+Geral sobre a Protegao de Dados — RGPD), em conjuga¢gao com o disposto no artigo 3.° da
+Lei n.° 58/2019, de 8 de agosto.
+
+A apreciagao da CNPD cinge-se as normas que preveem ou regulam tratamentos de dados
+
+pessoais.
+
+ll. Da Apreciacao
+
+O projeto de Decreto-Lei submetida a parecer (re)estabelece as regras a que deve obedecer
+a colocagao no mercado de matérias fertilizantes, revogando o Decreto-Lei n.° 103/2015, de
+15 de junho, que assegurava a execu¢do na ordem juridica interna das obrigacgdes
+decorrentes do Regulamento (CE) n.° 2003/2003 do Parlamento Europeu e do Conselho, de
+13 de outubro, relativo aos adubos, impondo diretamente aos fabricantes requisitos precisos
+que devem ser aplicados ao mesmo tempo e da mesma forma em toda a Comunidade (cf.
+
+Considerando 2 do Regulamento).
+
+Decorrem igualmente do Regulamento regras quanto a identificacao, rastreabilidade,
+rotulagem e fecho de embalagens dos adubos CE, sendo sobre o fabricante que recai a
+obrigagao de as cumprir (cf. artigos 7.°, 8.°, 9.°, 10.°.12.° e 26.° do Regulamento, bem como
+
+oO respetivo Considerando 6).
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928400 | FAX: +351 213 976 832
+Processo PAR/2019/50 | Iv.
+
+O projeto em analise aplica-se, assim, aos adubos, abrangendo, de igual modo, (algumas)
+
+materias fertilizantes (nao harmonizadas) — cfr. artigo 2.° do projeto.
+
+No essencial, 0 projeto prevé operacées de tratamento de dados pessoais: umas no contexto
+do Registo Nacional de Materias Fertilizantes Nao Harmonizadas e outras no ambito da lista
+de entidades que realizem ensaios de eficacia ao solo de matérias fertilizantes nao
+
+harmonizadas.
+
+E sobre estes tratamentos que a CNPD se debrucga em seguida, deixando a nota de que se
+
+justificara incluir no preambulo do diploma a audicao da CNPD.
+
+A) Do Registo Nacional de Mateérias Fertilizantes Nao Harmonizadas
+
+As materias fertilizantes nao harmonizadas estao sujeitas a inscricdo no Registo Nacional de
+Materias Fertilizantes Nao Harmonizadas (RNMFNH), da responsabilidade da Direcao-Geral
+das Atividades Economicas (DGAE), devendo constar do mesmo informacao «dos
+
+responsaveis pela sua colocagao no mercado» (artigo 6.° do projeto).
+
+Para efeitos da referida inscrigao, recai sobre 0 «operador econdmico» (seja, fabricante,
+importador ou distribuidor) a obrigagao de submeter um pedido de registo A DGAE, facultando
+para o efeito dados de identificagao, que no caso de pessoa singular sera o nome, morada e
+numero de identificagao fiscal (cf. artigo 7.°, n.° 3, alineas a) e 6), e artigo 3.°, alinea rrr), do
+projeto). Assinala-se que no anexo ao presente projeto consta no ponto 1.1. o elenco dos
+dados a comunicar, onde figuram ainda dados de contacto (telefone, fax, email), os quais se
+afiguram ainda adequados e necessarios para a instrucdo do respetivo procedimento. O que
+ja merece censura da CNPD é a utilizagao do advérbio “designadamente”: ou o presente
+projeto pretende delimitar o ambito do tratamento de dados pessoais — e entao cabe-lhe
+determinar com precisao as categorias de dados pessoais suscetiveis de recolha — ou entao
+perde tal fungao, com a consequéncia de ter de se encontrar para o tratamento outro
+fundamento de licitude do tratamento. A CNPD recomenda, por isso, a eliminacao do advérbio
+“designadamente”, até porque o elenco de dados pretende dizer respeito a identificacao e nao
+
+se vé que outros dados de identificagao se possam vir aqui a incluir.
+
+/
+Processo PAR/2019/50 | 2
+
+  
+  
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+Este ato sera realizado através do Portal ePortugal novo portal de servicos publicos da
+responsabilidade da Agéncia para a Modernizacdo Administrativa, |.P.,1, para o que é
+
+necessario um prévio registo.
+
+Prevé-se ainda, no projeto, que a DGAE disponibilizara, a final, no seu sitio da internet, entre
+outras informagées, a relativa a identificagdo do operador econdmico de cada uma das
+materias fertilizantes nao harmonizadas inscritas no registo (cfr. artigo 9.°, n.° 2, alinea 7), do
+
+projeto).
+
+Em relagao a este ponto, relativo a disponibilizacdo em rede aberta de dados pessoais do
+operador econdmico, ou seja, do fabricante e do distribuidor na acecdo do artigo 2.°, alinea
+rrr), do projeto, a CNPD tem reservas, nao apenas por aplicagao do principio da
+proporcionalidade («/ninimizacao dos dados») previsto na alinea c) do n.° 1 do artigo 5.° do
+
+RGPD, como também pelo impacto que a mesma pode ter sobre a vida do mesmo.
+
+Na perspetiva da CNPD, para avaliar da adequac&o e necessidade dos dados, importa
+distinguir a finalidade que a publicitagao visa alcancar das finalidades visadas pelo registo,
+bem como pela comunicagaéo dos dados a autoridades administrativas com competéncias de
+fiscalizagao. Nestes dois ultimos casos, é indiscutivel a necessidade dos dados de
+identificagao do operador econdmico (cfr. artigo 8.° do Regulamento e ainda os artigos 17.°,
+22.°, 23.° e 26.°, todos do projeto).
+
+O mesmo ja nao podera ser afirmado quanto a operacao de tratamento de dados
+
+«disponibilizagao na internet».
+
+Com efeito, de acordo com os considerandos 11, 12, 13 e 15 do Regulamento que justifica a
+presente legislagao, a finalidade que subjaz a todo o processo de autoriza¢ao, introducao e
+rastreabilidade no mercado dos adubos e de matérias fertilizantes sera o de acautelar a
+seguran¢a publica, a saude, o ambiente ea protegao dos trabalhadores. Para tais finalidades,
+nao se afigura necessario dar a conhecer a todae qualquer pessoa, por via da disponibilizacao
+no sitio da Internet, a identificacdo do operador econémico. Ainda que se possa perceber a
+importancia do acompanhamento, por parte dos membros da sociedade, da utilizacao destes
+materiais fertilizantes, o mesmo pode concretizar-se sem que se conhega a identificacao do
+
+operador econdémico.
+
+‘creme PARR PPR p—rrrreremnins
+
+thttos://eportugal.gov.pt/sobre
+
+Av. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832
+Processo PAR/2019/50 | ov.
+
+Mesmo 0 disposto no artigo 49.° do Decreto-Lei n.° 135/99, de 22 de abril, na redacdo que lhe
+foi dada pelo Decreto-Lei n.° 73/2014, de 13 de maio?, para o qual o n.° 3 do artigo 9.° da
+proposta remete, so permite a publicitacao em sitios da internet da DGAE indexado de
+«informagao publica» que pela sua nafureza e nos termos da lei possa ser disponibilizada ao
+publico, dele nao decorrendo sem mais a imposicaéo da sua divulgacdo, tao-pouco a
+
+adequa¢gao e necessidade da mesma
+
+Com estes fundamentos, a CNPD sugere a revisao da redacéo do n.° 3 do artigo 9.° do projeto,
+restringindo-se a informagao a publicitar a todos os elementos a que aludem as suas alineas
+
+a)a e), portanto, com exclusao da alinea 7.
+
+B) Da «lista de entidades» que realizam ensaios de eficacia
+
+Na presente proposta em anéalise, o legislador determina ainda a criacao de uma lista de
+entidades que realizem ensaios de eficacia ao solo de matérias fertilizantes nado
+harmonizadas, bem como a disponibilizagao da mesma no Portal ePortugal , nos sitios da
+internet da DGAE e, ainda, do Instituto Nacional de Investigacdo Agraria e Veterinaria, I.P.
+(INIAV, I.P.) -— cfr. artigo 20.°).
+
+Admitindo que alguma dessas entidades tenha natureza de pessoa singular ou que a sua
+natureza as reconduza a um nome ou outro dado pessoal na acegao do artigo 4.°, alinea 7),
+do RGPD, estaremos perante um tratamento de dados pessoais. Nessa medida, ambos os
+
+tratamentos estao sujeitos ao RGPD, nao suscitando quanto ao mais reservas.
+
+Ill. Das Conclusé6es
+Assim, com os fundamentos acima expostos, a CNPD recomenda:
+
+1. Aeliminagao do advérbio “designadamente” do ponto 1.1. do Anexo ao Projeto, onde
+se elencam os dados de identificagado dos operadores econdmicos, por forca da
+necessidade de precisao na definigao legal do universo de dados pessoais objeto do
+
+tratamento;
+
+2 ; . ; : . . . ; .
+Que, nos termos do seu artigo 50.°, «prevalece sobre quaisquer disposic¢ées gerais relativas aos diversos Servicos e organismos
+da Administtacao Publican.
+
+yo
+Processo PAR/2019/50 | 3
+
+    
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+2. Arevisao do n.° 3 do artigo 9.° do projeto, restringindo-se a informagao a publicitar a
+todos os elementos a que aludem as suas alineas a) a e), portanto, com exclusdo da
+alinea 4), sob pena de violagdo da alinea c) do n.° 1 do artigo 5.° do RGPD, por nao
+ser necessaria a disponibilizagao da identificacdo dos operadores econdmicos na
+
+internet, atenta a finalidade do registo.
+
+Lisboa, 17 de setembro de 2019
+
+fi
+
+Filipa Calvao (Presidente)
+
+AV. D. CARLOS 1, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832

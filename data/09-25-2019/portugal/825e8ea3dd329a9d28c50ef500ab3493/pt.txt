@@ -1,0 +1,163 @@
+Processo PAR/2019/52 | 1 a
+
+ 
+   
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+PARECER/2019/65
+F Pedido
+
+O Gabinete da Secretaria de Estado da Justica solicitou € Comissao Nacional de Protecao de
+Dados (CNPD) a emissao de parecer sobre o projeto de Portaria que visa proceder a
+regulamentagao da obtencao, pelos tribunais, de informagao sobre o estabelecimento de
+ensino frequentado pelo aluno, bem como das comunicagoes eletrénicas realizadas entre os
+tribunais judiciais e as escolas da rede publica tutelada pelo Ministério da Educa¢ao no ambito
+
+de processos respeitantes a alunos desses estabelecimentos.
+
+O pedido formulado e o parecer ora emitido decorrem das atribuigdes e competéncias da
+CNPD, enquanto autoridade nacional de controlo dos tratamentos de dados pessoais,
+conferidos pela alinea c) do n.° 1 do artigo 57.° e pelo n.° 4 do artigo 36.° do Regulamento
+(UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016 (Regulamento
+Geral sobre a Protecao de Dados - RGPD), em conjuga¢gao com o disposto no artigo 3.°, no
+
+n.° 2 do artigo 4.° e da alinea a) do n.° 1 do artigo 6.°, todos da Lei n.° 58/201 9, de 8 de agosto.
+
+A apreciagao da CNPD cinge-se as normas que preveem ou regulam tratamentos de dados
+pessoais.
+
+ll. Apreciacao
+
+O Decreto-Lei n.° 97/2019, de 26 de julho, veio alterar o regime de tramitacao eletrénica dos
+processos judiciais previstos no Céddigo de Processo Civil, tendo-se a CNPD pronunciado
+
+sobre 0 projeto de diploma em causa através do Parecer n.° 22/2019, de 15 de abril.
+
+Nos termos do n.° 5 do artigo 132.° (Processo Eletronico) do referido Decreto-Lei, as
+comunicagoes entre tribunais e entidades publicas podem ser efetuadas por via eletrénica,
+atraves do envio de informacao estruturada e da interoperabilidade entre o sistema de
+informagao de suporte a atividade dos tribunais e os sistemas de informagao das referidas
+entidades, nos termos previstos em portaria dos membros do Governo responsaveis pela area
+
+da justiga e pela entidade publica em causa.
+
+Como decorre do preambulo do presente projeto de Portaria, com a publicagao do Decreto-Lei
+
+n.° 97/2019, de 26 de julho, consideram-se criadas as condigoes para a implementacdo de
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928400 | FAX: +351 213 976 832
+Processo PAR/2019/52 | tv.
+
+diversas medidas que respeitam a simplificagao e desmaterializagao das comunicagoes entre
+
+os tribunais e as entidades publicas.
+
+O presente Projeto de Portaria concretiza uma dessas medidas ao prever que sejam
+efetuadas por via eletronica as comunicagdes dos tribunais judiciais dirigidas aos
+estabelecimentos escolares, através de um sistema integrado de gestao de alunos (Escola
+360), ao mesmo tempo que agiliza e acelera a obtengao pelo tribunal da informagao sobre o
+percurso escolar do aluno, a comegar pela indicagao do estabelecimento de ensino onde esta
+
+matriculado.
+
+Nos termos do artigo 2.° do projeto de Portaria «Quando, no ambito de um processo judicial,
+seja necessdrio consultar informacao relativa a identificacao do estabelecimento de ensino
+pré-escolar, basico ou secundario em que a crianca ou o jovem esta matriculado, essa
+consulta é efetuada diretamente pelo tribunal, através do sistema de informac¢ao de suporte a
+atividade dos tribunais, no sistema integrado de gestao de alunos do Ministério da Educacao
+gue centraliza a informacao de carater administrativo relativa aos alunos integrados nesses
+estabelecimentos de ensino», sendo tal consulta efetuada pelo nome completo, numero de
+
+identificagao civil ou numero de identificagao fiscal do aluno.
+
+Por sua vez, 0 artigo 3.° do projeto de Portaria visa regular as comunicagoes entre o tribunal
+judicial e o estabelecimento de ensino em que o aluno se encontra matriculado, por via
+eletrénica, através do envio de informacdo estruturada e de documentos eletronicos entre o
+sistema de suporte a atividade dos tribunais e a plataforma Escola 360'. Assim, nos termos
+do n.° 4 do artigo 3.°, pode ser comunicada informagao relativa ao aluno (ficha do aluno,
+registo de avaliagdo, assiduidade, ocorréncias disciplinares no meio escolar), relativa aos
+encarregados de educacao (nome e morada) e informacao relativa ao diretor de turma
+
+(identificagao).
+
+Note-se que o artigo 3.° do projeto refere que o envio da informagao entre o sistema de
+informacdo de suporte a atividade dos tribunais e a plataforma Escola 360 sera efetuada nos
+
+termos de protocolo a celebrar entre o Instituto de Gestao Financeira e Equipamentos da
+
+1 Segundo 0 Sitio oficial do Escola 360 (disponivel em https://e360.edu.gov.pt/), este é um “sistema do Ministerio
+da Educacdo que centraliza os processos de gest&o do aluno, desde a educagao pré-escolar ao ensino secundario.
+
+O objetivo é disponibilizar numa so plataforma toda a informagao de carater administrativo relativa aos alunos.”
+
+f
+Processo PAR/2019/52 | 2. V—
+
+   
+
+-COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+Justica, IP e a Direcao-Geral de Estatisticas de Educacdo e Ciéncia sem, contudo, ser feita
+
+mencao a prévia consulta da CNPD.
+
+A este proposito, a CNPD recorda que os protocolos, na medida em que correspondem a atos
+juridicos de entidades publicas que definem regras vinculativas para as partes quanto a
+tratamentos de dados pessoais de terceiros, tem natureza de regulamento administrativo.
+Nessa medida, nos termos do n.° 4 do artigo 36.° e da alinea c) do n.° 1 do artigo 57.° do
+RGPD, tém de ser sujeitos a apreciacdo prévia da CNPD. Para que nao restem duvidas
+
+quanto a tal dever, a CNPD sugere a sua explicitacdo no texto do artigo.
+
+Por sua vez, 0 artigo 4.° do projeto de Portaria suscita algumas reservas no que diz respeito
+
+as medidas de seguranca.
+
+Na verdade, para além de prever a obrigatoriedade de registos eletrdnicos (/ogs) dos acessos
+€ comunicagoes efetuados ao abrigo da presente portaria, apenas refere que os sistemas de
+informacao de suporte a atividade dos tribunais ea plataforma Escola 360 garantem o respeito
+pelas normas de seguranca @ dé acesso 2 informacao e de disponibilidade técnica legalmente
+
+estabelecidas, por forma a assegurar a confidencialidade dos dados.
+
+Constata-se, pois, que norma é totalmente omissa relativamente as medidas de seguranca
+envolvidas na transmissao dos dados, nao especificando, desde logo, se a transmissao é
+efetuada em rede publica ou privada. Estranha-se que o preceito normativo utilize uma
+formulagao notoriamente vaga para se referir 4 garantia de confidencialidade dos dados sem
+concretizar a forma como a mesma 6€ ou deve ser efetivada. Tanto mais que a protegao dos
+dados pessoais reclama medidas de seguranca especificamente adequadas a natureza da
+informagao tratada.
+
+Assim, em obediéncia ao principio da integridade e confidencialidade, previsto na alinea f) do
+n.° 1 do artigo 5.° do RGPD, a CNPD recomenda a alteracao do artigo 4.° do projeto de
+Portaria por forma a conter as medidas de seguranga adequadas a estes tratamentos de
+dados pessoais.
+
+ 
+
+Av. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928 400 | FAX: +351 213 976 832
+Processo PAR/2019/52 | 2v.
+
+Hf. Conclusao
+
+Com os fundamentos acima expostos, para que o Projeto de Portaria cumpra o comando
+legislativo contido no n.° 5 do artigo 132.° do Decreto-Lei n.° 97/2019, de 26 de julho, a CNPD
+
+recomenda:
+
+1 - Aconsagracdo expressa da obrigatoriedade de o protocolo referido no artigo 3.° ser sujeito
+
+a apreciagao prévia da CNPD;
+
+2 - A reformulacdo do artigo 4.° do projeto de Portaria, por forma a conter as medidas de
+
+segurang¢a envolvidas neste tratamento de dados pessoais.
+
+Lisboa, 1 de outubro de 2019
+
+f--—__
+
+Filioa Calvao (Presidente)

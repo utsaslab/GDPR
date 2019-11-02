@@ -1,0 +1,421 @@
+Processo PAR/2019/39 | 1
+
+ 
+  
+
+ 
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+ 
+
+PARECER/2019/41
+
+|. Pedido
+
+O Gabinete da Ministra do Mar remeteu a Comissao Nacional de Protecao de Dados
+(CNPD), para apreciacdo, 0 projeto de decreto-lei que cria a Janela Unica Logistica
+(JUL), estabelecendo as condic6es de funcionamento e acesso, da sua governacao,
+gestao e operagao e transpde para a ordem juridica interna a Diretiva n.° 2010/65/UE,
+do Parlamento Europeu e do Conselho, de 20 de outubro, relativa as formalidades de
+declaragao exigidas aos navios a chegada e ou a partida dos portos dos Estados
+membros, e que revoga a Diretiva n.° 2002/6/CE, do Parlamento Europeu e do
+Conselho, de 18 de fevereiro.
+
+O pedido formulado e o parecer ora emitido decorrem das atribuicdes e competéncias
+da CNPD, enquanto entidade administrativa independente com poderes de autoridade
+para o controlo dos tratamentos de dados pessoais, conferidos pela alinea c) do n.° 1
+do artigo 57.° e pelo n.° 4 do artigo 36.° do Regulamento (UE) 2016/679 do Parlamento
+Europeu e do Conselho, de 27 de abril de 2016 (Regulamento Geral sobre a Protegao
+de Dados — RGPD), em conjugacao com o disposto no n.° 1 do artigo 21.° e no n.° 1 do
+artigo 22.°, ambos da Lei n.° 67/98, de 26 de outubro, alterada pela Lei n.° 103/2015, de
+24 de agosto (Lei de Protecao de Dados Pessoais).
+
+A apreciagao da CNPD cinge-se as normas que preveem ou regulam tratamentos de
+
+dados pessoais.
+
+Il. Apreciagao
+
+O objetivo primordial deste projeto de decreto-lei 6 consagrar, no plano nacional, as
+solugoes de facilitagao declarativa por parte de quem utiliza os portos nacionais. A
+proposta de regulamento europeu nesta matéria, ja votada pelo Parlamento Europeu’,
+e que devera ser publicado em breve, aponta justamente para a simplificagcao das
+obrigacgées declarativas neste Ambito2. De resto, e para la dessa facilitacao, encontra-
+se inscrita no texto do futuro regulamento a necessidade de garantir a interoperabilidade
+
+dos sistemas de gestao do fluxo (de pessoas, carga e navios) dos portos europeus.
+
+' Texto aprovado disponivel em http://www.europarl.europa.eu/doceo/document/TA-8-2019-
+0434 PT. html#title2.
+
+? Cfr. considerando 19 do citado futuro regulamento.
+
+Av. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928400 | FAX: +351 213 976 832
+Processo PAR/2019/39 | ‘tv. f
+
+Sublinhe-se que, desde a Diretiva 2002/59/CE, no dominio do controlo do trafego de
+navios na UE, se aponta para sistemas que promovam e efetivem a referida
+interoperabilidade.
+
+No contexto portugués, a mais relevante das novidades trazida pelo presente projeto de
+diploma encontra-se no alargamento das facilidades declarativas e centralizagao da
+informacaéo a outros meios de transporte, no caso, o rodoviario e ferroviario,
+procedendo-se a padronizagao dos modelos e obrigacdes de reporte de informagao na
+chamada Janela Unica Logistica, plataforma que agora sucede a Janela Unica
+Portuaria, cujo enquadramento legal se iniciou com o Decreto-Lei n.° 370/2007, de 06
+de novembro.
+
+Esta nova plataforma “é de utilizacao obrigatoria para a apresentacao das formalidades
+de declaracao e para a gestao dos fluxos de informa¢gao associados ao planeamento,
+execucao e monitorizacao da movimentacao dos meios de transporte e das mercadoras
+entre os nds da cadela de transporte gue usem os portos nacionals para a importagao,
+exportacao ou transhipment, ou em qualquer circunstancia pontual que requeira O uso
+de um porto nacional.” (cfr. artigo 3.°, n.° 2). E a sua utilizagao abrange as atividades
+previstas nos n.°s 3 e 4 do artigo 3.° do projeto: Transporte maritimo de pessoas e bens
+através dos portos nacionais; Transporte de mercadorias ao longo das cadeias
+logisticas que utilizem os portos nacionais; Transporte de passageiros pela via maritima
+ou fluvial; Trafego de cruzeiros e gestao de marinas e portos de recreio; Atividades
+maritimo-turisticas, incluindo a gestao do trafego fluvial; Servicos prestados nos portos
+de pesca, incluindo os relativos a exportagao e importagao de pescado; Execugao das
+formalidades de declaracao e dos procedimentos associados ao controlo de fronteira
+nas zonas internacionais inseridas nas areas de jurisdigao dos portos nacionais.
+Prescreve-se, para todas “As entidades publicas e privadas que intervenham na JUL [o
+dever de] atuar em estreita colaboracao, desenvolvendo os melhores esforcos no
+sentido da concertacao de interesses, designadamente no ambito da Comissao
+Nacional para a Simpliticacao e Digitalizacao do Transporte e Logistica criada pelo
+presente decreto-lei, e no desenvolvimento de forma coordenada dos sistemas de
+informacaéo da competéncia de cada uma das partes’ (cfr. artigo 4.°, n.° 5 do projeto).
+Sendo certo que “7ém acesso a plataforma tecnoldgica as pessoas singulares e
+coletivas, pliblicas e privadas, as quails o presente decreto-lei se aplica.” de acordo com
+
+o prescrito no artigo 11.°, n.° 1.
+Processo PAR/2019/39 | 2
+
+   
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+A. Nota prévia
+
+O projeto de decreto-lei nado é claro sobre a existéncia de interconex6es de distintas
+bases de dados por forma a permitir a operacionalizacao das muitas capacidades
+descritas no artigo 9.°, n.° 2. No entanto, a necessidade de compatibilizacado desta
+plataforma com a “componente nacional do sistema SafeSea Net respeitante 42
+Implementacao da Diretiva n.° 200Z/5YCE, do Parlamento Europeu e do Conselho, de
+2/7 de junho, relativa 4 instituicao de um sistema comunitario de acompanhamento e de
+informacao do trafego de navios, integrando a informacao proveniente, nomeadamente,
+do posicionamento dos navios e dos atos declarativos efetuados nos portos através da
+JUP’ (cfr. preambulo do projeto de decreto-lei), indicia a existéncia de pelo menos
+algumas interconex6es? as quais, por se encontrarem omissas, nao permitem a CNPD
+emitir qualquer juizo sobre a sua robustez técnica ou adequacao legal.
+
+Seria, pelo exposto supra, importante que o futuro decreto-lei possa discriminar essas
+interconexdes (se existentes) e que as mesmas venham a ser objeto de regulamentacao
+para garantir os imprescindiveis aspetos de seguranca e resiliéncia das redes de
+
+comunica¢gao em causa.
+
+~~ B. Notas sobre o regime de protecao de dados
+
+Existe uma clausula genérica no n.° 4 do artigo 5.° (Principios gerais do funcionamento
+da JUL) que assim disp6e: “Sem prejuizo do acesso aos dados pessoa/s facultados no
+ambito da JUL as entidades competentes, 6 garantida a contidencialidade das
+informacdées comercials é outras informacdées sensivels partiihadas na JUL, sendo ainda
+assegurado o tratamento adequado desses dados pessoa/s para as finalidades
+previstas no presente decreto-/ei.". Em si mesma, a redacdao deste numero nao é
+obstaculo a concretizagao do regime de protecao de dados, mas a forma como se
+englobam dados pessoais e “dados comerciais e outras informacdes sensiveis” marca
+a tonica do projeto de decreto-lei, em que a matéria ligada ao direito fundamental,
+
+previsto no artigo 35.° da Constituicao da Republica Portuguesa, parece ser abordada
+
+* Como, de resto, também resulta de outras passagens do preambulo: “com vista a integracdo da informacdo
+maritima numa so plataforma, sdo interligados com a JUL todos os sistemas nacionais e internacionais cuja
+informacdo seja necessdaria para o funcionamento desta plataforma”
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832
+Processo PAR/2019/39
+
+ 
+
+como uma dimensao acessoria ou complementar da restante informagao tratada no
+quadro da JUL.
+Quanto ao ponto especifico da protegao de dados pessoais, 0 projeto destina-lhe um
+artigo proprio (artigo 15.°), sendo que outros dois transportam dimensdes relevantes
+ligadas 4 concretizagao de obrigagdes fundamentais inscritas no RGPD (artigo 16.° e
+17.°).
+
+e Responsaveis pelo tratamento
+Nesse primeiro artigo dedicado a regulamentar os tratamentos de dados pessoais no
+contexto do presente projeto, assinala-se que os responsaveis pelo tratamento* de
+dados inseridos na JUL sao “A ACN /Autoridade Competente Nacional —a Direcgao-Geral
+de Recurso naturals, Seguranca e Servicos Maritimos] e as ACL [Autoridades
+Competentes Locais — administracdes portuarias], em contormidade com as
+responsabilidade detinidas no artigo 8.°. Percebe-se a designacgao destas entidades,
+se atentarmos no que dispde o n.° 3 do artigo 9.° do projeto: “No sentido de assegurar
+o cumprimento integral da legislacao, bem como dos procedimentos que visem
+aumentar a eficacia e eficiéncia dos meios de transporte e das cadeias logisticas
+associados ao setor maritimo-portuario, a governacao, gestao e operacao da JUL
+compete: a) AACN no que concerne as politicas e decisdes de ambito nacional e as
+solucées tecnologicas que compdéem a Camada Nacional da JUL, 6) As ACL no que
+concerne as restantes solucdes tecnologicas da JUL’. Ao estarem incumbidas do
+cumprimento desta legislagao e da operacionalizagao da JUL, a consequéncia natural
+dessa funcdo seria justamente a atribuigao da condicao de responsaveis pelo
+tratamento, até porque, para la da gestao funcional da plataforma, a efetivagao dos
+direitos dos titulares dos dados nao pode deixar de fazer corresponder a esse estatuto
+quem materialmente esteja capacitado para determinar e gerir o ciclo de vida das
+operacgdes que ocorram sobre tais dados.
+Apesar do acerto da opgao pela designagao daquelas entidades como responsaveis
+pelo tratamento, nado pode esquecer-se que 0 alargamento muito sensivel de entidades
+com acesso ao sistema, que ocorrera sob a égide deste diploma, obrigara a
+preocupacdes reforgadas com a segurang¢a da informagao. A estratificagao dos acessos
+
+e a garantia de integridade dos dados devem constituir objetivos prioritarios dos
+
+* Conceito previsto no artigo 4.°, n.° 7, do RGPD.
+
+2vV. fr
+Processo PAR/2019/39
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+responsaveis, os quais nao podem deixar de se ligar a estrutural fiabilidade da rede que
+permitira esses novos acessos. E bem-vinda, por isso, a previsdo do n.° 2 do artigo
+11.°5, onde se afirma que “O acesso 2 informacGo e aos servicos disponibilizados na
+Plataforma tecnologica sao objeto de autenticacao individual do utilizador, sendo
+estabelecidas protecdes baseadas em ficheiros de controlo de acessos e de auditoria
+dos utilizadores, nos termos do sistema comum de gestao de utilizadores 6 de aC@Ssos
+estabelecido pela ACN e pelas ACL”. Espera-se, todavia, que haja particular atencao,
+na regulamentagao futura da JUL, aos requisitos essenciais que permitam concretizar
+de forma coerente as preocupacgdes com a gestao de acessos e credenciacdo de
+utilizadores.
+e Dados pessoais tratados
+
+On.° 3 do artigo 15.° lista os dados pessoais tratados® para os efeitos do n.° 2 do artigo
+7.°, sendo que este Ultimo se reporta ao modelo de referéncia nacional utilizado para
+garantir a interoperabilidade do sistema por parte de todos os utilizadores da JUL. Jao
+n.° 4 acrescenta a lista de dados citada “as seguintes caltegorias especiais de dados,
+recolhidas para efeitos de apresentacao das formalidades as autoridades e controlo de
+acessos: a) Dados relativos a4 salide de tripulantes e passageiros; b) Dados
+biométricos’. Estas listas de dados, se bem que Uteis e promotoras da transparéncia na
+utilizagao da informacgao pessoal dos titulares dos dados, nao permitem perceber, com
+clareza, a quem se referem (quais as categorias de titulares dos dados afetados). E
+imperscrutavel o sentido da recolha de videos se nao for especificado o universo de
+pessoas a quem tal recolha respeite, como é igualmente insondavel a razao para a
+recolha de dados biométricos da generalidade dos titulares dos dados sujeitos a
+figurarem na JUL. Se no n.° 4 se denota um esforco para restringir esse universo, nao
+se pode deixar de assinalar que a redacao apresentada nao logra limitar ao essencial
+
+as Categorias de titulares de dados afetados. Desde logo, a mistura da recolha de dados
+
+3
+
+rf
+
+> Como util é também a redagéio do n.° 1 do artigo 14.° quanto a obrigatoriedade de “A ACN eas ACL deve[rJem
+garantir a autenticidade da origem, a integridade do conteudo e a legibilidade das formalidades e demais
+informagées trocadas eletronicamente, desde 0 momento da sua emissdo até ao final do periodo de arquivo,
+
+implementando controlos suscetiveis de auditoria ao fluxo de informagao”.
+
+° So eles: Nome; Data de nascimento; Naturalidade; Nacionalidade; Género; Tipo e numero de identificacdo
+civil e respetiva data de validade; Numero de identificacgao fiscal; Funcdo ou categoria profissional; Morada;
+Correio eletrénico; Contacto de telefone mdével; Fotografia e video; Assinatura autografa e assinatura digital
+
+qualificada.
+
+AV. D. CARLOS I, 134 - 1° [| 1200-651 LISBOA | WWW.CNPD.PT {| TEL: +351 213 928 400 | FAX: +351 213 976 832
+Processo PAR/2019/39
+
+biométricos para “apresentacao de formalidades as autoridades e controlo de acessos’”
+funde num mesmo grupo, categorias de titulares seguramente distintas.
+e Direitos dos titulares dos dados
+Por seu turno, 0 n.° 5 deste mesmo artigo 15.°, determina quem tem acesso aos dados
+pessoais constantes da JUL: “a) Qua/quer utilizador da JUL, quanto aos seus dados
+pessoais,; b) O utilizador indicado por cada entidade publica ou privada, para efeitos de
+manutencao das contas de acesso da sua entidade, limitado aos dados identificados no
+n.° 3; c) Os organismos e servicos do Estado e demais pessoas coletivas de direito
+publico, utilizadores da JUL, para prossecucao das respetivas competéncias,; qd)
+Quaisguer outras entidades cujo interesse seja fundamentado, mediante consentimento
+escrito dos titulares dos dados’. De novo se assiste a uma confusao de universos, desta
+feita entre o que 6 um direito de acesso, na acegao do artigo 15.° do RGPD, e o que €
+ter acesso a informacao de cariz pessoal por forga de um privilégio ou credencial
+especificos. Com efeito, melhor se perceberia se o legislador optasse por consagrar um
+artigo ou uma seccao do diploma a matéria dos tratamentos de dados pessoais,
+definindo ai os dados a tratar, as prerrogativas de atuagao e confidencialidade, bem
+como os mecanismos de seguranca, colocando num outro artigo ou secgao a questao
+da definic€o dos acessos, aqui numa ldgica mais operacional. Ao misturarem-se os
+conceitos num mesmo artigo, prejudica-se a coeréncia da disciplina legal que se
+pretende consagrar e diminui-se a certeza quanto aos regimes subsidiariamente
+aplicaveis.
+e Confidencialidade e prazos de conservacao
+
+Finalmente, e quanto ao mesmo desencontro de conceitos e regimes, duas notas
+sintéticas. A primeira quanto ao artigo 16.°, que parece reservar as garantias de
+confidencialidade e integridade da informacao aquelas que se classifiquem de
+comerciais ou sensiveis (cfr. artigo 16.°, n.° 1 do projeto). Ora, esta compartimentagao
+das categorias de informacao beneficiarias ou elegiveis para essas garantias, coloca
+este regime em clara colisao com o RGPD. Lembre-se que os dados pessoais,
+independentemente da sua especial sensibilidade (tal como vem prevista no artigo 9.°,
+n.° 1 do RGPD), merecem idénticas preocupagées quanto a sua seguranga, integridade
+e confidencialidade, como resulta de uma leitura rapida do artigo 32.°, n.° 1, corpo, do
+RGPD. E, como bem 0 insinua 0 n.° 2 do artigo a que acaba de se aludir, muitas sao as
+
+vezes em que os riscos decorrem diretamente dos processos e operacoes de tratamento
+
+3V.
+
+f~
+
+/
+Processo PAR/2019/39 | 4
+
+ 
+
+fi
+
+    
+
+ 
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+e nao meramente, como no projeto de decreto-lei se aparenta indicar, da natureza ou
+categoria dos dados tratados.
+
+A segunda nota respeita ao artigo 19.°, que rege a matéria do arquivo e retencdo de
+dados. A confusao de regimes em matéria de protecao de dados encontraria, logo na
+epigrafe, suficientes razdes para sublinhados criticos, ja que o conceito de retencao de
+dados nos remete para a disciplina da conservacaéo de dados gerados ou tratados no
+contexto da oferta de servicos de comunicacées eletrénicas’, mas o ponto principal é
+outro.
+
+Tal como se encontra, 0 n.° 1 do artigo 19.° do projeto obriga a conservacdo dos dados
+tratados na JUL “durante um periodo minimo de 10 anos subsequentes a data em que
+foram recolhidos ou em que terminar a execucao de sancdes aplicadas em processos
+contraordenacionals ou judiciais e desde que a sua eliminacao nao ponha em risco a
+consisténcia de outros dados’. Por sua vez, 0 n.° 2 do mesmo artigo exceciona desta
+obrigagao “os dados pessoals os quails sao conservados durante cinco anos aps a data
+do cancelamento da inscricao da JUL e em ficheiro historico durante 10 anos contados
+da data da respetiva eliminacao na base de dados.”.
+
+Para a CNPD torna-se extremamente dificil compatibilizar estes dois incisos.
+Aparentemente, a excecao do n.° 2 s6 opera quanto a dados recolhidos para efeitos de
+inscricao na JUL, o que limita fortemente o Ambito de protecdo especifico dos dados
+pessoais. Em boa verdade, sé se podera interpretar este artigo como autorizando a
+conservacao de dados pessoais relativos a “execucao de sancdes aplicadas em
+processos contraordenacionals ou judicia/s’ durante o tal periodo minimo de 10 anos, o
+qual podera ser ultrapassado (sem qualquer limite previsto) quando a sua eliminacao
+“ponha em risco a consisténcia de outros dados’. Ora, o principio da limitacao da
+conserva¢ao constante do artigo 5.°, n.° 1, al. f) do RGPD, 6, por principio, contrario a
+existéncia de periodos instaveis ou nao fechados de conservacdo da informacao, pelo
+que, apontar um periodo minimo de 10 anos, sobretudo quando estaéo em causa
+categorias de dados relacionados com condenacdes penais e contraordenacionais,
+indicia, desde logo, excessividade®, e projeta uma indeterminabilidade incoerente com
+
+o regime de protegao de dados vigente. E mais incoerente se torna quando faz depender
+
+” Lei n.° 32/2008, de 17 de julho
+® Com o risco de se tornar uma san¢do acessoria, podendo, até, ultrapassar quaisquer prazos legais eventualmente
+invocaveis quanto a reincidéncia ou prescricdo de processos.
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT [| TEL: +351 213928 400 | FAX: +351 213 976 832
+Processo PAR/2019/39 | 4v.
+
+a eliminacao desses dados da inexisténcia de um risco para a consisténcia de outros
+dados.
+Em suma, sera aconselhavel repensar todo este artigo e adequar a sua futura redagao
+
+a legislagao de protecao de dados.
+
+C. Necessidade de Avaliacao de Impacto sobre a Protegao de Dados
+Como é evidente do objeto do presente projeto de decreto-lei, no futuro teremos uma
+reforcada centralizacgao de informagao proveniente de varios e distintos atores no setor
+do transporte de pessoas e mercadorias. Esta concentragao de informacao, tambem de
+ordem pessoal, gera maiores riscos quando se ponderam os potenciais perigos que
+enfrentam as bases de dados pessoais no tempo presente.
+Atentas as distintas finalidades permitidas pela plataforma tecnologica que concretiza a
+JUL, onde se incluem controlos fronteiricos referentes a circulagao de pessoas (artigo
+9.° n.° 2, al. c)), informacgdes sobre pessoas transportadas (artigo 9.°, n.° 2, al. k)) e
+Controlos fronteiricos e de acesso de pessoas a instalacdes (artigo 9.°, n.° 2, al. |)),
+facilmente se percebe a amplitude dos tratamentos que aqui estao em causa.
+Adicionalmente, sendo certa a inscric€o de uma quantidade superlativa de dados
+pessoais respeitantes a um numero incomensuravel de pessoas, a que se liga um
+conjunto elevado de potenciais pessoas singulares e coletivas com acesso a JUL, com
+o risco adicional de se proceder a tratamentos de categorias especiais de dados (dados
+biométricos e de sade), a CNPD considera ser seriamente de ponderar a realizagao de
+uma Avaliacao de Impacto sobre a Protecao de Dados, tal como ela vem configurada
+no artigo 35.° do RGPD, em momento prévio a operacionalizagao da JUL.
+A este respeito, o n.° 3 do artigo do RGPD citado menciona a obrigatoriedade da
+realizacao de avaliacdes de impacto sempre que exista: “a/Avalacao sistematica e
+completa dos aspetos pessoals relacionados com pessoas singulares, baseada no
+tratamento automatizado, incluindo a definicao de pertis, sendo com base nela adotadas
+decis6es gue produzem efeitos juridicos relativamente a pessoa singular ou que a
+afetem signiticativamente de forma similar; b) Operacoes de tratamento em grande
+escala de categorias especiais de dados a que se refere o artigo 9.6 n.° 7, ou de dados
+pessoals relacionados com condenacées penals e infragdes a que se refere o artigo
+70.°...".
+
+iY
+Processo PAR/2019/39 | 5
+
+ 
+
+  
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+Perante a quantidade e qualidade de dados, a profusao de intervenientes na plataforma
+e a legitima interpretacdo que liga a Janela Unica Logistica a um sistema com as
+caracteristicas técnicas ideais para se enquadrar em ambas as alineas do artigo 35.°,
+n.° 3 do RGPDS, resulta seriamente aconselhavel a realizacao de uma tal avaliagao
+
+prévia.
+
+Ill. Conclusdées
+
+O presente projeto de decreto-lei representa um passo ambicioso em matéria de
+
+convergéncia de bases de dados, mormente na dimensao da _ interoperabilidade,
+
+notando-se alguns apontamentos de preocupacdao atenta e consistente com as matérias
+de protecao de dados pessoais. Ainda assim, a CNPD alerta para a necessidade de:
+
+a. Clarificar a existéncia de interconexodes da JUL com outras bases de dados,
+positivando-as no texto do diploma e determinando a sua regulamentacao
+convenientemente, devendo a CNPD ser chamada a pronunciar-se sobre essa
+regulamentacao;
+
+b. Destacar as quest6es de protecao de dados pessoais daquelas relativas a gestao
+da informagao que esteja expurgada dos referidos dados, potenciando a clareza
+das regras concretamente aplicaveis aos diferentes Ambitos que estejam em foco,
+sobretudo quanto a efetivacao dos direitos dos titulares dos dados e ao respeito
+pelos principios estruturantes da protecao de dados;
+
+c. Ponderar a realizagcao de uma avaliacao de impacto sobre a protecao de dados
+prévia a operacionalizacao da Janela Unica Logistica, por forma a antever, gerir e,
+se possivel, eliminar os riscos potenciais para os direitos e liberdades das pessoas
+singulares ligados a concentragao de informacao de natureza pessoal, bem como
+aos multiplos e distintos acessos que passam a ser possibilitados por esta
+
+plataforma.
+Lisboa, 16 de julho de 2019
+
+bo
+
+Filipa Calvao (Presidente)
+
+” E sem prejuizo de poder incluir-se os tratamentos previstos numa das situacdes em que € obrigatéria a avaliacdo
+de impacto sobre a protecao de dados, elencados na lista aprovada pela CNPD e publicada no Regulamento n.°
+
+1/2018, disponivel em https://www.cnpd.pt/bin/decisoes/regulamentos/regulamento_1 2018.pdf.
+
+ 
+
+AV. D. CARLOS I, 134-19 | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 [| FAX: +351 213 976 832

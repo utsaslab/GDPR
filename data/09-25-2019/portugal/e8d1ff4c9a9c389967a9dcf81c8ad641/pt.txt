@@ -1,0 +1,255 @@
+“
+LR SBE EES 0s
+PESOS Ss
+Bis
+ky
+
+Processo n.° PAR/2019/31 | 14
+
+ 
+
+ 
+   
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+PARECER/2019/29
+
+|. Pedido
+
+O Secretario de Estado da Agricultura e Alimentacdo determinou a submissdo a
+Comissao Nacional de Proteg&o de Dados (CNPD), para apreciagao, do Projeto de
+Decreto-Lei que estabelece as regras de identificacdo dos animais de companhia das
+especies referidas no anexo | do Regulamento (UE) 576/2013, do Parlamento Europeu
+e do Conselho, de 12 de junho de 2013, e no anexo | do Regulamento (UE) 2016/429,
+
+do Parlamento Europeu e do Conselho, de 9 de marco de 2016.
+
+O pedido formulado e o parecer ora emitido decorrem das atribuigdes e competéncias
+da CNPD, enquanto entidade administrativa independente com poderes de autoridade
+para o controlo dos tratamentos de dados pessoais, conferidos pela alfnea c) do n.° 1
+do artigo 57.° e pelo n.° 4 do artigo 36.° do Regulamento (UE) 2016/679 do Parlamento
+Europeu e do Conselho, de 27 de abril de 2016 (Regulamento Geral sobre a Protecao
+de Dados —- RGPD), em conjugac&o com o disposto no n.° 1 do artigo 21.°enon.° 1 do
+artigo 22.°, ambos da Lei n.° 67/98, de 26 de outubro, alterada pela Lei n.° 103/2015, de
+24 de agosto (Lei de Protecao de Dados Pessoais - LPDP).
+
+A apreciagao da CNPD cinge-se as normas que preveem ou regulam tratamentos de
+
+dados pessoais.
+
+ll. Apreciagao
+1. O tratamento de dados pessoais: as categorias de dados pessoais
+
+O presente projeto de decreto-lei define o regime da identificag¢ao de animais de
+companhia, prevendo a integragdo de um conjunto de informacdo no Sistema de
+Identificagao do Animal de Companhia (SIAC), da qual se destaca a relativa a dois tipos
+
+de pessoas singulares: o proprietario ou detentor do animal e 0 médico veterinario. Na
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213.928 400 | FAX: +351 213 976 832
+Processo n.° PAR/2019/31 | 1v.
+
+medida em que os mesmos sao identificados no registo associado ao dispositivo
+identificador do animal (0 transponden, estao em causa tratamentos de dados pessoais,
+
+de acordo com as alineas 1) e 2) do artigo 4.° do RGPD.
+
+Na verdade, na alinea b) do artigo 3.° do projeto define-se o registo como «o conjunto
+de informagao coligida no SIAC com os elementos relativos ao numero do transponder,
+elementos de resenha do animal, identificacao do titular do animal, do médico veterinario
+
+que procede a marcagao do animal (...)».
+
+A este proposito interessa desde ja notar que a alinea b) do artigo 3.° nado explicita que
+dados pessoais do titular do animal e do médico veterinario sao registados, limitando-
+se a referir a sua /dentificag¢ao. Sendo certo que este projeto de diploma pretende servir
+de fundamento de licitude do tratamento de dados pessoais, nos termos da alinea c) do
+n.° 1 do artigo 6.° do RGPD, a CNPD recorda a importancia de nele se especificarem as
+categorias de dados pessoais, pelo que recomenda que, para além da identificacdo, se
+acrescente a categoria relativa a dados de contacto (onde se inserira o domicilio ou
+residéncia do titular - em coeréncia com a referéncia contida na alinea a) do n.° 2 do
+
+artigo 13.° do projeto).
+
+Chama-se ainda a atencao para o facto de tais dados, quando relativos ao médico
+veterinario, se deverem resumir ao nome profissional, numero da cédula profissional,
+domicilio profissional e demais dados de contacto profissionais. Este 6 um aspeto que
+se deve ter presente quando forem aprovadas as normas relativas ao SIAC pelo Diretor
+Geral da Alimentagao e Veterinaria, nos termos do n.° 4 do artigo 8.° do projeto. A
+recolha e a conservacao dos dados pessoais obedecem aos principios da finalidade e
+da minimizagao dos dados pessoais, pelo que nao deve ser recolhido outro tipo de
+elementos de identificagao do médico veterinario, para além daqueles que, nos termos
+da lei que define o estatuto destes profissionais, serve para os identificar enquanto tais
+
+~— cf. alineas b) ec) do n.° 1 do artigo 5.° do RGPD.
+
+f°
+Processo n.° PAR/2019/31
+
+  
+
+" COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+2. Aregulagao do tratamento de dados pessoais
+
+Centrando-nos agora no artigo que regula o SIAC —o artigo 8.° do projeto — comeca-se
+por assinalar que no ultimo numero do artigo 8.° se determina a aplicacdo, ao tratamento
+de dados pessoais constantes do SIAC, do RGPD e da legislagao nacional relativa a
+
+protecao de dados pessoais.
+
+Nao obstante, algumas das disposicées do artigo 8.° merecem, na perspetiva da CNPD,
+
+especifica referéncia a algumas normas do RGPD, como em seguida melhor se explica.
+
+Desde logo, no n.° 3 do artigo 8.°, a «atribuicao da gestao do SIAC a outras entidades»,
+na medida em que implica encarregar outra entidade do processamento de dados
+pessoais por conta do responsavel pelo tratamento, corresponde a uma subcontratagao
+(cf. alinea 8) do artigo 4.° do RGPD). Nessa medida, 0 protocolo a que se refere o n.° 3
+do artigo 8.° do projeto tem de prever os diferentes elementos previstos no artigo 28.°
+do RGPD. Recomenda-se, por isso, que essa obrigacdo seja explicitada no n.° 3 do
+
+artigo 8.° do projeto, nem que seja por simples remissdo para aquele preceito.
+
+No que diz respeito ao n.° 4 do artigo 8.°, onde se atribui competéncia ao Diretor Geral
+da Alimentacao e Veterinaria para aprovar as normas e os procedimentos relativos ao
+funcionamento do SIAC e a gestao das entidades com acesso e respetivos perfis de
+acesso, importa ai especificar que tais normas e procedimentos, em especial os
+relativos ao acesso e aos perfis de acesso, tam de obedecer aos principios da finalidade
+e da proporcionalidade, maxime na vertente da necessidade, por que se pauta qualquer
+
+tratamento de dados pessoais (alineas b) ec) do n.° 1 do artigo 5.° do RGPD).
+
+Com efeito, é fundamental que apenas se atribuam permissoes de acesso ao SIAC as
+entidades que carecem de o fazer para o cumprimento da finalidade do SIAC. Tendo
+em conta o objeto desta base de dados, os acessos apenas se podem ter por justificados
+se relacionados com a identificacao do animal de companhia (portanto, para contactar
+
+ou identificar o seu titular ou o médico veterinario, ou ainda para atualizar a informacao),
+
+AV. D. CARLOS I, 134 - 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928400 | FAX: +351 213 976 832
+
+2
+
+fe
+Processo n.° PAR/2019/31
+
+pelo que é fundamental que cada acesso seja contextualizado, com identificacao do
+motivo do acesso, e ainda que a informacao de quem acedeu e quando acedeu fique
+
+registada no sistema (/og do acesso).
+
+Sublinha-se que estes sao elementos essenciais a verificagao da correta utilizacdo do
+sistema de informacgao, em especial quanto ao respeito pelos principios da finalidade e
+da necessidade dos acessos, sendo imprescindivel o seu registo para os procedimentos
+
+de inspe¢ao ou de auditoria.
+
+Assim, a CNPD recomenda que seja explicitado no n.° 4 do artigo 8.° que tais normas e
+procedimentos, em especial os relativos ao acesso e aos perfis de acesso, tam de
+obedecer aos principios da finalidade e da proporcionalidade dos tratamentos de dados
+
+pessoais.
+
+Ainda no ambito do artigo 8.°, prevé-se, no seu n.° 6, um dever de se promover a
+transmissao de dados entre sistemas de informacao através da Plataforma de
+
+Interoperabilidade da Administracao Publica.
+
+Todavia, o dever de transmissao de dados pessoais entre sistemas de informacao por
+via da referida plataforma abrange também dados pessoais; e, quanto a estes, a licitude
+da imposi¢ao de um dever desta natureza depende da especificacao das finalidades da
+transmissao, para que se possa avaliar da necessidade da mesma, de acordo com os
+
+principios ja aqui citados, consagrados no n.° 1 do artigo 5.° do RGPD.
+
+Ora, a norma limita-se a prever, como pressuposto de tal dever, que «se mostre
+necessario a operacionalizagao do SIAC ou ao cumprimento das suas finalidades», o
+que € objetivamente insuficiente para se ter por fundamentada a transmissao de dados
+pessoais. Na verdade, em nenhum ponto do articulado do projeto de diploma se definem
+as finalidades do SIAC (apenas o seu objeto ou ambito), e a simples referéncia a
+necessidade da sua operacionalizacao nao permite adivinhar as situacdes em que se
+
+pode ter como legitima a referida transmissao de dados pessoais entre sistemas de
+
+2V.
+
+r
+Processo n.? PAR/2019/31 | 3
+
+  
+  
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+informagao através da Plataforma de Interoperabilidade da Administragao Publica, nem
+
+que sistemas de informacao estarao aqui em causa.
+
+Assim, a imposicao de transmissdo de dados e a obrigatoriedade de recurso a esta
+ferramenta de simplificagao administrativa s6 podem ter-se por conformes ao regime
+juridico de protegao de dados pessoais se nele forem circunstanciadas tipicamente as
+situagdes em que pode justificar-se a transmissdo de dados pessoais e as bases de
+dados entre as quais pode ocorrer tal transmissao. De outro modo, a norma nao serve
+como base legitimadora de tratamento de dados pessoais, para o efeito da alinea c) do
+
+n.° 1 do artigo 6.° do RGPD.
+
+Finalmente, 0 n.° 7 do artigo 8.° impde que a reguiamentagao dos procedimentos de
+seguran¢a, acesso e tratamento de informacao no SIAC preveja a utilizacdo obrigatoria
+de mecanismos de autenticacdo eletronica através do Cartao de Cidaddo e da Chave
+
+Movel Digital.
+
+A CNPD louva a previsdo da obrigatoriedade de autenticacdo eletrénica no acesso e
+em outro tipo de interagdes no SIAC, mas sublinha gue os cidaddos nao podem ser
+obrigados a utilizar o Cartao de Cidad&o para autenticacdo eletrénica quando estejam
+a aceder ao SIAC no exercicio da atividade profissional, maxime se, para o efeito,
+
+dispuserem de cartdes de identificacao profissional.
+
+Ill. Conclusé6ées
+
+Com os fundamentos acima expostos, a CNPD recomenda que, no presente projeto de
+decreto-lei, para que o mesmo possa servir de fundamento de licitude dos tratamentos
+de dados pessoais contidos no Sistema de Identificagao do Animal de Companhia, se
+
+especifiquem os seguintes aspetos dos tratamentos:
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928 400 | FAX: +351 213 976 832
+Processo n.° PAR/2019/31 | 3v.
+
+Na alinea b) do artigo 3.°, para além da identificacdo do titular do animal e
+do meédico veterinario, se acrescente a categoria relativa a dados de
+contacto, recordando que, em sede de regulamentacao, os dados relativos
+ao médico veterinario se devem resumir ao nome profissional, numero da
+cedula profissional, domicilio profissional e demais dados de contacto
+profissionais;
+
+il. No n.° 3 do artigo 8.°, se faga expressa referéncia a obrigatoriedade de
+observar o regime da subcontratacao de tratamento de dados pessoais;
+
+lik. No n.° 4 do artigo 8.°, seja expressamente referido que as normas e os
+procedimentos, em especial os relativos ao acesso e aos perfis de acesso,
+tém de obedecer aos principios da finalidade e da proporcionalidade dos
+tratamentos de dados pessoais, de modo a garantir que a regulamentacao
+dos acessos acautele os principios e regras de protecdo de dados;
+
+iV. No n.° 6 do artigo 8.°, a imposicao de transmissdo de dados entre sistemas
+de informacao com recurso a Plataforma de Interoperabilidade da
+Administragao Publica, enquanto base legitimadora desse tratamento de
+dados pessoais, so pode ter-se por conforme ao RGPD se forem
+circunstanciadas tipicamente as situacdes em que pode justificar-se a
+transmissao de dados pessoais, bem como as bases de dados entre as quais
+
+pode ocorrer tal transmissao.
+
+Lisboa, 3 de junho de 2019
+
+ 
+
+Filipa Calvao (Presidente, que relatou)

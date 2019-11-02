@@ -1,0 +1,261 @@
+Processo PAR/2019/45 | 1.
+
+ 
+  
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+PARECER/2019/48
+
+I. Pedido
+
+O Gabinete da Secretaria de Estado da Justica solicitou A Comissao Nacional de Protecao de
+Dados (CNPD) a emiss&o de parecer sobre 0 projeto de diploma que visa alterar o Decreto
+Regulamentar n.° 9-A/2017, de 3 de novembro, que definiu e regulamentou alguns aspetos e
+materias constantes da Lei n.° 78/2017, de 17 de agosto, que cria um sistema de informagao
+
+cadastral simplificada e o Balcao Unico do Prédio (BUPi).
+
+O pedido formulado e o parecer ora emitido decorrem das atribuigoes e competéncias da
+CNPD, enquanto autoridade nacional de controlo dos tratamentos de dados pessoais,
+conferidos pela alinea c) do n.° 1 do artigo 57.° e pelo n.° 4 do artigo 36.° do Regulamento
+(UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016 (Regulamento
+Geral sobre a Protegao de Dados — RGPD), em conjugagao com o disposto no artigo 3.° da
+Lei n.° 58/2019, de 8 de agosto).
+
+A apreciagao da CNPD cinge-se as normas que preveem ou regulam tratamentos de dados
+pessoais.
+
+H. Apreciacao
+
+1. A primeira observagao sobre o projeto de decreto regulamentar agora em apreciacao
+(doravante, Projeto) prende-se com o novo diploma legal que aquele vem desenvolver, 0 qual
+mantém em vigor e generaliza a aplicac&o do sistema de informagao cadastral simplificada,
+instituido pela Lei n.° 78/2017, de 17 de agosto — Lei n.° 65/2019, de 23 de agosto.
+
+A CNPD nao pode deixar de assinalar a circunstancia de este diploma legal, que prevé e
+regula tratamentos de dados pessoais, nao ter sido sujeito a Sua apreciacao em nenhuma das
+fases do procedimento legislativo (portanto, nem enquanto proposta de lei do Governo, nem
+
+no ambito do procedimento parlamentar), como impde o n.° 4 do artigo 36.° do RGPD.
+
+De todo o modo, porque o ai estatuido tem relevancia direta para a apreciagao do presente
+Projeto regulamentar, destaca-se que no citado diploma legal se determina a comunicacao de
+um conjunto de dados pessoais (relativos a identificacdo e domicilio dos titulares dos predios
+
+inscritos nas matrizes prediais rustica e urbana) por parte da Autoridade Tributaria e
+
+ 
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928 400 | FAX: +351 213 976 832
+Processo PAR/2019/45 | 1v.
+
+Aduaneira (AT) na plataforma denominada Balc&o Unico do Prédio (BUPi), com base em
+protocolo a celebrar entre a AT eo Instituto dos Registos e Notariado, |.P. (IRN) - cf. n.° 7 do
+artigo 1.° da Lei n.° 65/2019.
+
+E nele se reafirma o dever da entidade responsavel pelo sistema de informacdo cadastral
+simplificada e pelo BUPi — o IRN — de garantir a interoperabilidade dos dados detidos pelas
+entidades referidas no artigo 27.° da Lei n.° 78/2017, de 17 de agosto.
+
+Mais se destaca que o mesmo diploma ressalva o regime legal de protecao de dados
+pessoais, quando prevé a publicitacao dos procedimentos e das informacdes cadastrais e o
+acesso a informagao cadastral por parte de particulares e entidades e servicos do Estado e
+demais entidades publicas — cf. alinea e) do n.° 1 en.° 3 do artigo 4.°. E no artigo 6.° regula-se
+o Numero de identificagao do Prédio, que permite o acesso a informacao cadastral com
+
+minimizagao do impacto do tratamento de dados pessoais no contexto de tal acesso.
+
+Finalmente, sublinha-se a previsao da criagao a nivel da administracdo publica central de um
+Centro de Coordenagao Técnica, integrado no Ministério da Justig¢a, com competéncias de
+coordenagao, decisao e apoio, ainda que a determinacao da natureza juridica de tal
+organismo, bem como as suas especificas competéncias, seja remetida para portaria
+
+governamental — cf. n.° 1 en.° 3 do artigo 5.° do Lei n.° 65/2019.
+
+2. Passando agora a analise do Projeto, comeca-se por assinalar que a CNPD nao consegue
+determinar a adequacgao da imputagao ao Centro de Coordenacao Técnica de competéncias,
+Cujo exercicio envolve tratamento de dados pessoais, que até ao momento cabem a AT ou ao
+IRN —cf.n.° 2 do artigo 9.° en.° 1 do artigo 17.° do Projeto. Na verdade, os termos insuficientes
+em que vem prevista a criagao daquele organismo, no artigo 5.° da Lei n.° 65/2019, tornam
+impossivel a pronuncia da CNPD quanto a tais tratamentos de dados, em especial, quanto a
+
+legitimagao desses tratamentos.
+
+No mais, reforgam-se algumas das recomendagdes que a CNPD formulou sobre a primeira
+versao do projeto de decreto regulamentar que regula a Lei n.° 78/2017, de 17 de agosto,
+
+vertidas no Parecer n.° 52/2017', e que, porventura pela urgéncia na regulamentacdo do
+
+1 Acessivel em https://www.cnpd.pt/bin/decisoes/Par/40_52_2017.pdf
+Processo PAR/2019/45 | 2.
+
+ 
+
+    
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+regime, a época nao foram seguidas, as quais mantém toda a pertinéncia em face do novo
+
+regime juridico de protecao de dados pessoais.
+Por isso, insiste-se que:
+
+a. As categorias de dados pessoais objeto de tratamento no contexto do sistema de
+informagao cadastral simplificada e do BUPi tam de estar especificadas, quando se
+pretende que este diploma regulamentar sirva de suporte regulatdrio, em
+desenvolvimento da lei, os tratamentos de dados pessoais legalmente previstos;
+considerando que o n.° 1 do artigo 27.° da Lei n.° 78/2017, de 17 de agosto, nao
+especifica as categorias de dados pessoais que compdem a “‘informacao relevante”
+para efeito de execucao do sistema de informacao cadastral simplificada e do BUPi e
+que 0 artigo 6.°, n.° 1, do Decreto Regulamentar n.° 9-A/2017, de 3 de novembro.
+apresenta o elenco da informagao necessaria para a estrutura dos atributos da
+representa¢gao grafica georreferenciada (RGG) de forma meramente exemplificativa,
+reitera a imprescindibilidade de eliminagdo do advérbio designadamente inscrito no n.°
+
+1 do artigo 6.° do Decreto-Regulamentar.
+
+Na verdade, a utilizagao do advérbio “designadamente” nado é admissivel, quando se
+pretende definir a base normativa que legitima o tratamento de dados pessoais, por
+deixar espaco para a extensdo do seu objeto, por via da extensdo das categorias de
+dados pessoais. Ora, nos termos em que vem redigido o proémio do n.° 1 do artigo 6.°
+do Decreto-Regulamentar, sera em abstrato possivel o alargamento do objeto da
+interconexao de dados pessoais que aqui se pretende regular por parte das entidades
+administrativas responsaveis pelos tratamentos, quando em rigor o que tem de se
+exigir a lei e, por via desta remissAo para regulamento administrativo, ao decreto
+regulamentar é que defina com precisdo os termos em que tal tratamento de dados se
+pode realizar. De outro modo, a CNPD nao pode, nestes termos abertos, concluir pela
+proporcionalidade dos dados a tratar, em conformidade com o disposto na alinea c)
+do n.° 1 do artigo 5.° do RGPD.
+
+b. Ainda no que diz respeito ao n.° 1 do artigo 6.°, sublinha-se que a referéncia contida
+na alinea b) ao «artigo matricial rustico e/ou urbano» nao respeita o ambito de
+
+aplicagao da Lei n.° 78/2017, de 17 de agosto, nem da Lei n.° 65/2019 que agora se
+
+ 
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213.928 400 | FAX: +351 213 976 832
+Processo PAR/2019/45 | 2v.
+
+vem desenvolver. Com efeito, o artigo 2.° daquela lei determina que o sistema de
+informagao cadastral simplificada e as medidas necessarias para a sua criagao apenas
+se aplicam aos prédios rusticos e mistos. Estando excluidos os prédios urbanos, nao
+se alcanga a referéncia a matriz de prédios urbanos para efeito da sua referenciacgao
+grafica georreferenciada, que apenas releva para efeito do sistema de informacdo
+cadastral simplificada, como também decorre do disposto no n.° 2 do artigo 1.° do
+
+mesmo diploma legal. E a Lei n.° 65/2019 nado estende o regime aos prédios urbanos.
+
+Nestes termos, a CNPD entende que deve ser alterada a redacdo da alinea b) do n°
+
+1 do artigo 6.° do Projeto, pela eliminagao a referéncia ao artigo matricial urbano.
+
+Em relagao ao BUPi, 0 artigo 20.° prevé, no n.° 3, a autenticacdo dos funcionarios das
+
+entidades publicas identificadas no artigo 27.° da Lei n.° 78/2017, de 17 de agosto.
+
+A este proposito, a CNPD alerta para a circunstancia dos mecanismos de autenticacao
+dos funcionarios terem de ser disponibilizados pelas entidades publicas, sublinhando
+a importancia de se garantir que tais mecanismos nao contrariem o disposto na lei
+nacional, em especial no que diz respeito a utilizacdo do cartao de cidadao como meio
+
+para tal acesso.
+
+Na verdade, o artigo 18.°-A da Lei n.° 7/2007, de 5 de fevereiro, alterada por ultimo
+pela Lei n.° 32/2017, de 1 de junho, admite que o cartao de cidad4o sirva como forma
+de certificar certo atributo profissional, mas tal sé pode ocorrer, nos termos do mesmo
+preceito legal, por vontade do prdprio cidadao, o que implica condicgoes de
+desenvolvimento da atividade profissional que garantam a liberdade de manifestacao
+de tal vontade. Ora, no contexto de relagdes laborais de dependéncia hierarquica,
+como sao as que caracterizam a Administragao Publica, tal manifestacao de vontade
+dificilmente é livre, sendo certo que a CNPD tem conhecimento de que ha entidades
+administrativas, algumas com especiais responsabilidades nesta matéria, que est4o a
+obrigar os seus trabalhadores a utilizar o cart€o de cidadao como forma de
+
+autenticagao, em clara violagao do disposto no citado artigo 18.°-A da Lei n.° 7/2007.
+Processo PAR/2019/45 | 3. /”
+
+ 
+  
+
+COMISSAO NACIONAL
+. DE PROTECAO DE DADOS
+
+d. A terminar, quanto ao regime da interoperabilidade, consagrado no artigo 23.°,
+assinala-se 0 teor vago do n.° 4, Na verdade, podera questionar-se qual é a relevancia
+e utilidade de um preceito que, em rigor, parece destituido de contetido normativo, ie,
+nao definindo que servico seja o disponibilizado pela Plataforma de Interoperabilidade
+da Administragao Publica, nem as medidas de seguranca adequadas, o gue torna
+
+impossivel a pronuncia da CNPD neste ponto.
+
+Acresce que, determinando a alinea d) do n.° 1 do artigo 25.° da Lei n.° 78/2017, de
+17 de agosto, a definig¢ao por decreto regulamentar das condicdées de funcionamento
+é interoperabilidade do BUPi, estranha-se que este Projeto continue a ser omisso
+quanto aquele aspeto de regime, o qual é obviamente imprescindivel para o
+
+funcionamento do BUPi.
+
+Recomenda-se assim que se aproveite a presente revisdo do Decreto-Regulamentar
+n.° 9-A/2017, de 3 de novembro, para se dar cumprimento ao disposto naquele diploma
+legal.
+
+Hl. Conclusao
+
+1. ACNPD assinala que a Lei n.° 65/2019 que mantém em vigor e generaliza a aplicagao do
+sistema de informagao cadastral simplificada (instituido pela Lei n.° 78/2017, de 17 de agosto),
+nao foi submetido a sua apreciacdao em nenhuma das fases do procedimento legislativo, em
+violagao do n.° 4 do artigo 36.° do RGPD.
+
+2. Em relagao ao Projeto de regulamento aqui em apreciacao, que altera o Decreto
+Regulamentar n.° 9-A/2017, de 3 de novembro, a CNPD:
+
+i. Constata, pelas razédes acima expostas, ndo poder pronunciar-se sobre a
+adequacao da imputacao ao Centro de Coordena¢gao Técnica das competéncias
+previstas no n.° 2 do artigo 9.° e n.° 1 do artigo 17.° do Projeto, cujo exercicio
+envolve tratamento de dados pessoais, que até ao momento cabem a AT ou ao
+
+IRN;
+
+li. Lamenta o facto de o presente projeto continuar a ser omisso quanto a definicao
+
+das condigdes de funcionamento e interoperabilidade do BUPi, em violacao da
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928 400 | FAX: +351 213 976 832
+Processo PAR/2019/45
+
+alinea d) do n.° 1 do artigo 25.° da Lei n.° 78/2017, de 17 de agosto, recomendando
+que se aproveite a presente revisao do Decreto-Regulamentar n.° 9-A/2017, de 3
+
+de novembro, para se dar cumprimento ao disposto naquele diploma legal.
+
+3. A CNPD reforga ainda parte das observacgées feitas a propdsito do projeto do Decreto-
+
+Regulamentar n.° 9-A/2017, de 3 de novembro, que mantém toda a pertinéncia a luz do novo
+
+regime juridico de protecao de dados pessoais, pelo que, com os fundamentos acima
+expostos:
+
+I. Recomenda a eliminagao do advérbio designadamente inscrito no n.° 1 do artigo
+
+6.° do Decreto-Regulamentar, bem como da referéncia na mesma disposicao ao
+
+artigo matricial urbano.
+
+li. Alerta para a circunstancia dos mecanismos de autenticacao dos funcionarios
+terem de ser disponibilizados pelas entidades publicas, sublinhando a importancia
+de se garantir que tais mecanismos n&o contrariem o disposto na lei nacional, em
+especial no que diz respeito a utilizagao do cartao de cidadao como meio para tal
+
+acesso.
+
+Lisboa, 23 de agosto de 2019
+
+“
+
+Filipa Calvao (a Presidente, que relatou)
+
+3V.

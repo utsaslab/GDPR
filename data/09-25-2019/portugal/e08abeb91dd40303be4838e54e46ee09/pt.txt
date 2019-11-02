@@ -1,0 +1,147 @@
+Processo PAR/2019/5 | a
+
+ 
+  
+
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+PARECER/2019/3
+
+l. Pedido
+
+O Gabinete da Secretaria de Estado da Justica remeteu A Comissdo Nacional de Proteccao
+de Dados (CNPD), para parecer, o Projeto de Decreto-Lei que regulamenta o registo de
+fundagoes previsto no artigo 8.° da Lei n.° 24/2012, de 9 de julho, (Lei-Quadro das F undacgdes),
+alterada e republicada pela Lei n.° 150/2015, de 10 de setembro. Tal registo tem caracter
+obrigatorio, contém elementos de identificagao das entidades tendo em vista a publicitacdo da
+sua situagao juridica e é implementado entre servigos publicos a partir da inscrigdo no Ficheiro
+Central de Pessoas Coletivas.
+
+O pedido formulado e o parecer ora emitido decorrem das atribuicdes e compeiéncias da
+CNPD, enquanto entidade administrativa independente com poderes de autoridade para o
+controlo dos tratamentos de dados pessoais, conferidos pela alinea c) do n.° 1 do artigo 57.°
+e pelo n.° 4 do artigo 36.°, do Regulamento (UE) 2016/679, de 27 de abril de 2016
+(Regulamento Geral de Protegao de Dados - RGPD), em conjugacdo com o disposto no n.°
+1 do artigo 21.° e no n.° 1 do artigo 22.°, ambos da Lei n.° 67/98, de 26 de outubro, alterada
+pela Lei n.° 103/2015, de 24 de agosto (Lei de Protegao de Dados Pessoais ~ LPDP).
+
+A aprecia¢ao da CNPD no presente parecer restringe-se aos aspetos de regime relativos aos
+tratamentos de dados pessoais, ou seja, a operagdes que incidem sobre informacdo
+respeitante a pessoas singulares, identificadas ou identificaveis — cf. alineas a) e b) do artigo
+4.°do RGPD.
+
+HW. Apreciagao
+
+A Lei-Quadro das Fundagées consagra que as fundacdes portuguesas e as estrangeiras que
+desenvolvam os seus fins em territério nacional est&o sujeitas a registo. Prevé ainda que esse
+registo conste de uma base de dados Unica, mantida e disponibilizada para consulta publica
+pelo Instituto do Registo e Notariado, |.P. (IRN, I.P.).
+
+ 
+
+Rua de Sdo Bento, 148-3° » 1200-821 LISBOA
+Tel: 213 928 400 Fax: 213 976 832 LINHA PRIVACIDADE
+
+Dias uteis das 10 as 13h
+Beare cnpd.pt duvidas@cnpd.pt
+Processo PAR/2019/5 | Iv.
+
+O presente Projeto de Decreto-Lei visa reguiamentar o registo de fundagdes, prevendo
+igualmente «o registo de prestagao de contas, efetuado atraves da Informagao Empresarial
+Simplificada, bem como a publicitagao da generalidade dos atos de registo na pagina da
+internet das publicacdes, nos termos previstos para as sociedades comerciais». O diploma
+em andalise procede ainda ao aditamento do artigo 27.°-C ao Decreto-Lei n.° 322-A/2001, de
+14 de dezembro, que aprova o Regulamento Emolumentar dos Registos e do Notariado,
+alterado em ultimo pela Lei n.° 110/2017, de 15 de dezembro.
+
+Em matéria de protecao de dados pessoais o Projeto de Decreto-Lei encerra algumas
+disposic6es relevantes relativas aos dados dos membros dos 6rgaos das fundagées, dos seus
+representantes voluntarios, dos representantes de fundagées de direito com representagao
+permanente em territério nacional, bem como dos liquidatarios e do administrador judicial e
+de administrador judicial provisério de insolvéncia e do administrador judicial provisorio em
+Processo Especial de Revitalizacao (cfr. as alineas e), f) ej) do artigo 2.°, alinea b) do artigo
+3.° e alfneas j) e n) do artigo 4.° do Regime do Registo de Fundagoes, publicado em anexo ao
+diploma).
+
+O Projeto de Decreto-Lei determina que estao sujeitos a registo a designagao, recondugao e
+cessacdo de fungdes dos membros do orgao de administragao, do orgao diretivo ou executivo
+e do orgdo de fiscalizagao (sendo este efetuado «com base na ata comprovativa da
+deliberagado de designagao ou de recondugao e em documento que comprove a aceitagao
+daquela pelos membros designados ou reconduzidos» nos termos do artigo 13.°), do
+representante, bem como a alteragao dos respetivos poderes de fundagoes de direito com
+representacdo permanente em territorio nacional, a designagao e cessagcao de fungoes,
+anterior ao encerramento da liquidacao, do administrador judicial e de administrador judicial
+provisorio de insolvéncia bem como do administrador judicial provisorio em Processo Especial
+de Revitalizacdo e ainda o mandato conferido aos representantes voluntarios, a sua
+modificacao, renovacdo e extincao, o subestabelecimento de poderes conferidos e sua
+
+alteragao.
+
+ote cad
+
+Refira-se que, nos termos do artigo 21.°, o servico de registo deve comunicar por via eletronica
+aos servicos competentes da administracdo tributaria e da seguranga social o conteudo dos
+atos de registo respeitantes a designagao e cessacgao de fungdes, por qualquer causa que
+
+nao seja o decurso do tempo, dos membros dos orgaos das fundagGdes e dos representantes
+
+yr
+Processo PAR/2019/5 | 2
+
+ 
+   
+
+a _
+COMISSAO NACIONAL
+DE PROTECCAO DE DADOS
+
+permanentes das fundag6es de direito estrangeiras, bem como os poderes destes ultimos, a
+designa¢gao e cessa¢gao de fungdes dos liquidatarios das fundacées e ainda a nomeacao do
+administrador judicial e do administrador judicial provisério da insolvéncia — cfr. artigo 21 n.° 1
+C) g) h).
+
+Estes preceitos visam o tratamento de dados pessoais nos termos do artigo 4.°, alineas 1)e
+
+2), do RGPD, pelo que importa analisar se respeitam as disposicdes nele constantes.
+
+O Projeto de Decreto-Lei néo consagra nenhuma disposi¢ao que diretamente regule os
+tratamentos de dados pessoais nele previstos, optando por remeter tais tratamentos para o
+regime previsto nos artigos 78.°-B a 78.°-I do Cédigo de Registo Comercial. Nestes termos,
+sera 0 diretor geral dos Registos e Notariado o responsavel pelo tratamento da base de dados
+cabendo-lhe «assegurar o direito de informacao e de acesso aos dados pelos respetivos
+titulares, a corregao de inexatiddes, o completamento de omissGes e a supressao de dados
+indevidamente registados bem como velar pela legalidade da consulta ou comunicacgao da
+informagao». Note-se que o Cédigo de Registo Comercial convoca ainda o regime juridico
+consagrado na LPDP, sendo que o RGPD se aplica desde 25 de maio de 2018, consagrando
+
+um regime mais exigente quanto 4 salvaguarda dos direitos dos titulares dos dados.
+
+Recomenda-se assim que seja feita remissao expressa para o regime juridico de protecdo de
+dados consagrado no RGPD salvaguardando assim os direitos de informacao, de acesso e
+
+retificagao dos titulares dos dados nos termos previstos nos artigos 14.° a 16.° do RGPD.
+
+Como nota final, o artigo 22.° do Projeto de Decreto-Lei prevé que seja facultado o acesso
+aos dados constantes do registo das fundacdes a Secretaria Geral da Presidéncia do
+Conselho de Ministros e a Inspegdo Geral das Financas, devendo ser celebrado um protocolo
+com o IRN, IP, cuja copia sera enviada 4 CNPD.
+
+Assim, esta Comissao reserva eventuais observacées ao protocolo para momento posterior
+nos termos do artigo 58.°, n.° 3, alinea b), do RGPD.
+
+Lisboa, 5 de fevereiro de 2019
+
+p79
+
+Filipa Calvao (Presidente)
+
+ 
+
+ 
+
+Rua de Sao Bento, 148-3° « 1200-821 LISBOA
+Tel: 213 928 400 Fax: 213 976 832 LINHA PRIVACIDADE
+
+Dias uteis das 10 as 13h
+WW w.cnpd.pt duvidas@cnpd.pt

@@ -1,0 +1,131 @@
+Processo PAR/2019/57 | 1 F
+
+ 
+  
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+PARECER/2019/62
+
+|. Pedido
+
+O Gabinete do Secretario de Estado da Justica remeteu 4 Comiss4o Nacional de Protegao de
+Dados (CNPD), para apreciacdo, o Anteprojeto de Decreto-Lei sobre Registos de Navios, o
+qual procede a alteracdes ao Decreto-Lei 96/89, de 28 de marco, que cria o Registo
+
+Internacional de Navios da Madeira.
+
+O pedido formulado e o parecer ora emitido decorrem das atribuigGes e competéncias da
+CNPD, enquanto autoridade nacional de controlo dos tratamentos de dados pessoais,
+conferidos pela alinea c) do n.° 1 do artigo 57.° e pelo n.° 4 do artigo 36.° do Regulamento
+(UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016 (Regulamento
+Geral sobre a Protecdo de Dados — RGPD), em conjugagdo com o disposto no artigo 3.°ena
+alinea a) do n.° 1 do artigo 6.° da Lei n° 98/2019, de 8 de agosto.
+
+A apreciagao da CNPD cinge-se as normas que preveem ou regulam tratamentos de dados
+
+pessoais.
+
+Il. Apreciacao
+
+O Anteprojeto de Decreto-Lei (doravante, Projeto), no seu artigo 3.°, procede a nona alteracao
+do Decreto-Lei n.° 96/89, de 28 de Margo, que criou, a par do registo de navios convencional,
+um segundo registo de navios portugués: o Registo Internacional de Navios da Madeira,
+abreviadamente designado por MAR, ao qual incumbe em especial, o registo de todos os atos
+e contratos referentes aos navios a ele sujeitos (de comércio, ainda que em construcdo, e as
+embarcagées de recreio) e 0 controlo dos requisitos de seguranga exigidos pelas convengdes
+internacionais aplicaveis (cf. artigo 1.°, n.° 1 do Projeto). Os servicos do MAR estado integrados
+
+na Conservatoria de Registo Comercial Privativa da Zona Franca da Madeira.
+
+Razoes de melhoria da qualidade do servi¢o e de competitividade internacional estZo na
+origem desta nova proposta de alteragao, com a qual se visa simplificar e agilizar Os prazos e
+OS procedimentos de registo.
+
+Neste sentido, e do ponto de vista da protegao de dados pessoais, importa analisar o
+«tratamento informatico» a que o registo de navios sera submetido, bem como a regulacdo
+do registo provisério de navios.
+
+ 
+
+AV. D, CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832
+Processo PAR/2019/57 | 1v.
+
+1. O «tratamento informatico» do registo de navios
+
+De acordo com o proposto no artigo 14.°-A introduzido no Decreto-Lei n.° 96/89 pelo artigo 3.°
+do Projeto, pretende-se sujeitar o registo de navios a «tratamento informatico», arquivando
+em suporte eletrénico os «requerimentos e documentos que servem de base ao registo»,
+designadamente os documentos que titulam os factos sujeitos a registo, procedendo ao seu
+arquivo eletronico, «assim que as condigoes tecnicas o permitirem», nos termos a determinar
+por despacho do Presidente do Conselho Diretivo do Instituto dos Registos e Notariado, I.P.
+(IRN, IP) — cf. n.° 2 en.° 3 do artigo 14.°-A.
+
+Porém, da leitura do n.° 4 do mesmo artigo parece resultar que a final a expressao «arquivo
+eletronico» nao significa, ou nao significa apenas, o repositorio eletronico dos documentos
+apresentados pelos interessados. Na verdade, a leitura conjugada do n.° 2 en.° 4 do artigo
+14.°-Aedon.1 do artigo 14.°-C permite concluir que, além do arquivo em suporte eletronico
+dos requerimentos de registo e dos documentos anexados, o tratamento informatico do registo
+compreende ainda o registo eletrénico dos factos indicados para efeito de registo no
+
+requerimento e nos documentos apresentados.
+
+Assim, considerando que os documentos e requerimentos conterao, por regra, dados
+pessoais, por integrarem informagao de identificagao e contacto dos proprietarios ou
+afretadores dos navios quando sejam pessoas singulares, importa que sejam definidas
+medidas técnicas e organizativas adequadas a garantir a seguranga desta informacao tendo
+em conta o seu novo suporte, a luz do disposto no artigo 5.°, n.° 1, alinea f), e artigo 32.°, n.°
+1, alineas a), b)e c), ambos do RGPD.
+
+Paralelamente, o artigo 14.°-B contempla a possibilidade de o pedido de o registo ser
+apresentado «por via eletrénica», e o artigo 14.°-F estatui que as certiddes podem ser
+disponibilizadas em suporte eletrénico. Em ambos os casos, remete-se para portaria do
+membro do Governo responsavel pela area da justiga a definigao dos termos em que tal se
+
+processara.
+
+Na definicdo das condigdes, designadamente de seguranga, da comunicacao da informagao,
+
+devem ser tomados em consideracdo os principios e regras do RGPD.
+2. Oregisto provisdrio de navios
+
+Nos artigos 15.°-A e seguintes introduzidos pelo artigo 3.° do Projeto regula-se o registo
+
+provisorio de navios. Nao sendo a sua previsao nova, uma vez que ja constava do artigo 15.°
+
+/
+Processo PAR/2019/57
+
+   
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+do Decreto-Lei n.° 96/89, os referidos preceitos vém definir o respetivo procedimento, bem
+como a emissao de um certificado de registo temporario, ai se indicando os elementos
+
+informativos que nele devem constar.
+
+Remete-se novamente para portaria a definigao do modelo de certificado, recomendando a
+CNPD que, para que o presente diploma sirva de fundamento de licitude do tratamento de
+dados pessoais associado a tal registo provisdério, o n.° 2 do artigo 15.°-C defina taxativamente
+
+que dados integram tal modelo, sugerindo por isso a remogao da expresso “pelo menos’.
+
+No mais, a CNPD reitera a importancia de serem definidas medidas técnicas e organizativas
+adequadas a garantir a seguran¢a da informacgao tendo em conta o seu novo suporte, em
+especial, a luz do disposto no artigo 5.°, n.° 1, alfnea 1), e artigo 32.°, n.°1, alineas a), b)e c),
+ambos do RGPD.
+
+Lisboa, 1 de outubro de 2019
+
+<
+
+Filipa Calvao (Presidente)
+
+ 
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT [| TEL: +351 213 928 400 | FAX: +351 213 976 832
+
+2

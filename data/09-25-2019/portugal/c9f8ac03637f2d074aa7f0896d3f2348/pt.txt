@@ -1,0 +1,293 @@
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+PARECER/2019/52
+
+|. Pedido
+
+A Entidade Reguladora do Setor Energético (ERSE) remeteu a Comissao Nacional de
+Protecao de Dados (CNPD), para apreciacgao, o «projeto de Regulamento da Mobilidade
+
+Elétrica».
+
+O pedido formulado e o parecer ora emitido decorrem das atribuigdes e competéncias da
+CNPD, enquanto autoridade nacional de controlo dos tratamentos de dados pessoais,
+conferidos pela alinea c) do n.° 1 do artigo 57.° e pelo n.° 4 do artigo 36.° do Regulamento
+(UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016 (Regulamento
+Geral sobre a Protecao de Dados — RGPD), em conjugacao com o disposto no artigo 3.° da
+Lei n.° 58/2019, de 8 de agosto).
+
+A apreciacao da CNPD cinge-se as normas que preveem ou regulam tratamentos de dados
+
+pessoais.
+
+ll. Apreciagao
+
+1. Ponto prévio: as normas que consciencializam os sujeitos intervenientes sobre o
+
+regime juridico de protecao de dados pessoais
+
+O projeto de Regulamento da Mobilidade Elétrica 6 emitido ao abrigo do Decreto-Lei n.°
+39/2010, de 26 de abril, alterado por ultimo pelo Decreto-Lei n.° 90/2014, de 11 de junho, em
+cumprimento dos objetivos definidos na Diretiva 2006/32/CE, de 5 de abril de 2006.
+
+E toma ja em consideragao, na sua redacao, recomendagées que a CNPD dirigiu a um outro
+projeto de regulamento para o setor elétrico (o Regulamento da ERSE n.° 610/2019, de 2 de
+agosto, relativo aos Servicos das Redes Inteligentes de Distribuigao de Energia Eletrica),
+contribuindo para a consciencializacao dos diferentes intervenientes na rede de mobilidade
+elétrica quanto as obrigacdes e limites do tratamento de informagao relativa aos utilizadores
+
+de veiculos elétricos decorrentes do RGPD.
+
+Desde logo no Capitulo Il, referente aos sujeitos intervenientes e relacionamento comercial,
+
+sao diversas as disposicdes que remetem os sujeitos intervenientes na rede de mobilidade
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832
+
+Processo PAR/2019/44 | 1
+
+-
+Processo PAR/2019/44 | Ay.
+
+elétrica para o RGPD, desse modo também sublinhando que cada um deles, enquanto
+responsavel pelo respetivo tratamento de dados pessoais dos «utilizadores de veiculo
+elétrico»! (doravante utilizadores), tem um conjunto de obrigacdes a cumprir impostas pelo
+RGPD.
+
+E o que sucede, por exemplo, com o disposto n.° 4 do artigo 6.° (para o detentor de registo de
+comercializacdo de eletricidade para a mobilidade elétrica — CEME), com o n.° 3 do artigo 7.°
+(o operador de pontos de carregamento — OPC) e bem assim com as alineas a) ec)don.° 6
+do artigo 9.° (para a Entidade gestora da rede de mobilidade elétrica - EGME -— e para todas
+as que tenham acesso aos dados de consumo dos pontos de carregamento, portanto tambem
+
+para as entidades terceiras que acedam aos dados).
+
+Importante é também a legitimagao dos tratamentos de dados pessoais pela EGME, contida
+no n.° 5 do artigo 9.°2, condicionada as finalidades de «leitura e faturacdo», e a diferenciagao
+da condicdo legitimadora do acesso aos dados pessoais por entidades terceiras (aqui, apenas
+o consentimento pelo titular dos dados, emitido nos termos do RGPD) — cf. n.° 2 do artigo 5.°
+
+e alinea f)do n.° 1 do artigo 9.° e alinea c) do n.° 6 do mesmo artigo.
+
+Consagra-se também o direito de acesso pelo titular dos dados ao seu consumo — cf. n.° 3. do
+
+artigo 5.°.
+
+Em especial, destaca-se a imposic¢ao, na alinea b) do n.° 6 do artigo 9.°, de que, sempre que
+a disponibilizagao dos dados de carregamento ocorra em plataformas eletrénicas, se omita
+
+informacao que permita a identificagao direta do utilizador do veiculo.
+
+Esta norma procura garantir o respeito pelo principio da minimiza¢gao dos dados pessoais,
+diminuindo o impacto que a circulagéo dos dados e o acesso por diferentes entidades pode
+ter na vida privada dos utilizadores de veiculos eletricos. Em causa esta a pseudonimizacgao
+dos dados (alinea 5) do artigo 4.° do RGPD), que nao permite a imediata identificagcao, pelo
+
+nome, do titular da informacao (/e., do utilizador) - e que, em certos contextos das relacoes
+
+1 Cf. a definicdo desta categoria de pessoas contida no n.° 1 do artigo 5.° do projeto de Regulamento,
+de acordo com a qual o Utilizador é, na verdade, o proprietario do veiculo.
+
+2 E que decorre, implicitamente, do disposto na alinea c) do n.° 2 do artigo 21.° do Decreto-Lei n.°
+90/2014, porquanto a gestao dos dados relativos a informa¢ao energética e financeira dos diferentes
+operadores na rede (CEME, OPC, etc.) torna necessario o tratamento de dados relativos ao consumidor
+
+final.
+
+/-
+-COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+comerciais aqui reguladas nao 6 necessaria (por exemplo, para efeito da faturacao entre o
+OPC e o CEME), permitindo ainda assim diferenciar os utilizadores, e sem prejudicar a
+imputagao e faturacao do consumo de energia elétrica ao utilizador do. veiculo (por for¢a do
+relacionamento da informac¢ao disponivel nas entidades junto de quem este forneceu a sua
+identificagao). A minimizacao é@ aqui pertinente porque, para além dos dados de
+carregamento, se conhece também a informacao relativa a localizagao do utilizador do
+
+veiculo.
+
+Sublinha-se ainda que, nao obstante o utilizador nao estar identificado diretamente, ainda
+assim a disponibilizagao e o acesso a informacao dos dados de carregamento constitui um
+tratamento de dados pessoais, quando relativo a pessoas singulares, uma vez que é ainda
+informagao relativa a pessoa singular identificada ou identificavel (cf. alineas 7) e 2) do artigo
+4.°do RGPD).
+
+2. O tratamento de dados pessoais pela EGME
+
+O regulamento define os principais elementos do tratamento de dados pessoais realizados
+pela EGME. Para além do ja citado n.° 5 do artigo 9.°, o qual, em conjugacao com o n.° 2 do
+artigo 51.°, legitima as operagdes de recolha, conservagao e comunicacao de dados a outros
+sujeitos intervenientes na rede para as finalidades de cumprimento da obrigagao de leitura e
+
+para faturagao, os artigos 51.° e seguintes regulam ainda outros aspetos do tratamento.
+
+No artigo 55.° definem-se as categorias de dados tratadas (consumo de energia eletrica ativa
+e «instantes de inicio e fim do carregamento»), explicitando-se que a leitura é realizada
+diariamente e a cada 15 minutos. Considerando que a disponibilizagao do servico de
+carregamento e a comercializacao da energia implica a identificagao do local de
+- carregamento, se a EGME recolher ou tiver acesso a informacao relativa a localizagao do
+titular dos dados aquando de carregamento, deve tambem ser especificado, neste ou noutro
+
+preceito, o tratamento desse dado pessoal.
+
+A CNPD considera que as categorias de dados pessoais objeto de tratamento respeitam os
+principios da proporcionalidade e da minimizagao dos dados, consagrados na alinea c) don.
+° 1 do artigo 5.° do RGPD, na medida em que se revelam idoéneos e necessarios a
+
+prossecucao das finalidades de faturacdo do consumo e faturacao dos diferentes servicos
+
+ 
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832
+
+Processo PAR/2019/44 | 2
+
+L
+Processo PAR/2019/44 | 2v.
+
+prestados pelos varios intervenientes na rede. Mantém, contudo, reservas quanto ao registo
+e transmissao da leitura a cada 15 minutos por utilizador individualizado, ja assinaladas a
+propdsito do Regulamento da ERSE n.° 610/20193, mas neste contexto reforgadas por nao
+compreender a relevancia das mesmas para efeito de uma distribuicdo eficiente, quando
+parece resultar da ldgica subjacente ao regime de mobilidade que cada veiculo nao carrega
+
+sempre no mesmo local.
+
+Quanto a comunicacao dos dados ao CEME e aos operadores de pontos de carregamento,
+definem os artigos 55.° e 56.° que aquela tem por finalidade a faturacao, no primeiro caso a
+faturacdo a apresentar pelo destinatario dos dados ao titular dos dados (utilizador do veiculo),
+
+no segundo caso, a faturagao pelo operador de pontos de carregamento ao CEME.
+
+Aqui se entrecruza ainda o disposto na alinea b) do n.° 6 do artigo 9.°, ja aqui analisado, que
+impde que a informagao seja disponibilizada, quando em plataformas eletronicas, sem que
+
+seja possivel a identificagao imediata do utilizador do veiculo.
+
+No que diz respeito ao acesso por entidades terceiras, 6 certo que o projeto de Regulamento,
+desde logo na alinea g) do n.° 1 do artigo 4,°, faz depender o acesso aos dados de
+carregamento do veiculo do consentimento previo do titular dos dados ou da sua necessidade
+
+para execucao de um contrato com o proprio titular.
+
+A este propédsito, a CNPD recorda que os dados de localizacao sao reveladores da vida
+privada do utilizador (na verdade, a informacao de localizagao diz respeito nao apenas ao
+veiculo como também, pelo menos nos momentos de inicio e de fim do carregamento, ao
+respetivo utilizador). Considerando que os dados sao recolhidos para finalidades especificas
+de faturacdo e que o acesso aos mesmos por terceiros esta limitado as situagdes previstas
+no regulamento, nao tendo o titular dos dados a expetativa de que possam ser utilizados para
+finalidades distintas, o simples interesse (porventura legitimo) de um qualquer terceiro no
+acesso a estes dados pessoais de localizacao nao prevalece sobre o direito fundamental a
+vida privada (cf. n.° 1 do artigo 26.° e n.° 3 do 35.° da Constituicao da Republica Portuguesa
+
+e alinea f) do n.° 1 do artigo 6.° do RGPD). A experiéncia da CNPD quanto a pretensao de
+
+ 
+
+3 Cf. Parecer da CNPD ni 2019/32, acessivel em
+httos://www.cn pd.pt/bin/decisoes/ Par/PAR_2019_32.pdf.
+
+yn
+Processo PAR/2019/44 | 3 «4
+
+ 
+
+  
+  
+
+ 
+
+COMISSAO NACIONAL
+. DE PROTECAO DE DADOS
+
+ 
+
+acesso a dados de localizacgao (por exemplo, relativos a utilizadores da Via Verde) justifica
+
+que se recomende a clarificagao deste aspeto.
+
+3. Tratamento de dados pessoais com a finalidade de avaliar e demonstrar a qualidade
+
+do servico
+
+O capitulo V do projeto de Regulamento, para garantir a qualidade de servico, impoe um
+
+conjunto de deveres aos sujeitos intervenientes na rede.
+
+Um dos deveres, previsto no n.° 3 do artigo 64.°, prende-se com a gravagao integral de
+comunicagoes telefoénicas entre a CEME e o utilizador, independentemente de quem teve a
+iniciativa da comunicagao, sempre que as mesmas visem ou resultem na obtencao de
+
+autorizagao expressa do utilizador para a celebracao de um contrato.
+
+A este proposito, importa notar que um regulamento nao pode afastar as garantias previstas
+na Lei n.° 41/2004, de 18 de agosto, alterada pela Lei n.° 46/2012, de 29 de agosto, em
+especial o disposto no n.° 3 do seu artigo 4.°. Deste modo, quando a comunicacao se
+concretize por chamada telefonica, a gravagao da mesma depende do previo consentimento
+
+do cliente.
+
+Quanto ao prazo de conservacao das gravacoes, 0 artigo 64.° refere um periodo duradouro
+pelo prazo maximo permitido pela CNPD. Uma vez que a CNPD, com o novo regime juridico
+de protegao de dados, deixou de ter competéncias de supervisao previa, sugere-se a
+alteragao desta norma no sentido de definir um periodo de tempo de conservacao. Aqui,
+considerando que as gravac¢goes se limitam as comunicagoes telefonicas destinadas ou que
+resultem na celebragcao de um contrato, a CNPD admite que as mesmas possam ser
+conservadas pelo tempo da dura¢ao do contrato e do cumprimento de todas as obrigagoes
+dele decorrentes (cf. também o disposto no n.° 3 do artigo 21.° da Lei n.° 58/2019, de 8 de
+
+agosto).
+
+Quanto a obriga¢gao de registo das reclamagées e das respostas, prevista no artigo 69.°, para
+avaliag¢ao da qualidade de servico, parece estar vinculada, qualquer que seja a forma de
+comunicacao adotada, ao prazo de 5 anos de conservag¢ao para efeitos de auditabilidade, em
+conformidade com o disposto no artigo 80.°. Na medida em que a conserva¢gao dos dados
+
+pessoais tem a finalidade de garantir a auditoria, considera-se ajustado o referido prazo.
+
+ 
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928 400 | FAX: +351 213 976 832
+Processo PAR/2019/44
+
+tl. Conclusoes
+
+Tendo em conta que o projeto de Regulamento da Mobilidade Eletrica toma em consideragao
+
+recomendacdes que a CNPD dirigiu a um outro projeto de regulamento para o setor eletrico
+
+(o Regulamento da ERSE n.° 610/2019, de 2 de agosto), a CNPD considera que o diploma
+
+esta, no essencial, em conformidade com o regime juridico de protegao de dados,
+
+limitando-se, por isso, a recomendar o seguinte: _
+
+ase
+Ill.
+
+Insercao no artigo 55.° do projeto da referéncia ao dado pessoal de localizagao,
+caso seja tratado pela EGME, para garantia da transparéncia do tratamento de
+dados pessoais;
+
+Esclarecimento, porventura no prdprio articulado do projeto, a proposito do n.° 3
+do artigo 64.°, que o dever de gravar as comunica¢goes telefonicas nao dispensa a
+necessidade de obter consentimento prévio do cliente para o efeito de gravagao
+de chamadas, nos termos do artigo 4.°, n.° 3, da Lei n.° 41/2004, de 18 de agosto,
+alterada pela Lei n.° 46/2012, de 29 de agosto;
+
+Revisdo da parte final do mesmo n.° 3 do artigo 64.°, quando se refere ao «periodo
+duradouro pelo prazo maximo permitido pela CNPD», no sentido de fixar na propria
+norma o prazo de conservagao que a ERSE entender adequado, o qual podera
+corresponder ao tempo da dura¢gao do contrato e do cumprimento de todas as
+
+obrigacdes dele decorrentes.
+
+Lisboa, 3 de setembro de 2019
+
+v
+
+Filipa Calvao (Presidente)
+
+3V.

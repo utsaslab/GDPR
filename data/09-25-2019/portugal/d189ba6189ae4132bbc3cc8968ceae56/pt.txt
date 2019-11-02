@@ -1,0 +1,265 @@
+Processo PAR/2019/23 | 1 ;
+
+ 
+
+ 
+   
+
+ 
+
+ 
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+ 
+
+PARECER/2019/26
+
+|. Pedido
+
+O Instituto da Seguranga Social, |.P. (ISS) submeteu a consulta da Comissdo Nacional de
+Protecgao de Dados (CNPD) um projeto de protocolo a celebrar com o Instituto dos Registos
+e do Notariado para regular a comunicagao de dados do registo civil, relativos a assentos de
+
+nascimento e de Obitos, a Seguranca Social.
+
+A CNPD emite parecer no ambito das suas atribuigdes e competéncias enquanto autoridade
+administrativa independente com poderes de autoridade para o controlo dos tratamentos de
+dados pessoais, conferidos pela alinea c) do n.° 1 do artigo 57.° e pelo n.° 4 do artigo 36.° do
+Regulamento (UE) 2016/679, de 27 de abril de 2016 — Regulamento Geral sobre a Protecao
+de Dados (RGPD), em conjugagao com o disposto no n.° 1 do artigo 22.°e non.° 1 do artigo
+23.°, ambos da Lei n.° 67/98, de 26 de outubro, alterada pela Lei n.° 103/2015, de 24 de agosto
+(Lei de Protegao de Dados Pessoais — LPDP).
+
+O presente protocolo tem por objeto definir as condig¢des em que os dados pessoais sdo
+comunicados pelo Instituto dos Registos e do Notariado (IRN) ao ISS, para efeitos de controlo
+do cumprimento das obrigacdes contributivas e para garantia da atribuicao rigorosa das
+prestacoes socials, bem como para promocao da eficacia na prevencao e combate 4 fraude
+
+e evasao contributivas (cf. Clausula Primeira).
+
+A CNPD solicitou ao ISS esclarecimentos adicionais sobre a aplicacdo pratica dos termos do
+
+protocolo, tendo sido prestadas as informacdes necessarias a emissdo do parecer’.
+
+No protocolo prevé-se que os dados pessoais sejam enviados pelo IRN ao ISS, em tempo
+real, assim que sao registados no Sistema Integrado de Registo e Identificagao Civil (SIRIC),
+através da invocacgao de webservices, em circuito dedicado e por intermédio da Plataforma
+
+de Interoperabilidade da Administragao Publica (iAP).
+
+' Foi remetido € CNPD o Documento de Apoio 4 Comunicacdo de Obitos, versdo 1.2, janeiro de 2019, bem como
+
+resposta a quest6es concretas colocadas por correio eletrénico através do encarregado de protecdo de dados.
+
+ 
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT [| TEL: +351 213 928 400 | FAX: +351 213 976 832
+Processo PAR/2019/23 | Iv.
+
+No que diz respeito ao registo dos assentos de dbito, o IRN disponibiliza ao ISS os seguintes
+dados: nome, data de nascimento, sexo, naturalidade, filiagao, resid€ncia, NIC2, data do dbito,
+numero do assento de Odbito, cddigo da respetiva conservatoria, data do registo e€ o
+identificador do tipo de registo, designadamente, assento, averbamento de retificacdo ou
+
+cancelamento.
+
+A Seguranga Social valida a informagao recebida, comunicagao a comunicacdo, e devolve
+mensagem de sucesso; caso a informacao nao seja aceite é devolvida uma excecdo. No
+processamento da informagao recebida, a Seguranga Social executa ainda um conjunto de
+procedimentos pré-definidos no ambito da qualidade dos dados e, caso haja informacao nao
+coincidente entre os dados por si tratados e os recebidos do IRN (vg. data de dbito diferente),
+estes ultimos sobrepdem-se a informacao existente. Deste modo, a informac4o recebida
+
+atualiza os dados do Sistema de Informagao da Seguranca Social (SISS).
+
+Quanto ao registo dos nascimentos, sao comunicados o nome e NIC do recém-nascido eo
+
+nome e NIC dos progenitores, quando disponiveis.
+
+Esta informagao é€ registada pela Seguranga Social, mas nao é relacionada no imediato com
+outra informagao ja existente no seu sistema, ficando a aguardar pela rececdo posterior da
+informagao do Cartao do Cidadao da crianga. Nessa altura, sera efetuado o registo de uma
+nova pessoa singular e atribuido o NISS? correspondente. Assim, ja sera possivel relacionar
+a informagao com base nos assentos de nascimento, que contém o NIC da crianca e
+progenitores, com a informagao dos respetivos NISS detida pela Seguranca Social, permitindo
+
+associar oS membros do agregado familiar.
+
+Este € um procedimento provisdrio até a implementagdo da Medida Simplex — Atribuicdo
+Oficiosa do Abono de Familia, a qual permitiraé no futuro conceder o abono logo apés a
+
+rececgao dos dados relativos ao assento de nascimento.
+
+Sao tambem parte deste protocolo o Instituto de Gest&o Financeira e Equipamento da Justica,
+I.P. (IGFEJ) e 0 Instituto de Informatica, |.P (Il, |.P), ambos com atribuicdes ao nivel da gest3o
+€ operacionalidade das infraestruturas tecnoldgicas e dos sistemas de informacdo,
+
+respetivamente do Ministério da Justicat e do Ministério do Trabalho, Solidariedade e
+
+* NIC —- Numero de Identificagao Civil (numero do bilhete de identidade ou do cartdo do cidadao)
+3 NISS — Numero de Identificagao da Seguranca Social
+4 Cf. n.° 2 do artigo 3.° do Decreto-Lei n.° 164/2012, de 31 de julho.
+Processo PAR/2019/23 | 2
+
+    
+
+fe
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+! “ COMISSAO NACIONAL
+. DE PROTECAO DE DADOS
+
+ 
+
+ 
+
+ 
+
+Seguran¢ga Social’, os quais, no Ambito deste tratamento de dados, atuam como
+
+subcontratantes (cf. Clausula Terceira do protocolo).
+
+Por ultimo, a Agéncia para a Modernizacao Administrativa, |.P. (AMA), enquanto entidade
+gestora da iAP®, para facilitar a interoperagao dos diferentes sistemas de informacdo, atua
+
+igualmente como subcontratante.
+
+Conforme o n.° 2 da Clausula Segunda do protocolo, a AMA, no contexto do servico de
+federagao de identidades disponibilizado na iAP, associa aos dados enviados a Seguranca
+Social, o NISS cifrado (caso este exista), a partir do NIC constante do cartao de cidadado da
+pessoa falecida que o IRN comunica. Este dado sera descodificado pela Seguranca Social,
+
+unica entidade que o consegue fazer.
+
+Nos termos do n.° 5 da Clausula Oitava, o II,I.P. procede ao registo de todas as comunicacées
+
+efetuadas no ambito deste protocolo (/ogs de auditoria).
+
+Os outorgantes devem ainda respeitar a finalidade deste tratamento de dados, nao podendo
+utilizar a informagao para outros fins nem transmiti-la a terceiros (cf. alinea a) da Clausula
+
+Décima Primeira).
+
+Il. Apreciacao
+
+O protocolo aqui em apreciacdo visa regular os termos em que o IRN comunica ao ISS dados
+pessoais contidos nos assentos de dobito e nos assentos de nascimento. A comunicagao de
+dados pessoais configura um tratamento de dados pessoais, na acecao do artigo 4.°, alinea
+2) do Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril -
+Regulamento Geral sobre a Protecdo de Dados (RGPD).
+
+No Orgamento de Estado para 2019, aprovado pela Lei n.° 71/2018, de 31 de dezembro, vem
+previsto no artigo 155.° o acesso da Seguranca Social aos dados relevantes do registo civil
+para fins de controlo do cumprimento das obrigacées contributivas e para garantia da
+atribuigao rigorosa das prestacdes socials, bem como para promocao da eficacia na
+
+prevencao e combate a fraude e evasao contributivas. Nesse artigo prevé-se ainda que este
+
+° Cf. n.° 2 do artigo 3.° do Decreto-Lei n.° 196/2012, de 23 de agosto.
+° Cf.n.°7 da Resolugao do Conselho de Ministros n.° 42/2015, de 19 de julho.
+
+Av. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832
+Processo PAR/2019/23 | 2V.
+
+tratamento de dados se realize preferencialmente por via eletronica, nos termos de protocolo
+a realizar entre o IRN e os servicos da seguranca social, sendo definido no n.° 2 do artigo o
+
+elenco de dados a transmitir.
+
+Assim sendo, este tratamento de dados tem como condicdo de licitude o cumprimento de
+obrigacgao legal, previsto na alinea c) do n.° 1 do artigo 6.° do RGPD, encontrando-se também
+
+parcialmente verificado o cumprimento do n.° 3 do artigo 6.° do RGPD.
+
+Quanto ao conteudo do protocolo, considera-se dever haver uma aplicagao rigorosa da
+terminologia do regime de protegdo de dados quanto as reais operacdes de tratamento de
+
+dados que estao aqui em causa.
+
+Assim, entende-se que na Clausula Primeira, deve ser substituida a expressao froca de
+informa¢ao por “comunicagao de dados pessoais do IRN para a Seguranca Social”: no n.° 2
+da Clausula Segunda, deve ser substituido o termo /nterconexgo por “comunicagao” ou
+‘transmissao” dos dados pessoais, ou ainda, reformular a frase, pois é apenas a AMA que
+
+realiza uma interconexao de dados.
+
+No que diz respeito a Clausula Oitava, sob a epigrafe «Condicdes de acesso a informacao»,
+considera a CNPD que deve ser melhor descrito 0 processo de comunicagao/disponibilizacao
+dos dados pessoais, explicitando que é efetuado em fempo rea/ “a partir do registo dos
+assentos de obito e de nascimentos no SIRIC”; caso contrario, falta o parametro de referéncia.
+Eventualmente, em linha com o rigor terminolégico acima referido, devem ser a epigrafe eo
+n.° 1 reformulados, no sentido de melhor refletir a operacao de tratamento de dados realizada.
+Embora na pratica se verifique um acesso do ISS a informacao da responsabilidade do IRN,
+a iniciativa parte do IRN, sendo este a comunicar os dados e nado a ser consultado
+
+passivamente pela Seguranca Social.
+
+Quanto a existéncia de /ogs de auditoria, considera-se que o seu registo deveria estar previsto
+tanto para quem recebe os dados como para quem os envia, devendo ser aditado um n.°6 a
+Clausula Oitava que espelhasse obrigagdo idéntica a do n.° 5 para a disponibilizagao dos
+
+dados pelos sistemas da Justica.
+
+Sugere-se ainda que o contetido da alinea a) da Clausula Décima Primeira seja
+autonomizado, uma vez que é particularmente importante no contexto deste protocolo, e nao
+
+apresentado como uma das obrigagées resultantes da aplicagdo do RGPD, pois essas s4o
+
+r
+Processo PAR/2019/23 | 3
+
+ 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+ 
+
+muitas mais e algumas das quais estdo ja refletidas no restante clausulado. Quanto a alfnea
+b) desta Clausula, parece mais ajustado que seja transposta para a clausula relativa a
+
+seguranca.
+
+Por ultimo, considera-se positiva a identificagao dos interlocutores das partes e respetivos
+contactos para efeitos de acompanhamento da execucdo do protocolo, bem como a
+
+obrigatoriedade da realizagao de todas as comunicacées por escrito.
+
+Ill. Conclusao
+
+Com a introdugao das alteragdes acima identificadas, a CNPD considera nado haver
+impedimentos a celebracao do protocolo para a comunicacao de dados do registo civil, pelo
+
+IRN, a Seguranca Social.
+
+Lisboa, 28 de maio de 2019
+
+ 
+
+Filipa Calvao (Presidente)
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928 400 | FAX: +351 213 976 832

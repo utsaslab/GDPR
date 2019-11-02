@@ -1,0 +1,465 @@
+Processo n.° PAR/2019/10 | 1
+
+   
+
+~ COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+PARECER/2019/8
+
+. Pedido
+
+O Ministro da Ciéncia, Tecnologia e Ensino Superior solicitou a4 Comissa0 Nacional de
+Protecgao de Dados (CNPD) parecer sobre o Projeto de Decreto-Lei que estabelece o regime
+juridico das instituigGes que se dedicam a investigacao e desenvolvimento (I&D) e define os
+principios gerais de avaliacao, financiamento, valorizacao, acesso ao e divulgacao do
+
+conhecimento e observagao estatistica do sistema nacional de Ciéncia e Tecnologia.
+
+O pedido formulado e o parecer ora emitido decorrem das atribuicdes e competéncias da
+CNPD, enquanto entidade administrativa independente com poderes de autoridade para o
+controlo dos tratamentos de dados pessoais, conferidos pela alinea c) do n.° 1 do artigo 57.°
+e pelo n.° 4 do artigo 36.° do Regulamento (UE) 2016/679, de 27 de abril de 2016
+(Regulamento Geral sobre a Protegdo de Dados —- RGPD), em conjugacdo com o disposto no
+n.° 1 do artigo 21.°e non.° 1 do artigo 22.°, ambos da Lei n.° 67/98, de 26 de outubro, alterada
+pela Lei n.° 103/2015, de 24 de agosto (Lei de Protecao de Dados Pessoais — LPDP).
+
+Antes de iniciar a apreciagao do projeto, a CNPD permite-se sublinhar que 0 pedido de parecer
+foi enviado no final da tarde do dia 12 de fevereiro, nele se destacando o carater urgente da
+
+emissao do parecer «considerando que o projeto sera discutido no dia 21 de fevereiro f.p.».
+
+Ainda que se possa compreender que os procedimentos de elaboracao de projetos
+legislativos tenham um tempo prdéprio de maturacdo, e que a necessidade ou urgéncia na
+aprovacao de um diploma pode justificar a acelerac&o de certas fases daqueles, ndo pode a
+CNPD deixar de notar, como ja o fez a propdsito de outros procedimentos legislativos
+governamentais, que a emissao de parecer reclama tempo para apreciacdo e ponderacdo das
+diferentes questOes que os projetos legislativos possam suscitar, nao sendo por isso exigivel
+que, para se encurtar o procedimento legislativo, se sacrifique reiteradamente o tempo
+necessario a emissao do parecer. Tanto mais que a consulta 4 CNPD constitui uma obrigacao
+imposta pelo RGPD (n.° 4 do artigo 36.°).
+
+A compressao temporal do periodo de consulta prejudica nao apenas 0 exercicio da funcao
+consultiva, como também a ponderac&o pelo drgdo legislativo das recomendacoes contidas
+no texto dos pareceres, reduzindo assim a consulta a uma mera formalidade, em contradi¢ao
+
+clara com a ratio daquela imposicao legal.
+
+ 
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928 400 | FAX: +351 213 976 832
+Processo n.° PAR/2019/10 | 1v.
+
+A apreciagao da CNPD no presente parecer restringe-se aos aspetos de regime relativos aos
+tratamentos de dados pessoais, ou seja, a operacdes que incidem sobre informac¢ao
+respeitante a pessoas singulares, identificadas ou identificaveis — cf. alineas 1) e 2) do artigo
+4.° do RGPD.
+
+I. Apreciagao
+
+1. Questao prévia: inconstitucionalidade formal e organica do diploma
+
+Em primeiro lugar, importa assinalar que o presente Projeto de Decreto-Lei prevé e regula no
+capitulo VII, relativo a «Observacgao e Registo», o sistema de producdo e andlise estatistica
+sobre Ciéncia, Tecnologia e Inovacao. Na medida em que prevé a recolha, a analise,
+conservagao e divulgagao de informacao relativa a docentes, investigadores e membros ndo
+discentes, portanto pessoas singulares identificadas ou identificaveis, nao restam duvidas que
+0 diploma pretende constituir o regime juridico dos tratamentos de dados pessoais que servem
+
+de base a tal sistema (cf. alineas 1) e 2) do artigo 4.° do RGPD),.
+
+Simplesmente, a imposigao de comunicagao de dados pessoais e demais operagées de
+tratamento (v.g., a sua divulgacgao) constitui uma restric€o ou condicionamento do direito a
+protegao dos dados pessoais, bem como, nalguns casos, do direito ao respeito pela vida
+privada, direitos estes que integram a categoria constitucional de direitos, liberdades e
+garantias, de acordo com o disposto no n.° 1 do artigo 26.° e no artigo 35.° da Constituicdo da
+Republica Portuguesa (CRP). E on.° 2 do artigo 18.° e a alinea b) do n.° 1 do artigo 165.° da
+CRP reservam para a competéncia da Assembleia da Republica a normac&o sobre direitos,
+liberdades e garantias, pelo que o Governo apenas mediante autorizacdo legislativa daquele
+
+Orgao de soberania pode prever e regular restrigdes e condicionamentos aqueles direitos.
+
+Repare-se que, no capitulo VII, o Projeto nao se limita a repetir anteriores normas legais sobre
+os tratamentos de dados pessoais, antes vem criar novos deveres de recolha e comunicacao
+de dados pessoais de terceiros (deveres que recaem sobre as instituicdes em que os titulares
+dos dados pessoais desenvolvem a sua atividade profissional) - como sucede, por exemplo,
+com o dever de comunicagao dos vencimentos, remuneracdes e outras compensacées
+financeiras auferidas por tais profissionais para finalidades estatisticas (previsto no artigo 60.°
+
+do Projeto de Decreto-Lei).
+Processo n.° PAR/2019/10 | 2
+
+ 
+  
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+Nestes termos, a CNPD alerta para a inconstitucionalidade organica e formal deste projeto,
+
+recomendando o seu adequado enquadramento legislativo.
+
+Sem prejuizo do que se concluiu no ponto anterior, apreciar-se-a agora o conteudo do Projeto
+de Decreto-Lei, procurando destacar os aspetos do regime relativo a tratamentos de dados
+
+pessoais que suscitam reservas a CNPD.
+
+2. O regime dos tratamentos de dados pessoais previstos no Projeto
+
+Como se referiu, o capitulo VII do Projeto impde ao Estado a criacdo de um sistema de
+produgao e andalise estatistica sobre Ciéncia, Tecnologia e Inovagaéo, «tanto na perspetiva de
+recursos humanos, como de instituicdes, de atividade e produgao cientifica, projetos,
+
+programas e financiamento» (cf. artigo 48.° do Projeto).
+
+Reconhecendo-se a importancia para o desenvolvimento da sociedade portuguesa da analise
+de estatisticas sobre os diferentes setores de atividade e, especificamente, no contexto da
+investigagao cientifica e tecnoldgica, nao pretende a CNPD questionar a bondade da criacao
+de uma base de dados que permita aquela andlise, mas apenas verificar e, porventura, ajudar
+a encontrar solugoes que, assegurando a finalidade estatistica, nado periguem com direitos
+
+fundamentais das pessoais a quem a informagao diz respeito.
+
+Como se explicara em seguida, o diploma prevé a criagao de uma base de dados pessoais e
+a sua interligagao com outros sistemas de informacgao, prevendo e regulando ainda um
+especifico tratamento de dados pessoais, que é o inquérito do emprego no ensino superior
+publico.
+
+Em relagao a estes tratamentos de dados pessoais, contém trés artigos especificos sobre o
+seu respetivo regime de protecdo dos dados pessoais: os artigos 49.° a 51.°. Seo artigo 50.°,
+relativo ao sigilo profissional, nado suscita qualquer reserva, ja o disposto nos artigos 49.° e
+
+91.° merecem as seguintes observacées.
+
+Quanto ao disposto no artigo 49.°, relativo aos direitos dos titulares dos dados pessoais, o
+mesmo nao explicita o direito de informacao que vem enunciado na epigrafe. Na verdade, no
+corpo do artigo limita-se a caracterizar o direito de acesso e o direito de retificacao, nada
+
+especificando quanto ao direito de informacdo, que é distinto do direito de acesso e que tem
+
+ 
+
+AV. D. CARLOS I, 134 - 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832
+Processo n.° PAR/2019/10
+
+de ser garantido em momento prévio ou contemporaneo do tratamento, merecendo tutela
+
+constitucional e legal (cf. 0 n.° 1 do artigo 35.° e os artigos 13.° e 14.° do RGPD).
+
+Por outro lado, a remissao simplificada para a lei no final da norma («nos termos da lei») nao
+contribui em nada para a fungao de orientagao que as normas legais devem cumprir. A CNPD
+recomenda, por isso, que a revisao da redacao da norma, sugerindo que se insira no inicio do
+artigo, a seguir a «Os interessados tém o direito de» e antes de «, a todo o tempo», ser
+informados sobre o tratamento dos seus dados, bem como de. Sugere ainda que se substitua
+a referéncia a «nos termos previstos na lei» por nos fermos do regime furidico de protecao de
+dados pessoals ou, em alternativa, nos fermos do Regulamento Geral de Protecao de Dados
+
+e demals legislacao nacional que o execute.
+
+No que diz respeito ao artigo 51.° do Projeto, nao pondo em causa que a informacao
+disponibilizada na base de dados cuja criagao vem prevista no Projeto seja utilizada para as
+finalidades de investigacao cientifica, historica ou estatistica, nao deixa porém de notar que a
+previsao de que «[A] informagao constante das bases de dados pode ser utilizada para [...]»
+esses fins € demasiado aberta, correndo o risco de ser interpretada como permitindo o acesso
+e utilizagao dos dados pessoais constantes de toda e qualquer base de dados para tais
+finalidades.
+
+A CNPD recomenda, por isso, a especificagao das bases de dados que no preceito se tem
+
+em vista, sob pena de se ter tal norma como desproporcionada e violadora do RGPD.
+
+Por fim, importa notar que o regime previsto no RGPD relativo aos tratamentos para fins de
+arquivo de interesse publico, de investiga¢ao cientifica ou histdrica ou fins estatisticos oficiais
+admite regras especificas do direito nacional, pelo que se sugere que a remissao para o RGPD
+seja antes feita para o regime juridico de protegao de dados ou, em alternativa, parao RGPD
+
+e legislagao nacional que o execute.
+
+3. O Observatorio do Emprego Cientifico
+
+No artigo 53.°, prevé-se a criagao de um registo publico nominativo — o Observatorio do
+Emprego Cientifico - com as finalidades especificadas no n.° 2 do mesmo artigo, de que aqui
+
+se destacam a transparéncia, monitorizagao e avaliacao do emprego académico e cientifico
+
+2V.
+Processo n.° PAR/2019/10
+
+ 
+  
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+e das condigdes do mesmo. Repare-se, contudo, que estas ndo so finalidades Unicas do
+registo. Com efeito, no n.° 4 do artigo 57.° do Projeto admite-se imputar ao registo uma outra
+finalidade nao especificada no artigo 53.°. Simplesmente, na medida em que a prossecu¢ao
+dessa finalidade nao é obrigatdria, dependendo da disponibilizacao online do curriculo
+individual do titular dos dados na Ciéncia Vitae, a CNPD nada tem a obstar a associacao desta
+
+finalidade as finalidades principais da base de dados.
+
+Prevé-se ainda no artigo 53.° que o responsavel por esta base de dados é a Diregao-Geral de
+
+Estatisticas da Educacao e Ciéncia.
+
+Os dados pessoais af conservados, e que vém elencados no artigo 55.°, dizem respeito aos
+docentes, investigadores e membros nao discentes das instituigdes de investigacao e
+desenvolvimento e as instituig6es de ensino superior, de natureza publica, privada e
+fundacional, nos termos explicitados no artigo 54.° do Projeto. Refira-se que, apesar de o n.°
+1 do artigo 53.° ter um elemento indeterminado na definicdo das pessoas singulares cuja
+informagao vai ser recolhida (“entre outros”), essa indeterminacdo é corrigida pela delimitacao
+rigorosa no artigo 54.° das categorias de titulares de dados abrangidos, em conformidade com
+
+as exigéncias do RGPD.
+
+Em relagao as categorias de dados pessoais recolhidos, d iferencia-se no artigo 55.° o conjunto
+
+da informagao que vai ser disponibilizada ao publico da que fica reservada.
+
+Quanto a informagao reservada, e que corresponde aos «dados completos de identificagao»,
+de acordo com a razao de ser da sua recolha explicitada no n.° 2 do artigo 55.°, considera-se
+respeitado o principio da minimizag&o dos dados consagrado na alinea c) do n.° 1 do artigo
+9.° do RGPD. Todavia, nao pode deixar de se alertar que, com excecao da finalidade indicada
+no inicio do mesmo n.° 2 do artigo 55.°, nao se encontra neste diploma ou noutro diploma
+
+legal quaisquer outras condigdes em que aqueles dados possam ser utilizados.
+
+No que diz respeito aos dados pessoais disponibilizados ao publico, nos termos do n.° 1 do
+artigo 55.°, a CNPD considera adequada, necessaria e nao excessiva a informacao pessoal
+recolhida para as finalidades acima especificadas, considerando por isso que essa disposicao
+esta em conformidade com o RGPD e a CRP. Todavia, depreende-se da alinea e) don.°1e
+
+dos n.°s 2 e 3 do artigo 56.° do Projeto, que se pretende criar uma plataforma do Observatorio
+
+ 
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213.928 400 | FAX: +351 213 976 832
+
+3
+Processo n.° PAR/2019/10
+
+atraves da qual serao registados e ficarao disponiveis os contratos de emprego cientifico e
+
+docente.
+
+A este proposito, importa sublinhar que o principio da transparéncia so justifica a compressao
+dos direitos fundamentais a protecao e dados pessoais e a reserva da vida privada na medida
+do estritamente necessario para a realizacao das razGes de transparéncia, em conformidade
+com 0 principio da proporcionalidade; o que significa que a disponibilizacao do contetido dos
+contratos so pode ser feita com a ocultagao ou expurgo dos dados pessoais que nao sejam
+necessarios aos objetivos de monitorizagao do emprego cientifico e docente. Nessa medida,
+deve garantir-se que, no que diz respeito as pessoas singulares contratadas, s6 pode estar
+visivel no texto do contrato registado os dados referidos no n.° 1 do artigo 55.°, devendo
+expurgar-se da versao disponibilizada outros dados de identificacao (v.g., numero do cartdo
+de identificagao civil, numero de identificagao fiscal), bem como dados de contacto (v.g.,
+
+morada) e informag¢ao relativa ao vencimento ou remuneracao convencionada.
+
+Nestes termos, a CNPD recomenda que seja acrescentado um numero auténomo ao artigo
+96.°, em que se imponha o expurgo outros dados pessoais do contratado que nao
+
+correspondam aos previstos no n.° 1 do artigo 55.°.
+
+Ainda a proposito desta base de dados, importa analisar o artigo 57.° que tem por epigrafe:
+«Interligagao e comunicagao de dados». Nao se questionando a previsdo da possibilidade de
+interligagao entre o Observatorio e os sistemas de informac4o institucionais indicados no n.°
+2 do artigo 57.°, nao deixa de se alertar que a referéncia a interligacao com outros sistemas
+de informacao e 0 seu elenco meramente exemplificativo faz com que este preceito nao
+disponha da densidade normativa necessaria a legitimar a recolha indireta de dados pessoais
+(e., recolha de dados pessoais junto de terceiros que nao correspondam aos titulares dos
+dados pessoais). Com efeito, se esta norma pretende servir de condicdo de licitude para a
+operacao de tratamento de dados pessoais que a recolha de dados constitui, entao ela tem
+de especificar exatamente os sistemas de informacao que podem servir de fonte. De outro
+modo, cada interligagao para efeito de recolha de dados pessoais para o Observatorio tera de
+ser precedida de uma avaliagao sobre a verificagdo de uma das condicdes de licitude de
+
+tratamento de dados pessoais, previstas no artigo 6.° do RGPD.
+
+No mais, assinala-se a imprescindibilidade de serem garantidas medidas adequadas de
+
+seguran¢a da informagao, quer no que diz respeito ao Observatorio, quer no que diz respeito
+
+3V.
+Processo n.° PAR/2019/10 | 4
+
+ 
+  
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+as pretendidas interligagdes. Sobre este ponto o diploma é omisso, mas na sua exeCuGao nao
+
+deixa de ter de se respeitar o estatuido nos artigos 24.° e seguintes do RGPD.
+
+4. QO Inquérito ao Emprego no Ensino Superior Publico
+
+Nos artigos 58.° e seguintes do Projeto de Decreto-Lei prevé-se ainda a realizagao anual de
+um inquérito do emprego no ensino superior publico, relativo aos recursos humanos das
+instituig6es de ensino superior publicas exclusivamente tuteladas pelo Ministério da Ciéncia,
+Tecnologia e Ensino Superior, incluindo as de natureza fundacional, que preencham um dos
+requisitos do n.° 2 do artigo 58.°.
+
+Este inquérito €, como resulta do disposto na alinea a) do n.° 1 do artigo 60.° do Projeto,
+nominativo, havendo uma identificagao inequivoca de cada docente, investigador ou membro
+nao discente daquelas instituigdes, nao restando portanto duvidas quanto a sua qualificacao
+como tratamento de dados pessoais, em conformidade com o disposto na alinea 2) do artigo
+4.°do RGPD.
+
+Sao indicados dois responsaveis pelo tratamento de dados pessoais que o inquérito implica:
+
+a Diregao-Geral de Estatisticas da Educacdo e Ciénciaea Diregao-Geral do Ensino Superior.
+
+Todavia, a CNPD tem sérias reservas quanto a alguns dos dados pessoais recolhidos em
+sede de inquérito, enunciados no artigo 60.°, por considerar que oS mesmos nao sao
+adequados ou necessarios 4 prossecucdo da finalidade visada, em violacao, portanto, do
+disposto na alinea c) do n.° 1 do artigo 5.° do RGPD.
+
+Na verdade, ai se impGe as instituigdes de ensino superior publico o dever de comunicar, no
+ambito do referido inquérito, os dados de identificagao dos respetivos docentes,
+
+investigadores ou membros nao discentes, «incluindo o numero de identificagao fiscal [...]».
+
+A CNPD tem afirmado reiteradamente que o numero de identificagao fiscal (NIF) tem uma
+finalidade especifica, que é a de identificar o contribuinte perante a Administragao Fiscal (v.g.,
+Autoridade Tributaria e Aduaneira), nao devendo, pois, ser utilizado para finalidades distintas
+da atividade fiscal, de acordo o principio da finalidade. Sobretudo, quando se tem presente
+que, na ordem juridica portuguesa, é atribuido a cada cidadao um numero de identificacao
+civil especificamente para o identificar nas relacdes juridicas e, em especial, perante o Estado
+
+portugués, pelo que, pelo menos quanto aos cidaddos portugueses, bem como quanto aos
+
+ 
+
+AV. D. CARLOS I, 134- 1° {| 1200-651 LISBOA | WWW.CNPD.PT [| TEL: +351 213928400 | FAX: +351 213 976 832
+Processo n.° PAR/2019/10 | 4v.
+
+cidadaos estrangeiros que disponham de um cartao de identificagao equiparavel, a utilizacao
+
+de outro numero de identificagao nao se afigura adequada, nem, principalmente, necessaria.
+
+Acresce que ha um outro dado pessoal que se revela desnecessario e excessivo. Tem-se
+agora em vista a informagao relativa a vencimentos, remuneracdes e outras compensacdes
+financeiras auferidas, prevista na alinea f) do n.° 1 do artigo 60.° do Projeto, e que
+evidentemente expde, para além do estritamente necessario as finalidades visadas com este
+
+inquérito (indicadas no n.° 2 do artigo 58.°), a vida privada dos titulares dos dados.
+
+Na verdade, a finalidade estatistica e a finalidade de planeamento financeiro sobre contratos
+e remuneragoes nao exige a informagao exata do valor da remuneracao, bastando-se, com a
+identificagao de escal6es de vencimento ou de remuneracao, que se entendam ser
+
+adequados.
+
+E certo que, tanto esta informagao, como a relativa ao NIF, é informacao que nao vai ser
+disponibilizada no Observat6rio; contudo, é ainda informacao que nao é necessaria para as
+finalidades visadas com a sua recolha e, portanto, com o seu tratamento, pelo que a imposicao
+da sua recolha e subsequente tratamento contradiz o principio da minimizacao dos dados
+
+consagrado na alinea c) do n.° 1 do artigo 5.° do RGPD.
+
+A CNPD recomenda, por isso, a alteragao da redacao das alineas a) e f) do n.° 1 do artigo
+60.° do Projeto, através da elimina¢gao do dado numero de identificacao fiscale a sua eventual
+substituigao pelo numero de identificacao civil, e da eliminagao do dado vencimentos,
+remuneracoes e outras compensacées financeiras auferidas e a sua substituicao por escalao
+retributivo ou remuneratorio, de acordo com um quadro de escaldes a anexar ao presente
+
+diploma ou a aprovar em sede de regulamento administrativo.
+
+Uma ultima nota, quanto a este ponto, para sublinhar que, apesar da previsao de
+sancionamento contida no artigo 62.° para o incumprimento do dever de remessa de dados
+solicitados pelo nquérito Rebides/Indez, é neste artigo que o inquérito Rebides/Indez vem
+referido pela primeira vez; nao se alcangando se tal corresponde a uma gralha e se se
+pretende referir o inquérito previsto no artigo 58.° do Projeto, caso em que se recomenda a
+
+sua correg¢ao, ou se com isto se pretende criar uma obrigacao de envio de mais dados, a
+Processo n.° PAR/2019/10 | 5
+
+ 
+  
+
+COMISSAO NACIONAL
+DE PROTECAO DE DADOS
+
+CNPD permite-se reiterar a necessidade de, se em causa estiverem dados pessoais, deverem
+os mesmos ser especificados em diploma legal, por nao ser suficiente a sua previsao ou
+
+referéncia em decisées politicas relativas a simplificacdo administrativa.
+
+S. QOutras disposicées
+
+Neste ponto, apreciam-se ainda algumas normas do Projeto que poderao implicar o
+tratamento de dados pessoais.
+
+A primeira nota serve para assinalar que 0 n.° 2 do artigo 39.° do Projeto determina que o
+processo de avaliagao de pessoas, instituigdes, projetos e programas obedeca a diferentes
+principios, entre os quais aqui se destacam os principios da publicidade, da colabora¢ao com
+
+as instituicgdes e o da protecao de dados pessoas.
+
+A CNPD satda a especificagao da vinculacdo dos avaliadores a estes principios, para
+sublinhar que tais principios estao, frequentemente, numa relagao de tensao, pelo que a
+aplicagao dos mesmos em cada processo de avaliacao, numa légica de harmonizagao, deve
+assegurar a disponibilizagao de meios e de acesso a informacdo necessaria para se
+concretizar a avaliagao, mas com especial respeito pelo principio da minimizagao dos dados
+pessoais, em especial, na vertente de necessidade efetiva de conhecer dados pessoais (cf.
+alinea c) do n.° 1 do artigo 5.° do RGPD).
+
+A segunda observacgado prende-se com a previsdo, no artigo 52.° do Projeto, de um
+Observatorio de Competéncias Digitais relativo & populacdo, mas sobre o qual nada se
+especifica, tanto em termos do tipo de informacdo objeto de tratamento, como em termos de
+fonte de informagao. Admitindo que se pretende regular este instrumento num outro diploma
+legal, a CNPD sublinha a imprescindibilidade de se respeitar o disposto no RGPD, tanto na
+
+regulagao normativa daquele, como na sua execucao.
+
+HI. Conclusado
+
+Com os fundamentos acima expostos, a CNPD:
+
+1. Alerta para a inconstitucionalidade organica e formal do presente Projeto de
+
+Decreto-Lei, recomendando o seu adequado enquadramento legislativo, nos termos
+
+ 
+
+AV. D. CARLOS I, 134- 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213928 400 | FAX: +351 213 976 832
+Processo n.° PAR/2019/10 | 5v.
+
+exigidos pelo n.° 2 do artigo 18.° e a alinea b) do n.° 1 do artigo 165.° da Constituicao
+da Republica Portuguesa;
+
+2. Sublinha que tem sérias reservas quanto a previsao da recolha, em sede do Inquérito
+ao Emprego no Ensino Superior Publico, dos dados W/Fe vencimentos, remuneracées
+e outras compensacoes financeiras, por tais dados nao serem adequados ou
+necessarios a prossecucgao da finalidade visada pelo inquérito, em violacdo do
+disposto na alinea c) do n.° 1 do artigo 5.° do RGPD; recomenda, por isso, a alteracao
+da redacao das alineas a) e f) do n.° 1 do artigo 60.° do Projeto, através da eliminacao
+do dado numero de identificacao fiscal e a sua eventual substituicdao pelo numero de
+identificagao civil, e da eliminagao do dado vencimentos, remuneracdes e outras
+compensacoes financeiras auferidas e a sua substituigao por escalao retributivo ou
+remuneratorio, de acordo com um quadro de escaldes a anexar ao presente diploma
+ou a aprovar em sede de regulamento administrativo;
+
+3. Recomenda ainda a revisao da redacao das seguintes normas:
+
+I, Artigo 49.°: especificag¢ao no corpo do artigo do direito a serem informados
+sobre o tratamento dos seus dados pessoais e, no final, remissao explicita para
+oO regime juridico de protecao de dados;
+
+il. Artigo 51.°: especificagao das bases de dados visadas pelo preceito, sob pena
+de se ter tal norma como desproporcionada e violadora do RGPD;
+
+ie Artigo 56.°: imposigao do dever de expurgo de outros dados pessoais do
+profissional contratado que nao correspondam aos previstos no n.° 1 do artigo
+55.° do Projeto;
+
+iV. Artigo 62.°: corregao do texto da norma, dada a sua incongruéncia, uma vez
+que o inquérito Rebides/Indez vem referido pela primeira vez neste mesmo
+
+artigo.
+
+Lisboa, 20 de fevereiro de 2019
+
+José Grazina’ Machado (Relatery”
