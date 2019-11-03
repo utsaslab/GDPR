@@ -1,0 +1,121 @@
+Datum
+
+Diarienr
+
+2019-10-23
+
+DI-2019-10508
+Er referens
+A456.818/2019
+
+Polismyndigheten
+
+Förhandssamråd om Polismyndighetens
+planerade användning av programvara för
+ansiktsigenkänning mot signalementsregistret
+Bakgrund
+Polismyndigheten har begärt förhandssamråd med Datainspektionen inför
+ändrad personuppgiftsbehandling vid Nationellt forensiskt centrum (NFC).
+Ändringen innefattar användning av ny programvara för ansiktsigenkänning
+mot signalementsregistret. De biometriska uppgifterna kommer endast att
+behandlas inom den forensiska verksamheten. Polismyndigheten har i
+samband med det kommit in med en konsekvensbedömning. Av denna
+framgår att Polismyndigheten, med beaktande av de skyddsåtgärder som
+kommer att vidtas, inte anser att det finns särskild risk för intrång i enskildas
+personliga integritet. Polismyndigheten uppger dock att användningen av
+programvara för ansiktsigenkänning innebär en nyhet och önskar därför
+samråda med Datainspektionen innan den planerade verksamheten påbörjas.
+
+Sammanfattande råd
+I Datainspektionens rådgivande roll ingår vid förhandssamråd att skriftligen
+lämna råd, om den planerade behandlingen bedöms medföra risk för att
+personuppgifter kan komma att behandlas i strid med lag eller annan
+författning.
+Utifrån den konsekvensbedömning och övrig utredning som
+Polismyndigheten har kommit in med lämnar Datainspektionen följande råd.
+Konsekvensbedömningen innehåller inte någon utredning om hur länge data
+(feature vectors) kommer att behöva bevaras i produktionsmiljön. Denna
+
+Postadress: Box 8114, 104 20 Stockholm
+Webbplats: www.datainspektionen.se
+
+E-post: datainspektionen@datainspektionen.se
+Telefon: 08-657 61 00
+
+1 (3)
+
+2 (3)
+
+brist bör åtgärdas innan den planerade verksamheten påbörjas. I övrigt har
+inspektionen inga synpunkter på materialet.
+
+Datainspektionens yttrande
+Rättslig grund
+Av 2 kap. 1 § brottsdatalagen (2018:1177) framgår att Polismyndigheten får
+behandla personuppgifter om det är nödvändigt för att kunna utföra sin
+uppgift att bland annat utreda eller lagföra brott.
+Vad gäller kravet på nödvändighet framgår av förarbetena till brottsdatalagen
+att personuppgiftsbehandlingen ska vara ”nödvändig” för att en behörig
+myndighet ska kunna utföra sina uppgifter. EU-domstolen har i ett avgörande
+(mål C-524/06) kommit fram till att ordet ”nödvändig” ska tolkas som att det
+är fråga om något som behövs för att på ett effektivt sätt kunna utföra
+arbetsuppgiften.
+Det får enligt Datainspektionen anses vara klarlagt att den planerade
+behandlingen med ansiktsigenkänningsteknik för att identifiera
+gärningspersoner är betydligt effektivare än att enskilda tjänstemän gör denna
+selektering manuellt.
+Ändamål
+Av 6 kap. 1 § 2 lag (2018:1693) om polisens behandling av personuppgifter
+inom brottsdatalagens område (polisens brottsdatalag) framgår att vid NFC
+får personuppgifter behandlas på det sätt som nu är föreslaget om det behövs
+för att bland annat utföra forensiska analyser, undersökningar eller
+jämförelser åt den egna myndigheten.
+Känsliga personuppgifter
+Vidare framgår det av 6 kap. 4 § polisens brottsdatalag att biometriska
+uppgifter, som det här är fråga om, får behandlas om det är absolut
+nödvändigt för ändamålet med behandlingen, dvs. att utföra sådana
+forensiska analyser, undersökningar eller jämförelser som framgår av
+1 § samma kapitel. De biometriska uppgifterna som ska användas för
+ansiktsigenkänning mot signalementsregistret kommer endast att behandlas
+inom den forensiska verksamheten.
+Av 6 kap. 5 § polisens brottsdatalag framgår att sökförbudet i 2 kap. 14 §
+brottsdatalagen inte hindrar sökningar i signalementsregistret, i syfte att få
+fram ett urval av personer grundat på uppgifter som rör biometriska uppgifter.
+
+3 (3)
+
+Längsta tid som personuppgifter får behandlas
+Av Polismyndighetens rättsutredning framgår att det fortfarande pågår en
+utredning avseende hur länge data (feature vectors) som representerar
+spårbilderna kommer att behöva bevaras i produktionsmiljön. Denna fråga
+bör Polismyndigheten enligt Datainspektionen ta ställning till innan den
+planerade verksamheten kan påbörjas eftersom bevarandefrågan utgör en
+viktig del av konsekvensbedömningen och skyddet för den personliga
+integriteten i samband med behandling av personuppgifter.
+Tekniska och organisatoriska åtgärder
+Av den rättsutredning som Polismyndigheten kommit in med framgår att
+man i enlighet med 3 kap. 8 § brottsdatalagen vidtagit lämpliga tekniska och
+organisatoriska åtgärder för att skydda de personuppgifter som behandlas,
+särskilt mot obehörig eller otillåten behandling och mot förlust, förstöring
+eller annan oavsiktlig skada.
+Sammanfattande bedömning
+Datainspektionen anser att Polismyndigheten har ett berättigat intresse av att
+behandla personuppgifter på det sätt man föreslagit. Polismyndigheten har
+enligt nationella regler en uttalad uppgift att förebygga, förhindra eller
+upptäcka brottslig verksamhet, utreda eller lagföra brott eller upprätthålla
+allmän ordning och säkerhet.
+Med hänsyn till de åtgärder som Polismyndigheten har vidtagit för att
+begränsa intrånget i enskildas integritet anser Datainspektionen att det är
+möjligt för Polismyndigheten att göra en selektering på det sätt som beskrivs i
+förhandssamrådet. Detta förutsätter dock att frågan om längsta tid som
+personuppgifter får behandlas utreds innan den planerade verksamheten
+påbörjas.
+Med detta svar avslutas ärendet.
+---------------------------Detta yttrande har beslutats av enhetschefen Charlotte Waller Dahlberg efter
+föredragning av juristen Linda Olander. I den slutliga handläggningen har
+även datarådet Agneta Runmarker, chefsjuristen Hans-Olof Lindblom och
+it-säkerhetsspecialisten Johan Ma medverkat.
+
+Charlotte Waller Dahlberg
+
+

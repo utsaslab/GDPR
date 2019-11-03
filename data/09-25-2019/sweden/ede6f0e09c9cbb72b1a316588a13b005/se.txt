@@ -1,0 +1,178 @@
+Datum
+
+Diarienr
+
+2019-06-27
+
+DI-2019-7309
+
+Till Nordic Tech House AB
+linus@nordictechhouse.com
+
+Tillsyn
+Datainspektionen har beslutat att granska er planerade
+personuppgiftsbehandling och har inlett ett tillsynsärende. Ni behöver därför
+svara på våra frågor.
+Varför granskar Datainspektionen er verksamhet?
+Datainspektionen har genom uppgifter i media uppmärksammats på att
+Nordic Tech House AB har för avsikt att använda en teknik som möjliggör
+analys av ansiktsbilder på butiksbesökare i syfte att bl.a. avgöra kön, ålder,
+ansiktsuttryck och om en viss besökare är återkommande.1 Enligt uppgift
+kommer ansiktsanalystekniken att börja testas för ovan nämnda syften i en
+butik inom kort, nedan benämnt ”testprojektet”.
+Datainspektionen har beslutat att inleda tillsyn mot Nordic Tech House AB
+för att granska den personuppgiftsbehandling som testprojektet kommer
+innefatta.
+Våra frågor
+Datainspektionen vill inledningsvis att ni svarar på frågorna 1-2 nedan.
+Personuppgiftsansvarig och personuppgiftsbiträde
+1.
+
+Vilket bolag är personuppgiftsansvarig för de
+personuppgiftsbehandlingar som kommer ske inom testprojektet?
+2. Kommer det finnas ett personuppgiftsbiträde för de
+personuppgiftsbehandlingar som kommer ske inom testprojektet?
+Vilket bolag är i sådant fall personuppgiftsbiträde?
+
+1
+
+https://www.svt.se/nyheter/inrikes/darfor-vill-butiker-lagra-information-om-ditt-ansikte
+
+(hämtad 2019-06-26 kl. 12:37)
+
+Postadress: Box 8114, 104 20 Stockholm
+Webbplats: www.datainspektionen.se
+
+E-post: datainspektionen@datainspektionen.se
+Telefon: 08-657 61 00
+
+1 (5)
+
+Datainspektionen
+
+DI-2019-7309
+
+Om ni anser att ni är personuppgiftsansvarig för personuppgiftsbehandlingar
+inom testprojektet vänligen svara på frågorna 3-15 nedan.
+Allmänna frågor om testprojektet
+3. Beskriv kortfattat hur ni planerar att använda ansiktsanalys inom
+ramen för testprojektet. Beskriv även övergripande hur er
+ansiktsanalysteknik fungerar. Bifoga övergripande
+ritning/flödesschema över ansiktsanalystekniken.
+4. Beskriv kortfattat hur personuppgifter kommer behandlas inom
+ramen för testprojektet.
+5. När planerar ni att inleda testprojektet och hur länge kommer det att
+pågå?
+Personuppgifter och rättslig grund
+6. Vilka personuppgifter kommer att behandlas inom testprojektet?
+7. I det fall ni anser att personuppgifterna kommer vara anonymiserade2,
+förklara hur ni avser att anonymisera personuppgifterna?
+8. För vilket eller vilka ändamål kommer personuppgiftsbehandlingen
+inom testprojektet att ske?
+9. Vilken rättslig grund enligt artikel 6 i dataskyddsförordningen3
+kommer ni att stödja er personuppgiftsbehandling inom testprojektet
+på? Förklara hur ni resonerat och motivera varför ni har valt er
+rättsliga grund.
+10. Hur många personer (kunder respektive personal samt övriga
+besökare) kommer uppskattningsvis att få sina personuppgifter
+behandlade inom testprojektet?
+11. Anser ni att testprojektet i någon del kommer innebära behandling av
+känsliga personuppgifter, t.ex. biometriska uppgifter4, på sådant sätt
+som avses i artikel 9.1 i dataskyddsförordningen?
+
+För ytterligare information om avidentifieringsmetoder: se Artikel 29-gruppens yttrande
+05/2014 om avidentifieringsmetoder: https://ec.europa.eu/justice/article29/documentation/opinion-recommendation/files/2014/wp216_sv.pdf
+3 Europaparlamentets och rådets förordning (EU) 2016/79 av den 27 april 2016 om skydd
+för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet
+av sådana uppgifter och om upphävande av direktiv 95/46/EG.
+4 Se artikel 4.14 i dataskyddsförordningen.
+2
+
+2 (5)
+
+Datainspektionen
+
+DI-2019-7309
+
+a. Om nej, förklara hur ni resonerat och motivera varför er
+personuppgiftsbehandling inte kommer omfattas av förbudet
+att behandla känsliga personuppgifter enligt artikel 9.1 i
+dataskyddsförordningen.
+b. Om ja, vilket undantag enligt artikel 9.2 i
+dataskyddsförordningen kommer ni att stödja er behandling
+på? Förklara hur ni resonerat och motivera varför ni har valt
+det undantaget.
+i. Hur många personer (kunder respektive personal
+samt övriga besökare) kommer uppskattningsvis att få
+sina känsliga personuppgifter, t.ex. biometriska
+uppgifter, behandlade inom testprojektet?
+Konsekvensbedömning och förhandssamråd
+12. Har ni inför testprojektet gjort en konsekvensbedömning enligt artikel
+35 i dataskyddsförordningen? Om en konsekvensbedömning har
+gjorts vänligen lämna in den tillsammans med ert svar på dessa frågor.
+13. Har ni inför testprojektet inkommit med begäran om förhandssamråd
+enligt artikel 36 i dataskyddsförordningen? Om inte, motivera varför
+så inte har skett.
+Information till de registrerade
+14. Vilken information till de registrerade kommer ni att lämna och hur
+kommer den informationen lämnas inom testprojektet för att
+säkerställa att ni uppfyller kraven enligt artikel 12 och 13 i
+dataskyddsförordningen?
+
+3 (5)
+
+Datainspektionen
+
+DI-2019-7309
+
+Tekniska och organisatoriska säkerhetsåtgärder
+15. Vilka tekniska och organisatoriska säkerhetsåtgärder kommer ni att
+vidta för att säkerställa en lämplig säkerhetsnivå enligt artikel 5.1 f)
+och artikel 32 i dataskyddsförordningen?
+
+Ert svar
+Svara skriftligt till Datainspektionen senast den 22 juli 2019.
+Förutsatt att svaret inte innehåller några integritetskänsliga personuppgifter
+eller uppgifter som kan omfattas av sekretess, kan ni e-posta det till
+datainspektionen@datainspektionen.se och referera till vårt diarienummer
+DI-2019-7309.
+Vänligen notera att det ni skickar in till Datainspektionen blir allmän
+handling. Om en handling begärs ut gör vi en sekretessprövning för att
+bedöma om uppgifterna i handlingen ska vara sekretessbelagda eller inte. Vi
+beslutar sedan om uppgifterna kan lämnas ut, i sin helhet eller delvis.
+Måste ni svara Datainspektionen?
+Ja, Datainspektionen är tillsynsmyndighet enligt dataskyddsförordningen.
+Det innebär att vi får begära att ni lämnar all information som
+Datainspektionen behöver för att vi ska kunna fullgöra våra uppgifter som
+tillsynsmyndighet.5
+Vad händer sen?
+När Datainspektionen är färdig med granskningen kommer ni att få ett
+beslut. Där kommer ni att få besked om eventuella brister i ert dataskydd
+och om ni måste vidta några korrigerande åtgärder. Datainspektionen kan
+exempelvis påföra administrativa sanktionsavgifter och utfärda varningar om
+att planerade behandlingar sannolikt strider mot dataskyddsförordningen.6
+
+5
+
+Artikel 58.1 i dataskyddsförordningen.
+
+6
+
+Artikel 58.2 och artikel 83-84 i dataskyddsförordningen.
+
+4 (5)
+
+Datainspektionen
+
+DI-2019-7309
+
+Om ni har frågor kontakta Nils Henckel på telefonnummer 08-657 61 23.
+Med vänlig hälsning
+Nils Henckel, 2019-06-27 (Det här är en elektronisk signatur)
+
+Information om Datainspektionen behandling av personuppgifter
+https://www.datainspektionen.se/om-oss/information-om-hurdatainspektionen-behandlar-personuppgifter/
+
+5 (5)
+
+

@@ -1,0 +1,638 @@
+SKRIVELSE
+Datum
+
+Dnr
+
+2019-10-31
+
+2019/915
+
+Angående 2020 års forskningspolitiska
+proposition
+
+Förslag
+
+Konsumentverket, Konkurrensverket och Datainspektionen föreslår att
+regeringen i den kommande forskningspolitiska propositionen inkluderar
+följande:
+- Att lyfta fram betydelsen av integrerad och tvärvetenskaplig forskning
+kring digitala och datadrivna marknader och hur de använder
+personuppgifter, användardata och andra data och vilka effekter som kan
+uppstå ur ett konsument-, integritets- och konkurrensperspektiv, vilket kan
+ske genom att integrera dessa perspektiv i de nationella
+forskningsprogrammen.
+- Att lämpligt forskningsråd ges i uppdrag att i samverkan med
+myndigheterna genomföra en tematisk utlysning av forskningsmedel med
+fokus på digitala och datadrivna marknader och hur de använder
+personuppgifter, användardata och andra data.
+- Att forskningsförutsättningarna och kompetensförsörjningen inom de
+olika ämnena stärks genom att verka för att skapa och utveckla excellenta
+fler- och tvärvetenskapliga forskningsmiljöer som forskar kring och
+integrerar perspektiv kring konsumentskydd, integritet och konkurrens på
+digitala och datadrivna marknader.
+
+Postadress
+
+Fakturaadress
+
+Besöksadress
+
+Telefon/Fax
+
+E-post/webbadress
+
+Bankgiro
+
+Org.nr
+
+Box 48
+651 02 Karlstad
+
+FE 64
+838 73 Frösön
+
+Tage Erlandergatan 8A
+
+0771-42 33 00
+054-19 41 95
+
+konsumentverket@konsumentverket.se
+www.konsumentverket.se
+
+5050-2806
+
+202100-2064
+
+Datum
+
+Dnr
+
+2019-10-31
+
+2019/915
+
+Bakgrund
+Regeringen har i samband med den kommande forskningspolitiska
+propositionen bjudit in Konsumentverket att komma med synpunkter på
+regeringens forskningspolitik och lämna inspel till den kommande
+propositionen.1
+Inför den föregående forskningspolitiska propositionen som lämnades 20162
+lyfte Konsumentverket fram vikten av konsumentrelaterad forskning kopplat
+till ett antal centrala samhällsutmaningar:3
+
+
+
+
+
+Digitaliseringen av samhället
+Hållbar konsumtion
+Sårbara och utsatta konsumenter
+
+I arbetet med det inspel som redovisas i denna promemoria har perspektivet
+breddats och inspelet har tagits fram som ett gemensamt inspel från
+Konsumentverket, Konkurrensverket och Datainspektionen. Eftersom det finns
+många beröringspunkter mellan respektive myndighets uppdrag och
+arbetsområden finns det samhällsutmaningar som är gemensamma och
+därmed även gemensamma behov av kunskap och forskning.
+Inspelet utgår ifrån de prioriterade samhällutmaningar som regeringen har lyft
+fram i den senaste forskningspolitiska propositionen. Vi har valt ut två av
+dessa, en ökad digitalisering och att skapa ett säkert, inkluderande och
+hållbart samhälle, som särskilt relevanta utifrån våra myndigheters horisont.
+Dessa beskrivs närmare i nästa avsnitt med fokus på de utmaningar som våra
+myndigheter står inför utifrån våra uppdrag. Sedan diskuteras hur
+kunskapsläget och forskningsförutsättningarna ser ut på dessa områden.
+Avslutningsvis diskuteras och ges förslag på hur forskningsförutsättningarna
+bör förändras för att våra myndigheter inom ramen för sina uppdrag ska kunna
+arbeta med utmaningarna på ett effektivt sätt.
+
+Aktuella samhällsutmaningar
+I den senaste forskningspolitiska propositionen 2016 presenterades målet för
+forskningspolitiken: Sverige ska vara ett av världens främsta forsknings- och
+innovationsländer och en ledande kunskapsnation där högkvalitativ
+forskning, högre utbildning och innovation leder till samhällets utveckling och
+välfärd, näringslivets konkurrenskraft och svarar mot de
+samhällsutmaningar vi står inför, både i Sverige och globalt.
+
+Utbildningsdepartementet, Ref U2019/02263/UH.
+Prop. 2016/17:50
+3 Konsumentverket, PM, Angående 2016 års forskningspolitiska proposition, Dnr
+2015/1385
+1
+
+2
+
+2
+(12)
+
+Datum
+
+Dnr
+
+2019-10-31
+
+2019/915
+
+I propositionen lyftes fem prioriterade områden fram där det finns centrala
+samhällsutmaningar:
+1. Klimat- och miljö
+2. Hälsa
+3. Ökad digitalisering
+4. Skapa ett säkert, inkluderande och hållbart samhälle
+5. Förbättra kunskapsresultaten i det svenska skolväsendet
+Vidare ska Agenda 2030 och de globala hållbarhetsmålen vara vägledande vid
+identifiering av samhällsutmaningar. I januariavtalet mellan
+Socialdemokraterna, Centerpartiet, Liberalerna och Miljöpartiet anges även
+flera insatser där de offentliga forskningsinsatserna kan stärka
+konkurrenskraften och kompetensförsörjningen och bidra till utvecklingen av
+ett hållbart samhälle.
+I detta inspel kommer fokus att ligga på utmaningarna avseende en ökad
+digitalisering och att skapa ett säkert, inkluderande och hållbart samhälle. I
+dessa utmaningar ser vi starka kopplingar till respektive myndighets uppdrag
+och gemensamma behov av forskningsinsatser.
+
+En ökad digitalisering
+Den pågående digitaliseringen påverkar medborgare och konsumenter på ett
+påtagligt sätt. Den digitala utvecklingen erbjuder en rad nya möjligheter för
+konsumenterna i form av nya och billigare varor och tjänster från hela världen.
+Nya förutsättningar ges för transparens och konsumentinflytande, men också
+för nya risker, en bristande konkurrens och integritetskränkande missbruk av
+den stora och växande tillgången till personuppgifter.
+Det ställs allt högre krav på konsumenten eftersom denne får allt svårare att
+bedöma allt komplexare produkter och produktmixer på allt större och
+oöverskådliga marknader. En fråga är hur instabiliteten, oförutsägbarheten och
+den höga innovationstakten påverkar de sårbara konsumentgrupper som
+riskerar att hamna i ett kunskapsunderläge visavis producenterna. Det innebär
+en ökad riskexponering för de som inte förstår eller som inte hänger med i den
+snabba utvecklingen.
+I samband med den ökade e-handeln har strukturen på e-handeln förändrats så
+att stora plattformar som t. ex Amazon står för en allt större del av handeln.
+Plattformarna kan vara av olika slag reklamplattformar, marknadsplatser,
+sökmotorer, jämförelsesajter och betalningssystem. Flera av dessa olika typer
+är relaterade till varandra och skapar eko-system för plattformar. För många
+konsumenter har utvecklingen av plattformar generellt sett inneburit många
+positiva fördelar. I dagsläget är det dock svårt att uppskatta hur
+plattformsmarknaderna påverkar konsumenternas förutsättningar på längre
+
+3
+(12)
+
+Datum
+
+Dnr
+
+2019-10-31
+
+2019/915
+
+sikt. Dominerande plattformar kan t. ex skapa inlåsningseffekter som påverkar
+konsumenternas valmöjligheter och därmed möjligheterna för nya plattformar
+att ta sig in på marknaden.
+Det faktum att många konsumenter har sitt fotografi i öppna profiler på sociala
+medier skapar också möjligheter för såväl offentliga som privata aktörer att
+bygga upp enorma databaser med ansiktsbilder. Även om bilderna inte alltid är
+kopplade till ett namn är det med modern ansiktsigenkänningsteknik möjligt
+att identifiera enskilda individer eftersom varje ansikte är unikt. Vilka risker
+som finns med denna typ av dataanvändning - såväl för den enskilde som för
+samhället - är fortfarande i stor utsträckning en teoretisk diskussion mer än en
+empirisk.
+I takt med att samhället och medborgarnas liv digitaliseras genereras enorma
+mängder data som i allt större utsträckning fångas upp, lagras, analyseras och
+förädlas. Datainsamling, analys och bearbetning har därför blivit en naturlig
+och integrerad del av många verksamheter och affärsmodeller.
+I nuläget är en viktig drivkraft bakom den digitala ekonomins utveckling den
+ökade användningen av individdata. Denna utveckling har ytterligare förstärkts
+genom utveckling av tjänster baserade på AI och algoritmer som är beroende av
+stora datamängder. En stor och viktig del av dessa individdata utgörs av
+uppgifter om användarnas användning av tjänsten. Tillgången till data är en
+central del av affärsmodellen för många företag. Även när bearbetning och
+analys av data inte är en del av kärnverksamheten erbjuder tillgången till
+personuppgifter stora möjligheter för företag, bland annat i form av
+direktmarknadsföring, profilering och analys av konsumtionsmönster för att
+utveckla nya varor eller tjänster. Detta innebär att personuppgifter inte bara
+används till att beskriva konsumenter och deras behov och önskningar, utan
+även till att förutse framtida behov. De insamlade uppgifterna kan användas av
+företaget själv, delas med samarbetspartners i utbyte mot annat eller säljas
+vidare. Givet de många möjligheter som tillgången till data erbjuder finns en
+risk att företag samlar in mer personuppgifter än de behöver eller har laglig rätt
+att hantera. Det finns också en uppenbar risk för missbruk och att uppgifter
+säljs vidare vilket innebär att konsumenter förlorar kontroll över sina
+persondata.
+De datadrivna plattformarna kan ofta erbjuda fördelar för konsumenterna,
+bland annat kan de erbjuda skräddarsydda tjänster som är anpassade efter
+individens behov och förutsättningar. Ett problem är att enskilda individer inte
+har kontroll på vilka data man delar med sig av eller hur data används, sprids
+och man vet inte vad man gett sitt tillstånd till. För företagen innebär en ökad
+tillgång till data om individer att marknadsföring och erbjudanden kan
+individanpassas, vilket också gör det svårare för konsumenterna att jämföra.
+Detta kan ge företagen större marknadsmakt.
+
+4
+(12)
+
+Datum
+
+Dnr
+
+2019-10-31
+
+2019/915
+
+Den ökade expansionen av datadrivna marknader tillsammans med avancerade
+datatillämpningar har gjort att frågor kring integritet, konsumentskydd och
+bristande konkurrens blir allt viktigare och det blir allt mer tydligt att dessa tre
+aspekter har stora beröringspunkter och går allt mer in i varandra. En viktig
+aspekt här är hur skyddet för den personliga integriteten och
+konsumentskyddet förhåller sig till varandra.
+På konsumentområdet handlar det om hur konsumenten kan kontrollera vilka
+data som man ger sitt medgivande till att dela med sig och till vilka ändamål.
+De data som man delar med sig av kan användas för att skapa riktad
+marknadsföring och individualiserade erbjudanden. Denna utveckling
+försvårar möjligheten att bedriva en effektiv tillsyn och säkerställa ett gott
+konsumentskydd.
+Problemen som kan uppstå inom konsumentområdet har tydliga
+beröringspunkter med individens integritet avseende kontroll över de
+personuppgifter som används. Den nya dataskyddslagstiftningen ställer stora
+krav på hantering av personuppgifter och att individen ska ha fullgod kontroll
+över hur de används. I dag är konsumenten sällan medveten om vilka data man
+delar med sig av och vad man faktiskt gett sitt medgivande till, bland annat för
+att det är svårt att ta till sig och förstå användarvillkor. Även om lagstiftningen
+på dataskyddsområdet har skärpt kraven på information till konsumenterna
+om vilka personuppgifter som samlas in och hur de används, visar flera
+undersökningar att väldigt få medborgare tar del av informationen eller
+upplever sig ha tillräcklig kunskap om hur deras personuppgifter faktiskt
+används. Denna osäkerhet skapar oro, vilket i sin tur kan leda till att
+konsumenterna avstår från att använda en tjänst, lämnar ifrån sig mer
+personuppgifter än man egentligen önskar, eller utsätts för onödiga eller
+omedvetna integritetsrisker.
+Utvecklingen av datadrivna marknader och plattformar påverkar också
+marknadernas funktionssätt och konkurrensförhållandena. Dominerande
+plattformar kan genom sina tillgångar till stora mängder användardata få s.k.
+nätverkseffekter som i praktiken både kan låsa in sina användare och skapa
+hinder för andra aktörer att lansera liknande tjänster. Till exempel, kan det
+vara svårt för en ny tjänst för streamande musik att utmana en etablerad tjänst,
+eftersom befintliga aktörer kunnat samla in stora mängder användardata som
+de kan använda för att ge användarna förslag på musik som bygger på vad de
+själva och andra brukar lyssna till. För användarna kan nätverkseffekterna
+innebära ett stort mervärde, men det innebär samtidigt att de har låga
+incitament att välja andra plattformar som inte har tillgång till lika stora
+mängder användardata. För att kunna dra nytta av tjänsterna kan det också
+vara svårt att inte acceptera de användarvillkor som plattformen sätter upp,
+särskilt eftersom det ofta är svårt för användarna att förstå vilka uppgifter som
+samlas in och hur de sedan kommer att användas. Rätten till så kallad
+dataportabilitet, det vill säga att få ut och flytta ”sin” data regleras i
+
+5
+(12)
+
+Datum
+
+Dnr
+
+2019-10-31
+
+2019/915
+
+dataskyddslagstiftningen, men få konsumenter känner till rättigheten eller har
+använt den.
+Eftersom aktörerna på de datadrivna marknaderna är beroende av att ha
+tillgång till data, så kan nätverkseffekterna hämma konkurrensen och ge
+upphov till monopolliknande situationer. En bredare och mer jämlik tillgång på
+data reser dock frågor kring hur integritet och konsumenternas inflytande över
+dataanvändning ska hanteras.
+Sammantaget medför den digitala ekonomins utveckling att ett samlat
+perspektiv kring integritet, konsumentskydd och marknadsmakt är nödvändigt
+och att perspektiven behöver integreras i forskningen framöver, vilket bland
+annat ställer större krav på tvärvetenskaplighet. Sådan kunskap är av vikt för
+att kunna hantera digitaliseringens utmaningar och realisera de
+samhällsekonomiska vinster som digitaliseringen kan ge.
+
+Skapa ett säkert, inkluderande och hållbart samhälle
+Det alltmer datadrivna samhället påverkar inte bara ekonomin och
+marknadernas utveckling utan innehåller också aspekter kopplade till säkerhet,
+inkludering och hållbarhet.
+Den ökade betydelse av personuppgifter skapar risker som behöver beaktas när
+det gäller datasäkerhet och behovet av att skydda personuppgifter från att falla
+i orätta händer. Ny teknik skapar ytterligare även andra typer av integritetsoch säkerhetsutmaningar för konsumenter. Ett exempel är förekomsten av allt
+mer uppkopplad utrustning i hemmet – allt från vitvaror och belysning till lås
+och larm eller musikutrustning. Med fler uppkopplade och smarta enheter i
+hemmen utsätts konsumenterna för ökade risker i form av it-brott, där
+säkerhetsbrister i de smarta enheterna kan användas för att till exempel
+komma över kortuppgifter eller lösenord. Andra exempel är ofrivillig eller
+omedveten kartläggning som kan ske av konsumenter genom platsdata via
+mobilpositionering i appar eller uppkopplade bilar.
+Vidare är det angeläget att säkerställa att data inte används för ändamål som
+inte är avsedda och som kan vara skadliga för samhället, vilket t. ex Cambridge
+Analytica-skandalen visar.4
+I en tid där utländska statliga eller statsunderstödda aktörer utgör det
+allvarligaste informations- och cybersäkerhetshotet går det inte att bortse från
+kopplingarna mellan dataskydd för konsumenter, informationssäkerhet och
+
+Denna skandal handlade om hur data från Facebook på ett otillbörligt sätt
+hamnade i analysföretaget Cambridge Analyticas händer och användes för att
+påverka utgången i det senaste amerikanska presidentvalet.
+4
+
+6
+(12)
+
+Datum
+
+Dnr
+
+2019-10-31
+
+2019/915
+
+samhällets säkerhet. I slutänden handlar det om att bevara människornas tillit
+till de samhällsaktörer som hanterar personuppgifter. Utan den tilliten så
+kommer inte det digitala samhället att fungera på ett bra sätt.
+Integritets- och konsumentskyddet kommer även in när det gäller möjligheten
+till delaktighet i det digitala samhället. En användning av personuppgifter för
+att profilera olika individer kan medföra att vissa individer klassas som
+”olönsamma” och inte får möjlighet att ta del av tjänster som andra får ta del
+av. Det kan t. ex handla om möjligheten att teckna försäkring. Risker finns
+också att algoritmer befäster befintliga konsumtionsmönster på ett sätt som
+ytterst får en diskriminerande effekt.
+Detta pekar på behovet av etiska diskussioner kring användningen av
+personuppgifter och forskning kopplad till etiska aspekter av digitaliseringen
+och tillämpningen av AI. I detta sammanhang ingår det även att ta fram mer
+kunskap kring förekomsten av eventuella målkonflikter mellan integritet,
+konsumentskydd och konkurrens, så att regleringar av marknaderna kan ske
+från ett helhetsperspektiv.
+Digitaliseringen av ekonomin och den ökade gränsöverskridande e-handeln
+medför en direkt säkerhetsaspekt att produkter som inte är säkra kan
+inhandlas av konsumenter i Sverige, vilket innebär att digitaliseringen skapar
+utmaningar för arbetet med produktsäkerhetsfrågor. Dessutom skapar
+digitaliseringen behov av att tänka nytt kring vilka nya risker som uppstår och
+vad som är en skada i det digitala samhället.
+Den ökande e-handeln ger också upphov till utmaningar när det gäller
+miljömässig hållbarhet. Ökad e-handel ger upphov till mer transporter och det
+är viktigt att dessa sker på ett hållbart sätt, så att miljö- och klimatpåverkan
+minimeras. Ökad gränsöverskridande e-handel kan också få konsekvenser för
+social hållbarhet, då det kan vara svårt att få kunskap om under vilka villkor
+som varorna är producerade.
+
+Kunskapsbehov och forskningsförutsättningar
+Det pågår en hel del forskning i dagsläget kring de frågeställningar och problem
+som beskrivits ovan, men vår bedömning är att det inte är tillräckligt med
+hänsyn till utmaningarnas omfattning och digitaliseringens snabba utveckling.
+Inom integritetsområdet finns en del forskning kring ”integritetsparadoxen”,
+det vill säga att många människor, trots oro för hur deras personuppgifter
+används, fortsätter att dela med sig av data. Flera lärosäten driver också
+forskning på temat ökad transparens – hur kan medborgarnas kunskap om och
+kontroll över vilka personuppgifter som samlas in och används öka? En aspekt
+av detta handlar om de digitala spår som alla medborgare efterlämnar och hur
+lätt eller svårt det är att identifiera enskilda individer i stora datamängder.
+
+7
+(12)
+
+Datum
+
+Dnr
+
+2019-10-31
+
+2019/915
+
+Vidare pågår data- och systemvetenskaplig forskning kring säkrare
+molntjänster samt ökad säkerhet kopplad till användning av mobilappar och
+uppkopplade enheter i hemmet. Pågående forskning finns också för att ta fram
+verktyg och modeller som underlättar efterlevnaden av
+dataskyddsförordningen i olika privata och offentliga verksamheter.
+Inom konsumentområdet finns det även en växande forskning kring
+digitalisering och konsumentbeteende och hur konsumenterna påverkas av nya
+former av marknadsföring som möjliggörs av de nya tekniska möjligheterna,
+bland annat AI och användning av personuppgifter.
+Inom konkurrensområdet har Konkurrensverket initierat forskning om bland
+annat hur blockkedjeteknik tillämpas5, hur prisjämförelsesajter påverkar
+prissättningen på internetplattformar6 och om digitaliseringen av juridiska
+tjänster7. Konkurrensverkets uppdrag är dock begränsat till att stimulera
+forskning som tydligt anknyter till verkets ansvarsområden dvs. om konkurrens
+och offentlig upphandling. Behovet av bredare och djupare forskning om hur
+t.ex. digitala plattformar fungerar och dess effekter på konsumenter och deras
+integritet är avsevärt större än vad som ryms och kan motiveras inom
+Konkurrensverkets forskningsanslag.
+
+Angelägna forskningsområden
+Vår bedömning är det generellt behövs mer forskning om digitalisering och
+dess effekter för samhället, dvs marknader, organisationer, företag och
+konsumenter men även om den infrastruktur som ligger till grund för denna
+utveckling.
+Det innebär att det behövs ett ökat fokus på datadriven och digitalt driven
+innovation och forskning bland universitet och företag. Det behövs även mer
+kunskap om vilka kunskaper och färdigheter som konsumenterna behöver i
+dagens komplexa digitala landskap och hur stort konsumenternas skyddsbehov
+online är. Dessa frågor är inte specifika för Sverige, utan det bedrivs forskning
+inom detta område i andra länder, men det är viktigt att det också bedrivs
+forskning i Sverige på svenska förhållanden, för att säkerställa att den kunskap
+som tas fram är relevant i ett svenskt sammanhang. Det är naturligtvis viktigt
+för oss i Sverige att ta till oss resultaten från internationell forskning och även
+
+Pontus Lindblom 2019, Blockkedjeteknik utifrån ett konkurrensperspektiv, KKV
+uppdragsforskningsrapport 2019:4
+6 Niklas Rudholm 2019, Prisspridning på e-handelsmarknader med låga
+sökkostnader, KKV uppdragsforskningsrapport 2019:1
+7 Christian Sandström, 2017, Disruptiv digitalisering inom
+marknaden för juridiska tjänster. Snabb evolution eller teknisk revolution?
+KKV uppdragsforskningsrapport 2017:4.
+5
+
+8
+(12)
+
+Datum
+
+Dnr
+
+2019-10-31
+
+2019/915
+
+verka för internationell forskning inom detta område, t. ex. inom ramen för
+EU:s forskningsprogram.
+Utöver detta vill vi här lyfta fram några ytterligare områden som vi ser som
+angelägna. Dessa ska dock inte ses som någon uttömmande lista.
+Att värna integritet och dataskydd är att värna demokratin. Kränkning av den
+personliga integriteten riskerar att slå tillbaka på tilliten för hela samhället.
+Samtidigt är stora mängder öppna data på många sätt en förutsättning för att
+Sverige inte ska halka efter när det gäller innovation och tillväxt. Forskning
+som ger vägledning i hur företag kan gå tillväga – utom lagstiftningens krav,
+snarare i termer av dataetik –skulle därför kunna bidra till att främja en
+fortsatt hållbar digitalisering. Det är viktigt att öka kunskapen om hur företag
+och organisationer, inte minst kommersiella plattformar, samlar in och
+använder olika former av data, särskilt individ- och användardata men även
+andra former av data som finns tillgängligt digitalt. Det finns också behov av
+mer forskning om risker och konsekvenser med stora mängder ”anonym” data.
+Hur enkelt är det att identifiera enskilda användare? Finns konkreta risker som
+går att stödja empiriskt att de realiserats?
+Det finns en växande diskussion om den enskilde konsumenten och
+medborgarens rätt till sina egna data. Benämningar som ”my data” används för
+att beskriva koncept som utgår från den enskilde konsumentens behov och
+intressen, snarare än företagens incitament att använda data. Sannolikt
+kommer tjänster att utvecklas som gör det enklare för den enskilde att sälja sin
+data. Risken finns att handel med data blir en företeelse för ett fåtal särskilt
+kunniga och intresserade. De näst intill orimliga kunskapskrav som ställs på
+den enskilde medborgaren för att kunna göra initierade riskavvägningar kring
+transaktioner med personuppgifter väcker också etiska frågor. Forskningen
+skulle sannolikt kunna bidra med idéer och ramverk som kan bidra till att
+förebygga risker både för den enskilde och på samhällsnivå.
+Det faktum att majoriteten av konsumenterna uppger att de inte vet vilka
+uppgifter som samlas in om dem, och inte heller hur de används, leder till viss
+oro över att inte ha kontroll över sina data. Med tiden kommer sannolikt
+kunskapen hos medborgare kring både insamling och användning av data att
+öka, vilket innebär att både inställning och beteendet kommer att ändras när
+det gäller att dela med sig av data och personuppgifter. Hur konsumenternas
+inställning kommer att förändras och hur de kommer att agera när det gäller
+att dela data är osäkert. Det finns studier som till exempel visar att ju mer vana,
+insatta och kunniga medborgare är i ny teknik, desto mer benägna (och
+positiva) är vi att dela med oss. Samtidigt framgår att vi allt större utsträckning
+väljer att dela med oss av data i olika syften och i olika sammanhang, bland
+annat beroende på förtroende för leverantören samt i vilken utsträckning vi ser
+att vi har nytta av att dela med oss av data. Här finns uppslag för forskning när
+
+9
+(12)
+
+Datum
+
+Dnr
+
+2019-10-31
+
+2019/915
+
+det gäller att förutse utvecklingen inom både näringsliv och
+konsumentbeteende. En särskild fråga är hur och i vilken utsträckning
+plattformar delar med sig och använder data från andra plattformar.
+AI och blockkedjeteknik pekas ofta ut som tekniker som kommer att förändra
+marknader och beteenden i många avseenden, men kunskapen om hur de
+används och i vilken utsträckning är mycket begränsad. Det är angeläget att
+användningen av dessa tekniker beskrivs och kvantifieras för att kunna bedöma
+effekterna för konsumenter, integritet och konkurrens på berörda områden.
+Slutligen ser vi ett behov av forskning för att ta fram modeller och verktyg som
+kan stödja konsumenter i att enkelt och användarvänligt bedöma olika
+tjänsters integritetsrisker och integritetsskydd. Även forskning som på olika
+sätt kan bedöma effektiviteten - ur konsumentens perspektiv - i olika typer av
+integritetsskyddsinformation. För vilken typ av situationer, konsumenter och
+tjänster är till exempel olika typer av menyer över integritets- och
+säkerhetsinställningar (så kallade dashboards), just in time-notifieringar,
+ikoner eller annan funktionalitet i smarta telefoner mest effektiva – ur den
+enskilde konsumentens perspektiv?
+
+Forskningens förutsättningar
+Inom alla de områden som vi pekat ut ovan pågår det forskning, men vår
+bedömning är att det finns risk för en fragmentisering av forskningen, vilket
+inte minst försvårar en integrering av perspektiv och tvärvetenskaplighet.
+Vid en bedömning av de strukturella förutsättningarna för forskning om
+digitala plattformar och hur de använder personuppgifter, användardata och
+andra data och vilka effekter som kan uppstå ur ett konsument-, integritetsoch konkurrensperspektiv är det viktigt att betona behovet av att integrera
+perspektiv från alla tre områden och tvärvetenskapliga angreppssätt för att
+hantera de utmaningar som diskuterats tidigare i detta dokument. Även om de
+rådande strukturella förutsättningarna, trots den fragmentisering som finns,
+skapar möjligheter för forskning kring enskilda frågor, saknas stöd för att
+skapa mer av integrerad och tvärvetenskaplig forskning.
+På konsumentområdet har de kartläggningar Konsumentverket gjort tidigare
+och som beskrevs i verkets inspel till 2016 år forskningspolitiska proposition
+visat att en stor del av den konsumentrelaterade forskningen som finansieras
+och genomförs i Sverige motiveras av andra skäl än konsumentpolitik, till
+exempel tillväxtskäl eller för näringslivets behov. Konsumentfrågorna är till sin
+natur breda och forskning kring konsumentfrågor kan bedrivas inom många
+olika ämnen.
+Även om det på enskilda områden kan finnas en mer samlad
+forskningsfinansiering och det historiskt har funnits tillfälliga satsningar, t. ex
+
+10
+(12)
+
+Datum
+
+Dnr
+
+2019-10-31
+
+2019/915
+
+inom miljörelaterade konsumtionsfrågor, så är den samlade bilden fortfarande
+splittrad.
+Även om vi inte gjort någon genomgående kartläggning av förutsättningarna
+för forskning rörande integritet, så är vår bedömning att förhållandena är
+likartade. Forskningen kring integritet är under utveckling, bland annat med
+hänsyn till att dataskyddsreformen är förhållandevis ny. Vi bedömer här att det
+är viktigt att följa utvecklingen och säkerställa att förutsättningarna utvecklas
+på ett gynnsamt sätt.
+
+Slutsatser och förslag
+Mot bakgrunden av myndigheternas uppdrag och de aktuella
+samhällsutmaningar de forskningsbehov som finns så ser vi det angeläget att
+ambitionsnivån höjs vad gäller samhällets stöd för forskning om digitala
+plattformar och hur de använder personuppgifter, användardata och andra
+data och vilka effekter som kan uppstå ur ett konsument-, integritets- och
+konkurrensperspektiv. I den framtida forskningspolitiken behöver sålunda
+betydelsen lyftas fram av fler- och tvärvetenskaplig forskning kring digitala och
+datadrivna marknader och hur de använder personuppgifter, användardata och
+andra data och vilka effekter som kan uppstå ur ett konsument-, integritetsoch konkurrensperspektiv. Mycket av den forskning som behövs bedrivs inom
+ramen för olika ämnen, men vi ser ett behov av att komplettera med fler- och
+tvärvetenskaplig forskning för att säkerställa att alla viktiga aspekter av
+samhällsutmaningarna kring digitalisering tas om hand.
+Vi vill också framhålla att ett ökat stöd inom digitaliseringsområdet kommer
+att bidra till det övergripande målet för forskningspolitiken om att Sverige ska
+vara en ledande forskningsnation. Ökad kunskap kommer att ge Sverige större
+möjligheter att realisera digitaliseringens potential med mindre risk för
+negativa sidoeffekter.
+Vi vill också betona vikten av att det jämte grundforskning i
+finansieringsstrukturen måste finnas vägar för behovsidentifierad forskning
+och myndighetsinitierade forskningsinsatser. De möjligheter som
+myndigheterna har i dag att finansiera uppdragsforskning och annan
+kunskapsinhämtning är viktiga och ska bestå, men de behöver kompletteras
+med andra insatser för att säkerställa långsiktighet i forskningsarbetet och
+säkerställa att myndigheterna även på lång sikt har tillgång till relevant
+forskningskunskap för att lösa sina uppdrag. Framför allt Konsumentverket
+och Datainspektionen som inte har tillgång till egna forskningsmedel är
+beroende av att det bedrivs forskning inom myndigheternas
+verksamhetsområden.
+
+11
+(12)
+
+Datum
+
+Dnr
+
+2019-10-31
+
+2019/915
+
+Det går också att konstatera att även om det är möjligt för forskare att finna
+finansieringsmöjligheter hos olika aktörer, så är bilden splittrad och det finns
+inte så många tydliga spår hos de statliga forskningsråden som ägnas åt de
+frågor som beskrivits i de föregående avsnitten. Forskare som vill ägna sig åt
+dessa frågor tvingas att konkurrera med andra forskningsinriktningar i
+utlysningar och program som formulerats utifrån andra utgångspunkter.8 De
+fler- och tvärvetenskapliga perspektiv som i många fall är nödvändiga för att
+hantera de utmaningar som diskuterats försvåras också av den fragmentiserade
+strukturen.
+För att skapa bättre förutsättningar föreslår vi att regeringen ger något av
+forskningsråden i uppdrag att genomföra en särskild utlysning kring digitala
+och datadrivna marknader och hur de använder personuppgifter, användardata
+och andra data och vilka effekter som kan uppstå ur ett konsument-,
+integritets- och konkurrensperspektiv. Utlysningen bör genomföras i
+samverkan med berörda myndigheter. Vi bedömer att de perspektiv som berörs
+i vårt inspel även bör integreras i de långsiktiga nationella
+forskningsprogrammen för att skapa långsiktighet, främja fler- och
+tvärvetenskaplighet och stärka samhällets möjligheter att hantera den
+samhällsutmaning som digitaliseringen medför.
+För att stärka kompetensen inom dessa forskningsområden föreslår vi även att
+det verkas för att skapa excellenta och tvärvetenskapliga forskningsmiljöer som
+forskar kring och integrerar perspektiv kring konsumentskydd, integritet och
+konkurrens på digitala och datadrivna marknader.
+
+Ett undantag är att området hållbar konsumtion blivit tydligare, där det finns mer
+av inriktade utlysningar, bla av FORMAS med kopplingar till det nationella
+forskningsprogrammet om hållbart samhällsbyggande.
+8
+
+12
+(12)
+
+

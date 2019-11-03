@@ -1,0 +1,10 @@
+
+Datainspektionen genomför nu en första inspektion av en av parterna kring rådgivningsnumret 1177 Vårdguiden. Företaget som inspekteras är Voice Integrate Nordic AB.
+– Enligt dataskyddsförordningen, GDPR, ska personuppgifter skyddas så att obehöriga inte kan komma åt dem och så att uppgifterna inte kan spridas på obefogade sätt. Både personuppgiftsansvariga och personuppgiftsbiträden har ett ansvar att vidta tillräckliga säkerhetsåtgärder. När det gäller känsliga personuppgifter som rör hälsa, är kraven särskilt stränga, säger Suzanne Isberg som leder Datainspektionens granskning.
+Den tillsyn som Datainspektionen nu inleder ska bland annat klargöra vad det är för slags personuppgifter som behandlas, i vilka it-system och vilka åtgärder som har vidtagits för att något liknande inte ska kunna ske framöver.
+– Det här är ett komplext ärende med flera olika aktörer. Det kommer att bli fråga om ytterligare granskningar av andra inblandade, säger Suzanne Isberg.
+Med på denna första inspektion är fyra jurister och två it-säkerhetsspecialister från Datainspektionen.
+– En viktig del i granskningen är att kartlägga flödet av personuppgifter mellan de olika it-systemen och hur uppgifterna skyddas, säger it-säkerhetsspecialist Magnus Bergström.
+Datainspektionen är tillsynsmyndighet för dataskyddsförordningen och patientdatalagen och kontrollerar bland annat att vårdgivare och deras personuppgiftsbiträden har vidtagit tillräckliga tekniska och organisatoriska åtgärder för att skydda personuppgifter.
+Läs mer om hur Datainspektionen arbetar med tillsyn och inspektioner
+För mer information kontaktaAvdelningsdirektör Suzanne Isberg, telefon 08-657 61 14IT-säkerhetsspecialist Magnus Bergström, telefon 08-657 61 30Presskontakt Gustav Linder, telefon 08-657 61 57

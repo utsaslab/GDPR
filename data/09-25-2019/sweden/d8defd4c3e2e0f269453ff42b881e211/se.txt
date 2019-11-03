@@ -1,0 +1,9 @@
+
+Datainspektionen drar nu igång en planerad granskning av åtta vårdgivare för att undersöka hur de reglerar användarnas åtkomst till uppgifter i huvudjournalsystemen. Enligt patientdatalagen ska personal endast kunna komma åt de patientuppgifter som de behöver för att kunna utföra sina arbetsuppgifter.
+– Under de senaste åren har vi granskat flera vårdgivare där personalen har haft åtkomst till en majoritet av patienternas uppgifter, utan att ha behov av detta. Det innebär att verksamheterna inte garanterar patienterna det integritetsskydd de har rätt till, säger Maria Bergdahl som leder granskningen.
+Det som ska undersökas är dels hur vårdgivarna styr tilldelningen av behörigheter till journalsystemen, alltså vem som kan se vad och varför, dels om uppgifterna som finns i journalsystemets åtkomstlogg kan svara på vem som gjorde vad, med vilka uppgifter och när.
+Vårdgivarna som ska granskas är Karolinska Universitetssjukhuset, Norrlands Universitetssjukhus, Sahlgrenska Universitetssjukhuset, Linköpings Universitetssjukhus, Aleris Sjukvård AB, Capio St Görans sjukhus, Praktikertjänst N.Ä.R.A. AB och nätläkaren Kry.
+– Hälso- och sjukvården hanterar stora mängder känsliga personuppgifter. Ett fungerande system för att reglera åtkomsten till patientuppgifter är nödvändigt för att upprätthålla ett gott integritetsskydd för patienterna. Det måste också vara möjligt att utreda otillåten åtkomst, vilket innebär att loggarna måste innehålla den information som krävs, säger Maria Bergdahl.
+Datainspektionen är tillsynsmyndighet för dataskyddsförordningen och patientdatalagen och kontrollerar bland annat att vårdgivarna har vidtagit tillräckliga åtgärder för att skydda känsliga patientuppgifter.
+För mer information kontakta
+Jurist Maria Bergdahl, telefon 08-657 61 36IT-säkerhetsspecialist Magnus Bergström, telefon 08-657 61 30Pressekreterare Per Lövgren, telefon 08-657 61 43

@@ -1,0 +1,23 @@
+
+Datainspektionen har nu på sin webbplats publicerat en förteckning som beskriver när företag, myndigheter och andra organisationer måste göra en konsekvensbedömning innan de börjar att samla in och använda personuppgifter.
+Enligt dataskyddsförordningen, GDPR, ska en konsekvensbedömning göras när det är sannolikt att det finns en hög risk med sättet som personuppgifterna ska hanteras. Den som bryter mot skyldigheten att göra en konsekvensbedömning riskerar att drabbas av en sanktionsavgift.
+En konsekvensbedömning ska bland annat innehålla en inventering av riskerna för de personer vars uppgifter kommer att registreras och de åtgärder som planeras för att hantera riskerna.
+- Konsekvensbedömningen ska normalt göras innan man börjar samla in personuppgifter. Det är den personuppgiftsansvarige, alltså företaget eller myndigheten, som måste avgöra om det krävs en konsekvensbedömning, förklarar Elisabeth Jilderyd som är jurist på Datainspektionen.
+Förteckningen består av en lista på nio kriterier som ska ligga till grund för bedömningen av om en konsekvensbedömning måste göras. En sådan bedömning ska göras om minst två av kriterierna är uppfyllda. Förteckningen bygger på de riktlinjer som tagits fram av EU-ländernas dataskyddsmyndigheter gemensamt genom Artikel 29-gruppen.
+Bland kriterierna:
+
+Behandling av personuppgifter som innebär utvärdering eller poängsättning av människor
+Behandling av känsliga personuppgifter eller uppgifter av mycket personlig karaktär
+Behandling av personuppgifter på ett sätt som innebär systematisk övervakning av människor
+Behandling som innebär användning av ny teknik eller nya organisatoriska lösningar
+
+I förteckningen finns också ett flertal olika exempel på när minst två av dessa kriterier kan anses vara uppfyllda. Bland dessa exempel finns:
+
+Arbetsgivare som systematiskt övervakar hur de anställda använder internet och e-post
+Företag som använder kunders lokaliseringsuppgifter, via exempelvis en mobilapp, för att rikta marknadsföring till kunden
+Parkeringsbolag som använder kamerabevakning som kan skilja ut registreringsnummer i syfte att debitera parkeringsavgifter
+
+Här finns förteckningen
+(Förteckningen är inte uttömmande och kan komma att uppdateras och kompletteras med fler exempel)
+För mer information kontaktaJurist Elisabeth Jilderyd, telefon 08-657 61 11Pressekreterare Per Lövgren, telefon 070-736 10 80
+ 

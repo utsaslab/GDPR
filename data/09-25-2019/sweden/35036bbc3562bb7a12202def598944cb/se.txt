@@ -1,0 +1,195 @@
+Datum
+
+Diarienr
+
+2019-02-19
+
+DI-2019-2221
+
+Gymnasienämnden
+Skellefteå kommun.
+931 85 Skellefteå
+Även per e-post:
+helpdesk@skelleftea.se
+
+Tillsyn
+Datainspektionen har beslutat att granska er personuppgiftsbehandling och
+har därför inlett ett tillsynsärende. Ni behöver därför svara på våra frågor.
+Varför granskar Datainspektionen er verksamhet?
+Datainspektionen har genom uppgifter i media uppmärksammat att
+Anderstorps gymnasium i Skellefteå i ett projekt har använt sig av
+ansiktsigenkänning för närvarokontroll (se bilagor).
+Datainspektionen har beslutat att inleda tillsyn mot gymnasienämnden i
+Skellefteå kommun i syfte att granska den personuppgiftsbehandling som
+projektet med ansiktsigenkänning för närvarokontroll innefattar, samt
+eventuell planerad användning av ansiktsigenkänning framöver.
+
+Våra frågor
+Datainspektionen vill att ni svarar på följande frågor:
+1.
+
+Har Anderstorps gymnasium i Skellefteå använt sig av
+ansiktsigenkänning såsom det beskrivs i artikeln (se bilagorna)?
+2. Är gymnasienämnden i Skellefteå kommun (ni)
+personuppgiftsansvarig för de personuppgiftsbehandlingar som har
+skett i projektet med ansiktsigenkänning? Om ni anser att ni inte är
+personuppgiftsansvarig för projektet med ansiktsigenkänning, uppge
+vem den personuppgiftsansvarige är samt varför ni anser det?
+
+Postadress: Box 8114, 104 20 Stockholm
+Webbplats: www.datainspektionen.se
+
+E-post: datainspektionen@datainspektionen.se
+Telefon: 08-657 61 00
+
+1 (5)
+
+Datainspektionen
+
+DI-2019-2221
+
+Om ni anser att ni är personuppgiftsansvarig för personuppgiftsbehandlingar
+som har skett i projektet med ansiktsigenkänning hos Anderstorps
+gymnasium i Skellefteå vänligen svara på följande.
+3. Hur många elever/registrerade har ingått i projektet med
+ansiktsigenkänning samt under hur lång period pågick projektet?
+4. Vilka personuppgifter har behandlats i det aktuella projektet med
+ansiktsigenkänning? Se definitionen av personuppgifter nedan under
+Övriga upplysningar.
+5. För vilket eller vilka ändamål/syften har behandlingen skett?
+6. På vilket sätt har ni behandlat personuppgifter i det aktuella
+projektet? Se definitionen av behandling nedan under Övriga
+upplysningar. Beskriv även den aktuella tekniken.
+7. En grund i dataskyddsreglerna är att en behandling ska vara
+proportionell i förhållande till behovet med behandlingen. Hur har ni
+gjort er proportionalitetsbedömning?
+8. Har ni gjort någon konsekvensbedömning enligt artikel 35 i
+dataskyddsförordningen (GDPR)1 inför starten av det aktuella
+projektet? Om en konsekvensbedömning har gjorts vänligen lämna
+in den med yttrandet.
+9. Har ni inkommit med något förhandssamråd till Datainspektionen
+med anledning av det aktuella projektet?
+10. Vilket rättsligt stöd enligt artikel 6 i dataskyddsförordningen har ni
+haft för att behandla personuppgifterna i det aktuella projektet? Visa
+vilket rättsligt stöd ni har haft. Förklara hur ni har resonerat och
+motivera. Om det rättsliga stödet kräver nationella bestämmelser
+ange samtliga relevanta bestämmelser eller beslut.
+11. Projektet med ansiktsigenkänning har inneburit behandling av
+biometriska personuppgifter för att entydigt identifiera en fysisk
+person (så kallade känsliga personuppgifter). Vilket av undantagen i
+artikel 9 i dataskyddsförordningen har ni tillämpat? Om nationell
+lagstiftning krävs ange samtliga relevanta bestämmelser.
+12. Har ni lämnat information till de registrerade i det aktuella projektet
+och på vilket sätt?
+
+Europaparlamentets och rådets förordning (EU) 2016/79 av den 27 april 2016 om skydd
+för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet
+av sådana uppgifter och om upphävande av direktiv 95/46/EG.
+1
+
+2 (5)
+
+Datainspektionen
+
+DI-2019-2221
+
+13. Vilka tekniska och organisatoriska åtgärder har ni vidtagit för att
+säkerställa en lämplig säkerhetsnivå enligt artikel 5 och artikel 32 i
+dataskyddsförordningen?
+14. Pågår behandlingen av personuppgifter fortfarande i det nämnda
+projektet? Finns materialet kvar hos er eller någon annanstans?
+15. a) Om materialet har raderats, när skedde raderingen och hur skedde
+raderingen? Innebär raderingen att uppgifterna inte finns kvar
+någonstans?
+b) Om materialet inte har raderats, svara på fråga 3-13 gällande den
+pågående behandlingen. Se definitionen av behandling nedan.
+16. Av den bifogade tidningsartikeln framgår att ni överväger framtida
+användning av ansiktsigenkänning för närvarohantering. Om ni
+planerar att använda tekniken framöver, svara på fråga 3-13 även
+gällande den planerade behandlingen.
+Ert svar
+Svara skriftligt till Datainspektionen senast den 19 mars 2019.
+Svara gärna per e-post och ange inspektionens diarienummer i ämnesraden i
+e-postmeddelandet. Se e-postadress på första sidan.
+Om ni utöver svaren på våra frågor vill hänvisa till ytterligare information
+eller handlingar så ange detta och vad ni vill visa med dem men skicka inte
+in handlingar som går utöver det angivna syftet med tillsynen.
+Måste ni svara Datainspektionen?
+Ja, Datainspektionen är tillsynsmyndighet enligt dataskyddsförordningen.
+Det innebär att vi får begära att ni lämnar all information som
+Datainspektionen behöver för att vi ska kunna fullgöra våra uppgifter som
+tillsynsmyndighet.2
+Vad händer sen?
+När Datainspektionen är färdig med granskningen kommer ni att få ett
+beslut. Där kommer ni att få besked om eventuella brister i ert dataskydd
+och om ni måste vidta några korrigerande åtgärder. Datainspektionen kan
+exempelvis påföra administrativa sanktionsavgifter enligt
+dataskyddförordningen.3
+
+2
+
+Artikel 58.1 i dataskyddsförordningen.
+
+3
+
+Artikel 58.2 och artikel 83-84 i dataskyddsförordningen.
+
+3 (5)
+
+Datainspektionen
+
+DI-2019-2221
+
+Övriga upplysningar
+Personuppgiftsansvarig är en fysisk eller juridisk person, offentlig myndighet,
+institution eller annat organ som ensamt eller tillsammans med andra
+bestämmer ändamålen och medlen för behandlingen av personuppgifter
+(artikel 4.7 i dataskyddsförordningen).
+Personuppgifter är enligt artikel 4.1 i dataskyddsförordningen varje
+upplysning som avser en identifierad eller identifierbar fysisk person (nedan
+kallad en registrerad), varvid en identifierbar fysisk person är en person som
+direkt eller indirekt kan identifieras särskilt med hänvisning till en
+identifierare som ett namn, ett identifikationsnummer, en
+lokaliseringsuppgift eller onlineidentifikatorer eller en eller flera faktorer
+som är specifika för den fysiska personens fysiska, fysiologiska, genetiska,
+psykiska, ekonomiska, kulturella eller sociala identitet.
+Behandling är en åtgärd eller kombination av åtgärder beträffande
+personuppgifter eller uppsättningar av personuppgifter, oberoende av om de
+utförs automatiserat eller ej, såsom insamling, registrering, organisering,
+strukturering, lagring, bearbetning eller ändring, framtagning, läsning,
+användning, utlämning genom överföring, spridning eller tillhandahållande
+på annat sätt, justering eller sammanförande, begränsning, radering eller
+förstöring (artikel 4.2 i dataskyddsförordningen).
+Biometriska uppgifter är personuppgifter som erhållits genom en särskild
+teknisk behandling som rör en fysisk persons fysiska, fysiologiska eller
+beteendemässiga kännetecken och som möjliggör eller bekräftar
+identifieringen av denna fysiska person, såsom ansiktsbilder eller
+fingeravtrycksuppgifter (artikel 4.14 i dataskyddsförordningen).
+Om ni har frågor kontakta
+Ranja Bunni, telefon 08-657 61 46
+Jenny Bård, telefon 08-657 61 54
+Jeanette Bladh Gustafson, telefon 08-657 61 32
+Med vänlig hälsning
+Ranja Bunni, 2019-02-19 (Det här är en elektronisk signatur)
+
+4 (5)
+
+Datainspektionen
+
+DI-2019-2221
+
+ranja.bunni@datainspektionen.se
+Kopia till:
+Dataskyddsombudet Isak Nyberg via helpdesk@skelleftea.se
+Bilagor:
+1.
+
+Artikel från SVT daterad 2019-01-14,
+https://www.svt.se/nyheter/lokalt/vasterbotten/skolans-ovanligatest-registrerar-elevernas-narvaro-med-kamera
+2. Skärmklipp från tv-inslag i artikeln ovan.
+Information om Datainspektionens behandling av personuppgifter
+https://www.datainspektionen.se/om-oss/information-om-hurdatainspektionen-behandlar-personuppgifter/
+
+5 (5)
+
+

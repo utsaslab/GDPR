@@ -80,7 +80,7 @@ class Spain(DPA):
                          pager = driver.find_element_by_class_name('pager')
                          next_button = pager.find_elements_by_tag_name('a')[-1]
                          next_button.click()
-                     except:
+                    except:
                          cursor = -1
                          break
                 cursor += 1

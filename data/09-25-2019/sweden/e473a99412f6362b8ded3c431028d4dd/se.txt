@@ -1,0 +1,156 @@
+Skrivelse
+
+Diarienr
+
+2019-01-18
+
+DI-2019-740
+
+Google LLC
+Amphitheatre Parkway,
+Mountain View, CA 94043
+USA
+
+Request for Reply and Further Clarification
+1. Summary and Notice
+Datainspektionen, the Swedish Data Protection Authority (DPA), has along
+with several other Supervisory Authorities of the European Union’s General
+Data Protection Regulation (GDPR)1, received complaints against you,
+Google LLC (Google), based on a report called Every Step You Take etc. (“the
+report”)2 by Forbrukerrådet (the Norwegian Consumer Council).
+After having reviewed the complaint,3 filed with us on the 27th of November
+2018, by a representative of Sveriges Konsumenter (the Swedish Consumer
+Association) on behalf of a data subject (“the complainant”),
+Datainspektionen has decided to open an investigation into the matter in
+light of its competence under article 55.1 and 56.1 of the GDPR.
+Datainspektionen, invoking its investigative powers pursuant to Article 58.1
+of the GDPR, hereby order you to provide the below specified information
+and documents (specified in section 3) and answer the questions below (set
+out in section 4) no later than on the 1st of February 2019. You may, if you
+wish, submit your answer in English. Please note that Datainspektionen
+welcomes you to email us, but not if you are sending sensitive information.
+See contact details in the footer.
+Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016
+on the protection of natural persons with regard to the processing of personal data and on
+the free movement of such data, and repealing Directive 95/46/EC.
+2 Please see Appendix 1 (The Norwegian Consumer Council, the 27th of November 2018,
+Every step you take - How deceptive design lets Google track users 24/7).
+3 Please see Appendix 2.
+1
+
+Postadress: Box 8114, 104 20 Stockholm
+Webbplats: www.datainspektionen.se
+
+E-post: datainspektionen@datainspektionen.se
+Telefon: 08-657 61 00
+
+1 (4)
+
+Datainspektionen
+
+DI-2019-740
+
+2. Summary of the complaint before this Authority
+In summary, the complainant holds that the way Google provides itself
+access to the location data of users of its mobile operative system Android by
+ways of its so called ”Location History” and “Web & App Activity” (“the
+services”) is in breach of the GDPR. According to the complainant, the report
+by Forbrukerrådet states that Google use deceptive design, misleading
+information and repeated pushing to manipulate users into allowing
+constant tracking of their movements. In essence, the complainant holds
+that the processing of location data in this way is unlawful and that Google is
+in violation of Articles 5, 6, 7, 12, 13 and 25 of the GDPR.
+
+3. Information and documents that Google must provide
+Datainspektionen order Google to submit the following.
+Information: A summary, with regard to the period 25th of May 2018 – 27th
+of November 2018 (“the relevant period”), that must include a) the total
+number of Swedish data subjects about which you have obtained location
+data through the services and b) an approximation of how many data points
+that are gathered on average on an individual, broken down for each of the
+24 hours of the day, presented in a structured and clear manner.
+Document(s), in the version that were in effect during the relevant period:
+1. Record(s) of processing activities pursuant to Article 30 of the GDPR,
+limited to those relevant to your processing of the location data of the
+Swedish data subjects obtained through the services during the
+relevant period,
+2. Privacy policies for the services, and
+3. Data Impact Assessment(s) that you have finalised pursuant to Article
+35, during or before the relevant period, limited to those relevant to
+your processing of the location data of the Swedish data subjects
+obtained through the services during the relevant period.
+
+2 (4)
+
+Datainspektionen
+
+DI-2019-740
+
+4. Questions that Google must answer
+Datainspektionen request that you in general comment on the complaint
+and the report. Your answer should particularly clarify (in relation to the
+GDPR):
+1. For what purpose(s) you have processed location data of the Swedish
+data subjects obtained through the services during the relevant period
+and what your legal basis (Article 6) for each type of processing was,
+2. If applicable, when and how you provided the Swedish data subjects
+with the information regarding the processing in the previous questions
+(Article 12 and 13), which should include the information that was
+provided,
+3. Whether your answers to the previous two questions is representative of
+how you fulfil your obligations to inform and obtain legal basis (Article
+6) for the processing of location data of data subjects in general through
+the use of the services,
+4. If the legal basis for any of the processing is consent (Article 6.1.a), an
+explanation and evidence that show how the conditions for consent
+(Article 7) have been fulfilled,
+5. If the legal basis for any of the processing is legitimate interests (Article
+6.1.f), an explanation of how it constitutes an appropriate legal basis
+with regard to the location data being processed,
+6. Whether the so called “design patterns” you have allegedly used for
+obtaining legal basis for the processing of location data of users, as they
+have been described in the report (pp. 26-31), is accurate with regard to
+the Swedish data subjects of whom you have been processing location
+data obtained through the services during the relevant period, and if
+not, your own corrections in that regard, preferably in a visually
+comparable and clear material such as those in the report (e.g. p. 28),
+7. If you consider your answers to the previous question compatible with
+the principles of lawfulness, fairness and transparency (Article 5.1.a) and
+data protection by design and by default (Article 25), your argument(s)
+for that position,
+8. Any comments you would like to make, in light of your answers to the
+previous questions and the recommendations allegedly put forth to you
+within the documents referred to in the report (footnote 51, p. 33)4,
+
+Which states ”[a]s a result of an investigation done by the EU Data Protection Authorities,
+Google was already in 2012 urged to clarify which legal basis it uses for processing of
+4
+
+3 (4)
+
+Datainspektionen
+
+DI-2019-740
+
+9. Whether you consider any of the location data of the Swedish data
+subjects that you have processed during the relevant period to be such
+special category data as referred to in Article 9, and if so, which legal
+basis you have identified for the processing of such data under Article 6
+as well as Article 9,
+10. What measures in general you have made to protect the location data of
+the Swedish data subjects pursuant to article 25 and 32, and
+11. If applicable, in light of your answers to the previous questions, any
+changes to your practises in this regard in the period 28th of November
+2018 – 18th of January 2019, that you wish to put forward.
+On behalf of Datainspektionen,
+Ulrika Bergström, Legal Advisor
+Nazli Pirayehgar, Legal Advisor
+Olle Pettersson, Legal Advisor
+Olle Pettersson, 2019-01-18 (Det här är en elektronisk signatur)
+
+personal data. See https://www.cnil.fr/sites/default/files/typo/document/20121016letter_google-article_29-FINAL.pdf and
+https://www.cnil.fr/sites/default/files/typo/document/GOOGLE_PRIVACY_POLICY_RECOMMENDATIONS-FINAL-EN.pdf.”
+
+4 (4)
+
+

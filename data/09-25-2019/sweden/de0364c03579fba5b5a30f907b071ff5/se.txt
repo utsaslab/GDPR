@@ -1,0 +1,10 @@
+
+Den 12–13 mars höll Europeiska dataskyddsstyrelsen (EDPB) sitt åttonde plenarmöte. Från Datainspektionen deltog generaldirektör Lena Lindgren Schelin samt chefsjurist Hans-Olof Lindblom.
+På mötet antog EDPB ett yttrande om förhållandet mellan dataskyddsförordningen och ePrivacy-direktivet i syfte att klargöra vad som gäller när behandling av personuppgifter omfattas av båda regelverken.
+ePrivacy-direktivet har införlivats i svensk lagstiftning genom lagen om elektronisk kommunikation. I yttrandet framhåller EDPB att personuppgiftsbehandling som faller inom ePrivacy-direktivets tillämpningsområde inte begränsar dataskyddsmyndigheternas mandat att tillämpa och utöva tillsyn enligt dataskyddsförordningen.
+Om en överträdelse av dataskyddsförordningen samtidigt innebär en överträdelse av nationella ePrivacy-regler kan dataskyddsmyndigheterna ta hänsyn till ePrivacy-reglerna när de tillämpar dataskyddsförordningen. De kan däremot inte tillämpa ePrivacy-reglerna i sig utan att ha mandat till det i nationell rätt. I Sverige är det Post- och telestyrelsen som utsetts till tillsynsmyndighet för lagen om elektronisk kommunikation.
+EDPB:s yttrande om ePrivacy-direktivet (Opinion 5/2019)
+EU-kommissionens förslag till ny förordning om integritet och elektronisk kommunikation (ePrivacy-förordning) förhandlas fortfarande. På mötet beslutade EDPB om ett uttalande där medlemsländerna uppmanas till ett snabbt antagande av ePrivacy-förordningen.
+EDPB:s uttalande om ePrivacy-förordningen (Statement 3/2019)
+Med anledning av kommande EU-val samt andra politiska val runt om i Europa under 2019 beslutade EDPB om ett uttalande om hur personuppgifter används i samband med valkampanjer. Behandling av personuppgifter i samband med valkampanjer riskerar inte bara att utgöra ett hot mot den personliga integriteten utan även mot demokratiska processer. Dataskyddsmyndigheterna kommer att inleda granskning om det behövs för att se till att de grundläggande dataskyddsprinciperna, såsom transparens, ändamålsbegränsning och proportionalitet efterlevs och att enskildas rättigheter skyddas.
+EDPB:s uttalande om valkampanjer (Statement 2/2019)

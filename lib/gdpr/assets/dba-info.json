@@ -718,5 +718,31 @@
         "render_type": "FULLY_RENDERED"
       }
     ]
+  },
+  "SE": {
+    "country": "Sweden",
+    "name": "Datainspektionen",
+    "address": "Drottninggatan 29\n5th Floor\nBox 8114\n104 20 Stockholm",
+    "phone": "8 657 6100",
+    "country_code": "+46",
+    "email": "datainspektionen@datainspektionen.se",
+    "website": "https://www.datainspektionen.se",
+    "member": {
+      "name": "Ms Lena Lindgren Schelin",
+      "title": "Director General of the Data Inspection Board"
+    },
+    "sources": [
+      {
+        "host": "https://www.datainspektionen.se",
+        "start_path": "/nyheter",
+        "target_element": {
+          "results": null,
+          "pagination": null,
+          "document": null,
+          "date": null
+        },
+        "render_type": "FULLY_RENDERED"
+      }
+    ]
   }
 }

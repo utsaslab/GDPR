@@ -1,0 +1,184 @@
+Datum
+
+Diarienr
+
+2019-06-11
+
+DI-2019-6696
+
+Spotify AB
+Regeringsgatan 19
+11153 Stockholm
+
+Tillsyn
+Datainspektionen har beslutat att granska er personuppgiftsbehandling
+avseende era användare av Spotify-tjänsten (fortsättningsvis registrerade)
+och har inlett ett tillsynsärende. Ni behöver därför svara på våra frågor.
+
+Varför granskar Datainspektionen er verksamhet?
+Datainspektionen har tagit del av ett antal klagomål mot er gällande rätten
+till tillgång enligt artikel 15 i dataskyddsförordningen1. I klagomålen görs det
+bland annat gällande att de uppgifter ni lämnar inte innehåller den
+information som ska ges enligt artikel 15.1 och 15.2, att kopian på
+personuppgifter enligt artikel 15.3 inte omfattar samtliga personuppgifter
+som ni behandlar avseende den registrerade samt att information inte
+lämnas på ett tillräckligt klart och tydligt sätt såsom föreskrivs i artikel 12.1.
+Rätten till tillgång i artikel 15 grundar sig på rätten till skydd för privatlivet
+och syftar till att den registrerade ska kunna försäkra sig om att dennes
+personuppgifter är korrekta och att de behandlas lagenligt. Rätten till
+tillgång är också en grundläggande förutsättning för att den registrerade ska
+ha möjlighet att själv kunna tillvarata andra rättigheter enligt
+dataskyddsförordningen, exempelvis rätten till rättelse, rätten till radering
+och rätten att göra invändningar.
+Datainspektionen har, mot bakgrund av klagomålen från registrerade,
+beslutat att närmare granska hur ni hanterar den registrerades begäran om
+tillgång. Med hänsyn till vikten av att tillgodose den registrerades rätt till
+Europaparlamentets och rådets förordning (EU) 2016/79 av den 27 april 2016 om skydd
+för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet
+av sådana uppgifter och om upphävande av direktiv 95/46/EG.
+1
+
+Postadress: Box 8114, 104 20 Stockholm
+Webbplats: www.datainspektionen.se
+
+E-post: datainspektionen@datainspektionen.se
+Telefon: 08-657 61 00
+
+1 (5)
+
+Datainspektionen
+
+DI-2019-6696
+
+tillgång, och att ni är en stor aktör som behandlar en stor mängd
+personuppgifter om ett stort antal registrerade bedömer Datainspektionen
+att en sådan granskning är motiverad. Datainspektionen har valt att granska
+era generella rutiner vid begäran om tillgång, inte vad som förevarit i de
+enskilda klagomålen.
+
+Våra frågor
+Datainspektionen har i detta ärende valt att undersöka hur ni hanterar
+begäran om tillgång i tre olika delar: vilken information som lämnas, vilka
+uppgifter kopian på personuppgifter omfattar och hur informationen är
+utformad. Datainspektionen vill därför att ni svarar på frågorna som anges
+nedan.
+Information - artikel 15.1 och 15.2
+1.
+
+Hur ser ni till att den registrerade, vid begäran om tillgång, får del av
+den information som ska lämnas enligt artikel 15.1 a)-h) och 15.2?
+Redogör kortfattat för era rutiner och överväganden samt svara på
+frågorna a-c nedan.
+a. Vilken information lämnas avseende respektive punkt?
+b. Hur lämnas informationen? (T.ex. genom information på
+webben, i kopian på personuppgifter enligt artikel 15.3 eller på
+annat sätt.)
+c. Om information endast lämnas på webben, hur ser ni till att
+den registrerade får del av denna information i samband med
+begäran? (T.ex. informationsruta, popup-fönster, länk eller
+något annat sätt.)
+2. Bifoga den information som lämnas – i avidentifierat skick.
+Kopia på personuppgifter under behandling – artikel 15.3
+3. Hur ser ni till att den registrerade, vid begäran om tillgång, får kopia
+av samtliga personuppgifter som ni behandlar avseende hen. Redogör
+kortfattat för era rutiner och överväganden samt svara på frågorna ad nedan.
+a. Lämnar ni ut samtliga personuppgifter som ni behandlar
+avseende den registrerade, eller har vissa kategorier av
+personuppgifter undantagits från kopian på personuppgifter?
+b. Om vissa kategorier av personuppgifter undantagits; med
+vilket stöd görs dessa undantag och vilka överväganden har ni
+gjort avseende respektive kategori av personuppgifter?
+
+2 (5)
+
+Datainspektionen
+
+DI-2019-6696
+
+c. Om ni analyserar uppgifter om användares beteende i
+tjänsten, genom så kallad profilering, t.ex. låtval, uppgift om
+att låtar avbryts under uppspelning, om att låtar byts
+manuellt eller genom automatisk uppspelningsfunktion eller
+liknande; hur framgår dessa uppgifter av kopian av
+personuppgifter?
+4. Bifoga ett exempel på en kopia av personuppgifter avseende en
+registrerad – i avidentifierat skick.
+Utformningen av informationen – artikel 12
+5. Vilka åtgärder har ni vidtagit för att all information som lämnas (dvs.
+både enligt artikel 15.1–15.2 och enligt 15.3) ges i en koncis, klar och
+tydlig, begriplig och lätt tillgänglig form, med användning av klart
+och tydligt språk? Redogör kortfattat för era åtgärder och
+överväganden samt svara på frågorna a-c nedan.
+a. Delar ni upp informationen som lämnas på något sätt? Hur
+delar ni i så fall upp informationen?
+b. Lämnar ni ut krypterade personuppgifter och i så fall vilka
+kategorier av personuppgifter? Om ni lämnar ut krypterade
+uppgifter; bifogar ni en översättningsnyckel eller säkerställer
+ni på annat sätt att den registrerade kan ta del av
+informationen?
+c. I vilka format lämnas informationen normalt?
+
+Ert svar
+Svara skriftligt till Datainspektionen senast den 1 juli 2019.
+Förutsatt att svaret inte innehåller några integritetskänsliga personuppgifter
+eller uppgifter som kan omfattas av sekretess, kan ni e-posta det till
+datainspektionen@datainspektionen.se och referera till vårt diarienummer
+DI-2019-6696.
+Om ni utöver svaren på våra frågor vill hänvisa till ytterligare information
+eller handlingar så ange detta och vad ni vill visa med dem men skicka inte
+in handlingar som går utöver det angivna syftet med tillsynen.
+
+3 (5)
+
+Datainspektionen
+
+DI-2019-6696
+
+Måste ni svara Datainspektionen?
+Ja, Datainspektionen är tillsynsmyndighet enligt dataskyddsförordningen,
+GDPR. Det innebär att vi får begära att ni lämnar all information som
+Datainspektionen behöver för att vi ska kunna fullgöra våra uppgifter som
+tillsynsmyndighet.2
+
+Gemensam ärendehandläggning med andra
+tillsynsmyndigheter
+Mot bakgrund av att ert bolag har verksamhet och registrerade i fler än en av
+EU:s medlemsstater kommer Datainspektionen använda sig av de
+mekanismer för samarbete och enhetlighet som finns i kapitel VII i
+dataskyddsförordningen.
+
+Vad händer sen?
+När Datainspektionen är färdig med granskningen kommer ni att få ett
+beslut. Där kommer ni att få besked om eventuella brister i ert dataskydd
+och om ni måste vidta några korrigerande åtgärder. Datainspektionen kan
+exempelvis påföra administrativa sanktionsavgifter enligt
+dataskyddsförordningen.3
+Om ni har frågor eller vill begära anstånd kontakta Karin Ekström på tfn, 08657 61 87, Evelin Palmér på tfn, 08-657 61 43, Ulrika Bergström på tfn, 08-657
+61 65 eller Registrator på tfn, 08-657 61 31.
+Med vänlig hälsning
+Karin Ekström, 2019-06-11 (Det här är en elektronisk signatur)
+
+Kopia till:
+Spotify AB:s dataskyddsombud
+
+Information om Datainspektionens behandling av personuppgifter
+
+2
+
+Artikel 58.1 i dataskyddsförordningen.
+
+3
+
+Artikel 58.2 och artikel 83-84 i dataskyddsförordningen.
+
+4 (5)
+
+Datainspektionen
+
+DI-2019-6696
+
+https://www.datainspektionen.se/om-oss/information-om-hurdatainspektionen-behandlar-personuppgifter/
+
+5 (5)
+
+

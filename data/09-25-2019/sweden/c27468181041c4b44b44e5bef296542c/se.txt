@@ -1,0 +1,6 @@
+
+Datainspektionen har inlett en tillsyn av Umeå universitets hantering av personuppgifter. Universitetet har, för forskning, tagit emot känsliga personuppgifter från Polismyndigheten. Enligt ett klagomål från Polismyndigheten till Datainspektionen har universitetet sedan skickat känsliga personuppgifter via okrypterad e-post.
+Känsliga personuppgifter, exempelvis om hälsa, politiska åsikter eller genetiska och biometriska uppgifter, har ett extra starkt skydd i dataskyddsförordningen, GDPR. Datainspektionen ska nu granska universitetets hantering av känsliga personuppgifter med anledning av klagomålet.
+Datainspektionen är tillsynsmyndighet för dataskyddsförordningen och arbetar för att människors fri- och rättigheter skyddas i samband med behandling av personuppgifter.
+Läs mer om Datainspektionens arbete med tillsynLäs mer om känsliga personuppgifter
+För mer information kontaktaIT-säkerhetsspecialist Johan Ma, telefon 08-657 61 67Jurist Linda Hamidi, telefon 08-657 61 81Presskontakt Mathias Fahlgren, telefon 08-515 15 415

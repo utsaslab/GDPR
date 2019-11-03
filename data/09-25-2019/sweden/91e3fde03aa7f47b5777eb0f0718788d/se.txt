@@ -1,0 +1,5 @@
+
+EDPB och EDPS har i ett svar till EU-parlamentet analyserat vilka möjligheter en personuppgiftsansvarig har att följa en begäran om utlämnande av personuppgifter till amerikansk, brottsbekämpande myndighet under US CLOUD Act. Eftersom GDPR ställer särskilda krav på adekvat skyddsnivå vid överföring till tredje land, Privacy Shield endast omfattar den privata sektorn och US CLOUD Act är en ensidigt stiftad nationell lag i USA ser EDPB mycket begränsade möjligheter för en personuppgiftsansvarig i EU att följa en direktbegäran från amerikansk myndighet.
+Läs hela analysen (på engelska) här
+ 
+z
