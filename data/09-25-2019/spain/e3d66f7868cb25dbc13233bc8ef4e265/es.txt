@@ -1,0 +1,270 @@
+1/6
+
+Procedimiento Nº: PS/00261/2019
+RESOLUCIÓN DE PROCEDIMIENTO SANCIONADOR
+Del procedimiento instruido por la Agencia Española de Protección de Datos y en base
+a los siguientes
+ANTECEDENTES
+PRIMERO: A.A.A. (en adelante, el reclamante) con fecha 12 de abril de 2019
+interpuso reclamación ante la Agencia Española de Protección de Datos. La
+reclamación se dirige contra CONTAPUBLI RIOJA, S.L. (GESTIRIOJA) con NIF
+B26496554 (en adelante, el reclamado). Los motivos en que basa la reclamación son
+que recibe constantes correos electrónicos comerciales de la entidad reclamada. Ha
+ejercido en numerosas ocasionas su derecho de oposición al tratamiento de sus datos
+con fines comerciales sin que la entidad reclamada haya atendido su derecho por ser
+una persona jurídica.
+Ejerce derecho de supresión el 10 de enero de 2019, vía email, y pese a ello el 4 de
+abril de 2019 volvió a recibir un nuevo email de dicha entidad.
+Junto a la reclamación aporta correos intercambiados con el responsable y copia de la
+publicidad recibida. La política de privacidad que figura en la web del responsable está
+desactualizada.
+SEGUNDO: Tras la recepción de la reclamación, la Subdirección General de
+Inspección de Datos procedió a realizar las siguientes actuaciones:
+El 21/05/2019, fue trasladada al reclamado la reclamación presentada para su análisis
+y comunicación al denunciante de la decisión adoptada al respecto.
+El 02/06/2019 el reclamado presento escrito de respuesta al requerimiento enviado por
+la AEPD señalando:
+En primer lugar, en relación con la decisión adoptada a propósito de esta reclamación
+dicha entidad manifiesta que en su página web, GESTIRIOJA.ES, dispone de
+diferentes enlaces para darse de alta y de baja en nuestra newsletter o boletín. Donde
+cualquier visitante que acceda a la web, de forma voluntaria puede darse de alta o de
+baja en el boletín. Si una vez recibido el boletín por estar dado de alta, desea darse de
+baja, como figura en la página 11 de su escrito, aparece SIEMPRE un enlace para
+darse de baja, que funciona al 100%.
+Continúa diciendo que analizando el sistema de altas y bajas gestionado por el
+software SendBlaster, se ha detectado que este reclamante, se ha dado de baja y alta
+en varias ocasiones, y que, para ello, en lugar de pulsar en el enlace oportuno y enviar
+el email correspondiente enviaba respuestas a los newsletter, lo cual no implica un
+fallo del sistema, sino una mala praxis por parte del reclamante.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/6
+
+En segundo lugar, en relación a los derechos regulados en los artículos 15 a 22 del
+RGPD, dicha entidad manifiesta que se puede proceder a la baja manual, siempre y
+cuando se cumplan con el RGPD, tal y como se indica en nuestra web
+https://gestirioja.es/privacidad/, sin que se nos haya remitido una solicitud fehaciente
+de cancelación de datos como siguiendo las directrices de esa agencia. El envío de un
+mail como el que acompaña no acredita la autoridad, ni la propiedad de dicho email
+corporativo como director de la zona de Hoteles Melia, desconociendo si dispone de
+uso exclusivo o también es utilizado por alguna de las secretarias.
+En tercer lugar en lo relativo a las causas que han motivado la incidencia que ha
+originado la reclamación, la entidad denunciada manifiesta que este denunciante, se
+ha puesto en contacto con la empresa solicitando información a través de la web y a
+su vez ha marcado o solicitado suscribirse al boletín de ofertas, luego se ha dado de
+baja, así repetidamente, lo que esta parte no puede evitar, que se dé de alta, o de
+baja, pues el sistema funciona a la perfección.
+En cuarto lugar, respecto de las medidas adoptadas para evitar que se produzcan
+incidencias similares, fechas de implantación y controles efectuados para comprobar
+su eficacia, se señala que para la evitación de estos problemas, no queda nada más
+opción, que el envío de la solicitud de cancelación acompañada de copia del DNI,
+solicitando la cancelación total de sus datos de forma fehaciente, o en su caso envío
+de su solicitud de cancelación, a través de email firmado digitalmente. De esa manera,
+se anulan los datos, impidiendo que se proceda a la solicitud nuevamente al alta en el
+boletín electrónico.
+En caso contrario nos encontraríamos en un bucle, donde el ciudadano, se da de baja,
+y al instante de alta, en la página web de forma voluntaria, y al recibir el boletín, con
+los email del boletín y de haber enviado la baja, pero ocultando el alta posterior, trate
+de generar un perjuicio a la empresa. Por ello, la única opción definitiva es la que le
+hemos indicado que está habilitada desde el 2017, pudiendo revertir la situación de la
+misma manera.
+Dicha entidad, concluye diciendo que realiza un envío de boletín de forma
+responsable, enviando uno o dos boletines de forma mensual, y no realiza envíos
+abusivos ni de los conocidos como spam.
+TERCERO: Con fecha 25 de julio de 2019, la Directora de la Agencia Española de
+Protección de Datos acordó iniciar procedimiento sancionador al reclamado, por la
+presunta infracción del Artículo 21.1 de la LSSI, tipificada en el Artículo 38.4.d) de la
+LSSI.
+CUARTO: Notificado el mencionado acuerdo de inicio del presente procedimiento
+sancionador se le otorga un plazo de audiencia de DIEZ DÍAS HÁBILES para que formule
+las alegaciones y presente las pruebas que considere convenientes, de acuerdo con lo
+preceptuado en los artículos 73 y 76 de la Ley 39/2015 de Procedimiento Administrativo
+Común de las Administraciones Públicas.
+QUINTO: No habiendo formulado alegaciones ni presentado pruebas en el plazo dado,
+se procede a dictar la presente resolución teniendo en cuenta los siguientes:
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/6
+
+HECHOS
+PRIMERO: El reclamante ejerce frente al reclamado su derecho de oposición al
+tratamiento de sus datos con fines comerciales, el 10 de enero de 2019, vía email, y
+pese a ello el 4 de abril de 2019 volvió a recibir un nuevo email de dicha entidad.
+SEGUNDO: Se manifiesta que la causa de los hechos aquí denunciados es una mala
+praxis por parte del reclamante, ya que el reclamante se ha puesto en contacto con el
+reclamado solicitando información a través de la web, seguidamente ha solicitado
+suscribirse al boletín de ofertas, luego se ha dado de baja, y así repetidamente.
+La AEPD ha notificado al reclamado el acuerdo de inicio del presente procedimiento
+sancionador, pero no ha presentado alegaciones ni pruebas que constaten sus
+manifestaciones en el plazo dado para ello.
+FUNDAMENTOS DE DERECHO
+I
+De conformidad con lo establecido en el artículo 43.1, párrafo segundo, de la
+de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y
+Comercio Electrónico (en lo sucesivo, LSSI) es competente para iniciar y resolver este
+Procedimiento Sancionador la Directora de la Agencia Española de Protección de
+Datos.
+La competencia para sancionar la comisión de las infracciones tipificadas en
+los artículos 38.3 c), d) e i) y 38.4 d), g) y h) de la LSSI, corresponde a la Agencia
+Española de Protección de Datos, según dispone el artículo 43.1 de dicha Ley.
+II
+Se imputa al reclamado la comisión de una infracción por vulneración del
+artículo 21.1 de la LSSI, que señala que:
+“1. Queda prohibido el envío de comunicaciones publicitarias o promocionales
+por correo electrónico u otro medio de comunicación electrónica equivalente que
+previamente no hubieran sido solicitadas o expresamente autorizadas por los
+destinatarios de las mismas”.
+La infracción es leve y se tipifica en el artículo 38.4.d) de la LSSI que establece
+que“El envío de comunicaciones comerciales por correo electrónico u otro medio de
+comunicación electrónica equivalente cuando en dichos envíos no se cumplan los
+requisitos establecidos en el artículo 21 y no constituya infracción grave”, pudiendo ser
+sancionada con multa de hasta 30.000 euros, de acuerdo con el artículo 39.1.c) de la
+LSSI.
+III
+En el artículo 39 bis de la LSSI, bajo el epígrafe “Moderación de las sanciones”,
+estipula lo siguiente:
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/6
+
+“1. El órgano sancionador establecerá la cuantía de la sanción aplicando la
+escala relativa a la clase de infracciones que preceda inmediatamente en gravedad a
+aquella en que se integra la considerada en el caso de que se trate, en los siguientes
+supuestos:
+a) Cuando se aprecie una cualificada disminución de la culpabilidad del
+imputado o de la antijuridicidad del hecho como consecuencia de la concurrencia
+significativa de varios de los criterios enunciados en el artículo 40.
+b) Cuando la entidad infractora haya regularizado la situación irregular de
+forma diligente.
+c) Cuando pueda apreciarse que la conducta del afectado ha podido inducir a
+la comisión de la infracción.
+d) Cuando el infractor haya reconocido espontáneamente su culpabilidad.
+e) Cuando se haya producido un proceso de fusión por absorción y la
+infracción fuese anterior a dicho proceso, no siendo imputable a la entidad absorbente.
+2. Los órganos con competencia sancionadora, atendida la naturaleza de los
+hechos y la concurrencia significativa de los criterios establecidos en el apartado
+anterior, podrán acordar no iniciar la apertura del procedimiento sancionador y, en su
+lugar, apercibir al sujeto responsable, a fin de que en el plazo que el órgano
+sancionador determine, acredite la adopción de las medidas correctoras que, en cada
+caso, resulten pertinentes, siempre que concurran los siguientes presupuestos:
+a) Que los hechos fuesen constitutivos de infracción leve o grave conforme a lo
+dispuesto en esta Ley.
+b) Que el órgano competente no hubiese sancionado o apercibido con
+anterioridad al infractor como consecuencia de la comisión de infracciones previstas
+en esta Ley.
+Si el apercibimiento no fuera atendido en el plazo que el órgano sancionador
+hubiera determinado, procederá la apertura del correspondiente procedimiento
+sancionador por dicho incumplimiento.”
+Por su parte el artículo 40 de la LSSI, en relación con la “Graduación de la
+cuantía de las sanciones”, determina lo siguiente:
+“La cuantía de las multas que se impongan se graduará atendiendo a los
+siguientes criterios:
+a) La existencia de intencionalidad.
+b) Plazo de tiempo durante el que se haya venido cometiendo la infracción.
+c) La reincidencia por comisión de infracciones de la misma naturaleza, cuando
+así haya sido declarado por resolución firme.
+d) La naturaleza y cuantía de los perjuicios causados.
+e) Los beneficios obtenidos por la infracción.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/6
+
+f) Volumen de facturación a que afecte la infracción cometida.
+g) La adhesión a un código de conducta o a un sistema de autorregulación
+publicitaria aplicable respecto a la infracción cometida, que cumpla con lo dispuesto en
+el artículo 18 o en la disposición final octava y que haya sido informado
+favorablemente por el órgano u órganos competentes.”
+En el presente supuesto, tras las evidencias obtenidas en la fase de
+investigación previa y sin perjuicio de lo que resulte de la instrucción, se considera que
+procede graduar la sanción a imponer de acuerdo con los siguientes criterios que
+establece el artículo 40 de la LSSI, teniendo en cuenta: a) La existencia de
+intencionalidad, debido a la falta de diligencia como integrante del elemento subjetivo
+de la culpabilidad, al ser enviado el e-mail tras la solicitud de cancelación por el
+reclamante y haber sido aquella confirmada por la entidad reclamada, lo que denota
+una patente falta de diligencia a la ahora de implementar procesos que garanticen el
+cumplimiento de la normativa aplicable al envío de comunicaciones comerciales por
+medios electrónicos y, b) Plazo de tiempo durante el que se haya venido cometiendo
+la infracción, puesto que pese a ejercer el reclamante, vía email, derecho de supresión
+el 10 de enero de 2019, la entidad denunciada le remite el 4 de abril de 2019 un nuevo
+email de carácter publicitario.
+Por lo tanto, de acuerdo con la legislación aplicable y valorados los criterios de
+graduación de las sanciones cuya existencia ha quedado acreditada,
+la Directora de la Agencia Española de Protección de Datos RESUELVE:
+PRIMERO: IMPONER a CONTAPUBLI RIOJA, S.L. (GESTIRIOJA), con NIF
+B26496554, por una infracción del artículo 21.1 de la LSSI, tipificada en el artículo
+38.4.d) de la LSSI, una multa de 2.500,00 € (DOS MIL QUINIENTOS euros).
+SEGUNDO: NOTIFICAR la presente resolución a CONTAPUBLI RIOJA, S.L.
+(GESTIRIOJA).
+TERCERO: Advertir al sancionado que deberá hacer efectiva la sanción impuesta una
+vez que la presente resolución sea ejecutiva, de conformidad con lo dispuesto en el
+art. 98.1.b) de la ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas (en adelante LPACAP), en el plazo de pago
+voluntario establecido en el art. 68 del Reglamento General de Recaudación, aprobado
+por Real Decreto 939/2005, de 29 de julio, en relación con el art. 62 de la Ley 58/2003,
+de 17 de diciembre, mediante su ingreso, indicando el NIF del sancionado y el número
+de procedimiento que figura en el encabezamiento de este documento, en la cuenta
+restringida nº ES00 0000 0000 0000 0000 0000, abierta a nombre de la Agencia
+Española de Protección de Datos en el Banco CAIXABANK, S.A. En caso contrario,
+se procederá a su recaudación en período ejecutivo.
+Recibida la notificación y una vez ejecutiva, si la fecha de ejecutividad se encuentra
+entre los días 1 y 15 de cada mes, ambos inclusive, el plazo para efectuar el pago
+voluntario será hasta el día 20 del mes siguiente o inmediato hábil posterior, y si se
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/6
+
+encuentra entre los días 16 y último de cada mes, ambos inclusive, el plazo del pago
+será hasta el 5 del segundo mes siguiente o inmediato hábil posterior.
+De conformidad con lo establecido en el artículo 50 de la LOPDPGDD, la presente
+Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa conforme al art. 48.6 de la
+LOPDPGDD, y de acuerdo con lo establecido en el artículo 123 de la LPACAP, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Finalmente, se señala que conforme a lo previsto en el art. 90.3 a) de la LPACAP, se
+podrá suspender cautelarmente la resolución firme en vía administrativa si el
+interesado manifiesta su intención de interponer recurso contencioso-administrativo.
+De ser éste el caso, el interesado deberá comunicar formalmente este hecho mediante
+escrito dirigido a la Agencia Española de Protección de Datos, presentándolo a través
+del Registro Electrónico de la Agencia [https://sedeagpd.gob.es/sede-electronicaweb/], o a través de alguno de los restantes registros previstos en el art. 16.4 de la
+citada Ley 39/2015, de 1 de octubre. También deberá trasladar a la Agencia la
+documentación que acredite la interposición efectiva del recurso contenciosoadministrativo. Si la Agencia no tuviese conocimiento de la interposición del recurso
+contencioso-administrativo en el plazo de dos meses desde el día siguiente a la
+notificación de la presente resolución, daría por finalizada la suspensión cautelar.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

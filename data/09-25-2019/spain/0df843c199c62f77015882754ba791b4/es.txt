@@ -1,0 +1,737 @@
+1/16
+
+863-240719
+
+Procedimiento Nº: A/00017/2019
+RESOLUCIÓN: R/00403/2019
+En el procedimiento A/00017/2019, instruido por la Agencia Española de
+Protección de Datos a la entidad COMUNICACIONES DEL CAMPO ESPAÑOL SLU,
+vista la denuncia presentada por Doña A.A.A., y en virtud de los siguientes
+ANTECEDENTES
+PRIMERO: Con fecha 15 de enero de 2019 se registra de entrada en la Agencia
+Española de Protección de Datos reclamación formulada por Doña A.A.A., (en lo
+sucesivo, la reclamante), dando cuenta que las páginas web ***URL.1 y ***URL.2
+incumplen lo previsto en la normativa vigente sobre dispositivos de almacenamiento y
+recuperación de datos (DARD o cookies, en lo sucesivo).
+SEGUNDO: Tras constatar, en fecha 6 de febrero de 2019, la instalación de las
+cookies “_ga”, “gid” y “_gat” del servicio Google Analytics en ambas páginas web, con
+fecha 18 de febrero de 2019 se trasladó a la mercantil COMUNICACIONES DEL
+CAMPO ESPAÑOL SLU, (en adelante, el reclamado), la reclamación presentada
+requiriéndole, entre otros extremos, la remisión a la AEPD de determinada información
+relacionada con los hechos expuestos en la misma.
+La notificación de dicho escrito se intentó practicar por medios electrónicos a
+través de la plataforma Notific@, siendo rechazada la misma al transcurrir diez días
+naturales desde la puesta a disposición de dicha notificación sin que el reclamado
+accediera a su contenido. De forma excepcional, con fecha 1 de marzo de 2019 se
+procedió a remitir nuevamente dicha notificación por correo postal certificado,
+constando que dicho envío fue devuelto a origen por sobrante con fecha 18 de marzo
+de 2019, al no haber sido retirado en la oficina de Correos por el reclamado.
+Con fecha 27 de marzo de 2019 se accede por Internet a los sitios web
+***URL.1 y ***URL.2, comprobándose en ambas visitas que, sin realizarse ningún tipo
+de acción por parte del usuario, se instala una cookie de doubleclick.net así como las
+cookies analíticas “_ga”, “gid” y “_gat” del Servicio de Google Analytics, Por lo cual,
+dichos dispositivos de tercera parte se almacenan en los terminales de los usuarios
+sin mediar el consentimiento informado de los interesados que acceden a los citados
+portales web.
+Asimismo, al acceder a la pantalla de inicio de los reseñados sitios web no se
+localiza ningún tipo de aviso informativo sobre el uso de cookies. Se comprueba que
+únicamente en el documento de “Política de Privacidad” de los referidos sitios web se
+incluye un apartado relativo al “Uso de Cookies”, cuyo tenor literal era el siguiente:
+“Una cookie es un pequeño archivo de datos que tu navegador web aloja en el disco
+duro de tu ordenador y que contiene cierta información de la visita a la página. Nuestra
+página únicamente utiliza cookies con el fin de facilitar la navegación de los usuarios y
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/16
+
+sin que en ningún caso sea posible asociar tales cookies a los datos personales
+concretos de los usuarios ni identificar a éstos a través de aquéllas. Como usuario
+decides si aceptas o no las cookies configurando tu navegador web.”
+A la vista de lo cual, con fecha 27 de marzo de 2019 la Directora de la Agencia
+Española de Protección de Datos acordó admitir a trámite la reclamación.
+TERCERO: Como fruto de la realización de actuaciones previas de investigación
+llevadas a cabo por la Subdirección General de Inspección de Datos para el
+esclarecimiento de los hechos en cuestión, con fecha 8 de mayo de 2019 se visitó el
+sitio web ***URL.1, comprobándose, según se desprende de la Diligencia de fecha 9
+de mayo de 2019 incorporada al expediente, los siguientes hechos:
+3.1. Que la instalación de las cookies se produce con carácter previo a la
+obtención del consentimiento informado del usuario, toda vez que tan pronto como se
+accede al sitio web se instalan, sin mediar ningún tipo de información ni acción
+afirmativa clara de aceptación del usuario para ello, las siguientes cookies de tercera
+parte no exentas del deber de informar:
+- Las cookies _ga, _gid y _gat de analítica web del servicio de Google Analytics
+- La cookie NID asociada al dominio google.com
+-Las cookies GPS, PREF, VISITOR_INFO1_LIVE, YSC asociadas al dominio
+youtube.com
+3.2 Al navegar por las distintas páginas del citado sitio se comprueba que
+además de las cookies referidas en el punto 3.1.1 anterior, también se descargan:
+La cookies 1P_JAR, IDE y DSID asociadas al dominio doubleclik.net,
+La cookie dkv asociada al dominio youtube.com
+3.3. Respecto del contenido del sistema de información por capas ofrecido por
+el reclamado, que en el aviso legal del sitio figura como titular del mismo, se observa:
+El aviso de cookies de la primera capa muestra el siguiente texto: “Política de
+cookies: Esta página utiliza cookies y otras tecnologías para que podamos mejorar su
+experiencia en nuestros sitios: Más información, bajo el cual se incluye un botón con el
+literal “Acepto”.
+En esta primera capa no se informa sobre los siguientes aspectos:
+-Si son cookies propias y/o de terceros.
+- No se identifican las finalidades para las que se usan los diferentes tipos de
+cookies usadas, ya que, de la fórmula utilizada, consistente en indicar que se utilizan
+“para que podamos mejorar su experiencia en nuestros sitios”, no ofrece una
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/16
+
+información sucinta y específica referida a las finalidades para las que se usan los
+diferentes tipos de cookies detectados, entre otras, cookies analíticas, publicitarias,
+preferencias o personalización de publicidad comportamental.
+- Modo en que el usuario puede configurar preferencias o rechazar la utilización
+de cookies.
+- El enlace “Más información” no dirige a la segunda capa, sino que enlaza con
+el documento de “Política de Privacidad”.
+Se observa que el enlace más información, en lugar de dirigir a la segunda
+capa informativa conduce al documento de “Política de Privacidad” del sitio web,
+donde no se ofrece información relativa al uso de cookies en el sitio web.
+3.3 Al pie de las páginas del sitio, entre otros enlaces, se encuentra un acceso
+permanente al documento “Política de Cookies.”, en el que se informa del uso de
+cookies en el sitio “para facilitar la relación de los visitantes con nuestro contenido y
+para permitir elaborar estadísticas sobre las visitantes que recibimos”; se definen qué
+son las cookies; se informa genéricamente sobre las diferentes opciones ofrecidas
+por la mayor parte de los navegadores para configurar el rechazo u aceptación de las
+cookies, señalando que “Para permitir, conocer, bloquear o eliminar las cookies
+instaladas en su equipo puede hacerlo mediante la configuración de las opciones del
+navegador instalado en su ordenador” y se ofrecen las ubicaciones para configurar los
+navegadores Internet Explorer, Firefox, Chrome y Safari; también incluye una tabla en
+la que se detalla el nombre, tipo, finalidad de uso, primera o tercera parte y duración
+de las cookies utilizadas.
+En este documento, que de funcionar correctamente el enlace “Más
+información” constituiría la segunda capa, no informa sobre los siguientes aspectos:
+- No se identifican los terceros que utilizan las cookies, para lo cual, si no se
+conoce su denominación social completa puede proporcionarse el nombre o marca
+con la que se conocen públicamente dichos terceros.
+- Informa genéricamente sobre el modo de eliminar las cookies, sin facilitar un
+sistema de gestión o panel de configuración de cookies que permita al usuario optar
+entre rechazar todas las cookies, habilitar todas las cookies o hacerlo de forma
+granular para poder administrar preferencias, bien a través de las funcionalidades
+facilitadas por el editor, el terminal o a través de las plataformas comunes que puedan
+existir para esa finalidad.
+A este respecto se considera que la información ofrecida sobre las
+herramientas proporcionadas por varios navegadores para configurar las cookies sería
+complementaria a la anterior, pero insuficiente para el fin pretendido de permitir
+configurar las preferencias en forma granular.
+-
+
+No informa sobre la forma de revocar el consentimiento prestado ni proporciona
+información sobre el enlace del “Complemento inhabilitación para navegadores de
+Google Analytics”, que facilita la información necesaria para poder bloquear las
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/16
+
+cookies analíticas de dicho servicio en función del navegador utilizado por el usuario,
+localizable en la página web https://tools.google.com/dlpage/gaoptout?hl=es
+CUARTO: Fruto de las mismas actuaciones previas de investigación llevadas a cabo
+por la Subdirección General de Inspección de Datos para el esclarecimiento de los
+hechos en cuestión, a raíz del acceso efectuado al sitio web ***URL.2 se constataron,
+según se desprende de la Diligencia de fecha 9 de mayo de 2019 incorporada al
+expediente, los siguientes hechos:
+4.1 Que la única información que se ofrece sobre el uso de cookies es la
+incluida en un apartado del documento de política de privacidad relativo al “Uso de
+Cookies”, y cuyo contenido es el mismo que se ha transcrito en el Hecho Segundo.
+4.2. Que la instalación de las cookies se produce con carácter previo a la
+obtención del consentimiento informado del usuario, toda vez que tan pronto como se
+accede al sitio web se instalan, sin mediar ningún tipo de información ni acción
+afirmativa clara de aceptación del usuario para ello, las siguientes cookies de tercera
+parte no exentas del deber de informar:
+- Las cookies _ga y _gid de analítica web del servicio de Google Analytics
+4.3. Al navegar por las distintas páginas del citado sitio se descargan:
+-Las cookies GPS, PREF, VISITOR_INFO1_LIVE, YSC asociadas al dominio
+youtube.com
+- La cookies _ga , _gat y _gid de analítica web del servicio de Google Analytics
+QUINTO: Consultada con fecha 9 de mayo de 2019 la aplicación de la AEPD que
+muestra información sobre de antecedentes de sanciones y apercibimientos
+precedentes, no constan registros previos por infracción del artículo 22.2 de la Ley
+34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio
+Electrónico asociados a la mercantil COMUNICACIONES DEL CAMPO ESPAÑOL
+SLU.
+SEXTO: Con fecha 17 de mayo de 2019, la Directora de la Agencia Española de
+Protección de Datos acordó someter a trámite de audiencia previa el presente
+procedimiento de apercibimiento A/00017/2019, con arreglo a lo dispuesto en el
+artículo 39 bis 2 de la de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de
+la Información y Comercio Electrónico (en lo sucesivo, LSSI), con relación a la
+denuncia por infracción del artículo 22.2 de la LSSI, tipificada como leve en el artículo
+38.4 g) de dicha norma.
+La notificación de dicho trámite de audiencia a la sociedad
+COMUNICACIONES DEL CAMPO ESPAÑOL SLU, se practicó a través del Servicio de
+Notificaciones Electrónicas y Dirección Electrónica Habilitada, constando el 20 de
+mayo de 2019, como fecha de puesta a disposición del citado acto y el 31 de mayo de
+2019 como fecha de rechazo automático, Expirada, de dicha notificación.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/16
+
+Con fecha 6 de junio de 2019 se procedió a remitir nuevamente dicha
+notificación por correo postal certificado, constando que dicho envío fue devuelto a
+origen por sobrante al no haber sido retirado en la oficina de Correos por el reclamado.
+SÉPTIMO: Con fecha 16 de agosto de 2019 se accede a las páginas web ***URL.1 y
+***URL.2, observándose que, desde la visita anterior, no se ha modificado el contenido
+del sistema de información por capas ofrecido sobre el uso de dispositivos de
+almacenamiento y recuperación de datos (DARD o cookies) ni la descarga de dichos
+dispositivos con anterioridad a la obtención del consentimiento de los usuarios a su
+instalación.
+HECHOS PROBADOS
+PRIMERO: La sociedad COMUNICACIONES DEL CAMPO ESPAÑOL SLU, es
+responsable de las páginas web ***URL.1 y ***URL.2, dedicadas al desarrollo rural y
+de la mujer en el campo.
+SEGUNDO: En las visitas efectuadas a la página web ***URL.1, con fechas 8 de
+mayo y 16 de agosto de 2019, se ha comprobado que la instalación de las cookies se
+produce con carácter previo a la obtención del consentimiento informado del usuario,
+toda vez que tan pronto como se accede al sitio web se instalan, sin mediar ningún
+tipo de información ni acción afirmativa clara de aceptación del usuario para ello, las
+siguientes cookies de tercera parte no exentas del deber de informar:
+- Las cookies _ga, _gid y _gat de analítica web del servicio de Google Analytics
+- La cookie NID asociada al dominio google.com
+-Las cookies GPS, PREF, VISITOR_INFO1_LIVE, YSC asociadas al dominio
+youtube.com
+3.2 Al navegar por las distintas páginas del citado sitio se comprueba que
+además de las cookies referidas en el punto 3.1.1 anterior, también se descargan:
+La cookies 1P_JAR, IDE y DSID asociadas al dominio doubleclik.net,
+La cookie dkv asociada al dominio youtube.com
+TERCERO: En el aviso legal del sitio, se observa que el aviso de cookies de la primera
+capa muestra el siguiente texto: “Política de cookies: Esta página utiliza cookies y
+otras tecnologías para que podamos mejorar su experiencia en nuestros sitios: Más
+información, bajo el cual se incluye un botón con el literal “Acepto”.
+En esta primera capa no se informa sobre los siguientes aspectos:
+-Si son cookies propias y/o de terceros.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/16
+
+- No se identifican las finalidades para las que se usan los diferentes tipos de
+cookies usadas, ya que, de la fórmula utilizada, consistente en indicar que se utilizan
+“para que podamos mejorar su experiencia en nuestros sitios”, no ofrece una
+información sucinta y específica referida a las finalidades para las que se usan los
+diferentes tipos de cookies detectados, entre otras, cookies analíticas, publicitarias,
+preferencias o personalización de publicidad comportamental.
+- Modo en que el usuario puede configurar preferencias o rechazar la utilización
+de cookies.
+- El enlace “Más información” no dirige a la segunda capa, sino que enlaza con
+el documento de “Política de Privacidad”.
+Se observa que el enlace más información, en lugar de dirigir a la segunda
+capa informativa conduce al documento de “Política de Privacidad” del sitio web,
+donde no se ofrece información relativa al uso de cookies en el sitio web.
+Al pie de las páginas del sitio, entre otros enlaces, se encuentra un acceso
+permanente al documento “Política de Cookies.”, en el que se informa del uso de
+cookies en el sitio “para facilitar la relación de los visitantes con nuestro contenido y
+para permitir elaborar estadísticas sobre las visitantes que recibimos”; se definen qué
+son las cookies; se informa genéricamente sobre las diferentes opciones ofrecidas
+por la mayor parte de los navegadores para configurar el rechazo u aceptación de las
+cookies, señalando que “Para permitir, conocer, bloquear o eliminar las cookies
+instaladas en su equipo puede hacerlo mediante la configuración de las opciones del
+navegador instalado en su ordenador” y se ofrecen las ubicaciones para configurar los
+navegadores Internet Explorer, Firefox, Chrome y Safari; también incluye una tabla en
+la que se detalla el nombre, tipo, finalidad de uso, primera o tercera parte y duración
+de las cookies utilizadas.
+En este documento, que de funcionar correctamente el enlace “Más
+información” constituiría la segunda capa, no informa sobre los siguientes aspectos:
+- No se identifican los terceros que utilizan las cookies, para lo cual, si no se
+conoce su denominación social completa puede proporcionarse el nombre o marca
+con la que se conocen públicamente dichos terceros.
+- Informa genéricamente sobre el modo de eliminar las cookies, sin facilitar un
+sistema de gestión o panel de configuración de cookies que permita al usuario optar
+entre rechazar todas las cookies, habilitar todas las cookies o hacerlo de forma
+granular para poder administrar preferencias, bien a través de las funcionalidades
+facilitadas por el editor, el terminal o a través de las plataformas comunes que puedan
+existir para esa finalidad.
+A este respecto se considera que la información ofrecida sobre las
+herramientas proporcionadas por varios navegadores para configurar las cookies sería
+complementaria a la anterior, pero insuficiente para el fin pretendido de permitir
+configurar las preferencias en forma granular.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/16
+
+-
+
+No informa sobre la forma de revocar el consentimiento prestado ni proporciona
+información sobre el enlace del “Complemento inhabilitación para navegadores de
+Google Analytics”, que facilita la información necesaria para poder bloquear las
+cookies analíticas de dicho servicio en función del navegador utilizado por el usuario,
+localizable en la página web https://tools.google.com/dlpage/gaoptout?hl=es
+CUARTO: En el sitio web ***URL.2, la única información que se ofrece sobre el uso de
+cookies es la incluida en un apartado del documento de política de privacidad relativo
+al “Uso de Cookies”, y cuyo contenido es el mismo que se ha transcrito en el Hecho
+Segundo.
+La instalación de las cookies se produce con carácter previo a la obtención del
+consentimiento informado del usuario, toda vez que tan pronto como se accede al sitio
+web se instalan, sin mediar ningún tipo de información ni acción afirmativa clara de
+aceptación del usuario para ello, las siguientes cookies de tercera parte no exentas del
+deber de informar:
+- Las cookies _ga y _gid de analítica web del servicio de Google Analytics
+Al navegar por las distintas páginas del citado sitio se descargan:
+-Las cookies GPS, PREF, VISITOR_INFO1_LIVE, YSC asociadas al dominio
+youtube.com
+- La cookies _ga , _gat y _gid de analítica web del servicio de Google Analytics
+
+FUNDAMENTOS DE DERECHO
+I
+Es competente para resolver este procedimiento la Directora de la Agencia
+Española de Protección de Datos, de conformidad con lo dispuesto en el artículo 43.1
+de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y
+Comercio Electrónico (en lo sucesivo, LSSI).
+II
+El artículo 43 de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, dispone:
+“Artículo 43. Práctica de las notificaciones a través de medios electrónicos.
+1. Las notificaciones por medios electrónicos se practicarán mediante
+comparecencia en la sede electrónica de la Administración u Organismo actuante, a
+través de la dirección electrónica habilitada única o mediante ambos sistemas, según
+disponga cada Administración u Organismo.
+A los efectos previstos en este artículo, se entiende por comparecencia en la sede
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+8/16
+
+electrónica, el acceso por el interesado o su representante debidamente identificado al
+contenido de la notificación.
+2. Las notificaciones por medios electrónicos se entenderán practicadas en el
+momento en que se produzca el acceso a su contenido.
+Cuando la notificación por medios electrónicos sea de carácter obligatorio, o
+haya sido expresamente elegida por el interesado, se entenderá rechazada cuando
+hayan transcurrido diez días naturales desde la puesta a disposición de la notificación
+sin que se acceda a su contenido.
+3. Se entenderá cumplida la obligación a la que se refiere el artículo 40.4 con la
+puesta a disposición de la notificación en la sede electrónica de la Administración u
+Organismo actuante o en la dirección electrónica habilitada única.
+4. Los interesados podrán acceder a las notificaciones desde el Punto de
+Acceso General electrónico de la Administración, que funcionará como un portal de
+acceso.” (El subrayado es de la AEPD)
+El artículo 41.5 de la misma norma, señala en relación con las “Condiciones
+generales para la práctica de las notificaciones” que:
+“5. Cuando el interesado o su representante rechace la notificación de una
+actuación administrativa, se hará constar en el expediente, especificándose las
+circunstancias del intento de notificación y el medio, dando por efectuado el trámite y
+siguiéndose el procedimiento.”
+A la vista de lo señalado en los artículos 43.2 y 41.5 de la citada Ley 39/2015,
+se da por efectuada la práctica de la notificación del trámite de audiencia del
+A/00017/2019.
+III
+El artículo 22.2 de la LSSI dispone: Los prestadores de servicios podrán
+utilizar dispositivos de almacenamiento y recuperación de datos en equipos terminales
+de los destinatarios, a condición de que los mismos hayan dado su consentimiento
+después de que se les haya facilitado información clara y completa sobre su
+utilización, en particular, sobre los fines del tratamiento de los datos, con arreglo a lo
+dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre , de protección de datos de
+carácter personal.
+Cuando sea técnicamente posible y eficaz, el consentimiento del destinatario
+para aceptar el tratamiento de los datos podrá facilitarse mediante el uso de los
+parámetros adecuados del navegador o de otras aplicaciones.
+Lo anterior no impedirá el posible almacenamiento o acceso de índole técnica
+al solo fin de efectuar la transmisión de una comunicación por una red de
+comunicaciones electrónicas o, en la medida que resulte estrictamente necesario,
+para la prestación de un servicio de la sociedad de la información expresamente
+solicitado por el destinatario”.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+9/16
+
+El citado artículo 22.2 de la LSSI extiende su alcance a todos los tipos de
+dispositivos de almacenamiento y recuperación de datos utilizados por los prestadores
+de servicios de la sociedad de la información en cualesquiera equipos terminales de
+los destinatarios de dichos servicios, lo que incluye no sólo las cookies, que son
+archivos o ficheros de uso generalizado que permiten almacenar datos en dichos
+equipos con diferentes finalidades, sino también cualquier otra tecnología similar
+utilizada para almacenar información o acceder a información almacenada en el
+equipo terminal.
+No hay que olvidar que en muchos casos los usuarios que utilizan los
+servicios de Internet desconocen que el acceso a los mismos puede conllevar la
+instalación de ficheros o archivos en sus equipos terminales, y que al ser
+recuperados con la información almacenada en los mismos permiten no sólo mejorar
+la navegación y prestar correctamente el servicio solicitado sino que también
+posibilitan, con las implicaciones para la privacidad de los usuarios que ello supone, la
+recogida actualizada y continuada de datos relacionados con sus equipos y perfiles
+de navegación, que posteriormente podrán ser utilizados por los responsables de los
+sitios web a los que se accede, o por los terceros, para analizar su comportamiento y
+para el envío de publicidad basada en el mismo o como medio para el desarrollo de
+otros productos y servicios concretos.
+Por lo tanto, para garantizar la utilización de tales dispositivos con fines
+legítimos y con el conocimiento de los usuarios afectados, que con mayor frecuencia
+recurren a Internet para la realización de sus actividades cotidianas, la regulación
+comunitaria y nacional establece la obtención de un consentimiento informado con el
+fin de asegurar que éstos puedan conocer del uso de sus datos y las finalidades para
+las que son utilizados.
+IV
+El Anexo de la LSSI define en su apartado c) al prestador de servicios como
+la “persona física o jurídica que proporciona un servicio de la sociedad de la
+información”. Y por servicio de la sociedad de la información el apartado a) entiende
+“todo servicio prestado normalmente a título oneroso, a distancia, por vía electrónica y
+a petición individual del destinatario.
+El concepto de servicio de la sociedad de la información comprende también
+los servicios no remunerados por sus destinatarios, en la medida en que constituyan
+una actividad económica para el prestador de servicios.
+Son servicios de la sociedad de la información, entre otros y siempre que
+representen una actividad económica, los siguientes:
+1.º La contratación de bienes o servicios por vía electrónica.
+2.º La organización y gestión de subastas por medios electrónicos o de
+mercados y centros comerciales virtuales.
+3.º La gestión de compras en la red por grupos de personas.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+10/16
+
+4.º El envío de comunicaciones comerciales.
+5.º El suministro de información por vía telemática.
+En el presente caso ha de considerarse Prestador de Servicios de la
+Sociedad de la Información a la entidad COMUNICACIONES DEL CAMPO ESPAÑOL
+SLU, como responsable de la página web objeto de análisis y por tanto situarla bajo
+las obligaciones y el régimen sancionador de la LSSI.
+De acuerdo con la redacción del artículo 22.2 de la LSSI y el sentido legal de
+los conceptos empleados en el mismo, el prestador de servicios de la sociedad de la
+información podrá utilizar los referidos dispositivos para almacenar y recuperar datos
+del equipo terminal de una persona física o jurídica que utilice, sea o no por motivos
+profesionales, un servicio de la sociedad de la información, ello a condición de que el
+destinatario haya dado su consentimiento una vez que se le haya facilitado
+información clara y completa sobre su utilización.
+No obstante, y aunque pudieran afectar al tratamiento de datos en las
+comunicaciones electrónicas, el tercer párrafo del reseñado artículo introduce
+determinadas exenciones al cumplimiento de las exigencias fijadas en dicho
+precepto, siempre y cuando todas y cada una de las finalidades para las que se
+utilicen las cookies estén individualmente exentas del deber de informar y obtener el
+consentimiento sobre su uso.
+La primera exención requiere que la utilización de las cookies tenga como
+único fin permitir la comunicación entre el equipo del usuario y la red. La segunda
+exención requiere que la instalación de las cookies sea necesaria para la prestación
+de un servicio de la sociedad de la información expresamente solicitado por el
+usuario.
+V
+El modo de ofrecer la información del citado artículo 22.2 de la LSSI no
+obedece a supuestos tasados, lo relevante es cualquier fórmula que satisfaga la
+finalidad del precepto es perfectamente válida. En este supuesto, el prestador de
+servicios de la sociedad de la información ha utilizado un sistema de información por
+capas, de modo que la segunda capa complemente a la primera.
+En la primera capa debe mostrarse la información esencial sobre la existencia
+de DARD o cookies, si son propias o de terceros y las finalidades de las cookies
+empleadas, así como los modos de prestar el consentimiento.
+En cuanto a la información ofrecida en la segunda capa, esta Agencia ha
+venido indicando que dicha información adicional y complementaria de la primera,
+debería versar sobre qué son y para qué se utilizan las cookies, los tipos de cookies
+utilizadas y su finalidad, así como la forma de desactivar o eliminar la cookies
+enunciadas a través de las funcionalidades facilitadas por el editor, las herramientas
+proporcionadas por el navegador o el terminal o a través de las plataformas comunes
+que pudieran existir, para esta finalidad o en su caso, la forma de revocación del
+consentimiento ya prestado.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+11/16
+
+Finalmente, en esta segunda capa debe ofrecerse información sobre la
+identificación de quien utiliza las cookies, esto es, si la información obtenida por las
+cookies es tratada solo por el editor y/o también por terceros. Con la identificación de
+aquellos con los que haya contratado o cuyos servicios ha decidido integrar el editor.
+Por tanto, el suministro de la información adicional en una segunda capa por
+grupos de dispositivos, da cumplimiento al precepto, siempre que exista identidad
+entre ellas y ello no produzca ambigüedad, y, en todo caso, se indique si son de
+primera o de tercera parte, con identificación del tercero, y su finalidad, así como con
+alusión a los mecanismos de rechazo de las cookies enunciadas y la forma de
+revocación del consentimiento ya prestado.
+La normativa estudiada pretende que el usuario sea suficientemente
+informado sobre la utilización de dispositivos de almacenamiento y recuperación de
+datos en su equipo terminal, siendo esencial que dicha información verse sobre las
+finalidades de dichos dispositivos, pero sin exigir que la información detalle los
+nombres de todas y cada una de las cookies no exentas descargadas.
+Ahora bien, nada obsta a que dicha información adicional se ofrezca, a los
+efectos de dar cumplimiento a los requisitos de la segunda capa, en un cuadro adjunto
+que señale el dominio bajo el cual figura la cookie, su finalidad concreta, y si es propia
+o de tercera parte, con identificación, en su caso, del tercero en cuestión.
+Es decir, aunque dicho sistema no sea exigible la Agencia entiende que la
+descripción contenida en el citado cuadro puede dar cumplimiento a los requisitos de
+la segunda capa relativos a los tipos de cookies utilizadas y su finalidad, así como
+sobre quién utiliza las cookies, en la medida en que contenga la información exigible
+antes especificada.
+VI
+En el presente caso, a raíz de los hechos constatados como consecuencia de
+los accesos realizados a las páginas web ***URL.1 y ***URL.2, se ha verificado que
+COMUNICACIONES DEL CAMPO ESPAÑOL SLU, en su condición de entidad
+responsable del citado sitio web, instala cookies con carácter previo a la obtención del
+consentimiento informado del usuario, toda vez que tan pronto como se accede al sitio
+web se instalan, sin mediar ningún tipo de información ni acción afirmativa clara de
+aceptación del usuario para ello, cookies de tercera parte no exentas del deber de
+informar.
+Así, con fechas 8 y 9 de mayo y 16 de agosto se constató que al acceder a
+los reseñados sitios web se descargaron, sin mediar acción alguna de aceptación del
+usuario, las cookies de tercera parte publicitarios y de seguimiento de los hábitos de
+navegación de los usuarios del portal (analítica web) que se describen en los Hechos
+Probados. Esta instalación se produce sin que el usuario pueda acceder a la
+información sobre cookies ofrecida en el portal mediante un sistema de capas y antes
+de que consienta el uso de dichos dispositivos.
+Probada la instalación de dichos dispositivos sin mediar el consentimiento
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+12/16
+
+informado de los usuarios, conviene reseñar que la información ofrecida sobre el uso
+de cookies por el prestador de servicios responsable de las páginas web en cuestión
+no resulta clara y completa.
+En el aviso legal del sitio web, se observa que el aviso de cookies de la primera
+capa muestra el siguiente texto: “Política de cookies: Esta página utiliza cookies y
+otras tecnologías para que podamos mejorar su experiencia en nuestros sitios: Más
+información, bajo el cual se incluye un botón con el literal “Acepto”.
+En esta primera capa no se informa sobre los siguientes aspectos: Si son
+cookies propias y/o de terceros; No se identifican las finalidades para las que se usan
+los diferentes tipos de cookies usadas, ya que, de la fórmula utilizada, consistente en
+indicar que se utilizan “para que podamos mejorar su experiencia en nuestros sitios”,
+no ofrece una información sucinta y específica referida a las finalidades para las que
+se usan los diferentes tipos de cookies detectados, entre otras, cookies analíticas,
+publicitarias, preferencias o personalización de publicidad comportamental; Modo en
+que el usuario puede configurar preferencias o rechazar la utilización de cookies.
+El enlace “Más información” no dirige a la segunda capa, sino que enlaza con
+el documento de “Política de Privacidad”.
+Al pie de las páginas del sitio, entre otros enlaces, se encuentra un acceso
+permanente al documento “Política de Cookies.”, en el que se informa del uso de
+cookies en el sitio “para facilitar la relación de los visitantes con nuestro contenido y
+para permitir elaborar estadísticas sobre las visitantes que recibimos”; se definen qué
+son las cookies; se informa genéricamente sobre las diferentes opciones ofrecidas
+por la mayor parte de los navegadores para configurar el rechazo u aceptación de las
+cookies, señalando que “Para permitir, conocer, bloquear o eliminar las cookies
+instaladas en su equipo puede hacerlo mediante la configuración de las opciones del
+navegador instalado en su ordenador” y se ofrecen las ubicaciones para configurar los
+navegadores Internet Explorer, Firefox, Chrome y Safari; también incluye una tabla en
+la que se detalla el nombre, tipo, finalidad de uso, primera o tercera parte y duración
+de las cookies utilizadas.
+En este documento, que de funcionar correctamente el enlace “Más
+información” constituiría la segunda capa, no informa sobre los siguientes aspectos:
+No se identifican los terceros que utilizan las cookies, para lo cual, si no se conoce su
+denominación social completa puede proporcionarse el nombre o marca con la que se
+conocen públicamente dichos terceros; Informa genéricamente sobre el modo de
+eliminar las cookies, sin facilitar un sistema de gestión o panel de configuración de
+cookies que permita al usuario optar entre rechazar todas las cookies, habilitar todas
+las cookies o hacerlo de forma granular para poder administrar preferencias, bien a
+través de las funcionalidades facilitadas por el editor, el terminal o a través de las
+plataformas comunes que puedan existir para esa finalidad.
+A este respecto se considera que la información ofrecida sobre las
+herramientas proporcionadas por varios navegadores para configurar las cookies sería
+complementaria a la anterior, pero insuficiente para el fin pretendido de permitir
+configurar las preferencias en forma granular.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+13/16
+
+Por último, No informa sobre la forma de revocar el consentimiento prestado ni
+proporciona información sobre el enlace del “Complemento inhabilitación para
+navegadores de Google Analytics”, que facilita la información necesaria para poder
+bloquear las cookies analíticas de dicho servicio en función del navegador utilizado por
+el usuario, localizable en la página web ***URL.3.
+En la segunda página web, , la única información que se ofrece sobre el uso de
+cookies es la incluida en un apartado del documento de política de privacidad relativo
+al “Uso de Cookies”, y cuyo contenido es el mismo que se ha transcrito en el
+antecedente Segundo.
+La instalación de las cookies se produce con carácter previo a la obtención del
+consentimiento informado del usuario, toda vez que tan pronto como se accede al sitio
+web se instalan, sin mediar ningún tipo de información ni acción afirmativa clara de
+aceptación del usuario para ello, las siguientes cookies de tercera parte no exentas del
+deber de informar:
+- Las cookies _ga y _gid de analítica web del servicio de Google Analytics
+Al navegar por las distintas páginas del citado sitio se descargan:
+-Las cookies GPS, PREF, VISITOR_INFO1_LIVE, YSC asociadas al dominio
+youtube.com
+- La cookies _ga , _gat y _gid de analítica web del servicio de Google Analytics
+De lo expuesto se evidencia que no se estaría ante un consentimiento
+libremente otorgado, ya que la navegación en el sitio web se condiciona a la
+aceptación obligatoria de las cookies no exentas del deber de información que se
+instalan. Lo que ocurre a pesar de que no se trata de cookies técnicas ni su instalación
+resulta estrictamente necesaria para la prestación de un servicio de la sociedad de la
+información expresamente solicitado por el usuario.
+Respecto de la información ofrecida en la segunda capa, se observa que, a
+pesar del deber de proporcionar información actualizada, el proveedor de servicios de
+la sociedad de la información mantiene las deficiencias señaladas en los párrafos
+anteriores.
+En consecuencia, con la información ofrecida por el responsable del sitio no
+media un consentimiento válido, habida cuenta que no es libre, específico, inequívoco
+ni informado. Las cookies se instalan con anterioridad a que el usuario tenga acceso a
+la información ofrecida en el sitio web sobre las mismas y pueda manifestar,
+libremente, su consentimiento a su uso respecto de cada una de las finalidades a las
+que responden mediante una clara acción afirmativa, y todo ello siempre que se
+ofrezca una información clara y completa.
+En definitiva, los sitios web denunciados no ofrecen información clara y
+completa respecto de la instalación de cookies que cumpla con el mandato del artículo
+22.2 de la LSSI, ello a pesar de ser un requisito necesario para poder obtener un
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+14/16
+
+consentimiento informado.
+Por todo ello, la ausencia de información respecto de los DARD utilizados en la
+citada página web, junto con la descarga de DARD con independencia de aceptar su
+uso, no permite obtener un consentimiento informado
+para su uso, tal y como
+requiere el artículo 22.2 de la LSSI.
+La conducta descrita está tipificada como leve en el artículo 38.4.g) de la LSSI,
+que señala como tal: “Utilizar dispositivos de almacenamiento y recuperación de datos
+cuando no se hubiera facilitado la información u obtenido el consentimiento del
+destinatario del servicio en los términos exigidos por el artículo 22.2.”
+VII
+El artículo 39 bis de la LSSI, bajo el epígrafe “Moderación de las sanciones”,
+estipula en su apartado 2 lo siguiente:
+“2. Los órganos con competencia sancionadora, atendida la naturaleza de los
+hechos y la concurrencia significativa de los criterios establecidos en el apartado
+anterior, podrán acordar no iniciar la apertura del procedimiento sancionador y, en su
+lugar, apercibir al sujeto responsable, a fin de que en el plazo que el órgano
+sancionador determine, acredite la adopción de las medidas correctoras que, en cada
+caso, resulten pertinentes, siempre que concurran los siguientes presupuestos:
+a) Que los hechos fuesen constitutivos de infracción leve o grave conforme a lo
+dispuesto en esta Ley.
+b) Que el órgano competente no hubiese sancionado o apercibido con
+anterioridad al infractor como consecuencia de la comisión de infracciones previstas
+en esta Ley.
+Si el apercibimiento no fuera atendido en el plazo que el órgano sancionador
+hubiera determinado, procederá la apertura del correspondiente procedimiento
+sancionador por dicho incumplimiento.”
+Por su parte, el artículo 40 de la LSSI, en cuanto a la “Graduación de la cuantía
+de las sanciones.”, dispone:
+“La cuantía de las multas que se impongan se graduará atendiendo a los
+siguientes criterios:
+a) La existencia de intencionalidad.
+b) Plazo de tiempo durante el que se haya venido cometiendo la infracción.
+c) La reincidencia por comisión de infracciones de la misma naturaleza, cuando
+así haya sido declarado por resolución firme.
+d) La naturaleza y cuantía de los perjuicios causados.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+15/16
+
+e) Los beneficios obtenidos por la infracción.
+f) Volumen de facturación a que afecte la infracción cometida.
+g) La adhesión a un código de conducta o a un sistema de autorregulación
+publicitaria aplicable respecto a la infracción cometida, que cumpla con lo dispuesto en
+el artículo 18 o en la disposición final octava y que haya sido informado
+favorablemente por el órgano u órganos competentes.”
+En el presente supuesto se cumplen los requisitos recogidos en las letras a) y
+b) del citado apartado 2 del artículo 39 bis. Junto a ello, se aprecia que concurre la
+circunstancia, prevista en el artículo 39 bis, apartado 1.a), que dispone que “Cuando
+se aprecie una cualificada disminución de la culpabilidad del imputado o de la
+antijuridicidad del hecho como consecuencia de la concurrencia significativa de varios
+de los criterios enunciados en el artículo 40”, concurriendo en este caso los criterios
+d) y e) del citado precepto, por cuanto no hay constancia de la existencia de
+perjuicios causados ni de beneficios obtenidos a raíz de la comisión de la infracción
+descrita.
+Lo que permite apercibir al responsable de las páginas web denunciadas,
+requiriéndole la adopción de medidas para la adecuación a la normativa citada.
+Por lo tanto, de acuerdo con lo señalado,
+Por la Directora de la Agencia Española de Protección de Datos,
+SE ACUERDA:
+1.- APERCIBIR (A/00017/2019) a COMUNICACIONES DEL CAMPO ESPAÑOL SLU,
+con arreglo a lo dispuesto en el artículo 39 bis, apartado 2, de la LSSI, en relación a la
+denuncia por infracción del artículo 22.2 de la LSSI, tipificada como leve en el artículo
+38.4.g) de la citada norma.
+2.- REQUERIR a COMUNICACIONES DEL CAMPO ESPAÑOL SLU, de acuerdo con
+lo establecido en el apartado 2 del artículo 39 bis de la LSSI para que en el plazo de
+UN MES desde la notificación de la presente resolución.
+2.1.- CUMPLA lo previsto en el artículo 22.2 de la LSSI, para lo que se insta a
+dicha entidad a configurar los sitios web ***URL.1 y ***URL.2, de los que es
+responsable, de modo que no instale dispositivos de almacenamiento y recuperación
+de datos en los terminales de los usuarios sin haberles facilitado, previamente, la
+información necesaria y adecuada para obtener el consentimiento informado de los
+mismos.
+2.2 INFORME a la Agencia Española de Protección de Datos del cumplimiento
+de lo requerido, aportando los documentos o medios de prueba que acrediten dicha
+circunstancia
+3.- NOTIFICAR el presente Acuerdo a COMUNICACIONES DEL CAMPO ESPAÑOL
+SLU.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+16/16
+
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados
+Contra esta resolución, que pone fin a la vía administrativa (artículo 48.2 de la
+LOPD), y de conformidad con lo establecido en los artículos 112 y 123 de la Ley
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, los interesados podrán interponer, potestativamente,
+recurso de reposición ante la Directora de la Agencia Española de Protección de Datos
+en el plazo de un mes a contar desde el día siguiente a la notificación de esta
+resolución, o, directamente recurso contencioso administrativo ante la Sala de lo
+Contencioso-administrativo de la Audiencia Nacional, con arreglo a lo dispuesto en el
+artículo 25 y en el apartado 5 de la disposición adicional cuarta de la Ley 29/1998, de
+13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa, en el plazo de
+dos meses a contar desde el día siguiente a la notificación de esta acto, según lo
+previsto en el artículo 46.1 del referido texto legal.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

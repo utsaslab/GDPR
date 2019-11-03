@@ -33,25 +33,6 @@ from selenium.webdriver.support import expected_conditions as EC
 
 from ...policies import webdriver_executable_path_policy
 
-class element_has_populated_list(object):
-  """An expectation for checking that an element has a particular css class.
-
-  locator - used to find the element
-  returns the WebElement once it has the particular css class
-  """
-  def __init__(self, locator):
-    self.locator = locator
-
-  def __call__(self, driver):
-    element = driver.find_element(*self.locator)   # Finding the referenced element
-    li_elements = element.find_elements_by_tag_name("li")
-    print('li_elements:')
-    print(len(li_elements))
-    if len(li_elements) > 1:
-        return element
-    else:
-        return False
-
 class Slovenia(DPA):
     def __init__(self):
         iso_code='si'
@@ -97,14 +78,14 @@ class Slovenia(DPA):
                 return True
 
             pagination = Pagination()
-            pagination.add_link(source_url)
+            pagination.add_item(source_url)
 
             for li in paginator.find_all('li'):
                 a = li.find('a')
                 if a is None:
                     continue
                 href = a.get('href')
-                pagination.add_link(href)
+                pagination.add_item(href)
 
             while pagination.has_next():
                 page_url = pagination.get_next()
@@ -181,133 +162,5 @@ class Slovenia(DPA):
                     print('something went wrong with the driver.')
         finally:
             driver.quit()
-
-        return True
-
-    def get_docs_2(self, path):
-        if bulk_collect_location_policy.is_allowed(path) is False:
-            raise ValueError('Bulk collect path is illegal ' + path)
-
-        source = self.sources[0]
-
-        host = source['host']
-        start_path = source['start_path']
-        target_element = source['target_element']
-
-        language_code = 'sk'
-
-        folder_name = self.country.replace(' ', '-').lower()
-        root_path = path + '/' + folder_name
-
-        source_url = host+start_path
-        source_response = requests.request('GET', source_url)
-        source_content = source_response.content
-        source_soup = BeautifulSoup(source_content, 'html.parser')
-
-        pager = source_soup.find('ul', class_='pager')
-        if pager is None:
-            return True
-
-        pagination = Pagination()
-        for li in pager.find_all('li', class_='pager-item'):
-            a = li.find('a')
-            if a is None:
-                continue
-            href = a.get('href')
-            pagination.add_link(host + href)
-
-        while pagination.has_next():
-            page_url = pagination.get_next()
-            print('page_url:\t', page_url)
-
-            results_response = requests.request('GET', page_url)
-            results_content = results_response.content
-            results_soup = BeautifulSoup(results_content, 'html.parser')
-
-            view_content_index = 1
-            view_contents = results_soup.find_all('div', class_='view-content')
-            if len(view_contents) < view_content_index + 1:
-                return True
-            view_content = view_contents[view_content_index]
-
-            for views_row in view_content.find_all('div', class_='views-row'):
-                b = views_row.find('b')
-                if b is None:
-                    return True
-
-                date_str = b.get_text().split(' - ')[0]
-                # eg. 30.10.2019
-                tmp = datetime.datetime.strptime(date_str, '%d.%m.%Y')
-                date = datetime.date(tmp.year, tmp.month, tmp.day)
-
-                if gdpr_retention_specification.is_satisfied_by(date) is False:
-                    continue # try another result_link # should be continue
-
-                h2 = views_row.find('h2')
-                if h2 is None:
-                    return True
-
-                h2_a = h2.find('a')
-                if h2_a is None:
-                    return True
-
-                document_title = h2_a.get_text()
-                document_folder = document_title
-                document_folder_md5 = hashlib.md5(document_folder.encode()).hexdigest()
-                print("\tdocument_hash:\t", document_folder_md5)
-
-                document_href = h2_a.get('href')
-                document_url = host + document_href
-                try:
-                    document_response = requests.request('GET', document_url)
-                    document_content = document_response.content
-                    document_soup = BeautifulSoup(document_content, 'html.parser')
-                    field_items = document_soup.find_all('div', class_='field-items')
-                    if len(field_items) == 0:
-                        return True
-
-                    field_item = field_items[0]
-                    document_text = field_item.get_text()
-
-                    dirpath = root_path + '/' + document_folder_md5
-                    try:
-                        os.makedirs(dirpath)
-
-                        with open(dirpath + '/' + language_code + '.txt', 'w') as f:
-                            f.write(document_text)
-
-                        print_pdf = document_soup.find('span', class_='print_pdf')
-
-                        if print_pdf is None:
-                            continue
-
-                        print_pdf_a = print_pdf.find('a')
-
-                        if print_pdf_a is None:
-                            continue
-
-                        print_pdf_href = print_pdf_a.get('href')
-
-                        pdf_response = requests.request('GET', print_pdf_href)
-                        pdf_content = pdf_response.content
-
-                        with open(dirpath + '/' + language_code + '.pdf', 'wb') as f:
-                            f.write(pdf_content)
-
-                    except FileExistsError:
-                        print('Directory path already exists, continue.')
-                except:
-                    print('Something went wrong trying to get the document')
-
-            pager = results_soup.find('ul', class_='pager')
-            if pager is None:
-                return True
-
-            for li in pager.find_all('li', class_='pager-item'):
-                a = li.find('a')
-                if a is None:
-                    continue
-                href = a.get('href')
-                pagination.add_link(host + href)
 
         return True

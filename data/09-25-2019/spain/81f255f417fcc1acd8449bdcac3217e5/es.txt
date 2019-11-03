@@ -1,0 +1,272 @@
+1/6
+
+Procedimiento Nº: E/01454/2019
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes
+HECHOS
+PRIMERO: El 20 de diciembre de 2018 tiene entrada en la Agencia Española de
+Protección de Datos reclamación interpuesta por A.A.A. (en adelante, el reclamante)
+contra IBERDROLA CLIENTES, SAU, (en adelante, el reclamado).
+Los motivos en que basa la reclamación son que el 3 de mayo recibió un contrato de
+suministro de IBERCLI sin haberlo solicitado.
+Como consecuencia de ello presentó una reclamación en IBERCLI el 10 de mayo de
+2018, y pese a ello recibe dos facturas de IBERCLI por importe de 49,19€ que
+procedió a pagar con fecha valor de 27 de agosto de 2018 tras recibir un correo del
+departamento jurídico de IBERCLI pidiendo a la reclamante la cuantía de 49,19 euros
+en concepto de factura de la luz. Indica que se han cedido sus datos al despacho de
+abogados MEDINA CUADROS Y ASOCIADOS S.L. de forma ilegal.
+Declara que al tener conocimiento de que se había suplantado su identidad para el
+traspaso de contrato, presentó reclamación en la Oficina Municipal de Información al
+Consumidor (en adelante, OMIC). La reclamante afirma que nunca ha contratado con
+IBERCLI, sino que es cliente de GEO ALTERNATIVA S.L. (en adelante, PODO) desde
+el 12 de abril de 2018.
+Junto a la reclamación aporta
+ Contrato de suministro de IBERCLI con fecha 3 de mayo de 2018
+ Facturas procedentes de IBERCLI del 12/4/2018 al 11/5/2018 y 11/5/2018 al
+25/5/2018 correspondientes a consumo de energía por importe conjunto de 49,19.
+ Comprobante de pago de las facturas anteriores
+ Respuesta a la reclamación presentada en IBERCLI con fecha 6 de septiembre de
+2018.
+El 20 de diciembre de 2018 se recibe en esta Agencia, con número de registro
+211918/2018, nuevo escrito procedente de la reclamante transcribiendo el correo
+recibido el 27 de agosto de 2018 del despacho de abogados MEDINA CUADROS Y
+ASOCIADOS S.L. en el que se instaba al pago de la deuda de 49,19€.
+SEGUNDO: De conformidad con el artículo 65.4 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales (en
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/6
+
+adelante LOPDGDD), con número de referencia E/07581/2018, se dio traslado de
+dicha reclamación al reclamado, para que procediese a su análisis e informase a esta
+Agencia en el plazo de un mes, de las acciones llevadas a cabo para adecuarse a los
+requisitos previstos en la normativa de protección de datos.
+TERCERO: Con fecha 2 de enero de 2019, la Directora de la Agencia Española de
+Protección de Datos acordó admitir a trámite la reclamación presentada por el
+reclamante.
+CUARTO: La Subdirección General de Inspección de Datos procedió a la realización
+de actuaciones previas de investigación para el esclarecimiento de los hechos objeto
+de la reclamación, teniendo conocimiento de los siguientes extremos:
+1. Se incluyó por error a IBERDROLA DISTRIBUCIÓN ELÉCTRICA, S.A.U. como
+investigada, siendo la reclamada IBERDROLA CLIENTES, S.A.U. (IBERCLI)
+2. Con respecto a la reclamación registrada en IBERCLI mencionada en la
+reclamación por la reclamante, el día 6 de mayo de 2018 recibió acuse de recibo de
+dicha reclamación, el 25 de mayo de 2018 recibió información sobre su tramitación y,
+finalmente, el 6 de septiembre de 2018 recibió respuesta de IBERCLI manifestando
+que la cantidad que se solicitaba a la reclamante procedía de una deuda del anterior
+titular y que al optar por “Traspaso de contrato” como modalidad de cambio de titular,
+el nuevo titular quedaba comprometido con los derechos y obligaciones de la póliza
+anterior.
+3. No consta en el expediente denuncia ante la Policía Nacional por suplantación de
+identidad.
+4. La reclamación presentada ante la OMIC no consta en el expediente.
+5. Con fecha 28 de marzo de 2019, se recibe en esta Agencia con número de registro
+016198/2019, escrito de alegaciones procedente de IBERCLI correspondiente al
+traslado de la reclamación en la que manifiestan los siguientes aspectos:
+a. Que la contratación fue realizada correctamente, proporcionándose para ello todos
+los datos necesarios conforme a los procedimientos internos y sistemas de verificación
+de IBERCLI, con el fin de realizar el traspaso de contrato, sin que en ningún momento
+IBERCLI pudiera sospechar que la persona que hizo la llamada no fuera la titular.
+b. Que la reclamante en su denuncia menciona que su identidad ha sido suplantada,
+no aportando denuncia al respecto.
+c. Además de ello, en la llamada telefónica que la reclamante realizó a IBERCLI para
+realizar el traspaso de titularidad del contrato, se le indicó la deuda existente,
+procediendo la reclamante a propia iniciativa a abonar la deuda mediante transferencia
+bancaria realizada desde su propio número de cuenta, tal y como se acredita en el
+Anexo I, que ya fue aportado por la reclamante en su reclamación, lo que sin duda
+pone en entredicho que estemos ante un caso de suplantación de identidad.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/6
+
+d. Que remiten en envío aparte CD con la llamada telefónica de contratación del
+servicio.
+Y adjuntan como Anexo I, Copia del justificante de transferencia procedente de la
+reclamante por importe de la deuda exigida.
+1. Escuchada la conversación telefónica de contratación referida en el punto 5.d. por el
+inspector, se constata que, en ella, la llamante facilita los siguientes datos:
+- DNI del titular anterior al traspaso: ***NIF.1
+- Primer apellido del titular: B.B.B.
+- Dirección de suministro: ***DIRECCION.1
+- Referencia del contrato: ***TELEFONO.1
+Se le informa de que tiene una factura pendiente de 44,11 correspondiente a la lectura
+del 12 de marzo al 12 de abril de 2018 y que tendría que hacerse cargo de su pago. La
+llamante indica que la pagaría hoy mismo y decide continuar adelante con el traspaso
+facilitando los siguientes datos:
+- Nº de teléfono del esposo: ***TELEFONO.2 (envío de talón de pago de la deuda
+contraída)
+- Nuevo titular con nombre y apellidos: A.A.A.
+- DNI del nuevo titular: ***NIF.2
+- Manifiesta que no desea domiciliar el pago
+Informan del envío del contrato que debe remitir firmado con el sobre suministrado.
+1. Solicitado a PODO información sobre la contratación de suministro de energía de la
+reclamante con su entidad, con fecha 29 de agosto de 2019 se recibe en esta Agencia,
+con número de registro 041320/2019, escrito procedente de esta entidad
+manifestando:
+a. Que efectivamente la reclamante es cliente de PODO.
+b. Que los dos puntos de suministro contratados por la reclamante, CUPS
+***CONTRATO.1 y ***CONTRATO.2, se realizaron a través de la empresa Profielectra,
+S.L., con CIF B86793239 y domicilio en la calle Conde de Vilches nº 20, CP 28028.
+c. Que actualmente, de los dos puntos de suministro, el correspondiente al CUPS
+***CONTRATO.2, correspondiente al referido en la reclamación, estuvo vigente desde
+el 12 de abril de 2018 hasta el 28 de mayo de 2019 mientras que el contrato
+correspondiente al CUPS ***CONTRATO.1 inició su contrato el 17 de octubre de 2017
+y sigue activo en la actualidad.
+d. Que debido a que las contrataciones se hicieron telefónicamente, y que no han
+podido entregar los archivos de audio, se hará entrega de estos archivos por
+mensajero.
+Y adjuntan:
+- Contratos de servicio para los puntos de suministro.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/6
+
+e. Debido a que les han informado en esta Agencia de la obligatoriedad de
+relacionarse con esta Agencia a través de medios electrónicos, el inspector consiente
+de forma excepcional, dadas las dificultades en la sede electrónica, en recibir el
+archivo de audio de la contratación por correo electrónico.
+Se graba el fichero de audio en el sistema SIGRID como objeto asociado y se canaliza
+el correo electrónico por el registro de entrada.
+2. Escuchado el archivo de audio de contratación con PODO no se puede establecer
+el paralelismo de la voz de ambas contrataciones ya que en esta contratación solo se
+escuchan monosílabos del interesado.
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la Ley
+Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los
+derechos digitales (en lo sucesivo LOPDGDD), es competente para resolver estas
+actuaciones de investigación la Directora de la Agencia Española de Protección de Datos.
+II
+De conformidad con lo establecido en el artículo 55 del RGPD, la Agencia
+Española de Protección de Datos es competente para desempeñar las funciones que se le
+asignan en su artículo 57, entre ellas, la de hacer aplicar el Reglamento y promover la
+sensibilización de los responsables y los encargados del tratamiento acerca de las
+obligaciones que les incumben, así como tratar las reclamaciones presentadas por un
+interesado e investigar el motivo de estas.
+Corresponde, asimismo, a la Agencia Española de Protección de Datos ejercer los
+poderes de investigación regulados en el artículo 58.1 del RGPD, entre los que figura la
+facultad de ordenar al responsable y al encargado del tratamiento que faciliten cualquier
+información que requiera para el desempeño de sus funciones.
+Correlativamente, el artículo 31 del RGPD establece la obligación de los
+responsables y encargados del tratamiento de cooperar con la autoridad de control que lo
+solicite en el desempeño de sus funciones. Para el caso de que éstos hayan designado un
+delegado de protección de datos, el artículo 39 del RGPD atribuye a éste la función de
+cooperar con dicha autoridad.
+Del mismo modo, el ordenamiento jurídico interno también prevé la posibilidad de
+abrir un período de información o actuaciones previas. En este sentido, el artículo 55 de la
+Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, otorga esta facultad al órgano competente con el fin de conocer
+las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/6
+
+III
+El artículo 6 del RGPD, regula la licitud del tratamiento estableciendo lo siguiente:
+“1. El tratamiento solo será lícito si se cumple al menos una de las siguientes condiciones:
+a) el interesado dio su consentimiento para el tratamiento de sus datos personales
+para uno o varios fines específicos;
+b) el tratamiento es necesario para la ejecución de un contrato en el que el interesado
+es parte o para la aplicación a petición de este de medidas precontractuales;
+c) el tratamiento es necesario para el cumplimiento de una obligación legal aplicable al
+responsable del tratamiento;
+d) el tratamiento es necesario para proteger intereses vitales del interesado o de otra
+persona física;
+e) el tratamiento es necesario para el cumplimiento de una misión realizada en interés
+público o en el ejercicio de poderes públicos conferidos al responsable del tratamiento;
+f) el tratamiento es necesario para la satisfacción de intereses legítimos perseguidos
+por el responsable del tratamiento o por un tercero, siempre que sobre dichos
+intereses no prevalezcan los intereses o los derechos y libertades fundamentales del
+interesado que requieran la protección de datos personales, en particular cuando el
+interesado sea un niño.
+Lo dispuesto en la letra f) del párrafo primero no será de aplicación al tratamiento realizado
+por las autoridades públicas en el ejercicio de sus funciones.”
+IV
+En el presente caso, el reclamante presenta reclamación contra el reclamado, por
+una presunta vulneración del artículo 6 del RGPD en relación con la licitud del tratamiento
+de sus datos personales.
+En concreto se denuncia que se han utilizado los datos personales de la
+reclamante sin su consentimiento para formalizar la contratación de servicios con la
+reclamada, reclamándoles una deuda inexistente, y cediendo sus datos a una entidad
+gestora de cobros para ello.
+La reclamada ha acreditado que la contratación ha sido correcta aportando para
+ello un CD que contiene la grabación de la llamada telefónica de contratación del servicio
+objeto de esta reclamación.
+En dicho CD, puede escucharse la llamada telefónica que la reclamante realizó a
+IBERCLI para realizar el traspaso de titularidad del contrato aportando los datos del
+anterior titular (DNI, dirección y referencia del contrato) e indicando los suyos (nombre
+y apellidos, DNI y número de teléfono de su esposo)
+
+Además, en dicha conversación, se escucha como la reclamante accede a
+abonar la deuda pendiente mediante transferencia bancaria realizada desde su propio
+número de cuenta. Esto queda acreditado al adjuntarse por la reclamada copia del
+justificante de dicha transferencia.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/6
+
+Por este motivo, la Directora de la Agencia Española de Protección de Datos
+acuerda el archivo de estas actuaciones, ya que se considera que la contratación ha sido
+correcta.
+Todo ello sin perjuicio de las posibles actuaciones que esta Agencia pudiera llevar
+a cabo ante el responsable del tratamiento en caso de que se produzca una reiteración en
+la conducta puesta de manifiesto en la presente reclamación o no se implanten de manera
+efectiva las medidas anunciadas por dicha entidad para evitar situaciones futuras
+similares. Si así ocurriera, esta Agencia acordará la realización de la oportuna
+investigación sobre los tratamientos de datos personales y los procesos de gestión que
+aplica en materia de protección de datos de carácter personal, así como las posibles
+actuaciones correctivas que procedieran.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia Española
+de Protección de Datos,
+SE ACUERDA
+
+1. PROCEDER AL ARCHIVO de las presentes actuaciones.
+2. NOTIFICAR la presente resolución al reclamante e INFORMAR de ella al
+responsable del tratamiento.
+Contra esta resolución, que pone fin a la vía administrativa según lo preceptuado
+por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas, y de conformidad con lo establecido en los arts.
+112 y 123 de la citada Ley 39/2015, de 1 de octubre, los interesados podrán interponer,
+potestativamente, recurso de reposición ante la Directora de la Agencia Española de
+Protección de Datos en el plazo de un mes a contar desde el día siguiente a la notificación
+de esta resolución o directamente recurso contencioso administrativo ante la Sala de lo
+Contencioso-administrativo de la Audiencia Nacional, con arreglo a lo dispuesto en el
+artículo 25 y en el apartado 5 de la disposición adicional cuarta de la Ley 29/1998, de 13
+de julio, reguladora de la Jurisdicción Contencioso-Administrativa, en el plazo de dos
+meses a contar desde el día siguiente a la notificación de este acto, según lo previsto en el
+artículo 46.1 de la referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

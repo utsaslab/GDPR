@@ -1,0 +1,521 @@
+1/11
+
+Procedimiento nº: PS/00362/2018
+Recurso de reposición Nº RR/00360/2019
+Examinado el recurso de reposición interpuesto por A.A.A. (en lo sucesivo el
+recurrente), contra la resolución dictada por la Directora de la Agencia Española de
+Protección de Datos en el procedimiento sancionador PS/00362/2018, y en base a los
+siguientes
+HECHOS
+PRIMERO: Con fecha 21/03/2019, se dictó resolución por la Directora de la Agencia
+Española de Protección de Datos en el procedimiento sancionador PS/00362/2018, en
+virtud de la cual se imponía a una sanción de APERCIBIMIENTO, por la vulneración
+de lo dispuesto en el artículo 13 del RGPD, del Reglamento (UE) 2016/679 del
+Parlamento Europeo y del Consejo de 27 de abril de 2016 relativo a la protección de
+las personas físicas en lo que respecta al tratamiento de datos personales y a la libre
+circulación de estos datos y por el que se deroga la Directiva 95/46/CE (en lo sucesivo
+RGPD), infracción tipificada en el artículo 83.5.b) del RGPD y calificada a efectos de
+prescripción como muy grave en el artículo 72.1.h) de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales (en
+adelante, LOPDPGDD).
+Dicha resolución, que fue notificada al recurrente en fecha 02/04/2019, fue
+dictada previa la tramitación del correspondiente procedimiento sancionador, de
+conformidad con lo dispuesto en la LOPDPGDD, y supletoriamente en la LPACAP, en
+materia de tramitación de procedimientos sancionadores.
+SEGUNDO: Como hechos probados del citado
+PS/00362/2018, quedó constancia de los siguientes:
+
+procedimiento
+
+sancionador,
+
+PRIMERO: El 08/06/2018 tiene entrada en la AEPD escrito del reclamante en el que
+entre otras cosas señala que en las páginas web de la empresa www.palmaocio.com y
+https://backstagepalma.com donde se realiza la venta y reserva de entradas, no se
+encuentran adaptadas al nuevo RGPD en lo relativo al uso y la finalidad del
+tratamiento, responsable del tratamiento, sobre quien accede a los datos y como se
+conservan, etc.
+SEGUNDO: La página web www.palmaocio.com dispone de enlaces a cuatro
+establecimientos, uno de ellos es Backstage. También hay un enlace a “Venta de
+entradas”, que redirige a la dirección entradas.palmaocio.com. En esta web consta
+como dirección de contacto info@palmaocio.com y dispone de un apartado de
+“PRIVACIDAD” que remite a la LOPD, no estando adaptada a la nueva normativa
+sobre protección de datos, el RGPD.
+TERCERO: El 10/12/2018, el administrador de POB presento escrito indicando que los
+dominios backstagepalma.com y palmaocio.com son titularidad de las entidades Ocio
+y Eventos Palma, S.L. y Restauración y Ocio Inversiones S.L.; que POB no tiene
+relación alguna con los dominios anteriores; que no obstante es administrador de las
+tres sociedades anteriores y teniendo conocimiento de la infracción al RGPD se ha
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/11
+
+procedido a adaptar la política de privacidad de las direcciones de contacto
+info@backstagepalma.com e info@palmaocio.com al RGPD.
+Se ha accedido a la política de privacidad de la web entrada. palmaocio.com y consta
+que ha sido adaptada al RGPD.
+TERCERO: El recurrente ha presentado en fecha 03/05/2019, en esta Agencia
+Española de Protección de Datos, recurso de reposición fundamentándolo en
+alegaciones formuladas durante el procedimiento y además, en la infracción de
+normas y garantías de instrucción del procedimiento, del principio de audiencia del
+interesado, de legalidad, proporcionalidad, motivación e incongruencia de la actuación
+sancionadora de la Agencia.
+FUNDAMENTOS DE DERECHO
+I
+Es competente para resolver el presente recurso la Directora de la Agencia
+Española de Protección de Datos, de conformidad con lo dispuesto en el artículo 48.1
+de la LOPDPGDD.
+II
+En relación con las manifestaciones efectuadas por el recurrente, reiterándose
+básicamente en las alegaciones ya presentadas a lo largo del procedimiento
+sancionador, debe señalarse que todas ellas ya fueron analizadas y desestimadas en
+los Fundamentos de Derecho del II a IV ambos inclusive, de la Resolución recurrida,
+tal como se transcribe a continuación:
+II
+Se imputa a POB la vulneración del artículo 13 RGPD, “Información que
+deberá facilitarse cuando los datos personales se obtengan del interesado”, que
+dispone lo siguiente:
+1.Cuando se obtengan de un interesado datos personales relativos a él, el
+responsable del tratamiento, en el momento en que estos se obtengan, le facilitará
+toda la información indicada a continuación:
+a) la identidad y los datos de contacto del responsable y, en su caso, de su
+representante;
+b) los datos de contacto del delegado de protección de datos, en su caso;
+c) los fines del tratamiento a que se destinan los datos personales y la base
+jurídica del tratamiento; 4.5.2016 L 119/40 Diario Oficial de la Unión Europea
+ES
+d) cuando el tratamiento se base en el artículo 6, apartado 1, letra f), los
+intereses legítimos del responsable o de un tercero;
+e) los destinatarios o las categorías de destinatarios de los datos personales,
+en su caso;
+f) en su caso, la intención del responsable de transferir datos personales a un
+tercer país u organización internacional y la existencia o ausencia de una
+decisión de adecuación de la Comisión, o, en el caso de las transferencias
+indicadas en los artículos 46 o 47 o el artículo 49, apartado 1, párrafo segundo,
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/11
+
+referencia a las garantías adecuadas o apropiadas y a los medios para obtener
+una copia de estas o al hecho de que se hayan prestado.
+2. Además de la información mencionada en el apartado 1, el responsable del
+tratamiento facilitará al interesado, en el momento en que se obtengan los datos
+personales, la siguiente información necesaria para garantizar un tratamiento de datos
+leal y transparente:
+a) el plazo durante el cual se conservarán los datos personales o, cuando no
+sea posible, los criterios utilizados para determinar este plazo;
+b) la existencia del derecho a solicitar al responsable del tratamiento el acceso
+a los datos personales relativos al interesado, y su rectificación o supresión, o
+la limitación de su tratamiento, o a oponerse al tratamiento, así como el
+derecho a la portabilidad de los datos;
+c) cuando el tratamiento esté basado en el artículo 6, apartado 1, letra a), o el
+artículo 9, apartado 2, letra a), la existencia del derecho a retirar el
+consentimiento en cualquier momento, sin que ello afecte a la licitud del
+tratamiento basado en el consentimiento previo a su retirada;
+d) el derecho a presentar una reclamación ante una autoridad de control;
+e) si la comunicación de datos personales es un requisito legal o contractual, o
+un requisito necesario para suscribir un contrato, y si el interesado está
+obligado a facilitar los datos personales y está informado de las posibles
+consecuencias de que no facilitar tales datos;
+f) la existencia de decisiones automatizas, incluida la elaboración de perfiles, a
+que se refiere el artículo 22, apartados 1 y 4, y, al menos en tales casos,
+información significativa sobre la lógica aplicada, así como la importancia y las
+consecuencias previstas de dicho tratamiento para el interesado.
+3.Cuando el responsable del tratamiento proyecte el tratamiento ulterior de
+datos personales para un fin que no sea aquel para el que se recogieron,
+proporcionará al interesado, con anterioridad a dicho tratamiento ulterior, información
+sobre ese otro fin y cualquier información adicional pertinente a tenor del apartado 2.
+4.Las disposiciones de los apartados 1, 2 y 3 no serán aplicables cuando y en
+la medida en que el interesado ya disponga de la información”.
+Los hechos denunciados se concretaban en que la información que ofrece
+POB no hacía referencia alguna al cumplimiento de lo establecido en el artículo 13
+RGPD citado, debiéndose determinar la identidad del responsable, los fines a los que
+se destinaran los datos y los derechos que el interesado puede ejercitar ante el
+responsable, etc., y se le conminaba a que aportara documentación probatoria que
+acreditara el correcto cumplimiento de los señalado en el RGPD, incluyendo la
+información a que hace referencia el artículo 13.
+No obstante, se ha acreditado que la política de privacidad incluida en la
+página entrada.palmaocio.com ha sido rectificada adaptándola a los principios
+contenidos en el artículo 13 del RGPD; en la web consta la adaptación y nueva
+configuración de la política de privacidad en materia de protección de datos.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/11
+
+III
+El artículo 83.5 b) del RGPD, considera que la infracción de “los derechos de
+los interesados a tenor de los artículos 12 a 22”, es sancionable, de acuerdo con el
+apartado 5 del mencionado artículo 83 del citado Reglamento, “con multas
+administrativas de 20.000.000€ como máximo o, tratándose de una empresa, de una
+cuantía equivalente al 4% como máximo del volumen de negocio total anual global del
+ejercicio financiero anterior, optándose por la de mayor cuantía”.
+La LOPDGDD en su artículo 72 indica: “Infracciones consideradas muy graves:
+“1. En función de lo que establece el artículo 83.5 del Reglamento (UE)
+2016/679 se consideran muy graves y prescribirán a los tres años las infracciones que
+supongan una vulneración sustancial de los artículos mencionados en aquel y, en
+particular, las siguientes:
+(…)
+h) La omisión del deber de informar al afectado acerca del tratamiento de sus
+datos personales conforme a lo dispuesto en los artículos 13 y 14 del Reglamento
+(UE) 2016/679 y 12 de esta ley orgánica.
+(…)”
+No obstante, el artículo 58.2 del REPD dispone lo siguiente: “Cada autoridad
+de control dispondrá de todos los siguientes poderes correctivos indicados a
+continuación:
+(…)
+b) sancionar a todo responsable o encargado del tratamiento con
+apercibimiento cuando las operaciones de tratamiento hayan infringido lo dispuesto en
+el presente Reglamento;
+(…)
+Por tanto, el RGPD, sin perjuicio de lo establecido en su artículo 83, contempla
+en su artículo 58.2 b) la posibilidad de acudir al apercibimiento para corregir los
+tratamientos de datos personales que no se adecúen a sus previsiones. Respecto a
+cuándo es procedente optar por una u otra vía, la aplicación del artículo 83 del RGPD
+o la medida correctora de apercibimiento del artículo 58.2.b), la propia norma en su
+Considerando 148 del Reglamento 2016/679 que establece lo siguiente:
+“En caso de infracción leve, o si la multa que probablemente se impusiera
+constituyese una carga desproporcionada para una persona física, en lugar de
+sanción mediante multa puede imponerse un apercibimiento. Debe no obstante
+prestarse especial atención a la naturaleza, gravedad y duración de la infracción, a su
+carácter intencional, a las medidas tomadas para paliar los daños y perjuicios sufridos,
+al grado de responsabilidad o a cualquier infracción anterior pertinente, a la forma en
+que la autoridad de control haya tenido conocimiento de la infracción, al cumplimiento
+de medidas ordenadas contra el responsable o encargado, a la adhesión a códigos de
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/11
+
+conducta y a cualquier otra circunstancia agravante o atenuante.”
+IV
+Como se señalaba con anterioridad los hechos denunciados se concretaban en
+que la información ofrecida por POB a través de su política de privacidad no estaba
+adoptada a la nueva normativa sobre protección de datos, con referencia a la LOPD,
+sin que se informara acerca de los requisitos exigidos en el artículo 13 del RGPD
+citado, sin determinar la identidad del responsable, los fines, derechos que el
+interesado puede ejercitar ante el responsable, etc.
+En el presente caso no se insta a la adopción de ninguna medida concreta a
+tomar, ya que se ha acreditado la nueva configuración de la política de privacidad
+incluida en la página entrada.palmaocio.com adaptándola a lo establecido en el
+artículo 13 y 14 del RGPD.
+Para concluir, teniendo en cuenta la ausencia de intencionalidad, la ausencia
+de daños y perjuicios, el comportamiento y las medidas adoptadas por el responsable
+del tratamiento atenúan aún más su culpabilidad, por lo que procede sancionar con el
+apercibimiento.
+III
+En el presente escrito de recurso, el recurrente pretende impugnar la resolución
+emitida por la que se acordó sancionar a la entidad denunciada mediante
+apercibimiento.
+En primer lugar, se hace necesario informar al recurrente que el apercibimiento
+de conformidad con la actual normativa en materia de protección de datos ha de ser
+considerada una sanción.
+La LOPD ya regulaba la figura del apercibimiento y, de la misma forma, tanto el
+RGPD como la LOPDGDD, incluyen en su contenido la citada figura condicionada a la
+aplicación de una serie de medidas correctoras y evitar una multa administrativa.
+Según el RGPD, el apercibimiento es un poder correctivo de la autoridad de
+control y, por tanto, ha de entenderse que su aplicación es optativa. Por tanto, la
+autoridad de control puede aplicar potestativamente el apercibimiento si, en atención a
+una serie de criterios y circunstancias: naturaleza de la infracción, duración y
+gravedad, intencionalidad, las medidas adoptadas para reducir el efecto de la
+infracción, la adhesión a códigos de conducta, etc., que puedan ser de aplicación, lo
+que se apreció en el presente caso, puesto que como consta en la resolución recurrida
+el reclamado acreditó la nueva configuración de la política de privacidad incluida en la
+página entrada.palmaocio.com adaptándola a lo establecido en el RGPD, no
+considerándose conveniente instar la adopción de medida concreta a tomar.
+En segundo lugar, hay que señalar que, en cualquier caso, la posibilidad de
+iniciar actuaciones inspectoras es potestad de la Directora de la AEPD, que actúa
+siempre de oficio, con independencia de que el conocimiento de los hechos haya sido
+obtenido, o no, mediante una denuncia.
+Así lo refleja la jurisprudencia, afirmando que el procedimiento sancionador
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/11
+
+siempre es iniciado de oficio aunque haya sido en virtud de denuncia. La STS de 4 de
+octubre de 2012 (RJ 6480, 2010), señala que: “En este sentido ha de recordarse que
+el procedimiento sancionador se inicia siempre de oficio", aunque lo haya sido en
+virtud de denuncia, como dispone el artículo 11 del Reglamento del Procedimiento
+para el ejercicio de la potestad sancionadora, aprobado por Real Decreto 1398/1993,
+de 4 de agosto, y ese carácter "de oficio" lo tienen también las "actuaciones previas", a
+las que se refieren el artículo 12 de ese Reglamento, efectuadas con anterioridad a la
+iniciación del procedimiento con objeto de determinar con carácter preliminar si
+concurren circunstancias que justifiquen tal iniciación”.
+En tercer lugar, en el caso examinado se hace necesario aclarar si el
+denunciante puede recurrir frente a la resolución de la Agencia Española de Protección
+de Datos que pone fin al expediente sancionador iniciado a raíz de la denuncia,
+solicitando no solo sancionar al reclamado por varias infracciones del RGPD que
+considera éste ha vulnerado el reclamado sino, además, que se varíe la sanción
+impuesta y se incremente el importe de la sanción a imponer.
+Ley 39/2015 señala en su artículo 62.1 con relación a la denuncia que: “Se
+entiende por denuncia, el acto por el que cualquier persona, en cumplimiento o no de
+una obligación legal, pone en conocimiento de un órgano administrativo la existencia
+de un determinado hecho que pudiera justificar la iniciación de oficio de un
+procedimiento administrativo”.
+Y continua en el apartado 3 que “La presentación de una denuncia no confiere,
+por sí sola, la condición de interesado en el procedimiento”.
+La Audiencia Nacional, entre otras, en Sentencia de fecha 17 de enero de 2013
+declara que los denunciantes no pueden recurrir las decisiones de la Agencia
+Española de Protección de Datos, señalando que: “Por la Sala en virtud de la facultad
+del art. 33 de la Ley de la Jurisdicción se suscitó a las partes, la causa de
+inadmisibilidad del art. 69.b) de la Ley de la Jurisdicción, basada en la falta de
+legitimación activa de la actora. En los escritos que se presentaron, la demandante
+alegó que tenía legitimación activa, mientras que las partes demandadas, alegaron la
+existencia de la reseñada causa de inadmisibilidad.
+Para analizar dicha causa de inadmisibilidad, debemos partir de que la
+legitimación es presupuesto inexcusable de proceso, disponiendo el art. 19.1.a) de la
+Ley de la Jurisdicción, que: "Están legitimados ante el orden jurisdiccional
+contencioso-administrativo: a) Las personas físicas o jurídicas que ostenten un
+derecho o interés legítimo".
+En este sentido la Sentencia del Tribunal Constitucional 52/2007, de 12 de
+marzo, ha precisado que el interés legítimo, al que se refiere el art. 24.1 de la
+Constitución "se caracteriza como una relación material unívoca entre el sujeto y el
+objeto de la pretensión (acto o disposición impugnados), de tal forma que su anulación
+produzca automáticamente un efecto positivo (beneficio) o negativo (perjuicio) actual o
+futuro pero cierto, debiendo entenderse tal relación referida a un interés en sentido
+propio, cualificado y específico, actual y real (no potencial o hipotético). Se trata de la
+titularidad potencial de una ventaja o de una utilidad jurídica, no necesariamente de
+contenido patrimonial, por parte de quien ejercita la pretensión, que se materializaría
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/11
+
+de prosperar ésta. O, lo que es lo mismo, el interés legítimo es cualquier ventaja o
+utilidad jurídica derivada de la reparación pretendida (SSTC 252/2000, de 30 de
+octubre, FJ 3; 173/2004, de 18 de octubre, FJ 3; y 73/2006, de 13 de marzo, FJ 4; con
+relación a un sindicato, STC 28/2005, de 14 de febrero, FJ 3)" .
+En el ámbito concreto de los procedimientos sancionadores, se ha señalado en
+relación con la legitimación en la Sentencia del Tribunal Supremo de 30 de enero de
+2001 - recurso nº. 506/1998 - que "la Sala entiende que la existencia de legitimación
+viene ligada a la de un interés legítimo de la parte que se lo irroga, siendo la clave
+para determinar si existe o no ese interés legítimo en el proceso de impugnación de
+una resolución ... el dato de si la imposición de una sanción puede producir un efecto
+positivo en la esfera jurídica del denunciante o puede eliminar una carga o gravamen
+en esa esfera, y será así, en cada caso, y en función de lo pretendido, como pueda
+darse la contestación adecuada a tal cuestión, no siéndolo la de que la imposición de
+la sanción constituye por sí misma la satisfacción de un interés" .
+Más recientemente, ya en el ámbito propio de protección de datos en el que
+nos encontramos, cabe citar la Sentencia del Tribunal Supremo de 6 de octubre de
+2009 -recurso nº. 4.712/2005 -, que señala que "quien denuncia hechos que considera
+constitutivos de infracción de la legislación de protección de datos carece de
+legitimación activa para impugnar en vía jurisdiccional lo que resuelva la Agencia. Así
+se desprende de las sentencias de esta Sala de 6 de noviembre de 2007 y, con mayor
+nitidez aún, de 10 de diciembre de 2008 ".
+La razón de dicha falta de legitimación radica, según la citada Sentencia, en
+que el denunciante carece de la condición de interesado en el procedimiento
+sancionador que se puede incoar a resultas de su denuncia, pues ni la LOPD, ni su
+Reglamento de desarrollo, vigentes a la sazón, le reconocen esa condición. Y por lo
+que se refiere a los principios generales del derecho administrativo sancionador,
+prosigue la citada Sentencia "aunque en algunas ocasiones esta Sala ha dicho que el
+denunciante puede impugnar el archivo de la denuncia por la Administración, no se
+admite que el denunciante pueda impugnar la resolución administrativa final. El
+argumento crucial en esta materia es que el denunciante, incluso cuando se considere
+a sí mismo "víctima" de la infracción denunciada, no tiene un derecho subjetivo ni un
+interés legítimo a que el denunciado sea sancionado.
+El poder punitivo pertenece únicamente a la Administración que tiene
+encomendada la correspondiente potestad sancionadora -en este caso, la Agencia
+Española de Protección de Datos- y por consiguiente, sólo la Administración tiene un
+interés tutelado por el ordenamiento jurídico en que el infractor sea sancionado.
+Es verdad que las cosas no son así en el derecho penal propiamente dicho,
+donde existe incluso la acción popular, pero ello es debido a que hay normas que
+expresamente establecen excepciones que no aparecen en el derecho administrativo
+sancionador y, por lo que ahora específicamente interesa, en la legislación sobre
+protección de datos. Es más: aceptar la legitimación activa del denunciante no sólo
+conduciría a sostener que ostenta un interés que el ordenamiento jurídico no le
+reconoce ni protege, sino que llevaría también a transformar a los tribunales
+contencioso- administrativos en una especie de órganos de apelación en materia
+sancionadora.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+8/11
+
+Esto último supondría dar por bueno que pueden imponer las sanciones
+administrativas que no impuso la Administración, lo que chocaría con el llamado
+"carácter revisor" de la jurisdicción contencioso administrativo.
+En otras palabras, los tribunales contencioso-administrativos pueden y deben
+controlar la legalidad de los actos administrativos en materia sancionadora; pero no
+pueden sustituir a la Administración en el ejercicio de las potestades sancionadoras
+que la ley encomienda a aquélla.
+Cuanto se acaba de decir debe ser objeto de una precisión: el denunciante de
+una infracción de la legislación de protección de datos carece de legitimación activa
+para impugnar la resolución de la Agencia en lo que concierne al resultado
+sancionador mismo (imposición de una sanción, cuantía de la misma, exculpación,
+etc); pero llegado el caso, puede tener legitimación activa con respecto a aspectos de
+la resolución distintos del específicamente sancionador siempre que, por supuesto,
+pueda mostrar algún genuino interés digno de tutela" .
+Por otro lado, en la Sentencia del Tribunal Supremo de 9 de junio de 2014
+-recurso nº. 5.216/2011 -, en la se declara que: "La jurisprudencia que cita la sentencia
+impugnada, como fundamento de su decisión de inadmisión del recurso por falta de
+legitimación activa de la parte recurrente, está constituida por las sentencias de esta
+Sala de 16 de diciembre de 2008 (recurso 6339/2004 ) y 6 de octubre de 2009
+(recurso 4712/2005 ),que recayeron en recursos que presentan como característica
+que, en la vía administrativa, tras la interposición de una denuncia, la AEPD realizó
+actuaciones dirigidas a la constatación de los hechos objeto de denuncia, de suerte
+que la decisión de archivo del expediente fue adoptada por la AEPD tras esa actividad
+investigadora y de comprobación de los hechos, y como consecuencia de ella.
+En este contexto que acabamos de exponer, es decir, en supuestos en los que
+la Administración había desarrollado una actuación de averiguación y comprobación
+de los hechos denunciados, las sentencias de esta Sala, citadas por la sentencia
+recurrida, efectuaron las declaraciones de que el denunciante no tiene un derecho
+subjetivo ni un interés legítimo a que el denunciado sea sancionado. En concreto, la
+STS de 15 de diciembre de 2008 declaró que el denunciante carecía de legitimación
+para la pretensión ejercitada en el recurso, que había sido era la de obligar a la AEPD
+a sancionar a la entidad denunciada por falta grave, y la STS de 29 de septiembre de
+2009 estimó que la sentencia impugnada había incurrido en incongruencia, porque el
+suplico de la demanda se limitó a pedir la nulidad de la resolución de la AEPD y la
+sentencia impugnada fue más allá y ordenó la retroacción de actuaciones a fin de
+imponer la sanción administrativa que corresponda" .
+Pues bien, la jurisprudencia anteriormente reseñada es de plena aplicación al
+presente supuesto, en el que el interés de la recurrente no se circunscribe a solicitar
+que se obligue a la Agencia de Protección de Datos a realizar actuaciones de
+investigación. Por el contrario, la demandante solicita en el suplico de la demanda
+que, se incoe el correspondiente procedimiento sancionador contra la entidad Unicaja
+Banco, S.A.U., aludiéndose a varias infracciones graves de la LOPD imputadas a la
+parte codemandada, en concreto, en las letras b ), c ), d ) y k) del art. 44.3 , en
+relación con los arts. 45.2 y 11.2.D. del citado texto. Ese interés a la incoación de un
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+9/11
+
+procedimiento sancionador, no puede fundamentar la legitimación activa para
+impugnar la resolución de la Agencia en los términos descritos.
+Así las cosas, pretendiendo la actora el ejercicio de la potestad sancionadora
+por incumplimiento de la normativa de protección de datos, no resulta acreditada su
+legitimación para impugnar la decisión de la Agencia, pues como señala la Sentencia
+del Tribunal Supremo de 1 de febrero de 2018 -recurso nº. 2.368/2016 -: "La
+pretensión de la defensa de la legalidad ---al margen de su regulación en el ámbito del
+derecho penal--- requiere, en el ámbito que nos afecta del derecho administrativo, de
+una específica y concreta habilitación que no se percibe ni se acredita en la materia de
+la protección de datos de carácter personal, debiendo recordarse que el poder punitivo
+pertenece únicamente a la Administración que es quien tiene encomendada la
+correspondiente potestad sancionadora ---en este caso, la Agencia Española de
+Protección de Datos--, y, por consiguiente, sólo la Administración tiene un interés
+tutelado por el Ordenamiento jurídico en que el infractor sea sancionado; lo contrario
+implicaría sustituir a la Administración en el ejercicio de la potestad sancionadora" .
+En definitiva, a la vista de la doctrina jurisprudencial citada, careciendo la
+recurrente tanto de un derecho subjetivo como de un interés legítimo a que prospere
+su denuncia, derechos e intereses que son los presupuestos que configuran la
+legitimación, a tenor del art. 24.1 de la Constitución, procede dictar sentencia de
+inadmisibilidad del recurso contencioso-administrativo al amparo del art. 69. b) de la
+Ley de la Jurisdicción”.
+Por tanto, habría que deducir que:
+- Que aunque el reclamante considere se ha producido una infracción de la
+legislación de protección de datos carece de legitimación activa para impugnar en vía
+jurisdiccional lo que resuelva la Agencia.
+- Que el denunciante carece de la condición de interesado en el procedimiento
+sancionador que se puede incoar a resultas de su denuncia.
+- Que aunque en algunas ocasiones la A.N. ha dicho que el denunciante puede
+impugnar el archivo de la denuncia por la Administración, no se admite que el
+denunciante pueda impugnar la resolución administrativa final.
+- Que el denunciante, incluso cuando se le considere a sí mismo víctima de la
+infracción denunciada, no tiene un derecho subjetivo ni un interés legítimo a que el
+denunciado sea sancionado. El poder punitivo pertenece únicamente a la
+Administración que tiene encomendada la correspondiente potestad sancionadora-en
+este caso, la Agencia Española de Protección de Datos- y, por consiguiente, sólo la
+Administración tiene un interés tutelado por el ordenamiento jurídico en que el infractor
+sea sancionado.
+- Que son los tribunales contencioso-administrativos quienes pueden y deben
+controlar la legalidad de los actos administrativos en materia sancionadora; pero no
+puede sustituirse a la Administración en el ejercicio de las potestades sancionadoras
+que la ley encomienda a aquélla.
+Por último, conviene hacer mención al carácter excepcional del procedimiento
+sancionador, del que deriva que -siempre que sea posible- se opte por la prevalencia
+de mecanismos alternativos en el caso de que tengan amparo en la normativa vigente,
+tal y como ocurre en el supuesto sometido al presente recurso de reposición.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+10/11
+
+IV
+En consecuencia, en el presente recurso de reposición, el recurrente no ha
+aportado nuevos hechos o argumentos jurídicos que permitan reconsiderar la validez
+de la resolución impugnada.
+Vistos los preceptos citados y demás de general aplicación,
+La Directora de la Agencia Española de Protección de Datos RESUELVE:
+PRIMERO: DESESTIMAR el recurso de reposición interpuesto por D. A.A.A. contra la
+resolución de esta Agencia Española de Protección de Datos dictada con fecha 21 de
+marzo de 2019, en el procedimiento sancionador PS/00362/2018.
+SEGUNDO: NOTIFICAR la presente resolución a la entidad D. A.A.A..
+De conformidad con lo establecido en el artículo 50 de la LOPDPGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa conforme al art.
+48.6 de la LOPDPGDD, y de acuerdo con lo establecido en el artículo 123 de la Ley
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas (LPACAP), los interesados podrán interponer recurso
+contencioso-administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Finalmente, se señala que conforme a lo previsto en el art. 90.3 a) LPACAP, se
+podrá suspender cautelarmente la resolución firme en vía administrativa si el
+interesado manifiesta su intención de interponer recurso contencioso-administrativo.
+De ser éste el caso, el interesado deberá comunicar formalmente este hecho mediante
+escrito dirigido a la Agencia Española de Protección de Datos, presentándolo a través
+del Registro Electrónico de la Agencia [https://sedeagpd.gob.es/sede-electronicaweb/], o a través de alguno de los restantes registros previstos en el art. 16.4 de la
+citada LPACAP. También deberá trasladar a la Agencia la documentación que acredite
+la interposición efectiva del recurso contencioso-administrativo. Si la Agencia no
+tuviese conocimiento de la interposición del recurso contencioso-administrativo en el
+plazo de dos meses desde el día siguiente a la notificación de la presente resolución,
+daría por finalizada la suspensión cautelar.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+11/11
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

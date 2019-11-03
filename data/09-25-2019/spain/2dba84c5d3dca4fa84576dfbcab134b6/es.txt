@@ -1,0 +1,544 @@
+1/11
+
+Procedimiento Nº: PS/00229/2019
+RESOLUCIÓN R/00353/2019 DE TERMINACIÓN DEL PROCEDIMIENTO POR
+PAGO VOLUNTARIO
+En el procedimiento sancionador PS/00229/2019, instruido por la Agencia
+Española de Protección de Datos a BBVASEGUROS, S.A., vista la denuncia
+presentada por A.A.A., y en base a los siguientes,
+ANTECEDENTES
+PRIMERO: Con fecha 21 de junio de 2019, la Directora de la Agencia Española de
+Protección de Datos acordó iniciar procedimiento sancionador a BBVASEGUROS,
+S.A. (en adelante, el reclamado), mediante el Acuerdo que se transcribe:
+<< Procedimiento Nº: PS/00229/2019
+935-160419
+
+ACUERDO DE INICIO DE PROCEDIMIENTO SANCIONADOR
+De las actuaciones practicadas por la Agencia Española de Protección de
+Datos y en consideración a los siguientes
+HECHOS
+PRIMERO: En fecha 08/01/2019 tiene entrada en la Agencia Española de Protección
+de Datos (AEPD) una reclamación formulada por D. ª A.A.A. (en adelante, la
+reclamante)
+La reclamación se funda en el tratamiento de sus datos personales sin su
+consentimiento efectuado por BBVASEGUROS, S.A., de Seguros y Reaseguros, con
+NIF A4YY51098 (en lo sucesivo, la reclamada) en relación con un contrato de seguro
+-Plan Individual de Ahorro Sistemático (“PIAS”)- que suscribió el 02/03/2011 y del que
+ella era tomadora y asegurada con carácter exclusivo.
+El tratamiento ilícito de los datos personales de la reclamante efectuado por la
+reclamada consistió en haber rescatado en fecha 23/06/2017 el seguro que tenía
+suscrito con la entidad sin que lo hubiera solicitado, consentido, ni conocido. La
+reclamante era la única persona facultada en virtud del condicionado del contrato de
+seguro para ordenar el rescate de la póliza pues sólo ella tenía la condición de
+tomadora y asegurada.
+La reclamante afirma que quien dio la orden de rescatar el seguro fue su
+excónyuge, D. B.B.B. (en lo sucesivo, el tercero) del que se encontraba separada y en
+trámites de divorcio. Afirmación que justifica en el hecho de que el importe del rescate
+del seguro se ingresó en una cuenta de titularidad conjunta del tercero y de ella,
+destinada a los gastos de los hijos comunes (finalizada en los dígitos XX), y,
+posteriormente, el tercero ordenó una transferencia a la cuenta de la que era
+beneficiario su padre. Estos hechos motivaron que la reclamante formulara una queja
+C/ Jorge Juan, 6
+2YY01 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/11
+
+ante la reclamada en fecha 19/07/2017.
+En el escrito de reclamación presentado ante la AEPD, la reclamante hace
+mención, además, a otra conducta presuntamente contraria a la normativa de
+protección de datos que parece aconsejable reseñar aquí, por más que no sea objeto
+del presente expediente sancionador sino de otro distinto -pues la responsable es otra
+entidad del mismo grupo empresarial-. Tal conducta consistió en que la entidad de
+crédito BBVA, S.A., domicilió en la cuenta bancaria de la reclamante, de la que era ella
+la única titular, sin su consentimiento ni conocimiento, los pagos efectuados mediante
+una tarjeta WIZINK que estaba vinculada a otra cuenta corriente (finalizada en los
+dígitos XX) que era de titularidad conjunta de la reclamante y del tercero y estaba
+destinada a atender los gastos de los hijos comunes, menores de edad.
+Acompaña a su escrito de reclamación, entre otros, los siguientes documentos:
+-Copia del DNI
+-La reclamación que formuló ante BBVA -con sello de presentación el
+19/10/2017- relativa a la cancelación del Seguro PÍAS. Con la reclamación aporta
+copia de la orden de ejecución de operaciones PÍAS BBVA y del justificante bancario
+de transferencia a favor del beneficiario (el padre del tercero).
+-La reclamación que presentó ante BBVA -con sello de entrada el 25/08/2017relativa a la domiciliación en su cuenta de una tarjeta bancaria de WIZINK y el cargo
+de sendos importes de 735.15 euros y 398,79 euros
+-La denuncia que presentó el 26/10/2017 en la Comisaría de Policía de Granada
+(Atestado 129YY/17) por los mismos hechos y en la que identifica como presunto
+responsable de ellos a su excónyuge.
+-La carta que la reclamada dirige a la reclamante, con fecha 15/12/2017,
+respondiendo a su reclamación, con referencia 3997954.
+- La copia del contrato “PÍAS BBVA” (Plan individual de Ahorro Sistemático),
+número de póliza 11090977, de fecha 02/03/2011. La reclamante figura como
+tomadora del seguro y como asegurada. Este seguro está vinculado a la “cuenta
+contrato” finalizada en los dígitos “YY” de la que la reclamante es su única titular.
+-Un documento con el anagrama de BBVA SEGUROS referente a “PÍAS BBVA” y
+a una “Orden de ejecución de operaciones”. En él se hace constar que el seguro
+identificado con el número de póliza 11090977 y vinculado a la cuenta contrato
+finalizada en los dígitos “YY” ha sido rescatado en su totalidad con fecha 23/06/2017
+siendo la “cuenta personal asociada” una cuenta de BBVA finalizada en los dígitos
+“XX”.
+- Sendas copias del seguro “PÍAS BBVA”. El original, de fecha 02/03/2011, y el
+actualizado a raíz de lo acontecido y de la queja de la reclamante, que aparece
+firmado por ella el 28/12/2017.
+-Un documento con el anagrama de BBVA y la referencia 3997954, que la
+reclamada envió a la reclamante para su firma pero que se ha negado a firmar. El texto
+que precede a la casilla destinada a la firma de la reclamante incorpora su renuncia a
+ejercitar cualquier acción, judicial o extrajudicial, en relación con la reclamación antes
+referenciada, relativa a la cancelación del Seguro PÍAS de Ahorro, dándose por
+satisfecha con su reactivación sin que tenga nada más que reclamar o pedir.
+SEGUNDO: A la vista de los hechos expuestos, la AEPD, en el ámbito del expediente
+número E/01754/2019, mediante escrito de fecha 14/02/2019, dio traslado de la
+
+C/ Jorge Juan, 6
+2YY01 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/11
+
+reclamación a la entidad perteneciente al Grupo BBVA, BANCO BILBAO VIZCAYA
+ARGENTARIA, S.A., (BBVA), y le solicitó una explicación sobre la actuación que había
+llevado a cabo tanto en relación a la conducta infractora que ahora nos ocupa como en
+relación a la que dio lugar al PS/147/2019. También en esa fecha la AEPD remitió
+escrito a la reclamante acusando recibo de su reclamación.
+El 15/03/2019 BBVA responde a la AEPD -expediente E/01754/2019- y hace
+estas declaraciones:
+
+-
+
+-
+
+-
+
+Que la “incidencia” que origina la petición informativa de la Agencia es la
+alegación de la reclamante de que la entidad reclamada facilitó a su excónyuge
+“datos de cuentas bancarias de las que ellas es la única titular”. Además, alega
+que “se realizaron operaciones bancarias y se canceló un seguro PÍAS, del
+que es titular, sin su consentimiento”.
+Añade que ha investigado lo ocurrido concluyendo que “BBVA actuó con la
+diligencia debida” sin que exista ningún indicio o prueba que haga dudar de
+que esto no fue así y que se facilitó información de la reclamante a terceras
+personas.
+Respecto al seguro PÍAS la denunciada afirma que “fue cancelado por un error
+humano, carente de toda mala fe”.
+
+Se remite a la AEPD copia, entre otros, de estos documentos:
+1. Una carta de fecha 01/03/2018, con el anagrama de GRUPO BBVA, firmada
+por su Servicio de Atención al Cliente y dirigida a la reclamante a través de la
+cual responde a la reclamación formulada por ella con referencia 3997954 en la
+que le informa de que “Una vez realizados los trámites necesarios le
+informamos que se ha procedido a reactivar el Plan Individual de Ahorro
+Sistemático con nº …YY puesto que no estaba usted de acuerdo con su
+cancelación”.
+2. Una carta de fecha 27/02/2019, con el anagrama de GRUPO BBVA y firmada
+por su Servicio de Atención al Cliente, que la reclamada dirige a la reclamante
+y en la que acusa recibo de la reclamación presentada en la AEPD. En ella
+afirma haber actuado con la diligencia debida en el cumplimiento de las
+obligaciones que le impone el respeto al derecho fundamental a la protección
+de datos personales y añade que “respecto a la cancelación del PÍAS y los
+cargos de la tarjeta, fueron retrocedidos, tal como le indicábamos en nuestra
+anterior comunicación de fecha 10 de octubre de 2017 y posteriormente el Plan
+Individual de Ahorro Sistemático se reactivó al constatar que su cancelación
+fue debida a un error humano, carente de toda mala fe por parte del Banco…”
+De conformidad con lo dispuesto en el artículo 65.2 de la Ley Orgánica 3/2018,
+de Protección de Datos y Garantía de los Derechos Digitales (LOPDGDD), en fecha
+21/03/2019 se firma el acuerdo de admisión a trámite de la presente reclamación.
+Posteriormente, en fecha 24/05/2019, tiene entrada en el Registro de la AEPD
+un escrito de la reclamante con el que aporta los documentos y en el que hace las
+declaraciones siguientes:
+- Aporta un documento (i) con el anagrama de BBVA que refleja los movimientos
+de la cuenta finalizada en los dígitos XX, cuyos titulares son, conjuntamente la
+reclamante y el tercero, cuenta que está destinada a los gastos de sus hijos. La
+C/ Jorge Juan, 6
+2YY01 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/11
+
+-
+
+-
+
+reclamante llama la atención, en relación a ese documento, sobre dos
+operaciones: una de fecha 23/072017 con el “Concepto” “RESCATE TOTALES
+PIAS”, seguido de dieciocho dígitos siendo los dos últimos YY, por un importe
+de 8.572 euros. Otra operación, de fecha 26/07/2018, por el “Concepto”
+“TRANSFERENCIAS SEGURO PIAS (…)” por un importe de “- 8.572” euros
+Un documento (ii) con el anagrama de BBVA, de fecha 26/06/2017, mediante el
+cual la entidad informa de un adeudo en cuenta por el importe de la
+transferencia emitida a favor del beneficiario señalado. En el documento, en el
+apartado “Datos del ordenante” consta el nombre y dos apellidos del tercero (D.
+B.B.B..) y su NIF. En el apartado “Datos del beneficiario” aparece un nombre
+compuesto y dos apellidos siendo el primer nombre y el primer apellido
+coincidentes con los del tercero. En el apartado “Observaciones” se indica
+“SEGURO PIAS (…)”
+Copia de una Sentencia dictada en apelación por la Audiencia Provincial de
+Granada que desestima el recurso y confirma la Sentencia condenatoria
+dictada por el Juzgado de lo Penal en el Procedimiento Abreviado 233/2018
+que condenó al tercero como autor de un delito de amenazas leves en el
+ámbito familiar, previsto y penado en el artículo 171.4 del Código Penal, a
+diversas penas.
+
+El contrato “PÍAS BBVA” (Plan individual de Ahorro Sistemático) que la
+reclamante aportó con su reclamación contiene las “Condiciones Generales y
+Especiales”, de las que reproducimos estos fragmentos:
+La estipulación “II. Definiciones” dice:
+“Entidad aseguradora: BBVASEGUROS, S.A. DE SEGUROS Y REASEGUROS,
+con domicilio social en Gran Vía D. López de Haro, 12,-4YY01 Bilbao (…)
+Mediador de Seguros: BBVA MEDIACIÓN, OPERADOR DE BANCA-SEGUROS
+VINCULADO, S.A., (…) con CIF A/78581998 …”
+La estipulación “VI. Efectos y duración”, dice:
+“El presente contrato entrará en vigor a las 00 horas ….
+En cuanto a su duración, el presente contrato tiene carácter vitalicio y sólo se
+extinguirá por el ejercicio por parte del Asegurado del derecho de rescate total, por
+fallecimiento del Asegurado, o por la resolución del contrato, ya sea por voluntad del
+Asegurador (cláusula VII) o del Tomador (cláusula XVI)” (El subrayado es de la AEPD)
+La estipulación “XIV. Cláusulas de protección de datos, LOPD”, dice en el
+subapartado IV: “El responsable del tratamiento es BBVASEGUROS, S.A., de Seguros
+y Reaseguros, (…)”.
+La reclamante aportó copia de un documento -que lleva a los anagramas de la
+reclamada y de BBVA Operador Bancaseguros- con la información ofrecida a la
+cliente, previa a la celebración del contrato de seguro, en cumplimiento del artículo 42
+de la Ley 26/2006, de Mediación de Seguros y Reaseguros Privados. La estipulación
+“VIII” de este documento, “Valores de rescate, pignoración, anticipo o cesión”, dice así:
+“(…) El Tomador del contrato tiene derecho a solicitar el rescate o reducción con
+los importes y limitaciones que se señalan a continuación: a) Rescate: el Tomador
+podrá ejecutar en cualquier momento de la vida del presente contrato el derecho de
+C/ Jorge Juan, 6
+2YY01 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/11
+
+rescate total o parcial. El ejercicio del derecho de rescate total supone la cancelación
+del contrato…” (El subrayado es de la AEPD)
+TERCERO: La conducta presuntamente infractora que es objeto de la presente
+reclamación queda sometida a las disposiciones de la Ley Orgánica 15/1999, de
+Protección de Datos de Carácter Personal. Se toma en consideración para ello, por
+una parte, que el Reglamento (UE) 2016/679, General de Protección de Datos (RGPD)
+es de aplicación efectiva desde el 25/05/2018 y, por otra, que el rescate del seguro
+PIAS del que la reclamante era asegurada y tomadora con carácter exclusivo, se
+efectuó por la entidad reclamada sin su consentimiento ni conocimiento en fecha
+23/06/2017.
+FUNDAMENTOS DE DERECHO
+I
+En virtud lo establecido en los artículos 47 y 48 de la Ley Orgánica 3/2018, de
+Protección de Datos y Garantías de los Derechos Digitales (LOPDGDD), la Directora
+de la Agencia Española de Protección de Datos es competente para iniciar y para
+resolver este procedimiento.
+II
+Los hechos expuestos podrían suponer la comisión por la reclamada de una
+infracción del artículo 6.1 de la Ley Orgánica 15/1999, de Protección de Datos de
+Carácter Personal (en lo sucesivo, LOPD). El artículo 6 LOPD, bajo la rúbrica
+“Consentimiento del afectado”, dispone:
+“1. El tratamiento de los datos de carácter personal requerirá el consentimiento
+inequívoco del afectado, salvo que la ley disponga otra cosa.
+2. No será preciso el consentimiento cuando los datos de carácter personal (…)
+se refieran a las partes de un contrato o precontrato de una relación negocial, laboral o
+administrativa y sean necesarios para su mantenimiento o cumplimiento; (.:).
+Este precepto debe conectarse con el artículo 4 de la LOPD, referente a la
+“Calidad de los datos”, en particular con el artículo 4.2 LOPD que dice:
+“2. Los datos de carácter personal objeto de tratamiento no podrán usarse para
+finalidades incompatibles con aquellas para las que los datos hubieran sido recogidos.
+No se considerará incompatible el tratamiento posterior de éstos con fines históricos,
+estadísticos o científicos.
+Ambas disposiciones se integran con la definición legal de “tratamiento de datos”
+que ofrece el artículo 3, c) de la LOPD: “operaciones y procedimientos técnicos, de
+carácter automatizado o no, que permitan la recogida, grabación, conservación,
+elaboración, modificación, bloqueo y cancelación, así como las cesiones de datos que
+resulten de comunicaciones, consultas, interconexiones y transferencias”.
+El artículo 44.3.b) de la LOPD contempla como infracción grave “Tratar datos de
+carácter personal sin recabar el consentimiento de las personas afectadas, cuando el
+mismo sea necesario conforme a lo dispuesto en esta Ley y sus disposiciones de
+desarrollo”.
+
+C/ Jorge Juan, 6
+2YY01 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/11
+
+Las infracciones graves pueden ser sancionadas con multa de 40.001 euros a
+300.000 euros, conforme a lo prevenido en el artículo 45.2 de la citada Ley Orgánica.
+II
+La reclamante ha acreditado documentalmente que la reclamada trató sus datos
+personales en relación con un contrato de seguro PÍAS suscrito por ella para una
+finalidad para la cual no estaba legitimada: el rescate de la póliza. De acuerdo con las
+estipulaciones contractuales, el tratamiento de los datos de la reclamante con la
+finalidad de rescatar el seguro exigía que ella así lo hubiera ordenado, pues conforme
+al condicionado del contrato de seguro únicamente la reclamante (en cuanto única
+tomadora y asegurada de la póliza) estaba facultada para ejercitar este derecho.
+Evidentemente, en virtud del contrato que la reclamante había celebrado con
+BBVASEGUROS la entidad podía tratar sus datos personales siempre que la finalidad
+del tratamiento fuera el cumplimiento y la ejecución del contrato. El alcance del
+tratamiento de los datos que está amparado en el artículo 6.2 LOPD nos remite a las
+cláusulas contractuales. En el Hecho Segundo de este Acuerdo se transcriben algunas
+de las cláusulas del contrato de seguro (que recordemos es un contrato de adhesión),
+entre ellas la estipulación VI -que alude al rescate como el ejercicio de un derecho por
+el asegurado- y del documento informativo facilitado al cliente antes de contratar
+(obligación que impone el artículo 42 de la Ley 26/2016) en la que se indica que el
+tomador del seguro tendrá derecho a ejecutar el rescate.
+Así pues, en el presente caso, habida cuenta de que la reclamada trató los datos
+de la reclamante para una finalidad -el rescate de la póliza- para la cual, según las
+cláusulas contractuales, únicamente la reclamante estaba facultada, pues se exige el
+consentimiento específico o “la orden” de la tomadora y asegurada, y toda vez que ese
+consentimiento específico para rescatar el seguro no se otorgó por quien estaba
+facultada para ello (la reclamante) estimamos que el tratamiento de sus datos
+personales infringe el artículo 6.1 LOPD en conexión con el mencionado artículo 4.2
+LOPD.
+Ante la abundante y relevante prueba documental aportada por la reclamante la
+reclamada se ha limitado a manifestar que el rescate de la póliza y cancelación del
+seguro “fue debida a un error humano, carente de toda mala fe por parte del Banco
+(…)”
+De conformidad con las evidencias de las que se dispone en esta etapa, de
+apertura de acuerdo de inicio del procedimiento sancionador, y sin perjuicio de lo que
+resulte de la instrucción, se considera que la reclamada habría incurrido en una
+infracción del artículo 6.1 de la LOPD, en relación con el artículo 4.2, prevista como
+infracción grave en el artículo 44.3.b) de la citada Ley Orgánica 15/1999.
+IV
+En la determinación del importe de la sanción a imponer por la infracción del
+artículo 6.1 de la LOPD, y sin perjuicio de lo que resulte de la instrucción del
+procedimiento, en el supuesto analizado corresponde aplicar la disposición del artículo
+45.5 LOPD, apartado b, relativa a que “la entidad infractora haya regularizado la
+situación de forma diligente”. Se toma en consideración para ello que, en respuesta a
+
+C/ Jorge Juan, 6
+2YY01 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/11
+
+la reclamación que la afectada presentó ante el SAC de la entidad, procedió a
+regularizar la situación, a “reactivar” el contrato de seguro y a reintegrar el importe de
+la póliza que había sido rescatada.
+El efecto jurídico que deriva de la aplicación del artículo 45.5 LOPD es la
+imposición de la sanción en la cuantía prevista para las infracciones que preceden en
+gravedad a la presuntamente cometida. Siendo la infracción prevista en el artículo
+44.3.b) LOPD, de la que se responsabiliza a la reclamada, una infracción grave, la
+sanción pecuniaria a imponer habrá de estar comprendida dentro de los límites que el
+artículo 45.1 LOPD fija para las infracciones leves: entre 900 y 40.000 euros.
+De los criterios que el artículo 45.4 LOPD ofrece para graduar la cuantía de la
+sanción estimamos que, en el presente caso, concurren como agravantes, al reflejar
+una mayor antijuridicidad y culpabilidad de la actuación de la reclamada, los
+siguientes:
+- “La vinculación de la actividad del infractor con la realización de tratamientos
+de datos de carácter personal” (apartado c,) La actividad empresarial de la reclamada,
+por su propia naturaleza, exige un continuo tratamiento de datos personales.
+- “El volumen de negocio o actividad del infractor”, (apartado d,). La reclamada
+tiene la condición de “gran empresa”, hecho notorio que no precisa prueba.
+- “El grado de intencionalidad” (apartado, f). Expresión que debe entenderse
+como equivalente a culpabilidad en sentido amplio; comprensiva tanto del dolo como
+de la negligencia, sea grave o leve. En el presente caso, atendidas las circunstancias
+que concurren, se estima que la reclamada ha actuado con una gravísima falta de
+diligencia.
+No cuestionamos que la reclamada tenga un protocolo de actuación para
+verificar que las ordenes que ejecuta en relación con los servicios que presta a sus
+clientes sean necesariamente fruto del consentimiento otorgado por ellos. Lo cierto es
+que la información disponible evidencia que, o bien el protocolo del que dispone la
+reclamada es inconsistente, o bien, de existir dicho protocolo, la reclamada lo aplica
+con una “extrema laxitud”.
+La explicación que la reclamada ha ofrecido a esta Agencia -que obró con la
+diligencia debida- carece de soporte probatorio que la corrobore. Por otra parte, la
+reclamada ha manifestado en su escrito de 27/02/2019 que el rescate total del seguro
+y cancelación del contrato “fue debida a un error humano, carente de toda mala fe por
+parte del Banco…”
+Sin embargo, parece difícil poder admitir que estemos ante un mero error
+humano, como sugiere la reclamada, si tomamos en consideración que la reclamante
+ha sido también víctima -dentro de un periodo de tiempo muy breve- de otra conducta
+similar, presuntamente infractora, de la que es responsable la entidad de crédito Banco
+Bilbao Vizcaya Argentaria, S.A., quien, a su vez, ha intervenido en los hechos ahora
+analizados en su condición de operador banca seguros (BBVA Mediación, Operador
+de Banca-Seguros Vinculados, S.A., CIF A 78581998), de conformidad con el artículo
+25 de la Ley 26/2016, de Mediación de Seguros y Reaseguros, S.A., actuando como
+encargada de tratamiento de la reclamada.
+C/ Jorge Juan, 6
+2YY01 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+8/11
+
+Por lo tanto, a tenor de lo anteriormente expuesto,
+Por la Directora de la Agencia Española de Protección de Datos,
+SE ACUERDA:
+
+1. INICIAR PROCEDIMIENTO SANCIONADOR a BBVASEGUROS, S.A., de
+Seguros y Reaseguros, con NIF A-4YY51098, por la presunta infracción del
+artículo 6.1 de la Ley Orgánica 15/1999, de Protección de Datos de Carácter
+Personal (LOPD), prevista como infracción grave en el artículo 44.3.b) de la
+LOPD.
+
+2. NOMBRAR como instructora a R.R.R. y, como secretario, a Q.Q.Q., indicando
+que cualquiera de ellos podrá ser recusado, en su caso, conforme a lo
+establecido en los artículos 23 y 24 de la Ley 40/2015, de 1 de octubre, de
+Régimen Jurídico del Sector Público (LRJSP).
+
+3. INCORPORAR al expediente sancionador, a efectos probatorios, la
+reclamación interpuesta por la reclamante y su documentación, así como los
+documentos obtenidos y generados por la Subdirección General de Inspección
+de Datos durante la fase de investigaciones.
+
+4. QUE, a los efectos previstos en el art. 64.2 b) de la ley 39/2015, de 1 de
+octubre, del Procedimiento Administrativo Común de las Administraciones
+Públicas, la sanción que pudiera corresponder sería de 38.000 euros (treinta y
+ocho mil euros) sin perjuicio de lo que resulte de la instrucción.
+
+5. NOTIFICAR el presente acuerdo a BBVASEGUROS, S.A., de Seguros y
+Reaseguros, con NIF A-4YY51098, otorgándole un plazo de audiencia de diez
+días hábiles para que formule las alegaciones y presente las pruebas que
+considere convenientes. En su escrito de alegaciones deberá facilitar su NIF y
+el número de procedimiento que figura en el encabezamiento de este
+documento.
+Si en el plazo estipulado no efectuara alegaciones a este acuerdo de inicio, el mismo
+podrá ser considerado propuesta de resolución, según lo establecido en el artículo
+64.2.f) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de
+las Administraciones Públicas (en lo sucesivo, LPACAP).
+De conformidad con lo dispuesto en el artículo 85 de la LPACAP, en caso de que la
+sanción a imponer fuese de multa, podrá reconocer su responsabilidad dentro del
+plazo otorgado para la formulación de alegaciones al presente acuerdo de inicio; lo
+que llevará aparejada una reducción de un 20% de la sanción que proceda imponer en
+el presente procedimiento. Con la aplicación de esta reducción, la sanción quedaría
+establecida en 30.400 euros, resolviéndose el procedimiento con la imposición de esta
+sanción.
+Del mismo modo podrá, en cualquier momento anterior a la resolución del presente
+procedimiento, llevar a cabo el pago voluntario de la sanción propuesta, lo que
+C/ Jorge Juan, 6
+2YY01 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+9/11
+
+supondrá la reducción de un 20% de su importe. Con la aplicación de esta reducción,
+la sanción quedaría establecida en 30.400 euros y su pago implicará la terminación del
+procedimiento.
+La reducción por el pago voluntario de la sanción es acumulable a la que corresponde
+aplicar por el reconocimiento de la responsabilidad, siempre que este reconocimiento
+de la responsabilidad se ponga de manifiesto dentro del plazo concedido para formular
+alegaciones a la apertura del procedimiento. El pago voluntario de la cantidad referida
+en el párrafo anterior podrá hacerse en cualquier momento anterior a la resolución. En
+este caso, si procediera aplicar ambas reducciones, el importe de la sanción quedaría
+establecido en 22.YY0 euros.
+En todo caso, la efectividad de cualquiera de las dos reducciones mencionadas estará
+condicionada al desistimiento o renuncia de cualquier acción o recurso en vía
+administrativa contra la sanción.
+En caso de que optara por proceder al pago voluntario de cualquiera de las cantidades
+señaladas anteriormente (30.400 euros o 22.YY0 euros), deberá hacerlo efectivo
+mediante su ingreso en la cuenta nº ES00 0000 0000 0000 0000 0000 abierta a
+nombre de la Agencia Española de Protección de Datos en el Banco CAIXABANK,
+S.A., indicando en el concepto el número de referencia del procedimiento que figura en
+el encabezamiento de este documento y la causa de reducción del importe a la que se
+acoge.
+Asimismo, deberá enviar el justificante del ingreso a la Subdirección General de
+Inspección para continuar con el procedimiento en concordancia con la cantidad
+ingresada.
+El procedimiento tendrá una duración máxima de nueve meses a contar desde la
+fecha del acuerdo de inicio o, en su caso, del proyecto de acuerdo de inicio.
+Transcurrido ese plazo se producirá su caducidad y, en consecuencia, el archivo de
+actuaciones; de conformidad con lo establecido en el artículo 64 de la LOPDGDD.
+Por último, se señala que conforme a lo establecido en el artículo 112.1 de la LPACAP,
+contra el presente acto no cabe recurso administrativo alguno.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+>>
+SEGUNDO: En fecha 3 de julio de 2019, el reclamado ha procedido al pago de la
+sanción en la cuantía de 22YY0 euros haciendo uso de las dos reducciones previstas
+en el Acuerdo de inicio transcrito anteriormente, lo que implica el reconocimiento de la
+responsabilidad.
+TERCERO: El pago realizado, dentro del plazo concedido para formular alegaciones a
+la apertura del procedimiento, conlleva la renuncia a cualquier acción o recurso en vía
+administrativa contra la sanción y el reconocimiento de responsabilidad en relación con
+los hechos a los que se refiere el Acuerdo de Inicio.
+
+C/ Jorge Juan, 6
+2YY01 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+10/11
+
+FUNDAMENTOS DE DERECHO
+I
+En virtud de los poderes que el artículo 58.2 del RGPD reconoce a cada autoridad de
+control, y según lo establecido en el art. 47 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales (en
+lo sucesivo LOPDGDD), la Directora de la Agencia Española de Protección de Datos
+es competente para sancionar las infracciones que se cometan contra dicho
+Reglamento; las infracciones del artículo 48 de la Ley 9/2014, de 9 de mayo, General
+de Telecomunicaciones (en lo sucesivo LGT), de conformidad con lo dispuesto en el
+artículo 84.3 de la LGT, y las infracciones tipificadas en los artículos 38.3 c), d) e i) y
+38.4 d), g) y h) de la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la
+información y de comercio electrónico (en lo sucesivo LSSI), según dispone el artículo
+43.1 de dicha Ley.
+II
+El artículo 85 de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas (en lo sucesivo, LPACAP),
+bajo la rúbrica “Terminación en los procedimientos sancionadores” dispone lo
+siguiente:
+“1. Iniciado un procedimiento sancionador, si el infractor reconoce su
+responsabilidad, se podrá resolver el procedimiento con la imposición de la sanción
+que proceda.
+2. Cuando la sanción tenga únicamente carácter pecuniario o bien quepa
+imponer una sanción pecuniaria y otra de carácter no pecuniario pero se ha justificado
+la improcedencia de la segunda, el pago voluntario por el presunto responsable, en
+cualquier momento anterior a la resolución, implicará la terminación del procedimiento,
+salvo en lo relativo a la reposición de la situación alterada o a la determinación de la
+indemnización por los daños y perjuicios causados por la comisión de la infracción.
+3. En ambos casos, cuando la sanción tenga únicamente carácter pecuniario,
+el órgano competente para resolver el procedimiento aplicará reducciones de, al
+menos, el 20 % sobre el importe de la sanción propuesta, siendo éstos acumulables
+entre sí. Las citadas reducciones, deberán estar determinadas en la notificación de
+iniciación del procedimiento y su efectividad estará condicionada al desistimiento o
+renuncia de cualquier acción o recurso en vía administrativa contra la sanción.
+El porcentaje de reducción previsto en este apartado podrá ser incrementado
+reglamentariamente.”
+De acuerdo con lo señalado,
+la Directora de la Agencia Española de Protección de Datos RESUELVE:
+PRIMERO: DECLARAR la terminación del procedimiento PS/00229/2019, de
+
+C/ Jorge Juan, 6
+2YY01 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+11/11
+
+conformidad con lo establecido en el artículo 85 de la LPACAP.
+SEGUNDO: NOTIFICAR la presente resolución a BBVASEGUROS, S.A..
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la presente
+Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo preceptuado por
+el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas, los interesados podrán interponer recurso
+contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+2YY01 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

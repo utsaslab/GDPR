@@ -1,0 +1,234 @@
+1/5
+
+823-240719
+
+Expediente Nº: E/08897/2019
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos ante
+ALBECON OBRAS Y PROYECTOS, S.L. y teniendo como base los siguientes
+HECHOS
+PRIMERO: Con fecha 8 de enero de 2019, se registra de entrada en esta Agencia
+reclamación formulada por Don A.A.A., (en lo sucesivo, el reclamante) contra
+ALBECON OBRAS Y PROYECTOS, S.L., (en adelante, el reclamado), por el envío de
+un correo electrónico comunicando la apertura de su nueva tienda en el que se
+mostraban las direcciones de correo electrónico de todos los destinatarios del mismo,
+ya que no lo remitieron con copia oculta.
+El reclamante adjunta, entre otra, la siguiente documentación:
+- Copia de un correo electrónico, con asunto: apertura tienda nueva
+***DIRECCION.1, enviado con fecha 24 de junio de 2017 desde la cuenta de correo
+del reclamado <***EMAIL.1> a una pluralidad de destinatarios, incluido el reclamante,
+cuyas respectivas direcciones de correo electrónico aparecen visibles para los
+restantes destinatarios.
+- Copia de un correo electrónico de contestación al envío anterior remitido, con
+fecha 26 de junio de 2017, por el reclamante al reclamado indicándole: que “cuando
+envíen este tipo de correos no deben revelar las direcciones de correos del resto de
+destinatarios. Deben enviar los correos con copia oculta (cco) así los destinatarios no
+sabrán el resto de direcciones de correos de los otros destinatarios” .
+- Copia de un correo electrónico remitido, con fecha 26 de junio de 2017, desde
+la cuenta de correo del reclamado a la dirección de correo del reclamante
+respondiéndole lo que sigue:
+“Buenas tardes Sr. XXX,
+Si disculpe, ya nos hemos dado cuenta del error. Le pedimos disculpas. Con el
+jaleo de toda la mudanza y de querer enviar el correo a los clientes lo
+configuramos mal sin darnos cuenta. Lo sentimos. Saludos cordiales.”
+SEGUNDO: De acuerdo con el mecanismo previsto en el artículo 65.4 de la Ley
+Orgánica 3/2018, de 5 de diciembre, de Protección de Datos personales y garantía de
+los derechos digitales, (en adelante, LOPDGDD), con fecha 4 de febrero de 2019, la
+Subdirección General de Inspección de Datos procedió a dar traslado de la
+reclamación al reclamado requiriéndole, entre otros aspectos, que en el plazo de un
+mes informará a la AEPD sobre las causas que habían motivado la incidencia que
+había originado la reclamación y sobre las medidas adoptadas para evitar que se
+produzcan incidencias similares, así como cualquier otra que considerase relevante.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/5
+
+Notificado al reclamado, con fecha 4 de febrero de 2019, el traslado y
+requerimiento de información citados, no consta que haya dado contestación al mismo.
+Con fecha 5 de julio de 2019, de conformidad con el artículo 65.4 de la
+LOPDGDD, la Directora de la Agencia Española de protección de Datos acordó admitir
+a trámite la citada reclamación.
+TERCERO: Consultada la aplicación de la AEPD que gestiona la consulta de
+antecedentes de sanciones y apercibimientos precedentes, al reclamado no le constan
+registros previos.
+FUNDAMENTOS DE DERECHO
+I
+En virtud lo establecido en los artículos 47 y 48 de la Ley Orgánica 3/2018, de
+Protección de Datos y Garantías de los Derechos Digitales (LOPDGDD), la Directora
+de la Agencia Española de Protección de Datos es competente para resolver este
+procedimiento.
+II
+La conducta presuntamente infractora queda sometida a las disposiciones de la
+Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter
+Personal. Se toma en consideración para ello, por una parte, que el Reglamento (UE)
+2016/679, General de Protección de Datos (RGPD) es de aplicación efectiva desde el
+25 de mayo de 2018 y, por otra, que la revelación de datos de carácter personal por
+parte del reclamado a los destinatarios a los que dirigió el correo electrónico objeto de
+estudio tuvo lugar con fecha 24 de junio de 2017.
+III
+En el presente caso se trata de determinar, a la vista del conjunto de elementos
+de juicios disponibles, las responsabilidades que pudieran derivarse del envío de un
+correo electrónico por parte del reclamado a una pluralidad de destinatarios sin utilizar
+la opción de copia oculta, de modo que se ha producido la revelación de las
+direcciones de correo electrónico de los restantes destinatarios del envío a cada uno
+de ellos, sin que conste que mediara el consentimiento de los titulares de los datos
+personales tratados para la realización de tal comunicación a terceros no interesados.
+Los hechos objeto de reclamación podrían constituir infracción a lo dispuesto
+en el artículo 10 de la LOPD, precepto que establece que “El responsable del fichero
+y quienes intervengan en cualquier fase del tratamiento de los datos de carácter
+personal están obligados al secreto profesional respecto de los mismos y al deber de
+guardarlos, obligaciones que subsistirán aun después de finalizar sus relaciones con
+el titular del fichero o, en su caso, con el responsable del mismo.”
+Dado el contenido de este precepto, ha de entenderse que el mismo tiene
+como finalidad evitar que, por parte de quienes están en contacto con los datos
+personales almacenados en ficheros, se realicen comunicaciones de los datos no
+consentidas por los titulares de los mismos. Este deber de secreto, que incumbe a los
+responsables de los ficheros y a todos aquellos que intervengan en cualquier fase del
+tratamiento de los datos de carácter personal, comporta que el responsable de los
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/5
+
+datos almacenados no pueda revelar ni dar a conocer su contenido teniendo el “deber
+de guardarlos, obligaciones que subsistirán aún después de finalizar sus relaciones
+con el titular del fichero o, en su caso, con el responsable del mismo”, de modo que los
+datos tratados no puedan ser conocidos por ninguna persona o entidad ajena fuera de
+los casos autorizados por la Ley, pues en eso consiste precisamente el secreto.
+Este deber de sigilo resulta esencial en las sociedades actuales cada vez más
+complejas, en las que los avances de la técnica sitúan a la persona en zonas de riesgo
+para la protección de derechos fundamentales, como la intimidad o el derecho a la
+protección de los datos que recoge el artículo 18.4 de la Constitución Española. En
+efecto, este precepto contiene un “instituto de garantía de los derechos de los
+ciudadanos que, además, es en sí mismo un derecho o libertad fundamental, el
+derecho a la libertad frente a las potenciales agresiones a la dignidad y a la libertad de
+la persona provenientes de un uso ilegítimo del tratamiento mecanizado de datos”
+(Sentencia del Tribunal Constitucional 292/2000, de 30/11). Este derecho fundamental
+a la protección de datos persigue garantizar a esa persona un poder de control sobre
+sus datos personales, sobre su uso y destino que impida que se produzcan
+situaciones atentatorias con la dignidad de la persona, es decir, el poder de resguardar
+su vida privada de una publicidad no querida.
+La vulneración del deber de secreto está tipificada como infracción grave en el
+artículo 44.3.d) de la LOPD, norma vigente en el momento en que tuvieron lugar los
+hechos analizados. Dicho precepto establece que: “d) La vulneración del deber de
+guardar secreto acerca del tratamiento de los datos de carácter personal al que se
+refiere el artículo 10 de la presente Ley”.
+IV
+En el presente caso consta que con fecha 24 de junio de 2017, el reclamado,
+sobre el que recae el deber de secreto y custodia de los datos que impone el artículo
+10 de la LOPD, remitió un correo electrónico a todas las cuentas de correo electrónico
+de sus clientes para comunicarles la apertura de una nueva tienda sin utilizar la opción
+de copia oculta, poniendo a la vista de cada uno de los destinatarios las direcciones de
+correo electrónico de todos los demás.
+No obstante lo cual, no puede obviarse que la divulgación de esta información
+de carácter personal por parte del reclamado, se produjo como consecuencia de un
+error humano en el momento de configurar el envío estudiado, y del que se percataron
+con posterioridad, tal y como se desprende del correo electrónico de fecha 26 de junio
+de 2017 que el reclamado dirigió al reclamante solicitándole disculpas.
+Así, la concurrencia de dicho error humano, concreto y puntual, debe ponerse
+en relación con el principio de culpabilidad que rige en materia sancionadora.
+De acuerdo con nuestra doctrina jurisprudencial, esta cuestión “ha de
+resolverse conforme a los principios propios del derecho punitivo dado que el mero
+error humano no puede dar lugar, por sí mismo (y sobre todo cuando se produce con
+carácter aislado), a la atribución de consecuencias sancionadoras; pues, de hacerse
+así, se incurriría en un sistema de responsabilidad objetiva vedado por nuestro orden
+constitucional (…)
+Esta conclusión resulta, a juicio de la Sala, contraria al principio de presunción
+de inocencia…y del principio de culpabilidad, lo que nos lleva a la estimación del
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/5
+
+presente recurso y a la anulación del acto impugnado.” (Sentencia de la Audiencia
+Nacional de 23 de diciembre de 2013; Recurso C-A 341/2012).
+Lo anteriormente expuesto, ha de conectarse con lo dispuesto en el artículo 28
+de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, que
+establece como uno de los principios de la potestad sancionadora el de la
+“Responsabilidad”, determinando al respecto en su apartado 1 que:
+“Sólo podrán ser sancionadas por hechos constitutivos de infracción
+administrativa las personas físicas y jurídicas, así como, cuando una Ley les
+reconozca capacidad de obrar, los grupos de afectados, las uniones y entidades sin
+personalidad jurídica y los patrimonios independientes o autónomos, que resulten
+responsables de los mismos a título de dolo o culpa”.
+Igualmente, se debe tener en cuenta lo que establece el artículo 53.2 la ley
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, establece que: “Además de los derechos previstos en el
+apartado anterior, en el caso de procedimientos administrativos de naturaleza
+sancionadora, los presuntos responsables, tendrán los siguientes derechos: (…) b) A
+la presunción de no existencia de responsabilidad administrativa mientras no se
+demuestre lo contrario”.
+Con arreglo al criterio jurisprudencial descrito, y vistas las circunstancias que
+concurren en este caso, procede acordar el archivo de las actuaciones practicadas
+ante la falta de responsabilidad del reclamado en la conducta infractora descrita por
+inexistencia de culpa.
+Todo ello sin perjuicio de las posibles actuaciones que esta Agencia pudiera
+llevar a cabo ante el responsable del tratamiento en caso de que se produzca una
+reiteración en la conducta puesta de manifiesto en la presente resolución, que ya no
+vendría referida a la LOPD, sino al principio de confidencialidad contemplado en el
+artículo 5.1.f) del RGPD, norma de aplicación desde el 25 de mayo de 2018. Si así
+ocurriera, esta Agencia acordará la realización de la oportuna investigación y, si fuera
+necesario, de las posibles actuaciones correctivas que procedieran.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente
+PROYECTOS, S.L. y a Don A.A.A..
+
+Resolución
+
+a
+
+ALBECON
+
+OBRAS
+
+Y
+
+De conformidad con lo establecido en el artículo 50 de la Ley Orgánica 3/2018,
+de 5 de diciembre, de Protección de Datos Personales y Garantía de los Derechos
+Digitales, la presente Resolución se hará pública una vez haya sido notificada a los
+interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/5
+
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

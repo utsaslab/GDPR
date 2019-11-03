@@ -53,7 +53,7 @@ class Netherlands(DPA):
         results_soup = BeautifulSoup(results_html, 'html.parser')
 
         pagination = Pagination()
-        pagination.add_link(host + start_path)
+        pagination.add_item(host + start_path)
 
         pager = results_soup.find('div', class_='pager')
         ul_pager = pager.find('ul')
@@ -62,7 +62,7 @@ class Netherlands(DPA):
             if a is None:
                 continue
             link = a.get('href')
-            pagination.add_link(host + link)
+            pagination.add_item(host + link)
 
         while pagination.has_next():
             page_url = pagination.get_next()
@@ -133,6 +133,6 @@ class Netherlands(DPA):
                 if a is None:
                     continue
                 link = a.get('href')
-                pagination.add_link(host + link)
+                pagination.add_item(host + link)
 
         return True

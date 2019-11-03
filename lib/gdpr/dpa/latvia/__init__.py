@@ -50,11 +50,11 @@ class Latvia(DPA):
         results_soup = BeautifulSoup(results_html, 'html.parser')
 
         pagination = Pagination()
-        pagination.add_link(page_url)
+        pagination.add_item(page_url)
 
         pagination_links = links_from_soup_service(results_soup, target_element['pagination'])
         for number, pagination_url in pagination_links:
-            pagination.add_link(pagination_url)
+            pagination.add_item(pagination_url)
 
         while pagination.has_next() is True:
             pagination_url = pagination.get_next()
@@ -113,6 +113,6 @@ class Latvia(DPA):
 
             pagination_links = links_from_soup_service(results_soup, target_element['pagination'])
             for number, pagination_url in pagination_links:
-                pagination.add_link(pagination_url)
+                pagination.add_item(pagination_url)
 
         return True

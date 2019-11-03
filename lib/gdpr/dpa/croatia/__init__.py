@@ -35,7 +35,7 @@ class Crotia(DPA):
         render_type = source['render_type']
 
         pagination = Pagination()
-        pagination.add_link(host + start_path)
+        pagination.add_item(host + start_path)
 
         try:
             result_response = requests.request('GET', host + start_path)

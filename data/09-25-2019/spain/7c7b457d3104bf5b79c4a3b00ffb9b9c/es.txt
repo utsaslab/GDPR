@@ -1,0 +1,228 @@
+1/5
+
+Procedimiento Nº: E/07958/2019
+940-0419
+
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes
+HECHOS
+PRIMERO: La reclamación interpuesta por A.A.A. (en adelante, el reclamante) tiene
+entrada con fecha 19 de octubre de 2018 en la Agencia Española de Protección de
+Datos. La reclamación se dirige contra VODAFONE ESPAÑA, S.A.U., con NIF
+A80907397 (en adelante, la reclamada).
+El reclamante expone que, durante ya unos meses está recibiendo
+constantemente en diferentes días de la semana, en horarios laborales y no laborales,
+llamadas constantes de acciones comerciales de la reclamada.
+Así las cosas, el 24 de septiembre de 2018, remitió a la reclamada mediante
+correo electrónico, la supresión de todos sus datos y la exclusión de cualquier acción
+publicitaria, no teniendo constancia de la tramitación de dicha solicitud.
+SEGUNDO: Tras la recepción de la reclamación, la Subdirección General de
+Inspección de Datos procedió a realizar las siguientes actuaciones:
+En el marco del expediente E/08265/2018, se trasladó a la reclamada en fecha
+12 de noviembre de 2018 el escrito de la reclamación presentada para que procediera
+a su análisis y comunicara al reclamante la decisión que adoptara al respecto.
+La reclamada respondió el 23 de enero de 2019 manifestando lo siguiente:
+- Que han procedido a marcar los números de teléfono indicados en la
+reclamación (y que no se encontraban ya incluidos) en una lista interna como
+Robinson con el fin de asegurarse de que no recibe comunicaciones comerciales de
+esa operadora.
+- Que han verificado que los números indicados se encuentran incluidos en la
+Lista Robinson de Adigital, e incluso alguno de ellos en su lista Robison, los que no se
+encontraban en la misma han sido incluidos en ella.
+- Señalan que no han localizado ninguna llamada realizada a los números
+indicados como consecuencia de campañas realizadas a estos números gestionadas
+directamente por Vodafone.
+- Informan de que ha remitido al reclamante una carta en la que le explican las
+gestiones realizadas para atender su reclamación; en particular la inclusión en su
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/5
+
+propia lista Robinson y en la que le piden disculpas por las molestias causadas.
+- Añade que, como consecuencia del volumen de reclamaciones recibidas por
+llamadas comerciales a potenciales clientes, han realizado “un plan de medidas
+correctoras dirigidas a nuestros colaboradores y distribuidores que realizan campañas
+de captación de clientes para asegurar que cumplen escrupulosamente con las
+instrucciones que VODAFONE facilita a la hora de prestar estos servicios”.
+FUNDAMENTOS DE DERECHO
+I
+De conformidad con lo establecido en el artículo 84.3) de la Ley 9/2014, de 9 de
+mayo, General de Telecomunicaciones (en lo sucesivo, LGT), la competencia para
+resolver el presente Procedimiento corresponde a la Directora de la Agencia Española
+de Protección de Datos.
+II
+La reclamación que nos ocupa versa sobre la presunta vulneración por la
+reclamada de la disposición del artículo 48.1.b) de la LGT en relación con la recepción
+de llamadas de tipo comercial no deseadas.
+El artículo 48 LGT, “Derecho a la protección de datos personales y la privacidad
+en relación con las comunicaciones no solicitadas, con los datos de tráfico y de
+localización y con las guías de abonados” establece en su apartado 1 lo siguiente:
+“1. Respecto a la protección de datos personales y la privacidad en relación
+con las comunicaciones no solicitadas los usuarios finales de los servicios de
+comunicaciones electrónicas tendrán los siguientes derechos:
+a) A no recibir llamadas automáticas sin intervención humana o mensajes de
+fax, con fines de comunicación comercial sin haber prestado su consentimiento
+previo e informado para ello.
+b) A oponerse a recibir llamadas no deseadas con fines de comunicación
+comercial que se efectúen mediante sistemas distintos de los establecidos en
+la letra anterior y a ser informado de este derecho”.
+La normativa de protección de datos pone a disposición de los afectados
+diversos mecanismos para la resolución de las cuestiones relativas al tratamiento de
+sus datos. Con carácter general, si no se desea recibir llamadas comerciales han de
+dirigirse a la entidad promocionada, sea o no cliente de ella, identificándose como
+titular de la línea telefónica en la que no desea recibir las llamadas y una vez
+manifestada dicha oposición, sus datos no podrán ser utilizados con dicha finalidad.
+Tanto el RGPD como la de la Ley Orgánica 3/2018, de 5 de diciembre, de
+Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD)
+regulan el derecho de oposición. De conformidad con lo señalado en el artículo 21 del
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/5
+
+RGPD, el responsable del tratamiento estará obligado a dejar de tratar los datos
+personales del interesado, salvo que acredite motivos legítimos imperiosos para el
+tratamiento que prevalezcan sobre los intereses, los derechos y las libertades del
+interesado, o para la formulación, el ejercicio o la defensa de reclamaciones. Es decir,
+será el responsable el que tenga la carga de acreditar que sus intereses prevalecen
+sobre los del interesado.
+En el apartado 2 el artículo 21 establece que, cuando el tratamiento de datos
+personales tenga por objeto la mercadotecnia directa, el interesado tendrá derecho a
+oponerse en todo momento al tratamiento de los datos personales que le conciernan,
+incluida la elaboración de perfiles en la medida en que esté relacionada con la citada
+mercadotecnia. En este caso, los datos personales dejarán de ser tratados para dichos
+fines.
+Debe también tenerse en cuenta que la LOPDGDD establece respecto a los
+sistemas de exclusión publicitaria (lista Robinson), que será lícito el tratamiento de
+datos personales que tenga por objeto evitar el envío de comunicaciones comerciales
+a quien se hubiesen opuesto a recibirlas, de modo que se podrán conservar parte de
+los datos en sistemas de exclusión publicitaria que deberán ser previamente
+consultados por quienes pretendan realizar comunicaciones de mercadotecnia directa,
+para que se puedan excluir a aquellos afectados que manifestasen su oposición.
+III
+El artículo 65 de la LOPDGDD, contempla un mecanismo “previo a la admisión a
+trámite” de las reclamaciones que se formulen ante la AEPD, que consiste en dar
+traslado de dichas reclamaciones a los Delegados de Protección de Datos designados
+por los responsables o encargados del tratamiento, o a éstos cuando no los hubieren
+designado, para que procedan a su análisis y den respuesta en el plazo de un mes.
+El citado precepto, bajo el título “Admisión a trámite de las reclamaciones”,
+dispone lo siguiente:
+“1. Cuando se presentase ante la Agencia Española de Protección de Datos una
+reclamación, esta deberá evaluar su admisibilidad a trámite, de conformidad con las
+previsiones de este artículo.
+2. La Agencia Española de Protección de Datos inadmitirá las reclamaciones
+presentadas cuando no versen sobre cuestiones de protección de datos personales,
+carezcan manifiestamente de fundamento, sean abusivas o no aporten indicios
+racionales de la existencia de una infracción.
+3. Igualmente, la Agencia Española de Protección de Datos podrá inadmitir la
+reclamación cuando el responsable o encargado del tratamiento, previa advertencia
+formulada por la Agencia Española de Protección de Datos hubiera adoptado las
+medidas correctivas encaminadas a poner fin al posible incumplimiento de la
+legislación de protección de datos y concurra alguna de las siguientes circunstancias:
+a) Que no se haya causado perjuicio al afectado en el caso de las infracciones
+previstas en el artículo 74 de esta ley orgánica.
+b) Que el derecho del afectado quede plenamente garantizado mediante la aplicación
+de las medidas.
+4. Antes de resolver sobre la admisión a trámite de la reclamación, la Agencia
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/5
+
+Española de Protección de Datos podrá remitir la misma al delegado de protección de
+datos que hubiera, en su caso, designado el responsable o encargado del tratamiento
+o al organismo de supervisión establecido para la aplicación de los códigos de
+conducta a los efectos previstos en los artículos 37 y 38.2 de esta ley orgánica.
+La Agencia Española de Protección de Datos podrá igualmente remitir la
+reclamación al responsable o encargado del tratamiento cuando no se hubiera
+designado un delegado de protección de datos ni estuviera adherido a mecanismos de
+resolución extrajudicial de conflictos, en cuyo caso el responsable o encargado deberá
+dar respuesta a la reclamación en el plazo de un mes.
+5. La decisión sobre la admisión o inadmisión a trámite, así como la que
+determine, en su caso, la remisión de la reclamación a la autoridad de control principal
+que se estime competente deberá notificarse al reclamante en el plazo de tres meses.
+Si transcurrido este plazo no se produjera dicha notificación, se entenderá que
+prosigue la tramitación de la reclamación con arreglo a lo dispuesto en este Título a
+partir de la fecha en que se cumpliesen tres meses desde que la reclamación tuvo
+entrada en la Agencia Española de Protección de Datos”.
+De conformidad con la normativa expuesta, con carácter previo a la admisión a
+trámite de esta reclamación se dio traslado de ella a la reclamada para que procediese
+a su análisis y diera respuesta al reclamante y a esta Agencia. Asimismo, se solicitó a
+la reclamada copia de la comunicación remitida por ella al reclamante; informe sobre
+las causas que motivaron la incidencia producida y detalle de las medidas adoptadas
+para evitar situaciones similares.
+Por otro lado, se acusó recibo de la reclamación presentada por el reclamante
+y se le informó de su traslado a la reclamada y del requerimiento efectuado para que
+informase a esta Agencia de las acciones llevadas a cabo a fin de adecuar su
+actuación a la normativa de protección de datos.
+Analizada la respuesta de la reclamada, en la que manifiestan que han
+procedido a marcar al reclamante como Robinson en sus propios ficheros; en la que
+acredita la adopción de determinadas medidas en relación a sus Distribuidores y
+colaboradores y aporta una copia de la carta enviada al reclamante, se considera
+procedente acordar el archivo de las presentes actuaciones al considerarse resuelta la
+misma.
+Todo ello sin perjuicio de las posibles actuaciones que esta Agencia pudiera
+llevar a cabo ante el responsable del tratamiento en caso de que se produzca una
+reiteración en la conducta puesta de manifiesto en la presente reclamación o no se
+apliquen de manera efectiva medidas apropiadas para garantizar un nivel adecuado de
+seguridad que no comprometa la confidencialidad integridad y disponibilidad de los
+datos de carácter personal, al no considerarse necesario por la entidad adoptar
+medidas adicionales al no haber causado incidencia alguna, y evitar situaciones
+futuras similares. Si así ocurriera, esta Agencia acordará la realización de la oportuna
+investigación sobre los tratamientos de datos personales y los procesos de gestión
+que aplica en materia de protección de datos de carácter personal, así como las
+posibles actuaciones correctivas que procedieran.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/5
+
+SE ACUERDA:
+1
+
+PROCEDER AL ARCHIVO de las presentes actuaciones.
+
+1.
+
+NOTIFICAR la presente Resolución a reclamante y reclamada.
+
+Contra esta resolución, que pone fin a la vía administrativa (artículo 48.2 de la
+LOPD), y de conformidad con lo establecido en los artículos 112 y 123 de la Ley
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, los interesados podrán interponer, potestativamente,
+recurso de reposición ante la Directora de la Agencia Española de Protección de Datos
+en el plazo de un mes a contar desde el día siguiente a la notificación de esta
+resolución o directamente recurso contencioso administrativo ante la Sala de lo
+Contencioso-administrativo de la Audiencia Nacional, con arreglo a lo dispuesto en el
+artículo 25 y en el apartado 5 de la disposición adicional cuarta de la Ley 29/1998, de
+13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa, en el plazo de
+dos meses a contar desde el día siguiente a la notificación de este acto, según lo
+previsto en el artículo 46.1 del referido texto legal.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

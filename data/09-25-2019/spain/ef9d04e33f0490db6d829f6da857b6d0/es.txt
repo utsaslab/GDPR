@@ -1,0 +1,399 @@
+1/18
+
+Procedimiento Nº: E/10515/2018
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes
+HECHOS
+PRIMERO: Se han recibido en esta Agencia Española de Protección de Datos 13
+reclamaciones, presentadas por las 13 personas indicadas en los Anexos
+identificativos, entre el 07/12/2018 y el 18/03/2019. Las reclamaciones se dirigen
+contra D. A.A.A. (en lo sucesivo el reclamado) y los motivos en que se basan los
+escritos de reclamación son, en síntesis, por la recepción masiva de correos a nombre
+del reclamado para unirse a diferentes candidaturas presidenciales y estamentos
+políticos, convocando en algunos casos a asistir a encuentros celebrados en hoteles.
+Y, entre otra, anexan la siguiente documentación:
+ Varios correos electrónicos
+ Cabeceras del tránsito por internet de algunos de los correos
+El 15/04/2019, el denunciante 13 presenta un nuevo escrito aportando nuevo correo
+electrónico del mismo día, procedente del reclamado, donde además del discurso
+habitual en los correos del reclamante, figuran dibujos de personalidades públicas.
+En el sistema informático de la AEPD se encuentran antecedentes desde 2013.
+Habiendo sido examinados estos antecedentes, no se halló información adicional a la
+presentada por los reclamantes de este expediente.
+SEGUNDO: A la vista de los hechos denunciados y de los documentos aportados por
+los reclamantes de los que ha tenido conocimiento esta Agencia, la Subdirección
+General de Inspección de Datos procedió a la realización de actuaciones para el
+esclarecimiento de los hechos en cuestión.
+El reclamado, con NIF -desconocido- tiene su domicilio en el 825 Third Avenue, 6th
+Floor - 10028 New York, EEUU
+1. El reclamado es conocido en Internet como “El rey del spam español”. Se pueden
+encontrar artículos en diferentes idiomas de periódicos digitales y foros de distintas
+nacionalidades. Comentarios sobre su actividad como spammer se encuentran
+también en la página de la entidad AMAZON donde vende su libro “The Monfort Plan:
+The New Architecture of Capitalism”.
+2. En las búsquedas en el servicio WHOIS del registrador “GoDaddy.com”, principal
+registrador utilizado por el reclamado consta la misma dirección para todos los
+dominios empleados por el reclamado. No se ha podido constatar que se trate de una
+dirección verdadera. Se graba en el sistema SIGRID, como objeto asociado, un fichero
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/18
+
+con el nombre “Informe WHOIS” que contiene los resultados de estas búsquedas para
+todos los dominios empleados por el reclamante. En ellos se puede apreciar el cambio
+constante de direcciones IP y servicios de alojamiento, que puede llegar a 14 cambios
+por año, probablemente para sortear los filtros antispam y dificultar su rastreo.
+3. Todos los dominios de las direcciones de correo empleados, excepto uno, no tienen
+registros de intercambio de correos (MX record) por lo que resulta imposible contestar
+a estas direcciones. El dominio restante, “jaquealrey.info” produce una inyección de la
+repuesta a una lista de correos que genera un efecto multiplicador del correo spam.
+4. En abril de 2019 se ha observado un cambio en la forma de registrar los dominios
+con el fin de conseguir opacidad. El reclamado pasa a utilizar como sociedad
+interpuesta la entidad “WhoisGuard, Inc.” con domiciliación en Panamá.
+5. A partir de las cabeceras de Internet aportadas por algunos de los reclamantes, se
+constata que los correos tienen como origen TIRANA - ALBANIA. Se graba diligencia
+en el sistema SIGRID mostrando su localización. Estas direcciones, como se puede
+ver en la referida diligencia, están registradas en la compañía de alojamiento de
+servidores “abissnet.al”.
+Los reclamantes y las cabeceras obtenidas son:
+Denunciante 4
+Cabecera 1: Received: from [***IP.1] (port=58375 helo=DESKTOPTRK8LQ3)
+by
+server.benidormcapital.info
+with
+esmtpa
+(Exim
+4.91)
+(envelope-from
+<20181227@BENIDORMCAPITAL.INFO>)
+id
+1gcmfP00039f-2r
+for
+reypublica0000000000@jpmonfort.int; Fri, 28 Dec 2018 07:34:47 +0000
+Cabecera 2: Received: from [***IP.1] (port=58389 helo=DESKTOPTRK8LQ3) by
+server.equipopresidencial.info
+with
+esmtpa
+(Exim
+4.91)
+(envelope-from
+<20181227@EQUIPOPRESIDENCIAL.INFO>)
+id
+1gcbd8-00086g-Gq
+for
+reypublica1111111111@jpmonfort.int; Thu, 27 Dec 2018 19:47:45 +0000
+Denunciante 8
+Cabecera: Received: from [***IP.2] (port=49225 helo=DESKTOPTRK8LQ3) by
+server.welcomeonboard.info
+with
+esmtpa
+(Exim
+4.91)
+(envelope‐from
+<20181231@EQUIPOJPMONFORT.INFO>)
+id
+1geCrr‐
+0002qn‐Co
+for
+reypublica2222222222@jpmonfort.int; Tue, 01 Jan 2019 05:45:32 + 0000
+Aunque los nombres de los servidores “server.benidormcapital.info” y
+“server.welcomeonboard.info”, a donde se envían los correos desde Albania, se
+resuelven en servidores DNS privados a los que no se puede acceder desde Internet,
+si se revela su correspondiente IP en otra zona de las cabeceras de estos correos,
+encontrando: “Received: from server.equipopresidencial.info (***IP.3.unifiedlayer.com
+[***IP.3]) ….” “Received: from server.welcomeonboard.info (***IP.4.unifiedlayer.com
+[***IP.5]) ….”
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/18
+
+Por tanto, el procedimiento siempre es el mismo: el correo se origina en un servidor
+ubicado en Albania y se envía a un servidor de listas de correo que se encuentra en
+Utah, EE.UU., en la empresa de alojamiento de servidores BLUEHOST INC. En estos
+servidores se encuentran las listas de distribución que, según estas cabeceras, tienen
+el formato “reypublica + 10 dígitos @jpmonfort.int”.
+En estas cabeceras podemos encontrar “reypublica1111111111@jpmonfort.int”,
+“reypublica0000000000@jpmonfort.int”, “reypublica2222222222@jpmonfort.int”.
+Se graba en el sistema SIGRID, como objeto asociado, el fichero “Localización IPs”
+conteniendo la localización de las direcciones IP de origen de los correos y de los
+servidores de listas de distribución.
+6. De todo ello se desprende que el reclamado tiene conocimiento bastante profundo
+de cómo funciona Internet y particularmente el sistema de correo electrónico, de los
+medios para generar correo masivo, y también, de cómo evitar las legislaciones más
+restrictivas en materia de protección de datos.
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales (en lo sucesivo LOPDGDD), es competente para
+resolver estas actuaciones de investigación la Directora de la Agencia Española de
+Protección de Datos.
+II
+El artículo 6 del RGPD, Licitud del tratamiento, establece que:
+“1. El tratamiento solo será lícito si se cumple al menos una de las siguientes
+condiciones:
+a) el interesado dio su consentimiento para el tratamiento de sus datos
+personales para uno o varios fines específicos;
+(…)
+Por ogra parte, en el artículo 3 del RGPD, Ámbito territorial, establece que:
+“1. El presente Reglamento se aplica al tratamiento de datos personales en el
+contexto de las actividades de un establecimiento del responsable o del encargado en
+la Unión, independientemente de que el tratamiento tenga lugar en la Unión o no.
+2. El presente Reglamento se aplica al tratamiento de datos personales de
+interesados que se encuentren en la Unión por parte de un responsable o encargado
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/18
+
+no establecido en la Unión, cuando las actividades de tratamiento estén relacionadas
+con:
+a) La oferta de bienes o servicios a dichos interesados en la Unión,
+independientemente de si a estos se les requiere su pago, o
+b) El control de su comportamiento, en la medida en que este tenga lugar en la
+Unión.
+3. El presente Reglamento se aplica al tratamiento de datos personales por
+parte de un responsable que no esté establecido en la Unión sino en un lugar en que
+el Derecho de los Estados miembros sea de aplicación en virtud del Derecho
+internacional público”.
+III
+En el presente caso, los escritos de reclamación tienen como común
+denominador, como bien señala el inspector actuante en su informe, la remisión de
+manera ilícita de correos electrónicos a nombre del reclamado para unirse a diferentes
+candidaturas presidenciales y estamentos políticos, convocando en algunos casos a
+asistir a encuentros celebrados en hoteles en diferentes ciudades de la geografía
+española. Asimismo, hay que señalar que en el AEPD existen antecedentes de
+actuación del reclamado por similares hechos a los puestos de manifiesto en los
+presentes escritos desde el año 2013.
+De la documentación aportada al expediente, se desprende que el domicilio del
+responsable se encuentra en EEUU desconociéndose su NIF y que a pesar de los
+esfuerzos realizados no se ha podido constatar que la dirección utilizada por el
+reclamado y registrada en el servicio WHOIS se trate de una dirección verdadera,
+observándose posteriormente determinados cambios a fin de conseguir una mayor
+opacidad en la forma de registrar los dominios.
+De la misma forma, se ha constatado que de las cabeceras de Internet
+aportadas por los reclamantes los correos tienen como origen Albania, país que no
+pertenece a la UE.
+A la luz de lo señalado en el artículo 3.2 del RGPD, se está haciendo referencia
+al tratamiento de datos personales de afectados que se encuentran en un Estado de la
+Unión por parte de un responsable que no está establecido en la Unión.
+Sin embargo, los dos supuestos contemplados en la citada norma son de difícil
+encaje en el caso presente puesto que es difícil determinar que efectivamente el citado
+responsable proyecte ofrecer servicios o bienes a los interesados, por lo que la mera
+accesibilidad a una dirección de correo electrónico, u otros datos de contacto no
+bastarían para determinar dicha intención. Serán factores indicativos de tal pretensión,
+como establece el propio Reglamento, el uso de una lengua o una moneda utilizada
+generalmente en uno o varios Estados miembros con la posibilidad de encargar bienes
+y servicios en esa otra lengua, o la mención de clientes o usuarios que residen en la
+Unión tal como señala en propio RGPD en sus considerandos.
+Y en cuanto al control del comportamiento, en la medida en que este tenga
+lugar en la Unión, para determinar si se puede considerar que una actividad de
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/18
+
+tratamiento controla el comportamiento de los interesados, deberá evaluarse si las
+personas físicas son objeto de un seguimiento más o menos continuo en internet,
+inclusive el potencial uso posterior de técnicas de tratamiento de datos personales que
+consistan en la elaboración de un perfil de una persona física con el fin, en particular,
+de adoptar decisiones sobre él o de analizar o predecir sus preferencias personales,
+comportamientos y actitudes.
+Cabe concluir que la protección conferida por el RGPD no es aplicable al
+presente supuesto y, por ende, la Agencia Española de Protección de Datos no es
+competente para conocer del mismo, de conformidad con lo establecido en el artículo
+3 del citado Reglamento al no encontrarnos ante ninguno de los supuestos
+contemplados en el mismo.
+Por lo tanto, de acuerdo con lo señalado,
+Por la Directora de la Agencia Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente resolución a cada uno de los reclamantes y
+exclusivamente el ANEXO que le corresponda, en el que se incluye su identificación.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/18
+
+ANEXO I
+• Denunciante 1: D. B.B.B.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/18
+
+ANEXO II
+• Denunciante 2: D. C.C.C.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+8/18
+
+ANEXO III
+• Denunciante 3: Dña. D.D.D.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+9/18
+
+ANEXO IV
+• Denunciante 4: ***EMPRESA.1
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+10/18
+
+ANEXO V
+• Denunciante 5: D. E.E.E.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+11/18
+
+ANEXO VI
+• Denunciante 6: ***EMPRESA.2
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+12/18
+
+ANEXO VII
+• Denunciante 7: D. F.F.F.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+13/18
+
+ANEXO VIII
+• Denunciante 8: D. G.G.G.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+14/18
+
+ANEXO IX
+• Denunciante 9: D. H.H.H.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+15/18
+
+ANEXO X
+• Denunciante 10: Dña. I.I.I.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+16/18
+
+ANEXO XI
+• Denunciante 11: ***ASOCIACION.1
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+17/18
+
+ANEXO XII
+• Denunciante 12: D. J.J.J.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+18/18
+
+ANEXO XIII
+• Denunciante 13: D. K.K.K.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

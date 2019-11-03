@@ -1,0 +1,224 @@
+1/5
+
+Procedimiento Nº A/0021/2019
+RESOLUCIÓN: R/00432/2019
+En el procedimiento A/0021/2019, instruido por la Agencia Española de Protección de
+Datos, a la entidad, TIENES MALABABA S.L. (www.malababa.com) (en adelante, “la
+entidad reclamada”), en virtud de la reclamación presentada por A.A.A. (en adelante,
+“la reclamante”) y teniendo como base los siguientes,
+ANTECEDENTES
+PRIMERO: con fecha 11/01/19, la reclamante presenta escrito ante la Agencia
+Española de Protección de Datos, en la que, entre otras, indica: “Somos clientes de la
+tienda “Malababa”. Al acceder a la página web, no permite la opción de rechazar la
+política de cookies, sólo da la opción de aceptar. Sí que permite acceder a la política
+de cookies a través de un enlace al que se accede pinchando en Política de cookies.
+Una vez dentro de la página, no da tampoco la opción de rechazar la política de
+cookies”. Se adjuntan las capturas de pantalla que lo aclaran.
+SEGUNDO: A la vista de los hechos expuestos en la reclamación y de los documentos
+aportados por el reclamante, la Subdirección General de Inspección de Datos procedió
+a realizar actuaciones para su esclarecimiento, al amparo de los poderes de
+investigación otorgados a las autoridades de control en el artículo 57.1 del Reglamento
+(UE) 2016/679 (Reglamento General de Protección de Datos, en adelante RGPD). Así,
+con fecha 18/02/19, se dirige un requerimiento informativo a la entidad reclamada.
+TERCERO: Con fecha 04/04/19, la entidad reclamada presenta alegaciones, indicando
+en las mismas, entre otras, lo siguiente: “Se adjunta: Copia del escrito de contestación
+que se ha remitido a nuestro cliente, indicándole el procedimiento que ha de seguir a
+efectos de eliminar las cookies que hayan podido haber sido instaladas en función del
+navegador que hubiese utilizado en aquel momento; así como, el análisis que se ha
+realizado y las medidas y ajustes implementados por Tienes Malababa S.L..
+Se han tomado las siguientes medidas específicas: Modificaciones en el mensaje
+emergente para informar y aceptar cookies. Se han realizado modificaciones en el
+texto explicativo del uso de cookies indicando: “Que utilizamos cookies propias y de
+terceros”; los tipos de cookies: medición y analítica; el responsable del tratamiento de
+la información; el enlace al detalle de la política de cookies, ofreciendo dos botones:
+uno que permite aceptar las cookies, y otro que permite configurar y/o rechazar
+cookies.
+El mensaje emergente se presenta en la parte inferior de la página, y no se oculta
+hasta que el usuario realiza una determinada acción. Cuando el usuario pulsa sobre
+el botón de configurar el emergente permite seleccionar los tipos de cookies (medición
+y publicidad. Se ofrecen unos checks, que por defecto no están marcados, y que el
+usuario tendrá que marcar si quiere permitir que utilicemos cada uno de los tipos de
+cookies. Se ofrecen dos botones para finalizar la configuración. El botón de, ”aceptar
+todo”, permite aceptar los dos tipos de cookies sin necesidad de marcar de forma
+individual los checks. El botón de ”guardar”, almacena la configuración concreta.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/5
+
+Sobre la política de cookies publicada en nuestro sitio web, se han realizado las
+siguientes modificaciones: 1. Se ofrece una descripción detallada de que son las
+cookies y del tipo de cookies que existen; 2. Se ofrece información de los tres tipos de
+cookies que se utilizan en la web de Malababa: identificación/sesión, analítica y
+publicidad; 3. Se ofrece información de los servicios de terceros que gestionan las
+cookies de analítica y publicidad (Pinterest, Facebook, Google, Zendesk). 4. Se ofrece
+detalle de cómo puede gestionar las cookies desde su navegador.
+CUARTO: Con fecha 14/06/19, la Directora de la Agencia Española de Protección de
+Datos acordó someter a trámite de audiencia previa el procedimiento de
+apercibimiento A/0021/2019 a la entidad reclamada, y en el que se la requería para
+que tomase las medidas adecuadas para incluir en la página web de su titularidad
+www.malababa.com, para que tome las medidas adecuadas para incluir en la página
+web de su titularidad un mecanismo que permita prestar el consentimiento o revocar el
+mismo con relación al tratamiento de cookies realizado por la página en cuestión, y
+que no se carguen cookies con la mera visita a la página web.
+QUINTO: Notificado el mencionado trámite de Audiencia, no se recibe en esta Agencia
+ningún escrito de la entidad reclamada, en el periodo concedido al efecto.
+HECHOS PROBADOS
+a.- Primera Capa.- En el acceso efectuado a la página web www.malababa.com, con
+fecha 14/08/19, se observa un banner de cookies, en la parte inferior de la pantalla
+que contiene el mensaje, “Desde Tienes Malababa SL, utilizamos cookies propias y
+de terceros, con fines analíticos y publicitarios. Puedes consultar el detalle en
+nuestra “política de cookies” , un enlace a la página de, “configurar/rechazar cookies”
+y la opción de “aceptar cookies”.
+b.- Segunda Capa.- opción “configurar/rechazar cookies”: aparece el mensaje: “Tu
+privacidad es importante para nosotros, Puedes configurar tus preferencias y elegir
+como quieres que tus datos sean utilizados para los siguientes propósitos. Por
+favor, marque con las casillas situadas a la derecha los tipos de cookies que quiere
+permitir, y pulse en el botón de “guardar” o “aceptar todo”, permitiendo aceptar o
+rechazar las cookies por tipología: Cookies de analítica y Cookies publicitarias.
+3º Dentro de la página de “política de cookies”, accesible desde la página principal de
+la web, se da información sobre los datos de contacto del Servicio de Protección de
+Datos. Existe información sobre la utilización de cookies (necesarias, de análisis, de
+publicidad); también existe información de cómo desactivar las cookies, así como, de
+los servicios de terceros que gestionan las cookies de analítica y publicidad (Pinterest,
+Facebook, Google, Zendesk).
+FUNDAMENTOS DE DERECHO
+I
+Es competente para resolver este procedimiento la Directora de la Agencia Española
+de Protección de Datos, de conformidad con lo dispuesto en el artículo 43.1 de la Ley
+34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio
+Electrónico (en lo sucesivo, LSSI).
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/5
+
+II
+La valoración conjunta de la prueba documental obrante en el procedimiento trae a
+conocimiento de la AEPD una visión de la actuación de la entidad reclamada, que ha
+quedado reflejada en los hechos declarados probados.
+La entidad TIENES MALABABA S.L., es la persona jurídica responsable de dichos
+hechos. Responsabilidad circunscrita, por razones de competencia relacionados con el
+22.2 de la LSSI, que dispone: “Los prestadores de servicios podrán utilizar dispositivos
+de almacenamiento y recuperación de datos en equipos terminales de los
+destinatarios, a condición de que los mismos hayan dado su consentimiento después
+de que se les haya facilitado información clara y completa sobre su utilización, en
+particular, sobre los fines del tratamiento de los datos.
+Cuando sea técnicamente posible y eficaz, el consentimiento del destinatario para
+aceptar el tratamiento de los datos podrá facilitarse mediante el uso de los parámetros
+adecuados del navegador o de otras aplicaciones.
+Lo anterior no impedirá el posible almacenamiento o acceso de índole técnica al solo
+fin de efectuar la transmisión de una comunicación por una red de comunicaciones
+electrónicas o, en la medida que resulte estrictamente necesario, para la prestación de
+un servicio de la sociedad de la información expresamente solicitado por el
+destinatario.
+Según se desprende del citado artículo, el modo de ofrecer la información no obedece
+a supuestos tasados, cualquier fórmula que satisfaga la finalidad del precepto es
+perfectamente válida.
+Así, si el prestador de servicios utiliza un sistema de información por capas, la
+segunda capa debe complementar a la primera. En la primera capa debe mostrarse la
+información esencial sobre el uso de cookies, que, como mínimo, deberá reseñar: si
+son propias y/o de terceros, las finalidades de las cookies empleadas, modo en que el
+usuario puede prestar el consentimiento o rechazar la instalación de cookies,
+advirtiendo, en su caso, de que, si se realiza una determinada acción, se entenderá
+que acepta el uso de las cookies, existencia del derecho a revocar el consentimiento.
+Además, deberá incluir un enlace claramente visible a la segunda capa informativa,
+donde se incluirá una información más detallada.
+La información ofrecida en la segunda capa, que deberá encontrarse disponible en
+forma permanente en el sitio web o en la aplicación, deberá incluir la siguiente
+información: - qué son y para qué se utilizan las cookies, - los tipos de cookies
+utilizadas y su finalidad, - período de conservación de los datos para los diferentes
+fines, - forma de revocar el consentimiento ya prestado, - forma de permitir, bloquear o
+eliminar las cookies enunciadas a través de las funcionalidades facilitadas por el editor
+o el terminal, - las herramientas proporcionadas por el navegador o a través de las
+plataformas comunes que pudieran existir para esta finalidad, pudiendo también
+proporcionar información sobre la configuración de las opciones de los principales
+navegadores, - y ofrecer información sobre la identificación de quien utiliza las
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/5
+
+cookies, esto es, si la información obtenida por las cookies es tratada solo por el editor
+y/o también por terceros con los que el editor haya contratado la prestación de un
+servicio para el cual se requiera el uso de cookies, con la identificación de estos
+últimos.
+III
+La infracción a este precepto se encuentra tipificada como leve en el artículo 38.4.g)
+de la citada LSSI, que considera como tal: “Utilizar dispositivos de almacenamiento y
+recuperación de datos cuando no se hubiera facilitado la información u obtenido el
+consentimiento del destinatario del servicio en los términos exigidos por el artículo
+22.2.”
+El artículo 39 bis, 2, de la LSSI, bajo el epígrafe “Moderación de las sanciones”,
+estipula lo siguiente: “2. Los órganos con competencia sancionadora, atendida la
+naturaleza de los hechos y la concurrencia significativa de los criterios establecidos en
+el apartado anterior, podrán acordar no iniciar la apertura del procedimiento
+sancionador y, en su lugar, apercibir al sujeto responsable, a fin de que en el plazo que
+el órgano sancionador determine, acredite la adopción de las medidas correctoras que,
+en cada caso, resulten pertinentes, siempre que concurran los siguientes
+presupuestos: a) que los hechos fuesen constitutivos de infracción leve o grave
+conforme a lo dispuesto en esta Ley y b) que el órgano competente no hubiese
+sancionado o apercibido con anterioridad al infractor como consecuencia de la
+comisión de infracciones previstas en esta Ley.
+Si el apercibimiento no fuera atendido en el plazo que el órgano sancionador hubiera
+determinado, procederá la apertura del correspondiente procedimiento sancionador
+por dicho incumplimiento.”
+En el presente supuesto se cumplen los requisitos recogidos en las letras a) y b) del
+citado apartado 2 del artículo 39 bis. Junto a ello, y de conformidad con las evidencias
+de las que se dispone en el presente momento, se aprecia que concurre la
+circunstancia, prevista en el artículo 39 bis, apartado 1.a), que dispone que “Cuando
+se aprecie una cualificada disminución de la culpabilidad del imputado o de la
+antijuridicidad del hecho como consecuencia de la concurrencia significativa de varios
+de los criterios enunciados en el artículo 40”, concurriendo en este caso los criterios
+d) y e) del citado precepto, por cuanto no hay constancia de la existencia de
+perjuicios causados ni de beneficios obtenidos a raíz de la supuesta comisión de la
+infracción descrita.
+Por lo tanto, de acuerdo con lo señalado la Directora de la Agencia Española de
+Protección de Datos ACUERDA:
+ARCHIVAR: el procedimiento A/0021/2019 seguido a la entidad, TIENES MALABABA
+S.L., con arreglo a lo dispuesto en el artículo 39 bis, apartado 2 de la LSSI, con
+relación a la denuncia por infracción del artículo 22.2 de la citada norma.
+NOTIFICAR el presente Acuerdo a la entidad, TIENES MALABABA S.L.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la presente
+Resolución se hará pública una vez haya sido notificada a los interesados.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/5
+
+Contra esta resolución, que pone fin a la vía administrativa conforme al art. 48.6 de la
+LOPDPGDD, y de acuerdo con lo establecido en el artículo 123 de la LPACAP, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

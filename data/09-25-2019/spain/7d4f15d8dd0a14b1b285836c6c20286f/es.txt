@@ -1,0 +1,406 @@
+1/9
+
+Expediente Nº: E/07439/2019
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos
+ante la compañía aérea RYANAIR y la DIRECCIÓN GENERAL DE LA POLICÍA en virtud
+de denuncia presentada por A.A.A., y teniendo como base los siguientes
+ANTECEDENTES
+PRIMERO: El 18 de diciembre de 2018 el reclamante presenta denuncia ante la Agencia
+Española de protección de Datos por una vulneración de la normativa de protección de
+datos en relación con la información que fue facilitada por la compañía aérea Ryanair al
+Grupo de Coordinación Operativa de la Comisaría de Policía del Aeropuerto de BarcelonaEl Prat, en un procedimiento disciplinario interpuesto contra el reclamante.
+SEGUNDO: Se produce la apertura del expediente E/00661/2019 y tras el análisis
+realizado sobre los documentos aportados y las circunstancias concurrentes, se acordó
+inadmitir dicha reclamación, tras considerar que no se apreciaban indicios racionales de la
+existencia de una infracción en el ámbito competencial de la Agencia Española de
+Protección de Datos.
+TERCERO: En fecha 21 de febrero de 2019 el reclamante formula recurso de reposición,
+RR/00137/2019, contra la resolución dictada por la Directora de la Agencia Española de
+Protección de Datos en el E/00661/2019, argumentando que la comunicación de datos
+efectuada por la compañía aérea Ryanair al Cuerpo Nacional de la Policía no se encuentra
+amparada en los artículos 55, 75 y 79 de la Ley 39/2015, a los que se refería la resolución,
+CUARTO: Dicho recurso de reposición es estimado, procediéndose a la apertura del
+expediente E/07439/2019, al apreciarse una posible vulneración de la normativa de
+protección de datos cuando el Grupo de Coordinación Operativa realizó gestiones con la
+compañía aérea Ryanair, a los efectos de confirmar que en el vuelo FR-3063 BarcelonaTenerife viajó el recurrente, todo ello con el objeto de acreditar una presunta vulneración
+de la Ley Orgánica 4/2010, de 20 de mayo, del Régimen Disciplinario del Cuerpo Nacional
+de Policía, por considerar que las gestiones realizadas ante la compañía aérea fueron
+realizadas por una Unidad que podría carecer de competencias para efectuar las
+actuaciones de investigación denunciadas.
+La citada cuestión resulta fundamental a la hora de resolver la cuestión planteada, ya que
+la normativa de protección de datos ampararía el acceso a los datos denunciados en el
+caso en el que el mismo se hubiese llevado a cabo de conformidad al procedimiento
+legalmente establecido.
+HECHOS
+PRIMERO: La estimación del RR/00137/2019, contra la resolución del E/00661/2019, da
+lugar a la apertura del expediente E/07439/2019, lo cual se notifica a la DIRECCIÓN
+GENERAL DE LA POLICÍA el ***FECHA.1 requiriéndole la siguiente documentación:
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/9
+
+1.
+
+Copia de las comunicaciones, de la decisión adoptada que haya remitido al
+reclamante a propósito del traslado de esta reclamación, y acreditación de que
+el reclamante ha recibido la comunicación de esa decisión.
+
+2.
+
+Informe sobre las causas que han motivado la incidencia que ha originado la
+reclamación.
+
+3.
+
+Informe sobre las medidas adoptadas para evitar que se produzcan incidencias
+similares.
+
+4.
+
+Cualquier otra que considere relevante.
+
+.
+SEGUNDO: Tras la recepción de la denuncia la Subdirección General de Inspección de
+Datos procedió a la realización de actuaciones previas de investigación para el
+esclarecimiento de los hechos denunciados, teniendo conocimiento de los siguientes
+extremos:
+El ***FECHA.2, la reclamada responde al requerimiento de información de la AEPD,
+manifestando lo siguiente:
+“Según consta en el expediente de referencia se efectuó una solicitud de datos a la
+compañía aérea Ryanair. Datos que, posteriormente, fueron incorporados a un
+procedimiento disciplinario en virtud de la Ley Orgánica 4/2010, de 20 de mayo, del
+Régimen disciplinario del Cuerpo Nacional de Policía.
+Considerando que los datos de carácter personal son comunicados por Ryanair de
+acuerdo con su política de privacidad y no existiendo, por lo tanto, ninguna operación
+vinculada con los tratamientos de los que es titular este Centro Directivo, de acuerdo con
+el Registro de Actividades del tratamiento de datos publicados en la página web del
+Ministerio del Interior, este Delegado de Protección de Datos no considera oportuna la
+realización de actuaciones adicionales”
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la Ley
+Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los
+derechos digitales (en lo sucesivo LOPDGDD), es competente para resolver estas
+actuaciones de investigación la Directora de la Agencia Española de Protección de Datos.
+II
+De conformidad con lo establecido en el artículo 55 del RGPD, la Agencia
+Española de Protección de Datos es competente para desempeñar las funciones que se le
+asignan en su artículo 57, entre ellas, la de hacer aplicar el Reglamento y promover la
+sensibilización de los responsables y los encargados del tratamiento acerca de las
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/9
+
+obligaciones que les incumben, así como tratar las reclamaciones presentadas por un
+interesado e investigar el motivo de estas.
+Corresponde, asimismo, a la Agencia Española de Protección de Datos ejercer los
+poderes de investigación regulados en el artículo 58.1 del RGPD, entre los que figura la
+facultad de ordenar al responsable y al encargado del tratamiento que faciliten cualquier
+información que requiera para el desempeño de sus funciones.
+Correlativamente, el artículo 31 del RGPD establece la obligación de los
+responsables y encargados del tratamiento de cooperar con la autoridad de control que lo
+solicite en el desempeño de sus funciones. Para el caso de que éstos hayan designado un
+delegado de protección de datos, el artículo 39 del RGPD atribuye a éste la función de
+cooperar con dicha autoridad.
+Del mismo modo, el ordenamiento jurídico interno también prevé la posibilidad de
+abrir un período de información o actuaciones previas. En este sentido, el artículo 55 de la
+Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, otorga esta facultad al órgano competente con el fin de conocer
+las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento.
+III
+En el presente caso, se ha recibido en esta Agencia la reclamación contra las
+reclamadas, por una presunta vulneración de los artículos 5 y 6 del RGPD en relación con
+los principios relativos al tratamiento de los datos personales del interesado y la licitud de
+su tratamiento, señalándose en el artículo 5 del RGPD que “los datos personales serán:
+a) tratados de manera lícita, leal y transparente en relación con el interesado («licitud,
+lealtad y transparencia»);
+b) recogidos con fines determinados, explícitos y legítimos, y no serán tratados
+ulteriormente de manera incompatible con dichos fines; de acuerdo con el artículo 89,
+apartado 1, el tratamiento ulterior de los datos personales con fines de archivo en
+interés público, fines de investigación científica e histórica o fines estadísticos no se
+considerará incompatible con los fines iniciales («limitación de la finalidad»);
+c) adecuados, pertinentes y limitados a lo necesario en relación con los fines para los
+que son tratados («minimización de datos»);
+d) exactos y, si fuera necesario, actualizados; se adoptarán todas las medidas
+razonables para que se supriman o rectifiquen sin dilación los datos personales que
+sean inexactos con respecto a los fines para los que se tratan («exactitud»);
+e) mantenidos de forma que se permita la identificación de los interesados durante no
+más tiempo del necesario para los fines del tratamiento de los datos personales; los
+datos personales podrán conservarse durante períodos más largos siempre que se
+traten exclusivamente con fines de archivo en interés público, fines de investigación
+científica o histórica o fines estadísticos, de conformidad con el artículo 89, apartado 1,
+sin perjuicio de la aplicación de las medidas técnicas y organizativas apropiadas que
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/9
+
+impone el presente Reglamento a fin de proteger los derechos y libertades del
+interesado («limitación del plazo de conservación»);
+f) tratados de tal manera que se garantice una seguridad adecuada de los datos
+personales, incluida la protección contra el tratamiento no autorizado o ilícito y contra
+su pérdida, destrucción o daño accidental, mediante la aplicación de medidas técnicas
+u organizativas apropiadas («integridad y confidencialidad»).
+
+2. El responsable del tratamiento será responsable del cumplimiento de lo dispuesto en el
+apartado 1 y capaz de demostrarlo («responsabilidad proactiva»).”
+
+Por su parte el artículo 6 del RGPD, en relación a la licitud del tratamiento de los
+datos personales, señala que:
+“1. El tratamiento solo será lícito si se cumple al menos una de las siguientes condiciones:
+a) el interesado dio su consentimiento para el tratamiento de sus datos personales
+para uno o varios fines específicos;
+b) el tratamiento es necesario para la ejecución de un contrato en el que el interesado
+es parte o para la aplicación a petición de este de medidas precontractuales;
+c) el tratamiento es necesario para el cumplimiento de una obligación legal aplicable al
+responsable del tratamiento;
+d) el tratamiento es necesario para proteger intereses vitales del interesado o de otra
+persona física;
+e) el tratamiento es necesario para el cumplimiento de una misión realizada en interés
+público o en el ejercicio de poderes públicos conferidos al responsable del tratamiento;
+f) el tratamiento es necesario para la satisfacción de intereses legítimos perseguidos
+por el responsable del tratamiento o por un tercero, siempre que sobre dichos
+intereses no prevalezcan los intereses o los derechos y libertades fundamentales del
+interesado que requieran la protección de datos personales, en particular cuando el
+interesado sea un niño.
+Lo dispuesto en la letra f) del párrafo primero no será de aplicación al tratamiento realizado
+por las autoridades públicas en el ejercicio de sus funciones.
+2. Los Estados miembros podrán mantener o introducir disposiciones más específicas a fin
+de adaptar la aplicación de las normas del presente Reglamento con respecto al
+tratamiento en cumplimiento del apartado 1, letras c) y e), fijando de manera más precisa
+requisitos específicos de tratamiento y otras medidas que garanticen un tratamiento lícito y
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/9
+
+equitativo, con inclusión de otras situaciones específicas de tratamiento a tenor del
+capítulo IX.
+3. La base del tratamiento indicado en el apartado 1, letras c) y e), deberá ser establecida
+por:
+a) el Derecho de la Unión, o
+b) el Derecho de los Estados miembros que se aplique al responsable del tratamiento.
+
+La finalidad del tratamiento deberá quedar determinada en dicha base jurídica o, en lo
+relativo al tratamiento a que se refiere el apartado 1, letra e), será necesaria para el
+cumplimiento de una misión realizada en interés público o en el ejercicio de poderes
+públicos conferidos al responsable del tratamiento. Dicha base jurídica podrá contener
+disposiciones específicas para adaptar la aplicación de normas del presente Reglamento,
+entre otras: las condiciones generales que rigen la licitud del tratamiento por parte del
+responsable; los tipos de datos objeto de tratamiento; los interesados afectados; las
+entidades a las que se pueden comunicar datos personales y los fines de tal
+comunicación; la limitación de la finalidad; los plazos de conservación de los datos, así
+como las operaciones y los procedimientos del tratamiento, incluidas las medidas para
+garantizar un tratamiento lícito y equitativo, como las relativas a otras situaciones
+específicas de tratamiento a tenor del capítulo IX. El Derecho de la Unión o de los Estados
+miembros cumplirá un objetivo de interés público y será proporcional al fin legítimo
+perseguido.
+4. Cuando el tratamiento para otro fin distinto de aquel para el que se recogieron los datos
+personales no esté basado en el consentimiento del interesado o en el Derecho de la
+Unión o de los Estados miembros que constituya una medida necesaria y proporcional en
+una sociedad democrática para salvaguardar los objetivos indicados en el artículo 23,
+apartado 1, el responsable del tratamiento, con objeto de determinar si el tratamiento con
+otro fin es compatible con el fin para el cual se recogieron inicialmente los datos
+personales, tendrá en cuenta, entre otras cosas:
+a) cualquier relación entre los fines para los cuales se hayan recogido los datos
+personales y los fines del tratamiento ulterior previsto;
+b) el contexto en que se hayan recogido los datos personales, en particular por lo que
+respecta a la relación entre los interesados y el responsable del tratamiento;
+c) la naturaleza de los datos personales, en concreto cuando se traten categorías
+especiales de datos personales, de conformidad con el artículo 9, o datos personales
+relativos a condenas e infracciones penales, de conformidad con el artículo 10;
+d) las posibles consecuencias para los interesados del tratamiento ulterior previsto;
+e) la existencia de garantías adecuadas, que podrán incluir el cifrado o la
+seudonimización.”
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/9
+
+IV
+En el presente caso se denuncia la cesión de los datos personales del reclamante
+por la compañía aérea Ryanair a la Dirección General de Policía, en este sentido, dicho
+Organismo, el 17 de mayo de 2019, en respuesta a la presente reclamación ha
+manifestado que los datos de carácter personal objeto del presente caso, son cedidos por
+Ryanair de acuerdo con su política de privacidad, para su uso en un procedimiento
+disciplinario de conformidad con la Ley Orgánica 4/2010, de 20 de mayo, del Régimen
+disciplinario del Cuerpo Nacional de Policía.
+Debe tenerse en cuenta la siguiente normativa, en primer lugar la Ley Orgánica
+2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, que en su artículo 27.5
+establece que “Incurrirán en la misma responsabilidad que los autores de una falta los
+que induzcan a su comisión y los Jefes que la toleren. Asimismo, incurrirán en falta de
+inferior grado los que encubrieran la comisión de una falta.”
+Asimismo, el artículo 28.3 de dicho texto legal establece que “Los funcionarios
+del Cuerpo Nacional de Policía tendrán obligación de comunicar por escrito al superior
+jerárquico competente los hechos que consideren constitutivos de faltas graves y muy
+graves de los que tengan conocimiento.”, y en el apartado 5 continúa señala lo
+siguiente:
+
+“Para la imposición de la sanción de separación del servicio será competente el
+Ministro del Interior.
+Para la imposición de sanciones por faltas muy graves y graves, además del
+Ministro del Interior, será competente el Director de la Seguridad del Estado.
+Para la imposición de las sanciones por faltas graves también será competente
+el Director general de la Policía.
+Además de los órganos anteriores, los Gobernadores civiles y los Jefes de las
+dependencias, centrales o periféricas, en que presten servicio los infractores, serán
+competentes para la imposición de las sanciones por faltas leves.
+En segundo lugar, la Ley Orgánica 4/2010, de 20 de mayo, del Régimen
+disciplinario del Cuerpo Nacional de Policía, en su artículo 4 regula la comunicación de
+infracciones, señalando que:
+“Los miembros del Cuerpo Nacional de Policía tendrán la obligación de
+comunicar por escrito a su superior jerárquico los hechos de los que tengan
+conocimiento que consideren constitutivos de faltas graves y muy graves, salvo
+cuando dicho superior sea el presunto infractor; en tal caso, la comunicación se
+efectuará al superior inmediato de este último.”
+Por su parte el artículo 5 que regula la extensión de la responsabilidad,
+manifiesta que:
+“Incurrirán en la misma responsabilidad que los autores de una falta los que
+induzcan a su comisión. Asimismo, incurrirán en falta de inferior grado los que
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/9
+
+encubrieran la comisión de una falta muy grave o grave, y los superiores que la
+toleren. Se entenderá por encubrimiento no dar cuenta al superior jerárquico
+competente, de forma inmediata, de los hechos constitutivos de falta muy grave o
+grave de los que se tenga conocimiento.”
+Además, el artículo 13 de dicho texto legal regula la competencia sancionadora
+indicando que:
+“Son órganos competentes para imponer sanciones disciplinarias a los
+funcionarios del Cuerpo Nacional de Policía:
+a) Para la imposición de la sanción de separación del servicio por faltas muy
+graves, el Ministro del Interior.
+b) Para la imposición de las sanciones de suspensión de funciones de tres
+años y un día a seis años y de traslado forzoso por faltas muy graves, el Secretario de
+Estado de Seguridad.
+c) Para la imposición de la sanción de suspensión de funciones hasta tres años
+por faltas muy graves, así como para la imposición de sanciones por faltas graves, el
+Director General de la Policía y de la Guardia Civil.
+d) Para la imposición de sanciones por faltas leves, los Delegados del
+Gobierno en las Comunidades Autónomas, respecto de las cometidas por funcionarios
+que presten servicio en el territorio de su respectiva Comunidad Autónoma; asimismo,
+los jefes de órganos centrales hasta el nivel de subdirector general, o asimilados; y los
+jefes superiores de policía, los jefes de las comisarías provinciales y locales y los jefes
+de las unidades del Cuerpo Nacional de Policía adscritas a las Comunidades
+Autónomas, respecto de las cometidas por funcionarios de ellos dependientes.
+e) Los órganos competentes para imponer sanciones de una determinada
+naturaleza, lo son también para imponer sanciones de naturaleza inferior.”
+Concluir señalando que Ley 39/2015 del regimen juridico del procedimiento
+administrativo común de las administraciones públicas, en su artículo 18 regula la
+colaboración de las personas, estableciendo que:
+“1. Las personas colaborarán con la Administración en los términos previstos
+en la Ley que en cada caso resulte aplicable, y a falta de previsión expresa, facilitarán
+a la Administración los informes, inspecciones y otros actos de investigación que
+requieran para el ejercicio de sus competencias, salvo que la revelación de la
+información solicitada por la Administración atentara contra el honor, la intimidad
+personal o familiar o supusieran la comunicación de datos confidenciales de terceros
+de los que tengan conocimiento por la prestación de servicios profesionales de
+diagnóstico, asesoramiento o defensa, sin perjuicio de lo dispuesto en la legislación en
+materia de blanqueo de capitales y financiación de actividades terroristas.”
+Por su parte el artículo 61.1 que regula el inicio del procedimiento por petición
+razonada de otros órganos establece que:
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+8/9
+
+“Se entiende por petición razonada, la propuesta de iniciación del
+procedimiento formulada por cualquier órgano administrativo que no tiene
+competencia para iniciar el mismo y que ha tenido conocimiento de las circunstancias,
+conductas o hechos objeto del procedimiento, bien ocasionalmente o bien por tener
+atribuidas funciones de inspección, averiguación o investigación.”
+V
+Así las cosas, teniendo en cuenta los argumentos jurídicos del fundamento IV, y el
+hecho de que no constan tratamientos de datos por la entidad reclamada, de acuerdo con
+el Registro de Actividades del tratamiento de datos publicados en la página web del
+Ministerio del Interior, la AEPD considera que no se han vulnerado los principios de
+integridad y confidencialidad regulados en el artículo 5.1 f) del RGPD que exige que los
+datos personales sean “tratados de tal manera que se garantice una seguridad adecuada
+de los datos personales, incluida la protección contra el tratamiento no autorizado o ilícito y
+contra su pérdida, destrucción o daño accidental, mediante la aplicación de medidas
+técnicas u organizativas apropiadas”.
+Asimismo, aunque en el artículo 6.1 f) del RGPD se establece que para el
+tratamiento lícito de los datos personales han de prevalecer los derechos y libertades
+fundamentales del interesado sobre los intereses legítimos del responsable del
+tratamiento, en el inciso final de dicho precepto, se contempla la salvedad en la aplicación
+de este artículo a las autoridades públicas en el ejercicio de sus funciones.
+Por lo tanto, en lo que respecta a la compañía aérea, se considera que actuó
+diligentemente cediendo los datos personales del reclamante a la Dirección General de
+Policía, cumpliendo con los artículos 18 y 61 de la LRJPAC, que establecen la obligación
+de facilitar a la Administración los informes, inspecciones y otros actos de investigación
+que requieran para el ejercicio de sus competencias, al considerar que el reclamado
+tiene atribuidas funciones de inspección, averiguación e investigación , en concreto para
+su uso en un procedimiento disciplinario de conformidad con la Ley Orgánica 4/2010, de
+20 de mayo, del Régimen disciplinario del Cuerpo Nacional de Policía, según los preceptos
+indicados en el fundamento de derecho IV.
+Por lo tanto, de acuerdo con lo señalado, tras considerar que no se ha infringido la
+normativa de protección de datos personales, por la Directora de la Agencia Española de
+Protección de Datos,
+SE ACUERDA
+
+1. PROCEDER AL ARCHIVO de las presentes actuaciones.
+2. NOTIFICAR la presente resolución al reclamante e INFORMAR de ella al
+responsable del tratamiento.
+Contra esta resolución, que pone fin a la vía administrativa según lo preceptuado
+por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas, y de conformidad con lo establecido en los arts.
+112 y 123 de la citada Ley 39/2015, de 1 de octubre, los interesados podrán interponer,
+potestativamente, recurso de reposición ante la Directora de la Agencia Española de
+Protección de Datos en el plazo de un mes a contar desde el día siguiente a la notificación
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+9/9
+
+de esta resolución o directamente recurso contencioso administrativo ante la Sala de lo
+Contencioso-administrativo de la Audiencia Nacional, con arreglo a lo dispuesto en el
+artículo 25 y en el apartado 5 de la disposición adicional cuarta de la Ley 29/1998, de 13
+de julio, reguladora de la Jurisdicción Contencioso-Administrativa, en el plazo de dos
+meses a contar desde el día siguiente a la notificación de este acto, según lo previsto en el
+artículo 46.1 de la referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

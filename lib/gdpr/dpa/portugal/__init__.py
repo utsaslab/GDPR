@@ -53,7 +53,7 @@ class Portugal(DPA):
         year_range = range(gdpr_date.year, now.year+1)
         for year in year_range:
             results_url = host + f"/bin/decisoes/decisoes.asp?primeira_escolha={year}&segunda_escolha=40"
-            pagination.add_link(results_url)
+            pagination.add_item(results_url)
 
         while pagination.has_next():
             page_url = pagination.get_next()

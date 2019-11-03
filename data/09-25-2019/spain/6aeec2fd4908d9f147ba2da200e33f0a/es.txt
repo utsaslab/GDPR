@@ -1,0 +1,435 @@
+1/8
+
+Expediente Nº: E/05180/2019
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos ante la
+entidad MIJAS SERVICIOS COMPLEMENTARIOS S.L. en virtud de denuncia presentada por
+A.A.A. y teniendo como base los siguientes
+HECHOS
+PRIMERO: Con fecha 19 de septiembre de 2018, tuvo entrada en esta Agencia escrito de
+A.A.A. (en lo sucesivo el reclamante) contra MIJAS SERVICIOS COMPLEMENTARIOS S.L.
+en lo sucesivo la entidad reclamada) entidad que está destinada a la generación de programas
+de ayuda social mediante el contrato de personas en situación de vulnerabilidad y exclusión
+social, en base a unos requisitos preestablecidos.
+El reclamante denuncia que dicha entidad permite a personas no autorizadas, el acceso a los
+datos personales de las personas que solicitan los programas de ayuda social que lleva a cabo
+la entidad reclamada, así como el acceso a las nóminas y documentación contractual laboral de
+las personas que participan en el programa, siendo una cuestión delicada por la inclusión de
+ciertos perfiles personales en los programas, provenientes de situaciones de privación de
+libertad y otros altamente comprometedores.
+SEGUNDO: Tras la recepción de la denuncia la Subdirección General de Inspección de Datos
+procedió a la realización de actuaciones previas de investigación para el esclarecimiento de los
+hechos denunciados, teniendo conocimiento de los siguientes extremos:
+Con fecha 18 de febrero de 2019, se da traslado de la denuncia a MIJAS SERVICIOS
+COMPLEMENTARIOS S.L. en las actuaciones con referencia E/08001/2018. La notificación se
+realiza electrónicamente a través de notific@. Según este sistema de notificación, se ha
+producido el rechazo automático al haber transcurrido diez días naturales desde su puesta a
+disposición.
+Con fecha 1 de marzo de 2019, se reitera el traslado a MIJAS SERVICIOS
+COMPLEMENTARIOS S.L. La notificación se realiza por correo postal y figura entregada por el
+Servicio de Correos el 6 de marzo de 2019. No se recibe contestación.
+Con fecha 20 de junio de 2019, MIJAS SERVICIOS COMPLEMENTARIOS S.L. remite a esta
+Agencia la siguiente información:
+
+1. Documento Marco del Ayuntamiento de Mijas donde se regula el Programa Municipal
+de Renta Básica. Establece, entre otros términos:
+
+a. Requisitos de acceso.
+ La persona solicitante debe ser mayor de edad.
+ El/la solicitante debe estar inscrito/a en el Servicio Andaluz de Empleo y
+estar en situación de desempleo.
+
+ La unidad familiar debe estar constituida de forma estable, con un año de
+antelación, como mínimo, a la fecha de la presentación de la solicitud, salvo
+en los casos de matrimonio o pareja de hecho, nacimiento, adopción o
+acogimiento de hijo o hija y ruptura familiar suficientemente acreditada.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+2/8
+
+ Estar todos sus miembros empadronados como residentes en el municipio
+de Mijas, al menos 5 años en el cómputo de los últimos 7 años de
+antelación a la fecha de presentación de la solicitud, salvo casos de fuerza
+mayor que queden acreditados. En este supuesto se englobarían:
+
+-
+
+Emigrantes andaluces retornados.
+
+-
+
+Víctimas de Violencia de Género y Víctimas de Terrorismo.
+
+ Tomando como referencia y base el Indicador Público de Renta de Efectos
+Múltiples, (IPREM) se establecerá para la convocatoria anual de los posibles
+contratos a realizar por las empresas integrantes del Programa Marco los
+recursos mensuales máximos que la unidad familiar pueda tener, y la
+aplicación del índice multiplicador, que, si procediera, se acordará y
+detallará en la convocatoria anual, según la situación económico- social del
+municipio.
+
+ Aceptar el beneficiario y los miembros de la unidad familiar los compromisos
+que se determinen al objeto de facilitar el proceso de inclusión social que
+mejor se valore, y los cuales serán reflejados en un documento de Acuerdo
+firmado por las partes.
+
+b. Las solicitudes deberán ir acompañadas de la siguiente documentación.
+ Fotocopia del Documento Nacional o NIE del solicitante y de los miembros
+de la unidad familiar mayores de 16 años.
+
+ Fotocopia del Libro de Familia
+ En el caso de uniones no matrimoniales, certificación de estar inscritos en el
+Registro de Uniones de Hecho de la Comunidad Autónoma de Andalucía.
+En su defecto se acreditará la unión por cualquier otro medio admitido en
+Derecho.
+
+ Fotocopia de la declaración de la renta del último ejercicio o certificado
+negativo de Hacienda.
+
+ Fotocopia del contrato de trabajo y las dos últimas nóminas de los mayores
+de dieciséis años que realicen actividad laboral en el momento de presentar
+la solicitud y/o vida laboral.
+
+ Informe de Inscripción y Certificado de estar percibiendo o no prestación
+económica del Servicio Andaluz de Empleo.
+
+ Certificados de pensiones de la Seguridad Social u otros organismos.
+ Certificado bancario o documento acreditativo con el número de cuenta,
+debiendo ser el contratado, titular de dicha cuenta.
+
+c. El ente gestor solicitará, con el consentimiento del solicitante, la
+documentación necesaria para la tramitación de la solicitud, entre la que se
+puede encontrar la siguiente:
+
+ Certificación expedida por el Ayuntamiento, acreditativa de que todos los
+miembros de la unidad familiar se hayan empadronados como convivientes
+en un mismo domicilio, ubicado en el municipio de Mijas, al menos con dos
+años de antelación a la fecha de presentación de la solicitud.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+3/8
+
+ Certificado expedido por el Área de Bienestar Social en los casos en las que
+las unidades familiares estén incluidas en algún programa de intervención o
+estén siendo atendidas por algún Servicio de dicha área.
+
+d. Baremo del Anexo I que tiene en cuenta los siguientes datos en el apartado de
+situación económica resultante de la renta familiar, dando una determinada
+puntuación a cada situación en función del porcentaje respecto del IPREM.
+
+e. Baremo del Anexo I que tiene en cuenta los siguientes datos en el apartado de
+situación social y familiar dando una determinada puntuación a cada situación:
+
+ Familia monoparental.
+ Personas con discapacidad.
+ Personas dependientes.
+ Familias numerosas.
+ Víctimas de violencia de género.
+ Víctimas de terrorismo.
+ Emigrantes retornados.
+ Voluntarios que acrediten al menos 120 horas al año de servicios en
+Protección Civil, Cáritas o Cruz Roja o Asociaciones con fines sociales.
+
+ Menores de 25 años sin experiencia laboral.
+ Parados de larga duración mayores de 25 años y menores de 45.
+ Parados de larga duración mayores de 45 años.
+ Hombres y mujeres en periodo de transformación de sexo (transexuales).
+f. En su artículo 13 se establece que se publicarán en el Tablón de Edictos y en
+la página web los aspirantes seleccionados para su contratación.
+
+2. Aporta modelo de solicitud, que incluye los siguientes datos a aportar por los
+solicitantes, entre otros:
+
+a. Datos identificativos: nombre y apellidos, DNI, fecha de nacimiento, edad,
+sexo, nacionalidad, estado civil, teléfono, email, domicilio habitual.
+
+b. Otros datos:
+ Si es persona con discapacidad.
+ Si existen personas dependientes a cargo del solicitante.
+ Si es familia monoparental.
+ Número de hijos.
+ Si es víctima de terrorismo.
+ Si es víctima de violencia de género.
+ Si está inscrito en el Servicio Andaluz de Empleo al menos con doce meses
+de antigüedad.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+4/8
+
+ Si es menor de 25 años sin experiencia laboral.
+ Si es emigrante retornado a Andalucía.
+ Si es Voluntario.
+ Otras circunstancias a tener en cuenta
+ Si es usuario de servicios sociales.
+g. Datos económicos de la unidad familiar:
+ Ingresos del solicitante.
+ Datos de identificación, edad, parentesco, si existe discapacidad, situación
+laboral e ingresos de todos los miembros de la unidad familiar.
+
+3. Manifiesta que los beneficiarios del Programa Municipal de Renta Básica firman un
+contrato laboral por una duración máxima de seis meses.
+Aporta contrato laboral y nómina.
+
+4. Manifiesta que los beneficiarios no tienen acceso a datos de solicitudes, nóminas o
+contratos laborales.
+
+5. En relación a la especificación de los tratamientos que se realizan con los datos de las
+personas solicitantes de sus programas y de las beneficiarias, manifiesta que:
+
+a. MIJAS SERVICIOS COMPLEMENTARIOS S.L colabora con el Área de
+Servicios Sociales del Ayuntamiento de Mijas en la selección del personal a
+través de la baremación de las solicitudes presentadas conforme a los criterios
+especificados en el Programa Marco, Anexo I: Baremo.
+
+b. Las solicitudes y documentación son presentadas en los diferentes registros
+del Ayuntamiento de Mijas. Se procede a su archivo en soporte papel y de
+forma digital en los ficheros correspondientes.
+
+c. Los datos personales procedentes de las solicitudes son incorporados a una
+base de datos exclusiva para la gestión de la baremación a la cual solo tiene
+acceso personal autorizado y está protegida por claves.
+
+d. Para el tratamiento de datos, se trabaja en red a través de carpetas
+compartidas con dos áreas del Ayuntamiento de Mijas: Área de Igualdad y
+Bienestar Social y el Área de Atención Ciudadana. El acceso a estos ficheros
+es solo para personal autorizado.
+
+e. Una vez realizada la baremación se procede a la publicación de las listas de
+personal admitido y a su posterior contratación.
+
+f. Los datos personales de las personas que serán contratadas son mecanizados
+en una base de datos para la gestión de recursos humanos. Esta base de
+datos en gestionada solo por personal autorizado y está protegida por claves.
+
+g. En la fase de acogida del personal que será contratado, se cumplimenta un
+cuestionario de ajuste profesional y se realiza la entrega de documentación
+relativa a la empresa y la prevención de riesgos laborales. Esta documentación
+es archivada en formato papel en los correspondientes expedientes de los
+usuarios.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+5/8
+
+6. Aporta documento de seguridad de protección de datos el cual, entre otros, contiene
+los siguientes apartados:
+
+a. Información de interés general, indicando que este documento no podrá ser
+utilizado para tratamientos de datos personales que incluyan datos personales
+relativos al origen étnico o racial, ideología política religiosa o filosófica, filiación
+sindical, datos genéticos y biométricos, datos de salud, y datos de orientación
+sexual de las personas, así como cualquier otro tratamiento de datos que
+entrañe alto riesgo para los derechos y libertades de las personas.
+
+b. Ámbito de aplicación, indicando que el documento será de aplicación a los
+ficheros que contengan datos de carácter personal que se hallen bajo la
+responsabilidad de MIJAS SERVICIOS COMPLEMENTARIOS S.L.
+
+c. Medidas técnicas y organizativas, indicando que todos los documentos en
+papel se custodian bajo llave.
+
+d. Registro de Actividades de Tratamiento donde se identifica, entre otros, lo
+siguiente:
+
+ El
+
+responsable
+del
+COMPLEMENTARIOS S.L.
+
+tratamiento
+
+es
+
+MIJAS
+
+SERVICIOS
+
+ Descripción de la finalidad:
+i.
+ii.
+iii.
+
+Datos de clientes cuya finalidad es la prestación del servicio
+requerido y su posterior facturación.
+Datos de proveedores.
+Datos de RRHH cuya finalidad es el cumplimiento de la
+relación contractual entre empleado y empleador.
+
+ No se tratan categorías especiales de datos.
+ No se tratan datos relativos a comisión de infracciones penales o
+administrativas.
+
+ No se tratan datos relativos a características personales o circunstancias
+sociales.
+Con fecha 10 de julio de 2019 se comprueba que en la página web
+http://www.fomentoempleomijas.com/web/images/documentos/lista_de_admi/rentabasica/ANE
+XO_I_-_Relaci%C3%B3n_Definitiva_de_Solicitudes_Admitidas.pdf del Ayuntamiento de Mijas
+figuran publicados los nombres y apellidos, así como puntuaciones obtenidas, de los
+solicitantes del Programa de Renta Social Básica.
+Con fecha 11 de julio de 2019 se comprueba referencia, en la web anterior, relativa a su
+pertenencia al Ayuntamiento de Mijas así como consulta del titular del dominio, identificado
+como Ayuntamiento de Mijas.
+FUNDAMENTOS DE DERECHO
+I
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+6/8
+
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante RGPD)
+otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la Ley Orgánica
+3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos
+digitales (en lo sucesivo LOPDGDD), es competente para resolver estas actuaciones de
+investigación la Directora de la Agencia Española de Protección de Datos.
+II
+De conformidad con lo establecido en el artículo 55 del RGPD, la Agencia Española de
+Protección de Datos es competente para desempeñar las funciones que se le asignan en su
+artículo 57, entre ellas, la de hacer aplicar el Reglamento y promover la sensibilización de los
+responsables y los encargados del tratamiento acerca de las obligaciones que les incumben,
+así como tratar las reclamaciones presentadas por un interesado e investigar el motivo de
+estas.
+El artículo 9.4 del Real Decreto-ley 5/2018, de 27 de julio, de medidas urgentes para la
+adaptación del Derecho español a la normativa de la Unión Europea en materia de protección
+de datos, establece lo siguiente:
+“Antes de resolver sobre la admisión a trámite de la reclamación, la Agencia Española
+de Protección de Datos podrá remitir la misma al delegado de protección de datos que hubiera,
+en su caso, designado el responsable o encargado del tratamiento o al organismo de
+supervisión establecido para la aplicación de los códigos de conducta, a fin de que den
+respuesta a la reclamación en el plazo de un mes.
+La Agencia Española de Protección de Datos podrá igualmente remitir la reclamación
+al responsable o encargado del tratamiento cuando no se hubiera designado un delegado de
+protección de datos ni estuviera adherido a mecanismos de resolución extrajudicial de
+conflictos, en cuyo caso el responsable o encargado deberá dar respuesta a la reclamación
+también en el plazo de un mes.”
+Corresponde, asimismo, a la Agencia Española de Protección de Datos ejercer los
+poderes de investigación regulados en el artículo 58.1 del RGPD, entre los que figura la
+facultad de ordenar al responsable y al encargado del tratamiento que faciliten cualquier
+información que requiera para el desempeño de sus funciones.
+Correlativamente, el artículo 31 del RGPD establece la obligación de los responsables
+y encargados del tratamiento de cooperar con la autoridad de control que lo solicite en el
+desempeño de sus funciones. Para el caso de que éstos hayan designado un delegado de
+protección de datos, el artículo 39 del RGPD atribuye a éste la función de cooperar con dicha
+autoridad.
+Del mismo modo, el ordenamiento jurídico interno también prevé la posibilidad de abrir
+un período de información o actuaciones previas. En este sentido, el artículo 55 de la Ley
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones
+Públicas, otorga esta facultad al órgano competente con el fin de conocer las circunstancias del
+caso concreto y la conveniencia o no de iniciar el procedimiento.
+III
+En el presente caso, se ha recibido en esta Agencia la reclamación presentada contra
+MIJAS SERVICIOS COMPLEMENTARIOS S.L. por una presunta vulneración del artículo 32
+del RGPD en relación con la seguridad en el tratamiento de datos personales.
+Dicho precepto establece que:
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+7/8
+
+“1. Teniendo en cuenta el estado de la técnica, los costes de aplicación, y la naturaleza, el
+alcance, el contexto y los fines del tratamiento, así como riesgos de probabilidad y gravedad
+variables para los derechos y libertades de las personas físicas, el responsable y el encargado
+del tratamiento aplicarán medidas técnicas y organizativas apropiadas para garantizar un nivel
+de seguridad adecuado al riesgo, que en su caso incluya, entre otros:
+a) la seudonimización y el cifrado de datos personales;
+b) la capacidad de garantizar la confidencialidad, integridad, disponibilidad y resiliencia
+permanentes de los sistemas y servicios de tratamiento;
+c) la capacidad de restaurar la disponibilidad y el acceso a los datos personales de forma
+rápida en caso de incidente físico o técnico;
+d) un proceso de verificación, evaluación y valoración regulares de la eficacia de las
+medidas técnicas y organizativas para garantizar la seguridad del tratamiento.
+2. Al evaluar la adecuación del nivel de seguridad se tendrán particularmente en cuenta los
+riesgos que presente el tratamiento de datos, en particular como consecuencia de la
+destrucción, pérdida o alteración accidental o ilícita de datos personales transmitidos,
+conservados o tratados de otra forma, o la comunicación o acceso no autorizados a dichos
+datos.
+3. La adhesión a un código de conducta aprobado a tenor del artículo 40 o a un mecanismo de
+certificación aprobado a tenor del artículo 42 podrá servir de elemento para demostrar el
+cumplimiento de los requisitos establecidos en el apartado 1 del presente artículo.
+4. El responsable y el encargado del tratamiento tomarán medidas para garantizar que
+cualquier persona que actúe bajo la autoridad del responsable o del encargado y tenga acceso
+a datos personales solo pueda tratar dichos datos siguiendo instrucciones del responsable,
+salvo que esté obligada a ello en virtud del Derecho de la Unión o de los Estados miembros.”
+En el presente caso se denuncia que MIJAS SERVICIOS COMPLEMENTARIOS S.L
+permite a personas no autorizadas, el acceso a los datos personales de las personas que
+solicitan los programas de ayuda social que lleva a cabo la entidad reclamada, así como el
+acceso a las nóminas y documentación contractual laboral de las personas que participan en
+dicho programa, siendo una cuestión delicada por la inclusión de ciertos perfiles personales
+provenientes de situaciones de privación de libertad y otros altamente comprometedores.
+Tras las actuaciones de investigación de esta Agencia, se ha constatado que los datos
+personales procedentes de las solicitudes presentadas a los programas de ayuda social
+ofertados por la entidad reclamada son incorporados a una base de datos exclusivamente
+utilizada para la gestión de la baremación del cumplimiento o no de requisitos, a la cual solo
+tiene acceso el personal autorizado y está protegida por claves.
+Esto es así ya que para el tratamiento de dichos datos, se trabaja en red a través de
+carpetas compartidas con dos áreas del Ayuntamiento de Mijas: Área de Igualdad y Bienestar
+Social y el Área de Atención Ciudadana y el acceso a estos ficheros es solo para personal
+autorizado.
+Una vez realizada la baremación, se procede a la publicación de las listas del personal
+admitido y a su posterior contratación, y respecto a los datos personales de las personas que
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+8/8
+
+serán contratadas, estos son mecanizados en una base de datos para la gestión de recursos
+humanos, siendo esta base de datos gestionada solo por personal autorizado y protegida por
+claves.
+
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia Española de
+Protección de Datos,
+SE ACUERDA
+
+1. PROCEDER AL ARCHIVO de las presentes actuaciones.
+2. NOTIFICAR la presente resolución al reclamante e INFORMAR de ella al responsable
+del tratamiento.
+Contra esta resolución, que pone fin a la vía administrativa según lo preceptuado por el
+art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, y de conformidad con lo establecido en los arts. 112 y 123 de la
+citada Ley 39/2015, de 1 de octubre, los interesados podrán interponer, potestativamente,
+recurso de reposición ante la Directora de la Agencia Española de Protección de Datos en el
+plazo de un mes a contar desde el día siguiente a la notificación de esta resolución o
+directamente recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo
+de la Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de la
+disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción
+Contencioso-Administrativa, en el plazo de dos meses a contar desde el día siguiente a la
+notificación de este acto, según lo previsto en el artículo 46.1 de la referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+

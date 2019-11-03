@@ -1,0 +1,230 @@
+1/5
+
+Procedimiento Nº: A/00028/2019
+
+RESOLUCIÓN: R/00344/2019
+En el procedimiento A/00028/2019, instruido por la Agencia Española de
+Protección de Datos a la entidad A.A.A. (AEROCONFORT), vista la denuncia
+presentada por B.B.B. y en virtud de los siguientes,
+ANTECEDENTES
+PRIMERO: Con fecha 20 de febrero de 2019 tiene entrada en esta Agencia una
+denuncia presentada por B.B.B. (en lo sucesivo, el denunciante), en la que manifiesta
+que el 12 de febrero de 2019 recibe un correo electrónico publicitario de
+AEROCONFORT de la dirección ***EMAIL.1 sin haberlo solicitado y haberse inscrito
+en ningún sitio previamente, por lo que se puede deducir que no ha existido relación
+previa.
+Al final del correo electrónico, se indica que los datos del reclamante han sido
+incorporados en el sistema de tratamiento GOLDENLEADS.
+El reclamante aporta correo y cabeceras
+SEGUNDO: Tras la recepción de la reclamación, la Subdirección General de
+Inspección de Datos procedió a realizar las siguientes actuaciones:
+El 28/03/2019, fue trasladada al reclamado la reclamación presentada para su análisis
+y comunicación a la denunciante de la decisión adoptada al respecto. Igualmente, se
+le requería para que en el plazo de un mes remitiera a la Agencia determinada
+información:
+- Copia de las comunicaciones, de la decisión adoptada que haya remitido al
+reclamante a propósito del traslado de esta reclamación, y acreditación de que el
+reclamante ha recibido la comunicación de esa decisión.
+- Informe sobre las causas que han motivado la incidencia que ha originado la
+reclamación.
+- Informe sobre las medidas adoptadas para evitar que se produzcan incidencias
+similares.
+- Cualquier otra que considere relevante.
+El reclamado no ha dado respuesta a ninguno de los requerimientos formulados por la
+Agencia Española de Protección de Datos.
+TERCERO: Con fecha 12 de junio de 2019, de conformidad con el artículo 65 de la
+LOPDGDD, la Directora de la Agencia Española de Protección de Datos acordó admitir
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+2/5
+
+a trámite la reclamación
+(AEROCONFORT),
+
+presentada
+
+por
+
+el
+
+reclamante
+
+contra
+
+A.A.A.
+
+HECHOS PROBADOS
+PRIMERO: el 12 de febrero de 2019 recibe un correo electrónico publicitario de
+AEROCONFORT de la dirección ***EMAIL.1 sin haberlo solicitado y haberse inscrito
+en ningún sitio previamente, por lo que se puede deducir que no ha existido relación
+previa.
+SEGUNDO: El 28/03/2019 se le comunicaba al reclamante la recepción de la
+reclamación y su traslado a la entidad reclamada.
+El reclamado no ha dado respuesta a ninguno de los requerimientos formulados por la
+Agencia Española de Protección de Datos.
+TERCERO: El 2 de julio de 2019 se notifica acuerdo de inicio del presente procedimiento,
+y transcurrido el plazo dado para ello no se han formulado alegaciones ni presentado
+pruebas por la entidad reclamada.
+FUNDAMENTOS DE DERECHO
+I
+En virtud de los poderes que los artículos 55.1, 56.2 y 58.2. b) y d) del RGPD
+reconocen a cada autoridad de control, y según lo establecido en los artículos 47 y
+48.1 de la LOPDPGDD, la Directora de la Agencia Española de Protección de Datos
+es competente para resolver este procedimiento.
+II
+Los hechos expuestos, consistentes en el envío de comunicaciones
+comerciales electrónicas sin acreditar que mediaba el consentimiento expreso de los
+destinatarios de estas, podrían suponer la comisión, por parte de la entidad
+AEROCONFORT de una infracción del apartado 1 del artículo 21 de la Ley 34/2002,
+de 11 de julio, de Servicios de la Sociedad de la Información y Comercio Electrónico
+(en lo sucesivo, LSSI).
+El artículo 21 de la LSSI dispone que:
+“1. Queda prohibido el envío de comunicaciones publicitarias o promocionales
+por correo electrónico u otro medio de comunicación electrónica equivalente que
+previamente no hubieran sido solicitadas o expresamente autorizadas por los
+destinatarios de las mismas.
+2. Lo dispuesto en el apartado anterior no será de aplicación cuando exista una
+relación contractual previa, siempre que el prestador hubiera obtenido de forma lícita
+los datos de contacto del destinatario y los empleara para el envío de comunicaciones
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+3/5
+
+comerciales referentes a productos o servicios de su propia empresa que sean
+similares a los que inicialmente fueron objeto de contratación con el cliente.
+En todo caso, el prestador deberá ofrecer al destinatario la posibilidad de
+oponerse al tratamiento de sus datos con fines promocionales mediante un
+procedimiento sencillo y gratuito, tanto en el momento de recogida de los datos como
+en cada una de las comunicaciones comerciales que le dirija.
+Cuando las comunicaciones hubieran sido remitidas por correo electrónico,
+dicho medio deberá consistir necesariamente en la inclusión de una dirección de
+correo electrónico u otra dirección electrónica válida donde pueda ejercitarse este
+derecho, quedando prohibido el envío de comunicaciones que no incluyan dicha
+dirección.”
+La citada infracción se encuentra tipificada como leve en el artículo 38.4.d) de
+dicha norma, que califica como tal “El envío de comunicaciones comerciales por
+correo electrónico u otro medio de comunicación electrónica equivalente cuando en
+dichos envíos no se cumplan los requisitos establecidos en el artículo 21 y no
+constituya infracción grave.”
+III
+El artículo 39 bis de la LSSI, bajo el epígrafe “Moderación de las sanciones”,
+estipula lo siguiente:
+“1. El órgano sancionador establecerá la cuantía de la sanción aplicando la escala
+relativa a la clase de infracciones que preceda inmediatamente en gravedad a aquella
+en que se integra la considerada en el caso de que se trate, en los siguientes
+supuestos:
+a) Cuando se aprecie una cualificada disminución de la culpabilidad del imputado o de
+la antijuridicidad del hecho como consecuencia de la concurrencia significativa de
+varios de los criterios enunciados en el artículo 40.
+b) Cuando la entidad infractora haya regularizado la situación irregular de forma
+diligente.
+c) Cuando pueda apreciarse que la conducta del afectado ha podido inducir a la
+comisión de la infracción.
+d) Cuando el infractor haya reconocido espontáneamente su culpabilidad.
+e) Cuando se haya producido un proceso de fusión por absorción y la infracción fuese
+anterior a dicho proceso, no siendo imputable a la entidad absorbente.
+2. Los órganos con competencia sancionadora, atendida la naturaleza de los hechos y
+la concurrencia significativa de los criterios establecidos en el apartado anterior,
+podrán acordar no iniciar la apertura del procedimiento sancionador y, en su lugar,
+apercibir al sujeto responsable, a fin de que en el plazo que el órgano sancionador
+determine, acredite la adopción de las medidas correctoras que, en cada caso,
+resulten pertinentes, siempre que concurran los siguientes presupuestos:
+a) Que los hechos fuesen constitutivos de infracción leve o grave conforme a lo
+dispuesto en esta Ley.
+b) Que el órgano competente no hubiese sancionado o apercibido con anterioridad al
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+4/5
+
+infractor como consecuencia de la comisión de infracciones previstas en esta Ley.
+Si el apercibimiento no fuera atendido en el plazo que el órgano sancionador hubiera
+determinado, procederá la apertura del correspondiente procedimiento sancionador
+por dicho incumplimiento.”
+Por su parte el artículo 40 de la LSSI, en relación con la “Graduación de la
+cuantía de las sanciones”, determina lo siguiente:
+“La cuantía de las multas que se impongan se graduará atendiendo a los
+siguientes criterios:
+a) La existencia de intencionalidad.
+b) Plazo de tiempo durante el que se haya venido cometiendo la infracción.
+c) La reincidencia por comisión de infracciones de la misma naturaleza, cuando así
+haya sido declarado por resolución firme.
+d) La naturaleza y cuantía de los perjuicios causados.
+e) Los beneficios obtenidos por la infracción.
+f) Volumen de facturación a que afecte la infracción cometida.
+g) La adhesión a un código de conducta o a un sistema de autorregulación publicitaria
+aplicable respecto a la infracción cometida, que cumpla con lo dispuesto en el artículo
+18 o en la disposición final octava y que haya sido informado favorablemente por el
+órgano u órganos competentes.”
+En el presente supuesto, y de conformidad con las evidencias de las que se
+dispone en el presente momento, se cumplen los requisitos recogidos en las letras a) y
+b) del citado apartado 2 del artículo 39 bis de la LSSI, así como la concurrencia del
+supuesto previsto en el artículo 39 bis 1.a) de la misma norma, toda vez que se
+constata una cualificada disminución de la culpabilidad de la reclamada teniendo en
+cuenta la concurrencia significativa de las circunstancias derivadas de la falta de
+constancia tanto de que se hayan producido perjuicios al destinatario del envío
+comercial no autorizado analizado como de que la reclamada
+haya obtenido
+beneficios, lo que permite acordar no iniciar la apertura del procedimiento sancionador
+y, en su lugar, aplicar el procedimiento de apercibimiento.
+Por la Directora de la Agencia Española de Protección de Datos,
+SE ACUERDA:
+1.- APERCIBIR a AEROCONFORT con arreglo a lo dispuesto en el artículo 39 bis,
+apartado 2, de la LSSI, con relación a la reclamación por infracción del artículo 21 de
+la LSSI, tipificada como leve en el artículo 38.4.d) de la citada norma.
+2.- REQUERIR a AEROCONFORT de acuerdo con lo establecido en el apartado 2 del
+artículo 39 bis de la LSSI para que en el plazo de UN MES desde la notificación de la
+presente resolución.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+5/5
+
+2.1.- CUMPLA lo previsto en el artículo 21 de la LSSI, para lo que se insta a
+dicha entidad a adecuar el envío de comunicaciones publicitarias o promocionales por
+correo electrónico u otro medio de comunicación electrónica equivalente, cuando con
+carácter previo se haya obtenido el consentimiento o bien la autorización expresa de sus
+destinatarios.
+2.2.- INFORME a la Agencia Española de Protección de Datos del
+cumplimiento de lo requerido, aportando los documentos o medios de prueba que
+acrediten dicha circunstancia.
+3.- NOTIFICAR el presente Acuerdo a AEROCONFORT.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa (artículo 48.2 de la
+LOPD), y de conformidad con lo establecido en los artículos 112 y 123 de la Ley
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, los interesados podrán interponer, potestativamente,
+recurso de reposición ante la Directora de la Agencia Española de Protección de Datos
+en el plazo de un mes a contar desde el día siguiente a la notificación de esta
+resolución, o, directamente recurso contencioso administrativo ante la Sala de lo
+Contencioso-administrativo de la Audiencia Nacional, con arreglo a lo dispuesto en el
+artículo 25 y en el apartado 5 de la disposición adicional cuarta de la Ley 29/1998, de
+13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa, en el plazo de
+dos meses a contar desde el día siguiente a la notificación de esta acto, según lo
+previsto en el artículo 46.1 del referido texto legal.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+

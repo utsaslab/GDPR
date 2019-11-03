@@ -1,0 +1,683 @@
+1/14
+
+823-240719
+
+Expediente Nº: E/03586/2018
+
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de
+Datos ante la entidad TTI FINANCE, S.A.R.L., en virtud de la reclamación presentada
+por D. A.A.A. y en consideración a los siguientes
+HECHOS
+PRIMERO: Con fecha 08/05/2018 tiene entrada en la Agencia Española de Protección
+de Datos (AEPD) un escrito de D. A.A.A. (en lo sucesivo el reclamante) en el que
+manifiesta que la entidad TTI FINANCE, S.A.R.L., (en lo sucesivo TTI o la reclamada)
+ha incluido sus datos personales en el fichero de solvencia patrimonial ASNEF sin
+haberle requerido previamente el pago de la deuda. Añade que sus datos han sido
+cedidos sin su consentimiento a TTI por una tercera entidad.
+El reclamante aporta con su escrito de denuncia los documentos siguientes: La
+copia de su DNI. La copia de un escrito de EQUIFAX, de fecha ***FECHA.1, que
+informa de las operaciones incluidas en el fichero ASNEF a instancia de TTI asociadas
+a su NIF ***NIF.1 y a su nombre y apellidos. En ASNEF figura como domicilio del
+reclamante el mismo que consta en el DNI y el mismo que ha facilitado a esta Agencia
+con su reclamación. El documento de EQUIFAX informa de dos incidencias
+comunicadas al fichero ASNEF por TTI:
+-
+
+Una de ellas, por un saldo impagado de 1.135,22 euros, corresponde a un
+producto de “Tarjetas de Crédito” siendo la fecha de alta y de visualización
+el ***FECHA.2
+
+-
+
+La segunda, por un importe impagado de 10.564,94 euros, por un producto
+de “Préstamos personales”, siendo la fecha de alta y de visualización el
+***FECHA.2
+
+SEGUNDO: Tras la recepción de la reclamación, la Subdirección General de
+Inspección de Datos llevó a cabo actuaciones de investigación encaminadas al
+esclarecimiento de los hechos denunciados. A tal efecto se hicieron requerimientos
+informativos a EQUIFAX IBÉRICA, S.L., el 15/06/2018 y el 26/06/2018 –a los que
+respondió en sendos escritos de fecha 19/06/2018 y 05/07/2018- y a TTI FINANCE,
+S.A.R.L., en fecha 15/06/2018 al que responde en escrito de fecha 05/07/2018.
+El resultado de las actuaciones practicadas se recoge en el Informe de
+Actuaciones de Investigación Previa que pasamos a reproducir:
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/14
+
+<< EQUIFAX IBÉRICA, S.L.
+De la información y documentación remitida por EQUIFAX IBÉRICA, S.L., en
+sendos escritos de ***FECHA.3 y ***FECHA.4, quedan acreditados estos extremos:
+a A fecha ***FECHA.3 se mantiene incluida en el fichero de solvencia patrimonial
+ASNEF la incidencia informada por TTI FINANCE asociada al NIF del denunciante
+relativa a una deuda impagada de 1.135,22 euros, por un producto de tarjetas de
+crédito.
+-La incidencia se había dado de alta el ***FECHA.2 y la fecha del vencimiento
+impagado, primero y último, es julio de 2013.
+EQUIFAX ha aportado documentación que acredita haber enviado al denunciante
+una carta en la que le notificaba la inclusión de sus datos en ASNEF por una deuda
+pendiente de 1.135,22 euros:
+Impresión de pantalla de su fichero de notificaciones de inclusión en la que existe
+un registro con la referencia ***REFERENCIA.1, emitida el 08/12/2016. No hay
+mención alguna a que la carta hubiera sido devuelta.
+Carta personalizada –a nombre del denunciante y a su domicilio- y referenciada
+-referencia ***REFERENCIA.1 en la que en cumplimiento del artículo 29.2 de
+la LOPD le notifica que sus datos han sido incorporados por TTI FINANCE,
+S.A.R.L., al fichero ASNEF con fecha de alta el ***FECHA.2
+Certificado emitido por SERVINFORM, S.A. (antes Emfasis Billing & Marketing
+Services, S.L.), en calidad de prestador del servicio de Generación de
+Notificaciones de inclusión en Asnef, en el que deja constancia de estos
+extremos:
+a
+
+El 08/12/2016 recibe un fichero de cartas remitido por
+EQUIFAX con un total de 165.012 registros: el primero de
+ellos con la referencia ***REFERENCIA.2 y el último con la
+referencia ***REFERENCIA.3. En ese proceso se genera la
+comunicación con referencia ***REFERENCIA.1, dirigida al
+denunciante y a la dirección postal que nos ha facilitado y que
+obra en su DNI.
+Que el proceso de generación de comunicaciones se
+desarrolló sin incidencias, conforme a las instrucciones del
+contrato
+Que entre los días 12 y 13 de diciembre de 2016 se pusieron
+en los servicios postales las comunicaciones que se
+generaron e imprimieron entre ellas la dirigida al denunciante.
+
+Certificado emitido por Ilunion BPO, S.A.U., -entidad con la que EQUIFAX suscribió
+en septiembre de 2004 un contrato para la prestación del servicio de grabación
+y custodia de devoluciones de notificaciones- en el que expone que,
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/14
+
+consultados los archivos relativos a prestación del servicio a EQUIFAX, “no
+consta en depósito y custodia en las oficinas de Ilunion BPO, la notificación de
+referencia ***REFERENCIA.1 ni ha sido objeto de tratamiento por algún
+motivo de devolución.”
+Albaranes de entrega debidamente validados:
+(I) Acreditativos de la entrega y depósito en UNIPOST con fecha
+12/12/2016: número de albarán 4673 relativo a un total de
+108.858 comunicaciones; albarán número ***NÚMERO 1 relativo
+a 379 comunicaciones; albarán número ***NÚMERO 2 relativo a
+52 comunicaciones; albarán número ***NÚMERO 3 relativo a 808
+comunicaciones; albarán número ***NÚMERO 4 relativo a
+108.858 comunicaciones.
+(II) Acreditativos de la entrega y depósito en Correos y
+Telégrafos
+con
+fecha
+3/12/2016,
+con
+la
+referencia
+***REFERENCIA.4 de un total de 56.154 comunicaciones; con la
+referencia ***REFERENCIA.5
+de un total de 10.000
+comunicaciones.
+Asociado al NIF del denunciante (y vinculada también al nombre, dos apellidos y
+domicilio del denunciante) TTI informó a ASNEF una incidencia con fecha de alta
+***FECHA.2 por una deuda impagada de 10.564,94 euros correspondiente a
+“préstamos personales”. Esta incidencia se dio de baja el 17/06/2018.
+La fecha del primer y último vencimiento impagado de la referida deuda que
+figuraba en el fichero ASNEF era el 12/07/2012.
+EQUIFAX ha aportado documentación que acredita haber enviado al denunciante
+una carta en la que le notificaba la inclusión de sus datos en ASNEF por una deuda
+pendiente de 10.564,94 euros, emitida el 08/12/2016 con la referencia
+***REFERENCIA.6
+Impresión de pantalla de su fichero de notificaciones de inclusión en la que existe
+un registro con la referencia ***REFERENCIA.7, emitida el 08/12/2016. No hay
+mención alguna a que la carta hubiera sido devuelta.
+Carta personalizada –a nombre del denunciante y a su domicilio- y referenciada
+-figura en ella la referencia ***REFERENCIA.7 en la que, en cumplimiento del
+artículo 29.2 de la LOPD, le notifica que sus datos han sido incorporados por
+TTI FINANCE, S.A.R.L., al fichero ASNEF con fecha de alta ***FECHA.2 por
+un importe de 10.564,94 euros.
+Certificado emitido por SERVINFORM, S.A. (antes Emfasis Billing & Marketing
+Services, S.L.) en calidad de prestador del servicio de Generación de
+Notificaciones de inclusión en Asnef, en el que deja constancia de estos
+extremos:
+a
+C/ Jorge Juan, 6
+28001 – Madrid
+
+El 08/12/2016 recibe un fichero de cartas remitido por
+www.aepd.es
+sedeagpd.gob.es
+
+4/14
+
+EQUIFAX con un total de 165.012 registros: el primero de
+ellos con la referencia ***REFERENCIA.2 y el último con la
+referencia ***REFERENCIA.3. En ese proceso se genera la
+comunicación con referencia ***REFERENCIA.7, dirigida al
+denunciante y a la dirección postal que nos ha facilitado y que
+obra en su DNI.
+Que el proceso de generación de comunicaciones se
+desarrolló sin incidencias, conforme a las instrucciones del
+contrato
+Que entre los días 12 y 13 de diciembre de 2016 se pusieron
+en los servicios postales las comunicaciones que se
+generaron e imprimieron entre ellas la dirigida al denunciante.
+Certificado emitido por Ilunion BPO, S.A.U., -entidad con la cual EQUIFAX suscribió
+en septiembre de 2004 un contrato para la prestación del servicio de grabación
+y custodia de devoluciones de notificaciones- en el cual manifiesta que
+consultados los archivos relativos a prestación del servicio a EQUIFAX “no
+consta en depósito y custodia en las oficinas de Ilunion BPO, la Notificación de
+Referencia ***REFERENCIA.7 ni ha sido objeto de tratamiento por algún
+motivo de devolución.
+Albaranes de entrega debidamente validados: Los mismos que se detallan en
+relación a la notificación de inclusión de la deuda por importe de 1.135,22
+euros.
+TTI FINANCE, S.A.R.L.
+De la información y documentación remitida por TTI en escrito de fecha 05/07/2018
+resulta:
+a) Se aportan Testimonios Notariales de que en la cartera de
+deuda que TTI compró a Las Rozas Funding Securisitation,
+S.a.r.l., el 17/12/2014, estaban incluidos dos créditos,
+líquidos, vencidos e impagados, identificados con las
+referencias ***REFERENCIA.8 y REFERENCIA.9 de los
+que es titular el denunciante.
+b) TTI afirma que en sus sistemas consta asociada al
+denunciante la misma dirección postal que le facilitó la
+entidad cedente. Aporta copia de dos documentos que
+reflejan que asociado al denunciante y a las referencias
+***REFERENCIA.8 y ***REFERENCIA.9 figura la dirección
+de calle ***DIRECCION.1
+c) Aporta copia de dos cartas personalizadas a nombre del
+denunciante y dirigidas a su dirección postal y
+referenciadas
+(referencias
+***REFERENCIA 10
+y
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/14
+
+***REFERENCIA
+30/01/2015.
+
+11).
+
+Las
+
+cartas
+
+llevan
+
+fecha
+
+de
+
+d) La carta con referencia ***REFERENCIA 10 se
+corresponde con el crédito identificado con la referencia
+***REFERENCIA.8 que ascendía a 10.564,94 euros. La
+carta con referencia ***REFERENCIA 11 se corresponde
+con un crédito identificado con la referencia
+***REFERENCIA.9 por un importe de 1.135,22 euros.
+En ambas cartas se informa al denunciante que TTI es la titular del saldo pendiente
+de abono que, respectivamente, asciende en fecha 30/11/2014 a 10.564,94
+euros (número de cuenta ESXX XXXX XXXX XXXX XXXX.1 y fecha de
+contrato 10/02/2009) y a 1.135,22 euros (número de cuenta ESXX XXXX XXXX
+XXXX XXXX.2 y fecha de contrato 22/07/2006)
+Se indica que “es indispensable que usted comience a pagar su deuda a la mayor
+brevedad” y que TTI, como propietario del crédito “está legitimado para
+entablar cuantas acciones legales tenga a su disposición para el cobro de la
+deuda pendiente, inclusive, siempre que se cumplan los requisitos establecidos
+en la legislación vigente, la solicitud de inclusión de sus datos en ficheros de
+información sobre solvencia patrimonial y crédito tales como ASNEF/Equifax y
+BADEXCUG/Experian” (El subrayado es de la AEPD)
+Además, TTI explica al destinatario de las cartas que las deudas que le reclama
+proceden de los contratos que suscribió con MBNA Europe Bank Limited,
+Sucursal en España, por un préstamo personal y una tarjeta de crédito. Que
+esa sociedad transfirió la deuda a Las Rozas Funding Securistisation S.a.r.l,
+quien, a su vez, designó a Avant Tarjeta, Establecimiento Financiero de
+Crédito, S.A., como entidad encargada de la gestión y el cobro de las deudas.
+e) TTI explica que el 08/06/2014 suscribió con EQUIFAX
+IBÉRICA, S.L. un contrato de prestación de servicios de
+requerimientos de pago de deuda previos a la inclusión en
+ficheros de solvencia en el que EQUIFAX quedaba
+facultada para subcontratar con terceras entidades. En el
+contrato, cláusula 10, se estipula que las comunicaciones
+devueltas se recogerán en un apartado postal y que
+EQUIFAX le remitirá semanalmente a TTI un fichero de las
+cartas que hayan sido devueltas y sus incidencias
+incluyendo una referencia numérica previamente acordada
+que identifica el motivo de la devolución. Aporta en tal
+sentido:
+Dos certificados de SERVINFORM, S.A., (antes Emfasis Billing &Marketin Services,
+S.L.) en los cuales, en calidad de prestador del servicio de Envío de
+requerimientos de pago y cesión de crédito de TTI, manifiesta que el
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/14
+
+29/01/2015 reciben de EQUIFAX un fichero denominado ***FICHERO.1, con un
+total de 136.884 registros, siendo la primera comunicación a procesar la de
+referencia ***REFERENCIA 12 y la última ***REFERENCIA 13. Que en dicho
+proceso se generaron las comunicaciones de referencia ***REFERENCIA 10 y
+***REFERENCIA 11 dirigidas al denunciante a la dirección postal de
+***DIRECCION.1. Certifica que las comunicaciones se generaron, imprimieron
+y ensobraron sin ninguna incidencia. Certifica asimismo la puesta en el servicio
+de envíos postales, entre los días 30/01/2015 y 04/02/2015 de ambas
+comunicaciones.
+Aporta copia de dos albaranes de entrega de envíos. Uno de ellos de UNIPOST,
+que tiene estampado un sello con la fecha 30/01/2015, identificado con el
+número de entrega ***ENTREGA.1 y relativo a 54752 comunicaciones. Otro,
+de Correos y Telégrafos que está validado mecánicamente el 04/02/2015,
+identificado con la referencia ***REFERENCIA.14, relativo a 82.131
+comunicaciones.
+Aporta sendos certificados expedidos por EQUIFAX en calidad de prestador del
+servicio de gestión de cartas devueltas de notificación de requerimientos
+previos de pago de TTI, en los que manifiesta que no consta que hayan sido
+devueltas por motivo alguno al apartado de Correos designado al efecto las
+notificaciones identificadas con las referencias ***REFERENCIA.10 y
+***REFERENCIA.11, dirigidas a nombre del denunciante y a la dirección postal
+que obra en sus ficheros.>>
+TERCERO: Las normas de procedimiento a través de las que se sustanciaron las
+actuaciones de investigación en el expediente que nos ocupa fueron las previstas en
+la, actualmente derogada, Ley Orgánica 15/1999, de Protección de Datos de Carácter
+Personal (LOPD) y en su Reglamento de desarrollo, aprobado por el Real Decreto
+1720/2007 (RLOPD).
+El motivo es que los requerimientos de información que la Inspección de Datos
+hizo en el marco de la investigación previa se enviaron a las dos entidades
+investigadas (a Equifax Ibérica, S.L., y a la denunciada) en fechas 15/06/2018 y
+26/06/2018 a la primera de ellas y el 15/06/2018 a la segunda, antes por tanto de la
+entrada en vigor del Real Decreto -Ley 5/2018 que se publicó en el BOE el 30 de julio
+y entró en vigor al día siguiente.
+El Real Decreto-Ley 5/2018, de medidas urgentes para la adaptación del
+Derecho español a la normativa de la Unión Europea en materia de protección de
+datos, dedicó su Disposición Transitoria primera al régimen transitorio de los
+procedimientos y dispuso en su apartado 2 que se regirían por la normativa anterior
+aquellos procedimientos respecto de los cuales se hubieran iniciado ya, en la fecha de
+su entrada en vigor, las actuaciones previas a las que se refiere la Sección 2ª del
+Capítulo III del Título IX del RLOPD.
+Cuestión distinta es determinar qué normas jurídicas materiales son de
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/14
+
+aplicación en el presente caso. Es relevante en este sentido -en particular por lo que
+atañe a la presunta infracción de falta de requerimiento de pago de la deuda con
+carácter previo a la comunicación a un fichero de solvencia patrimonial de los datos
+del deudor- la información que Equifax Ibérica, S.L. (en lo sucesivo EQUIFAX) facilitó a
+la Inspección de Datos como respuesta a las peticiones de información que se le
+hicieron.
+Estas respuestas, de fecha 18/06/2018 y 04/07/2018 -posteriores, por tanto, a la
+fecha de aplicación efectiva del Reglamento (UE) 2016/679, General de Protección de
+Datos- informaban de que la deuda por importe de 1.135,22 € que TTI incluyó en
+ASNEF continuaba vigente el 18/06/2018. Y respecto a la deuda por importe de
+10.54,94 € incluida en el citado fichero de solvencia por TTI, informó que se había
+dado de baja en fecha 17/06/2018.
+La LOPD y norma reglamentaria de desarrollo obligaban (articulo 4.3 en relación
+con el 29.4 de la LOPD y 38.1.c del RLOPD) a requerir al deudor el pago de la deuda
+con carácter previo a la comunicación de sus datos a un fichero de solvencia. A la
+infracción de estas disposiciones (tipificada en el artículo 44.3.c, LOPD) se le atribuyó
+naturaleza de infracción permanente: aquella en la que la consumación se proyecta en
+el tiempo más allá del hecho inicial y se extiende, vulnerando la normativa de
+protección de datos, durante todo el periodo de tiempo en el que el dato es objeto de
+tratamiento.
+Así pues, en el presente caso, habida cuenta de que una de las incidencias que
+TTI informó al fichero de solvencia vinculada a los datos personales del denunciante
+continuaba incluidas en ASNEF el 18/06/2018 y que la segunda incidencia se dio de
+baja el 17/06/18 –fechas en las que ya era aplicable el RGPD- la norma material a la
+que quedan sujetas las conductas examinadas es el Reglamento (UE)2016/679
+General de Protección de Datos.
+En definitiva, si bien en la fecha en la que se inició la conducta infractora estaba
+vigente la LOPD, la normativa que resulta de aplicación es la vigente cuando la
+infracción se había consumado, porque es en ese instante cuando se entiende
+cometida.
+Idéntica consideración cabe hacer respecto a la presunta infracción de
+tratamiento ilícito de datos personales atribuida a TTI, toda vez que, según advirtió el
+denunciante, no prestó su consentimiento a la comunicación de sus datos efectuada
+por una tercera entidad a TTI.
+Se concluye por tanto que las dos conductas presuntamente infractoras que
+fueron objeto de la reclamación que nos ocupa se cometieron cuando ya era de
+aplicación efectiva el RGPD, esto es, después del 25/05/2018.
+A propósito de la norma que ha de aplicarse en aquellos supuestos en los que
+las infracciones se prolongan en el tiempo y ha habido un cambio normativo mientras
+se cometía la infracción cabe citar la STS de 17/04/2002 (Rec. 466/2000) que examinó
+un caso en el que se aplicó una disposición que no estaba vigente en el momento
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+8/14
+
+inicial de comisión de la infracción, pero sí en los posteriores, en los que continuaba la
+conducta infractora. La Sentencia examinó un supuesto que versaba sobre la sanción
+impuesta a una Jueza por incumplimiento de su deber de abstención en unas
+Diligencias Previas. La sancionada alegaba la no vigencia del artículo 417.8 de la
+LOPJ cuando ocurrieron los hechos. La STS consideró que la infracción se había
+venido cometiendo desde la fecha de la incoación de las Diligencias Previas hasta el
+momento en que la Jueza fue suspendida en el ejercicio de sus funciones por lo que
+esa norma sí era de aplicación.
+En idéntico sentido se pronuncia la SAN de 16/09/2008 (Rec.488/2006)
+
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con lo establecido en el artículo 47 de la Ley Orgánica 3/2018, de 5
+de diciembre, de Protección de Datos Personales y Garantía de los Derechos Digitales
+(LOPDGDD), es competente para resolver esta reclamación la Directora de la Agencia
+Española de Protección de Datos.
+II
+Las cuestiones planteadas en la reclamación que examinamos son dos.
+A. La primera de ellas versa sobre la comunicación de los datos personales del
+reclamante al fichero ASNEF vinculados a dos deudas -cuya existencia no discute- sin
+que, presuntamente, TTI hubiera efectuado el requerimiento de pago de las deudas
+previo a tal comunicación.
+El artículo 6 del RGPD establece en su apartado 1: “El tratamiento sólo será
+lícito si se cumple al menos una de las siguientes condiciones:
+a) …
+b) el tratamiento es necesario para la ejecución de un contrato en el que el
+interesado es parte o para la aplicación a petición de éste de medidas
+precontractuales (…)”
+Paralelamente, la Ley Orgánica 3/2018, de 5 de diciembre, de “Protección de
+datos de carácter personal y garantías de los derechos de los ciudadanos”
+(LOPDGDD) dispone en su artículo 20, “Sistemas de información crediticia”:
+<<1. Salvo prueba en contrario, se presumirá lícito el tratamiento de datos
+personales relativos al incumplimiento de obligaciones dinerarias, financieras o de
+crédito por sistemas comunes de información crediticia cuando se cumplan los
+siguientes requisitos:
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+9/14
+
+a) Que los datos hayan sido facilitados por el acreedor o por quien actúe por su
+cuenta o interés.
+b) Que los datos se refieran a deudas ciertas, vencidas y exigibles, cuya
+existencia o cuantía no hubiese sido objeto de reclamación administrativa o judicial por
+el deudor o mediante un procedimiento alternativo de resolución de disputas
+vinculante entre las partes.
+c) Que el acreedor haya informado al afectado en el contrato o en el momento
+de requerir el pago acerca de la posibilidad de inclusión en dichos sistemas, con
+indicación de aquéllos en los que participe.
+La entidad que mantenga el sistema de información crediticia con datos relativos
+al incumplimiento de obligaciones dinerarias, financieras o de crédito deberá notificar
+al afectado la inclusión de tales datos y le informará sobre la posibilidad de ejercitar
+los derechos establecidos en los artículos 15 a 22 del Reglamento (UE) 2016/679
+dentro de los treinta días siguientes a la notificación de la deuda al sistema,
+permaneciendo bloqueados los datos durante ese plazo.
+(…)
+2. Las entidades que mantengan el sistema y las acreedoras, respecto del
+tratamiento de los datos referidos a sus deudores, tendrán la condición de
+corresponsables del tratamiento de los datos, siendo de aplicación lo establecido por
+el artículo 26 del Reglamento (UE) 2016/679.
+Corresponderá al acreedor garantizar que concurren los requisitos exigidos para
+la inclusión en el sistema de la deuda, respondiendo de su inexistencia o inexactitud.
+(…)>> (El subrayado es de la AEPD)
+
+A diferencia de las previsiones contenidas en la LOPD y su reglamento de
+desarrollo (RLOPD), la LOPDGDD, en relación con el RGPD, no exige para que sea
+lícito el tratamiento de los datos personales de un tercero concretado en su
+comunicación a un fichero de solvencia que el acreedor efectúe con carácter previo el
+requerimiento de pago de la deuda que se le atribuye.
+La normativa actual (artículo 20 de la LOPDGDD) ve suficiente para que sea
+lícito ese tratamiento -la comunicación de datos del deudor a un fichero de solvencia
+patrimonial- que el acreedor hubiera informado al afectado, bien en el contrato o bien
+en el momento de requerirle el pago, de la posibilidad de que sus datos sean
+comunicados a un sistema de información crediticia en caso de no atender el pago de
+la deuda.
+
+TTI ha acreditado que las deudas del reclamante que incluyó en el fichero
+ASNEF formaban parte de un paquete de deuda comprada en diciembre de 2014 a
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+10/14
+
+Las Rozas Funding Securisitation, S.a.r.l.; que tales deudas procedían de dos
+contratos firmados por el reclamante -un préstamo personal y una tarjeta de créditocon MBNA Europe Bank Limited, Sucursal en España (en adelante, MBNA) quien a su
+vez había cedido las deudas a Las Rozas Funding Securistisation S.a.r.l, .
+Sin embargo, entre la documentación aportada por TTI no figura la copia de los
+contratos de los que traen causa las deudas que más tarde adquirió TTI y comunicó al
+fichero de solvencia, razón por la cual se ignora si al tiempo de su celebración, el
+deudor, ahora reclamante, fue informado por MBNA de la posibilidad de que en caso
+de incumplir el pago de la deuda sus datos personales podrían ser comunicados a un
+sistema de información crediticia.
+En la hipótesis de que MBNA hubiera informado al contratante de este extremo –
+y pudiera acreditarse- la inclusión que TTI realizó en el fichero de solvencia de los
+datos personales del denunciante habría sido legítima, sin que fuera preciso efectuar
+un requerimiento de pago al deudor previo a tal comunicación.
+Pese a que no obran en el expediente los contratos de los que derivan las
+deudas atribuidas al reclamante, sí figuran en él numerosos documentos que
+constituyen indicios sólidos de que TTI requirió al reclamante el pago de ambas
+deudas antes de proceder a su inclusión en el fichero de solvencia patrimonial. Así,
+figuran las copias de dos cartas, ambas de fecha 30/01/2015, personalizadas a
+nombre del reclamante y dirigidas a su domicilio, con referencias ***REFERENCIA.10
+y ***REFERENCIA.11. La carta identificada con la primera referencia se corresponde
+con el crédito de 10.564,94 euros y la identificada con la segunda referencia con el
+crédito pendiente de 1.135,22 euros.
+En esas cartas, TTI, además de informar al denunciante de que es ella la titular
+de las deudas y de que tales deudas procedían de los contratos que el reclamante
+había suscrito con MBNA Europe Bank Limited, Sucursal en España, por un préstamo
+personal y una tarjeta de crédito, hacía constar en la carta lo siguiente: Que, en su
+condición de propietaria del crédito, estaba legitimada “para entablar cuantas acciones
+legales tenga a su disposición para el cobro de la deuda pendiente, inclusive, siempre
+que se cumplan los requisitos establecidos en la legislación vigente, la solicitud de
+inclusión de sus datos en ficheros de información sobre solvencia patrimonial y crédito
+tales como ASNEF/Equifax y BADEXCUG/Experian” (El subrayado es de la AEPD)
+En el Informe de Actuaciones de Investigación previa se detalla que TTI suscribió
+con EQUIFAX IBÉRICA, S.L. un contrato de prestación de servicios de requerimientos
+de pago de deuda previos a la inclusión en ficheros de solvencia en el que EQUIFAX
+quedaba facultada para subcontratar con terceras entidades y que en dicho contrato,
+cláusula 10, se estipulaba que las comunicaciones devueltas se recogerían en un
+apartado postal procediendo EQUIFAX a remitirle semanalmente un fichero de las
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+11/14
+
+cartas que hubieran sido devueltas y de sus incidencias, incluyendo una referencia
+numérica previamente acordada que identificaba el motivo de la devolución.
+Obran también en el expediente los certificados expedidos por la empresa
+SERVINFORM, S.A., (antes Emfasis Billing &MarketingServices, S.L.)-en calidad de
+prestador del servicio de Envío de requerimientos de pago y cesión de crédito de TTIen los que se indica que en fecha 29/01/2015 recibió de TTI un fichero denominado
+***FICHERO.1, con un total de 136.884 registros, siendo la primera comunicación a
+procesar la de referencia ***REFERENCIA 12 y la última ***REFERENCIA.13. Que en
+dicho proceso se generaron las comunicaciones de referencia ***REFERENCIA.10 y
+***REFERENCIA.11 dirigidas al denunciante a la dirección postal de
+***DIRECCION.1.Certifica que las comunicaciones se generaron, imprimieron y
+ensobraron sin ninguna incidencia. Certifica asimismo la puesta en el servicio de
+envíos postales, entre los días 30/01/2015 y 04/02/2015 de ambas comunicaciones.
+Obra en el expediente la copia de dos albaranes de entrega de envíos. Uno de
+ellos de UNIPOST, con sello de fecha 30/01/2015, identificado con el número de
+entrega ***ENTREGA.1 y relativo a 54752 comunicaciones. Otro, de Correos y
+Telégrafos que está validado mecánicamente el 04/02/2015, identificado con la
+referencia ***REFERENCIA.14, relativo a 82.131 comunicaciones.
+Y se aportan, además, sendos certificados expedidos por EQUIFAX, en calidad
+de prestador del servicio de gestión de cartas devueltas de notificación de
+requerimientos previos de pago de TTI, en los que manifiesta que no consta que
+hayan sido devueltas por motivo alguno al apartado de Correos designado al efecto las
+notificaciones
+identificadas
+con
+las
+referencias
+***REFERENCIA.10
+y
+***REFERENCIA.11, dirigidas a nombre del denunciante y a la dirección postal que
+obra en sus ficheros.
+En definitiva, pese a que el reclamante ha negado que la reclamada le hubiera
+requerido el pago de las deudas antes de proceder a su inclusión en el fichero de
+solvencia (alta en ASNEF que data del 07/12/2016) obran en el expediente numerosas
+pruebas indiciarias que corroboraban que la reclamada cumplió la obligación que le
+impone el artículo 20.1.c) de la LOPDGDD.
+El artículo 20.2. inciso segundo, de la LOPDGDD, en términos muy parecidos al
+derogado artículo 38.3 del RLOPD, advierte que “Corresponderá al acreedor
+garantizar que concurren los requisitos exigidos para la inclusión en el sistema de la
+deuda, respondiendo de su inexistencia o inexactitud”.
+La disposición del RLOPD precitada (artículo 38.3.) condujo a que la Audiencia
+Nacional, Sala de lo Contencioso Administrativo, considerase que el acreedor debía
+estar en condiciones de acreditar el cumplimiento de tal obligación, para lo cual
+debería utilizar un medio que dejara constancia efectiva de haberlo efectuado. Puede
+traerse a colación en tal sentido la SAN de 24/01/2003 que indicaba:
+“Ningún precepto legal ni reglamentario exige, ciertamente, que la comunicación
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+12/14
+
+dirigida a los interesados sobre la inclusión de sus datos personales en el fichero deba
+cursarse por correo certificado con acuse de recibo o por cualquier otro medio que
+deje constancia documental de la recepción. Sin embargo, existiendo preceptos
+legales que imponen como obligatoria esta comunicación (artículos 5.4 y 29.2 de la
+Ley Orgánica 15/1999) y que tipifican como infracción grave el incumplimiento de este
+deber de información (artículo 44.3.l de la propia Ley Orgánica) debe concluirse que
+cuando el destinatario niega la recepción, recae sobre el responsable del fichero la
+carga de acreditar la comunicación. De otro modo, si para considerar cumplida la
+obligación bastase con la afirmación de tal cumplimiento por parte del obligado,
+resultaría en la práctica ilusoria y privada de toda efectividad aquella obligación legal
+de informar al interesado” (El subrayado es de la AEPD)
+
+Y respecto a los medios de prueba a través de los cuales podía acreditarse
+haber practicado el requerimiento previo de pago, la doctrina de la Sala de lo
+Contencioso-Administrativo de la Audiencia Nacional admitió con rotundidad la prueba
+indiciaria, siempre que los indicios estuvieran plenamente acreditados y lo que se
+estima probado se dedujera de aquellos según un proceso mental razonado y acorde
+con las reglas del criterio humano. La SAN de 28/10/2016 (Rec 922/2015) decía en su
+Fundamento de Derecho segundo:
+“ (…) Por otro lado, esta Sala ha declarado que el requerimiento podrá
+efectuarse por cualquier medio de prueba y también a través de indicios. La parte
+actora alega que envió al denunciante numerosas comunicaciones, y en concreto, con
+fechas 25 de enero y 9 de febrero de 2012, se procedió remitir a aquel sendas cartas
+por UNIPOST exigiendo el abono de lo adeudado, e informando previamente de su
+inclusión en el registro de morosos que correspondiera.” (El subrayado es de la
+Agencia)
+
+En atención a lo expuesto ha de concluirse que la actuación de TTI al
+comunicar los datos del reclamante al fichero ASNEF asociados a dos deudas
+procedentes de sendos contratos suscritos en su día entre él y una tercera entidad,
+deudas que TTI había adquirido en 2014, fue respetuosa con las obligaciones
+impuestas por la normativa de protección de datos de carácter personal,RGPD y
+LOPDGDD.
+
+B. La segunda cuestión planteada en la reclamación que nos ocupa está
+relacionada con el pretendido tratamiento ilícito de los datos personales del reclamante
+efectuado por TTI habida cuenta de que, como afirma, fueron comunicados a TTI por
+una tercera entidad y él no consintió dicha comunicación.
+Sin embargo, no se aprecia en la conducta de TTI un tratamiento ilícito de los
+datos del reclamante que entrañe una infracción del RGPD.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+13/14
+
+El artículo 6 del RGPD, “Licitud”, establece en su apartado 1:
+“El tratamiento solo será lícito si se cumple al menos una de las siguientes
+condiciones:
+a) el interesado dio su consentimiento para el tratamiento de sus datos
+personales para uno o varios fines específicos;
+b) el tratamiento es necesario para la ejecución de un contrato en el que el
+interesado es parte o para la aplicación a petición de este de medidas
+precontractuales;
+c) el tratamiento es necesario para el cumplimiento de una obligación legal
+aplicable al responsable del tratamiento;
+d) el tratamiento es necesario para proteger intereses vitales del interesado o de
+otra persona física;
+e) el tratamiento es necesario para el cumplimiento de una misión realizada en
+interés público o en el ejercicio de poderes públicos conferidos al responsable del
+tratamiento;
+f) el tratamiento es necesario para la satisfacción de intereses legítimos
+perseguidos por el responsable del tratamiento o por un tercero, siempre que sobre
+dichos intereses no prevalezcan los intereses o los derechos y libertades
+fundamentales del interesado que requieran la protección de datos personales, en
+particular cuando el interesado sea un niño.
+Lo dispuesto en la letra f) del párrafo primero no será de aplicación al
+tratamiento realizado por las autoridades públicas en el ejercicio de sus funciones.”
+El tratamiento de los datos personales del reclamante por TTI tiene amparo en el
+RGPD pues es fruto de una operación de venta o cesión de créditos realizada por
+MBNA -entidad con la que el reclamante contrató en el pasado y con la que contrajo
+dos deudas- a otra entidad y por ésta a la reclamada. La venta o cesión de créditos
+está expresamente contemplada en el artículo 347 del Código de Comercio español. A
+través de la operación de venta de deuda la acreedora inicial primero y las sucesivas
+adquirentes de la deuda después satisfacen un interés legítimo, el desarrollo de su
+actividad empresarial. Finalmente ha de tenerse en cuenta la actuación de la
+reclamada, que mediante carta firmada por TTI y por la cedente de las deudas (quien,
+a su vez, las había adquirido de MBNA) informaron al reclamante de las operaciones
+efectuadas y de la identidad del cesionario.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia Española
+de Protección de Datos,
+SE ACUERDA:
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+14/14
+
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente Resolución a TTI FINANCE, S.A.R.L. y a D.
+A.A.A.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la presente
+Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo preceptuado
+por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

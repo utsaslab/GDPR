@@ -1,0 +1,288 @@
+1/6
+
+Expediente Nº: E/07195/2019
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos ante
+Don A.A.A. en virtud de denuncia presentada por Doña B.B.B. y teniendo como base
+los siguientes
+HECHOS
+PRIMERO: Con fecha 27/02/19, tuvo entrada en esta Agencia escrito de Dña. B.B.B.
+(*en lo sucesivo la denunciante) frente a Don A.A.A. en lo sucesivo el/la denunciado/a)
+en el que denuncia de manera sucinta lo siguiente:
+“…este Señor tiene instaladas tres cámaras de video-vigilancia y audio desde
+hace varios años, cuya legalización me cuestiono…He observado varias
+irregularidades al respecto. No existe en toda el área a la que llega el alcance del
+visionado y audición de estas cámaras ninguna placa informativa (…)”—folio nº 1--.
+SEGUNDO: En fecha 12/03/19 se procedió a TRASLADAR la reclamación a la parte
+denunciada para que alegara lo que en Derecho estimara oportuno, constando como
+“notificada” en el sistema informático de este organismo.
+TERCERO: En fecha 23/04/19 se recibe en esta Agencia escrito de alegaciones del
+denunciado, manifestando de manera sucinta lo siguiente:
+“D. A.A.A. (en adelante “el titular de la actividad”) tiene concedida por
+Sentencia Judicial XXX/XXXX de la Sección 2ª de la Audiencia Provincial de
+Gipuzkoa, de fecha veintiocho de junio de dos mil trece (en adelante la “Sentencia
+XXX/XXXX”) la gestión y administración de la sidrería “Sidrería REZOLA”, ubicada en
+Santio Zeharra, número 14, Bajo, en 20115 Astigarraga (Gipuzkoa).
+Se adjunta copia de la Sentencia Judicial XXX/XXXX de la Sección 2ª de la
+Audiencia Provincial de Gipuzkoa, de fecha veintiocho de junio de dos mil trece, como
+Anexo II.
+Con la finalidad de mantener la seguridad de personas, bienes e instalaciones,
+y ante la proliferación de robos en establecimientos de hostelería de la zona, el titular
+de la actividad ha decidido implantar un sistema de 3 cámaras de videovigilancia, que
+fue instalado por la empresa denominada “SECURITAS DIRECT ESPAÑA, S.A.U.”.
+Las cámaras 1 y 2 se encuentran instaladas en el exterior del edificio destinado
+a establecimiento de hostelería (“Sidrería REZOLA”) y su área de grabación se
+circunscribe a terreno propiedad de la sidrería.
+La cámara 3 se encuentra instalada en el exterior del edificio destinado a la
+elaboración de la sidra (lagar) y enfoca a una pequeña parte de la zona de
+aparcamiento de clientes (parking). Su área de grabación se circunscribe a terreno
+propiedad de la sidrería. Cada una de las 3 cámaras cuenta con un cartel informativo.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+2/6
+
+Adicionalmente, en un lugar de máxima visibilidad, una ventana al lado de la
+puerta de acceso de clientes a la sidrería, el titular de la actividad ha ubicado otro
+cartel más.
+El sistema de videovigilancia del titular de la actividad consta únicamente de 3
+cámaras y de un programa de gestión de las imágenes denominado “MyCam Pro”
+instalado en un ordenador propiedad del titular de la actividad y en el teléfono móvil
+del titular de la actividad.
+La grabación de las imágenes se hace en el ordenador propiedad del titular de
+la actividad.
+El titular de la actividad ha cumplido con la obligación de informar a sus
+trabajadores de la existencia y finalidades de las cámaras en el centro de trabajo.
+Por todo ello, SOLICITA a la Subdirección General de Inspección de Datos
+tenga en consideración todo lo expuesto para acreditar que la instalación de las
+cámaras en su establecimiento “Sidrería REZOLA”, ubicado en SANTIO ZEHARRA,
+NÚM. 14, BAJO, 20115 ASTIGARRAGA (Gipuzkoa) es conforme a la normativa sobre
+protección de datos (…)”.
+FUNDAMENTOS DE DERECHO
+I
+En virtud de los poderes que el artículo 58.2 del RGPD reconoce a cada autoridad de
+control, y según lo establecido en el art. 47 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales (en
+lo sucesivo LOPDGDD), la Directora de la Agencia Española de Protección de Datos
+es competente para iniciar y para resolver este procedimiento.
+II
+En fecha 27/02/19 se recibe en esta Agencia escrito calificado como “Consulta” por la
+afectada, por medio del cual cuestiona la legalidad del sistema de video-vigilancia
+instalado por su ex pareja sentimental.
+“…este Señor tiene instaladas tres cámaras de video-vigilancia y audio desde
+hace varios años, cuya legalización me cuestiono…He observado varias
+irregularidades al respecto. No existe en toda el área a la que llega el alcance del
+visionado y audición de estas cámaras ninguna placa informativa (…)”—folio nº 1--.
+Los hechos descritos anteriormente pueden suponer una afectación al
+contenido del art. 5.1 c) RGPD.
+Los particulares pueden instalar cámaras de video-vigilancia si bien son
+responsables de que las mismas se ajusten a la legalidad vigente.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+3/6
+
+Con este tipo de dispositivos se pretende con carácter general proteger bienes
+inmuebles, frente a hipotéticas agresiones y/ hurtos con fuerza en las cosas, si bien se
+pueden utilizar para fines distintos, siempre dentro del marco jurídico legal vigente.
+Este tipo de dispositivos no pueden utilizarse para obtener imágenes de
+espacios de libre tránsito, afectando con ello a la intimidad de terceros que se ven
+intimidados por los mismos o para afectar a la intimidad de terceros orientándolas
+hacia su espacio provativo.
+En fecha 16/04/19 se recibe en este organismo escrito de alegaciones del
+denunciado, el cual reconoce ser el responsable de la instalación del sistema de
+cámaras de video-vigilancia.
+El mismo señala que tiene concedida por Sentencia judicial XXX/XXXX
+(Audiencia Provincial de Gipuzkoa) la gestión y administración de la sidrería Rezola,
+habiendo instalado un sistema de video-vigilancia motivado por la proliferación de
+robos en la zona.
+El sistema consta de tres cámaras, estando las cámaras nº 1 y 2 instaladas en
+el exterior del edificio destinado a grabar el terreno propiedad de la sidrería.
+La cámara nº 3 se encuentra instalada en el exterior del edificio destinado a la
+elaboración de la sidra (lagar) y enfoca a una pequeña parte de la zona de
+aparcamiento de clientes (parking). Su área de grabación se circunscribe a terreno
+propiedad de la sidrería.
+En relación a la cuestión planteada como “irregularidad” por la denunciante, al
+considerar que el sistema no estaba informado, cabe señalar que se aporta prueba
+documental (Doc. nº 1), que acredita la presencia de cartel (es) informativo indicando
+que se trata de una zona video-vigilada.
+Por tanto, el denunciado ha procedido a corregir la situación descrita, de
+manera que se advierte que la zona está siendo video-vigilada por diversas cámaras,
+corrigiendo la situación denunciada.
+Se procede en este momento a analizar la colocación de las tres cámaras, así
+como si la medida es proporcionada a la finalidad perseguida.
+Como se ha indicado el sistema consta de tres cámaras, instaladas por el
+denunciado por motivos de seguridad del edificio dónde desarrolla su actividad
+comercial principal: Sidrería Rezola.
+Con relación a la “cámara 1” la misma está orientada hacia la principal puerta
+de acceso a la Sidrería, tenido como referencia los contenedores situados en el interior
+de la parcela dónde se ubica el establecimiento.
+La “Cámara-2” se encuentra instalada en el exterior del edificio destinado a
+establecimiento de hostelería (“Sidrería REZOLA”), en la fachada lateral, enfocada
+hacia una puerta de acceso secundaria, por la que no acceden clientes al
+establecimiento. Su área de grabación se circunscribe a terreno propiedad de la
+sidrería.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+4/6
+
+La “Cámara-3” se encuentra instalada en el exterior del edificio destinado a
+establecimiento de hostelería (“Sidrería REZOLA”), en la parte de atrás, ubicada
+encima de la puerta del lagar donde se guarda la costosa maquinaria y la materia
+prima para la elaboración de la sidra, enfocando desde encima de la puerta a una
+pequeña zona de aparcamiento.
+Examinadas las fotografías aportadas cabe señalar que la misma están
+orientadas hacia la propiedad privada dónde está el establecimiento dedicado a
+sidrería.
+No se ha constatado que ninguna de las cámaras esté orientada hacia la
+puerta principal de la vivienda de la denunciada, ni se ha acreditado que conversación
+alguna se haya obtenido con el sistema video de las mismas.
+Para poder obtener conversaciones “privadas” de la denunciante, la misma
+debe situarse en una zona cercana a las cámaras en cuestión, esto es, fuera del
+ámbito reservado a su intimidad, como sería el interior de su vivienda; en todo caso se
+trata de meras “sospechas” carentes de elemento probatorio alguno.
+De manera que las dos principales reclamaciones de la denunciante han sido
+analizadas por esta Agencia, sin que se aprecie vulneración alguna de la normativa en
+materia de protección de datos.
+III
+Como última cuestión a analizar, nos encontraríamos con el tema de la
+“autorización de la instalación de cámaras” en la Sidrería Razola.
+La Sentencia aportada clarifica algunos aspectos, al señalar que “…conforme a
+la declaración de obra nueva, edificios y terreno excedente, forman una única finca, y
+en consecuencia conforman una unidad en la explotación de la sidrería” (Sentencia nº
+XXX/XXXX).
+“…también lo que dicha facultad ha de hacer referencia al negocio en cuestión
+y ha de extenderse exclusivamente al edificio en el que el mismo se asienta y al lagar,
+y en modo alguno al garaje y al trastero, y mucho menos por supuesto al espacio
+relativo al parking, por cuanto no se ha justificado en modo alguno que dichas
+construcciones y el mencionado terreno sean precisos para la explotación de la
+sidrería en cuestión”
+En la Sentencia aportada se otorga por tanto el carácter de administrador de la
+Sidrería Razola al denunciado, facultad que ha de extenderse al negocio en cuestión,
+que entendemos abarcaría la defensa de los intereses del mismo, como por ejemplo
+con la instalación de cámaras que redunden en la protección del mismo.
+No puede pasar por alto, la denunciante que los efectos de un hipotético robo
+con fuerza en las cosas (art..237 CP) redundarían en su propio perjuicio, por lo que la
+medida adoptada se considera a priori acorde a la finalidad del sistema: la protección
+del establecimiento y sus principales enseres.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+5/6
+
+Sensu contrario, la parte denunciante puede instalar también cámaras de
+video-vigilancia, siempre que las mismas se ajusten a la legalidad vigente, esto es,
+orientación hacia los principales accesos de la Sidrería Ipintza y cumpla el resto de
+requisitos exigidos legalmente.
+Con relación a las otras dos cámaras se considera que al menos una de ellas es
+proporcionada a la finalidad perseguida (Cámara nº 3) dado que tiene como misión
+vigilar la zona de lagar, dónde se guarda costosa maquinaría y la materia prima para
+elaborar la sidra, pudiendo ser uno de los principales sitios a proteger por el valor de
+los bienes allí custodiados.
+En lo relativo a la cámara nº 2, dado que la finalidad es controlar el acceso de
+una puerta secundaría, la misma se podría haber instalado de otra manera, de tal
+manera que el ángulo de la cámara estuviera orientado exclusivamente hacia la puerta
+secundaría y no captando una zona de parking, como se acredita con la fotografía nº 2
+aportada por el denunciado.
+En cualquier caso, el sistema se considera ajustado a la legalidad vigente
+desde el punto de vista de la protección de datos, con la única salvedad de la
+captación de la zona de parking, si bien debería ser en sede judicial civil en dónde se
+debería dirimir la cuestión.
+Las partes comparten un espacio en común, dónde están ubicados los
+negocios de los mismos, como principal fuente de ingreso de éstos, de manera que el
+sistema obedece a una finalidad de protección del negocio (s), que beneficia a ambas
+partes, al existir un control de los posibles vehículos que pudieran acceder al mismo
+con una finalidad delictiva.
+IV
+El principio de presunción de inocencia impide imputar una infracción
+administrativa cuando no se haya obtenido y constatado una prueba de cargo
+acreditativa de los hechos que motivan la imputación o de la intervención en los
+mismos del presunto infractor. Aplicando el principio “in dubio pro reo” en caso de duda
+respecto de un hecho concreto y determinado, que obliga en todo caso a resolver
+dicha duda del modo más favorable al interesado.
+La presunción de inocencia debe regir sin excepciones en el ordenamiento
+sancionador y ha de ser respetada en la imposición de cualesquiera sanciones, pues
+el ejercicio del ius puniendi en sus diversas manifestaciones está condicionado al
+juego de la prueba y a un procedimiento contradictorio en el que puedan defenderse
+las propias posiciones. En tal sentido, el Tribunal Constitucional en su Sentencia
+76/1990, de 26/04, considera que el derecho a la presunción de inocencia comporta:
+“que la sanción esté basada en actos o medios probatorios de cargo o incriminadores
+de la conducta reprochada; que la carga de la prueba corresponda a quien acusa, sin
+que nadie esté obligado a probar su propia inocencia; y que cualquier insuficiencia en
+el resultado de las pruebas practicadas, libremente valorado por el órgano
+sancionador, debe traducirse en un pronunciamiento absolutorio.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+6/6
+
+La presunción de inocencia rige sin excepciones en el Ordenamiento
+sancionador y ha de ser respetada en la imposición de cualquier sanción, ya sea penal
+o administrativa (TCo 13/1981), pues el ejercicio del derecho sancionador en
+cualquiera de sus manifestaciones, está condicionado al juego de la prueba y a un
+procedimiento contradictorio en el que puedan defenderse las propia posiciones.
+Conforme a este principio, no puede imponerse sanción alguna en razón de la
+culpabilidad del imputado si no existe una actividad probatoria de cargo, que en la
+apreciación de las autoridades u órganos llamados a resolver, destruya esta
+presunción (TCo Auto 3-12-81).
+V
+De acuerdo con lo expuesto, analizadas las pruebas aportadas cabe concluir
+que el sistema se ajusta a la legalidad vigente, habiéndose corregido las
+“irregularidades” puestas de manifiesto por la denunciante, motivo por el que procede
+ordenar el Archivo del presente procedimiento.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+
+
+
+PROCEDER AL ARCHIVO de las presentes actuaciones.
+
+
+
+NOTIFICAR la presente Resolución a Don A.A.A. e INFORMAR del
+resultado de las mismas a Doña B.B.B..
+
+Contra esta resolución, que pone fin a la vía administrativa (artículo 48.2 de la
+LOPD), y de conformidad con lo establecido en los artículos 112 y 123 de la Ley
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, los interesados podrán interponer, potestativamente,
+recurso de reposición ante la Directora de la Agencia Española de Protección de Datos
+en el plazo de un mes a contar desde el día siguiente a la notificación de esta
+resolución o directamente recurso contencioso administrativo ante la Sala de lo
+Contencioso-administrativo de la Audiencia Nacional, con arreglo a lo dispuesto en el
+artículo 25 y en el apartado 5 de la disposición adicional cuarta de la Ley 29/1998, de
+13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa, en el plazo de
+dos meses a contar desde el día siguiente a la notificación de este acto, según lo
+previsto en el artículo 46.1 del referido texto legal.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+

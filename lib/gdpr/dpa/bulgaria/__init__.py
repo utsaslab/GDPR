@@ -45,7 +45,7 @@ class Bulgaria(DPA):
                 print('Timeout session occurred.')
 
             pagination = Pagination()
-            pagination.add_link("{host}{path}".format(host=source_host, path=source_start_path))
+            pagination.add_item("{host}{path}".format(host=source_host, path=source_start_path))
 
             pagination_links = links_from_soup_service(source_soup, target_element=source_target_element['pagination'])
             for link in pagination_links:
@@ -54,7 +54,7 @@ class Bulgaria(DPA):
                 if title.isdigit() is False:
                     continue
 
-                pagination.add_link(source_host + link_path)
+                pagination.add_item(source_host + link_path)
 
             while pagination.has_next():
                 results_page = pagination.get_next()

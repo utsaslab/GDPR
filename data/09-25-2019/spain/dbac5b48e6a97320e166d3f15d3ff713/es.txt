@@ -1,0 +1,152 @@
+1/4
+
+Procedimiento nº.: E/01817/2019
+ASUNTO: Recurso de Reposición Nº RR/00504/2019
+
+Examinado el recurso de reposición interpuesto por D. A.A.A. contra la resolución
+dictada por la Directora de la Agencia Española de Protección de Datos en el expediente de
+actuaciones previas de inspección E/01817/2019, y en base a los siguientes:
+HECHOS
+PRIMERO: Con fecha 6 de junio de 2019, se dictó resolución por la Directora de la Agencia
+Española de Protección de Datos en el expediente de actuaciones previas de inspección
+E/01817/2019, procediéndose al archivo de actuaciones en aplicación del principio de
+presunción de inocencia.
+Dicha resolución, que fue notificada al recurrente en fecha 9 de junio de 2019, según
+aviso de recibo que figura en el expediente.
+SEGUNDO: D. A.A.A. (en lo sucesivo el recurrente) ha presentado en esta Agencia, en fecha
+9 de julio de 2019, recurso de reposición, fundamentándolo básicamente en las mismas
+alegaciones que ya resultaron analizadas en la resolución ahora recurrida.
+
+FUNDAMENTOS DE DERECHO
+I
+Es competente para resolver el presente recurso la Directora de la Agencia
+Española de Protección de Datos, de conformidad con lo dispuesto en el artículo 123
+de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas (en lo sucesivo LPACAP).
+II
+En relación con las manifestaciones efectuadas por el recurrente, que reiteran
+básicamente las ya realizadas en el escrito de la denuncia, debe señalarse que las mismas ya
+fueron analizadas y desestimadas en la resolución impugnada, basada en los fundamentos
+jurídicos que se transcriben a continuación:
+“En primer lugar, los hechos expuestos podrían suponer la comisión por parte
+del reclamado de una infracción del artículo 10 de la Ley Orgánica 15/1.999,de 13 de
+diciembre (en lo sucesivo, LOPD), que establece lo siguiente: “El responsable del
+fichero y quienes intervengan en cualquier fase del tratamiento de los datos de
+carácter personal están obligados al secreto profesional respecto de los mismos y al
+deber de guardarlos, obligaciones que subsistirán aun después de finalizar sus
+relaciones con el titular del fichero, o en su caso, con el responsable del mismo”.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+2/4
+
+Dado el contenido del citado artículo 10 de la LOPD, ha de entenderse que el
+mismo tiene como finalidad evitar que, por parte de quienes están en contacto con los
+datos personales almacenados en ficheros, se realicen filtraciones de los datos no
+consentidas por los titulares de los mismos. Así el Tribunal Superior de Justicia de
+Madrid ha declarado en su Sentencia n. 361, de 19/07/2001: “El deber de guardar
+secreto del artículo 10 queda definido por el carácter personal del dato integrado en el
+fichero, de cuyo secreto sólo tiene facultad de disposición el sujeto afectado, pues no
+en vano el derecho a la intimidad es un derecho individual y no colectivo. Por ello es
+igualmente ilícita la comunicación a cualquier tercero, con independencia de la
+relación que mantenga con él la persona a que se refiera la información (...)”.
+Este deber es una exigencia elemental y anterior al propio reconocimiento del
+derecho fundamental a la libertad informática a que se refiere la STC 292/2000, y por
+lo que ahora interesa, comporta que los datos tratados automatizadamente, como el
+teléfono de contacto, no pueden ser conocidos por ninguna persona o entidad, pues
+en eso consiste precisamente el secreto>>.
+III
+En segundo lugar, se ha de tener en cuenta que al Derecho Administrativo
+Sancionador, por su especialidad, le son de aplicación, con alguna matización pero sin
+excepciones, los principios inspiradores del orden penal, resultando clara la plena
+virtualidad del principio de presunción de inocencia. No en vano, el artículo 53.2 b) de
+la LPACAP reconoce el derecho de los presuntos responsables a “la presunción de no
+existencia de responsabilidad administrativa mientras no se demuestre lo contrario”.
+Pues bien, el Tribunal Constitucional, en Sentencia 76/1990, considera que el
+derecho a la presunción de inocencia comporta “que la sanción esté basada en actos
+o medios probatorios de cargo o incriminadores de la conducta reprochada; que la
+carga de la prueba corresponda a quien acusa, sin que nadie esté obligado a probar
+su propia inocencia; y que cualquier insuficiencia en el resultado de las pruebas
+practicadas, libremente valorado por el órgano sancionador, debe traducirse en un
+pronunciamiento absolutorio”.
+En definitiva, la aplicación del principio de presunción de inocencia impide
+imputar una infracción administrativa cuando no se haya obtenido y comprobado la
+existencia de una prueba de cargo acreditativa de los hechos que motivan esta
+imputación.
+IV
+En el presente caso, se ha recibido en esta Agencia la reclamación presentada
+por el reclamante contra el reclamado, por una presunta vulneración del artículo 10 de
+la LOPD el deber de secreto.
+En concreto se denuncia la omisión del deber de secreto por parte de la
+entidad reclamada.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+3/4
+
+En este sentido y para este caso, debemos determinar que no se han aportado
+en su escrito de reclamación indicios razonables que nos permitan establecer que se
+han producido los hechos reflejados, ya que no se han podido constatar los hechos
+denunciados.”
+III
+Respecto a lo alegado por el denunciante de la decisión de la Agencia
+Española de Protección de Datos de no incoar actuaciones inspectoras y no iniciar el
+procedimiento sancionador no puede estimarse acorde ni proporcionada con las
+funciones que le reconoce la Ley Orgánica de Protección de Datos y su reglamento
+de desarrollo, se hace necesario recordar que el procedimiento sancionador en
+materia de protección de datos se inicia siempre de oficio por la Directora de la
+Agencia Española de Protección de datos. Asimismo, de conformidad a lo previsto en
+el artículo 122.2 del RGLOPD, como así ha mantenido la Audiencia Nacional en
+sentencia como, la SAN 27/05/2010 el denunciante no reviste la condición de
+interesado porque “quien denuncia hechos que considera constitutivos de infracción
+de la legislación de protección de datos carece de legitimación activa para impugnar
+en vía jurisdiccional lo que resuelva la Agencia. (…) La razón es, en sustancia, que el
+denunciante carece de la condición de interesado en el procedimiento sancionador
+que se puede incoar a resultas de su denuncia. Ni la Ley Orgánica de Protección de
+Datos ni su Reglamento de desarrollo le reconocer esa condición. (…) El mismo
+“víctima” de la infracción denunciada no tiene un derecho, subjetivo ni un interés
+legítimo a que el denunciado sea sancionado”.
+IV
+Por tanto, dado que, en el recurso de reposición, no se han aportado nuevos
+hechos o argumentos jurídicos que permitan reconsiderar la validez de la resolución
+impugnada, procede acordar su desestimación.
+Vistos los preceptos citados y demás de general aplicación,
+la Directora de la Agencia Española de Protección de Datos RESUELVE:
+PRIMERO: DESESTIMAR el recurso de reposición interpuesto por D. A.A.A. contra la
+resolución de esta Agencia dictada con fecha 6 de junio de 2019, en el expediente de
+actuaciones previas de inspección E/01817/2019.
+SEGUNDO: NOTIFICAR la presente resolución a D. A.A.A..
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la presente
+Resolución se hará pública una vez haya sido notificada al interesado.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+4/4
+
+Contra esta resolución, que pone fin a la vía administrativa, se podrá interponer en el
+plazo de dos meses a contar desde el día siguiente a la notificación de este acto según lo
+previsto en el artículo 46.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción
+Contencioso-administrativa, recurso contencioso administrativo ante la Sala de lo
+Contencioso-administrativo de la Audiencia Nacional, con arreglo a lo dispuesto en el artículo
+25 y en el apartado 5 de la disposición adicional cuarta del referido texto legal.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+

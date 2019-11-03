@@ -1,0 +1,194 @@
+1/4
+
+Expediente Nº: E/06528/2018
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas de oficio por la Agencia Española de Protección de
+Datos ante la entidad XFERA MÓVILES, S.A. y teniendo como base los siguientes
+ANTECEDENTES
+PRIMERO: Entre los días 23 de abril de 2018 y el 3 de diciembre de 2018 se
+recibieron reclamaciones sobre 114 posibles llamadas telefónicas publicitarias
+realizadas por XFERA MÓVILES, S.A. (en adelante, la reclamada), efectuadas entre
+el ***FECHA.1 y el ***FECHA.2, las cuales dieron lugar a la apertura de 56
+expedientes en esta Agencia.
+En estas reclamaciones los reclamantes manifestaron, en general, haber recibido
+llamadas no solicitadas con fines de comunicación comercial, bien cuando el
+reclamante y el número de teléfono que recibe la llamada estaban inscritos
+previamente en la lista Robinson, o bien cuando el reclamante se había opuesto
+previamente ante la reclamada a recibir llamadas no deseadas con fines de
+comunicación comercial.
+SEGUNDO: En relación con el análisis de varios expedientes abiertos por
+reclamaciones relativas a llamadas comerciales no deseadas con publicidad de la
+reclamada, a pesar de constar los datos del reclamante en la lista Robinson o haber
+ejercido el derecho de oposición ante la reclamada, y al identificar un procedimiento
+con posibles deficiencias en el tratamiento de las campañas comerciales telefónicas
+por parte de la reclamada, con fecha 3 de octubre de 2018 la Directora de la Agencia
+Española de Protección de Datos acordó iniciar actuaciones previas de investigación
+para determinar la adecuación del tratamiento en cuestión a la normativa aplicable de
+protección de datos.
+TERCERO: Posteriormente, se incorporaron a esta investigación otros 22 expedientes,
+que se corresponden con escritos recibidos en esta Agencia sobre la misma cuestión,
+entre el 28 de noviembre de 2018 y el 22 de mayo de 2019.
+Asimismo, se recibieron otras dos reclamaciones de dos reclamantes que ya habían
+presentado previamente una reclamación, en las que la reclamada había afirmado que
+se habían tomado las medidas oportunas para que no se recibieran más llamadas
+publicitarias en las líneas telefónicas de los reclamantes, pero que con posterioridad
+reclamaron nuevamente por haber recibido nuevas llamadas comerciales de marcas
+pertenecientes a la reclamada.
+CUARTO: La Subdirección General de Inspección de Datos procedió a la realización
+de las actuaciones previas de investigación E/06528/2018 para el esclarecimiento de
+los hechos.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/4
+
+FUNDAMENTOS DE DERECHO
+I
+De conformidad con lo establecido en el artículo 84.3) de la Ley 9/2014, de 9
+de mayo, General de Telecomunicaciones (en lo sucesivo, LGT), se atribuye a la
+Agencia Española de Protección de Datos la facultad para imponer las sanciones
+establecidas por la vulneración de los derechos de los usuarios finales, reconocidos en
+el artículo 48 de la citada LGT.
+Entre los derechos con los que cuentan estos usuarios finales, se encuentra el
+derecho a oponerse a no recibir llamadas no deseadas con fines de comunicación
+comercial. Al respecto, el artículo 48 de la LGT, bajo la rúbrica “Derecho a la
+protección de datos personales y la privacidad en relación con las comunicaciones no
+solicitadas” dispone lo siguiente en su apartado 1.b):
+“1. Respecto a la protección de datos personales y la privacidad en relación
+con las comunicaciones no solicitadas los usuarios finales de los servicios de
+comunicaciones electrónicas tendrán los siguientes derechos: (…)
+b) A oponerse a no recibir llamadas no deseadas con fines de comunicación
+comercial que se efectúen mediante sistemas distintos de los establecidos en
+la letra anterior y a ser informado de este derecho.”
+Es decir, el artículo 48.1.b) de la LGT reconoce a los usuarios finales (definidos
+en su Anexo II, apartado 42 en relación con el apartado 41, como la persona física o
+jurídica que utiliza o solicita un servicio de comunicaciones electrónicas disponible
+para el público y no explota redes públicas de comunicaciones ni presta servicios de
+comunicaciones electrónicas disponibles para el público ni los revende) el derecho a
+oponerse a recibir llamadas no deseadas con fines de comunicación comercial y,
+ejercitada y manifestada dicha oposición, sus datos no pueden ser utilizados con dicha
+finalidad.
+II
+El artículo 67 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de
+Datos Personales y garantía de los derechos digitales (en lo sucesivo, LOPDGDD)
+determina lo siguiente, respecto a las actuaciones previas de investigación:
+“1. Antes de la adopción del acuerdo de inicio de procedimiento, y una vez
+admitida a trámite la reclamación si la hubiese, la Agencia Española de
+Protección de Datos podrá llevar a cabo actuaciones previas de investigación a
+fin de lograr una mejor determinación de los hechos y las circunstancias que
+justifican la tramitación del procedimiento.
+La Agencia Española de Protección de Datos actuará en todo caso cuando sea
+precisa la investigación de tratamientos que implique un tráfico masivo de
+datos personales.
+2. Las actuaciones previas de investigación se someterán a lo dispuesto en la
+Sección 2.ª del Capítulo I del Título VII de esta ley orgánica y no podrán tener
+una duración superior a doce meses a contar desde la fecha del acuerdo de
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/4
+
+admisión a trámite o de la fecha del acuerdo por el que se decida su iniciación
+cuando la Agencia Española de Protección de Datos actúe por propia iniciativa
+o como consecuencia de la comunicación que le hubiera sido remitida por la
+autoridad de control de otro Estado miembro de la Unión Europea, conforme al
+artículo 64.3 de esta ley orgánica.”
+III
+Por su parte, el artículo 25 de la Ley 39/2015, de 1 de octubre, del
+Procedimiento Administrativo Común de las Administraciones Públicas (en adelante,
+LPACAP) en su apartado 1.b) establece que:
+“1. En los procedimientos iniciados de oficio, el vencimiento del plazo máximo
+establecido sin que se haya dictado y notificado resolución expresa no exime a
+la Administración del cumplimiento de la obligación legal de resolver,
+produciendo los siguientes efectos:
+(…) b) En los procedimientos en que la Administración ejercite potestades
+sancionadoras o, en general, de intervención, susceptibles de producir efectos
+desfavorables o de gravamen, se producirá la caducidad. En estos casos, la
+resolución que declare la caducidad ordenará el archivo de las actuaciones,
+con los efectos previstos en el artículo 95”.
+En el presente supuesto el cómputo de los doce meses de duración máxima de
+las actuaciones previas E/06528/2018 se inició el día 3 de octubre de 2018 y al
+presente aún están pendientes de finalización, por lo que éstas deben declararse
+caducadas.
+Todo ello de conformidad con la interpretación que al respecto ha realizado la
+Audiencia Nacional en su Sentencia de 19 de julio de 2013, en la que establece que
+“el hecho de que tras la denuncia se acordara por el Director de la Agencia Española
+de Protección de Datos no incoar actuaciones inspectoras y no iniciar procedimiento
+sancionador, para a continuación, en respuesta al recurso de reposición formalizado
+por el denunciante contra tal acuerdo, resolver su estimación y ordenar a la
+Subdirección General de Inspección de Datos que se procediera a realizar
+actuaciones de inspección, no enerva aquella conclusión”. Esto es, que las
+actuaciones previas de investigación deben entenderse caducadas si transcurridos
+doce meses desde el día inicial del cómputo no se ha procedido a dictar y notificar
+acuerdo de inicio de procedimiento sancionador.
+IV
+No obstante, el artículo 95. 3 de la citada LPACAP, determina que:
+“La caducidad no producirá por sí sola la prescripción de las acciones del
+particular o de la Administración, pero los procedimientos caducados no
+interrumpirán el plazo de prescripción.
+En los casos en los que sea posible la iniciación de un nuevo procedimiento
+por no haberse producido la prescripción, podrán incorporarse a éste los actos
+y trámites cuyo contenido se hubiera mantenido igual de no haberse producido
+la caducidad. En todo caso, en el nuevo procedimiento deberán
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/4
+
+cumplimentarse los trámites de alegaciones, proposición de prueba y audiencia
+al interesado.”
+Al respecto la Audiencia Nacional considera (Sentencia de 10 de julio de 2013)
+que “declarada la caducidad de las actuaciones previas de investigación iniciadas por
+la Agencia Española de Protección de Datos, tal circunstancia no supone obstáculo
+alguno para que dicha entidad proceda a iniciar o reiniciar otras actuaciones previas
+de investigación sobre los mismos hechos, siempre y cuando no hubiere transcurrido
+el plazo de prescripción de la infracción administrativa objeto de investigación”.
+En consecuencia, dado que los hechos objeto de investigación no se
+encuentran prescritos, se dan instrucciones a la Subdirección General de Inspección
+de Datos para que inicie nuevas actuaciones de investigación.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: ABRIR nuevas actuaciones de investigación e incorporar a estas nuevas
+actuaciones la documentación que integra las actuaciones previas que se declaran
+caducadas mediante el presente acto.
+TERCERO: NOTIFICAR la presente Resolución a XFERA MÓVILES, S.A.
+De conformidad con lo establecido en el artículo 50 de la Ley Orgánica 3/2018,
+de 5 de diciembre, de Protección de Datos Personales y Garantía de los Derechos
+Digitales, (en adelante LOPDGDD) la presente Resolución se hará pública una vez
+haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

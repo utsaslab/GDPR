@@ -1,0 +1,355 @@
+1/11
+
+Procedimiento Nº: E/01795/2019
+940-0419
+
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes
+HECHOS
+PRIMERO: Con fechas 12 de junio, 29 y 6 de agosto de 2018 tuvieron entrada tres
+escritos de reclamación presentados por los reclamantes 1 A 3, cuya identidad consta
+reseñada en los anexos. Las reclamaciones se dirigen contra EXPERIAN BUREAU DE
+CRÉDITO, S.A.U (Badexcug) con NIF A82120601 y GESCOBRO COLLECTION
+SERVICES, SLU (PROMONTORIA HOLDING 114, BV, en adelante Promontoria), con
+NIF B65257800.
+Por los siguientes hechos según manifestaciones de los reclamantes:
+El reclamante 1 manifiesta que sus datos han sido incorporados al fichero BADEXCUG
+por una deuda dudosa por la que ha presentado reclamación ante OMIC sin que
+hayan informado previamente de la inclusión de sus datos en ficheros de morosidad.
+El reclamante 2 indica que ha recibido una carta de Experian en la que le informa que
+PROMONTORIA HOLDING le ha incluido en un listado de solvencia sin haberle
+informado previamente.
+El reclamante 3 señala que una entidad de crédito le indicó que sus datos figuraban en
+la base de datos de Experian y ejerció su derecho de acceso y cancelación puesto que
+no se le notificó la existencia de deuda alguna y que tampoco le ha sido notificado la
+inclusión en el fichero Badexcug. Señala que no hay constancia de que se trate de una
+deuda cierta vencida o exigible.
+Añade, que el 6 de julio de 2018 recibió una comunicación donde se le indica que sus
+datos han sido confirmados por Promontoria H114 quien en fecha 19 de agosto de
+2015 mediante una operación de cesión de créditos adquirió la titularidad de un
+crédito, figurando un importe fallido de XXXX,XX asociado a su DNI con fecha de
+impago de 3 de marzo de 2014 y en concepto de producto financiado: otros y el
+domicilio que en dicha fecha residía.
+SEGUNDO: La Subdirección General de Inspección de Datos procedió a la realización
+de actuaciones previas de investigación para el esclarecimiento de los hechos objeto
+de la reclamación, teniendo conocimiento de los siguientes extremos:
+1. En cuanto al reclamante 1:
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/11
+
+El origen de la deuda ahora perteneciente a PROMONTORIA HOLDING 114
+B.V. (en adelante, "PROMONTORIA") proviene de un contrato de préstamo
+suscrito entre el reclamante y BANKIA, S.A. y BANCO FINANCIERO Y DE
+AHORROS, S.A.U. (En adelante Bankia).
+Los datos personales del deudor reclamante 1 han sido tratados por
+PROMONTORIA HOLDING 114 B.V. (en adelante, "PROMONTORIA") en
+consecuencia del contrato de compraventa de derechos de crédito suscrito con
+Bankia en fecha 8 de agosto de 2014 en el que, entre otros compromisos, se
+indicaba que todos los créditos eran legales, válidos y ejecutables, figurando
+entre éstos la operación de referencia NP ***REFERENCIA.1.
+Esta cesión le fue notificada al deudor en fecha 29 de agosto de 2014 mediante
+carta certificada por correo postal. Junto con esta información, se le requería el
+pago de la deuda, y se le informaba de la posibilidad de ser incluido en ficheros
+de solvencia en caso de no hacer frente a la misma en un plazo de 30 días.
+A raíz de la reclamación recibida, Gescobro inició un proceso de investigación
+procediendo a paralizar nuestras gestiones de reclamación en relación con el
+citado derecho de crédito y al realizar las oportunas indagaciones, concluyeron
+que la deuda relativa al afectado es correcta y continua vigente por no haber
+sido cancelada por razón de paga o algún otro motivo, no obstante, desde la
+fecha de recepción del requerimiento de información el expediente ha sido
+retirado de gestión preventivamente de forma temporal.
+Adjuntan la siguiente documentación acreditativa de la legitimidad de la deuda
+del Contrato: ***REFERENCIA.1.
+Testimonio notarial de la cesión del crédito entre Bankia y Promontoria.
+Escrito comunicativo de la cesión de créditos entre Bankia y
+Promontoria junto con el requerimiento de pago del crédito adquirido.
+Albarán de correos correspondiente al envío realizado
+Certificado de envío y no devolución del requerimiento de pago remitido
+tras la cesión del crédito por parte de Bankia a Promontoria
+En relación con la deuda contraída por el reclamante 2:
+El origen de la deuda ahora perteneciente a PROMONTORIA HOLDING 114 B.V. (en
+adelante, "PROMONTORIA") proviene de un contrato de préstamo suscrito entre el
+reclamante y BANKIA, S.A. y BANCO FINANCIERO Y DE AHORROS, S.A.U. (En
+adelante Bankia).
+Los datos personales del reclamante 2 han sido tratados por Promontoria en
+consecuencia de un contrato de compraventa de derechos de crédito suscrito con
+Bankia en fecha 8 de agosto de 2014 en el que, entre otros compromisos, se indicaba
+que todos los créditos eran legales, válidos y ejecutables, figurando entre éstos la
+operación de referencia N ***REFERENCIA.2.
+Esta cesión fue notificada al deudor en fecha 29 de agosto de 2014 mediante carta
+certificada por correo postal. Junto con esta información, se le requería el pago de la
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/11
+
+deuda, y se le informaba de la posibilidad de ser incluido en ficheros de solvencia en
+caso de no hacer frente a la misma en un plazo de 30 días.
+Gescobro utiliza los datos única y exclusivamente para realizar la prestación de un
+servicio de recuperación de deuda por cuenta de Promontoria, en virtud de un contrato
+de prestación de servicios entre las sociedades.
+De acuerdo con la información y documentación de que disponen han concluido que la
+deuda relativa al reclamante es correcta y no ha sido cancelada ni por motivo de cobro
+ni por ningún otro motivo posible. Del mismo modo son también correctos los datos de
+carácter personal del reclamante 2 que son objeto de tratamiento por parte Gescobro
+en relación con la operación.
+No obstante que, desde el 13 de noviembre de 2018, fecha recepción de la
+reclamación del deudor a través de la plataforma del fichero de solvencia de Experian,
+el expediente fue retirado de gestión preventivamente de forma temporal.
+Adjuntan la siguiente documentación:
+Testimonio notarial de la cesión del crédito entre Bankia y Promontoria.
+Escrito comunicativo de la cesión de créditos entre Bankia y Promontoria junto
+con el requerimiento de pago del crédito adquirido.
+Albarán de correos correspondiente al envío realizado
+Certificado de envío y no devolución del requerimiento de pago remitido tras la
+cesión del crédito por parte de Bankia a Promontoria
+En relación al reclamante 3:
+El origen de la deuda provenía de un contrato de préstamo suscrito entre el
+reclamante y BANKIA, S.A. y BANCO FINANCIERO Y DE AHORROS, S.A.U.
+(En adelante Bankia).
+Gescobro Cotlection Services, S.L.U. utilizaba los datos única y exclusivamente
+para realizar la prestación de un servicio de recuperación de deuda por cuenta
+de PROMONTORIA HOLDING 114 B.V. (en adelante, "PROMONTORIA"), en
+virtud de un contrato de prestación de servicios entre las sociedades.
+Los datos personales del reclamante fueron tratados por PROMONTORIA en
+consecuencia del contrato de compraventa de derechos de crédito suscrito con
+Bankia en fecha 8 de agosto de 2014 en el que, entre otros compromisos, se
+indicaba que todos los créditos eran legales, válidos y ejecutables, figurando
+entre éstos la operación de referencia ***REFERENCIA.3.
+Esta cesión le fue notificada al deudor en fecha 29 de agosto de 2014 mediante
+carta certificada por correo postal. Junto con esta información, se le requería el
+pago de la deuda, y se le informaba de la posibilidad de ser incluido en ficheros
+de solvencia en caso de no hacer frente a la misma en un plazo de 30 días.
+El expediente del reclamante 3 fue cancelado con motivo de haber satisfecho el
+crédito el 16 de agosto de 2018, y junto con este expediente se dieron de baja
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/11
+
+también sus datos personales de los ficheros de solvencia (Experian).
+Adicionalmente, como consecuencia de la cancelación del expediente, los
+datos personales del deudor fueron bloqueados.
+Posteriormente a esta cancelación, se recibió la reclamación de la Agencia
+Estatal de Protección de Datos (AEPD) con fecha de entrada en nuestras
+oficinas el cuatro de octubre de 2018. Ante dicha reclamación, enviamos
+burofax al deudor indicándole que no existían anotaciones con sus datos en los
+ficheros de solvencia, y aportando entre otras cosas el finiquito de la deuda.
+Adjuntan la siguiente documentación relativa al contrato ***REFERENCIA.1:
+Testimonio notarial de la cesión del crédito entre Bankia y Promontoria.
+Escrito comunicativo de la cesión de créditos entre Bankia y Promontoría junto
+con el requerimiento de pago del crédito adquirido.
+Albarán de correos correspondiente al envío realizado.
+Certificado de envío y no devolución del requerimiento de pago remitido tras la
+cesión del crédito por parte de Bankia a Promontoria
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales (en lo sucesivo LOPDGDD), es competente para
+resolver estas actuaciones de investigación la Directora de la Agencia Española de
+Protección de Datos.
+II
+Los hechos denunciados se concretan en la inclusión de los datos de carácter
+personal de los reclamantes en el fichero de solvencia crediticia y patrimonial
+Badexcug por Promontoria,
+El origen de los derechos de crédito ostentados por Promontoria relativos a los
+reclamantes han sido incorporados en los registros de la Sociedad a consecuencia del
+contrato de compraventa de derechos de crédito suscrito con Bankia S.A. y BFA,
+Tenedora de Acciones S.A.U. (en adelante "Bankia"), en fecha 8 de agosto de 2014,
+en el que, entre otros compromisos, se indicaba que todos los créditos eran legales,
+válidos y ejecutables.
+Gescobro Collection Services, S.L.U. (en adelante "Gescobro") trata los datos
+relativos a las tres personas indicadas para realizar la prestación de un servicio de
+recuperación de morosidad por cuenta de Promontoria, en virtud de un contrato de
+prestación de servicios entre las sociedades. Este contrato, asimismo, permite la
+respuesta a los derechos ejercitados por los deudores en materia de protección de
+datos.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/11
+
+Esta cesión le fue notificada a los titulares en fecha 29 de agosto de 2014
+mediante carta por correo postal.
+La entidad manifiesta que ha revisado las tres deudas referenciadas
+procediendo a paralizar las gestiones de reclamación en aquellas que actualmente se
+encontraban pendientes de pago.
+A los reclamantes se les ha comunicado la cesión del crédito, donde se incluye
+el requerimiento del pago. En este documento, en el momento de la compraventa de la
+cartera, el encargado de tratamiento para las acciones de recobro era Lindorff España,
+S.L.U. (en adelante "Lindorff').
+También aportan certificado de una tercera entidad que acredita la impresión, el
+contenido, su ensobramiento y la puesta a disposición del servicio de correos de los
+requerimientos de pago realizados para cada una de estas deudas. Todas estas
+notificaciones se han realizado por Lindorff.
+En este punto se hace preciso indicar que las cuestiones relativas a los
+contratos, duración, nulidad, etc., así como las relativas al importe de la deuda, excede
+de las competencias atribuidas a esta Agencia que no es otra que determinar si se han
+cumplido los requisitos establecidos en la normativa reguladora sobre protección de
+datos de carácter personal, por lo que la citada cuestión y sus causas, deberá ser
+sustanciada ante la jurisdicción correspondiente como no podría ser de otra forma.
+El artículo 20, Sistemas de información crediticia, de la Ley Orgánica 3/2018,
+de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos
+digitales (en lo sucesivo LOPDGDD), señala en su punto primero que:
+“1. Salvo prueba en contrario, se presumirá lícito el tratamiento de datos
+personales relativos al incumplimiento de obligaciones dinerarias, financieras o de
+crédito por sistemas comunes de información crediticia cuando se cumplan los
+siguientes requisitos:
+a) Que los datos hayan sido facilitados por el acreedor o por quien actúe por su
+cuenta o interés.
+b) Que los datos se refieran a deudas ciertas, vencidas y exigibles, cuya
+existencia o cuantía no hubiese sido objeto de reclamación administrativa o judicial por
+el deudor o mediante un procedimiento alternativo de resolución de disputas
+vinculante entre las partes.
+c) Que el acreedor haya informado al afectado en el contrato o en el momento
+de requerir el pago acerca de la posibilidad de inclusión en dichos sistemas, con
+indicación de aquéllos en los que participe.
+La entidad que mantenga el sistema de información crediticia con datos
+relativos al incumplimiento de obligaciones dinerarias, financieras o de crédito deberá
+notificar al afectado la inclusión de tales datos y le informará sobre la posibilidad de
+ejercitar los derechos establecidos en los artículos 15 a 22 del Reglamento (UE)
+2016/679 dentro de los treinta días siguientes a la notificación de la deuda al sistema,
+permaneciendo bloqueados los datos durante ese plazo.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/11
+
+d) Que los datos únicamente se mantengan en el sistema mientras persista el
+incumplimiento, con el límite máximo de cinco años desde la fecha de vencimiento de
+la obligación dineraria, financiera o de crédito.
+e) Que los datos referidos a un deudor determinado solamente puedan ser
+consultados cuando quien consulte el sistema mantuviese una relación contractual
+con el afectado que implique el abono de una cuantía pecuniaria o este le hubiera
+solicitado la celebración de un contrato que suponga financiación, pago aplazado o
+facturación periódica, como sucede, entre otros supuestos, en los previstos en la
+legislación de contratos de crédito al consumo y de contratos de crédito inmobiliario.
+Cuando se hubiera ejercitado ante el sistema el derecho a la limitación del
+tratamiento de los datos impugnando su exactitud conforme a lo previsto en el artículo
+18.1.a) del Reglamento (UE) 2016/679, el sistema informará a quienes pudieran
+consultarlo con arreglo al párrafo anterior acerca de la mera existencia de dicha
+circunstancia, sin facilitar los datos concretos respecto de los que se hubiera
+ejercitado el derecho, en tanto se resuelve sobre la solicitud del afectado.
+f) Que, en el caso de que se denegase la solicitud de celebración del contrato,
+o éste no llegara a celebrarse, como consecuencia de la consulta efectuada, quien
+haya consultado el sistema informe al afectado del resultado de dicha consulta” (El
+subrayado corresponde a la AEPD).
+En el presente caso y a tenor de la normativa actualmente en vigor la
+obligación que incumbe al responsable del tratamiento que comunica a un fichero de
+solvencia patrimonial datos de un tercero es la de informarle de ese tratamiento antes
+de que se haya realizado. De tal modo, que será suficiente que el acreedor informante
+hubiera puesto en conocimiento del tercero la posibilidad de que sus datos pudieran
+ser comunicados a un fichero de esa naturaleza en caso de impago de la deuda, en la
+celebración del contrato o al tiempo de requerirla, que en el supuesto analizado
+sucede si acudimos a los recibos de cuotas impagadas notificadas al reclamante.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+1. PROCEDER AL ARCHIVO de las presentes actuaciones.
+2. NOTIFICAR la presente resolución y el Anexo 0 a los reclamados.
+3. NOTIFICAR a cada uno de los reclamantes la presente resolución y exclusivamente
+el Anexo que les corresponda, en el que se incluye su identificación.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/11
+
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+8/11
+
+ANEXO 0: relación de reclamantes del E/1795/2019.
+Reclamante 1: D. A.A.A. (representado por B.B.B.)
+Reclamante 2: D. C.C.C.
+Reclamante 3: D. D.D.D.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+9/11
+
+ANEXO 1
+Identidad del reclamante 1 en el E/01795/2019:
+Reclamante 1: D. A.A.A. (representado por B.B.B.)
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+10/11
+
+ANEXO 2
+Identidad del reclamante 2 en el E/01795/2019:
+Reclamante 2: D. C.C.C.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+11/11
+
+ANEXO 3
+Identidad del reclamante 3 en el E/01795/2019:
+Reclamante 3: D. D.D.D.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

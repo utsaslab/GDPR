@@ -1,0 +1,667 @@
+1/13
+
+863-240719
+
+Procedimiento Nº: A/00002/2019
+RESOLUCIÓN: R/00439/2019
+En el procedimiento A/00002/2019, instruido por la Agencia Española de Protección de
+Datos a la entidad PARAULA.CENTRE DE SERVEIS LINGÜISTICS DE LES ILLES
+BALEARS, y en virtud de los siguientes,
+ANTECEDENTES
+PRIMERO: Con fecha 15 de septiembre de 2018 Don A.A.A., (en adelante, el
+reclamante), interpuso sendas reclamaciones ante la Agencia Española de Protección
+de Datos contra la Asociación PARAULA. CENTRE DE SERVEIS LINGÜISTICS DE
+LES ILLES BALEARS, (en lo sucesivo PARAULA o el reclamado), entre otras
+irregularidades, por no informar sobre el uso de cookies en las páginas web páginas
+web ***URL.1 y ***URL.2 y no mostrar ninguna pestaña emergente informativa sobre
+dichos dispositivos al acceder a las mencionadas páginas web.
+SEGUNDO: Tras la recepción de la reclamación, los Servicios de Inspección de esta
+Agencia efectuaron las siguientes actuaciones y tuvieron conocimiento de los
+siguientes hechos:
+Con fecha 4 de octubre de 2018 se accede a la página web ***URL.1
+constatándose la descarga de las cookies PHPSESSID, _atuvc y_atuvs. Con esa
+misma fecha se accede a la página web ***URL.2 constatándose la descarga de la
+cookie PHPSESSID.
+Con fecha 13 de febrero de 2019 se accede a la página web ***URL.1
+comprobándose que no advierte del uso de cookies no exentas del deber de informar
+al entrar en el citado portal, no obstante que a raíz de los accesos realizados con esa
+misma fecha se constató que, sin realizar ningún tipo de acción previa ni navegar por
+las página web, se instalaban las siguientes cookies persistentes de compartición en
+redes sociales:
+_atuvc y _atuvs, del dominio ***URL.1
+“loc” y “uvc” del dominio addthis.com
+Con fecha 13 de febrero de 2019 se accede a la página web ***URL.2
+operación que permite confirmar que tanto antes como después de navegar por dicho
+portal únicamente se descargaba la cookie de sesión exenta del deber de informar
+denominada PHPSESSID.
+TERCERO: Consultada con fecha 13 de febrero de 2019 la aplicación de la AEPD que
+muestra información sobre de antecedentes de sanciones y apercibimientos
+precedentes, no constan registros previos por infracción del artículo 22.2 de la Ley
+34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio
+Electrónico asociados a PARAULA.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/13
+
+CUARTO: Con fecha 21 de marzo de 2019, la Directora de la Agencia Española de
+Protección de Datos acordó someter a trámite de audiencia previa el presente
+procedimiento de apercibimiento A/00002/2019, con arreglo a lo dispuesto en el
+artículo 39 bis, apartado 2, de la de la Ley 34/2002, de 11 de julio, de Servicios de la
+Sociedad de la Información y Comercio Electrónico (en lo sucesivo, LSSI), en relación
+a la reclamación por posible infracción del artículo 22.2 de la LSSI, tipificada como
+leve en el artículo 38.4.g) de la citada norma.
+La notificación de dicho acto se practicó a través del Servicio de Notificaciones
+Electrónicas y Dirección Electrónica Habilitada, constando el 22 de marzo de 2019
+como fecha de puesta a disposición del citado acto y el 2 de abril de 2019 como fecha
+de rechazo automático (expirada) de dicha notificación.
+Posteriormente, y de forma excepcional, se procedió a remitir nuevamente
+dicha notificación por correo postal certificado, constando que fue entregado al
+reclamado con fecha 26 de abril de 2019.
+QUINTO: Con fecha 10 de mayo de 2019 se recibe en esta Agencia escrito de
+alegaciones de la representante legal de PARAULA señalando que, con fecha 10 de
+abril de 2019, se presentó escrito de alegaciones junto al que se aportaban los textos
+informativos redactados en cumplimiento de lo exigido en el Reglamento General de
+Protección de Datos, cuyo contenido se reitera a la par que adjuntan los documentos
+aportados en dichas alegaciones.
+Entre dichos documentos se encuentra impresión del contenido de la
+información a incluir en las reseñadas páginas web a fin de dar cumplimiento a lo
+dispuesto en el artículo 22.2 de la LSSI.
+SEXTO: Con fecha 2 de septiembre de 2019 se accede a los mencionado sitios web,
+comprobándose los siguientes hechos:
+- Que la información sobre cookies publicada en el sistema de información por
+capas empleado en las páginas web analizadas coincide, básicamente, con la que
+figura en la documentación adjuntada por el reclamado en su escrito de alegaciones.
+- En el acceso efectuado a la página web ***URL.2 se constata la instalación
+de la cookie técnica PHPSESSID de identificación de sesión tanto antes como
+después de navegar por la misma. El enlace “Política de Cookies” contenido en el
+aviso de la primera capa redirige a la “Política de Cookies” de la página web
+http://www.paraula.cat.
+- En el acceso efectuado a la página web ***URL.1 se comprueba:
+
+
+Que continúan descargándose las cookies de compartición de redes sociales _atuvc
+y _atuvs, del ***URL.1 y las cookies “loc” y“uvc” del dominio addthis.com por con el
+simple acceso al sitio web, puesto que su instalación se produce sin haberse realizado
+ningún tipo de acción ni haber navegado por la página web en cuestión. Estos mismos
+dispositivos también se instalan después de navegar por las diferentes páginas del
+sitio.
+Además, cuando se navega por el apartado de “Contacto” de la página de
+inicio del sitio web se instala la cookie persistente de tercera parte “NID” del dominio
+google.com, utilizada, según información proporcionada por Google en el documento
+“Tipos de cookies que utiliza Google” , tanto para recordar las preferencias del
+usuario como para publicidad comportamental a fin de personalizar los anuncios.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/13
+
+En la primera capa figura el siguiente banner o “Aviso de Cookies”: “Utilizamos
+cookies propias y de terceros para optimizar su visita y mejorar nuestros servicios
+mediante la personalización de nuestros contenidos y publicidad basándonos en el
+análisis de sus hábitos de navegación. Si continúa navegando sin modificar la
+configuración de su navegador, consideramos que acepta el uso. Más información en
+nuestra Política de Cookies.” El subrayado es de la AEPD, constituyendo un enlace
+que dirige a la “Política de Cookies” o segunda capa de información. Junto al avisto
+figura un botón con el texto “ACEPTAR”, conforme se desprende del resultado de la
+impresión efectuada
+
+
+Al acceder a la segunda capa de información se comprueba que al inicio del
+documento de “Política de Cookies” se advierte que “En caso de utilizar nuestra web
+sin proceder a la desactivación de las cookies, manifiesta su consentimiento para que
+se instalen”. Dicho documento se integra por los siguientes apartados: ¿Qué es una
+cookie? ; ¿Qué tipo de cookies utilizamos y para qué? Este apartado especifica el uso
+de cookies técnicas o indispensables para prestar los servicios y cookies publicitarias;
+¿Son anónimas las cookies?; ¿Cómo puedo gestionar las cookies? En este último
+apartado se informa sobre la posibilidad de no recibir cookies, eliminarlas u obtener
+información sobre su fijación utilizando la configuración del navegador del usuario,
+para lo cual facilitan los enlaces que conducen a las herramientas proporcionadas por
+los navegadores Chrome, Explorer, Firefox y Safari.
+
+
+
+Asimismo se constata que la información ofrecida en ambas capas del sitio web no
+resulta clara ni completa, toda vez que no proporcionan información sobre
+determinados aspectos que los usuarios deben conocer a los efectos de poder prestar
+un consentimiento informado, proporcionándose sobre otras cuestiones información
+incorrecta o inadecuada. A los efectos de evitar su reiteración, en los Hechos
+Probados Sexto y séptimo se detallan las carencias o irregularidades observadas.
+HECHOS PROBADOS
+PRIMERO: Con fecha 15 de septiembre de 2018 se registran de entrada en la AEPD
+sendas reclamaciones formuladas por el reclamante contra PARAULA. CENTRE DE
+SERVEIS LINGÜISTICS DE LES ILLES BALEARS por no informar sobre el uso de
+cookies en las páginas web páginas web ***URL.1 y ***URL.2
+SEGUNDO: El reclamado es responsable de las páginas web páginas web ***URL.1 y
+***URL.2
+TERCERO: Con fecha 4 de octubre de 2018, 13 de febrero y 2 de septiembre de 2019
+se accede a la página web***URL.2 constatándose la descarga de la cookie técnica
+PHPSESSID de identificación de sesión, exenta del deber de informar.
+En los accesos efectuados en febrero y septiembre de 2019 se verifica que dicha
+cookie es la única que se descarga antes y después de navegar por el citado sitio.
+CUARTO: Con fechas 4 de octubre de 2018 y 13 de febrero de 2019 se accede a la
+página web ***URL.1 comprobándose que no advierte del uso de cookies no exentas
+del deber de informar al entrar en el citado portal, no obstante que se verifico que, sin
+realizar ningún tipo de acción previa ni navegar por la citada página web, se instalaban
+las siguientes cookies persistentes de compartición en redes sociales:
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/13
+
+Cookies “_atuvc” y “_atuvs”, del dominio ***URL.1, descargadas en ambas
+fechas.
+Cookies “loc” y “uvc”, del dominio addthis.com, descargadas con fecha 13 de
+febrero de 2019.
+QUINTO: Con fecha 10 de abril de 2019 el reclamado presentó ante la AEPD
+impresión de los textos informativos redactados a fin de adecuar las páginas web de
+su titularidad a las exigencias contempladas en el artículo 22.2 de la LSSI.
+SEXTO: Con fecha 2 de septiembre de 2019 se accede a la página web ***URL.1,
+comprobándose:
+
+
+Que continúan descargándose las cookies de compartición de redes sociales _atuvc
+y _atuvs, del dominio ***URL.1 y las cookies “loc” y“uvc” del dominio addthis.com
+tanto antes como después de haber navegado por la misma.
+
+
+
+Que al navegar por el apartado de “Contacto” de la página de inicio del sitio web se
+instala la cookie persistente de tercera parte “NID” del dominio google.com de
+preferencias y publicidad comportamental.
+SÉPTIMO: En la visita realizada con fecha 2 de septiembre de 2019 al sitio web
+***URL.1 titularidad del reclamado al acceder al mismo se comprueba:
+
+
+
+Que aparece el siguiente banner o “Aviso de Cookies” (primera capa): “Utilizamos
+cookies propias y de terceros para optimizar su visita y mejorar nuestros servicios
+mediante la personalización de nuestros contenidos y publicidad basándonos en el
+análisis de sus hábitos de navegación. Si continúa navegando sin modificar la
+configuración de su navegador, consideramos que acepta el uso. Más información en
+nuestra Política de Cookies.” El subrayado es de la AEPD, constituyendo un enlace
+que dirige a la “Política de Cookies” o segunda capa de información. Junto al avisto
+figura un botón con el texto “ACEPTAR”.
+Este aviso no informa sobre los siguientes aspectos: finalidades para las que
+se usarán las cookies de preferencias o personalización y las cookies de compartición
+de redes sociales que se ha constatado se instalan; No proporciona información
+genérica sobre los tipos de datos que se recopilarán y utilizarán para elaborar perfiles
+de los usuarios; Ausencia de información sobre el modo de configurar o rechazar el
+uso de las cookies. Además, la inclusión del botón “ACEPTAR” resulta incompatible
+con la modalidad “seguir navegando” que se ofrece en este caso.
+
+
+
+Que al acceder a la segunda capa de información o “Política de Cookies” se advierte
+que “En caso de utilizar nuestra web sin proceder a la desactivación de las cookies,
+manifiesta su consentimiento para que se instalen”. Dicho documento está integrado
+por los siguientes apartados: ¿Qué es una cookie? ; ¿Qué tipo de cookies utilizamos y
+para qué? Este apartado especifica que se usan cookies técnicas o indispensables
+para prestar los servicios y cookies publicitarias; ¿Son anónimas las cookies?; ¿Cómo
+puedo gestionar las cookies? En este último apartado se informa sobre la posibilidad
+de no recibir cookies, eliminarlas u obtener información sobre su fijación utilizando la
+configuración del navegador del usuario, para lo cual facilitan los enlaces que
+conducen a las herramientas proporcionadas por los navegadores Chrome, Explorer,
+Firefox y Safari.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/13
+
+En esta segunda capa no se proporciona información sobre el sistema de
+configuración habilitado para que los usuarios puedan gestionar la aceptación,
+revocación del consentimiento o rechazo de las cookies en forma granular, en el que
+las cookies deberían agruparse, como mínimo, por su finalidad e incluirse, además, un
+mecanismo para rechazar todas las cookies al emplearse la fórmula de “seguir
+navegando” como medio para obtener el consentimiento.
+No informa sobre el uso de cookies de tercera parte de publicidad
+comportamental, limitándose a señalar el uso de cookies publicitarias, de preferencias
+y de compartición de redes sociales que consta se utilizan. No aclara las finalidades
+para las que serán utilizados ese tipo de dispositivos por los terceros que las instalan y
+usan, a los que tampoco identifica. No señala el periodo de conservación de los datos
+para los diferentes fines para los que se utilizarán las cookies ni sobre la forma de
+revocar el consentimiento prestado.
+FUNDAMENTOS DE DERECHO
+I
+Es competente para resolver este procedimiento la Directora de la Agencia
+Española de Protección de Datos, de conformidad con lo dispuesto en el artículo 43.1,
+párrafo segundo, de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la
+Información y Comercio Electrónico.
+II
+El artículo 22.2 de la LSSI dispone: Los prestadores de servicios podrán
+utilizar dispositivos de almacenamiento y recuperación de datos en equipos terminales
+de los destinatarios, a condición de que los mismos hayan dado su consentimiento
+después de que se les haya facilitado información clara y completa sobre su
+utilización, en particular, sobre los fines del tratamiento de los datos, con arreglo a lo
+dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de
+carácter personal.
+Cuando sea técnicamente posible y eficaz, el consentimiento del destinatario
+para aceptar el tratamiento de los datos podrá facilitarse mediante el uso de los
+parámetros adecuados del navegador o de otras aplicaciones.
+Lo anterior no impedirá el posible almacenamiento o acceso de índole técnica
+al solo fin de efectuar la transmisión de una comunicación por una red de
+comunicaciones electrónicas o, en la medida que resulte estrictamente necesario,
+para la prestación de un servicio de la sociedad de la información expresamente
+solicitado por el destinatario.”
+El artículo 38.4.g) de la LSSI tipifica como infracción leve “Utilizar dispositivos
+de almacenamiento y recuperación de datos cuando no se hubiera facilitado la
+información u obtenido el consentimiento del destinatario del servicio en los términos
+exigidos por el artículo 22.2.”
+El citado artículo 22.2 de la LSSI extiende su alcance a todos los tipos de
+dispositivos de almacenamiento y recuperación de datos utilizados por los prestadores
+de servicios de la sociedad de la información en cualesquiera equipos terminales de
+los destinatarios de dichos servicios, lo que incluye no sólo las cookies, que son
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/13
+
+archivos o ficheros de uso generalizado que permiten almacenar datos en dichos
+equipos con diferentes finalidades, sino también cualquier otra tecnología similar
+utilizada para almacenar información o acceder a información almacenada en el
+equipo terminal.
+No hay que olvidar que en muchos casos los usuarios que utilizan los
+servicios de Internet desconocen que el acceso a los mismos puede conllevar la
+instalación de ficheros o archivos en sus equipos terminales, y que al ser
+recuperados con la información almacenada en los mismos permiten no sólo mejorar
+la navegación y prestar correctamente el servicio solicitado sino que también
+posibilitan, con las implicaciones para la privacidad de los usuarios que ello supone, la
+recogida actualizada y continuada de datos relacionados con sus equipos y perfiles
+de navegación, que posteriormente podrán ser utilizados por los responsables de los
+sitios web a los que se accede, o por los terceros, para analizar su comportamiento y
+para el envío de publicidad basada en el mismo o como medio para el desarrollo de
+otros productos y servicios concretos.
+Por lo tanto, para garantizar la utilización de tales dispositivos con fines
+legítimos y con el conocimiento de los usuarios afectados, que con mayor frecuencia
+recurren a Internet para la realización de sus actividades cotidianas, la regulación
+comunitaria y nacional establece la obtención de un consentimiento informado con el
+fin de asegurar que éstos puedan conocer del uso de sus datos y las finalidades para
+las que son utilizados.
+III
+El Anexo de la LSSI define en su apartado c) al prestador de servicios como
+la “persona física o jurídica que proporciona un servicio de la sociedad de la
+información”. Y por servicio de la sociedad de la información el apartado a) entiende
+“todo servicio prestado normalmente a título oneroso, a distancia, por vía electrónica y
+a petición individual del destinatario.
+El concepto de servicio de la sociedad de la información comprende también
+los servicios no remunerados por sus destinatarios, en la medida en que constituyan
+una actividad económica para el prestador de servicios.
+Son servicios de la sociedad de la información, entre otros y siempre que
+representen una actividad económica, los siguientes:
+1.º La contratación de bienes o servicios por vía electrónica.
+2.º La organización y gestión de subastas por medios electrónicos o de
+mercados y centros comerciales virtuales.
+3.º La gestión de compras en la red por grupos de personas.
+4.º El envío de comunicaciones comerciales.
+5.º El suministro de información por vía telemática.
+En el presente caso ha de considerarse Prestador de Servicios de la
+Sociedad de la Información a la Asociación PARAULA CENTRE DE SERVEIS
+LINGÜISTICS DE LES ILLES BALEARS, como titular de las página web ***URL.1
+objeto de análisis y por tanto situarla bajo las obligaciones y el régimen sancionador de
+la LSSI.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/13
+
+De acuerdo con la redacción del artículo 22.2 de la LSSI y el sentido legal de
+los conceptos empleados en el mismo, el prestador de servicios de la sociedad de la
+información podrá utilizar los referidos dispositivos para almacenar y recuperar
+datos del equipo terminal de una persona física o jurídica que utilice, sea o no por
+motivos profesionales, un servicio de la sociedad de la información, ello a condición
+de que el destinatario haya dado su consentimiento una vez que se le haya facilitado
+información clara y completa sobre su utilización.
+No obstante, y aunque pudieran afectar al tratamiento de datos en las
+comunicaciones electrónicas, el tercer párrafo del reseñado artículo introduce
+determinadas exenciones al cumplimiento de las exigencias fijadas en dicho
+precepto, siempre y cuando todas y cada una de las finalidades para las que se
+utilicen las cookies estén individualmente exentas del deber de informar y obtener el
+consentimiento sobre su uso.
+La primera exención requiere que la utilización de las cookies tenga como
+único fin permitir la comunicación entre el equipo del usuario y la red. La segunda
+exención requiere que la instalación de las cookies sea necesaria para la prestación
+de un servicio de la sociedad de la información expresamente solicitado por el
+usuario.
+IV
+La remisión efectuada en el mencionado artículo 22.2 de la LSSI a la Ley
+Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal,
+en lo relativo a los requisitos del consentimiento informado, en la actualidad se ha de
+interpretar como referida al Reglamento (UE) 2016/679 del Parlamento Europeo y del
+Consejo, de 27 de abril de 2016, General de Protección de Datos(RGPD), aplicable
+desde el 25 de mayo de 2018, y a la Ley Orgánica 3/2018, de 5 de diciembre, de
+Protección de Datos Personales y Garantía de los Derechos Digitales (LOPDGDD).
+El artículo 4.11) del RGPD define en como <<consentimiento del
+interesado>>: toda manifestación de voluntad libre, específica, informada e inequívoca
+por la que el interesado acepta, ya sea mediante una declaración o una clara acción
+afirmativa, el tratamiento de datos personales que le conciernen; >>.
+Por su parte, el artículo 6.1.a) del RGPD, bajó la rúbrica “Licitud del
+tratamiento”, establece que: “1. El tratamiento solo será lícito si se cumple al menos
+una de las siguientes condiciones:
+a) el interesado dio su consentimiento para el tratamiento de sus datos
+personales para uno o varios fines específicos;”
+Respecto de las “Condiciones para el consentimiento” el artículo 7 del RGPD
+determina que:
+“1. Cuando el tratamiento se base en el consentimiento del interesado, el
+responsable deberá ser capaz de demostrar que aquel consintió el tratamiento de sus
+datos personales.
+2. Si el consentimiento del interesado se da en el contexto de una declaración
+escrita que también se refiera a otros asuntos, la solicitud de consentimiento se
+presentará de tal forma que se distinga claramente de los demás asuntos, de forma
+inteligible y de fácil acceso y utilizando un lenguaje claro y sencillo. No será vinculante
+ninguna parte de la declaración que constituya infracción del presente Reglamento.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+8/13
+
+3. El interesado tendrá derecho a retirar su consentimiento en cualquier
+momento. La retirada del consentimiento no afectará a la licitud del tratamiento
+basada en el consentimiento previo a su retirada. Antes de dar su consentimiento, el
+interesado será informado de ello. Será tan fácil retirar el consentimiento como darlo.
+4. Al evaluar si el consentimiento se ha dado libremente, se tendrá en cuenta
+en la mayor medida posible el hecho de si, entre otras cosas, la ejecución de un
+contrato, incluida la prestación de un servicio, se supedita al consentimiento al
+tratamiento de datos personales que no son necesarios para la ejecución de dicho
+contrato.”
+El precepto anterior se conecta con lo indicado respecto del consentimiento en
+los Considerandos 32 y 42 del RGPD, en los que se señala:
+“(32) El consentimiento debe darse mediante un acto afirmativo claro que
+refleje una manifestación de voluntad libre, específica, informada, e inequívoca del
+interesado de aceptar el tratamiento de datos de carácter personal que le conciernen,
+como una declaración por escrito, inclusive por medios electrónicos, o una declaración
+verbal. Esto podría incluir marcar una casilla de un sitio web en internet, escoger
+parámetros técnicos para la utilización de servicios de la sociedad de la información, o
+cualquier otra declaración o conducta que indique claramente en este contexto que el
+interesado acepta la propuesta de tratamiento de sus datos personales. Por tanto, el
+silencio, las casillas ya marcadas o la inacción no deben constituir consentimiento. El
+consentimiento debe darse para todas las actividades de tratamiento realizadas con el
+mismo o los mismos fines. Cuando el tratamiento tenga varios fines, debe darse el
+consentimiento para todos ellos. Si el consentimiento del interesado se ha de dar a
+raíz de una solicitud por medios electrónicos, la solicitud ha de ser clara, concisa y no
+perturbar innecesariamente el uso del servicio para el que se presta.”
+“(42) Cuando el tratamiento se lleva a cabo con el consentimiento del
+interesado, el responsable del tratamiento debe ser capaz de demostrar que aquel ha
+dado su consentimiento a la operación de tratamiento. En particular en el contexto de
+una declaración por escrito efectuada sobre otro asunto, debe haber garantías de que
+el interesado es consciente del hecho de que da su consentimiento y de la medida en
+que lo hace. De acuerdo con la Directiva 93/13/CEE del Consejo, debe proporcionarse
+un modelo de declaración de consentimiento elaborado previamente por el
+responsable del tratamiento con una formulación inteligible y de fácil acceso que
+emplee un lenguaje claro y sencillo, y que no contenga cláusulas abusivas. Para que
+el consentimiento sea informado, el interesado debe conocer como mínimo la
+identidad del responsable del tratamiento y los fines del tratamiento a los cuales están
+destinados los datos personales. El consentimiento no debe considerarse libremente
+prestado cuando el interesado no goza de verdadera o libre elección o no puede
+denegar o retirar su consentimiento sin sufrir perjuicio alguno.”
+V
+En el presente supuesto, el prestador de servicios de la sociedad de la
+información ha utilizado un sistema de información por capas, de modo que la
+segunda capa complemente a la primera.
+En la primera capa debe mostrarse la información esencial sobre el uso de
+cookies, que, como mínimo, deberá reseñar: la identificación del editor responsable del
+sitio web, no siendo necesaria la denominación social y se desprende de forma
+evidente del propio sitio web; si son propias y/o de terceros, las finalidades de las
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+9/13
+
+cookies empleadas, modo en que el usuario puede prestar el consentimiento o
+rechazar su instalación y configurar su uso, advirtiendo, en su caso, de que si se
+realiza una determinada acción, se entenderá que acepta el uso de las cookies,
+existencia del derecho a revocar el consentimiento. Además, deberá incluir un enlace
+claramente visible a la segunda capa informativa, donde se incluirá una información
+más detallada.
+La información adicional y complementaria ofrecida en la segunda capa, que
+deberá encontrarse disponible en forma permanente en el sitio web o en la aplicación,
+deberá incluir la siguiente información: definición y función genérica de las cookies,
+los tipos de cookies utilizadas y su finalidad, período de conservación de los datos
+para los diferentes fines, forma de revocar el consentimiento ya prestado o eliminar
+las cookies enunciadas a través de las funcionalidades facilitadas por el editor
+( sistema de gestión o configuración de cookies habilitado) o el terminal o a través de
+las plataformas comunes que pudieran existir para esta finalidad. Si el sistema de
+gestión o configuración de las cookies del editor no permite evitar la utilización de las
+cookies de terceros una vez aceptadas por el usuario, se facilitará información sobre
+las herramientas proporcionadas por los principales navegadores y se advertirá que si
+el usuario acepta cookies de terceros, deberá eliminarlas desde las opciones del
+navegador.
+Finalmente, en esta segunda capa deberá ofrecerse información sobre la
+identificación de quien utiliza las cookies, esto es, si la información obtenida por las
+cookies es tratada solo por el editor y/o también por terceros con los que el editor haya
+contratado la prestación de un servicio para el cual se requiera el uso de cookies, con
+identificación de estos últimos.
+VI
+En el presente caso, a raíz de los accesos realizados a la página web
+***URL.1, se ha verificado la instalación de cookies no exentas del deber de informar
+en los equipos terminales de los usuarios que acceden al citado portal sin mediar el
+consentimiento previo e informado de los mismos para ello
+Así, a raíz de los accesos efectuados con fechas 4 de octubre de 2018 y 13 de
+febrero de 2019 se constata que, tan pronto como se accedía al reseñado sitio web,
+se instalaban las cookies de tercera parte de compartición de redes sociales “_atuvc” y
+“-atuvs” del dominio ***URL.1, descargándose además las cookies “loc” y“uvc” del
+dominio addthis.com con motivo del acceso practicado el 13 de febrero de 2019. El
+almacenamiento de dichas cookies se produce por el mero acceso al portal web, es
+decir, sin llevarse a cabo por los usuarios ningún tipo de acción afirmativa clara de
+aceptación para ello o navegación por la página web en cuestión.
+Por otra parte, en las fechas anteriormente indicadas el reclamado no ofrecía a
+los usuarios que visitaban el portal ningún tipo de información relativa al uso de
+cookies, no siendo hasta después de recibir la notificación del trámite de audiencia que
+se adoptaron medidas tendentes a subsanar la situación, consistentes en incluir en la
+citada página web un sistema de información por capas.
+Sin embargo, no obstante las modificaciones alegadas, en el acceso efectuado
+con fecha 2 de septiembre de 2019 se constata que continúan descargándose las
+cookies de compartición de redes sociales anteriormente descritas tan pronto como se
+accede al portal. Es decir, sin que los usuarios hayan navegado por el mismo y antes
+de tener la posibilidad de acceder a la información previa ofrecida sobre el uso de
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+10/13
+
+cookies, cuyo conocimiento resulta necesario para prestar un consentimiento libre e
+informado.
+Probado el almacenamiento de dichos dispositivos sin mediar el consentimiento
+previo e informado de los usuarios, conviene reseñar que con fecha 2 de septiembre
+de 2019 también se constata que la información actualmente ofrecida sobre el uso de
+cookies por el prestador de servicios responsable de la página web en cuestión no
+resulta, tampoco, clara ni completa, fundamentalmente, en lo que respecta a la
+tipología de los diferentes tipos de cookies utilizados y sus respectivas finalidades,
+además de lo que se refiere a la forma de permitir, revocar el consentimiento prestado
+o eliminar las cookies enunciadas.
+De este modo, en la primera capa informativa aparece el aviso transcrito en
+el Hecho Probado Séptimo, en el que no se informa sobre los siguientes aspectos:
+finalidades para las que se usarán las cookies de preferencias o personalización y las
+cookies de compartición de redes sociales que se ha constatado se instalan; Falta de
+información genérica sobre los tipos de datos que se recopilarán y utilizarán para
+elaborar perfiles de los usuarios, ya que se instala la cookie persistente de tercera
+parte de publicidad comportamental “NID” del dominio google.com; No informa sobre
+el modo de configurar o rechazar el uso de las cookies. Además, la inclusión del
+botón “ACEPTAR” resulta incompatible con la modalidad “seguir navegando” que se
+ofrece en este caso.
+En la segunda capa o “Política de Cookies”, se estima que la afirmación que
+figura al inicio de la misma, consistente en indicar que: “En caso de utilizar nuestra
+web sin proceder a la desactivación de las cookies, manifiesta su consentimiento para
+que se instalen”, es contraria a dispuesto en el artículo 22.2 de la LSSI, toda vez que
+las cookies no exentas del deber de informar no pueden utilizarse sin haberse
+obtenido previamente el consentimiento informado de los usuarios para cada una de
+las finalidades específicas para las que se pretenden usar.
+Igualmente, en la “Política de Cookies” ofrecida no se informa sobre el uso de
+cookies de tercera parte de preferencias, de compartición de redes sociales y de
+publicidad comportamental, limitándose a señalar el uso de cookies publicitarias. No
+aclara las finalidades para las que serán utilizados ese tipo de dispositivos por los
+terceros responsables que las instalan y usan, cuya identificación tampoco facilita.
+Asimismo, no se proporciona información sobre el sistema de configuración habilitado
+para que los usuarios puedan gestionar la aceptación, revocación del consentimiento o
+rechazo de las cookies en forma granular, por lo que las cookies deberían agruparse,
+como mínimo, por finalidades. En este caso, debería incluirse en dicho sistema un
+mecanismo o botón para rechazar todas las cookies al emplearse la fórmula de “seguir
+navegando” como medio para obtener el consentimiento. En esta línea, la información
+ofrecida sobre las herramientas proporcionadas por los navegadores Chrome,
+Explorer, Firefox y Safari resulta insuficiente para el fin pretendido de permitir
+configurar su aceptación o rechazo en forma granular. Tampoco se indica el periodo
+de conservación de los datos para los diferentes fines para los que se utilizarán las
+cookies ni sobre la forma de revocar el consentimiento prestado.
+A la vista de lo expresado, y teniendo en cuenta la definición de consentimiento
+recogida en el artículo 4.11 del RGPD, se estima que el consentimiento obtenido
+partiendo de la información ofrecida, además de no informar en forma previa clara y
+completa sobre todos los aspectos precisos para entenderlo válidamente prestado, no
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+11/13
+
+resulta específico ni inequívoco en relación con cada una de las finalidades para las
+que se usan las cookies descritas.
+En definitiva, los hechos descritos vulneran lo dispuesto en el artículo 22.2 de
+la LSSI, conducta que está tipificada como leve en el artículo 38.4.g) de la LSSI, que
+señala como tal: “Utilizar dispositivos de almacenamiento y recuperación de datos
+cuando no se hubiera facilitado la información u obtenido el consentimiento del
+destinatario del servicio en los términos exigidos por el artículo 22.2.”
+VII
+El artículo 39 bis de la LSSI, bajo el epígrafe “Moderación de las sanciones”,
+estipula en su apartado 2 lo siguiente:
+“2. Los órganos con competencia sancionadora, atendida la naturaleza de los
+hechos y la concurrencia significativa de los criterios establecidos en el apartado
+anterior, podrán acordar no iniciar la apertura del procedimiento sancionador y, en su
+lugar, apercibir al sujeto responsable, a fin de que en el plazo que el órgano
+sancionador determine, acredite la adopción de las medidas correctoras que, en cada
+caso, resulten pertinentes, siempre que concurran los siguientes presupuestos:
+a) Que los hechos fuesen constitutivos de infracción leve o grave conforme a lo
+dispuesto en esta Ley.
+b) Que el órgano competente no hubiese sancionado o apercibido con
+anterioridad al infractor como consecuencia de la comisión de infracciones previstas
+en esta Ley.
+Si el apercibimiento no fuera atendido en el plazo que el órgano sancionador
+hubiera determinado, procederá la apertura del correspondiente procedimiento
+sancionador por dicho incumplimiento.”
+Por su parte, el artículo 40 de la LSSI, en cuanto a la “Graduación de la cuantía
+de las sanciones.”, dispone:
+“La cuantía de las multas que se impongan se graduará atendiendo a los
+siguientes criterios:
+a) La existencia de intencionalidad.
+b) Plazo de tiempo durante el que se haya venido cometiendo la infracción.
+c) La reincidencia por comisión de infracciones de la misma naturaleza, cuando
+así haya sido declarado por resolución firme.
+d) La naturaleza y cuantía de los perjuicios causados.
+e) Los beneficios obtenidos por la infracción.
+f) Volumen de facturación a que afecte la infracción cometida.
+g) La adhesión a un código de conducta o a un sistema de autorregulación
+publicitaria aplicable respecto a la infracción cometida, que cumpla con lo dispuesto en
+el artículo 18 o en la disposición final octava y que haya sido informado
+favorablemente por el órgano u órganos competentes.”
+En el presente supuesto se cumplen los requisitos recogidos en las letras a) y
+b) del citado apartado 2 del artículo 39 bis. Junto a ello, se aprecia que concurre la
+circunstancia prevista en el artículo 39 bis, apartado 1.a), que dispone que “Cuando se
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+12/13
+
+aprecie una cualificada disminución de la culpabilidad del imputado o de la
+antijuridicidad del hecho como consecuencia de la concurrencia significativa de varios
+de los criterios enunciados en el artículo 40”, concurriendo en este caso los criterios
+d) y e) del citado precepto, por cuanto no hay constancia de la existencia de
+perjuicios causados ni de beneficios obtenidos a raíz de la comisión de la infracción
+descrita. Lo que permite apercibir al reclamado requiriéndole la adopción de medidas
+para la adecuación a la normativa citada en lugar de instruir un procedimiento
+sancionador al mismo
+De acuerdo con lo señalado,
+Por la Directora de la Agencia Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: APERCIBIR (A/00002/2019) a PARAULA. CENTRE DE SERVEIS
+LINGÜISTICS DE LES ILLES BALEARS, con arreglo a lo dispuesto en el artículo 39
+bis, apartado 2, de la LSSI, con relación a la reclamación por infracción del artículo
+22.2 de la LSSI, tipificada como leve en el artículo 38.4.g) de la citada norma.
+SEGUNDO: REQUERIR a PARAULA. CENTRE DE SERVEIS LINGÜISTICS DE LES
+ILLES BALEARS, de acuerdo con lo establecido en el apartado 2 del artículo 39 bis de
+la LSSI, para que en el plazo de UN MES desde la notificación de la presente
+resolución.
+2.1.- CUMPLA lo previsto en el artículo 22.2 de la LSSI, para lo que se insta a
+dicha entidad a adecuar la información ofrecida en el sitio web ***URL.1, del que es
+responsable, a las exigencias reseñadas en el mencionado precepto, procediendo, por
+tanto
+a tomar las medidas necesarias para impedir que se instalen cookies no
+exentas del deber de informar antes de haber obtenido el consentimiento previo, libre,
+específico e informado de los usuarios del portal. Asimismo, deberá incluir en cada
+uno de los niveles del sistema de información por capas utilizado la información que
+resulte necesaria para subsanar las carencias señaladas y analizadas en el
+Fundamento de Derecho VI, o, las que proceda para su actualización en caso de que
+se modifiquen los tipos de cookies a utilizar .
+2.2.- INFORME a la Agencia Española de Protección de Datos del
+cumplimiento de lo requerido, aportando en el plazo indicado los documentos o medios
+de prueba que acrediten dicha circunstancia
+TERCERO: NOTIFICAR el presente Acuerdo a PARAULA. CENTRE DE SERVEIS
+LINGÜISTICS DE LES ILLES BALEARS, con CIF G57027534.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa (artículo 48.6 de la
+LOPDGDD), y de conformidad con lo establecido en los artículos 112 y 123 de la Ley
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, los interesados podrán interponer, potestativamente,
+recurso de reposición ante la Directora de la Agencia Española de Protección de Datos
+en el plazo de un mes a contar desde el día siguiente a la notificación de esta
+resolución, o, directamente recurso contencioso administrativo ante la Sala de lo
+Contencioso-administrativo de la Audiencia Nacional, con arreglo a lo dispuesto en el
+artículo 25 y en el apartado 5 de la disposición adicional cuarta de la Ley 29/1998, de
+13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa, en el plazo de
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+13/13
+
+dos meses a contar desde el día siguiente a la notificación de esta acto, según lo
+previsto en el artículo 46.1 del referido texto legal.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

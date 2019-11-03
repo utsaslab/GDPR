@@ -1,0 +1,346 @@
+1/7
+
+936-150719
+
+Procedimiento Nº: PS/00300/2019
+RESOLUCIÓN R/00499/2019 DE TERMINACIÓN DEL PROCEDIMIENTO POR PAGO
+VOLUNTARIO
+En el procedimiento sancionador PS/00300/2019, instruido por la Agencia
+Española de Protección de Datos a VUELING AIRLINES, S.L., vista la denuncia
+presentada por A.A.A., y en base a los siguientes,
+ANTECEDENTES
+PRIMERO: Con fecha 6 de septiembre de 2019, la Directora de la Agencia Española
+de Protección de Datos acordó iniciar procedimiento sancionador a VUELING
+AIRLINES, S.L. (en adelante, el reclamado), mediante el Acuerdo que se transcribe:
+<<
+Procedimiento Nº: PS/00300/2019
+166-240719
+
+ACUERDO DE INICIO DE PROCEDIMIENTO SANCIONADOR
+De las actuaciones practicadas por la Agencia Española de Protección de Datos ante
+la entidad, VUELING AIRLINES, S.L con NIF A63422141 (en adelante, “la entidad
+reclamada), en virtud de denuncia presentada por D. A.A.A. (en adelante, “el
+reclamante”) y teniendo como base los siguientes:
+HECHOS
+PRIMERO: Con fecha 04/01/19 y 08/01/19, tuvo entrada en esta Agencia sendos
+escritos, presentados por el reclamante, en el que exponía, entre otras, lo siguiente:
+“Como cliente y usuario de la Web de Vueling (***URL.1) indicarles que, en el
+tratamiento de cookies no permiten al usuario utilizar las cookies estrictamente
+necesarias, y además huelga una acción afirmativa y positiva que no se pueda
+malinterpretar para el consentimiento y lo asumen simplemente al visitar su página
+web. Además, he solicitado información sobre la innumerable lista de servicios de
+terceros que se cargan en dicha web, comprometiendo datos personales como la IP“.
+SEGUNDO: Con fecha 30/01/19, a la vista de los hechos expuestos en la reclamación
+y de los documentos aportados por el reclamante, la Subdirección General de
+Inspección de Datos procedió a realizar actuaciones para su esclarecimiento, al
+amparo de los poderes de investigación otorgados a las autoridades de control en el
+artículo 57.1 del Reglamento (UE) 2016/679 (Reglamento General de Protección de
+Datos, (RGPD), se dirige un requerimiento informativo a la entidad reclamada.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/7
+
+TERCERO: Con fecha 01/03/19, la entidad reclamada, remite a esta Agencia, entre
+otras, la siguiente información y documentación:
+“1.- El reclamante, el 6 de junio de 2018, ejerció su derecho de acceso mediante
+burofax dirigido al domicilio social de Vueling. Su petición de derecho de acceso fue
+respondida formalmente. Se acompaña este escrito de una copia de la respuesta
+enviada, (Documento 2). El 2 de enero de 2019, el reclamante volvió a ejercer su
+derecho de acceso. Se adjunta copia del mismo, (Documento 3). La segunda petición
+del reclamante fue respondida el día 1 de febrero de 2019. El día 21 de febrero de
+2019, el reclamante volvió a remitir una petición de acceso. Se adjunta copia,
+(Documento 6) y copia de la respuesta, (Documento 7).
+2º.- Se está actualmente implementando un mecanismo que permita a los usuarios
+seleccionar los tipos de cookies que desean que se instalen en sus dispositivos.
+Debemos resaltar que no todas las cookies precisan del consentimiento del usuario,
+ya que algunas son necesarias para tramitar el proceso de compra de billetes y el
+acceso a zonas restringidas de la web”.
+CUARTO: Con fechas 02/04/19 y 26/08/19, los Servicios de Inspección de la Agencia
+Española de Protección de datos, practican diligencias de investigación, teniendo
+conocimiento de lo siguiente:
+Al acceder por Internet a la página URL:***URL.1, se constata, entre otra, la siguiente
+información sobre cookies:
+A).- Primera Capa: El aviso de cookies tiene el siguiente contenido: <<Utilizamos
+cookies para recordar tus preferencias, elaborar estadísticas de uso y ofrecerte
+publicidad basada en tus hábitos de navegación. Si continúas navegando,
+consideramos que aceptas su uso. Puedes obtener más información al respecto
+consultando nuestra Política de Cookies>>. El banner posee un enlace a la segunda
+capa: “Política de cookies” y la opción de, “Aceptar y continuar navegando”.
+B.- Segunda Capa - “Política de Cookies”: La política de cookies accesible en la URL,
+***URL.2, a través del mencionado aviso de cookies de primera capa y a través
+también, desde un enlace en la parte inferior de la página web, se informa sobre la
+“Política de Cookies”; ¿Qué son las cookies? y Qué cookies usan. También se
+comunica que Vueling puede utilizar por sí mismo o a través de terceras webs:
+beacons, Pixel tags y Local storage, para realizar evaluaciones y cálculos estadísticos
+sobre datos anónimos, así como para garantizar la continuidad del servicio o para
+realizar mejoras en sus sitios Web. Indica que, “dicha información no será utilizada
+para ninguna otra finalidad”. También informa que, “puede utilizar cookies de análisis
+de terceros”.
+Sobre la Gestión de Cookies, se indica, que: “se puede configurar el navegador para
+aceptar o rechazar por defecto todas las cookies o para recibir un aviso en pantalla de
+la recepción de cada cookie y decidir en ese momento su implantación o no en su
+disco duro. También puede utilizar herramientas de bloqueo de cookies de rastreo del
+tipo “do not track”. Asimismo, se notifica que, “se puede revocar en cualquier momento
+el consentimiento prestado para la utilización de cookies por parte de Vueling,
+configurando para ello el navegador y que se puede ajustar la configuración del
+navegador para evitar que se instalen cookies de sitios web o de terceros en general”
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/7
+
+CUARTO: A la vista de los hechos denunciados, de conformidad con las evidencias de
+que se dispone, la Inspección de Datos de esta Agencia, considera que la actuación
+de la entidad reclamada no cumple las condiciones que impone la normativa en vigor,
+con respecto a la utilización de cookies, en las página web www.vueling.com, por lo
+que procede la apertura del presente procedimiento sancionador.
+FUNDAMENTOS DE DERECHO
+I
+De conformidad con lo establecido en el art. 43.1, párrafo segundo, de la de la Ley
+34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio
+Electrónico (LSSI), es competente para iniciar y resolver este Procedimiento
+Sancionador, la Directora de la Agencia Española de Protección de Datos.
+II
+En el presente caso, si se accede a la segunda capa, el consentimiento a que se
+cedan datos a terceros a través de cookies es implícito, ya que en ningún momento da
+la opción de poder oponerse a la instalación de estas en el dispositivo o de cualquier
+otra cookies, sino que remite a la configuración de los navegadores para eliminarlas o
+bloquearlas, no ofreciendo la posibilidad de denegar el consentimiento para el uso de
+cookies o de retirar el prestado, si no es a través de las opciones del navegador.
+No facilita un sistema de gestión o panel de configuración de cookies que permita al
+usuario eliminarlas de forma granular. Para facilitar esta selección el panel podrá
+habilitar un mecanismo o botón para rechazar todas las cookies, otro para habilitar
+todas las cookies o hacerlo de forma granular para poder administrar preferencias. A
+este respecto se considera que la información ofrecida sobre las herramientas
+proporcionadas por varios navegadores para configurar las cookies sería
+complementaria a la anterior, pero insuficiente para el fin pretendido de permitir
+configurar las preferencias en forma granular o selectiva.
+III
+Los hechos expuestos podrían suponer por parte de la entidad reclamada la comisión
+de la infracción del artículo 22.2 de la LSSI, según el cual: “Los prestadores de
+servicios podrán utilizar dispositivos de almacenamiento y recuperación de datos en
+equipos terminales de los destinatarios, a condición de que los mismos hayan dado su
+consentimiento después de que se les haya facilitado información clara y completa
+sobre su utilización, en particular, sobre los fines del tratamiento de los datos, con
+arreglo a lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de protección
+de datos de carácter personal.
+Cuando sea técnicamente posible y eficaz, el consentimiento del destinatario para
+aceptar el tratamiento de los datos podrá facilitarse mediante el uso de los parámetros
+adecuados del navegador o de otras aplicaciones.
+Lo anterior no impedirá el posible almacenamiento o acceso de índole técnica al solo
+fin de efectuar la transmisión de una comunicación por una red de comunicaciones
+electrónicas o, en la medida que resulte estrictamente necesario, para la prestación de
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/7
+
+un servicio de la sociedad de la información expresamente solicitado por el
+destinatario.
+Esta Infracción estas tipificada como leve en el artículo 38.4 g), de la citada Ley, que
+considera como tal: “Utilizar dispositivos de almacenamiento y recuperación de datos
+cuando no se hubiera facilitado la información u obtenido el consentimiento del
+destinatario del servicio en los términos exigidos por el artículo 22.2.”, pudiendo ser
+sancionada con multa de hasta 30.000 €, de acuerdo con el artículo 39 de la citada
+LSSI.
+III
+Tras las evidencias obtenidas en la fase de investigaciones previas, y sin perjuicio de
+lo que resulte de la instrucción, se considera que procede graduar la sanción a
+imponer en la cuantía de 30.000 euros de acuerdo con los siguientes criterios que
+establece el art. 40 de la LSSI:
+-
+
+-
+
+La existencia de intencionalidad, expresión que ha de interpretarse como
+equivalente a grado de culpabilidad de acuerdo con la Sentencia de la
+Audiencia Nacional de 12/11/2007 recaída en el Recurso núm. 351/2006,
+correspondiendo a la entidad denunciada la determinación de un sistema de
+obtención del consentimiento informado que se adecue al mandato de la LSSI.
+Plazo de tiempo durante el que ha venido cometiendo la infracción, al ser la
+reclamación de enero de 2019, (apartado b)
+La naturaleza y cuantía de los perjuicios causados, con relación al volumen de
+usuarios a los que afecta la infracción, (apartado d).
+Los beneficios obtenidos por la infracción, con relación al volumen de usuarios
+a los que afecta la infracción, (apartado e)
+Volumen de facturación de la compañía reclamada, (apartado f).
+
+Con arreglo a dichos criterios, se estima adecuado imponer a la entidad reclamada
+una sanción de 30.000 euros (treinta mil euros).
+Por lo tanto, a tenor de lo anteriormente expuesto, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+INICIAR: PROCEDIMIENTO SANCIONADOR a VUELING AIRLINES, S.L con NIF
+A63422141 con arreglo a lo dispuesto en los artículos 63 y 64 de la Ley 39/2015, de 1
+de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
+(en adelante, LPACAP), por la presunta infracción del artículo 22.2 de la LSSI,
+tipificada como leve en el artículo 38.4.g) de la LSSI.
+NOMBRAR: instructor D. B.B.B. y, como secretaria, a Dª C.C.C., indicando que
+cualquiera de ellos podrá ser recusado, en su caso, conforme a lo establecido en los
+artículos 23 y 24 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector
+Público (LRJSP).
+INCORPORAR: al expediente sancionador, a efectos probatorios, la reclamación
+interpuesta por el reclamante y su documentación, los documentos obtenidos y
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/7
+
+generados por la Subdirección General de Inspección de Datos durante la fase de
+investigaciones.
+QUE: a los efectos previstos en el art. 64.2 b) de la ley 39/2015, de 1 de octubre, del
+Procedimiento Administrativo Común de las Administraciones Públicas, la sanción que
+pudiera corresponder sería de multa de 30.000 euros (treinta mil euros), sin perjuicio
+de lo que resulte de la instrucción.
+NOTIFICAR: el presente acuerdo a la entidad VUELING AIRLINES, S.L, otorgándole
+un plazo de audiencia de diez días hábiles para que formule las alegaciones y
+presente las pruebas que considere convenientes.
+Si en el plazo estipulado no efectuara alegaciones a este acuerdo de inicio, el mismo
+podrá ser considerado propuesta de resolución, según lo establecido en el artículo
+64.2.f) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de
+las Administraciones Públicas (en lo sucesivo, LPACAP).
+De conformidad con lo dispuesto en el artículo 85 de la LPACAP, en caso de que la
+sanción a imponer fuese de multa, podrá reconocer su responsabilidad dentro del
+plazo otorgado para la formulación de alegaciones al presente acuerdo de inicio; lo
+que llevará aparejada una reducción de un 20% de la sanción que proceda imponer en
+el presente procedimiento, equivalente en este caso a 6.000 euros. Con la aplicación
+de esta reducción, la sanción quedaría establecida en 24.000 euros, resolviéndose el
+procedimiento con la imposición de esta sanción.
+Del mismo modo podrá, en cualquier momento anterior a la resolución del presente
+procedimiento, llevar a cabo el pago voluntario de la sanción propuesta, lo que
+supondrá una reducción de un 20% del importe de la misma, equivalente en este caso
+a 6.000 euros. Con la aplicación de esta reducción, la sanción quedaría establecida en
+24.000 euros y su pago implicará la terminación del procedimiento.
+La reducción por el pago voluntario de la sanción es acumulable a la que corresponde
+aplicar por el reconocimiento de la responsabilidad, siempre que este reconocimiento
+de la responsabilidad se ponga de manifiesto dentro del plazo concedido para formular
+alegaciones a la apertura del procedimiento. El pago voluntario de la cantidad referida
+en el párrafo anterior podrá hacerse en cualquier momento anterior a la resolución. En
+este caso, si procediera aplicar ambas reducciones, el importe de la sanción quedaría
+establecido en 18.000 euros (diez y ocho mil euros).
+En todo caso, la efectividad de cualquiera de las dos reducciones mencionadas estará
+condicionada al desistimiento o renuncia de cualquier acción o recurso en vía
+administrativa contra la sanción.
+Si se optara por proceder al pago voluntario de cualquiera de las cantidades señaladas
+anteriormente, deberá hacerlo efectivo mediante su ingreso en la cuenta nº ES00
+0000 0000 0000 0000 abierta a nombre de la Agencia Española de Protección de
+Datos en el Banco CAIXABANK, S.A., indicando en el concepto el número de
+referencia del procedimiento que figura en el encabezamiento de este documento y la
+causa de reducción del importe a la que se acoge.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/7
+
+Asimismo, deberá enviar el justificante del ingreso a la Subdirección General de
+Inspección para continuar con el procedimiento en concordancia con la cantidad
+ingresada.
+El procedimiento tendrá una duración máxima de nueve meses a contar desde la
+fecha del acuerdo de inicio o, en su caso, del proyecto de acuerdo de inicio.
+Transcurrido ese plazo se producirá su caducidad y, en consecuencia, el archivo de
+actuaciones; de conformidad con lo establecido en el artículo 64 de la LOPDGDD.
+Por último, se señala que conforme a lo establecido en el artículo 112.1 de la LPACAP,
+contra el presente acto no cabe recurso administrativo alguno.
+
+Pedro Colmenares Soto
+Subdirector General de Inspección de Datos
+
+>>
+SEGUNDO: En fecha 24 de septiembre de 2019, el reclamado ha procedido al pago
+de la sanción en la cuantía de 18.000 euros haciendo uso de las dos reducciones
+previstas en el Acuerdo de inicio transcrito anteriormente, lo que implica el
+reconocimiento de la responsabilidad.
+TERCERO: El pago realizado, dentro del plazo concedido para formular alegaciones a
+la apertura del procedimiento, conlleva la renuncia a cualquier acción o recurso en vía
+administrativa contra la sanción y el reconocimiento de responsabilidad en relación con
+los hechos a los que se refiere el Acuerdo de Inicio.
+FUNDAMENTOS DE DERECHO
+I
+En virtud de los poderes que el artículo 58.2 del RGPD reconoce a cada autoridad de
+control, y según lo establecido en el art. 47 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales (en
+lo sucesivo LOPDGDD), la Directora de la Agencia Española de Protección de Datos
+es competente para sancionar las infracciones que se cometan contra dicho
+Reglamento; las infracciones del artículo 48 de la Ley 9/2014, de 9 de mayo, General
+de Telecomunicaciones (en lo sucesivo LGT), de conformidad con lo dispuesto en el
+artículo 84.3 de la LGT, y las infracciones tipificadas en los artículos 38.3 c), d) e i) y
+38.4 d), g) y h) de la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la
+información y de comercio electrónico (en lo sucesivo LSSI), según dispone el artículo
+43.1 de dicha Ley.
+II
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/7
+
+El artículo 85 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas (en lo sucesivo, LPACAP), bajo la rúbrica
+“Terminación en los procedimientos sancionadores” dispone lo siguiente:
+“1. Iniciado un procedimiento sancionador, si el infractor reconoce su
+responsabilidad, se podrá resolver el procedimiento con la imposición de la sanción
+que proceda.
+2. Cuando la sanción tenga únicamente carácter pecuniario o bien quepa
+imponer una sanción pecuniaria y otra de carácter no pecuniario pero se ha justificado
+la improcedencia de la segunda, el pago voluntario por el presunto responsable, en
+cualquier momento anterior a la resolución, implicará la terminación del procedimiento,
+salvo en lo relativo a la reposición de la situación alterada o a la determinación de la
+indemnización por los daños y perjuicios causados por la comisión de la infracción.
+3. En ambos casos, cuando la sanción tenga únicamente carácter pecuniario,
+el órgano competente para resolver el procedimiento aplicará reducciones de, al
+menos, el 20 % sobre el importe de la sanción propuesta, siendo éstos acumulables
+entre sí. Las citadas reducciones, deberán estar determinadas en la notificación de
+iniciación del procedimiento y su efectividad estará condicionada al desistimiento o
+renuncia de cualquier acción o recurso en vía administrativa contra la sanción.
+El porcentaje de reducción previsto en este apartado podrá ser incrementado
+reglamentariamente.
+De acuerdo con lo señalado,
+la Directora de la Agencia Española de Protección de Datos RESUELVE:
+PRIMERO: DECLARAR la terminación del procedimiento PS/00300/2019, de
+conformidad con lo establecido en el artículo 85 de la LPACAP.
+SEGUNDO: NOTIFICAR la presente resolución a VUELING AIRLINES, S.L..
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la presente
+Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo preceptuado por
+el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas, los interesados podrán interponer recurso
+contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

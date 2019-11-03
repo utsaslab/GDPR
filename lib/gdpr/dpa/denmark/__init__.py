@@ -51,7 +51,7 @@ class Denmark(DPA):
                     continue
 
                 link = "/tilsyn-og-afgoerelser/afgoerelser/?year={year}&month={month}".format(year=year, month=month)
-                pagination.add_link(link)
+                pagination.add_item(link)
 
         while(pagination.has_next()):
             page_ref = pagination.get_next()

@@ -1,0 +1,217 @@
+1/5
+
+Expediente Nº: E/08519/2019
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos
+ante la entidad VODAFONE ESPAÑA, S.A.U. en virtud de denuncia presentada por
+A.A.A., y teniendo como base los siguientes
+
+HECHOS
+PRIMERO: Con fecha 23 de mayo de 2019, tuvo entrada en esta Agencia escrito de
+A.A.A., (en lo sucesivo el reclamante) contra VODAFONE ESPAÑA, S.A.U. (en lo
+sucesivo el reclamado) en el que manifiesta que es titular de la línea ***TELÉFONO.1, y
+que está recibiendo llamadas comerciales en esta línea del reclamado desde la línea
+telefónica 912303310, pese a señalarles su oposición y que está registrado en la Lista
+Robinson.
+SEGUNDO: A la vista de los hechos denunciados en la reclamación y de los documentos
+
+aportados por el reclamante, la Subdirección General de Inspección de Datos procedió a la
+realización de actuaciones previas de investigación para el esclarecimiento de los hechos
+en cuestión, en virtud de los poderes de investigación otorgados a las autoridades de
+control en el artículo 57.1 del Reglamento (UE) 2016/679 (Reglamento General de
+Protección de Datos, en adelante RGPD), y de conformidad con lo establecido en el Título
+VII, Capítulo I, Sección segunda, de la Ley Orgánica 3/2018, de 5 de diciembre, de
+Protección de Datos Personales y garantía de los derechos digitales (en lo sucesivo
+LOPDGDD).
+Como resultado de las actuaciones de investigación practicadas, se constata que el
+responsable del tratamiento es el reclamado.
+Asimismo, se constatan los siguientes extremos:
+Se pone en conocimiento del reclamado la presente reclamación el ***FECHA.1, y se le
+requiere que exponga las causas que han motivado la incidencia que ha dado lugar a la
+presente reclamación, que aporte la documentación acreditativa de las medidas adoptadas
+para solucionar la incidencia y para evitar que se produzcan nuevas incidencias como la
+expuesta, fecha de implantación de esas medidas y análisis de la eficacia de dichas
+medidas.
+En respuesta a dicho requerimiento, el 28 de agosto de 2019, la entidad reclamada
+manifiesta que no consta incluido el número de teléfono indicado en ninguna de sus
+campañas publicitarias, pero que el número emisor indicado pertenece a uno de sus
+colaboradores para realizar llamadas de captación, llamado CASMAR.
+En este sentido, manifiesta que estos colaboradores no tratan las bases de datos
+facilitadas por VODAFONE, sino que utilizan sus propias bases de datos.
+Para corregir esto, ha procedido a la implantación de las siguientes medidas:
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/5
+
+
+
+Obligar a todos sus colaboradores a que emitan llamadas desde numeraciones de
+VODAFONE, para poder filtrar con las listas Robinson las bases de datos de
+destinatarios de la campaña.
+
+
+
+Realizar un desarrollo para que el proveedor pueda cotejar antes de la carga de la
+venta en los sistemas, que ha habido una llamada de un número autorizado de la
+agencia al cliente potencial. De esta manera, no podría darse el caso de que
+llegaran ventas para cargar en nuestros sistemas, que provengan de llamadas que
+no se han hecho desde las numeraciones de VODAFONE. Así se puede asegurar
+que todo el tráfico está controlado y que cumple con los requisitos dictados por
+VODAFONE.
+
+La entidad reclamada concluye, que no se ha podido dirigir por escrito al reclamante
+informándole de las gestiones realizadas para solucionar su reclamación, puesto que se
+desconoce dirección postal de contacto a la que dirigirse.
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la Ley
+Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los
+derechos digitales (en lo sucesivo LOPDGDD), es competente para resolver estas
+actuaciones de investigación la Directora de la Agencia Española de Protección de Datos.
+II
+De conformidad con lo establecido en el artículo 55 del RGPD, la Agencia
+Española de Protección de Datos es competente para desempeñar las funciones que se le
+asignan en su artículo 57, entre ellas, la de hacer aplicar el Reglamento y promover la
+sensibilización de los responsables y los encargados del tratamiento acerca de las
+obligaciones que les incumben, así como tratar las reclamaciones presentadas por un
+interesado e investigar el motivo de estas.
+Corresponde, asimismo, a la Agencia Española de Protección de Datos ejercer los
+poderes de investigación regulados en el artículo 58.1 del RGPD, entre los que figura la
+facultad de ordenar al responsable y al encargado del tratamiento que faciliten cualquier
+información que requiera para el desempeño de sus funciones.
+Correlativamente, el artículo 31 del RGPD establece la obligación de los
+responsables y encargados del tratamiento de cooperar con la autoridad de control que lo
+solicite en el desempeño de sus funciones. Para el caso de que éstos hayan designado un
+delegado de protección de datos, el artículo 39 del RGPD atribuye a éste la función de
+cooperar con dicha autoridad.
+Del mismo modo, el ordenamiento jurídico interno también prevé la posibilidad de
+abrir un período de información o actuaciones previas. En este sentido, el artículo 55 de la
+Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/5
+
+Administraciones Públicas, otorga esta facultad al órgano competente con el fin de conocer
+las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento.
+III
+La Ley 9/2014, de 9 de mayo, General de Telecomunicaciones (en lo sucesivo,
+LGT) se ocupa en el Título III, Capítulo V, de los “Derechos de los usuarios finales” y les
+otorga, entre otros, el derecho a oponerse a las llamadas no deseadas con fines
+comerciales.
+Así, el artículo 48 de la LGT, bajo la rúbrica “Derecho a la protección de datos
+personales y la privacidad en relación con las comunicaciones no solicitadas”, dispone, en
+su apartado 1, lo siguiente:
+“1. Respecto a la protección de datos personales y la privacidad en relación con
+las comunicaciones no solicitadas los usuarios finales de los servicios de comunicaciones
+electrónicas tendrán los siguientes derechos:
+
+a
+
+A no recibir llamadas automáticas sin intervención humana o mensajes de fax, con fines
+de comunicación comercial sin haber prestado su consentimiento previo e informado para
+ello.
+
+a) A oponerse a recibir llamadas no deseadas con fines de comunicación comercial que se
+efectúen mediante sistemas distintos de los establecidos en la letra anterior y a ser
+informado de este derecho.” (El subrayado es de la Agencia Española de Protección de
+Datos)
+IV
+En la presente denuncia el reclamante manifiesta que pese a encontrarse
+apuntado en la lista Robinson de la reclamada, y después de ejercer su derecho de
+oposición ante la misma, sigue llamándole a su teléfono fijo con ofertas publicitarias.
+En este sentido hay que señalar que el contenido y las condiciones para el ejercicio
+del derecho de oposición se regula en el artículo 21 del RGPD que establece que:
+“1. El interesado tendrá derecho a oponerse en cualquier momento, por motivos
+relacionados con su situación particular, a que datos personales que le conciernan sean
+objeto de un tratamiento basado en lo dispuesto en el artículo 6, apartado 1, letras e) o f),
+incluida la elaboración de perfiles sobre la base de dichas disposiciones. El responsable
+del tratamiento dejará de tratar los datos personales, salvo que acredite motivos legítimos
+imperiosos para el tratamiento que prevalezcan sobre los intereses, los derechos y las
+libertades del interesado, o para la formulación, el ejercicio o la defensa de reclamaciones.
+2. Cuando el tratamiento de datos personales tenga por objeto la mercadotecnia
+directa, el interesado tendrá derecho a oponerse en todo momento al tratamiento de los
+datos personales que le conciernan, incluida la elaboración de perfiles en la medida en
+que esté relacionada con la citada mercadotecnia.
+3. Cuando el interesado se oponga al tratamiento con fines de mercadotecnia
+directa, los datos personales dejarán de ser tratados para dichos fines.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/5
+
+4. A más tardar en el momento de la primera comunicación con el interesado, el
+derecho indicado en los apartados 1 y 2 será mencionado explícitamente al interesado y
+será presentado claramente y al margen de cualquier otra información.
+5. En el contexto de la utilización de servicios de la sociedad de la información, y
+no obstante lo dispuesto en la Directiva 2002/58/CE, el interesado podrá ejercer su
+derecho a oponerse por medios automatizados que apliquen especificaciones técnicas.
+6. Cuando los datos personales se traten con fines de investigación científica o
+histórica o fines estadísticos de conformidad con el artículo 89, apartado 1, el interesado
+tendrá derecho, por motivos relacionados con su situación particular, a oponerse al
+tratamiento de datos personales que le conciernan, salvo que sea necesario para el
+cumplimiento de una misión realizada por razones de interés público.”
+V
+A través de las actuaciones realizadas por esta Agencia, se ha tenido conocimiento
+de que las llamadas recibidas las ha realizado un colaborador de la entidad reclamada,
+llamado CASMAR.
+Para corregir esto, la reclamada ha obligado a todos sus colaboradores a que
+emitan llamadas desde numeraciones de VODAFONE, para poder filtrar con las listas
+Robinson las bases de datos de destinatarios de las campañas publicitarias, y realizar un
+desarrollo para que el proveedor pueda cotejar antes de la carga de la venta en los
+sistemas, que ha habido una llamada de un número autorizado de la agencia al cliente
+potencial.
+La entidad reclamada concluye que hubiese querido comunicarle tales actuaciones
+al reclamante, pero no ha podido, puesto que desconoce una dirección de contacto a la
+que dirigirse.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia Española
+de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente Resolución al reclamante e INFORMAR de ella al
+responsable del tratamiento.
+Contra esta resolución, que pone fin a la vía administrativa según lo preceptuado
+por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas, y de conformidad con lo establecido en los arts.
+112 y 123 de la citada Ley 39/2015, de 1 de octubre, los interesados podrán interponer,
+potestativamente, recurso de reposición ante la Directora de la Agencia Española de
+Protección de Datos en el plazo de un mes a contar desde el día siguiente a la notificación
+de esta resolución o directamente recurso contencioso administrativo ante la Sala de lo
+Contencioso-administrativo de la Audiencia Nacional, con arreglo a lo dispuesto en el
+artículo 25 y en el apartado 5 de la disposición adicional cuarta de la Ley 29/1998, de 13
+de julio, reguladora de la Jurisdicción Contencioso-Administrativa, en el plazo de dos
+meses a contar desde el día siguiente a la notificación de este acto, según lo previsto en el
+artículo 46.1 de la referida Ley.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/5
+
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

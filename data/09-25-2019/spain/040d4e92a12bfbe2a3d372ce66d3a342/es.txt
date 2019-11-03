@@ -1,0 +1,479 @@
+1/10
+
+Procedimiento nº.: E/05443/2018
+ASUNTO: Recurso de Reposición Nº RR/00551/2019
+181-150719
+Examinado el recurso de reposición interpuesto por SATINEL SYSTEM SL contra la
+resolución de archivo dictada por la Directora de la Agencia Española de Protección de
+Datos en el expediente de actuaciones previas de inspección E/05443/2018, y en base a
+los siguientes
+HECHOS
+PRIMERO: Con fecha 24/06/2019, se dictó resolución por la Directora de la Agencia
+Española de Protección de Datos en el expediente de actuaciones previas de inspección
+E/05443/2018, procediéndose al archivo de actuaciones.
+Dicha resolución, fue notificada al recurrente en fecha 25/06/2019 según aviso de
+recibo que figura en el expediente.
+SEGUNDO: SATINEL SYSTEM SL (en lo sucesivo la recurrente) ha presentado en esta
+Agencia, en fecha 25/07/2019, recurso de reposición, fundamentándolo básicamente en:
+1)
+Contra la denominación que se le atribuye en la resolución de “reclamante”, cuando
+ostenta la condición de encargado de tratamiento por cuenta del responsable, de
+conformidad con los artículos 33 y 28.10 del RGPD, y que actuó en dicho papel notificando
+una quiebra de seguridad prevista en el citado RGPD. Se produjo un acceso no autorizado
+a los datos que fue verificado por ellos.
+2)
+Del acuerdo se desprende que los profesionales de la CLINICA ASTARTÉ son los
+responsables de los datos de los pacientes que atienden y nunca convinieron compartir
+sus datos, si bien considera que por operativa practica decidieran crear una base de datos
+conjunta, pero “dicha circunstancia no altera en nada el régimen de responsabilidades”. En
+el RGPD esta se configura para los responsables de tratamiento de datos de los
+pacientes vinculados por la asistencia prestada por cada uno de ellos. Los distintos
+profesionales médicos que componen CLINICA ASTARTÉ han designado a distintos
+delegados de protección de datos. Considera en base a ello que cada profesional médico
+es responsable del tratamiento de sus datos.
+3)
+ALC sostiene en el procedimiento archivado que todos y cada uno de los
+profesionales volcaban la información de sus pacientes, clientes en el sistema, en la
+creencia de que era un sistema idóneo al que todos accedían a todo, autorizándose
+mutuamente. “El hecho de que los médicos pudieran estar alimentando una única base de
+datos y que pudieran tener acceso libre a los mismos mediante una convención entre ellos
+no es conforme con la normativa de protección de datos. Sorprende por ello que la razón
+que da ALC para desglosar y crear su propio sistema de gestión de datos desglosado del
+común y plasmada en documento acta notarial fuera la seguridad de los datos en cuanto a
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/10
+
+que ella misma afirma que hasta entonces se compartían. ALC procedió a la copia íntegra
+de los datos del sistema común y luego a su exfiltración, hecho que la AEPD no declara
+que vulnera la normativa. Se ha de considerar que el mero acceso podría ser una
+infracción
+4)
+Sobre la manifestación de ALC de que “SATINEL no introdujo cortapisas o limites
+de acceso y usos para los copropietarios”, manifiesta que la definición y decisión sobre
+medios y fines para el tratamiento por imperativo legal corresponde al responsable del
+tratamiento. El encargado puede sugerir.
+5)
+El acceso al sistema SALUS requería pasar un doble filtro, autenticarse frente al
+servidor donde se encontraban los datos con usuario y contraseña, e iniciar sesión en un
+ordenador, también con usuario y contraseña.
+Reiteran el hecho de que se ha producido acceso no autorizado a datos de otros
+pacientes a los que ALC no prestó asistencia sanitaria, sin cobertura en el momento en que
+hizo la copia integra y exfiltración posterior, al acceder a datos de pacientes a los que no
+prestaba servicio. “No se trata de acceso ilegitimo pues si que tenia acceso legitimo a la
+base de datos para tratamiento de datos de sus pacientes, sino a un acceso careciendo de
+legitimación, por cuanto no aportó autorización del resto de responsables de tratamientos.”
+
+En cuanto a los accesos, la parte legitimada para acceder se señala en los artículos
+16 y 7.1 de la Ley 41/2002 de 14/11 básica reguladora de la autonomía del paciente y de
+derechos y obligaciones en materia de información y documentación clínica-LAP-. El único
+fin que lo ampararía sería la relativa a la prestación de servicios con fines asistenciales
+(vinculación asistencial).
+6)
+Acompañan de nuevo, en versión digital copia de informe pericial de 19/07/2018,
+fecha de las actuaciones 5/07/2018, destinatario SATINEL efectuado por un Ingenieros
+Técnicos en Informatica, que se refería en el Hecho primero, apartado 6). Destaca además
+de lo mencionado en el acuerdo de archivo, que SATINEL encarga al perito ante las
+sospechas del primero, que GRUPO MEDICO A.A.A. ha podido acceder a datos
+personales de salud que se hallaban almacenados en los servidores informáticos
+“propiedad de SATINEL” y “que esta última tiene a disposición de CLINICA ASTARTÉ”,
+“como mantenedora de su sistema informático”.
+En el punto 4.2 se indica que “para la ejecución de la labor pericial, “se estudiará el
+contrato de mantenimiento informático firmado entre SATINEL y la CLINICA ASTARTE”
+para determinar el objeto y alcance del mismo, así como la legitimidad de SATINEL para la
+custodia y tratamiento de los datos de los pacientes de CLINICA ASTARTE”.
+Parte de la base que el software de gestión clínica ASTARTÉ, llamado SALUS era el
+utilizado por todas las especialidades médicas, conteniendo los datos de los pacientes y
+que eran gestionados por CLINICA ASTARTÉ, si bien ni se analiza como se indica el punto
+4.2 aspecto alguno de la relación SATINEL- CLINICA ASTARTE, ni se hace expresa
+mención a como estaban organizados estos datos a nivel de estructura de dependencia de
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/10
+
+los especialistas que atendían a los pacientes, dado que la CLINICA como prestadora de
+servicios no existe sino como SUBCOMUNIDAD esto es, una agrupación para la
+contratación por los comuneros de ciertos bienes o servicios. ALC forma parte de una de
+las distintas prestaciones de servicios médicos del colectivo de la clínica.
+Destaca un correo electrónico de 21/06/2018 entre el administrador de la CLIINICA
+ASTARTE y el de SATINEL donde el primero solicita la habilitación del acceso desde la
+clínica ASTARTE a una aplicación específica para el GRUPO MEDICO A.A.A. accesible
+desde una web concreta “https://www.tecnica24.es/A.A.A.”. Esta solicitud provenía
+originariamente de una persona Gerente de GMLC quien manifiesta que “los puestos de
+recepción general tienen un acceso restringido a los datos, de acuerdo con el nuevo
+reglamento de protección de datos”. El informe añade: “Finalmente, el jueves 21 de junio
+se recibe un correo del Administrador de CLÍNICA ASTARTÉ solicitando la apertura de la
+web para una nueva aplicación de Grupo Médico A.A.A. (GMLC). Cuando ese mismo
+jueves se ejecuta el trabajo solicitado, el técnico de Satinel-System S.L. encargado de
+realizarlo observa que aparentemente en esta nueva aplicación se ha incorporado la
+información de las historias clínicas de los pacientes pertenecientes al conjunto de los
+especialistas de CLÍNICA ASTARTÉ y cuyo encargado de tratamiento es precisamente su
+empresa, Satinel-System S.L., entendiendo que se ha producido un importante robo de
+información sensible y datos reservados de carácter personal de los pacientes del conjunto
+de la Clínica por parte de uno de los especialistas de la misma.
+Se decide entonces investigar en profundidad los hechos y encargar la presente
+pericial.”
+Menciona el término que ALC ha podido incurrir en un robo de información, de los
+“Datos relativos a la salud de los pacientes pertenecientes a los múltiples profesionales
+independientes que conforman la CLINICA”
+También se destaca que “Con el objetivo de poder realizar la confirmación del robo
+de información en la prueba pericial que tenemos prevista a las 19;30 de este mismo día
+en presencia del notario, el representante de SATINEL me proporciona, debidamente
+anonimizada una serie de números de identificación de historias clínicas , de las iniciales
+de los pacientes a los que corresponden, y de los departamentos o especialistas a los que
+pertenece el correspondiente datos. La información anterior, obtenida de la fuente originalaplicación SALUS- será la base de las comprobaciones que realizaremos posteriormente
+para determinar de forma inequívoca la existencia de esa misma información en la nueva
+aplicación de GMLC objeto de estudio” Parece deducirse de dicho acceso, aunque no
+señale el modo de acceso al mismo ni desde donde se produce ni con que privilegios
+accede, o quiénes y de qué forma acceden a la aplicación SALUS, que los datos pudieran
+encontrarse disponibles para todos los especialistas, configuración posible gracias a la
+creación de la misma base, por parte de SATINEL, y desconociendo en calidad de que tipo
+de sujetos pueden acceder los titulares de las especialidades médicas, no aportándose por
+SATINEL documento que lo acreditara, sino simplemente la manifestación de que prestan
+la asistencia.
+Se señala en el informe que fue el administrador de CLINICA ASTARTE el que dio
+permiso a SATINEL telefónicamente, a efectuar la práctica de las pruebas que consistía en
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/10
+
+acceder a los equipos informáticos de CLINICA ASTARTE y a toda la información y
+aplicaciones contenidas, instalada o accesible desde ellos, señalando en el informe:
+“La primera de las preguntas que teníamos que responder con esta actuación era si se
+podía comprobar la existencia de un nuevo software de gestión clínica usado por Grupo
+Médico A.A.A. (GMLC) de forma independiente, exclusiva, y ajeno al software de gestión
+clínica de Clínica Astarté, denominado “Salus”. La respuesta la obtenemos por un lado
+mediante la confirmación, por parte de Dª. Ana Rueda Amado (Recepcionista), de la
+existencia de esta nueva aplicación, y por otro lado mediante la inspección directa como se
+puede ver en la siguiente fotografía, tomada en la identificación del equipo
+informático…”procedemos a realizar una serie de búsquedas en la aplicación de gestión
+clínica de GMLC. Utilizaremos para ello los daos proporcionados por el Administrador de
+SATINEL procedentes de la fuente de información original y legitima-SALUS”…Se aportan
+8 números de historias clínicas con las iniciales del nombre, que no se aportaron en la
+reclamación, correspondiendo a cuatro especialidades distintas”
+-Como parte de la información pública accesible a través de su propia página web,
+https://www.clinicastarte.com/especialidades.php,
+la
+especialidad
+de
+“***ESPECIALIDAD.1” de Clínica Astarté es ofrecida a través del Dr. A.A.A.. Como parte
+de la información pública accesible a través de la página web de Clínica Astarté,
+https://www.clinicastarte.com/***ESPECIALIDAD.1.php,
+la
+especialidad
+de
+“***ESPECIALIDAD.1” de Clínica Astarté es ofrecida a través del Dr. A.A.A. y se incluye un
+enlace, además, un acceso directo a la web particular de Grupo Médico A.A.A. (GMLC),
+https://www.gmA.A.A..com/.
+-La política de privacidad de CLINICA ASTARTE en su web informa de “A efectos de lo
+previsto en la Ley Orgánica 15/1999, de 13 de diciembre, de la Protección de Datos de
+Carácter Personal, SUB-COMUNIDAD DE PROPIETARIOS CLÍNICA ASTARTÉ, con CIF
+H72041148 informa al Usuario de la existencia de un fichero automatizado de datos de
+carácter personal denominado “CLIENTES” inscrito en el R.G.P.D. (Registro General de
+Protección de Datos) con nº ***CODIGO.1, creado con la finalidad de realizar la gestión
+contable, fiscal y administrativa de los usuarios. El envío de datos de carácter personal es
+obligatorio para contactar y recibir información sobre los productos y servicios de CLÍNICA
+ASTARTÉ. FINALIDADES
+Las finalidades de la recogida de datos son: el desarrollo de actividades y prestación de
+información sobre productos de CLÍNICA ASTARTÉ.
+7) No se dan los requisitos del artículo 9 del RGPD para el tratamiento de este tipo de
+datos, consentimiento explícito y específico. Los pacientes de los demás facultativos no
+habrían otorgado el consentimiento para que ALC los tratase. No se puede argumentar
+como hace el acuerdo que ALC copió las historias clínicas a las que legítimamente tenía
+acceso. Apoya el acceso indebido en los informes del Gabinete Jurídico 54/2010,
+656/2008 y solicita que se declare la violación de seguridad de los datos personales
+según determina el artículo 4.12 del RGPD.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/10
+
+FUNDAMENTOS DE DERECHO
+I
+Es competente para resolver el presente recurso la Directora de la Agencia Española
+de Protección de Datos, de conformidad con lo dispuesto en el artículo 123 de la Ley
+39/2015, de 1/10, del Procedimiento Administrativo Común de las Administraciones
+Públicas (en lo sucesivo LPACAP).
+II
+Sobre la alegación de que parece desprenderse que del acuerdo de archivo se
+deduce que el historial de los pacientes era llevado a cabo por cada médico especialista,
+se debe señalar que el acuerdo no contiene ningún hecho probado en tal sentido, y que
+reproduce manifestaciones de las partes, en ocasiones apoyadas por documentos, en
+otras no. Asimismo, los documentos pueden tener diversa eficacia probatoria para lo que
+se manifieste.
+Las manifestaciones de cada parte resaltan los aspectos que creen convenientes,
+siendo lo cierto que no se ha tenido acceso y por tanto se desconocen sus términos y
+contenidos, del literal informativo que a cada paciente se le ofrece como información en el
+momento de la recogida de sus datos, ni se ha cuestionado a todos los especialistas sobre
+el modo de gestión de los datos de sus pacientes, modos de acceso, personal que accede,
+etc.
+III
+Conectada con la anterior alegación, se manifiesta que los responsables de
+tratamiento de datos de los pacientes son los vinculados por la asistencia prestada por
+cada uno de ellos. Sobre ello, conviene matizar que ello sería así a nivel médico, pero que
+además han de cumplir el requisito que se incluye en el artículo 4.7 del RGPD, de ser
+considerado: “responsable del tratamiento» o «responsable»: la persona física o jurídica,
+autoridad pública, servicio u otro organismo que, solo o junto con otros, determine los fines
+y medios del tratamiento; si el Derecho de la Unión o de los Estados miembros determina
+los fines y medios del tratamiento, el responsable del tratamiento o los criterios específicos
+para su nombramiento podrá establecerlos el Derecho de la Unión o de los Estados
+miembros;”
+
+“Señala que todos y cada uno de los profesionales volcaban la información de sus
+pacientes, clientes en el sistema, en la creencia de que era un sistema idóneo al que todos
+accedían a todo, autorizándose mutuamente.” Se desconoce la fecha de ello y si ello fue
+así, el titulo que ostentaba la SUBCOMUNIDAD con relación a dichos datos, y de forma
+derivada SATINEL. La reclamación parte del indicio por parte de la recurrente de que en la
+aplicación SALUS se hallaban todos los datos de salud de formada por diversos
+profesionales y especialidades, entre otras la de ALC que es sobre el médico especialista
+sobre el que se dirige la reclamación por parte de SATINEL.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/10
+
+La reclamación es sobre que ha podido tener acceso al crear o desglosar su propia
+base de datos de sus pacientes, a todos los datos de todos los pacientes, pues estaban
+agrupados todos en SALUS y todos tenían acceso a todos los datos. Supuestamente,
+dentro de la situación de que desde el inicio se podían acceder a todos los datos de todos
+los especialistas y que al desglosar para la creación de su base de datos, se tuvo acceso a
+todos los datos. En tal caso, si así fuera, hay poca distinción, pues la creación de la base
+de datos común podría ser desde el inicio, produciéndose un episodio de dicho acceso. En
+todo caso, se desconoce de ser cierta la decisión de compartir los datos, si existían
+parámetros establecidos en dichas consultas, y el tipo concreto de accesos, y si estos
+especialistas son los responsables que deciden sobre la finalidad de los datos, el nivel a
+que alcanza la misma.
+Parte de ello se analizará en el siguiente apartado de la configuración de encargado
+de tratamiento que aparentemente ostenta SATINEL.
+IV
+Si la reclamación como dice la recurrente va contra ALC por haber tratado datos, al
+crear su propia base de datos, con la modalidad de que primero se incorporaron todos los
+datos y luego hizo un filtrado de solo sus clientes, se entiende que la SUBCOMUNIDAD y
+SATINEL conocían que todas las especialidades se compartían entre todos los
+especialistas desde el inicio, antes de dicha operación de “exfiltado”. SATINEL, que
+actuaba en este sentido en nombre de la SUBCOMUNIDAD, que gestionaba el software de
+la aplicación y el servidor así como efectuaba auditorias sobre la LOPD gestionando toda
+la base de datos de todos los especialistas en SALUS, no denuncia por el mismo tipo de
+acceso a todas las especialidades al resto de especialistas que componen la clínica, por la
+posibilidad de acceso indistinto. Ello obliga a examinar la situación de los datos personales
+médicos sobre la manifestación de la recurrente de que es “encargada de tratamiento”, no
+se pronuncia el acuerdo de archivo.
+En el acuerdo de archivo se indicaba por el reclamante, ahora recurrente (hecho
+primero) punto 1 y 2:
+“Es encargado del tratamiento de CLÍNICA ASTARTÉ, centro sanitario de naturaleza
+privada con hasta 31 especialidades médicas, y que “gira en el tráfico jurídico como
+SUBCOMUNIDAD al amparo de la Ley 49/1960 de Propiedad horizontal, aunque se
+trate de una sociedad civil. “
+Aporta como soporte de sus afirmaciones, copia de contrato, de fecha
+28/09/2009, de SATINEL con SUBCOMUNIDAD, entidad “encargada de la prestación
+de servicios médicos varios”. Esta afirmación en el contrato no se especifica en que
+sentido presta estos servicios, pero pudiera ser que se trata de la infraestructura
+general, en todo caso no se especifica a nivel médico, el responsable de la prestación
+médica en sus diversas especialidades. Ello viene avalado porque solo figura el
+fichero CLIENTES responsabilidad de la Clínica.
+
+El contrato tiene como objeto la contratación de “asistencia técnica para los
+sistemas de datos y voz”. Entre algunos de los servicios que presta, figuran:
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/10
+
+i. Monitorización del tráfico interno de la red.
+ii. Todas las licencias necesarias para el sistema operativo.
+iii. Adaptación y auditorias necesarias para el cumplimiento LOPD.
+iv. Control y monitorización de las entradas de usuarios externos.
+v. Instalación y configuración del hardware.
+vi. Gestión y realización de copias de seguridad. Instalación y configuración de
+firewall.”
+Es decir, no se contempla ni se contiene aspecto concreto a datos de carácter
+personal a los que deba acceder el encargado de tratamiento, SATINEL las instrucciones
+si las hubiera del responsable, ni las medidas de seguridad sobre los mismos. Todo ello
+con la duda que alberga de que la SUBCOMUNIDAD fuera realmente la responsable del
+fichero, que según SATINEL, no cabe duda de ello.
+
+2)
+
+La SUBCOMUNIDAD “tiene una base de datos conjunta”, gestionada a través del
+software “SALUS” que ofrece distintos tipos de utilidades a cada una de las
+especialidades, señalando “ocho”, no se indica a que se refiere esas especialidades, sin
+son la configuración de acceso de sus titulares, quien asigna las claves para acceder, de
+que forma y a que nivel. Aspectos que tampoco explica el informe pericial aportado por la
+reclamada. Continúa indicando que “correspondiéndose con entidades que gestionan
+datos”, indicando algunas de ellas (especialidad de estética, área quirúrgica, urología),
+siendo unas sociedades limitadas, o limitadas profesionales SLP, figurando entre ellas la
+de Don A.A.A. SLP, indicando que “estas entidades son responsables del tratamiento
+contando también la SUBCOMUNIDAD.” Además, ALC, integrante de la
+SUBCOMUNIDAD, como subcomunero tiene instalaciones médicas en la primera planta
+del edificio ASTARTÉ, ajenas a la clínica que giran bajo la marca GRUPO MÉDICO
+A.A.A., y otra actividad que es una consulta médica en dicho edificio, considerando que
+por esta consulta, es “co-responsable del tratamiento”. Conviene indicar las afirmaciones
+contradictorias contenidas en la reclamación formulada por SATINEL cuando manifiesta
+que celebró contrato de encargado de tratamiento y creo una base de datos conjunta
+celebrado con la SUBCOMUNIDAD, y añade que los médicos especialistas son
+“responsables del tratamiento contando también la Subcomunidad”, si bien no ha
+celebrado contrato alguno con los titulares de las especialidades, y se desconoce que
+significa “contando también con la Subcomunidad”.
+El artículo 12 de la LOPD indica:
+
+“1. No se considerará comunicación de datos el acceso de un tercero a los datos
+cuando dicho acceso sea necesario para la prestación de un servicio al responsable del
+tratamiento.
+2. La realización de tratamientos por cuenta de terceros deberá estar regulada en un
+contrato que deberá constar por escrito o en alguna otra forma que permita acreditar su
+celebración y contenido, estableciéndose expresamente que el encargado del tratamiento
+únicamente tratará los datos conforme a las instrucciones del responsable del tratamiento,
+que no los aplicará o utilizará con el fin distinto al que figure en dicho contrato, ni los
+comunicará, ni siquiera para su conservación, a otras personas.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+8/10
+
+En el contrato se estipularán, asimismo, las medidas de seguridad a que se refiere el
+artículo 9 de esta Ley que el encargado del tratamiento está obligado a implementar.
+3. Una vez cumplida la prestación contractual, los datos de carácter personal deberán
+ser destruidos o devueltos al responsable del tratamiento, al igual que cualquier soporte o
+documentos en que conste algún dato de carácter personal objeto del tratamiento.
+4. En el caso de que el encargado del tratamiento destine los datos a otra finalidad, los
+comunique o los utilice incumpliendo las estipulaciones del contrato, será considerado
+también responsable del tratamiento, respondiendo de las infracciones en que hubiera
+incurrido personalmente.”
+Para analizar la cuestión planteada, debe partirse de los conceptos de responsable
+y encargado del tratamiento contenidos en la LOPD.
+Así, será responsable del fichero o del tratamiento, conforme al artículo 3 d) de la
+Ley, “persona física o jurídica, de naturaleza pública o privada, u órgano administrativo,
+que decida sobre la finalidad, contenido y uso del tratamiento”. Por su parte, es encargado
+del tratamiento, según el artículo 3 g), “la persona física o jurídica, autoridad, servicio o
+cualquier otro organismo que, solo o conjuntamente con otros, trate datos personales por
+cuenta del responsable del tratamiento”.
+Asimismo, a los efectos del presente supuesto es relevante tener en consideración
+lo dispuesto en último párrafo del artículo 20.1 del Reglamento de desarrollo de la Ley
+Orgánica 15/1999, aprobado por Real decreto 1720/2007, de 21/12, según el cual “se
+considerará que existe comunicación de datos cuando el acceso tenga por objeto el
+establecimiento de un nuevo vínculo entre quien accede a los datos y el afectado”.
+De este modo, la existencia de un encargado del tratamiento vendrá delimitada por
+la concurrencia de dos características derivadas de la normativa anteriormente citada: la
+imposibilidad de decisión sobre la finalidad, contenido y uso del tratamiento y la
+inexistencia de una relación directa entre el afectado y el encargado, que deberá en todo
+caso obrar en nombre y por cuenta del responsable como si la relación fuese entre éste y
+el afectado.
+Además, lo importante para delimitar los conceptos de responsable y encargado del
+tratamiento no resultan ser la causa que motiva el tratamiento de los mismos, sino la esfera
+de dirección, control u ordenación que el responsable pueda ejercer sobre el tratamiento
+de los datos de carácter personal que obran en su poder en virtud de aquella causa y que
+estaría enteramente vedado al encargado del tratamiento.
+La figura del encargado del tratamiento es esencial en la legislación de protección
+de datos, de modo que el encargado, junto con el responsable del tratamiento, debe
+adoptar medidas necesarias que garanticen la seguridad de los datos (art. 9 LOPD) y será
+en consecuencia responsable a efectos sancionadores (art. 43 LOPD). Por su parte, el
+artículo 26 RDLOPD se refiere al ejercicio de los derechos de acceso, rectificación,
+cancelación y oposición ante un encargado del tratamiento –que deberá dar traslado al
+responsable – y de conformidad con el artículo 79 RDLOPD deberá implantar, junto con el
+responsable del tratamiento, las medidas de seguridad correspondientes. Es por ello por lo
+que el título VIII del Reglamento dedica su artículo 82 al encargado del tratamiento en
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+9/10
+
+relación con estas medidas de seguridad, y lo contempla expresamente en el artículo 88 al
+regular el documento de seguridad.
+Como es sabido, la LOPD, al regular la figura del encargado del tratamiento no
+exige, para la cesión de datos a su favor, el consentimiento del afectado; de manera que
+en aquellos supuestos en que el responsable del tratamiento encomiende a un tercero la
+prestación de un servicio que requiera el acceso a datos de carácter personal por éste,
+dicho acceso no pueda considerarse como una cesión de datos. Es por ello por lo que el
+artículo 12 LOPD establece: “No se considerará comunicación de datos el acceso de un
+tercero a los datos cuando dicho acceso sea necesario para la prestación de un servicio al
+responsable del tratamiento”. Las consecuencias de ello habría que ampliarlas a la
+circunstancia de que una entidad que dispusiera de los datos, y no se considerara según
+la normativa de protección de datos responsable del tratamiento o del fichero, concertara
+un contrato de encargado de tratamiento.
+En tal sentido, la SUBCOMUNIDAD tiene inscrito el fichero CLIENTES, que no
+guarda relación con la prestación asistencial. A lo largo del informe pericial se refiere al
+acceso de GMLC cuando por un lado, previamente manifestó que la entidad que presta
+servicios médicos es ALC, no el Grupo. También se debe indicar que en el supuesto
+contrato de encargado que SATINEL tiene suscrito, no intervienen los médicos
+especialistas, teniendo éstos presuntamente acceso a los mismos, desconociéndose el
+titulo por el que se lleva a cabo.
+No se explica el modo de acceso, desde la aplicación SALUS, como está
+estructurada la información, no indica quien puede consultar y el titulo por el que lo
+pueden hacer, claves de usuarios asignadas, sujetos que las otorgan, hasta que nivel los
+datos de los pacientes, desde donde se obtuvieron, las especialidades diferenciadas que
+sirven al informe pericial, y el modo de gestión que cada especialista lleva la historia clínica
+de sus pacientes es obviado y nada se señala en dicho informe. Del informe pericial deriva
+que la aplicación antes de la exfiltración aglutinaba todas las especialidades
+En este sentido, SATINEL no dispone del citado contrato de encargado de
+tratamiento con la SUBCOMUNIDAD y sin embargo creó una estructura desde el inicio que
+aparentemente ponía en común datos. Si el acceso a dicha base de datos se producía por
+los médicos especialistas, se desconoce el titulo por el que lo efectuaban. En todo caso la
+reclamación pone el énfasis en los datos que ALC tiene que manejar para crear su o una
+base de datos diferenciada. En tal sentido, dichos tipos de accesos ya serían posibles
+desde antes de dicha operación, y se daría para todos los especialistas.
+No conociendo ni habiéndose obtenido detalles de la estructuración de la prestación
+de los servicios médicos, de la relación a nivel asistencial entre los médicos especialistas y
+la SUBCOMUNIDAD, del contenido y alcance de las cláusulas informativas entregadas en
+su caso a los pacientes, y no aportándose en este recurso elementos que permitan
+reconsiderar la revisión de la resolución recurrida, se confirma la misma.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+10/10
+
+Vistos los preceptos citados y demás de general aplicación,
+la Directora de la Agencia Española de Protección de Datos RESUELVE:
+PRIMERO: DESESTIMAR el recurso de reposición interpuesto por SATINEL SYSTEM SL
+contra la resolución de esta Agencia dictada con fecha 24/06/2019, en el expediente de
+actuaciones previas de inspección E/05443/2018.
+SEGUNDO: NOTIFICAR la presente resolución a SATINEL SYSTEM SL.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la presente
+Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa, se podrá interponer en
+el plazo de dos meses a contar desde el día siguiente a la notificación de este acto según
+lo previsto en el artículo 46.1 de la Ley 29/1998, de 13/07, reguladora de la Jurisdicción
+Contencioso-administrativa, recurso contencioso administrativo ante la Sala de lo
+Contencioso-administrativo de la Audiencia Nacional, con arreglo a lo dispuesto en el
+artículo 25 y en el apartado 5 de la disposición adicional cuarta del referido texto legal.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

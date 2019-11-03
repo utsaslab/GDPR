@@ -37,7 +37,7 @@ class Finland(DPA):
             render_type = source['render_type']
 
             pagination = Pagination()
-            pagination.add_link(host + start_path)
+            pagination.add_item(host + start_path)
 
             folder_name = self.country.replace(' ', '-').lower()
             root_path = path + '/' + folder_name

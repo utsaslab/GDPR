@@ -1,0 +1,180 @@
+1/4
+
+Expediente Nº: E/07180/2019
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos ante
+la entidad VODAFONE ESPAÑA, S.A.U. en virtud de denuncia presentada por A.A.A.
+y teniendo como base los siguientes
+HECHOS
+PRIMERO: Con fecha 12 de marzo de 2019, tuvo entrada en esta Agencia escrito de
+del denunciante contra VODAFONE ESPAÑA, S.A.U. porque le está remitiendo
+mensajes publicitarios a su teléfono móvil ***TELEFONO.1, y usando el enlace
+establecido al efecto para que cesen las comunicaciones, aunque le confirman que su
+solicitud se ha procesado correctamente, al día siguiente recibe nuevos SMS.
+Aporta dos capturas de pantalla de sms recibidos de fecha 2 de octubre de 2018.
+SEGUNDO: Tras la recepción de la reclamación, la Subdirección General de
+Inspección de Datos procedió a dar traslado a VODAFONE de la reclamación
+presentada por el reclamante, para su análisis y comunicación al denunciante en
+relación con el ejercicio de los derechos regulados en los artículos 15 a 22 del RGPD.
+
+FUNDAMENTOS DE DERECHO
+I
+Es competente para resolver la Directora de la Agencia Española de Protección de
+Datos, conforme a lo establecido en el artículo 43.1 de la Ley 34/2002, de 11 de Julio, de
+servicios de la sociedad de la información y de comercio electrónico (en adelante LSSI).
+II
+El artículo 21 de la LSSI señala lo siguiente:
+“1. Queda prohibido el envío de comunicaciones publicitarias o promocionales por
+correo electrónico u otro medio de comunicación electrónica equivalente que previamente
+no hubieran sido solicitadas o expresamente autorizadas por los destinatarios de las
+mismas.
+2. Lo dispuesto en el apartado anterior no será de aplicación cuando exista una
+relación contractual previa, siempre que el prestador hubiera obtenido de forma lícita los
+datos de contacto del destinatario y los empleara para el envío de comunicaciones
+comerciales referentes a productos o servicios de su propia empresa que sean similares a
+los que inicialmente fueron objeto de contratación con el cliente.
+En todo caso, el prestador deberá ofrecer al destinatario la posibilidad de oponerse
+al tratamiento de sus datos con fines promocionales mediante un procedimiento sencillo y
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+2/4
+
+gratuito, tanto en el momento de recogida de los datos como en cada una de las
+comunicaciones comerciales que le dirija.
+Cuando las comunicaciones hubieran sido remitidas por correo electrónico, dicho
+medio deberá consistir necesariamente en la inclusión de una dirección de correo
+electrónico u otra dirección electrónica válida donde pueda ejercitarse este derecho,
+quedando prohibido el envío de comunicaciones que no incluyan dicha dirección”.
+Añade el artículo 22.1 de la LSSI que:
+“El destinatario podrá revocar en cualquier momento el consentimiento prestado a
+la recepción de comunicaciones comerciales con la simple notificación de su voluntad al
+remitente.
+A tal efecto, los prestadores de servicios deberán habilitar procedimientos sencillos
+y gratuitos para que los destinatarios de servicios puedan revocar el consentimiento que
+hubieran prestado. Cuando las comunicaciones hubieran sido remitidas por correo
+electrónico dicho medio deberá consistir necesariamente en la inclusión de una dirección
+de correo electrónico u otra dirección electrónica válida donde pueda ejercitarse este
+derecho quedando prohibido el envío de comunicaciones que no incluyan dicha dirección.
+Asimismo, deberán facilitar información accesible por medios electrónicos sobre
+dichos procedimientos”.
+Así, cualquier envío de comunicaciones publicitarias o promocionales por correo
+electrónico u otro medio de comunicación electrónica equivalente queda supeditado a la
+prestación previa del consentimiento expreso, salvo que exista una relación contractual
+anterior entre el prestador del servicio y el destinatario de los envíos y siempre que éste no
+haya manifestado su voluntad en contra.
+Este mismo apartado obliga al prestador del servicio a ofrecer al destinatario los
+mecanismos para oponerse al tratamiento de sus datos con fines promocionales,
+exigiendo, si la comunicación comercial se efectúa por correo electrónico, que en la
+misma se incluya la posibilidad de oponerse a estos envíos a través de un correo
+electrónico o mediante una dirección electrónica válida.
+III
+El artículo 37 de la LSSI establece como sujetos sobre los que impone su régimen
+sancionador a “los prestadores de servicios de la sociedad de la información”.
+Para determinar qué sujetos se ajustan a dicha definición, ha de acudirse a lo
+dispuesto en el Anexo de la citada ley, que en su letra c) define al “ Prestador de servicios”
+como “la persona física o jurídica que proporciona un servicio de la sociedad de la
+información”. Lo que se completa con la definición que sobre “Servicios de la sociedad de
+la información o servicios” ofrece la letra a) del citado Anexo: “todo servicio prestado
+normalmente a título oneroso, a distancia, por vía electrónica y a petición individual del
+destinatario.
+El concepto de servicio de la sociedad de la información comprende también los
+servicios no remunerados por sus destinatarios, en la medida en que constituyan una
+actividad económica para el prestador de servicios.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+3/4
+
+Son servicios de la sociedad de la información, entre otros y siempre que
+representen una actividad económica, los siguientes:
+1. La contratación de bienes o servicios por vía electrónica.
+2. La organización y gestión de subastas por medios electrónicos o de mercados y
+centros comerciales virtuales.
+3. La gestión de compras en la red por grupos de personas.
+4. El envío de comunicaciones comerciales.
+5. El suministro de información por vía telemática.”
+A su vez, la letra d) del mismo Anexo de la LSSI define al “Destinatario del servicio”
+o “destinatario” como la “persona física o jurídica que utiliza, sea o no por motivos
+profesionales, un servicio de la sociedad de la información”.
+IV
+En el presente caso, el reclamante manifiesta que tras recibir un mensaje
+publicitario SMS de VODAFONE en su teléfono móvil, ejerció su derecho de baja utilizando
+el enlace facilitado para ello. Sin embargo, tiempo después, concretamente en octubre de
+2018 continuó recibiendo nuevos mensajes publicitarios de VODAFONE en su teléfono
+móvil.
+En este sentido, debe señalarse que los hechos denunciados se han subsanado,
+ya que el 11 de julio de 2019 VODAFONE ha comunicado a la AEPD que el teléfono móvil
+del denunciante, se encuentra dado de alta en la lista Robinson interna de VODAFONE
+desde el 11 de febrero de 2019.
+Por lo demás señalar, que aunque los hechos expuestos podrían suponer una
+infracción del artículo 22.1 de la LSSI al establecer que “El destinatario podrá revocar en
+cualquier momento el consentimiento prestado a la recepción de comunicaciones
+comerciales con la simple notificación de su voluntad al remitente”, tipificada como leve en
+el artículo 38.4 h) de dicha norma, que considera como leve, “El incumplimiento de la
+obligación del prestador de servicios establecida en el apartado 1 del artículo 22, en
+relación con los procedimientos para revocar el consentimiento prestado por los
+destinatarios cuando no constituya infracción grave “.
+En el presente caso, dicha infracción habría prescrito de conformidad con lo
+dispuesto en el artículo 45 de la LSSI, el cual indica que “las infracciones muy graves
+prescribirán a los tres años, las graves a los dos años y las leves a los seis meses; las
+sanciones impuestas por faltas muy graves prescribirán a los tres años, las impuestas por
+faltas graves a los dos años y las impuestas por faltas leves al año”, por lo tanto, el plazo
+de prescripción de la comisión de dicha infracción concluyó en abril de 2019.
+Así las cosas, aunque su escrito de denuncia tiene como fecha de entrada en esta
+Agencia el 12 de marzo de 2019, es decir, es de fecha anterior a la prescripción de la
+supuesta infracción, la proximidad entre ambas fechas no permitió a este Organismo
+realizar las actuaciones previas de investigación necesarias para con las garantías
+exigidas por ley realizar el acuerdo de apertura del oportuno procedimiento sancionador.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+4/4
+
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia Española
+de Protección de Datos,
+SE ACUERDA:
+
+1
+
+PROCEDER AL ARCHIVO de las presentes actuaciones.
+
+2
+
+NOTIFICAR la presente resolución al reclamante e INFORMAR de ella al
+responsable del tratamiento.
+
+Contra esta resolución, que pone fin a la vía administrativa según lo preceptuado
+por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas, y de conformidad con lo establecido en los arts.
+112 y 123 de la citada Ley 39/2015, de 1 de octubre, los interesados podrán interponer,
+potestativamente, recurso de reposición ante la Directora de la Agencia Española de
+Protección de Datos en el plazo de un mes a contar desde el día siguiente a la notificación
+de esta resolución o directamente recurso contencioso administrativo ante la Sala de lo
+Contencioso-administrativo de la Audiencia Nacional, con arreglo a lo dispuesto en el
+artículo 25 y en el apartado 5 de la disposición adicional cuarta de la Ley 29/1998, de 13
+de julio, reguladora de la Jurisdicción Contencioso-Administrativa, en el plazo de dos
+meses a contar desde el día siguiente a la notificación de este acto, según lo previsto en el
+artículo 46.1 de la referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+

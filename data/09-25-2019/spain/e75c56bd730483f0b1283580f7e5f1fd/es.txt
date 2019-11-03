@@ -1,0 +1,144 @@
+1/3
+
+940-0419
+
+Procedimiento Nº: E/10278/2018
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes:
+HECHOS
+PRIMERO: La reclamación interpuesta por D. A.A.A. (en adelante, el reclamante)
+tiene entrada con fecha 2 de septiembre de 2018 en la Agencia Española de
+Protección de Datos. La reclamación se dirige contra SAMARRETA-CAT.COM (Gerard
+y Ona), (en adelante, el reclamado). Los motivos en que basa la reclamación son que
+en la página web: www.samarreta-cat.com, cuya actividad es la venta on-line de
+productos varios, no incluye información de acuerdo con la normativa de protección de
+datos.
+La página dispone de un formulario de contacto en el que se pueden facilitar
+los datos personales de los usuarios sin informar sobre los tratamientos a realizar con
+los datos que recaba, la identidad del responsable, posibles cesiones, etc.
+SEGUNDO: La Subdirección General de Inspección de Datos procedió a la realización
+de actuaciones previas de investigación para el esclarecimiento de los hechos objeto
+de la reclamación, teniendo conocimiento de los siguientes extremos:
+1.Se comprueba que la página web https://www.samarreta-cat.com, dispone
+de un formulario que se puede cumplimentar para realizar compras y que en el
+apartado “Política de Privacidad” al que se puede acceder, únicamente se incluye
+información sobre el uso de Cookies.
+También se comprueba que en el enlace a “Qui som”, se facilita la siguiente
+información: “Gerard i Ona – Samarreta-Cat – Carrer de Brusi 39-43, local 67”.
+2.Con fecha 18 de diciembre de 2018, se remite un requerimiento de
+información a la dirección que se indica en la página. El requerimiento se devuelve por
+el Servicio de Correos con la anotación de “Ausente reparto”.
+3.Con fecha 19 de febrero de 2019, se remite de nuevo el requerimiento
+de información a la misma dirección. El escrito se devuelve por el Servicio de Correos
+con la indicación de “Desconocido”.
+4.Se realiza una consulta a través de internet, con objeto de identificar la
+empresa a través de la que se ha registrado el citado dominio, verificando que se trata
+de la empresa Metaregistrar BV, con domicilio en HOLANDA.
+5.Se solicita a la Agencia Estatal de Administración Tributaria los datos
+identificativos de los responsables de la página web y no los han facilitado.
+6.-
+
+No ha sido posible identificar los datos del titular de la citada página
+
+web.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/3
+
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales (en lo sucesivo LOPDGDD), es competente para
+resolver estas actuaciones de investigación la Directora de la Agencia Española de
+Protección de Datos.
+II
+De conformidad con lo establecido en el artículo 55 del RGPD, la Agencia
+Española de Protección de Datos es competente para desempeñar las funciones que
+se le asignan en su artículo 57, entre ellas, la de hacer aplicar el Reglamento y
+promover la sensibilización de los responsables y los encargados del tratamiento
+acerca de las obligaciones que les incumben, así como tratar las reclamaciones
+presentadas por un interesado e investigar el motivo de las mismas.
+Corresponde, asimismo, a la Agencia Española de Protección de Datos ejercer
+los poderes de investigación regulados en el artículo 58.1 del mismo texto legal, entre
+los que figura la facultad de ordenar al responsable y al encargado del tratamiento que
+faciliten cualquier información que requiera para el desempeño de sus funciones.
+Correlativamente, el artículo 31 del RGPD establece la obligación de los
+responsables y encargados del tratamiento de cooperar con la autoridad de control
+que lo solicite en el desempeño de sus funciones. Para el caso de que éstos hayan
+designado un delegado de protección de datos, el artículo 39 del RGPD atribuye a
+éste la función de cooperar con dicha autoridad.
+Del mismo modo, el ordenamiento jurídico interno también prevé la posibilidad
+de abrir un período de información o actuaciones previas. En este sentido, el artículo
+55 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, otorga esta facultad al órgano competente con el fin de
+conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el
+procedimiento.
+III
+La LOPDGDD, en su artículo 67 indica:
+“1. Antes de la adopción del acuerdo de inicio de procedimiento, y una vez
+admitida a trámite la reclamación si la hubiese, la Agencia Española de Protección de
+Datos podrá llevar a cabo actuaciones previas de investigación a fin de lograr una
+mejor determinación de los hechos y las circunstancias que justifican la tramitación del
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/3
+
+procedimiento.
+La Agencia Española de Protección de Datos actuará en todo caso cuando sea
+precisa la investigación de tratamientos que implique un tráfico masivo de datos
+personales.
+2. Las actuaciones previas de investigación se someterán a lo dispuesto en la
+Sección 2.ª del Capítulo I del Título VII de esta ley orgánica y no podrán tener una
+duración superior a doce meses a contar desde la fecha del acuerdo de admisión a
+trámite o de la fecha del acuerdo por el que se decida su iniciación cuando la Agencia
+Española de Protección de Datos actúe por propia iniciativa o como consecuencia de
+la comunicación que le hubiera sido remitida por la autoridad de control de otro Estado
+miembro de la Unión Europea, conforme al artículo 64.3 de esta ley orgánica”.
+Todas las actuaciones se han realizado en cumplimiento de lo establecido
+legalmente, y con la finalidad de determinar, con la mayor precisión posible, las
+circunstancias relevantes que pudieran concurrir en el caso, resultando infructuosa la
+investigación. No ha sido posible identificar los datos del titular de la citada página web
+denunciada. De ahí que no se den las condiciones para iniciar un procedimiento
+sancionador, ni continuar las actuaciones investigadoras.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+
+1. PROCEDER AL ARCHIVO de las presentes actuaciones.
+2. NOTIFICAR la presente resolución al reclamante.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

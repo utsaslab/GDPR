@@ -1,0 +1,724 @@
+1/14
+
+863-240719
+
+Procedimiento Nº: A/00014/2019
+
+RESOLUCIÓN: R/00465/2019
+En el procedimiento A/00014/2019, instruido por la Agencia Española de Protección de
+Datos a la entidad I.S.G.F. INFORMES COMERCIALES, S.L.y en virtud de los
+siguientes,
+ANTECEDENTES
+PRIMERO: Con fecha 17 de diciembre de 2019 se registra de entrada en la Agencia
+Española de Protección de Datos reclamación formulada por Don A.A.A., (en lo
+sucesivo, el reclamante), dando cuenta que al visitar la página web https://isgf.es,
+de la que es titular la entidad I.S.G.F. INFORMES COMERCIALES, S.L., (en adelante,
+el reclamado o I.S.G.F.), se instalan dispositivos de almacenamiento y recuperación
+de datos (DARD o cookies, en lo sucesivo), sin mediar el consentimiento informado de
+los interesados, contraviniendo con ello el artículo 22.2 de la LSSI.
+En concreto, el reclamante aduce que se instalan las cookies “_ga”, “gid” y
+“_gat” del servicio Google Analytics.
+SEGUNDO: Tras la recepción de la reclamación, con fecha 14 de enero de 2019 se
+constata la instalación de tres cookies del dominio isgf.es en la mencionada página
+web, procediéndose con fecha 30 de enero de 2019 por la Subdirección General de
+Inspección de Datos a requerir a I.S.G.F. la remisión a la AEPD de determinada
+información en relación con los hechos expuestos por el reclamante y la comunicación
+al mismo de la decisión adoptada al respecto.
+Con fecha 27 de febrero de 2019 se registra de entrada en esta Agencia escrito
+de I.S.G.F. comunicando que en la página web de esa empresa “no se utilizan cookies
+para recabar ningún tipo de información personal. Las cookies utilizadas en este sitio
+web son temporales y con el único propósito de hacer más eficiente la navegación de
+la página web. En ningún caso las cookies se utilizan para recopilar información
+personal por lo que consideramos que no se produce ninguna acción contraria a los
+derechos de protección de daos de los usuarios.” “
+Con fecha 22 de febrero de 2019 el reclamado dirigió comunicación al
+reclamante expresándose en idénticos términos a los utilizados para responder al
+requerimiento de información efectuado por la AEPD.
+Con fecha 4 de marzo de 2018 se registra de entrada en esta Agencia escrito
+del reclamante exponiendo su disconformidad con lo expresado por I.S.G.F en el
+reseñado escrito de fecha 22 de febrero de 2019. En particular, señala:
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/14
+
+“(…) admiten que se utilizan técnicas de almacenamiento de información en los
+terminales de usuarios finales, es decir, cookies, e indican que se almacenan con fines
+de rendimiento. Es destacable, que sin informar al usuario y obtener su
+consentimiento informado, la LSSI en su artículo 22.2 párrafo tercero no permite el uso
+de cookies y similares distintas a las cookies técnicas, entendiendo a éstas como
+aquéllas estrictamente necesarias para la transmisión de la comunicación o un
+servicio solicitado expresamente por el usuario. El uso de cookies para la “mejora del
+rendimiento” no se ajusta por tanto a la LSSI ya que no es estrictamente necesario
+para la transmisión de la información, lo que supone una infracción leve por lo
+dispuesto en el artículo 38.4.g) de la LSSI.”
+TERCERO: Con fecha 7 de marzo de 2019 desde la Subdirección General de
+Inspección de Datos de la AEPD se accede al sitio web https://www.isgf.es,
+comprobándose, según figura en la Diligencia de fecha 13 de marzo de 2019 obrante
+en el expediente:
+3.1. Que al acceder por Internet a la reseñada URL se instalaban las cookies
+de tercera parte -ga, -gid y -gat de analítica web del servicio de Google Analytics sin
+mediar ningún tipo de información ni acción afirmativa clara de aceptación del usuario
+para ello.
+3.2. Respecto del contenido del sistema de información por capas ofrecido por
+el reclamado se observa:
+El aviso de cookies de primera capa tiene el siguiente contenido: “En I.S.G.F.
+utilizamos cookies de terceros para ofrecerle una mejor experiencia de navegación. Si
+sigue navegando, entenderemos que acepta el uso de las cookies en nuestro sitio. Si
+desea más información o modificar el uso de las cookies lea nuestra política de
+privacidad y de cookies.“, seguido de un botón con el literal “Acepto”
+Respecto del mismo se observa que no informa sobre los siguientes aspectos:
+no se informa sobre el tipo de cookies de tercera parte utilizadas, en este caso cookies
+analíticas, ni se describe correctamente las finalidades a las que responde uso. En
+lugar de indicar que se utilizan cookies analíticas para medir la interacción de los
+usuarios con el sitio, o cualquier fórmula semejante, se recurre a la expresión “para
+ofrecerle una mejor experiencia de navegación”, que no clarifica la finalidad para la
+que se usan dichas cookies.
+No informa el modo en que el usuario puede configurar preferencias o rechazar
+la utilización de cookies. Además, como en el aviso ya se advierte el tipo de acción
+concreta que supone la aceptación del uso de las cookies por el usuario (seguir
+navegando) no resulta necesario incluir el botón de aceptación.
+3.3 La segunda capa, a la que se accede desde el enlace incorporado en la
+primera capa, bajo el título “Política de Privacidad”, ofrece, entre otra, la siguiente
+información referida al uso de cookies:
+“El sitio web isgf.es utiliza cookies cuando un usuario navega el sitio web. (…)
+El usuario tiene la posibilidad de configurar su ordenador para ser notificado de la
+recepción de cookies y para impedir su instalación. Por favor, consulte las
+instrucciones y manuales de la exploración para más información. Para el uso de la
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/14
+
+página web, no es necesario que el Usuario permita la instalación de cookies en su
+navegación por la web, a pesar de que podría ser necesario que el usuario cuando
+accede a los servicios que requiera el previo registro o 'login'. Las cookies utilizadas
+en este sitio web son temporalmente y con el único propósito de hacer más eficiente la
+navegación de la página web. (…).
+Las cookies no exceptuadas de TERCEROS incluidas en este sitio web son:
+Google Analytics es una: herramienta de analítica web que permite a los propietarios
+de sitios saber el grado de implicación de los usuarios con su página web. Los clientes
+de Google Analytics pueden consultar varios informes en los que se describe cómo
+interactúan los usuarios que visitan sus sitios web con el propósito de mejorarlos.
+Google Analytics recaba información de forma anónima, es decir, informa de las
+tendencias del sitio sin identificar a sus usuarios.
+Todos los propietarios de sitios web que utilicen Google Analytics deben contar con
+una política de privacidad en la que se especifique el uso de Google Analytics.
+Este servicio nos lo proporciona Google
+Razón Social de la empresa : Google Ireland, Ltd.
+Información sobre Analytics www.google.com/analytics/
+Privacidad www.google.es/intl/es/analytics/privacyoverview.html
+Otras cookies de servicios de TERCEROS: Facebook, Twitter, Google Plus.
+Para permitir, conocer, bloquear o eliminar las cookies instaladas en tu equipo puedes
+hacerlo mediante la configuración de las opciones del navegador instalado en su
+ordenador.
+Por ejemplo puedes encontrar información sobre cómo hacerlo en el caso que uses
+como navegador:
+Firefox desde aquí: http://support.mozilla.org/es/kb/habilitar-y-deshabilitar-cookies-quelos-sitios-web
+Chrome
+desde
+hl=es&answer=95647
+
+aquí:
+
+http://support.google.com/chrome/bin/answer.py?
+
+Explorer desde aquí: http://windows.microsoft.com/es-es/windows7/how-to-managecookies-in-internet-explorer-9
+Safari desde aquí: http://support.apple.com/kb/ph5042
+Opera desde aquí: http://help.opera.com/Windows/11.50/es-ES/cookies.html”
+Se observa que el documento al que conduce el enlace de la primera capa
+responde al título “Política de Privacidad” en lugar de “Cookies”, “Política de Cookies”
+o “Política de privacidad y de cookies”. Asimismo, se recuerda que las cookies se
+instalan antes de que los usuarios inicien la navegación.
+No indica el período de conservación de los datos para el fin o fines utilizados.
+No informa sobre la forma de revocar el consentimiento prestado.
+No proporciona un sistema de gestión o configuración de cookies que permita
+al usuario rechazar todas las cookies, habilitar todas las cookies o hacerlo de forma
+granular, bien a través de las funcionalidades facilitadas por el editor o el terminal o a
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/14
+
+través de las plataformas comunes que puedan existir para esta finalidad.
+En cualquier caso, el reclamado no ofrece información sobre el enlace del
+“Complemento inhabilitación para navegadores de Google Analytics”, que facilita la
+información necesaria para poder bloquear las cookies analíticas de dicho servicio en
+función del navegador utilizado por el usuario, localizable en la página web
+https://tools.google.com/dlpage/gaoptout?hl=es.
+CUARTO: Consultada con fecha 5 de abril de 2019 la aplicación de la AEPD que
+muestra información sobre de antecedentes de sanciones y apercibimientos
+precedentes, no constan registros previos por infracción del artículo 22.2 de la Ley
+34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio
+Electrónico asociados a la mercantil I.S.G.F. INFORMES COMERCIALES, S.L.
+QUINTO: Con fecha 23 de abril de 2019, la Directora de la Agencia Española de
+Protección de Datos acordó someter a trámite de audiencia previa el presente
+procedimiento de apercibimiento A/00014/2019, con arreglo a lo dispuesto en el
+artículo 39 bis 2 de la de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de
+la Información y Comercio Electrónico, (en lo sucesivo, LSSI), con relación a la
+reclamación por infracción del artículo 22.2 de la LSSI, tipificada como leve en el
+artículo 38.4 g) de dicha norma. Dicho acto fue notificado al reclamado con fecha 24
+de abril de 2019.
+SEXTO: Con fecha 10 de mayo de 2019 se recibe en esta Agencia escrito del
+representante legal del reclamado solicitando el archivo el expediente con fundamento,
+en síntesis, en los siguientes argumentos:
+Se reitera en su escrito de alegaciones anterior, particularmente sobre el
+carácter técnico estadístico de las cookies que venían siendo utilizadas y la carencia
+de perjuicios de ningún tipo al interesado
+Se han adoptado los cambios instados por la AEPD, adjuntando como
+anexo nº 1 documento explicativo que se ofrece en la página web de ISGF sobre
+política de cookies.
+SÉPTIMO: Con fecha 17 de septiembre de 2019 se accede al sitio web https://isgf.es,
+comprobándose los siguientes hechos:
+7.1
+Se ha modificado el aviso de cookies de la primera capa, que presenta
+el siguiente texto: “En ISGF utilizamos cookies propias y de terceros con la finalidad de
+analizar su navegación y mejorar nuestros servicios. Si desea más información o
+modificar el uso de las cookies lea nuestra POLÍTICA DE COOKIES”, en el que se
+incorpora el bóton “ Aceptar y seguir navegando.”
+7.2
+Se ha modificado la “Política de Cookies” de la segunda capa, que bajo
+la siguiente estructura contiene, entre otra, la información sobre el uso de cookies:
+1.¿Qué son las cookies?
+2.¿Qué tipos de cookies existen?
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/14
+
+3.¿Qué cookies utilizamos? Se informa del uso de cookies técnicas y cookies
+propias y de terceros. En este último apartado se informa sobre el uso de las cookies
+analíticas _ga, _gat, _gid del Servicio Google Analytics y plazo de caducidad de las
+mismas.
+También
+se
+ofrece
+el
+enlace
+https://support.google.com/analytics/answer/6004245?hl=es
+para
+obtener
+más
+información.
+4.¿Cómo deshabilitar las cookies? En este punto se informa: “Normalmente es
+posible dejar de aceptar las cookies del navegador, o dejar de aceptar las cookies de
+un servicio en particular.
+Todos los navegadores modernos permiten cambiar la configuración de
+cookies. Estos ajustes normalmente se encuentran en las “opciones” o “preferencias”
+del menú de su navegador. Asimismo, puede configurar su navegador o su gestor de
+correo electrónico, así como instalar complementos gratuitos para evitar que se
+descarguen los Web Bugs al abrir un email.” A continuación, se muestran los enlaces
+para acceder al menú de configuración de las cookies y, en su caso, de la navegación
+privada en los siguientes navegadores: Internet Explorer, Firefox, Chrome, Safari,
+Opera.
+5.¿Se pueden producir modificaciones de la Política de Cookies? Se aconseja
+a los usuarios la visita periódica a la web por si se producen modificaciones en la
+misma, señalando que “Cuando se produzcan cambios significativos en esta Política
+de Cookies, se comunicarán a los usuarios bien mediante la web o a través de correo
+electrónico a los usuarios registrados.
+7.3
+Que al acceder al citado portal y a la información mostrada en la
+segunda capa después de pulsar el enlace “Política de Cookies” contenido en la
+primera capa no se instalaban cookies.
+7.4
+Que una vez pulsado el botón “Aceptar y seguir navegando” de la
+primera capa se instalan las cookies analíticas de tercera parte del servicio Google
+Analytics descritas en el punto 3 del documento ”Política de Cookies”. En la página del
+“Video Corporativo”, además de las cookies _ga y _gid se instalan las cookies
+permanentes de tercera parte “player” y “vuid” del dominio vimeo.com.
+HECHOS PROBADOS
+PRIMERO: Con fecha 17 de diciembre de 2019 se registra de entrada en esta
+Agencia reclamación contra la entidad I.S.G.F. por utilizar las cookies “_ga”, “gid” y
+“_gat” del servicio Google Analytics en la página web https://isgf.es sin mediar el
+consentimiento previo e informado de los interesados para ello.
+SEGUNDO: Con fecha 14 de enero de 2019 se accede al sitio web https://isgf.es
+constatándose la instalación de tres cookies del dominio isgf.es .
+TERCERO: Con fecha 7 de marzo de 2019 se accedió al sitio web https://isgf.es
+constatándose lo siguiente en relación con el sistema de información por capas
+utilizado por el reclamado para informar sobre el uso de cookies en dicho sitio:
+3.1 Que se instalaban las cookies de tercera parte -ga, -gid y -gat de analítica
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/14
+
+web del servicio de Google Analytics sin mediar ningún tipo de información ni acción
+afirmativa clara de aceptación del usuario para ello.
+3.2. Que en el aviso de cookies de primera capa informaba lo siguiente: “En
+I.S.G.F. utilizamos cookies de terceros para ofrecerle una mejor experiencia de
+navegación. Si sigue navegando, entenderemos que acepta el uso de las cookies en
+nuestro sitio. Si desea más información o modificar el uso de las cookies lea nuestra
+política de privacidad y de cookies.“, seguido de un botón con el literal “Acepto”. Desde
+el enlace con el texto “Política de privacidad y de cookies” se accede a la segunda
+capa.
+3.3 Que entre la información ofrecida en la segunda capa o “Política de
+Privacidad” se señalaba que: El usuario tiene la posibilidad de configurar su ordenador
+para ser notificado de la recepción de cookies y para impedir su instalación. Por favor,
+consulte las instrucciones y manuales de la exploración para más información. Para el
+uso de la página web, no es necesario que el Usuario permita la instalación de cookies
+en su navegación por la web, a pesar de que podría ser necesario que el usuario
+cuando accede a los servicios que requiera el previo registro o 'login'. Las cookies
+utilizadas en este sitio web son temporalmente y con el único propósito de hacer más
+eficiente la navegación de la página web. (…)
+Se informaba sobre el uso de cookies analíticas de tercera parte del Servicio
+Google Analytics y de cookies de tercera parte de Facebook, Twitter, Google Plus.
+Para permitir, conocer, bloquear o eliminar las cookies instaladas en los equipos se
+facilitaban los enlaces a las herramientas de configuración de los navegadores Firefox,
+Chrome, Explores, Safari y Opera. Aunque se utilizaban cookies analíticas del servicio
+de Google Analytics no se ofrecía el enlace al complemento inhabilitación para
+navegadores de Google Analytics”
+CUARTO: Con fecha 17 de septiembre de 2019 se accedió al sitio web https://isgf.es
+verificándose los siguientes hechos:
+4.1 Que la información mostrada en el sistema de información por capas
+utilizado por el responsable del portal era la misma que la presentada por el reclamado
+con fecha 10 de mayo de 2019.
+4.2 Que el aviso de cookies de la primera capa se había modificado,
+presentando el siguiente texto: “En ISGF utilizamos cookies propias y de terceros con
+la finalidad de analizar su navegación y mejorar nuestros servicios. Si desea más
+información o modificar el uso de las cookies lea nuestra POLÍTICA DE COOKIES”, en
+el que se incorpora el botón “ Aceptar y seguir navegando.”
+4.3 Que se había modificado la “Política de Cookies” de la segunda capa,
+ofreciéndose la información a través de un desplegable. En las cookies de terceros
+incluido en el apartado ¿Qué cookies utilizamos” sólo se citaban las cookies de
+analítica web _ga, _gat y _gid del Servicio Google Analytics.
+En el apartado del desplegable ¿Cómo deshabilitar las cookies? se informaba:
+“Normalmente es posible dejar de aceptar las cookies del navegador, o dejar de
+aceptar las cookies de un servicio en particular. Todos los navegadores modernos
+permiten cambiar la configuración de cookies. Estos ajustes normalmente se
+encuentran en las “opciones” o “preferencias” del menú de su navegador. Asimismo,
+puede configurar su navegador o su gestor de correo electrónico, así como instalar
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/14
+
+complementos gratuitos para evitar que se descarguen los Web Bugs al abrir un
+email.” A continuación, se mostraban los enlaces para acceder al menú de
+configuración de las cookies de los navegadores Internet Explorer, Firefox, Chrome,
+Safari y Opera.
+4.4 Que tras acceder al citado portal y haber comprobado el contenido de la
+información mostrada en el sistema de información por capas utilizado se verificó que
+no se instalaban cookies.
+4.5 Que tras pulsar el botón “Aceptar y seguir navegando” de la primera capa
+se comprobó la instalación de las cookies analíticas de tercera parte del servicio
+Google Analytics descritas en el punto 4.3 anterior. Se verificó que en la página del
+“Video Corporativo” del sitio web estudiado, además de las cookies _ga y _gid, se
+instalaban las cookies permanentes de tercera parte “player” y “vuid” del dominio
+vimeo.com.
+FUNDAMENTOS DE DERECHO
+I
+Es competente para resolver este procedimiento la Directora de la Agencia
+Española de Protección de Datos, de conformidad con lo dispuesto en el artículo 43.1
+de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y
+Comercio Electrónico.
+II
+El artículo 22.2 de la LSSI dispone: Los prestadores de servicios podrán
+utilizar dispositivos de almacenamiento y recuperación de datos en equipos terminales
+de los destinatarios, a condición de que los mismos hayan dado su consentimiento
+después de que se les haya facilitado información clara y completa sobre su
+utilización, en particular, sobre los fines del tratamiento de los datos, con arreglo a lo
+dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de
+carácter personal.
+Cuando sea técnicamente posible y eficaz, el consentimiento del destinatario
+para aceptar el tratamiento de los datos podrá facilitarse mediante el uso de los
+parámetros adecuados del navegador o de otras aplicaciones.
+Lo anterior no impedirá el posible almacenamiento o acceso de índole técnica
+al solo fin de efectuar la transmisión de una comunicación por una red de
+comunicaciones electrónicas o, en la medida que resulte estrictamente necesario,
+para la prestación de un servicio de la sociedad de la información expresamente
+solicitado por el destinatario.”
+El citado artículo 22.2 de la LSSI extiende su alcance a todos los tipos de
+dispositivos de almacenamiento y recuperación de datos utilizados por los prestadores
+de servicios de la sociedad de la información en cualesquiera equipos terminales de
+los destinatarios de dichos servicios, lo que incluye no sólo las cookies, que son
+archivos o ficheros de uso generalizado que permiten almacenar datos en dichos
+equipos con diferentes finalidades, sino también cualquier otra tecnología similar
+utilizada para almacenar información o acceder a información almacenada en el
+equipo terminal.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+8/14
+
+No hay que olvidar que en muchos casos los usuarios que utilizan los
+servicios de Internet desconocen que el acceso a los mismos puede conllevar la
+instalación de ficheros o archivos en sus equipos terminales, y que al ser
+recuperados con la información almacenada en los mismos permiten no sólo mejorar
+la navegación y prestar correctamente el servicio solicitado sino que también
+posibilitan, con las implicaciones para la privacidad de los usuarios que ello supone, la
+recogida actualizada y continuada de datos relacionados con sus equipos y perfiles
+de navegación, que posteriormente podrán ser utilizados por los responsables de los
+sitios web a los que se accede, o por los terceros, para analizar su comportamiento y
+para el envío de publicidad basada en el mismo o como medio para el desarrollo de
+otros productos y servicios concretos.
+Por lo tanto, para garantizar la utilización de tales dispositivos con fines
+legítimos y con el conocimiento de los usuarios afectados, que con mayor frecuencia
+recurren a Internet para la realización de sus actividades cotidianas, la regulación
+comunitaria y nacional establece la obtención de un consentimiento informado con el
+fin de asegurar que éstos puedan conocer del uso de sus datos y las finalidades para
+las que son utilizados.
+III
+El Anexo de la LSSI define en su apartado c) al prestador de servicios como
+la “persona física o jurídica que proporciona un servicio de la sociedad de la
+información”. Y por servicio de la sociedad de la información el apartado a) entiende
+“todo servicio prestado normalmente a título oneroso, a distancia, por vía electrónica y
+a petición individual del destinatario.
+El concepto de servicio de la sociedad de la información comprende también
+los servicios no remunerados por sus destinatarios, en la medida en que constituyan
+una actividad económica para el prestador de servicios.
+Son servicios de la sociedad de la información, entre otros y siempre que
+representen una actividad económica, los siguientes:
+1.º La contratación de bienes o servicios por vía electrónica.
+2.º La organización y gestión de subastas por medios electrónicos o de
+mercados y centros comerciales virtuales.
+3.º La gestión de compras en la red por grupos de personas.
+4.º El envío de comunicaciones comerciales.
+5.º El suministro de información por vía telemática.
+En el presente caso ha de considerarse Prestador de Servicios de la
+Sociedad de la Información a la entidad I.S.G.F., como titular de la página web objeto
+de análisis y por tanto situarla bajo las obligaciones y el régimen sancionador de la
+LSSI.
+De acuerdo con la redacción del artículo 22.2 de la LSSI y el sentido legal de
+los conceptos empleados en el mismo, el prestador de servicios de la sociedad de la
+información podrá utilizar los referidos dispositivos para almacenar y recuperar
+datos del equipo terminal de una persona física o jurídica que utilice, sea o no por
+motivos profesionales, un servicio de la sociedad de la información, ello a condición
+de que el destinatario haya dado su consentimiento una vez que se le haya facilitado
+información clara y completa sobre su utilización.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+9/14
+
+No obstante, y aunque pudieran afectar al tratamiento de datos en las
+comunicaciones electrónicas, el tercer párrafo del reseñado artículo introduce
+determinadas exenciones al cumplimiento de las exigencias fijadas en dicho
+precepto, siempre y cuando todas y cada una de las finalidades para las que se
+utilicen las cookies estén individualmente exentas del deber de informar y obtener el
+consentimiento sobre su uso.
+La primera exención requiere que la utilización de las cookies tenga como
+único fin permitir la comunicación entre el equipo del usuario y la red. La segunda
+exención requiere que la instalación de las cookies sea necesaria para la prestación
+de un servicio de la sociedad de la información expresamente solicitado por el
+usuario.
+IV
+La remisión efectuada en el mencionado artículo 22.2 de la LSSI a la Ley
+Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal,
+en lo relativo a los requisitos del consentimiento informado, en la actualidad se ha de
+interpretar como referida al Reglamento (UE) 2016/679 del Parlamento Europeo y del
+Consejo, de 27 de abril de 2016, General de Protección de Datos(RGPD), aplicable
+desde el 25 de mayo de 2018, y a la Ley Orgánica 3/2018, de 5 de diciembre, de
+Protección de Datos Personales y Garantía de los Derechos Digitales (LOPDGDD).
+El artículo 4.11) del RGPD define en como <<consentimiento del
+interesado>>: toda manifestación de voluntad libre, específica, informada e inequívoca
+por la que el interesado acepta, ya sea mediante una declaración o una clara acción
+afirmativa, el tratamiento de datos personales que le conciernen; >>.
+Respecto de las “Condiciones para el consentimiento” el artículo 7 del RGPD
+determina que:
+“1. Cuando el tratamiento se base en el consentimiento del interesado, el
+responsable deberá ser capaz de demostrar que aquel consintió el tratamiento de sus
+datos personales.
+2. Si el consentimiento del interesado se da en el contexto de una declaración
+escrita que también se refiera a otros asuntos, la solicitud de consentimiento se
+presentará de tal forma que se distinga claramente de los demás asuntos, de forma
+inteligible y de fácil acceso y utilizando un lenguaje claro y sencillo. No será vinculante
+ninguna parte de la declaración que constituya infracción del presente Reglamento.
+3. El interesado tendrá derecho a retirar su consentimiento en cualquier
+momento. La retirada del consentimiento no afectará a la licitud del tratamiento
+basada en el consentimiento previo a su retirada. Antes de dar su consentimiento, el
+interesado será informado de ello. Será tan fácil retirar el consentimiento como darlo.
+4. Al evaluar si el consentimiento se ha dado libremente, se tendrá en cuenta
+en la mayor medida posible el hecho de si, entre otras cosas, la ejecución de un
+contrato, incluida la prestación de un servicio, se supedita al consentimiento al
+tratamiento de datos personales que no son necesarios para la ejecución de dicho
+contrato.”
+V
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+10/14
+
+En el presente supuesto, el prestador de servicios de la sociedad de la
+información utiliza un sistema de información por capas para informar sobre el uso de
+las cookies, de modo que la segunda capa complemente a la primera.
+En la primera capa debe mostrarse la información esencial sobre el uso de
+cookies, que, como mínimo, deberá reseñar: la identificación del editor responsable del
+sitio web, no siendo necesaria la denominación social y se desprende de forma
+evidente del propio sitio web; si son propias y/o de terceros, las finalidades de las
+cookies empleadas, modo en que el usuario puede prestar el consentimiento o
+rechazar su instalación y configurar su uso, advirtiendo, en su caso, de que si se
+realiza una determinada acción, se entenderá que acepta el uso de las cookies,
+existencia del derecho a revocar el consentimiento. Además, deberá incluir un enlace
+claramente visible a la segunda capa informativa, donde se incluirá una información
+más detallada.
+La información adicional y complementaria ofrecida en la segunda capa, que
+deberá encontrarse disponible en forma permanente en el sitio web o en la aplicación,
+deberá incluir la siguiente información: definición y función genérica de las cookies,
+los tipos de cookies utilizadas y su finalidad, período de conservación de los datos
+para los diferentes fines, forma de permitir, revocar el consentimiento ya prestado o
+eliminar las cookies enunciadas a través de las funcionalidades facilitadas por el editor
+(el sistema de gestión o configuración de cookies habilitado) o el terminal o a través
+de las plataformas comunes que pudieran existir para esta finalidad. Si el sistema de
+gestión o configuración de las cookies del editor no permite evitar la utilización de las
+cookies de terceros una vez aceptadas por el usuario, se facilitará información sobre
+las herramientas proporcionadas por los principales navegadores y se advertirá que si
+el usuario acepta cookies de terceros, deberá eliminarlas desde las opciones del
+navegador. Finalmente, en esta segunda capa debe ofrecerse información sobre la
+identificación de quien utiliza las cookies, esto es, si la información obtenida por las
+cookies es tratada solo por el editor y/o también por terceros con los que el editor haya
+contratado la prestación de un servicio para el cual se requiera el uso de cookies, con
+identificación de estos últimos.
+VI
+En el presente caso, con motivo de los accesos realizados a la página web
+https://www.isgf.es se ha verificado que el reclamado, en su condición de entidad
+responsable y titular del citado sitio web, ha utilizado cookies de tercera parte no
+exentas del deber de informar en los equipos terminales de los usuarios que acceden
+al citado portal sin mediar el consentimiento previo e informado de los mismos.
+Así, con fecha 7 de marzo de 1019 se constató que al acceder al reseñado
+sitio web se instalaban, sin mediar navegación alguna o acción explicita de aceptación
+del usuario, las cookies analíticas del Servicio de Google Analytics que se describen
+en el Hecho Probado Tercero de esta resolución, cuyos puntos 3.2 y 3.3 aparece la
+información relativa al contenido del aviso y la “Política de Cookies” mostradas en ese
+momento. Por lo que su instalación se producía antes de ofrecer la información clara y
+completa sobre su utilización que resulta exigible para obtener el consentimiento
+informado, ya que se almacenaban en el terminal del usuario sin que éste hubiera
+tenido la oportunidad de conocer la información contenida en el sitio sobre el uso de
+cookies y la posibilidad de rechazar o aceptar su utilización mediante una acción libre,
+específica, informada e inequívoca.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+11/14
+
+A mayor abundamiento, en este acceso también se comprobó que la
+información mostrada en ambos niveles de información no era clara ni completa. Así,
+en el aviso de la primera capa no permitía identificar correctamente la finalidad para la
+que se usaban las cookies analíticas de tercera parte citadas, ya que de la expresión
+“para ofrecerle una mejor experiencia de navegación” no se desprende que se usan
+para el seguimiento y medición de los hábitos de navegación de los usuarios del
+portal. Por otra parte como en el aviso ya se advertía del tipo de acción concreta que
+suponía la aceptación del uso de las cookies por el usuario (seguir navegando) no
+resultaba necesario incluir el botón de aceptación. Tampoco informaba del modo en
+que el usuario podía rechazar la utilización de cookies o configurarlas de forma
+granular.
+En lo que respecta a la segunda capa o “Política de Cookies” no se indicaba el
+período de conservación de los datos para los fines para los que se iban a utilizar las
+cookies analíticas. No se informaba sobre la forma implementada para
+permitir
+denegar, revocar el consentimiento prestado o eliminar las cookies enunciadas de
+forma granular, bien a través de las funcionalidades proporcionadas por el responsable
+o editor del sitio (sistema de gestión o configuración de cookies habilitado) o el sistema
+operativo del software de navegación o a través de las plataformas comunes que
+pudieran cumplir esta finalidad. A este respecto se señala que si el sistema de
+configuración ofrecido no permite revocar el consentimiento prestado para el uso de
+cookies de terceros, el responsable del sitio advertirá al usuario que si acepta cookies
+de terceros deberá eliminarlas desde las opciones ofrecidas por su navegador o
+desde el sistema habilitado para ello por los terceros. Tampoco se ofrecía el enlace del
+“Complemento inhabilitación para navegadores de Google Analytics”.
+Por lo tanto, la información ofrecida para bloquear o eliminar las cookies a
+través de las herramientas de configuración proporcionadas por los principales
+navegadores resulta insuficiente a los efectos pretendidos de permitir al usuario
+configurar sus preferencias en forma granular.
+El responsable del sitio web, una vez recibido el trámite de audiencia, alegó
+haber adoptado las medidas necesarias para regularizar la situación. Al visitar, con
+fecha 17 de septiembre de 2019, la referida página web para comprobar tales
+manifestaciones se verificó, conforme figura en el Hecho Probado Cuarto del presente
+acto, que no se instalaban cookies no exentas del deber de información por el mero
+hecho de visitar el portal ni mientras se consultaba la información facilitada en el
+mismo sobre el uso de cookies. Igualmente, se constató que, una vez pulsado el
+botón “Aceptar y seguir navegando” de la primera capa y habiendo navegado por las
+diferentes páginas del sitio web analizado, se instalaron las cookies de tercera parte
+del Servicio de Google Analytics reseñadas con anterioridad, observándose también
+que en la página correspondiente al vídeo corporativo se descargaron las cookies
+“player” y “vuid” del dominio vimeo.com.
+Sin perjuicio de que el reclamado haya adoptado medidas para evitar que la
+instalación de las cookies se produzca con anterioridad a la obtención del
+consentimiento informado, a la vista del contenido mostrado en el sistema de
+información por capas actual se estima que continúan produciéndose carencias
+informativas que impiden entender que la información proporcionada resulta clara y
+completa a los efectos de la obtención del consentimiento.
+Así la modificación introducida en el contenido de la primera capa, cuyo texto
+figura transcrito en el punto 4.2 del Hecho Probado Cuarto, no informa sobre las
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+12/14
+
+finalidades a las que responde el uso de cookies persistentes de tercera parte del
+servicio de video del dominio vimeo.com cuya descarga se constató con fecha 17 de
+septiembre de 2017.
+No se han subsanado las anomalías comunicadas en el trámite de audiencia
+respecto de la ausencia de información relativa al modo de rechazar cookies,
+observándose que no ofrece un botón o mecanismo que permita rechazar el
+consentimiento a su instalación con la misma facilidad con la que se posibilita su el
+consentimiento a su instalación a través del botón “Aceptar y seguir navegando”, ello
+con independencia de que este botón incluye dos acciones de aceptación
+incompatibles entre sí, debiendo ofrecerse al usuario o la modalidad de “Seguir
+navegando” o el mecanismo de “Aceptar” cookies.
+Por su parte, aunque la “Política de Cookies” o segunda capa también ha sido
+modificada, como se desprende de lo descrito en el punto 4.3 del Hecho Probado
+Cuarto, se observa que en el apartado ¿Qué cookies utilizamos?” del desplegable no
+se incluye el uso de dispositivos de tercera parte del dominio vimeo.com ni se refieren
+las finalidades para las que se utilizan este tipo de dispositivos vinculados al servicio
+de video ni el periodo de conservación de los datos obtenidos a través de los
+mismos. Igualmente, se constata que en el apartado ¿Cómo deshabilitar las cookies?
+no hay información concreta sobre la forma de permitir o eliminar las cookies
+enunciadas de forma granular a través de los sistemas anteriormente señalados en
+este Fundamento de Derecho, los cuales se reiteran al igual que las observaciones
+efectuadas respecto de la información que resulta necesaria sobre la forma de
+revocar el consentimiento prestado. Continúa sin proporcionarse información sobre el
+enlace del “Complemento inhabilitación para navegadores de Google Analytics” y
+siguen facilitándose únicamente los enlaces de acceso a los menús de configuración
+de cookies de diversos navegadores como único medio para deshabilitar o bloquear
+las cookies.
+Con arreglo a lo cual, la instalación de las cookies del servicio de Google
+Analytics y del dominio vimeo.com en los equipos terminales de los usuarios que
+visitan dicho portal se produce sin haber obtenido, previamente, el consentimiento
+informado de los mismos para su utilización, toda vez que el reclamado no ofrece a los
+usuarios la información clara y completa que se precisa para entender válidamente
+prestado dicho consentimiento, que se recuerda debe ser libre, específico informado e
+inequívoco en relación con las diferentes finalidades para las que se usarán dichos
+dispositivos de almacenamiento y recuperación de datos, incumpliendo de este modo
+el mandato del artículo 22.2 de la LSSI.
+La conducta descrita está tipificada como leve en el artículo 38.4.g) de la LSSI,
+que señala como tal: “Utilizar dispositivos de almacenamiento y recuperación de datos
+cuando no se hubiera facilitado la información u obtenido el consentimiento del
+destinatario del servicio en los términos exigidos por el artículo 22.2.”
+VII
+El artículo 39 bis de la LSSI, bajo el epígrafe “Moderación de las sanciones”,
+estipula en su apartado 2 lo siguiente:
+“2. Los órganos con competencia sancionadora, atendida la naturaleza de los
+hechos y la concurrencia significativa de los criterios establecidos en el apartado
+anterior, podrán acordar no iniciar la apertura del procedimiento sancionador y, en su
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+13/14
+
+lugar, apercibir al sujeto responsable, a fin de que en el plazo que el órgano
+sancionador determine, acredite la adopción de las medidas correctoras que, en cada
+caso, resulten pertinentes, siempre que concurran los siguientes presupuestos:
+a) Que los hechos fuesen constitutivos de infracción leve o grave conforme a lo
+dispuesto en esta Ley.
+b) Que el órgano competente no hubiese sancionado o apercibido con
+anterioridad al infractor como consecuencia de la comisión de infracciones previstas
+en esta Ley.
+Si el apercibimiento no fuera atendido en el plazo que el órgano sancionador
+hubiera determinado, procederá la apertura del correspondiente procedimiento
+sancionador por dicho incumplimiento.”
+Por su parte, el artículo 40 de la LSSI, en cuanto a la “Graduación de la cuantía
+de las sanciones.”, dispone:
+“La cuantía de las multas que se impongan se graduará atendiendo a los
+siguientes criterios:
+a) La existencia de intencionalidad.
+b) Plazo de tiempo durante el que se haya venido cometiendo la infracción.
+c) La reincidencia por comisión de infracciones de la misma naturaleza, cuando
+así haya sido declarado por resolución firme.
+d) La naturaleza y cuantía de los perjuicios causados.
+e) Los beneficios obtenidos por la infracción.
+f) Volumen de facturación a que afecte la infracción cometida.
+g) La adhesión a un código de conducta o a un sistema de autorregulación
+publicitaria aplicable respecto a la infracción cometida, que cumpla con lo dispuesto en
+el artículo 18 o en la disposición final octava y que haya sido informado
+favorablemente por el órgano u órganos competentes.”
+En el presente supuesto se cumplen los requisitos recogidos en las letras a) y
+b) del citado apartado 2 del artículo 39 bis. Junto a ello, se aprecia que concurre la
+circunstancia prevista en el artículo 39 bis, apartado 1.a), que dispone que “Cuando se
+aprecie una cualificada disminución de la culpabilidad del imputado o de la
+antijuridicidad del hecho como consecuencia de la concurrencia significativa de varios
+de los criterios enunciados en el artículo 40 , concurriendo en este caso los criterios
+d) y e) del citado precepto, por cuanto no hay constancia de la existencia de
+perjuicios causados al reclamante ni de beneficios obtenidos por la reseñada
+sociedad a raíz de la supuesta comisión de la infracción descrita. Lo que permite
+acordar no iniciar la apertura del procedimiento sancionador y, en su lugar, apercibir al
+sujeto responsable.
+De acuerdo con lo señalado,
+Por la Directora de la Agencia Española de Protección de Datos, SE
+ACUERDA:
+PRIMERO: APERCIBIR (A/00014/2019) a I.S.G.F. INFORMES COMERCIALES, S.L.
+con arreglo a lo dispuesto en el artículo 39 bis, apartado 2, de la LSSI, con relación a
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+14/14
+
+la reclamación por infracción del artículo 22.2 de la LSSI, tipificada como leve en el
+artículo 38.4.g) de la citada norma.
+SEGUNDO: REQUERIR a I.S.G.F. INFORMES COMERCIALES, S.L. de acuerdo con
+lo establecido en el apartado 2 del artículo 39 bis de la LSSI para que en el plazo de
+un mes desde la notificación de la presente resolución.
+2.1.- CUMPLA lo previsto en el artículo 22.2 de la LSSI, para lo que se insta a
+dicha entidad a adecuar la información ofrecida en el sitio web www.isgf.es del que es
+responsable, a las exigencias reseñadas en el mencionado precepto, procediendo,
+por tanto a incluir en cada uno de los niveles del sistema de información por capas
+utilizado la información indicada en el Fundamento de Derecho VI o, en su caso, la
+que proceda en función del tipo de cookies instaladas y las finalidades para las que
+se utilicen.
+2.2.- INFORME a la Agencia Española de Protección de Datos del
+cumplimiento de lo requerido, aportando los documentos o medios de prueba que
+acrediten dicha circunstancia.
+TERCERO: NOTIFICAR el presente Acuerdo a I.S.G.F. INFORMES COMERCIALES,
+S.L..
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa (artículo 48.6 de la
+LOPDGDD), y de conformidad con lo establecido en los artículos 112 y 123 de la Ley
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, los interesados podrán interponer, potestativamente,
+recurso de reposición ante la Directora de la Agencia Española de Protección de Datos
+en el plazo de un mes a contar desde el día siguiente a la notificación de esta
+resolución, o, directamente recurso contencioso administrativo ante la Sala de lo
+Contencioso-administrativo de la Audiencia Nacional, con arreglo a lo dispuesto en el
+artículo 25 y en el apartado 5 de la disposición adicional cuarta de la Ley 29/1998, de
+13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa, en el plazo de
+dos meses a contar desde el día siguiente a la notificación de esta acto, según lo
+previsto en el artículo 46.1 del referido texto legal.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

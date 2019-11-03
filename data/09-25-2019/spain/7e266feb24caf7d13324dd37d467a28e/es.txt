@@ -1,0 +1,262 @@
+1/5
+
+890-150719
+
+Expediente Nº: E/08800/2019
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos ante
+las
+páginas
+web:
+http://cam4all.org;
+http://camshow.biz;
+http://xgays.org;
+http://gaywebcamblog.com; https://upstore.net, http://alfafile.net; CLOUDFLARE, INC.
+con domicilio en 101 Townsend St. - San Francisco, CA 94107, EEUU y D. A.A.A. con
+NIF -desconocido- y teniendo como base los siguientes:
+HECHOS
+PRIMERO: Con fecha 20/10/18, se registra de entrada en esta Agencia reclamación
+formulada por D. B.B.B. (en lo sucesivo, “el reclamante), por los siguientes hechos,
+según manifestaciones del denunciante: “La publicación sin consentimiento de
+fotografías y videos de contenido sexual en varias páginas web”. Según el reclamante,
+“consintió la difusión a través de internet mientras mantenía estas relaciones sexuales,
+pero no su grabación y su posterior publicación resultándole imposible ejercer su
+derecho de supresión”.
+Según el reclamante, los hechos tuvieron lugar el 08/09/18 y anexa la siguiente
+documentación:
+-
+
+Cuatro correos electrónicos ejercitando su derecho de supresión sin resultado.
+Denuncia ante la Dirección General de la Policía de la Generalitat de Catalunya
+el 29/10/18, con traslado de la reclamación a la UNIDAD CONTRA LA
+CRIMINALIDAD INFORMÁTICA de la FISCALÍA GENERAL DEL ESTADO.
+Esta Agencia recibe, con fecha de 29/11/18, acuse de recibo de esa Fiscalía
+indicando la incoación del expediente.
+
+SEGUNDO: Con fecha 11/02/19, se recibe, en esta Agencia, escrito del reclamante
+manifestando que han aparecido las mismas imágenes y videos en dos nuevos sitios,
+y amplía la reclamación a http://cumshow.men y https://blkcams.com.
+TERCERO: A la vista de los hechos denunciados y en los documentos aportados, la
+Subdirección General de Inspección de Datos procedió a realizar actuaciones para el
+esclarecimiento de los hechos, al amparo de los poderes de investigación otorgados a
+las autoridades de control en el art. 57.1 del Reglamento (UE) 2016/679, del
+Parlamento Europeo y del Consejo, de 27/04/2016, relativo a la Protección de las
+Personas Físicas en lo que respecta al Tratamiento de Datos Personales y a la Libre
+Circulación de estos Datos (Reglamento General de Protección de Datos, RGPD), y de
+acuerdo con el mecanismo previsto en el artículo 65.4 de la Ley Orgánica 3/2018, de 5
+de diciembre, de Protección de Datos personales y garantía de los derechos digitales,
+(en adelante, LOPDGDD), realizándose las siguientes actuaciones:
+-
+
+Con fechas 08/03/19 Y 06/06/19 se intenta localizar a A.A.A., la persona
+denunciada por el reclamante y con la que indica que había mantenido
+relaciones sexuales, con objeto de recabar información sobre los hechos, pero
+ninguna de las notificaciones llegó a destino siendo “desconocido”.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/5
+
+-
+
+Con los datos proporcionados por el reclamante, se realizó requerimiento a la
+Agencia Tributaria para que informara sobre el DNI de esta persona,
+recibiéndose contestación por parte de AEAT que, entre las coincidencias de
+titular, no existía ninguna con la dirección indicada por el reclamante.
+
+-
+
+Con fecha 18/07/19 se solicita información a la Fiscalía sobre el expediente
+relacionado, contestando que no tenían conocimiento aún de que la denuncia
+presentada por el reclamante ante la Comisaria de Les Corts de Barcelona
+hubiera derivado en procedimiento judicial. Añaden que en esta misma fecha
+se reitera la solicitud de información al mencionado cuerpo de policía y que nos
+informarán oportunamente de su resultado.
+
+-
+
+En las páginas denunciadas se comprueba que los videos denunciados
+aparecen fotografías de las relaciones del reclamado, correspondientes a
+“cam4all.org”, “camshow.biz”, “gaywebcamblog.com”, enlazan a dos videos
+alojados en el servidor https://upstore.net.
+
+-
+
+En cuanto al video referido en las páginas de previsualización, en las que
+aparecen fotografías de las relaciones del reclamado, correspondientes a
+“xgays.com”, se comprueba que está alojado en, https://alfafile.net.
+
+-
+
+Con respecto a los videos referenciados en las páginas de previsualización, en
+las que aparecen fotografías de las relaciones del reclamado, de los sitios web:
+blkcams.com y cumshow.men, se comprueba que están alojados en estos
+mismos sitios pero que no se pueden reproducir por cuestiones técnicas.
+
+-
+
+Realizadas las indagaciones en internet mediante la herramienta whois sobre
+los titulares de los registros de los sitios web denunciados y sobre los
+registradores de los servidores denunciados, se obtuvieron los siguientes
+resultados:
+a. “blkcams.com” y “cumshow.men” están registradas por WhoisGuardInc.,
+entidad opaca con sede en Panamá.
+b. “alfafile.net”, “cam4all.org”, “camshow.biz”, “gaywebcamblog.com”,
+“xgays.com” y “upstore.net”, están registradas por Whois Privacy Corp.
+entidad opaca con sede en Bahamas. No se puede determinar, por tanto,
+los titulares de los referidos sitios web.
+
+-
+
+La información de contacto publicada en estos sitios web es una dirección de
+correo para informar de abusos. Se realizó un requerimiento de desindexación
+y eliminación de contenido a todos los sitios web donde publicaban una
+dirección de correo para informar sobre abusos. Todas ellas resultaron
+inactivas excepto las de los servidores de almacenamiento, “alfafile.net” y
+“upstore.net”. “Afafile.net” se comprometió a eliminar el video en 24 horas y se
+ha constatado que así lo hizo. “Upstore.net” no ha contestado.
+
+-
+
+Con respecto a los sitios web con direcciones de correo inactivas, con objeto
+de confirmar si disponían de un servidor de correo electrónico, se realizaron
+búsquedas en los servidores DNS de internet para comprobar los dominios de
+las direcciones que habían dado error, concluyendo que dichos dominios no
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/5
+
+tenían registros MX (Mail Exchange), en los servidores DNS, resultando
+imposible dirigir correo electrónico hacia ellos.
+-
+
+Con respecto al alojamiento de estos servidores, se constata que todos están
+alojados en los sistemas de CLOUDFLAREINC. con sede en Estados Unidos y
+suscrita al acuerdo “Privacy Shield Framework”.
+
+-
+
+Con fecha 10/09/19, se realizó un requerimiento vía email a la dirección
+sar@cloudflare.com, informada en la política de privacidad de esta empresa de
+hospedaje, para que cesara el tratamiento de las imágenes y videos
+denunciados, pero a fecha 01/10/19, aún no se ha recibido respuesta de esta
+entidad ni ha sido retirado el contenido indicado en dicho requerimiento.
+
+-
+
+Introducidos el nombre y/o apellidos en los buscadores de internet, no se
+obtienen resultados relativos a las imágenes y videos objeto de la reclamación,
+sino solamente referencias a su vida profesional.
+
+CUARTO: Consultada la aplicación de la AEPD que gestiona la consulta de
+antecedentes de sanciones y apercibimientos precedentes al reclamado no le constan
+registros previos.
+FUNDAMENTOS DE DERECHO
+I
+En virtud de los poderes que el artículo 58.2 del RGPD reconoce a cada autoridad de
+control, y según lo establecido en el art. 47 de LOPDGDD, la Directora de la Agencia
+Española de Protección de Datos es competente para resolver este procedimiento.
+Asimismo corresponde a la Agencia Española de Protección de Datos realizar
+actuaciones previas de investigación reguladas en el artículo 67.1 de la LOPDGDD y
+en el artículo 55 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas (LPACAP), con el fin de lograr una mejor
+determinación de los hechos y circunstancias que justifiquen el tratamiento del
+procedimiento y la identificación de la persona o personas que pudieran resultar
+responsables, así como, y la conveniencia o no de iniciar el procedimiento en función
+de los resultados obtenidos en el periodo de actuaciones previas.
+II
+En el presente caso se trata de determinar, a la vista del conjunto de elementos de
+juicios disponibles, las responsabilidades que pudieran derivarse de la grabación y
+posterior publicación sin consentimiento del afectado de fotografías y videos de
+contenido sexual en varias páginas web y sin que le resulte posible ejercer su derecho
+de supresión.
+Estos hechos podrían ser constitutivos de vulneración del artículo 5.1.a) del RGPD que
+señala que, “Los datos personales serán tratados de manera lícita, leal y transparente
+en relación con el interesado”. No obstante, de las actuaciones practicadas por esta
+Agencia, se desprende que:
+a) El presunto responsable de la grabación y posterior publicación de las
+imágenes y videos sin el consentimiento del reclamante no ha podido ser
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/5
+
+localizado. Además, las gestiones realizadas, a través de la AEAT para su
+localización, tampoco tuvieron resultado.
+b) La Fiscalía General del Estado, indica que aún no tiene conocimiento de que la
+denuncia presentada por el reclamante ante la Comisaria de Les Corts de
+Barcelona hubiera derivado en procedimiento judicial.
+c) Los sitios web denunciados y los registradores de los servidores que dan
+soporte tienen sus sedes en Panamá y en Bahamas, no pudiendo determinar
+los titulares de los sitios web.
+d) El requerimiento de desindexación y eliminación de contenido realizado a todos
+los sitios web donde se han publicado las imágenes y los vídeos han resultaron
+inactivas excepto las de los servidores de almacenamiento “alfafile.net”, que ha
+eliminado el video y “Upstore.net” que no ha contestado al requerimiento.
+e) Los sitios web con direcciones de correo inactivas, no tenían registros MX (Mail
+Exchange), en los servidores DNS, resultando imposible dirigir correo
+electrónico hacia ellos.
+f)
+
+Los servidores están alojados en los sistemas de CLOUDFLAREINC. con sede
+en Estados Unidos y suscrita al acuerdo “Privacy Shield Framework”. No
+obstante, el requerimiento vía email a la dirección sar@cloudflare.com, para
+que cesara el tratamiento de las imágenes y videos denunciados, no ha
+recibido respuesta.
+
+A la vista de todo lo cual, al no poder ser localizado el presunto responsable de la
+divulgación de las fotografías y vídeos en diferentes páginas web, así como, la
+imposibilidad de dirigirse a los sitios web denunciados y a los registradores de los
+servidores que los dan soporte, al tener sus sedes en terceros países fuera de la
+Unión Europea, debe procederse al archivo de las presentes actuaciones.
+Por lo tanto, de acuerdo con lo señalado, ante la falta de evidencias de los hechos
+denunciados, por la Directora de la Agencia Española de Protección de Datos,
+SE ACUERDA
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente resolución al reclamante e INFORMAR de ella al
+responsable del tratamiento.
+Contra esta resolución, que pone fin a la vía administrativa según lo preceptuado por
+el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas, y de conformidad con lo establecido en los
+arts.
+112 y 123 de la citada Ley 39/2015, de 1 de octubre, los interesados podrán
+interponer,
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/5
+
+potestativamente, recurso de reposición ante la Directora de la Agencia Española de
+Protección de Datos en el plazo de un mes a contar desde el día siguiente a la
+notificación de esta resolución o directamente recurso contencioso administrativo ante
+la Sala de lo Contencioso-administrativo de la Audiencia Nacional, con arreglo a lo
+dispuesto en el artículo 25 y en el apartado 5 de la disposición adicional cuarta de la
+Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa,
+en el plazo de dos meses a contar desde el día siguiente a la notificación de este acto,
+según lo previsto en el artículo 46.1 de la referida Ley.
+
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

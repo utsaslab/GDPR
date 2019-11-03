@@ -1,0 +1,611 @@
+1/13
+
+940-0419
+Procedimiento Nº: E/10242/2018
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes
+HECHOS
+PRIMERO: La reclamación interpuesta por A.A.A. (en adelante, el reclamante) tiene
+entrada con fecha 18/09/2018 en la Agencia Española de Protección de Datos. La
+reclamación se dirige contra AYUNTAMIENTO DE PATERNA, con NIF P4619200A (en
+adelante, el reclamado). Los motivos en que basa la reclamación son que está
+mandando cartas de felicitación a los domicilios tanto por cumplir al mayoría de edad
+como el día que se celebra la fiesta de la Comunidad Autónoma en la que nacieron.
+Considera que se hace un uso indebido del padrón municipal.
+Aporta dos cartas,
+La primera, se inicia con: “Querido vecino” avisando de que el 8/08 próximo se
+celebra el día del Principado de Asturias, “una fecha señalada para todos vosotros
+vosotras” ”Como Alcalde quisiera sumarme a las felicitaciones…”les felicita y señala
+que “aprovecho para agradecer vuestro compromiso con nuestra tierra que ya es la
+vuestra. Porque Paterna es lo que es hoy en día gracias a gente como vosotros. No
+solo contribuís a nuestro desarrollo económico, sino también a nuestro
+enriquecimiento cultural, aportando vuestras tradiciones y costumbres, pero también
+aceptando como propias las de Paterna” “Feliz día del Principado de Asturias”, firmada
+por el alcalde de Paterna.
+En la otra, inicia también con “Querido vecino” “El próximo 11 de septiembre se
+celebra el Dia de Cataluña, una fecha señalada para todos vosotros y vosotras. Como
+alcalde de vuestra ciudad quisiera sumarme a las felicitaciones y desearos que
+conmemoréis este día tan especial con vuestras familias y amigos” “Además,
+aprovecho para agradecer vuestro compromiso con nuestra tierra que ya es al
+vuestra. Porque Paterna es lo que es hoy en día gracias a gente como vosotros “Feliz
+día de Cataluña”, firmado por el Alcalde de Paterna. Lleva el envío una pegatina con la
+dirección, el nombre y apellidos escritos en letra de ordenador, que no son los del
+reclamante.
+SEGUNDO: Tras la recepción de la reclamación, el 31/10/2018, la Subdirección
+General de Inspección de Datos procedió, de conformidad con art. 9.4 del Real
+Decreto-ley 5/2018 (BOE 30/07/2018) al traslado de la reclamación a la reclamada,
+instando que diera respuesta a la reclamante y que detallara lo sucedido y las medidas
+implementadas para que no se reiteraran hechos como los objetos de la reclamación.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/13
+
+TERCERO: Con fecha 5/12/2018, la reclamada responde:
+
+1) Aporta copia de respuesta al reclamante, con el añadido de “GRUPO
+Ciudadanos PATERNA” y acuse de entrega firmado el 4/12/2018. En el escrito,
+un Decreto del teniente Alcalde Educación, Juventud y Deportes se significa
+entre otras, la disposición adicional segunda, apartado dos de la Ley Orgánica
+15/1999, de 13/12, de Protección de Datos de Carácter Personal (LOPD),
+que señala: ”Los ficheros o registros de población tendrán como finalidad la
+comunicación de los distintos órganos de cada Administración pública con los
+interesados residentes en los respectivos territorios, respecto a las relaciones
+jurídico-administrativas derivadas de las competencias respectivas de las
+Administraciones públicas.”
+Señala que dentro de la tarea del Ayuntamiento se halla la obligación de
+facilitar la más amplia información sobre su actividad y participación de todos los
+ciudadanos en la vida local, pudiendo el municipio promover toda clase de
+actividades y prestar servicios públicos que contribuyan a satisfacer las
+necesidades y aspiraciones de la comunidad vecinal.
+Menciona la sentencia de la Audiencia Nacional de 21/04/2004 en la que
+examina un supuesto de remisión de cartas por el Ayuntamiento de Lorca,
+indicando que no ha vulnerado el artículo 4.2 de la LOPD pues los datos no se
+utilizaron para una finalidad incompatible con aquella para la que fueron
+recogidos, sino para el ejercicio de unas competencias municipales como son la
+integración social, que alcanza especial relevancia en territorios con alto índice
+de población originaria de otras zonas del territorio nacional que un buen día se
+vieron obligados a dejar su tierra en busca de mejores condiciones de vida- Esa
+actividad publica municipal encaminada a cultivar los lazos de unión entre los
+pueblos, a que no se produzca una perdida de su identidad, evitando su
+desarraigo a las siguientes generaciones, entra dentro de las funciones
+competenciales que el ordenamiento jurídico atribuye a los municipios, y en
+ningún caso puede considerarse que los hechos imputados son constitutivos de
+la infracción del articulo 4.2 de la LOPD”
+Añade que “el afectado puede dirigirse al Ayuntamiento oponiéndose a
+que puedan ser tratados sus datos para dicha finalidad, siendo que hasta la
+fecha ningún vecino se ha quejado por recibir este tipo de comunicaciones”
+Añade que en el informe 87/2006 y la resolución de la AEPD
+E/3129/2013 consideran que el envío de estas cartas a los vecinos utilizando
+los datos del padrón no es contraria a la LOPD.
+La reclamación del reclamante es desestimada.
+
+2) Manifiestan que se está evaluando si la comunicación de datos a que hace
+referencia al reclamación presentada por el reclamante, es subsumible en el
+artículo “6.1.e) y f) a efectos de nuevas comunicaciones”.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/13
+
+CUARTO: Se incorporan por guardar relación:
+
+1)
+
+Copia de la resolución de archivo E/3129/2013 anonimizada.
+
+2)
+
+Informe del Gabinete Jurídico 87/2006 de 31/07/2016, que indica:
+
+“La consulta plantea si resulta conforme a lo dispuesto en la Ley Orgánica
+15/1999, de 13 de diciembre, de Protección de datos de Carácter Personal, de la
+utilización de los datos del Padrón Municipal de Habitantes para la remisión de una
+carta de bienvenida a los nuevos vecinos en los términos transcritos en la propia
+consulta.
+
+La cuestión ha sido analizada por la Agencia Española de Protección de Datos
+en resolución de fecha 12 de agosto de 2004, en la que se señala, teniendo en cuenta
+la doctrina derivada de la Sentencia de la Audiencia Nacional de 21 de abril de 2004,
+lo siguiente:
+
+“La representación del Ayuntamiento de “xxx” alega que existe una errónea
+apreciación por parte de la Agencia Española de Protección de Datos, en
+adelante AEPD, sobre la naturaleza, funciones y régimen legal del Padrón
+Municipal, al servicio de las competencias y actividades municipales.
+El régimen jurídico del Padrón Municipal viene recogido en los artículos 15 y
+siguientes de la Ley de Bases de Régimen Local, en la redacción dada por la
+Ley 4/1996, de 10 de enero, normativa que debe considerarse como la
+disposición reguladora del fichero “padrón Municipal ”, en cuyo cumplimiento
+los municipios deben organizar y mantener el fichero previsto legalmente.
+En cuanto a la naturaleza jurídica se concibe como un registro administrativo
+donde constan los datos de los vecinos de un municipio. Estos datos
+constituyen prueba de la residencia en el municipio y del domicilio habitual en
+el mismo. Así, las certificaciones que de dichos datos se expidan tendrán
+carácter de documento público y fehaciente para todos los efectos
+administrativos (art. 16.1 de la Ley 7/85, modificada por la Ley 4/96).
+Los datos que se inscriben en el Padrón Municipal son los siguientes :
+
+a)
+Nombre y apellidos
+b)
+Sexo
+c)
+Domicilio habitual
+d)
+Nacionalidad
+e)
+Lugar y fecha de nacimiento
+f)Número de documento nacional de identidad o tratándose de extranjeros, del
+documento que lo sustituya
+Certificado o título escolar o académico que se posea
+
+g)
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/13
+
+h)Cuantos otros datos puedan ser necesarios para la elaboración del censo
+electoral siempre que se garantice el respeto a los derechos fundamentales
+reconocido en la Constitución Española.
+La Disposición adicional segunda, apartado segundo de la LOPD, señala “2.
+Los ficheros o registros de población tendrán como finalidad la comunicación
+de los distintos órganos de cada Administración pública con los interesados
+residentes en los respectivos territorios, respecto a las relaciones jurídicoadministrativas derivadas de las competencias respectivas de las
+Administraciones públicas.”
+En este sentido, la LOPD concibe los registros de población, entre los que
+cabe incluir al Padrón Municipal, como un elemento de comunicación entre los
+distintos órganos de las Administraciones Públicas y los ciudadanos, y que su
+uso vendrá determinado en el cumplimiento de las competencias que le
+ordenamiento jurídico le viene atribuido.
+En el presente caso, nos encontramos ante el supuesto en el que el Alcalde de
+la localidad de “xxx” envió cartas de “bienvenida” a los nuevos vecinos
+empadronados, en un caso, e “informativa de las obras que en ese momento
+se están realizando”, en otro.
+Al propio tiempo, el artículo 69.1 de la Ley de Bases del Régimen Local,
+LBRL, impone a las Corporaciones locales la obligación de facilitar la más
+amplia información sobre su actividad y la participación de todos los
+ciudadanos en la vida local, pudiendo el Municipio promover toda clase de
+actividades y prestar cuantos servicios públicos contribuyan a satisfacer las
+necesidades y aspiraciones de la comunidad vecinal (artículo 25.1 LBRL),
+correspondiendo al Alcalde la representación del Ayuntamiento (artículo 2.1.b) .
+En este sentido, la Sentencia de la Audiencia Nacional de fecha
+21/04/2004, en el Fundamento de Derecho VI, señala :
+“En el caso que enjuiciamos se contempla el supuesto en el que el Alcalde de
+XXX envió una carta a los vecinos empadronados en esa localidad nacidos en
+Lorca, informándoles que durante la Semana Santa había visitado Lorca a raíz
+de la invitación de su Alcalde, al que había invitado a visitar XXX coincidiendo
+con la celebración del 50 Aniversario de la Romería de la Virgen de la
+Fuensanta.
+A juicio de la Corporación recurrente, la comunicación con los vecinos de
+XXX nacidos en Lorca, para lo que usó el Padrón Municipal, constituye la
+realización de una determinada actividad pública de hermanamiento entre dos
+ciudades, invitándoles a participar en dicho proceso como elemento de política
+de integración y cohesión social.
+Postura que comparte la Sala, puesto que es competencia municipal : “La
+prestación de los servicios sociales y de promoción y reinserción social” (25.2.k
+, LBRL)”.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/13
+
+A propio tiempo, el art. 69.1 de la misma norma impone a las Corporaciones
+locales la obligación de facilitar la más amplia información sobre su actividad y
+la participación de todos los ciudadanos en la vida local, pudiendo el Municipio
+promover toda clase de actividades y aspiraciones de la comunicada vecinal
+(art. 25.1 LBRL), correspondiendo a Alcalde la representación del
+Ayuntamiento (art. 2.1b, LBRL).
+Así las cosas, no puede mantenerse que la utilización por el Alcalde de XXX de
+unos datos obtenidos del Padrón Municipal para remitir las cartas a los vecinos
+nacidos en Lorca, haya vulnerado el art. 4.2 de la LOPD, porque dichos datos
+no se utilizaron para una finalidad incompatible con aquellas para las que los
+datos hubieran sido recogidos, sino precisamente para el ejercicio de unas
+competencias municipales, como son las de integración social, que alcanza
+especial relevancia en territorios con alto índice de población originaria de
+otras zonas del territorio nacional que un buen día se vieron obligados a dejar
+su tierra en busca de mejores condiciones de vida.
+Pues bien, esa actividad pública municipal encaminada a cultivar los lazos de
+unión entre los pueblos, a que no se produzca una pérdida de su identidad,
+evitando su desarraigo a las siguientes generaciones, entra dentro de las
+funciones competenciales que el ordenamiento jurídico atribuye a los
+municipios, y en ningún caso puede considerarse que los hechos imputados
+son constitutivos de la infracción del artículo 4.2 de la Ley Orgánica 15/1999,
+LOPD.”
+Por tanto, las alegaciones formuladas por el Ayuntamiento de “xxx” deben ser
+aceptadas, dado que, acreditado que el origen de los datos personales
+utilizados para el envío de las citadas cartas fue el Padrón Municipal, no se
+utilizaron los mismos para una finalidad incompatible con aquellas para las que
+fueron recabados, sino precisamente para el ejercicio de unas competencias
+municipales basadas en el acercamiento de la actividad administrativa al
+ciudadano.”
+En consecuencia, en virtud de la doctrina sustentada en dicha resolución, y teniendo
+en cuenta el contenido de la carta a la que se refiere la consulta, procede considerar
+que la utilización de los datos del padrón municipal para su remisión no resulta
+contraria a lo dispuesto en la Ley Orgánica 15/1999.”
+
+3) Sentencia citada de la Audiencia Nacional, sala de lo Contencioso-Administrativo,
+Sección 1ª, de 21/04/2004, recurso contencioso-administrativo 637/2002 de la que se
+destaca:
+“SEGUNDO
+La resolución impugnada consigna como hechos probados los siguientes:
+1º: El Alcalde de Sabadell envió, con fecha 4 de mayo de 2001, una carta a los
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/13
+
+vecinos empadronados en esa localidad nacidos en Lorca, informándoles que durante
+la Semana Santa había visitado Lorca a raíz de la invitación de su Alcalde, al que
+había invitado a visitar Sabadell coincidiendo con la celebración del 50 Aniversario de
+la Romería de la Virgen de la Fuensanta (folio 2).
+2º: Con fecha 18 de agosto de 2001, se recibió en esta Agencia de Protección de
+Datos un escrito de un concejal del Grupo Popular del Ayuntamiento de Sabadell, en
+el que exponía que la utilización de los datos del Padrón Municipal de Habitantes
+realizado por el Alcalde de ese Ayuntamiento para escribir a los vecinos nacidos en
+Lorca, podía vulnerar la Ley Orgánica de Protección de Datos .”
+La sentencia, tras examinar el régimen jurídico del Padrón Municipal que se recoge
+en los artículos 15 y siguientes de la Ley de Bases de Régimen Local ,
+“Toda persona que viva en España está obligada a inscribirse en el Padrón del
+municipio en el que resida habitualmente. Quien viva en varios municipios deberá
+inscribirse únicamente en el que habite durante más tiempo al año.
+El conjunto de personas inscritas en el Padrón municipal constituye la población del
+municipio.
+Los inscritos en el Padrón municipal son los vecinos del municipio.
+La condición de vecino se adquiere en el mismo momento de su inscripción en el
+Padrón.”
+“Los datos que se inscriben en el Padrón municipal, el apartado 3 artículo 16 de la
+Ley 7/85, modificada por la Ley 4/96, que permite la cesión de los datos del Padrón
+municipal a otras Administraciones Públicas que lo soliciten sin consentimiento previo
+del afectado solamente cuando les sean necesarios para el ejercicio de sus
+respectivas competencias, y exclusivamente para asuntos en los que la residencia o el
+domicilio sean datos relevantes, y la Disposición adicional segunda, apartado segundo
+de la Ley Orgánica 15/1999 : «Los ficheros o registros de población tendrán como
+finalidad la comunicación de los distintos órganos de cada administración pública con
+los interesados residentes en los respectivos territorios, respecto a las relaciones
+jurídico administrativas derivadas de las competencias respectivas de las
+Administraciones Públicas».
+Deduce al final del fundamento de derecho 5 “De este precepto de la Ley de
+Protección de Datos de Carácter Personal se conciben los ficheros o registros de
+población, entre los que cabe incluir al Padrón municipal, como un elemento de
+comunicación entre los distintos órganos de las administraciones públicas y de los
+ciudadanos, y que su uso vendrá determinado en el cumplimiento de las competencias
+que por el ordenamiento jurídico le viene atribuido.”
+Si bien es en el fundamento de derecho SEXTO en el que concluye:
+“En el caso que enjuiciamos se contempla el supuesto en el que el Alcalde de
+Sabadell envió, una carta a los vecinos empadronados en esa localidad nacidos en
+Lorca, informándoles que durante la Semana Santa había visitado Lorca a raíz de la
+invitación de su Alcalde, al que había invitado a visitar Sabadell coincidiendo con la
+celebración del 50 Aniversario de la Romería de la Virgen de la Fuensanta.
+A juicio de la Corporación recurrente, la comunicación con los vecinos de Sabadell
+nacidos en Lorca, para lo que usó el Padrón Municipal, constituye la realización de
+una determinada actividad pública de hermanamiento entre dos ciudades, invitándoles
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/13
+
+a participar en dicho proceso como elemento de política de integración y cohesión
+social.
+Postura que comparte la Sala, puesto que es competencia municipal: «La prestación
+de los servicios sociales y de promoción y reinserción social» [25.2.k) LBRL].
+Al propio tiempo, el art. 69.1 de la misma norma impone a las Corporaciones locales
+la obligación de facilitar la más amplia información sobre su actividad y la participación
+de todos los ciudadanos en la vida local, pudiendo el Municipio promover toda clase
+de actividades y prestar cuantos servicios públicos contribuyan a satisfacer las
+necesidades y aspiraciones de la comunidad vecinal (art. 25.1 LBRL),
+correspondiendo al Alcalde la representación del Ayuntamiento [art. 2 1.b) LBRL].
+Así las cosas, no puede mantenerse que la utilización por el Alcalde de Sabadell de
+unos datos obtenidos del Padrón municipal para remitir las cartas a los vecinos
+nacidos en Lorca, haya vulnerado el art. 4.2 de la Ley Orgánica 15/1999 LPDP, porque
+dichos datos no se utilizaron para una finalidad incompatible con aquellas para las que
+los datos hubieran sido recogidos, sino precisamente para el ejercicio de unas
+competencias municipales, como son las de integración social, que alcanza especial
+relevancia en territorios con alto índice de población originaria de otras zonas del
+territorio nacional que un buen día se vieron obligados a dejar su tierra en busca de
+mejores condiciones de vida.
+Pues bien, esa actividad pública municipal encaminada a cultivar los lazos de unión
+entre los pueblos, a que no se produzca una pérdida de su identidad, evitando su
+desarraigo a las siguientes generaciones, entra dentro de las funciones
+competenciales que el ordenamiento jurídico atribuye a los municipios, y en ningún
+caso puede considerarse que los hechos imputados son constitutivos de la infracción
+del art. 4.2 de la Ley Orgánica 15/1999 LPDP.
+Razones todas ellas que conducen a la estimación del curso.”
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5/12, de Protección de Datos Personales y garantía de los
+derechos digitales (en lo sucesivo LOPDGDD), es competente para resolver estas
+actuaciones de investigación la Directora de la Agencia Española de Protección de
+Datos.
+II
+En el presente supuesto existen dos cuestiones, la primera el uso de los datos
+procedentes de un registro administrativo público, que una sentencia en 2012 declaró
+no es incompatible con el uso del envío de una carta similar a la que es objeto de la
+que aquí se analiza. Lo que la sentencia declara es que de dicho fichero cabe dicho
+tratamiento, por no ser incompatible, además de los que le son naturales y se definen
+expresamente.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+8/13
+
+El segundo elemento, el contenido formal de la carta, que no informa del origen
+de los datos, ni del derecho de oposición a recibir este tipo de escritos.
+III
+Sobre la base jurídica para tratar los datos, en las actuaciones de las
+administraciones publicas se debe mencionar el considerando 47 de RGPD, que
+indica:
+“El interés legítimo de un responsable del tratamiento, incluso el de un
+responsable al que se puedan comunicar datos personales, o de un tercero, puede
+constituir una base jurídica para el tratamiento, siempre que no prevalezcan los
+intereses o los derechos y libertades del interesado, teniendo en cuenta las
+expectativas razonables de los interesados basadas en su relación con el
+responsable. Tal interés legítimo podría darse, por ejemplo, cuando existe una relación
+pertinente y apropiada entre el interesado y el responsable, como en situaciones en
+las que el interesado es cliente o está al servicio del responsable. En cualquier caso,
+la existencia de un interés legítimo requeriría una evaluación meticulosa, inclusive si
+un interesado puede prever de forma razonable, en el momento y en el contexto de la
+recogida de datos personales, que pueda producirse el tratamiento con tal fin. En
+particular, los intereses y los derechos fundamentales del interesado podrían
+prevalecer sobre los intereses del responsable del tratamiento cuando se proceda al
+tratamiento de los datos personales en circunstancias en las que el interesado no
+espere razonablemente que se realice un tratamiento ulterior. Dado que corresponde
+al legislador establecer por ley la base jurídica para el tratamiento de datos personales
+por parte de las autoridades públicas, esta base jurídica no debe aplicarse al
+tratamiento efectuado por las autoridades públicas en el ejercicio de sus funciones. El
+tratamiento de datos de carácter personal estrictamente necesario para la prevención
+del fraude constituye también un interés legítimo del responsable del tratamiento de
+que se trate. El tratamiento de datos personales con fines de mercadotecnia directa
+puede considerarse realizado por interés legítimo.”
+
+El artículo 5 del RGPD indica
+“1. Los datos personales serán:
+b) recogidos con fines determinados, explícitos y legítimos, y no serán tratados
+ulteriormente de manera incompatible con dichos fines; de acuerdo con el artículo 89,
+apartado 1, el tratamiento ulterior de los datos personales con fines de archivo en
+interés público, fines de investigación científica e histórica o fines estadísticos no se
+considerará incompatible con los fines iniciales («limitación de la finalidad»);
+En cuanto a la base legitimadora del tratamiento, propicias para este supuesto, el
+artículo 6 del RGPD indica:
+1. El tratamiento solo será lícito si se cumple al menos una de las siguientes
+condiciones:
+e) el tratamiento es necesario para el cumplimiento de una misión realizada en
+interés público o en el ejercicio de poderes públicos conferidos al responsable del
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+9/13
+
+tratamiento;
+Este apartado comprende situaciones en las que el mismo responsable del
+tratamiento tiene una potestad pública o una misión de interés público (pero no
+necesariamente una obligación jurídica de tratar los datos) y el tratamiento es
+necesario para el ejercicio de dicha potestad o para la ejecución de dicha misión
+No obstante, el tratamiento debe ser «necesario para el cumplimiento de una
+misión de interés público». Alternativamente, se debe haber conferido un poder oficial
+bien al responsable del tratamiento bien a la tercera parte a la que este comunica los
+datos y el tratamiento de datos debe ser necesario para el ejercicio de dicha potestad.
+También resulta importante poner de relieve que este poder oficial o misión de interés
+público deberán conferirse o atribuirse normalmente mediante leyes ordinarias u otra
+normativa jurídica.
+Este artículo tiene, en teoría, un ámbito muy amplio de aplicación, que requiere
+una interpretación estricta y una clara identificación, caso por caso, del interés público
+en juego y de la potestad oficial que justifica el tratamiento. Este amplio ámbito de
+aplicación también explica el motivo por el que se ha previsto un derecho de oposición
+en el artículo 21 del RGPD cuando el tratamiento se basa en el artículo 6.1 e). Pueden
+aplicarse, por tanto, garantías y medidas adicionales.
+f) el tratamiento es necesario para la satisfacción de intereses legítimos perseguidos
+por el responsable del tratamiento o por un tercero, siempre que sobre dichos
+intereses no prevalezcan los intereses o los derechos y libertades fundamentales del
+interesado que requieran la protección de datos personales, en particular cuando el
+interesado sea un niño.
+Lo dispuesto en la letra f) del párrafo primero no será de aplicación al tratamiento
+realizado por las autoridades públicas en el ejercicio de sus funciones.
+2. Los Estados miembros podrán mantener o introducir disposiciones más
+específicas a fin de adaptar la aplicación de las normas del presente Reglamento con
+respecto al tratamiento en cumplimiento del apartado 1, letras c) y e), fijando de
+manera más precisa requisitos específicos de tratamiento y otras medidas que
+garanticen un tratamiento lícito y equitativo, con inclusión de otras situaciones
+específicas de tratamiento a tenor del capítulo IX.
+3. La base del tratamiento indicado en el apartado 1, letras c) y e), deberá ser
+establecida por:
+a) el Derecho de la Unión, o
+b) el Derecho de los Estados miembros que se aplique al responsable del
+tratamiento.
+La finalidad del tratamiento deberá quedar determinada en dicha base jurídica o, en
+lo relativo al tratamiento a que se refiere el apartado 1, letra e), será necesaria para el
+cumplimiento de una misión realizada en interés público o en el ejercicio de poderes
+públicos conferidos al responsable del tratamiento. Dicha base jurídica podrá contener
+disposiciones específicas para adaptar la aplicación de normas del presente
+Reglamento, entre otras: las condiciones generales que rigen la licitud del tratamiento
+por parte del responsable; los tipos de datos objeto de tratamiento; los interesados
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+10/13
+
+afectados; las entidades a las que se pueden comunicar datos personales y los fines
+de tal comunicación; la limitación de la finalidad; los plazos de conservación de los
+datos, así como las operaciones y los procedimientos del tratamiento, incluidas las
+medidas para garantizar un tratamiento lícito y equitativo, como las relativas a otras
+situaciones específicas de tratamiento a tenor del capítulo IX. El Derecho de la Unión
+o de los Estados miembros cumplirá un objetivo de interés público y será proporcional
+al fin legítimo perseguido.
+4. Cuando el tratamiento para otro fin distinto de aquel para el que se recogieron los
+datos personales no esté basado en el consentimiento del interesado o en el Derecho
+de la Unión o de los Estados miembros que constituya una medida necesaria y
+proporcional en una sociedad democrática para salvaguardar los objetivos indicados
+en el artículo 23, apartado 1, el responsable del tratamiento, con objeto de determinar
+si el tratamiento con otro fin es compatible con el fin para el cual se recogieron
+inicialmente los datos personales, tendrá en cuenta, entre otras cosas:
+a) cualquier relación entre los fines para los cuales se hayan recogido los datos
+personales y los fines del tratamiento ulterior previsto;
+b) el contexto en que se hayan recogido los datos personales, en particular por lo
+que respecta a la relación entre los interesados y el responsable del tratamiento;
+c) la naturaleza de los datos personales, en concreto cuando se traten categorías
+especiales de datos personales, de conformidad con el artículo 9, o datos personales
+relativos a condenas e infracciones penales, de conformidad con el artículo 10;
+d) las posibles consecuencias para los interesados del tratamiento ulterior previsto;
+e) la existencia de garantías adecuadas, que podrán incluir el cifrado o la
+seudonimización.”
+IV
+La entrada en vigor del RGPD ha potenciado la transparencia en la información
+y el ejercicio de derechos sobre los datos que se tratan.
+El artículo 12.1 del RGPD señala: “El responsable del tratamiento tomará las
+medidas oportunas para facilitar al interesado toda información indicada en los
+artículos 13 y 14, así como cualquier comunicación con arreglo a los artículos 15 a 22
+y 34 relativa al tratamiento, en forma concisa, transparente, inteligible y de fácil
+acceso, con un lenguaje claro y sencillo, en particular cualquier información dirigida
+específicamente a un niño”
+El artículo 13 del RGPD señala: ”Cuando se obtengan de un interesado datos
+personales relativos a él, el responsable del tratamiento, en el momento en que estos
+se obtengan, le facilitará toda la información indicada a continuación:
+a) la identidad y los datos de contacto del responsable y, en su caso, de su
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+11/13
+
+representante;
+b) los datos de contacto del delegado de protección de datos, en su caso;
+c) los fines del tratamiento a que se destinan los datos personales y la base jurídica
+del tratamiento;
+d) cuando el tratamiento se base en el artículo 6, apartado 1, letra f), los intereses
+legítimos del responsable o de un tercero;
+e) los destinatarios o las categorías de destinatarios de los datos personales, en su
+caso;
+f) en su caso, la intención del responsable de transferir datos personales a un tercer
+país u organización internacional y la existencia o ausencia de una decisión de
+adecuación de la Comisión, o, en el caso de las transferencias indicadas en los
+artículos 46 o 47 o el artículo 49, apartado 1, párrafo segundo, referencia a las
+garantías adecuadas o apropiadas y a los medios para obtener una copia de estas o
+al hecho de que se hayan prestado.
+2. Además de la información mencionada en el apartado 1, el responsable del
+tratamiento facilitará al interesado, en el momento en que se obtengan los datos
+personales, la siguiente información necesaria para garantizar un tratamiento de datos
+leal y transparente:
+a) el plazo durante el cual se conservarán los datos personales o, cuando no sea
+posible, los criterios utilizados para determinar este plazo;
+b) la existencia del derecho a solicitar al responsable del tratamiento el acceso a los
+datos personales relativos al interesado, y su rectificación o supresión, o la limitación
+de su tratamiento, o a oponerse al tratamiento, así como el derecho a la portabilidad
+de los datos;
+c) cuando el tratamiento esté basado en el artículo 6, apartado 1, letra a), o el
+artículo 9, apartado 2, letra a), la existencia del derecho a retirar el consentimiento en
+cualquier momento, sin que ello afecte a la licitud del tratamiento basado en el
+consentimiento previo a su retirada;
+d) el derecho a presentar una reclamación ante una autoridad de control;
+e) si la comunicación de datos personales es un requisito legal o contractual, o un
+requisito necesario para suscribir un contrato, y si el interesado está obligado a facilitar
+los datos personales y está informado de las posibles consecuencias de que no
+facilitar tales datos;
+f) la existencia de decisiones automatizas, incluida la elaboración de perfiles, a que
+se refiere el artículo 22, apartados 1 y 4, y, al menos en tales casos, información
+significativa sobre la lógica aplicada, así como la importancia y las consecuencias
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+12/13
+
+previstas de dicho tratamiento para el interesado.
+3. Cuando el responsable del tratamiento proyecte el tratamiento ulterior de datos
+personales para un fin que no sea aquel para el que se recogieron, proporcionará al
+interesado, con anterioridad a dicho tratamiento ulterior, información sobre ese otro fin
+y cualquier información adicional pertinente a tenor del apartado 2.
+4. Las disposiciones de los apartados 1, 2 y 3 no serán aplicables cuando y en la
+medida en que el interesado ya disponga de la información.”
+
+V
+En cuanto al derecho de oposición, el artículo 21 del RGPD señala:
+1. El interesado tendrá derecho a oponerse en cualquier momento, por motivos
+relacionados con su situación particular, a que datos personales que le conciernan
+sean objeto de un tratamiento basado en lo dispuesto en el artículo 6, apartado 1,
+letras e) o f), incluida la elaboración de perfiles sobre la base de dichas disposiciones.
+El responsable del tratamiento dejará de tratar los datos personales, salvo que
+acredite motivos legítimos imperiosos para el tratamiento que prevalezcan sobre los
+intereses, los derechos y las libertades del interesado, o para la formulación, el
+ejercicio o la defensa de reclamaciones.”
+Efectuadas las salvedades reseñadas, se considera que la reclamación
+presentada no vulnera la normativa de protección de datos, sin perjuicio de la
+implementación de las medidas señaladas.
+Por lo tanto, de acuerdo con lo señalado, por la directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+
+1. PROCEDER AL ARCHIVO de las presentes actuaciones.
+2. NOTIFICAR la presente resolución al reclamante y reclamado.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1/10, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1/10, los interesados
+podrán interponer, potestativamente, recurso de reposición ante la Directora de la
+Agencia Española de Protección de Datos en el plazo de un mes a contar desde el día
+siguiente a la notificación de esta resolución o directamente recurso contencioso
+administrativo ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional,
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+13/13
+
+con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de la disposición
+adicional cuarta de la Ley 29/1998, de 13/07, reguladora de la Jurisdicción
+Contencioso-Administrativa, en el plazo de dos meses a contar desde el día siguiente
+a la notificación de este acto, según lo previsto en el artículo 46.1 de la referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

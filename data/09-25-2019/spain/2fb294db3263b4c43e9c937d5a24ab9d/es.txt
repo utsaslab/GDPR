@@ -1,0 +1,205 @@
+1/5
+
+823-240719
+Expediente Nº: E/00599/2019
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de
+Datos ante A.A.A. en virtud de reclamación presentada por B.B.B. y teniendo como
+base los siguientes
+HECHOS
+PRIMERO: Con fecha 26/09/2019 tuvo entrada en esta Agencia escrito de D. B.B.B.
+(en lo sucesivo el reclamante) frente a A.A.A. (en lo sucesivo el reclamado) porque
+“ha instalado una cámara en la entradas de su propiedad desde la cual se graba la vía
+publica y el camino de acceso a mi vivienda, como posiblemente se deduce del
+posible campo de visión” “Las cámaras según fotografías que se aportan, “grabarían
+zonas de paso, vulnerando la normativa de protección de datos”.
+Aporta tres fotografías. La primera enfoca la calle en forma de largo pasillo de
+unos dos metros de anchura aproximadamente, en un entorno de casas bajas
+viéndose al final unas puertas. En la segunda, toma más cercana, se ven dos puertas
+metálicas, a derecha de color azul, a izquierda gris. En la de color gris figura un cartel
+de una empresa de seguridad “Alarma”. En la parte superior izquierda de la misma, se
+aprecia una cámara que enfoca en dirección frontal hacia lo que sería el largo pasillo
+de la calle. No se ve cartel de zona videovigilada.
+SEGUNDO: Tras la recepción de la denuncia la Subdirección General de Inspección
+de Datos procedió a la realización de actuaciones.
+Con fechas 5/11/2018 y 4/01/2019 consta notificado al reclamado un escrito en el que
+se le indicaba:
+“Esta Agencia ha tenido conocimiento de la existencia de cámaras de
+videovigilancia instaladas en ***DIRECCION.1 Valencia, que podrían estar
+incumpliendo la normativa de protección de datos (para conocer los requisitos exigidos
+puede consultar las fichas de videovigilancia y el resto de material publicado en la
+dirección https://www.aepd.es/areas/videovigilancia/index.html de la página web de la
+Agencia).
+Se le solicita que remita a esta Agencia, al menos, la siguiente información:
+Con carácter general:
+- Identificación del responsable de la instalación, facilitando su NIF y teléfono de
+contacto.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/5
+
+- Información facilitada de la existencia de una zona videovigilada mediante fotografías
+del cartel o carteles informativos en las que sea posible apreciar tanto su ubicación
+como los datos mostrados.
+- Si se ha encargado a un tercero la visualización y tratamiento de las imágenes
+captadas por las cámaras, aportar copia del contrato suscrito.
+- Marca y modelo de las cámaras, aportando los documentos que permitan verificar
+sus características y modo de funcionamiento (por ejemplo, manual de instalación,
+ficha técnica, factura o ticket de compra).
+- Alcance de las cámaras y lugares donde están instaladas, acreditando mediante
+fotografía de las imágenes captadas por las cámaras, tal y como se visualizan en el
+monitor o sistema equivalente, que se ha limitado el espacio de captación para no
+afectar a terrenos y viviendas colindantes, la vía pública o cualquier otro espacio ajeno
+o reservado.
+En el caso de que el responsable de la instalación sea una empresa o un
+establecimiento comercial, deberá, además:
+- Facilitar copia de las comunicaciones remitidas a los empleados o sus
+representantes para informar de la finalidad de la instalación de las cámaras.
+- Indicar el plazo de conservación de las imágenes registradas, junto con el detalle de
+las medidas adoptadas para garantizar que sólo el personal autorizado accede a las
+grabaciones.
+Si el responsable de la instalación es una comunidad de propietarios deberá, además
+de dar respuesta a los puntos de carácter general, aportar copia del acta de la Junta
+de la Comunidad de Propietarios en la que se apruebe la instalación de las cámaras
+de videovigilancia e indicar el plazo de conservación de las imágenes que se registran,
+junto con el detalle de las medidas adoptadas para garantizar que sólo el personal
+autorizado accede a las grabaciones.”
+Con fecha 9/01/2019 se recibe escrito del reclamado en el que indica:
+-El responsable de la instalación es el mismo, siendo el inmueble titularidad de su
+pareja.
+-La cámara está en el interior de la vivienda (tipo unifamiliar) viéndose la cámara
+desde el exterior de la propiedad, y manifiesta que enfoca hacia el “interior”. En su
+parte derecha figura un cartel de videovigilancia, aunque no se puede ver el literal de
+su contenido.
+-Las cámaras no graban, se instalaron por el mismo y solo reproduce la imagen.
+-Aporta copia del modelo de la cámara.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/5
+
+-Aporta fotografía de la toma de la cámara, 1/07/2019 no viéndose parte del exterior,
+enfocando y tomando imagen del interior.
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5/12, de Protección de Datos Personales y garantía de los
+derechos digitales (en lo sucesivo LOPDGDD), es competente para resolver la
+directora de la Agencia Española de Protección de Datos.
+II
+Son de aplicación los siguientes artículos del RGPD:
+Artículo 1. Objeto
+1.
+El presente Reglamento establece las normas relativas a la protección de las
+personas físicas en lo que respecta al tratamiento de los datos personales y las
+normas relativas a la libre circulación de tales datos.
+2. El presente Reglamento protege los derechos y libertades fundamentales de las
+personas físicas y, en particular, su derecho a la protección de los datos personales.
+Artículo 4. Definiciones
+A efectos del presente Reglamento se entenderá por:
+1) «datos personales»: toda información sobre una persona física identificada o
+identificable («el interesado»); se considerará persona física identificable toda persona
+cuya identidad pueda determinarse, directa o indirectamente, en particular mediante
+un identificador, como por ejemplo un nombre, un número de identificación, datos de
+localización, un identificador en línea o uno o varios elementos propios de la identidad
+física, fisiológica, genética, psíquica, económica, cultural o social de dicha persona;
+2) «tratamiento»: cualquier operación o conjunto de operaciones realizadas sobre
+datos personales o conjuntos de datos personales, ya sea por procedimientos
+automatizados o no, como la recogida, registro, organización, estructuración,
+conservación, adaptación o modificación, extracción, consulta, utilización,
+comunicación por transmisión, difusión o cualquier otra forma de habilitación de
+acceso, cotejo o interconexión, limitación, supresión o destrucción;
+artículo 2:
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/5
+
+1. El presente Reglamento se aplica al tratamiento total o parcialmente automatizado
+de datos personales, así como al tratamiento no automatizado de datos personales
+contenidos o destinados a ser incluidos en un fichero.
+2. El presente Reglamento no se aplica al tratamiento de datos personales:
+c) efectuado por una persona física en el ejercicio de actividades exclusivamente
+personales o domésticas;
+El artículo 22 de la LOPDGDD indica: “Tratamientos con fines de
+videovigilancia”.
+“1. Las personas físicas o jurídicas, públicas o privadas, podrán llevar a cabo el
+tratamiento de imágenes a través de sistemas de cámaras o videocámaras con la
+finalidad de preservar la seguridad de las personas y bienes, así como de sus
+instalaciones.
+2. Solo podrán captarse imágenes de la vía pública en la medida en que resulte
+imprescindible para la finalidad mencionada en el apartado anterior.
+No obstante, será posible la captación de la vía pública en una extensión superior
+cuando fuese necesario para garantizar la seguridad de bienes o instalaciones
+estratégicos o de infraestructuras vinculadas al transporte, sin que en ningún caso
+pueda suponer la captación de imágenes del interior de un domicilio privado.
+5. Al amparo del artículo 2.2.c) del Reglamento (UE) 2016/679, se considera excluido
+de su ámbito de aplicación el tratamiento por una persona física de imágenes que
+solamente capten el interior de su propio domicilio.”
+La cámara estaba orientada de tal modo que su objeto de vigilancia principal
+era el entorno privado, la captación de imágenes de la vía pública era inexistente, el
+sistema no graba imágenes, sólo emite, las imágenes sólo son vistas por el
+responsable.
+Toda vez que el tratamiento resultante de las imágenes captadas se
+circunscribe al ámbito interno de la vivienda, se trata de ejercicio de actividad
+doméstica, no siéndole de aplicación la LOPD.
+Si la cámara se orientara a la vía pública y recogiera imágenes de la misma de
+forma desproporcionada o no necesaria, posiblemente se fundaría una previsible
+infracción de la normativa, por cuanto en la vía publica la recogida de imágenes se
+reserva en exclusiva a las Fuerzas y Cuerpos de Seguridad del estado con ciertos
+requisitos.
+No apreciándose vulneración de la normativa vigente, procede el archivo de la
+reclamación
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/5
+
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente Resolución a A.A.A. y B.B.B..
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa (artículo 48.2 de la
+LOPD), y de conformidad con lo establecido en los artículos 112 y 123 de la Ley
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, los interesados podrán interponer, potestativamente,
+recurso de reposición ante la Directora de la Agencia Española de Protección de Datos
+en el plazo de un mes a contar desde el día siguiente a la notificación de esta
+resolución o directamente recurso contencioso administrativo ante la Sala de lo
+Contencioso-administrativo de la Audiencia Nacional, con arreglo a lo dispuesto en el
+artículo 25 y en el apartado 5 de la disposición adicional cuarta de la Ley 29/1998, de
+13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa, en el plazo de
+dos meses a contar desde el día siguiente a la notificación de este acto, según lo
+previsto en el artículo 46.1 del referido texto legal.
+
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

@@ -1,0 +1,280 @@
+1/6
+
+Procedimiento Nº A/0019/2019
+RESOLUCIÓN: R/00431/2019
+En el procedimiento A/0019/2019, instruido por la Agencia Española de Protección de
+Datos, a la entidad ROOFOODS SPAIN S.L.U. (DELIVEROO), NIF B87343265 (en
+adelante, “la entidad reclamada”), en virtud de la reclamación presentada por A.A.A.
+(en adelante, “el reclamante”) y teniendo como base los siguientes,
+ANTECEDENTES
+PRIMERO: Con fecha 11/01/19, tiene entrada en esta Agencia escrito presentado por
+el reclamante, en la que expone, entre otras, que: “Al realizar la búsqueda en la
+página web llamada ***URL.1 se puede apreciar como en la parte inferior de la
+pantalla aparece una notificación sobre las Cookies, en la que simplemente se indica
+el siguiente mensaje: “Nuestra web utiliza Cookies”. Dicho mensaje aparentemente
+solo da la opción de cerrar la pestaña, aunque también existe la opción de clicar en la
+palabra Cookies, para obtener más información. Sin embargo, esto último no se
+especifica en el mensaje mencionado anteriormente, sino que tiene que ser el propio
+usuario el que averigüe que para obtener dicha información hay que pinchar en esta
+palabra. Una vez pinchado en dicha palabra, el usuario es redireccionado a la
+información sobre las mismas. En esa sección, aparece una relación de todas las
+Cookies que se instalan. A pesar de la información que se muestra, no aparece en
+ninguna parte información sobre el consentimiento y la opción de no instalar Cookies.
+Tan solo menciona: “Normalmente verás un mensaje en la página web antes de que
+instalemos una Cookie en tu ordenador, lo cual parece indicar que te notifican de la
+instalación de una Cookie, pero en ningún momento el usuario otorga su
+consentimiento para dicho acto”.
+SEGUNDO: A la vista de los hechos expuestos en la reclamación y de los documentos
+aportados por el reclamante, la Subdirección General de Inspección de Datos procedió
+a realizar actuaciones para su esclarecimiento, al amparo de los poderes de
+investigación otorgados a las autoridades de control en el art. 57.1 del Reglamento
+(UE) 2016/679 (Reglamento General de Protección de Datos, en adelante RGPD). Así,
+con fecha 18/02/19, se dirige un requerimiento informativo a la entidad reclamada.
+TERCERO: Con fecha 18/03/19, la entidad reclamada, remite a esta Agencia, entre
+otras, la siguiente información: “Las medidas tomadas para prevenir la ocurrencia de
+incidencias similares, antes de recibir esta queja, ya teníamos un banner de cookies
+en la parte inferior de la pantalla de nuestro sitio web que contenía un enlace a
+nuestra Política de Cookies. Los datos de contacto de nuestro Servicio de Atención al
+Cliente y de nuestro responsable de protección de datos figuran en nuestra Política de
+Privacidad, que también está disponible en nuestro sitio web. Hemos realizado los
+siguientes cambios: 1. hemos incluido texto adicional en nuestro banner de cookies
+para asegurar que el enlace a más información sobre nuestro uso de cookies sea más
+obvio para el usuario; 2. hemos incluido nuestros datos de contacto en nuestra Política
+de Cookies, así como en la Política de Privacidad para una mayor transparencia; y 3.
+hemos aumentado el tamaño del banner de las cookies en nuestro sitio para aumentar
+aún más la prominencia. Deliveroo se basa en la actual guía de cookies publicada,
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/6
+
+aprobada por la AEPD a propuesta de las asociaciones de proveedores de servicios
+de Internet (Adigital, Autocontrol e IAB España) en 2013 en relación con el uso de
+cookies.
+Respecto a la contestación realizada al reclamante, ROOFOODS SPAIN SLU. le
+indican, entre otras, que: consideramos que nuestro uso de cookies cumple con la ley
+de protección de datos, y que hemos cumplido las condiciones para el consentimiento
+de las cookies según lo requerido por la Ley de Servicios de la Sociedad de la
+información y del Comercio Electrónico LSSI y el Reglamento General de Protección
+de Datos ('RGPD"). bajo la guía de la Agencia Española de Protección de Datos
+('AEPD'). De acuerdo con la guía de cookies, aprobada por la AEPD a propuesta de
+las asociaciones de proveedores de servicios de Internet (Adigital. Autocontrol e IAB
+España) en 2013. obtenemos un consentimiento válido en la medida en que el Usuario
+continúe utilizando el sitio después de ver la Información sobre el uso de cookies
+proporcionada a través de un primer aviso breve en nuestro sitio web (que contiene un
+enlace a información adicional sobre las cookies que utilizamos y su finalidad)”.
+CUARTO: Con fecha 15/04/19, la Directora de la Agencia Española de Protección de
+Datos acordó someter a trámite de audiencia previa el procedimiento de
+apercibimiento A/0019/2019 a la entidad reclamada, y en el que se la requería para
+que tomase las medidas adecuadas para incluir en la página web de su titularidad,
+***URL.1 un mecanismo para no prestar el consentimiento o revocar el mismo con
+relación al tratamiento de cookies realizado por la página en cuestión, que no consista
+en activar o desactivar las opciones de la configuración del navegador. Asimismo, que
+se incluya la redacción de la política de cookies también en español, y que no se
+carguen cookies con la mera visita a la página web.
+SEXTO: Notificado el mencionado trámite de Audiencia, con fecha 21/05/19, se recibe
+en esta Agencia escrito de la entidad reclamada, en el que, entre otras, alega que:
+“Quiere poner en conocimiento de la AEPD que, además de las inmediatas acciones
+que ya han sido adoptadas por esta parte, tal y como se le ha comunicado en fecha
+18/03/19, se encuentra actualmente inmersa en el proceso de adecuación, tanto a
+nivel legal como técnico, del sitio web para que la opción de activación o desactivación
+de las cookies no se realice a través de las opciones de configuración del navegador.
+Las medidas que se van a implantar técnicamente, consisten en incluir en la primera
+capa de la política de cookies (banner) las siguientes menciones: l. Explicación de
+forma clara y sencilla las principales finalidades de las cookies. 2. La inclusión de un
+botón de todas las cookies. 3.La inclusión de un botón de CONFIGURAR cookies,
+especificándose en esta primera capa que la opción de configurar las cookies también
+sirve para rechazadas. Este botón permitirá acceder a un panel de control de cookies
+que aparecerá directamente, desde el que se podrán aceptar o rechazar las cookies
+por tipología. 4. Se explicará expresamente al usuario de forma clara que, si sigue
+navegando o bien pulsa el botón aceptar, estará consintiendo al uso de las cookies.
+Esta propuesta de modificación se ha realizado después de analizar con minucioso
+detalle la Guía del Comité Europeo de Protección de Datos sobre consentimiento y la
+posición de la AEPD sobre esta materia, en la citada ponencia, en la 10ª Sesión anual
+abierta de la AEPD, y con el fin de que el consentimiento se pueda considerar
+obtenido mediante una clara acción afirmativa del usuario, tal como exige el RGPD.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/6
+
+Sobre la política de cookies en español, ponemos en conocimiento de la AEPD que la
+Sociedad ha incluido la segunda capa de la política de cookies debidamente traducida
+al español en el sitio web https:// deliveroo.es/es.
+Sobre la carga automática de las cookies, La propuesta de resolución remitida por la
+AEPD también requiere a esta parte para que “no se carguen cookies con la mera
+visita a la página web. A este respecto ponemos en conocimiento de la AEPD que la
+Sociedad está implementando los mecanismos técnicos necesarios para desactivar la
+carga automática de estos dispositivos de almacenamiento, de conformidad con lo
+establecido en el artículo 22.2 LSSI y en la Guía sobre el uso de las cookies de la
+AEPD. Por lo tanto, la mera visita a la página web no conllevará la carga de cookies
+en los equipos terminales de los destinatarios, siendo necesario que se obtenga el
+consentimiento del usuario por cualquiera de las vías indicadas en la Alegación
+Primera. (…)
+En virtud de todo ello, se solicita a la AEPD proceda al archivo del expediente sin más
+trámite. Subsidiariamente, dicte resolución con el mismo contenido que en el número
+2 de la parte dispositiva del Acuerdo de Audiencia Previa al Apercibimiento.
+A la vista de todo lo actuado, por parte de la Agencia Española de Protección de Datos
+en el presente procedimiento se consideran hechos probados los siguientes,
+HECHOS PROBADOS
+1º El acceso efectuado a la página web, ***URL.1 con fecha 12/08/19, se observa un
+banner de cookies (primera capa), en la parte inferior de la pantalla que contiene el
+mensaje, “Nuestra web utiliza cookies para personalizar tu experiencia con Deliveroo
+(más información sobre nuestras cookies)” y un enlace a la Política de Cookies, otro
+enlace a la página de “configurar cookies” y otro enlace `para “aceptar cookies”.
+2º Dentro de la página de “políticas de Cookies” (segunda capa), se encuentran los
+datos de contacto del Servicio de Atención al Cliente y del Servicio de Protección de
+Datos. Existe información sobre la utilización de cookies (necesarias, de análisis, de
+publicidad); también existe información de cómo desactivar las cookies desde el
+navegador, ya sea de escritorio de móvil.
+3º Dentro de la página de “configurar cookies” (segunda capa), se accede a un panel
+de control de cookies donde se puede aceptar o rechazar las cookies por tipología: de
+análisis, de mejora del contenido o de publicidad. Así como, la opción de guardar la
+configuración.
+4º También existe la opción de aceptar todas la cookies.
+5º La Información sobre cookies se encuentra escrita en idioma castellano.
+FUNDAMENTOS DE DERECHO
+I
+Es competente para resolver este procedimiento la Directora de la Agencia Española
+de Protección de Datos, de conformidad con lo dispuesto en el artículo 43.1 de la Ley
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/6
+
+34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio
+Electrónico (en lo sucesivo, LSSI).
+II
+La valoración conjunta de la prueba documental obrante en el procedimiento trae a
+conocimiento de la AEPD una visión de la actuación de la entidad reclamada, que ha
+quedado reflejada en los hechos declarados probados.
+La entidad ROOFOODS SPAIN S.L.U. (DELIVEROO), es la persona jurídica
+responsable de dichos hechos. Responsabilidad circunscrita, por razones de
+competencia relacionados con el 22.2 de la LSSI, que dispone: “Los prestadores de
+servicios podrán utilizar dispositivos de almacenamiento y recuperación de datos en
+equipos terminales de los destinatarios, a condición de que los mismos hayan dado su
+consentimiento después de que se les haya facilitado información clara y completa
+sobre su utilización, en particular, sobre los fines del tratamiento de los datos.
+Cuando sea técnicamente posible y eficaz, el consentimiento del destinatario para
+aceptar el tratamiento de los datos podrá facilitarse mediante el uso de los parámetros
+adecuados del navegador o de otras aplicaciones.
+Lo anterior no impedirá el posible almacenamiento o acceso de índole técnica al solo
+fin de efectuar la transmisión de una comunicación por una red de comunicaciones
+electrónicas o, en la medida que resulte estrictamente necesario, para la prestación de
+un servicio de la sociedad de la información expresamente solicitado por el
+destinatario.
+Según se desprende del citado artículo, el modo de ofrecer la información no obedece
+a supuestos tasados, cualquier fórmula que satisfaga la finalidad del precepto es
+perfectamente válida.
+Así, si el prestador de servicios utiliza un sistema de información por capas, la
+segunda capa debe complementar a la primera. En la primera capa debe mostrarse la
+información esencial sobre el uso de cookies, que, como mínimo, deberá reseñar: si
+son propias y/o de terceros, las finalidades de las cookies empleadas, modo en que el
+usuario puede prestar el consentimiento o rechazar la instalación de cookies,
+advirtiendo, en su caso, de que, si se realiza una determinada acción, se entenderá
+que acepta el uso de las cookies, existencia del derecho a revocar el consentimiento.
+Además, deberá incluir un enlace claramente visible a la segunda capa informativa,
+donde se incluirá una información más detallada.
+La información ofrecida en la segunda capa, que deberá encontrarse disponible en
+forma permanente en el sitio web o en la aplicación, deberá incluir la siguiente
+información: qué son y para qué se utilizan las cookies, los tipos de cookies utilizadas
+y su finalidad, período de conservación de los datos para los diferentes fines, forma de
+revocar el consentimiento ya prestado, forma de permitir, bloquear o eliminar las
+cookies enunciadas a través de las funcionalidades facilitadas por el editor o el
+terminal, las herramientas proporcionadas por el navegador o a través de las
+plataformas comunes que pudieran existir para esta finalidad, pudiendo también
+proporcionar información sobre la configuración de las opciones de los principales
+navegadores. También debe ofrecerse información sobre la identificación de quien
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/6
+
+utiliza las cookies, esto es, si la información obtenida por las cookies es tratada solo
+por el editor y/o también por terceros con los que el editor haya contratado la
+prestación de un servicio para el cual se requiera el uso de cookies, con la
+identificación de estos últimos.
+La infracción a este precepto, se encuentra tipificada como leve en el artículo 38.4.g)
+de la citada LSSI, que considera como tal, “Utilizar dispositivos de almacenamiento y
+recuperación de datos cuando no se hubiera facilitado la información u obtenido el
+consentimiento del destinatario del servicio en los términos exigidos por el artículo
+22.2.”
+III
+El artículo 39 bis, 2, de la LSSI, bajo el epígrafe “Moderación de las sanciones”,
+estipula lo siguiente: “2. Los órganos con competencia sancionadora, atendida la
+naturaleza de los hechos y la concurrencia significativa de los criterios establecidos en
+el apartado anterior, podrán acordar no iniciar la apertura del procedimiento
+sancionador y, en su lugar, apercibir al sujeto responsable, a fin de que en el plazo que
+el órgano sancionador determine, acredite la adopción de las medidas correctoras que,
+en cada caso, resulten pertinentes, siempre que concurran los siguientes
+presupuestos: a) que los hechos fuesen constitutivos de infracción leve o grave
+conforme a lo dispuesto en esta Ley y b) que el órgano competente no hubiese
+sancionado o apercibido con anterioridad al infractor como consecuencia de la
+comisión de infracciones previstas en esta Ley.
+Si el apercibimiento no fuera atendido en el plazo que el órgano sancionador hubiera
+determinado, procederá la apertura del correspondiente procedimiento sancionador
+por dicho incumplimiento.”
+En el presente supuesto se cumplen los requisitos recogidos en las letras a) y b) del
+citado apartado 2 del artículo 39 bis. Junto a ello, y de conformidad con las evidencias
+de las que se dispone en el presente momento, se aprecia que concurre la
+circunstancia, prevista en el artículo 39 bis, apartado 1.a), que dispone que “Cuando
+se aprecie una cualificada disminución de la culpabilidad del imputado o de la
+antijuridicidad del hecho como consecuencia de la concurrencia significativa de varios
+de los criterios enunciados en el artículo 40”, concurriendo en este caso los criterios
+d) y e) del citado precepto, por cuanto no hay constancia de la existencia de
+perjuicios causados ni de beneficios obtenidos a raíz de la supuesta comisión de la
+infracción descrita.
+Por lo tanto, de acuerdo con lo señalado la Directora de la Agencia Española de
+Protección de Datos ACUERDA:
+ARCHIVAR: el procedimiento A/0019/2019 seguido a ROOFOODS SPAIN S.L.U.
+(DELIVEROO), con arreglo a lo dispuesto en el artículo 39 bis, apartado 2 de la LSSI,
+con relación a la denuncia por infracción del artículo 22.2 de la citada norma.
+NOTIFICAR el presente Acuerdo a ROOFOODS SPAIN S.L.U. (DELIVEROO)
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la presente
+Resolución se hará pública una vez haya sido notificada a los interesados.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/6
+
+Contra esta resolución, que pone fin a la vía administrativa conforme al art. 48.6 de la
+LOPDPGDD, y de acuerdo con lo establecido en el artículo 123 de la LPACAP, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

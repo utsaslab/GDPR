@@ -1,0 +1,257 @@
+1/6
+
+Procedimiento nº.: TD/00105/2019
+ASUNTO: Recurso de Reposición Nº RR/00574/2019
+Examinado el recurso de reposición interpuesto por Dª. A.A.A. (a partir de
+ahora la parte recurrente), contra la resolución dictada por la directora de la Agencia
+Española de Protección de Datos en el expediente TD/00105/2019, y en base a los
+siguientes
+HECHOS
+PRIMERO: Con fecha 2 de julio de 2019, se dictó resolución por la directora de la
+Agencia Española de Protección de Datos en el expediente TD/00105/2019, en la que
+se acordó estimar la reclamación formulada por la recurrente contra VODAFONE
+ESPAÑA, S.A.U. (a partir de ahora el reclamado).
+SEGUNDO: La resolución ahora recurrida fue notificada fehacientemente a la
+recurrente el 8 de julio de 2019, según consta en el justificante de la notificación.
+TERCERO: La recurrente ha presentado recurso de reposición en fecha 5 de agosto
+de 2019, con entrada en esta Agencia el 5 de agosto de 2019, en el que en síntesis
+señala que:
+La recurrente reconoce haber recibido respuesta del reclamado después de la
+resolución estimatoria de esta Agencia.
+A saber: “…Que con fecha 23 de julio de 2019 recibió la reclamante un correo
+electrónico, cuya copia se adjunta, en el que VODAFONE, al fin, se digna a remitir una
+respuesta a la instancia original que le fue presentada …”
+Sin embargo, sigue mostrando su disconformidad con lo recibido respecto a las
+condiciones de la relación contractual mantenida con el reclamado.
+Como: “…OMITIENDO (…) el cálculo de la penalización en caso de
+cancelación por parte del cliente del compromiso de permanencia o del procedimiento
+a seguir para no continuar siendo cliente…”
+La recurrente considera justificado el recurso de reposición por: “…porque
+otorga el beneficio de la carga de la prueba a la parte reclamada, al condicionar la
+aplicación del ejercicio sancionador al cumplimiento por parte de VODAFONE de
+haber atendido el derecho de acceso de la interesada…”
+Por último, la recurrente solicita: “…ruega estime el derecho de la dicente a
+obtener respuesta sobre el cálculo de la penalización en caso de cancelación por
+parte del cliente del compromiso de permanencia así como sobre el procedimiento a
+seguir para no continuar siendo cliente de una vez finalice dicho compromiso…”
+FUNDAMENTOS DE DERECHO
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/6
+
+I
+Es competente para resolver el presente recurso la directora de la Agencia
+Española de Protección de Datos, de conformidad con lo dispuesto en el artículo 123
+de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas (en lo sucesivo LPACAP).
+II
+En la resolución ahora impugnada ya se advertía suficientemente sobre el
+alcance de las normas contenidas en la Ley Orgánica 15/1999, de 13 de diciembre, de
+Protección de Datos de Carácter Personal (en lo sucesivo, LOPD), y en el Reglamento
+de desarrollo de la LOPD aprobado por Real Decreto 1720/2007, de 21 de diciembre.
+III
+Debido a razones de funcionamiento del órgano administrativo, por ende no
+atribuibles al recurrente, hasta el día de la fecha no se ha emitido el preceptivo
+pronunciamiento de esta Agencia respecto a la pretensión del interesado.
+De acuerdo con lo establecido en el art. 24 de la Ley 39/2015, de 1 de octubre,
+del Procedimiento Administrativo Común de las Administraciones Públicas (LPACAP)
+el sentido del silencio administrativo en los procedimientos de impugnación de actos y
+disposiciones es desestimatorio.
+Con todo, y a pesar del tiempo transcurrido, la Administración está obligada a
+dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que
+sea su forma de iniciación, según dispone el art. 21.1 de la citada LPACAP. Por tanto,
+procede emitir la resolución que finalice el procedimiento del recurso de reposición
+interpuesto.
+IV
+En base a estas normas y en consideración a los hechos tenidos por probados,
+se determinó que:
+SÉPTIMO: Antes de entrar en el fondo de las cuestiones planteadas, hay que señalar que el
+presente procedimiento se instruye como consecuencia de la denegación de alguno de los
+derechos regulados por la normativa de protección de datos (acceso, rectificación, supresión,
+limitación, portabilidad y oposición) y tiene por objeto que se adopten las medidas
+correspondientes para que las garantías y derechos del afectado queden debidamente
+restauradas. Por ello, en el presente caso, sólo serán analizadas y valoradas aquellas cuestiones
+planteadas por la parte reclamante que queden incluidas dentro del objeto del citado
+procedimiento de reclamaciones en materia de protección de datos.
+En el supuesto aquí analizado, la parte reclamante ejercitó su derecho de acceso a las
+grabaciones de voz del día 27 de septiembre de 2018 y, trascurrido el plazo establecido
+conforme a las normas antes señaladas, su solicitud no obtuvo la respuesta legalmente exigible.
+A pesar de la cantidad de comunicaciones que ha habido a lo largo del procedimiento entre las
+partes, no se han entendido. La reclamante solicita el derecho de acceso y, parte de lo que
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/6
+
+solicita es una grabación de voz. Y el reclamado, aunque fuera del plazo establecido, a lo largo
+del procedimiento le envía documentación para atender el derecho. Además, acredita la
+recepción de lo enviado a la reclamante.
+Sin embargo, a pesar de que la reclamante insiste en las grabaciones, la parte reclamada no las
+menciona en ningún momento ni si quiera para justificar que no las envíe. Por tanto, no podemos
+considerar que el derecho haya sido atendido ya que el acceso es incompleto al faltar las
+grabaciones solicitas que deberán ser aportadas o denegar motivadamente su envío.
+Dicho lo anterior, esto es, si procede o no el acceso solicitado, hay que señalar que, conforme a
+lo establecido en los apartados 1 y 2 del art. 4 del RGPD anteriormente trascrito, la voz se
+considera como dato personal. Por ello, en principio, la parte reclamante tendría derecho a que
+se le facilitasen esas grabaciones, al amparo de la normativa de protección de datos. Sin
+embargo, dichas grabaciones pueden contener, además de sus datos, información relativa a
+terceras personas que no le podría ser comunicada, ya que, en caso contrario, podría constituir
+una cesión de datos sin consentimiento.
+En este sentido, se ha de considerar que la voz es una característica peculiar e individual de
+cada persona que la hace identificable, por lo tanto, es un dato de carácter personal. En
+consecuencia, el derecho de acceso a la grabación de su voz solicitado por la parte reclamante
+sí está amparado por la normativa vigente en materia de protección de datos, facilitando la copia
+de la grabación solicitada a la parte reclamante o, en su defecto, transcripción de su contenido.
+Hay que recordar que esta Agencia sólo tiene competencia sobre los datos personales, sin que
+se pueda valorar la información concerniente a posibles contratos suscritos o incidencias sobre
+los mismos. Ello con independencia de que otra normativa ampare la obtención de dicha
+información, como son, entre otros, el Real Decreto Legislativo 1/2007, por el que se aprueba la
+Ley General para la Defensa de los Consumidores y Usuarios, la Ley 7/1993, sobre condiciones
+generales de contratación.
+Para finalizar, si se mantiene una controversia con el responsable del tratamiento sobre
+cuestiones derivadas de la relación contractual, debe saber que la Agencia Española de
+Protección de Datos no es competente para dirimir cuestiones civiles, tales como las relativas a
+la validez civil o mercantil del contrato, la exactitud de la cuantía de la deuda, la correcta
+prestación de los servicios contratados o la interpretación de cláusulas contractuales. La
+determinación de las condiciones de la prestación contractual o comercial, basada en una
+interpretación del contrato suscrito entre las partes y de su correcta aplicación, deberá instarse
+ante los órganos administrativos o judiciales competentes, al exceder del ámbito competencial de
+la Agencia.
+Entre los órganos que dictan resoluciones vinculantes a esos efectos figuran las Juntas
+Arbitrales de Consumo (siempre que el acreedor voluntariamente se someta a ellas), la Oficina
+de Atención al Usuario de Telecomunicaciones (www.usuariosteleco.gob.es) o los órganos
+judiciales. No resultan vinculantes, entre otras, las decisiones de las organizaciones de
+consumidores ni de las oficinas municipales de consumo.
+Por todo ello, procede estimar la reclamación que originó el presente procedimiento.
+
+V
+Examinado el recurso de reposición presentado por la recurrente, aporta un
+hecho nuevo y es que el reclamado ha atendido el derecho de acceso enviando la
+grabación solicitada. Según documentación aportada por la recurrente.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/6
+
+Por tanto, podemos considerar que se ha atendido la resolución estimatoria.
+Y, respecto a nuevos argumentos jurídicos que permitan reconsiderar la validez
+de la resolución impugnada, no encontramos tales argumentos ya que en primer lugar
+la resolución estimatoria de esta Agencia confirmó la reclamación de la recurrente de
+que el derecho no había sido atendido y segundo, el cumplimiento de resolución del
+reclamado sería el objetivo a lograr respecto al derecho solicitado.
+Por un lado, la recurrente debe saber: La apertura de un procedimiento
+sancionador por supuestas infracciones a la LOPD, cabe señalar que el procedimiento
+de tutela de derechos al que hace referencia esta norma legal, se inicia siempre a
+instancia del afectado para garantizar sus derechos.
+Por el contrario, el procedimiento sancionador en materia de protección de
+datos, que constituye una de las manifestaciones del “ius puniendi” del Estado, se
+inicia siempre de oficio por la Directora de la Agencia Española de Protección de
+Datos, de conformidad a lo previsto en el artículo 122.2 del RLOPD, como así ha
+mantenido la Audiencia Nacional en sentencias como, entre otras, la dictada en marzo
+de 2006 (REC 319/2004). Por tanto es competencia exclusiva de la Agencia Española
+de Protección de Datos valorar si existen responsabilidades administrativas que han
+de ser depuradas en un procedimiento sancionador y, en consecuencia, la decisión
+sobre su apertura, no existiendo obligación de iniciar procedimiento ante cualquier
+petición realizada por tercero, sino que la misma ha de basarse en la existencia de
+elementos que justifiquen dicho inicio de actividad sancionadora. Así lo establece el
+artículo 11.2 del Reglamento de Procedimiento para el Ejercicio de la Potestad
+Sancionadora aprobado por el Real Decreto 1398/1993, de 4 de agosto, que es del
+tenor siguiente:
+“La formulación de una petición no vincula al órgano competente para iniciar
+procedimiento sancionador, si bien deberá comunicar al órgano que la hubiera
+formulado los motivos por los que, en su caso, no procede la iniciación del
+procedimiento.
+Cuando se haya presentado una denuncia, se deberá comunicar al
+denunciante la iniciación o no del procedimiento cuando la denuncia vaya
+acompañada de una solicitud de iniciación”
+Por otro lado, debe recordarse que para definir la condición de “interesado”
+para instar al ejercicio de la competencia sancionadora de esta Agencia, la STS de 610-2009 dispone que el denunciante no es interesado, y lo hace en los siguiente
+términos: "el denunciante de una infracción de la legislación de protección de datos
+carece de legitimación activa para impugnar la resolución de la Agencia en lo que
+concierne al resultado sancionador mismo (imposición de una sanción, cuantía de la
+misma, exculpación, etc.)."
+En el mismo sentido se ha manifestado la SAN 27/5/2010: "quien denuncia
+hechos que considera constitutivos de infracción de la legislación de protección de
+datos carece de legitimación activa para impugnar en vía jurisdiccional lo que resuelva
+la Agencia. (...) La razón es, en sustancia, que el denunciante carece de la condición
+de interesado en el procedimiento sancionador que se puede incoar a resultas de su
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/6
+
+denuncia. Ni la Ley Orgánica de Protección de Datos ni su Reglamento de desarrollo
+le reconocen esa condición. (...) El argumento crucial en esta materia es que el
+denunciante, incluso cuando se considere a sí mismo "víctima" de la infracción
+denunciada, no tiene un derecho subjetivo ni un interés legítimo a que el denunciado
+sea sancionado".
+Aplicando la doctrina pacífica del Tribunal Supremo, conforme a la cual “la
+denuncia no convierte al denunciante en titular de un derecho subjetivo ni de un
+interés personal o legítimo que hubiera de traducirse en un beneficio o utilidad”.
+(STSS. de 23/06/1997, 22/12/1997, 14/07/1998, 2/03/1999, 26/10/2000, 30/01/2001,
+15/07/2002, 28/02/2003 y 06/03/2003); la circunstancia de haber presentado el actual
+reclamante la denuncia no le otorga por sí mismo la condición de persona interesada.
+Junto a ello debe tenerse en cuenta el criterio restrictivo mantenido por la
+Audiencia Nacional en Sentencia de 1 de abril de 2011 acerca de la puesta de la
+protección de datos al servicio de otros intereses por legítimos que sean: “La seriedad
+que conlleva el ejercicio de la potestad sancionadora aconseja que se pongan en
+marcha los mecanismos administrativos y jurisdiccionales correspondientes solo
+cuando se suponga que se ha producido una verdadera violación del derecho
+fundamental a la protección de datos”.
+Y por otro, que lo que reclama la recurrente respecto al reclamado como
+documentación no aportada, corresponde a la relación contractual que mantienen y
+que deberá, tal y como ya se planteó en la resolución de la reclamación, resolver en
+los foros que correspondan ya que queda al margen del ámbito de esta Agencia.
+Vistos los preceptos citados y demás de general aplicación,
+la directora de la Agencia Española de Protección de Datos RESUELVE:
+PRIMERO: DESESTIMAR el recurso de reposición interpuesto por Dª. A.A.A. contra la
+Resolución de esta Agencia Española de Protección de Datos dictada con fecha 2 de
+julio de 2019, en el expediente TD/00105/2019.
+SEGUNDO: NOTIFICAR la presente resolución a Dª. A.A.A..
+De conformidad con lo establecido en el apartado 2 del artículo 37 de la LOPD,
+en la redacción dada por el artículo 82 de la Ley 62/2003, de 30 de diciembre, de
+medidas fiscales, administrativas y del orden social, la presente Resolución se hará
+pública, una vez haya sido notificada a los interesados. La publicación se realizará
+conforme a lo previsto en la Instrucción 1/2004, de 22 de diciembre, de la Agencia
+Española de Protección de Datos sobre publicación de sus Resoluciones y con arreglo
+a lo dispuesto en el artículo 116 del Real Decreto 1720/2007, de 21 diciembre, por el
+que se aprueba el reglamento de desarrollo de la LOPD.
+Contra esta resolución, que pone fin a la vía administrativa, se podrá interponer
+en el plazo de dos meses a contar desde el día siguiente a la notificación de este acto
+según lo previsto en el artículo 46.1 de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-administrativa, recurso contencioso administrativo ante la
+Sala de lo Contencioso-administrativo de la Audiencia Nacional, con arreglo a lo
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/6
+
+dispuesto en el artículo 25 y en el apartado 5 de la disposición adicional cuarta del
+referido texto legal.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

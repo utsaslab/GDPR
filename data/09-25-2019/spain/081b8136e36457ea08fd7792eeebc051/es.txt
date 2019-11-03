@@ -1,0 +1,138 @@
+1/3
+
+Procedimiento nº.: TD/00106/2019
+ASUNTO: Recurso de Reposición Nº RR/00577/2019
+186_100919
+
+Examinado el recurso de reposición interpuesto por GOOGLE LLC (GOOGLE
+SPAIN, S.L.) contra la resolución dictada por la Directora de la Agencia Española de
+Protección de Datos en el expediente TD/00106/2019, y en base a los siguientes
+HECHOS
+PRIMERO: Con fecha 27 de junio de 2019, se dictó resolución por la Directora de la
+Agencia Española de Protección de Datos en el expediente TD/00106/2019, en la que
+se acordó estimar parcialmente la reclamación formulada por D. A.A.A. contra
+GOOGLE LLC (GOOGLE SPAIN, S.L., en adelante, el recurrente).
+En concreto se instó a GOOGLE a que adopte las medidas necesarias para
+evitar que el nombre de la parte reclamante se vincule en los resultados de las
+búsquedas en relación con la URL:
+***URL.1
+SEGUNDO: La resolución ahora recurrida fue notificada fehacientemente a GOOGLE
+LLC (GOOGLE SPAIN, S.L.) el 23 de julio de 2019, según consta en el justificante de
+la notificación.
+TERCERO: El recurrente ha presentado recurso de reposición en fecha 9 de agosto
+de 2019, con entrada en esta Agencia el 9 de agosto de 2019, en el que señala que, la
+URL disputada remite a información de relevancia e interés público incuestionables,
+hace referencia a la actividad ecologista que el interesado desempeña al frente de una
+asociación ecologista y recoge declaraciones del propio reclamante como portavoz de
+la ***ASOCIACION.1.
+Que de la información publicada por diversos medios de comunicación se
+desprende que, en la actualidad la parte reclamante continúa al frente de dicha
+asociación y se lleva de forma pública, por lo que, la información que se pretende
+bloquear continúa siendo relevante y de actualidad y por el mero transcurso de un
+período de tiempo determinado no determina por sí solo la obsolescencia de la
+información.
+El derecho al olvido es un derecho que encuentra su límite en la libertad de
+información. Se trata de un derecho que, no puede suponer una censura retrospectiva
+de las informaciones correctamente publicadas en su día, y que no permite construir
+un pasado a medida de las personas mencionadas en las informaciones accesibles en
+la Web
+En consecuencia, a la vista de que el resultado cuyo bloqueo ordena esta
+Agencia remite a informaciones que presentan relevancia pública, se considera que el
+tratamiento de los datos personales concernientes al reclamante es necesario para el
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/3
+
+ejercicio del derecho a la libertad de expresión e información y no resulta contrario a la
+normativa en materia de protección de datos, ni podría ser considerado inadecuado,
+impertinente o excesivo en relación con los fines del tratamiento y el tiempo
+transcurrido.
+
+FUNDAMENTOS DE DERECHO
+I
+Es competente para resolver el presente recurso la Directora de la Agencia
+Española de Protección de Datos, de conformidad con lo dispuesto en el artículo 123
+de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas (en lo sucesivo LPACAP).
+II
+Debido a razones de funcionamiento del órgano administrativo, por ende no
+atribuibles al recurrente, hasta el día de la fecha no se ha emitido el preceptivo
+pronunciamiento de esta Agencia respecto a la pretensión del interesado.
+De acuerdo con lo establecido en el art. 24 de la Ley 39/2015, de 1 de octubre,
+del Procedimiento Administrativo Común de las Administraciones Públicas (LPACAP)
+el sentido del silencio administrativo en los procedimientos de impugnación de actos y
+disposiciones es desestimatorio.
+Con todo, y a pesar del tiempo transcurrido, la Administración está obligada a
+dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que
+sea su forma de iniciación, según dispone el art. 21.1 de la citada LPACAP. Por tanto,
+procede emitir la resolución que finalice el procedimiento del recurso de reposición
+interpuesto.
+III
+En relación a lo señalado por el recurrente, que la URL disputada remite a
+información de relevancia e interés público incuestionables y que no se puede
+considerar obsoleta por el simple hecho del tiempo transcurrido, cuando la parte
+reclamante en la actualidad es el portavoz de la asociación ecologista y la lleva de
+forma pública, cabe señalar, que la información a la que se pude acceder a través de
+la URL disputada, trata de una información sobre unas irregularidades del un parque
+eólico publicadas en el 2001, y que, en este caso GOOGLE no ha aportado ningún
+elemento probatorio que justifique que, esa información tenga relevancia en la
+actualidad o a pesar del tiempo transcurrido, se haya producido algún acontecimiento
+en la actualidad por la que dicha información vuelva adquirir nuevamente interés y
+relevancia por acontecimientos actuales.
+No hace relevancia e interés actual una información por el mero hecho de
+seguir siendo la parte reclamante el portavoz de la asociación ecologista y siga
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/3
+
+participando en actos públicos relacionados con temas de interés para la asociación
+en la que forma parte activa y esté expuesto públicamente a la opinión pública.
+La información trata de hechos pasados y no se ha justificado que la
+información disputada pueda considerarse que tiene incidencia en el presente o que la
+información pasada adquiera relevancia con hechos actuales y que pueda contribuir al
+debate público en relación a dicha información.
+En este caso, se entiende que, el tratamiento de datos con el devenir del tirmpo
+transcurrido ya no son necesarios en relación a los fines para los que se recogieron o
+trataron, por lo tanto se consideran que, el tratamiento es excesivo en relación con los
+fines y el tiempo transcurrido.
+Que no se pierde la perspectiva ni distorsiona la percepción que los internautas
+puedan conocer de su persona en el ámbito profesional o público, pues, si la parte
+reclamante sigue teniendo actividad y presencia pública por ser el portavoz de la
+asociación ecologista, no se limita o se anula el debate publico, que tendrá su
+actividad en relación a las actuaciones e informaciones actuales o que por el
+transcurso del tiempo hayan adquirido por cualquier situación relevancia e interés en la
+actualidad.
+Vistos los preceptos citados y demás de general aplicación,
+la Directora de la Agencia Española de Protección de Datos RESUELVE:
+PRIMERO: DESESTIMAR el recurso de reposición interpuesto por GOOGLE LLC
+(GOOGLE SPAIN, S.L.) contra la Resolución de esta Agencia Española de Protección
+de Datos dictada con fecha 27 de junio de 2019, en el expediente TD/00106/2019.
+SEGUNDO: NOTIFICAR la presente resolución a GOOGLE LLC (GOOGLE SPAIN,
+S.L.).
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa, se podrá interponer
+en el plazo de dos meses a contar desde el día siguiente a la notificación de este acto
+según lo previsto en el artículo 46.1 de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-administrativa, recurso contencioso administrativo ante la
+Sala de lo Contencioso-administrativo de la Audiencia Nacional, con arreglo a lo
+dispuesto en el artículo 25 y en el apartado 5 de la disposición adicional cuarta del
+referido texto legal.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

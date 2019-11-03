@@ -1,0 +1,470 @@
+1/10
+
+Procedimiento Nº: A/00029/2019
+
+RESOLUCIÓN: R/00524/2019
+En el procedimiento A/00029/2019, instruido por la Agencia Española de
+Protección de Datos a la entidad DIS TYVOLI, S.L. y en virtud de los siguientes,
+ANTECEDENTES
+PRIMERO: Con fecha 18 de diciembre de 2018 tiene entrada en esta Agencia escrito
+remitido por el Servicio Territorial de Economía de la Junta de Castilla y León, en el
+que daba cuenta de una posible infracción en materia de protección de datos por parte
+de la entidad DIS TYVOLI, S.L., (en adelante, el reclamado), al no pedir
+consentimiento expreso para el envío de ofertas comerciales.
+Junto al escrito se aportaba copia de un “Contrato de Compra Venta de un
+Vehículo, con Garantía” suscrito en León, con fecha 11 de octubre de 2017, entre DIS
+TYVOLI, S.L (LEONCAR), en calidad de comerciante vendedor, y Don A.A.A., en
+calidad de comprador, (en adelante también RVM), con motivo de la formalización de
+la compra-venta de ***VEHICULO.1, matrícula ***MATRICULA.1.
+En la condición Séptima del citado contrato se señalaba que: “El comprador
+autoriza de acuerdo con la Ley de protección de datos, a la utilización de los suyos,
+para que los incorpore a su fichero el vendedor y los utilice en su gestión
+administrativa y en el envío de ofertas comerciales, pudiendo ejercitar sus derechos
+de acceso, rectificación y cancelación, comunicando por escrito al vendedor su
+decisión.”
+Atendido que el reclamado no ofreció al comprador (RVM) en ese mismo
+documento un procedimiento para poder manifestar su negativa al tratamiento de sus
+datos personales con fines publicitarios, es decir, para fines no relacionados
+directamente con el mantenimiento y desarrollo de la relación contractual en cuestión,
+se estima que dicha entidad no solicitó ni obtuvo válidamente el consentimiento del
+comprador para que sus datos pudieran utilizarse para el envío de ofertas comerciales.
+SEGUNDO: Con fecha 15 de febrero de 2019, la Subdirección General de Inspección
+de Datos trasladó al reclamado el mencionado escrito para que, en el plazo de un mes
+desde su recepción, informase a esta Agencia, entre otros extremos, sobre las causas
+que habían motivado los hechos objeto de reclamación y las medidas adoptadas para
+evitar que se produjeran incidencias similares.
+A pesar de que el escrito de notificación del traslado de la reclamación y
+solicitud de información fue notificado al reclamado, con fecha 15 de febrero de 2019
+por medios electrónicos, en concreto, a través de la plataforma Notific@, que envía las
+notificaciones a los sistemas Carpeta Ciudadana y Dirección Electrónica Habilitada del
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/10
+
+Ministerio de Hacienda y Administraciones Públicas, el reclamado no contestó la
+información solicitada en el plazo concedido a tal efecto.
+Con fecha 19 de junio de 2019 la Directora de la AEPD acordó admitir a trámite
+el escrito de reclamación.
+TERCERO: Consultada el 2 de julio de 2019 la aplicación de la AEPD que gestiona la
+consulta de antecedentes de sanciones y apercibimientos precedentes en materia de
+protección de datos, se verifica que al reclamado no le constan registros previos.
+CUARTO: Con fecha 5 de julio de 2019, la Directora de la Agencia Española de
+Protección de Datos acordó someter a trámite de audiencia previa el presente
+procedimiento de apercibimiento A/00029/2019, con arreglo a lo dispuesto en el
+artículo 45.6 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos
+de carácter personal (en lo sucesivo, LOPD), por posible infracción del artículo 6.1 de
+la LOPD en su relación con lo dispuesto en el artículo 15 del Reglamento de desarrollo
+de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter
+Personal, aprobado por Real Decreto 1720/2007, de 21 de diciembre, (en adelante,
+RLOPD), tipificada como grave en el artículo 44.3.b) de la citada LOPD.
+El mencionado trámite de audiencia previa fue notificado al reclamado con
+fecha 8 de julio de 2019, según figura en la certificación expedida por el Servicio de
+Notificaciones Electrónicas, Notific@ de la Fábrica Nacional de Moneda y Timbre.
+Transcurrido el plazo concedido para formular alegaciones a dicho acto, no consta que
+el reclamado haya ejercitado dicho derecho en su defensa.
+HECHOS PROBADOS
+PRIMERO: Con fecha 18 de diciembre de 2018 se registra de entrada en esta Agencia
+escrito remitido por el Servicio Territorial de Economía de la Junta de Castilla y León,
+dando cuenta de una posible infracción al principio del consentimiento en materia de
+protección de datos por parte de la entidad DIS TYVOLI, S.L.. (el reclamado)
+SEGUNDO: Con fecha 11 de octubre de 2017 se celebró un “Contrato de Compra
+Venta de un Vehículo, con Garantía” entre el reclamado, en calidad de comerciante
+vendedor, y Don RVM, en calidad de comprador, con motivo de la formalización de la
+compra-venta de un vehículo.
+En la condición Séptima del citado contrato se señalaba que:
+“El comprador autoriza de acuerdo con la Ley de protección de datos, a la
+utilización de los suyos, para que los incorpore a su fichero el vendedor y los utilice en
+su gestión administrativa y en el envío de ofertas comerciales, pudiendo ejercitar sus
+derechos de acceso, rectificación y cancelación, comunicando por escrito al vendedor
+su decisión.”
+TERCERO: El reclamado no ofrecía al comprador en el mencionado “Contrato de
+Compra Venta de un Vehículo, con Garantía” un mecanismo para poder manifestar su
+negativa expresa al tratamiento de sus datos personales con fines de publicidad.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/10
+
+FUNDAMENTOS DE DERECHO
+I
+En virtud lo establecido en los artículos 47 y 48 de la Ley Orgánica 3/2018, de
+Protección de Datos y Garantías de los Derechos Digitales (LOPDGDD), la Directora
+de la Agencia Española de Protección de Datos es competente para resolver el
+presente procedimiento.
+II
+El Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de
+abril de 2016, relativo a la protección de las personas físicas en lo que respecta al
+tratamiento de datos personales y a la libre circulación de estos datos (Reglamento
+General de Protección de Datos, en adelante RGPD) establece en su artículo 99 bajo
+la rúbrica “Entrada en vigor y aplicación “lo siguiente:
+1. El presente Reglamento entrará en vigor a los veinte días de su publicación
+en el Diario Oficial de la Unión Europea.
+2. Será aplicable a partir del 25 de mayo de 2018.
+En este supuesto la conducta infractora analizada queda sometida a las
+disposiciones de la Ley Orgánica 15/1999, de Protección de Datos de Carácter
+Personal, y a su Reglamento de desarrollo aprobado por el Real Decreto 1720/2007
+(en lo sucesivo, RLOPD). Se toma en consideración para ello, por una parte, que el
+RGPD es de aplicación efectiva desde el 25/05/2018 y, por otra, que los hechos objeto
+de estudio acontecieron con fecha 11 de octubre de 2017, fecha de la firma del
+contrato adjuntado a la reclamación.
+III
+En el presente caso se dilucida si los hechos expuestos como probados en el
+presente procedimiento constituyen una infracción al principio del consentimiento
+recogido en el artículo 6.1 de la LOPD en su relación con lo dispuesto en el artículo 15
+del RLOPD.
+El artículo 6.1 de la LOPD dispone: "1. El tratamiento de los datos de carácter
+personal requerirá el consentimiento inequívoco del afectado, salvo que la Ley
+disponga otra cosa".
+“No será preciso el consentimiento cuando los datos de carácter personal se
+recojan para el ejercicio de las funciones propias de las Administraciones públicas en
+el ámbito de sus competencias; cuando se refieran a las partes de un contrato o
+precontrato de una relación negocial, laboral o administrativa y sean necesarios para
+su mantenimiento o cumplimiento; cuando el tratamiento de los datos tenga por
+finalidad proteger un interés vital del interesado en los términos del artículo 7,
+apartado 6, de la presente Ley, o cuando los datos figuren en fuentes accesibles al
+público y su tratamiento sea necesario para la satisfacción del interés legítimo
+perseguido por el responsable del fichero o por el del tercero a quien se comuniquen
+los datos, siempre que no se vulneren los derechos y libertades fundamentales del
+interesado”.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/10
+
+El artículo 3.a) de la LOPD define el concepto de dato de carácter personal
+como “Cualquier información concerniente a personas físicas identificadas o
+identificables”. A su vez, el artículo 3 de la LOPD, en su apartado c), define como
+tratamiento de datos, las “operaciones o procedimientos técnicos de carácter
+automatizado o no, que permitan la recogida, grabación, conservación, elaboración,
+modificación, bloqueo y cancelación, así como las cesiones de datos que resulten de
+comunicaciones, consultas, interconexiones y transferencias”.
+El principio del consentimiento, en palabras del Tribunal Constitucional en su
+Sentencia 292/2000, de 30 de noviembre, (F.J. 7 primer párrafo), “...consiste en un
+poder de disposición y de control sobre los datos personales que faculta a la persona
+para decidir cuáles de esos datos proporcionar a un tercero, sea el Estado o un
+particular, o cuáles puede este tercero recabar, y que también permite al individuo
+saber quién posee esos datos personales y para qué, pudiendo oponerse a esa
+posesión o uso. Estos poderes de disposición y control sobre los datos personales,
+que constituyen parte del contenido del derecho fundamental a la protección de datos
+se concretan jurídicamente en la facultad de consentir la recogida, la obtención y el
+acceso a los datos personales, su posterior almacenamiento y tratamiento, así como
+su uso o usos posibles, por un tercero, sea el estado o un particular (...)”.
+Dicho principio conlleva la necesidad del consentimiento inequívoco del
+afectado para que puedan tratarse sus datos de carácter personal, el consentimiento
+permite así al afectado ejercer el control sobre sus datos de carácter personal (la
+autodeterminación informativa).
+Se trata de una garantía fundamental que solo encuentra como excepciones a
+ese consentimiento del afectado, las establecidas en una ley, recogiéndose en el
+apartado 2 del citado artículo 6 LOPD una serie de excepciones a la prestación del
+citado consentimiento:
+Por su parte, el citado artículo 15 del Real Decreto 1720/2007, de 21 de
+diciembre, dispone que: “Si el responsable del tratamiento solicitase el consentimiento
+del afectado durante el proceso de formación de un contrato para finalidades que no
+guarden relación directa con el mantenimiento, desarrollo o control de la relación
+contractual, deberá permitir al afectado que manifieste expresamente su negativa al
+tratamiento o comunicación de datos.
+En particular, se entenderá cumplido tal deber cuando se permita al afectado la
+marcación de una casilla claramente visible y que no se encuentre ya marcada en el
+documento que se le entregue para la celebración del contrato o se establezca un
+procedimiento equivalente que le permita manifestar su negativa al tratamiento.”
+A la vista de lo dispuesto en el artículo 15 del RLOPD, el responsable del
+tratamiento no podrá utilizar los datos de carácter personal del afectado para fines
+que no resulten necesarios para el cumplimiento y desarrollo del objeto del contrato
+si, previamente, es decir, durante el proceso de formación de la relación contractual
+en la que se le informa de las finalidades determinadas a las que se destinarán los
+datos recogidos, no ha obtenido el consentimiento del afectado para dicho
+tratamiento ajeno a los fines de la relación contractual. De este modo, se establece
+la obligación de posibilitar en el propio documento contractual la oposición del afectado
+titular de los datos a las finalidades del tratamiento no relacionadas directa ni
+necesariamente con los fines del contrato.
+IV
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/10
+
+A la vista de lo dispuesto en los mencionados preceptos, la obtención del
+consentimiento en el marco de una relación contractual para fines no relacionados
+directamente con el objeto de la misma, como ocurre en el caso estudiado, debía
+atenerse a lo dispuesto en el transcrito artículo 15 del RLOPD.
+En un caso similar al que nos ocupa, la Audiencia Nacional con fecha 30 de
+enero de 2013 dictó Sentencia (Rec. núm 400/2011) que en su Fundamento de
+Derecho Sexto señalaba que: ”La persona que una vez elegido su producto por
+catálogo llama por teléfono a la entidad recurrente para realizar el pedido, sabe
+lógicamente, que tiene que entregar una serie de datos para tramitar y gestionar el
+pedido. Ahora bien, cuando se trata del tratamiento de datos para actividades como
+por ejemplo de prospección comercial, que no tienen relación directa con el
+mantenimiento, desarrollo o control de la relación contractual que motivó la recogida
+de datos, no basta con informar en el catálogo de la posibilidad de recibir publicidad,
+sino que hay que informar y dar la posibilidad de que el afectado pueda mostrar su
+negativa al tratamiento de sus datos con dicha finalidad, como así lo exige el artículo
+15 del RDLOP en relación con el deber de información en la recogida de datos
+regulado en el citado artículo 5.1LOPD .
+Y en el caso de autos no se ha informado y dado la posibilidad al afectado de
+mostrar su negativa al tratamiento de sus datos personales con esos fines que no
+guardan relación directa con la relación contractual, ni en el momento de realizar el
+pedido telefónicamente, ni tampoco cuando se recibe el pedido en el domicilio en el
+talón de venta que tiene que ser firmado por el destinatario de la mercancía, como así
+hizo el denunciante.
+Así, en el citado talón figura al dorso, bajo el rótulo "Condiciones Generales"
+que el titular autoriza a XXXX para que los datos contenidos en este documento
+puedan ser facilitados con fines comerciales y estudios de mercado con fines propios,
+única y exclusivamente a las empresas del Grupo XXXX, y se informa de la posibilidad
+de ejercitar los acceso, rectificación, cancelación y oposición. Pero no se contempla
+en el citado talón una negativa al tratamiento de los datos para dichos fines
+comerciales y estudios de mercado, no relacionados directamente con el
+mantenimiento o desarrollo de la relación contractual, lo que resultaría sumamente
+fácil, pues bastaría con la inserción de una casilla en blanco para que el interesado
+pudiera marcarla y oponerse al tratamiento de sus datos para dichas finalidades.”
+Conforme a dicho criterio jurisprudencial, y analizado el contenido del
+“Contrato de Compra-Venta de un Vehículo, con Garantía” adjuntado a la reclamación,
+se considera probado que en el proceso de formación del contrato de compra-venta
+de un vehículo suscrito, con fecha 11 de octubre de 2017, el reclamado recabó datos
+personales del comprador para utilizarlos posteriormente en acciones publicitarias
+(finalidad distinta a la que determinó su recogida) sin ofrecer al mismo un mecanismo
+de oposición. ,
+Por lo tanto, el reclamado no solicitó ni obtuvo un consentimiento válida y
+expresamente otorgado por el comprador para que sus datos pudieran utilizarse para
+el envío de ofertas comerciales al no ofrecerle, en el propio contrato, la marcación de
+una casilla claramente visible que le permitiera mostrar su negativa al tratamiento
+publicitario de sus datos o implantar un procedimiento equivalente durante el proceso
+de formación del contrato. Todo ello a pesar de que el tratamiento de los datos
+personales del comprador con fines publicitarios no guardaba relación directa con el
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/10
+
+mantenimiento, desarrollo o control de la relación contractual derivada de la compraventa del vehículo objeto del contrato.
+V
+El artículo 44.3.b) de la LOPD califica como infracción grave: “b) Tratar los
+datos de carácter personal sin recabar el consentimiento de las personas afectadas,
+cuando el mismo sea necesario conforme a lo dispuesto en esta Ley y sus
+disposiciones de desarrollo.”
+En este supuesto, de acuerdo con lo razonado en los anteriores Fundamentos
+de Derecho anterior, el reclamado ha incurrido en la infracción descrita al vulnerar el
+principio del consentimiento inequívoco consagrado en el artículo 6.1 de la LOPD en
+su relación con lo previsto en el artículo 15 RDLOPD, puesto que no mostró la
+diligencia que le resultaba exigible para dar cumplimiento al deber de recabar del
+comprador, en el momento de la celebración del citado contrato, su consentimiento
+expreso al tratamiento de sus datos para una finalidad distinta a la derivada de la
+formalización de la relación contractual que determinó la recogida de datos
+personales.
+VI
+El apartado 6 del artículo 45 de la LOPD establece lo siguiente:
+“Excepcionalmente el órgano sancionador podrá, previa audiencia de los
+interesados y atendida la naturaleza de los hechos y la concurrencia significativa de
+los criterios establecidos en el apartado anterior, no acordar la apertura del
+procedimiento sancionador, y en su lugar, apercibir al sujeto responsable a fin de que,
+en el plazo que el órgano sancionador determine, acredite la adopción de las medidas
+correctoras que en cada caso resultasen pertinentes, siempre que concurran los
+siguientes presupuestos:
+a)
+que los hechos fuesen constitutivos de infracción leve o grave conforme
+a lo dispuesto en esta Ley.
+b)
+Que el infractor no hubiese sido sancionado o apercibido con
+anterioridad.
+Si el apercibimiento no fuera atendido en el plazo que el órgano sancionador
+hubiera determinado procederá la apertura del correspondiente procedimiento
+sancionador por dicho incumplimiento”.
+A este respecto, procede considerar lo establecido en el artículo 45.4 y 5 de la
+LOPD:
+“4. La cuantía de las sanciones se graduará atendiendo a los siguientes criterios:
+a) El carácter continuado de la infracción.
+b) El volumen de los tratamientos efectuados.
+c) La vinculación de la actividad del infractor con la realización de tratamientos de
+datos de carácter personal.
+d) El volumen de negocio o actividad del infractor.
+e) Los beneficios obtenidos como consecuencia de la comisión de la infracción.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/10
+
+f) El grado de intencionalidad.
+g) La reincidencia por comisión de infracciones de la misma naturaleza.
+h) La naturaleza de los perjuicios causados a las personas interesadas o a terceras
+personas.
+i) La acreditación de que con anterioridad a los hechos constitutivos de infracción la
+entidad imputada tenía implantados procedimientos adecuados de actuación en la
+recogida y tratamiento de Ios datos de carácter personal, siendo la infracción
+consecuencia de una anomalía en el funcionamiento de dichos procedimientos no
+debida a una falta de diligencia exigible al infractor.
+j) Cualquier otra circunstancia que sea relevante para determinar el grado de
+antijuridicidad y de culpabilidad presentes en la concreta actuación infractora.
+5. El órgano sancionador establecerá la cuantía de la sanción aplicando la escala
+relativa a la clase de infracciones que preceda inmediatamente en gravedad a aquella
+en que se integra la considerada en el caso de que se trate, en los siguientes
+supuestos:
+a) Cuando se aprecie una cualificada disminución de la culpabilidad del imputado o de
+la antijuridicidad del hecho como consecuencia de la concurrencia significativa de
+varios de los criterios enunciados en el apartado 4 de este artículo.
+b) Cuando la entidad infractora haya regularizado la situación irregular de forma
+diligente.
+c) Cuando pueda apreciarse que la conducta del afectado ha podido inducir a la
+comisión de la infracción.
+d) Cuando el infractor haya reconocido espontáneamente su culpabilidad.
+e) Cuando se haya producido un proceso de fusión por absorción y la infracción fuese
+anterior a dicho proceso, no siendo imputable a la entidad absorbente”.
+En el presente supuesto se cumplen los requisitos recogidos en los apartados
+a) y b) del citado artículo 45.6 de la LOPD. Junto a ello se constata una cualificada
+disminución de la culpabilidad del denunciado por la concurrencia de varios criterios de
+los enunciados en el artículo 45.4 de la LOPD, concretamente, que la citada entidad
+no tiene como actividad principal el tratamiento de datos de carácter personal y la falta
+de constancia de beneficios o de perjuicios casados como consecuencia de la
+infracción. Todo ello, justifica que la AEPD no acuerde la apertura de un procedimiento
+sancionador y que opte por aplicar el artículo 45.6 de la LOPD.
+VII
+A los efectos de poder determinar las medidas correctoras que resultan
+precisas para adecuar la situación descrita a la normativa actual en materia de
+protección de datos debe tenerse en cuenta que desde el 25 de mayo de 2018
+resulta de aplicación del Reglamento (UE) 2016/679, de 27 de abril de 2016, General
+de Protección de Datos, por lo que a los efectos estudiados ha de estarse a lo
+previsto en los artículos 6.1 y 7 del citado RGPD, normativa en materia de protección
+de datos que resulta de aplicación desde el 25 de mayo de 2018, al regular los
+principios relativos al tratamiento establece:
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+8/10
+
+“Artículo 6. Licitud del tratamiento
+1. El tratamiento solo será lícito si se cumple al menos una de las siguientes
+condiciones:
+a) el interesado dio su consentimiento para el tratamiento de sus datos
+personales para uno o varios fines específicos;
+b) el tratamiento es necesario para la ejecución de un contrato en el que el
+interesado es parte o para la aplicación a petición de este de medidas
+precontractuales;
+c) el tratamiento es necesario para el cumplimiento de una obligación legal
+aplicable al responsable del tratamiento;
+d) el tratamiento es necesario para proteger intereses vitales del interesado o
+de otra persona física;
+e) el tratamiento es necesario para el cumplimiento de una misión realizada en
+interés público o en el ejercicio de poderes públicos conferidos al responsable del
+tratamiento;
+f) el tratamiento es necesario para la satisfacción de intereses legítimos
+perseguidos por el responsable del tratamiento o por un tercero, siempre que sobre
+dichos intereses no prevalezcan los intereses o los derechos y libertades
+fundamentales del interesado que requieran la protección de datos personales, en
+particular cuando el interesado sea un niño.
+Lo dispuesto en la letra f) del párrafo primero no será de aplicación al
+tratamiento realizado por las autoridades públicas en el ejercicio de sus funciones.
+Artículo 7. Condiciones para el consentimiento
+1. Cuando el tratamiento se base en el consentimiento del interesado, el
+responsable deberá ser capaz de demostrar que aquel consintió el tratamiento de sus
+datos personales.
+2. Si el consentimiento del interesado se da en el contexto de una declaración
+escrita que también se refiera a otros asuntos, la solicitud de consentimiento se
+presentará de tal forma que se distinga claramente de los demás asuntos, de forma
+inteligible y de fácil acceso y utilizando un lenguaje claro y sencillo. No será vinculante
+ninguna parte de la declaración que constituya infracción del presente Reglamento.
+3. El interesado tendrá derecho a retirar su consentimiento en cualquier
+momento. La retirada del consentimiento no afectará a la licitud del tratamiento
+basada en el consentimiento previo a su retirada. Antes de dar su consentimiento, el
+interesado será informado de ello. Será tan fácil retirar el consentimiento como darlo.
+4. Al evaluar si el consentimiento se ha dado libremente, se tendrá en cuenta
+en la mayor medida posible el hecho de si, entre otras cosas, la ejecución de un
+contrato, incluida la prestación de un servicio, se supedita al consentimiento al
+tratamiento de datos personales que no son necesarios para la ejecución de dicho
+contrato.”
+En particular, el reclamado, en su condición de responsable del tratamiento,
+deberá implantar los mecanismos necesarios para que los interesados puedan
+prestar su consentimiento mediante una acción positiva, de forma clara y separada,
+para todos aquellos tratamientos de datos personales con finalidades específicas
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+9/10
+
+diferentes a las que determinen la recogida de los mismos, como, por ejemplo, para la
+realización de acciones publicitarias vía postal con los datos recabados en el marco
+de un contrato de compra-venta de un vehículo.
+Igualmente se advierte, que en el caso de utilizarse otros canales para la
+remisión de las ofertas comerciales, tales como medios electrónicos de comunicación,
+deberá estarse a lo previsto en el artículo 21 de la Ley 34/2002, de 11 de julio, de
+servicios de la sociedad de la información y de comercio electrónico.
+De acuerdo con lo señalado,
+Por la Directora de la Agencia Española de Protección de Datos,
+SE ACUERDA:
+1.- APERCIBIR (A/00029/2019) a DIS TYVOLI, S.L. con arreglo a lo dispuesto en el
+artículo 45.6 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos
+de Carácter Personal, con relación a la reclamación por infracción del artículo 6.1 de la
+LOPD en su relación con lo dispuesto en el artículo 15 del RLOPD, tipificada como
+grave en el artículo 44.3.b) de la citada Ley Orgánica.
+2.- REQUERIR a DIS TYVOLI, S.L. de acuerdo con lo establecido en el apartado 6
+del artículo 45 de la Ley 15/1999 para que en el plazo de un mes desde este acto de
+notificación:
+2.1.- CUMPLA lo previsto en los artículos 6.1 y 7 del RGPD a fin de adecuar la
+licitud de los tratamientos efectuados a la normativa de protección de datos que
+resulta de aplicación en la actualidad. En particular, deberá implementar las medidas
+técnicas y organizativas necesarias para establecer los mecanismos que se reseñan
+en el Fundamento de Derecho VII de esta resolución en orden a acreditar la
+existencia del consentimiento de los interesados para tratamientos con fines distintos
+de aquel para el que se recogieron sus datos personales.
+2.2.- INFORME a la Agencia Española de Protección de Datos del
+cumplimiento de lo requerido, aportando la documentación o medios de prueba
+justificativos de dicha circunstancia.
+3.- NOTIFICAR el presente Acuerdo a DIS TYVOLI, S.L.
+De conformidad con lo establecido en el artículo 50 de la Ley Orgánica 3/2018,
+de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos
+digitales (en lo sucesivo LOPDGDD), la presente Resolución se hará pública una vez
+haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+10/10
+
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

@@ -1,0 +1,1430 @@
+1/29
+
+Procedimiento nº.: PS/00202/2018
+ASUNTO: Recurso de Reposición Nº RR/00862/2018
+
+Examinado el recurso de reposición interpuesto por la entidad XFERA MÓVILES,
+S.A., contra la resolución dictada por la Directora de la Agencia Española de
+Protección de Datos en el procedimiento sancionador PS/00202/2018 y en
+consideración a los siguientes
+HECHOS
+PRIMERO: Con fecha 19/11/2018 se dictó resolución por la Directora de la Agencia
+Española de Protección de Datos en el procedimiento sancionador PS/00202/2018, en
+virtud de la cual se impuso a XFERA MÓVILES, S.A., con NIF A82528548, una
+sanción de 50.000 € (cincuenta mil euros), por vulneración de lo dispuesto en el
+artículo 6.1 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos
+de Carácter Personal (en lo sucesivo LOPD), infracción tipificada como grave en el
+artículo 44.3.b) LOPD, de conformidad con lo establecido en el artículo 45.2 de la
+citada Ley Orgánica.
+Dicha resolución, que fue notificada al recurrente en fecha 21/11/2018, fue
+dictada previa la tramitación del correspondiente procedimiento sancionador, de
+acuerdo con lo dispuesto en el artículo 127 del Reglamento de desarrollo de la LOPD
+aprobado por el Real Decreto 1720/2007, de 21 de diciembre (RLOPD).
+SEGUNDO: Como hechos probados del citado procedimiento sancionador,
+PS/00202/2018, se dejó constancia de los siguientes en la resolución impugnada:
+<<PRIMERO: A.A.A., con DNI ***NIF.1, y domicilio en ***LOCALIDAD.1, calle
+***DIRECCION.1denuncia que MÁS MÓVIL (XFERA MÓVILES) ha dado de alta
+a su nombre y sin su consentimiento, en fecha 19/11/2017, un pack telefónico
+formado por dos líneas móviles, una fija y fibra óptica. Afirma que es cliente de la
+operadora y reconoce como suya la línea ***TELEFONO.1. (Folio 2)
+SEGUNDO: La denunciante aporta copia del contrato relativo a las tres líneas
+que no reconoce como suyas y que le fue facilitado por la denunciada a su
+solicitud: el “Contrato de Servicios Combinados MÁSMOVIL particulares”,
+número MMC 17-11197553116. Declara que, de los datos personales que
+constan en ese documento, sólo coinciden con los suyos el NIF, nombre y dos
+apellidos.
+El documento tiene estas características:
+ Es de fecha 19/11/2017 y no se encuentra firmado por la titular.
+ El apartado 1, “Datos del canal de contratación”, está en blanco.
+ El apartado 2, “Datos personales del cliente”, incluye el nombre, apellidos y
+NIF de la denunciante. No son datos de la denunciante el domicilio que recoge
+el contrato (calle ***DIRECCION.2 en la localidad de ***LOCALIDAD.2), que
+no coincide con el facilitado por la afectada en su denuncia, el teléfono de
+contacto ***TELEFONO.2 ni la dirección email ***EMAIL.1 .
+ El apartado 3, “Servicios contratados”, detalla los siguientes:
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+2/29
+
+*Línea móvil 1: ***TELEFONO.3, indicando el contrato en el apartado “Tipo de
+movimiento” que es un “Alta nueva”
+*Línea móvil 2: ***TELEFONO.4. El contrato indica en el apartado “Tipo de
+movimiento” que se trata de una “Portabilidad”. (El subrayado es de la AEPD)
+* ADSL de fibra, asociado al número de teléfono fijo ***TELEFONO.5
+*Teléfono fijo ***TELEFONO.5, indicando el contrato en el apartado “Tipo de
+movimiento” que es un “Alta nueva”.
+ El apartado 5, “Cambio de titular, datos del antiguo titular”, indica en la
+columna “Nº teléfono a cambiar” el ***TELEFONO.4 y en la columna “Nombre
+y apellidos del antiguo titular” el nombre y dos apellidos de la denunciante y su
+NIF. (Folios 3 y 4)
+TERCERO: XFERA MÓVILES aporta impresiones de pantalla de sus sistemas
+en las que el nombre, dos apellidos y NIF de la denunciante están asociados al
+alta de las líneas ***TELEFONO.5, ***TELEFONO.3 y ***TELEFONO.4.
+
+ El folio 24 recoge una captura de pantalla que, en relación a la Fibra 300
+simétrica MásMóvil +ilimitada 2GB, se facilita información sobre la instalación
+e indica como dirección la calle ***DIRECCION.2, ***LOCALIDAD.2, el
+nombre, dos apellidos y NIF de la denunciante, el email ***EMAIL.1 y el
+teléfono ***TELEFONO.2.
+
+ En la misma captura de pantalla, en el apartado otras “suscripciones” se
+mencionan las siguientes:
+El número ***TELEFONO.4, indicando como “Tipo”, “post-pago”, y como
+“Producto” “Tarifa MAS 2gb CONV”.
+El número ***TELEFONO.3, indicando como “Tipo” “post-pago” y como
+“Producto” “Tarifa extra línea 500MB”.
+El número ***TELEFONO.5 indicando como “Tipo” “internet FTTH” y “Fijo
+digital” y como “Producto”, respectivamente, “Fibra 300 MÁS MÓVIL” y “Tarifa
+fijo”. (Folio 24)
+CUARTO: XFERA MÓVILES ha aportado la copia del “Contrato de Servicios
+combinados Mas Móvil particulares”, con número MMC 17-11197553116, relativo
+a los tres productos que son objeto de controversia: las líneas ***TELEFONO.5,
+***TELEFONO.3 y ***TELEFONO.4 (folios 54 y 55)
+Se trata del mismo documento que la denunciante adjuntó a su denuncia
+descrito en el Hecho probado segundo. Se da por reproducida aquí la
+descripción de su contenido que se ofrece en ese Hecho Probado.
+QUINTO: XFERA MÓVILES ha manifestado respecto al “Contrato de Servicios
+combinados Mas Móvil particulares”, con número MMC 17-11197553116, en
+relación con la circunstancia de que no estuviera firmado, que “aparece sin firma
+del cliente ya que esa firma es ahora digital” (Folio 152)
+SEXTO: La denunciada aportó, en prueba de la contratación de las líneas por la
+denunciante, tres grabaciones de conversaciones telefónicas. De ellas sólo la
+segunda grabación alude a una conversación mantenida con una persona que
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+3/29
+
+se identifica con el nombre, apellidos y NIF de la denunciante:
+2ª grabación. Transcripción
+- Sí, buenos días
+- Hola, ¿A.A.A.?,
+- Buenos días
+- Sí, mira, pues te llamo para hacerte la verificación de voz, vale, de la
+tarifa de 300 de fibra que acabáis de contratar
+- Sí, me lo ha dicho mi hija
+-Vale, perfecto, pues mira. D.ª A.A.A.. Le resumo brevemente las
+características del producto que acaba de contratar. Le damos la bienvenida
+al proceso de contratación telefónica de Más Móvil. Le informo que esta
+conversación está siendo grabada. De acuerdo con la Ley de Protección de
+Datos sus datos personales serán incorporados a un fichero automatizado
+titularidad de Más Móvil Telecom con los fines de comercialización,
+prestación del servicio, mantenimiento, información comercial y publicidad
+de los servicios de Mas Móvil.
+Podrá ejercitar en cualquier momento los derechos de acceso,
+rectificación, cancelación y oposición dirigiéndose a Más Móvil, en avenida
+de La Vega 28108 Alcobendas, Madrid, en el teléfono gratuito 2373 o
+enviando un email a hola@masmovil.es
+Son las doce horas y seis minutos del día 19 de noviembre del año
+2016.
+Y el servicio consta de una línea de teléfono fijo con llamadas
+ilimitadas a fijos nacionales y sesenta minutos a móviles al mes, una
+conexión a internet de fibra óptica de 300 megas (¿) con router wifi gratuito
+y una línea de móvil con llamadas ilimitadas y 2 gigas de capacidad de
+datos. En caso de consumir los datos se activa un bono de 100 megas por
+sólo uno con cincuenta con un máximo de hasta seis bonos. En caso de
+que usted no desee el bono deberá desactivar los datos móviles del
+terminal antes de consumir los datos.
+Es usted doña A.A.A., con DNI ***NIF.1. Va a ser usted la persona
+titular de la línea fija, ¿es correcto, verdad?
+- Es correcto
+-Y también es usted la titular de la línea móvil que vamos a portar
+hacia Más Móvil, ***TELEFONO.4 ¿es correcto, verdad?
+-Es correcto
+-El precio total que va a pagar usted por el servicio es de solo 36,89
+iva incluido por tres meses y después 44,89 iva ya incluido. El precio es
+definitivo y garantizado de por vida lo que significa que Más Móvil nunca se
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+4/29
+
+lo va a subir. El compromiso de permanencia asociado a la promoción sería
+de 12 meses. Y le recuerdo que si usted solicitase la cancelación del
+producto contratado tras la instalación o se diera de baja antes de
+transcurrir tres meses desde dicha instalación deberá de abonar a Más
+Móvil 170 euros por los gastos administrativos y de instalación asociados a
+dicha contratación. Más Móvil solicitará la portabilidad de su línea móvil que
+va a causar baja en su operador y alta en Más Móvil. ¿Sí que está de
+acuerdo, A.A.A.?
+-Correcto
+-Más Móvil le informa como establece la legislación vigente el plazo
+de cumplimiento de la obligación de tramitar la solicitud será de un día
+desde que surja dicha obligación para el operador, salvo que usted elija una
+fecha posterior. ¿Está de acuerdo en que la obligación de tramitar la
+portabilidad móvil por parte de Mas Móvil surja en el momento que se le
+active el servicio de telefonía fija? ¿Está de acuerdo?
+-Correcto
+-Autorización para la cuenta bancaria. Doña A.A.A., con DNI ***NIF.1
+número de cuenta bancaria ***CUENTA.1, ¿autoriza usted a Más Móvil
+para que pueda cobrar las facturas emitidas a nombre del cliente como
+consecuencia de este contrato mediante adeudos en su cuenta bancaria?
+-Sí
+-Estos datos se recaban con la finalidad antes indicada. Formarán
+parte de un fichero de Más Móvil inscrito ante la Agencia Española de
+Protección de Datos. Podrá ejercitar los derechos de acceso, rectificación,
+cancelación y oposición dirigiéndose por escrito, con copia de su DNI o
+pasaporte, a Más Móvil, avenida de La Vega 15, 28108 Alcobendas.
+Más Móvil podrá comprobar su solvencia en ficheros comunes sobre
+solvencia patrimonial y crédito cuyos responsables presten el servicio con
+arreglo a la legalidad vigente, así como por procedimientos automatizados
+del sistema de scoring. Más Móvil también podrá verificar la exactitud de los
+datos aportados y obtener datos de las entidades bancarias que nos
+faciliten.
+Doña A.A.A. hemos terminado el proceso de verificación de su
+portabilidad. Bienvenida a Más Móvil
+Ahora volveré a llamar a B.B.B., ¿vale A.A.A.?”
+(El subrayado es de la AEPD) (Folio 15)
+SÉPTIMO: En relación con la línea controvertida ***TELEFONO.4, que según la
+documentación de XFERA MÓVILES fue portada de otro operador, se solicitó a
+la denunciada que facilitara a la Agencia una copia de la grabación del proceso
+de verificación de la portabilidad de esa línea a MÁS MÓVIL, efectuada
+conforme a lo dispuesto en la Circular 1/2009, modificada por la Circular 1/2012,
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+5/29
+
+de la CMT, y los datos identificativos de la empresa verificadora (Folio 44)
+XFERA MÓVILES respondió que aportaba como documento adjunto 1 la
+“copia de la grabación de portabilidad solicitada”.
+El documento 1 (folio 70) es un CD con tres grabaciones. Se trata de las
+mismas que XFERA MÓVILES aportó con la respuesta al primer requerimiento
+de la Inspección, que obra al folio 15. De las tres grabaciones la segunda
+-reproducida en el Antecedente Segundo de la Propuesta- es supuestamente la
+grabación del consentimiento a la portabilidad. En la grabación no se facilita ni el
+nombre del operador donante, ni el domicilio del titular de la línea, ni el código
+identificativo de la solicitud.
+OCTAVO: La denunciante reconoce ser cliente de XFERA MÓVILES, con quien
+tiene contratada la línea móvil ***TELEFONO.1. En relación con esta línea, a
+tenor de las impresiones de pantalla de los sistemas de la operadora, se verifica
+que constan los datos personales de la denunciante -nombre, dos apellidos, NIF,
+domicilio (el mismo facilitado en la denuncia, ubicado en ***LOCALIDAD.1, calle
+***DIRECCION.1, y email, ***EMAIL.2). El número de este contrato es
+MMC160218013799. Esta línea fue contratada el 18/02/2016 a través de un
+Distribuidor de la compañía y se activó el 22/02/2016. La línea había sido
+portada de otro operador. Se aportan (folios 35 a 37) los documentos relativos al
+consentimiento prestado a la portabilidad y los relativos a su gestión.
+NOVENO: La SESIAD remitió a la AEPD en fase de pruebas copia completa del
+expediente RC1001725/18, tramitado a raíz de la reclamación formulada por la
+denunciante contra XFERA MÓVILES. De los documentos aportados resulta:
+- La denunciante presenta reclamación el 11/01/2018
+- Se da traslado a MÁS MÓVIL para que formule alegaciones el 24/01/2018.
+Se reitera la petición, ante su silencio, el 27/02/2018.
+- MÁS MÓVIL responde en escrito de 05/03/2018 y manifiesta que las líneas
+se han dado de baja con fecha 30/01/2018, las móviles, y con fecha
+31/01/2018 la línea fija, “siendo condonado el importe facturado”.
+- En fecha 28/05/2018 la SESIAD dicta resolución en la que estima la
+reclamación acerca del alta no solicitada de los servicios asociados a las
+líneas ***TELEFONO.5, ***TELEFONO.3 y ***TELEFONO.4, reconociendo
+el derecho de la afectada a obtener la baja de las líneas y a no abonar las
+facturas que por ellas hubiera emitido MÁS MÓVIL.
+- Obra en el expediente captura de pantalla de terminal móvil remitida por la
+denunciante con un sms de 21/02/2018 en el que en nombre de MÁS
+MÓVIL le reclaman una deuda de 74,70 euros.>>
+TERCERO: XFERA MÓVILES, S.A. (en lo sucesivo la recurrente) presentó en la
+Agencia Española de Protección de Datos, en fecha 21/12/2018, recurso de reposición
+que funda en los motivos siguientes:
+1º.- La nulidad de la resolución recurrida de acuerdo con el artículo 47.1.a) de la
+Ley 39/20015, de Procedimiento Administrativo Común de las Administraciones
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+6/29
+
+Públicas (LPACAP) por infracción del artículo 24.2 de la Constitución Española.
+A su juicio, la AEPD ha menoscabado su derecho a emplear los medios de
+defensa que estime pertinentes al actuar de modo contrario a la doctrina que en
+materia de prueba ha sentado el Tribunal Constitucional, de la que es exponente la
+STC 80/2011, de 06/06/2011.
+La actuación de la AEPD que a juicio de la recurrente vulnera su derecho
+constitucional a utilizar en su defensa los medios de prueba que estime pertinentes ha
+sido la decisión adoptada en la resolución impugnada de valorar a efectos de prueba,
+exclusivamente, una sola de las tres grabaciones de las conversaciones telefónicas
+que XFERA MÓVILES aportó en el curso del procedimiento: la segunda.
+2º.- Subsidiariamente, invoca la anulabilidad de la resolución recurrida conforme
+al artículo 48.1 de la LPACAP, en relación con los artículos 77.3 de la citada Ley
+39/2015 y 382.3 de la Ley de Enjuiciamiento Civil.
+La recurrente afirma que, aunque a tenor de la segunda de las grabaciones que
+aportó la Agencia consideró que concurría el “mínimo de diligencia exigible respecto a
+la línea fija y de una de las móviles”, contra toda lógica, excluyó las grabaciones en las
+que interviene “B.B.B.”, aun cuando en la grabación que se toma en consideración (la
+segunda) se menciona a “B.B.B.” y además la teleoperadora informa en ella a su
+interlocutora de que volverá a llamar a esa persona. La recurrente sostiene que, a la
+luz de los artículos 1709 y 1710 del Código Civil, en la segunda grabación “lo que se
+está haciendo es verificar un mandato en la persona de su hija a los efectos de la
+contratación del “Contrato de Servicios combinados Mas Móvil particulares”.
+3º.- Subsidiariamente, alega la anulabilidad de la resolución impugnada a tenor
+del artículo 48.1 de la LPACAP en relación con la “Resolución de 16 de marzo de
+2012, de la Comisión del Mercado de las Telecomunicaciones, por la que se publica la
+Circular 1/2009, por la que se introduce el consentimiento verbal con verificación por
+tercero en la contratación de servicios mayoristas regulados de comunicaciones fijas,
+así como en las solicitudes de conservación de numeración”.
+La recurrente afirma que ninguna eficacia invalidante puede tener “el que
+hubieran podido omitirse exigencias adjetivas durante la tramitación de la solicitud de
+portabilidad dado que las mismas no alcanzan ni interfieren con el consentimiento
+prestado. En todo caso se estarían achacando esas omisiones y no la falta de
+consentimiento”. (El subrayado es de la AEPD)
+Aduce también que la resolución que recurre “olvida que consta acreditado con
+todos sus elementos configuradores el consentimiento prestado por la interesada, el
+cual no debe ser analizado conforme a la citada Circular 1/2009, sino conforme a la
+LOPD, esto es, conforme al artículo 6.1” de la citada Ley Orgánica. (El subrayado es
+de la AEPD)
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+7/29
+
+4º.- Subsidiariamente solicita que se aplique la previsión legal contenida en el
+artículo 45.5 LOPD.
+5º- Subsidiariamente invoca la procedencia de “rectificar” la agravante del
+artículo 45.4.a) LOPD que se apreció en la resolución impugnada y la concurrencia
+como atenuante de la circunstancia recogida en el artículo 45.5.e) LOPD.
+FUNDAMENTOS DE DERECHO
+I
+Es competente para resolver el presente recurso la Directora de la Agencia
+Española de Protección de Datos, de conformidad con lo dispuesto en el artículo 123
+de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas (en lo sucesivo LPACAP).
+II
+En relación con los motivos de impugnación invocados por la recurrente se
+hacen las siguientes consideraciones:
+
+a) Respecto al primer motivo de impugnación:
+La recurrente invoca en primer término el artículo 47.1.a) de la LPACAP, esto es,
+la nulidad de pleno Derecho de la resolución como consecuencia de una pretendida
+lesión de los derechos y libertadas susceptibles de amparo constitucional. En
+particular estima que se ha cercenado su derecho de defensa al haberle negado la
+Agencia que se valiera de un medio de prueba que ella consideraba pertinente, las
+grabaciones primera y tercera de las tres que había facilitado.
+En respuesta a este alegato, hemos de comenzar haciendo dos precisiones:
+La primera, que las aludidas tres grabaciones se facilitaron por la operadora
+recurrente a esta Agencia “antes” de la apertura del procedimiento sancionador,
+exactamente con su respuesta al requerimiento de la Inspección de Datos de la
+Agencia en el curso de las Actuaciones de Investigación Previa E/00972/2018. Nos
+remitimos en ese sentido al acuerdo de apertura del PS/202/2018 cuyo Hecho
+Segundo dice:
+<<En fecha 16/03/2018 se recibe en la AEPD la respuesta de MÁS MÓVIL a su
+requerimiento teniendo conocimiento de los siguientes extremos: (…) MÁS MÓVIL
+aporta tres grabaciones de conversaciones telefónicas. De ellas sólo la segunda
+grabación alude a una conversación mantenida con una persona que se identifica con
+el nombre, apellidos y NIF de la denunciante>>.
+Además, el Hecho Segundo del acuerdo de apertura reprodujo la segunda
+grabación e hizo una reseña del contenido de la primera y de la tercera.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+8/29
+
+La segunda precisión es destacar un extremo del que la recurrente es perfecta
+conocedora: Que no tiene ninguna trascendencia en el resultado de la resolución
+sancionadora dictada por la AEPD el hecho de considerar relevante tan solo la 2ª
+grabación de las tres aportadas por la operadora. De haber atribuido idéntico valor a
+las tres grabaciones el resultado de la resolución sería exactamente el mismo.
+Lo que explica tal afirmación es que la conducta en la que se concreta la
+vulneración de la LOPD de la que se responsabiliza a la recurrente es el tratamiento
+de los datos personales de la denunciante vinculado, exclusivamente, a una de las tres
+líneas telefónicas que la operadora dio de alta a su nombre: la línea móvil
+***TELEFONO.4 que había sido objeto de una portabilidad en beneficio de XFERA
+MÓVILES.
+Como se indicó con claridad tanto en el acuerdo de inicio, como en la propuesta
+de resolución y en la resolución del PS /202/2018, la Agencia concluyó a la luz de la
+segunda grabación que existían indicios de que la entidad había desplegado la
+diligencia mínima exigible a fin de acreditar la identidad de la persona que otorgó el
+consentimiento a la contratación. Se indicó con precisión también en los tres escritos
+que la conducta infractora de la entidad se concretaba en el tratamiento de los datos
+de la denunciante vinculados a la línea portada. Si respecto a la línea móvil contratada
+a nombre de la denunciante, en la que se concreta el tratamiento sin consentimiento
+de sus datos personales objeto de la sanción, no se estimó que la recurrente hubiera
+actuado diligentemente en el cumplimiento de las obligaciones que le impone la LOPD
+fue porque la entidad no aportó -cuando debía tenerlo a su disposición si hubiera
+obrado con arreglo a Derecho- un documento sonoro que acreditaba con veracidad el
+cumplimiento de la obligación de identificar a la persona que facilita como suyos
+determinados datos personales: la grabación de verificación del consentimiento verbal
+a la portabilidad realizada por una empresa verificadora independiente en los términos
+de la Circular 1/2009 de la CMT.
+Por tanto, de haber atribuido a la 1ª y 3ª grabación idénticos efectos que a la 2ª
+grabación el resultado de la resolución sería el mismo.
+Como prueba de que la entidad recurrente era perfectamente conocedora de
+cuál era la conducta infractora y de cuál era el documento que tenía la carga de
+aportar a esta Agencia reproducimos el siguiente fragmento del acuerdo de apertura
+del PS/202/2018:
+<<Por tanto, por lo que atañe al tratamiento de los datos personales de la
+afectada asociado a la línea fija, a una línea móvil y al servicio de internet, estaría
+ausente en el presente caso el elemento subjetivo de la culpabilidad, imprescindible
+para poder exigir responsabilidad administrativa sancionadora (ex artículo 28 de la Ley
+40/2015, de Régimen Jurídico del Sector Público).
+Consecuencia de lo anterior es que el tratamiento de los datos personales de la
+afectada vinculado a la línea fija, a una línea móvil y al servicio de internet no es
+subsumible en el tipo sancionador del artículo 44.3.b) LOPD, de modo que ninguna
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+9/29
+
+responsabilidad sería exigible a XFERA MÓVILES por tal conducta.
+Sin embargo, no puede decirse lo mismo respecto al tratamiento de los datos
+personales de la denunciante efectuado por XFERA MÓVILES vinculados a la línea
+***TELEFONO.4.
+Esta conducta es contraria al artículo 6 LOPD –el tratamiento de los datos no
+contó con el consentimiento de la titular- y sí es subsumible en el tipo infractor del
+artículo 44.3.b) LOPD, pues sí concurre en tal supuesto el elemento de la culpabilidad
+toda vez que la denunciada obró con una gravísima falta de diligencia en la medida en
+que la grabación aportada no responde a las exigencias impuestas por la Circular
+1/2009 de la CMT que regula el consentimiento verbal a la portabilidad de las líneas
+móviles.>>
+Por otra parte, cabe señalar que, en el curso del procedimiento sancionador, la
+instructora del expediente acordó en fecha 17/09/2018, a tenor de lo prevenido en el
+artículo 77 de la LPACAP, la apertura de un periodo de prueba y entre otras diligencias
+probatorias acordó la incorporación al expediente de las “Actuaciones de Investigación
+Previa que integran el expediente E/00972/2018”. Esto significa que “las tres”
+grabaciones que la recurrente remitió a la Agencia formaban parte de la
+documentación que había de valorarse en la resolución del procedimiento. Se ha de
+añadir que en idénticos términos se pronunció el Acuerdo de Inicio del expediente en
+el punto “3” de su parte dispositiva.
+Así pues, no se ha vulnerado el derecho de defensa ya que la AEPD admitió,
+documentó, integró en el expediente administrativo e incluso reprodujo parcialmente
+en el acuerdo de apertura del procedimiento, las tres grabaciones aportadas por la
+recurrente en la fase de actuaciones de investigación previa.
+La decisión de la AEPD que se impugna es fruto de la “valoración” de las
+pruebas que obraban en el procedimiento, valoración que estaba obligada a realizar.
+El resultado de tal valoración -en la que se concluyó que la 2ª grabación permitía
+entender acreditado que la entidad obró con la diligencia mínima que era exigible en
+relación al tratamiento de los datos de la denunciante asociado a la línea fija, a una de
+las línea móviles y al ADSL– determinó que respecto al tratamiento de los datos
+vinculados a esos productos , al estar ausente el necesario elemento de culpabilidad
+(ex artículo 28 de la Ley 40/2015), no se exigiera responsabilidad sancionadora.
+El artículo 77.7 de la LPACAP dispone que “Cuando la valoración de las pruebas
+practicadas pueda constituir el fundamento básico de la decisión que se adopte en el
+procedimiento, por ser pieza imprescindible para la correcta evaluación de los hechos,
+deberá incluirse en la propuesta de resolución”.
+Pues bien, hasta tal punto ha sido ajustada a Derecho la actuación de esta
+Agencia que, pese a que, como se evidencia de la mera lectura de la resolución
+impugnada, las grabaciones primera y tercera no son en ningún caso fundamento de
+la decisión adoptada, en la propuesta de resolución se detalló cuál era el motivo por el
+que se consideraban irrelevantes (Fundamento de Derecho II, apartado A).
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+10/29
+
+Finalmente se ha de indicar que si a raíz de la valoración de la prueba se
+concluye que una determinada prueba es irrelevante y se explican las razones de tal
+conclusión, como se hizo en la resolución impugnada, no ha existido, en contra de lo
+que aduce la recurrente “una quiebra de las garantías procedimentales de enorme
+trascendencia”.
+
+b)Respecto al segundo motivo de impugnación:
+Con carácter subsidiario respecto a la pretensión anterior se invoca la
+anulabilidad de la resolución recurrida conforme al artículo 48.1 de la LPACAP –“Son
+anulables los actos de la Administración que incurran en cualquier infracción del
+ordenamiento jurídico, incluso la deviación de poder”- en relación con los artículos 77.3
+de la citada Ley 39/2015 y 382.3 de la Ley de Enjuiciamiento Civil.
+El artículo 77.3 de la LPACAP dispone: “El instructor del procedimiento sólo
+podrá rechazar las pruebas propuestas por los interesados cuando sean
+manifiestamente improcedentes o innecesarias mediante resolución motivada”.
+El artículo 382 de la Ley de Enjuiciamiento Civil, dice: “1. Las partes podrán
+proponer como medio de prueba la reproducción ante el tribunal de palabras,
+imágenes y sonidos captados mediante instrumentos de filmación, grabación y otros
+semejantes. Al proponer esta prueba, la parte deberá acompañar, en su caso,
+transcripción escrita de las palabras contenidas en el soporte de que se trate y que
+resulten relevantes para el caso.2. La parte que proponga este medio de prueba podrá
+aportar los dictámenes y medios de prueba instrumentales que considere
+convenientes. También las otras partes podrán aportar dictámenes y medios de
+prueba cuando cuestionen la autenticidad y exactitud de lo reproducido. 3. El tribunal
+valorará las reproducciones a que se refiere el apartado 1 de este artículo según las
+reglas de la sana crítica.”
+Frente a lo invocado por la recurrente hemos de subrayar que en ningún caso se
+ha vulnerado el procedimiento ni menos aún los preceptos que la recurrente menciona:
+artículos 77 de la LPACAP y 382 de la Ley 1/2000 de Enjuiciamiento Civil.
+Se debe matizar que las tres grabaciones objeto de la controversia se aportaron
+a la AEPD por la recurrente “antes” de que el procedimiento se iniciara; en particular
+en el curso de las Actuaciones de Investigación Previa del E/00972/2018 fruto del
+requerimiento que le hizo la Inspección. Así pues, la recurrente no propuso como
+prueba las citadas grabaciones, lo que podría haber hecho en su escrito de
+alegaciones al acuerdo de inicio del expediente.
+Es esencial recordar que esta Agencia, tanto en el acuerdo de inicio como en la
+propuesta de resolución y en la misma resolución que se impugna, explicó la razón por
+la cual consideraba irrelevantes la 1ª y 3ª grabaciones y tomaba en consideración
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+11/29
+
+únicamente la 2ª: porque en ésta la conversación se mantenía con la persona que se
+identificaba con el nombre y apellidos de la denunciante en tanto que en las anteriores
+la interlocutora de la entidad era “B.B.B.” que se presentó como hija de la contratante.
+Tal valoración entendemos que se ajusta a la previsión del artículo 382.3 de la Ley de
+Enjuiciamiento Civil de que las pruebas se valoren conforme a las reglas de la sana
+crítica.
+No obstante, la cuestión fundamental es ésta: Incluso en la hipótesis de que se
+hubiera otorgado idéntico valor a las tres grabaciones -por entender, como argumenta
+la recurrente, que la segunda grabación es una prueba documental de que su
+interlocutora había otorgado un mandato representativo a favor de la persona que
+identificada como B.B.B. intervino en la primera y tercera grabación- el resultado de la
+resolución sería el mismo, por lo que en definitiva las grabaciones 1ª y 3ª serían
+pruebas innecesarias en la medida en que harían prueba del mismo extremo -y nada
+más- que la 2ª de las grabaciones.
+La entidad vio amparada en la 2ª grabación la exención de responsabilidad
+administrativa sancionadora en relación con el tratamiento de los datos de la afectada
+vinculados a la contratación de la línea fija, la otra línea móvil y el ADSL. De tal modo
+que en la hipótesis de considerar relevantes las restantes grabaciones éstas vendrían
+a confirmar o ratificar la conclusión a la que la AEPD llegó en su resolución. Sin
+embargo, en ningún caso tendrían alguna relevancia -como tampoco la tuvo la 2ª
+grabación- respecto a la conducta de la entidad en la que se concreta la infracción de
+la LOPD que fue objeto de sanción en la resolución que se recurre.
+
+c) Respecto al tercer motivo de impugnación:
+Se invoca la anulabilidad de la resolución impugnada a tenor del artículo 48.1 de
+la LPACAP en relación con la “Resolución de 16 de marzo de 2012, de la Comisión del
+Mercado de las Telecomunicaciones, por la que se publica la Circular 1/2009, por la
+que se introduce el consentimiento verbal con verificación por tercero en la
+contratación de servicios mayoristas regulados de comunicaciones fijas, así como en
+las solicitudes de conservación de numeración”.
+La recurrente alega que ninguna eficacia invalidante puede tener “el que
+hubieran podido omitirse exigencias adjetivas durante la tramitación de la solicitud de
+portabilidad dado que las mismas no alcanzan ni interfieren con el consentimiento
+prestado. En todo caso se estarían achacando esas omisiones y no la falta de
+consentimiento”. (El subrayado es de la AEPD)
+Aduce también que la resolución que recurre “olvida que consta acreditado con
+todos sus elementos configuradores el consentimiento prestado por la interesada, el
+cual no debe ser analizado conforme a la citada Circular 1/2009, sino conforme a la
+LOPD, esto es, conforme al artículo 6.1” de la citada Ley Orgánica. (El subrayado es
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+12/29
+
+de la AEPD)
+Así pues, a juicio de la recurrente, a través de la resolución que se impugna esta
+Agencia incurrió en una “infracción del ordenamiento jurídico” por tomar en
+consideración la Circular 1/2009 de la CMT.
+Parece imprescindible reproducir la argumentación que la resolución recurrida
+ofreció a propósito de la infracción del artículo 6.1 LOPD en relación con la Circular
+1/2009 de la CMT. El Fundamento de Derecho III, decía:
+<< B. En atención a lo expuesto, la conducta infractora se materializó en el
+tratamiento de los datos personales de la denunciante efectuado por XFERA
+MÓVILES en relación con la línea móvil ***TELEFONO.4 que la operadora manifestó
+que había portado de otro operador.
+El tratamiento de los datos personales de la denunciante que XFERA MÓVILES
+llevó a cabo en relación con la línea ***TELEFONO.4 no sólo consistió en dar de alta a
+su nombre un contrato de servicio telefónico para tal línea.
+A diferencia de los otros tres servicios que XFERA dio de alta a nombre de la
+afectada, para que pudiera prestar el servicio de telefonía asociado a la línea
+***TELEFONO.4 era imprescindible que la denunciada, previamente, hubiera tratado
+los datos personales de la denunciante con una finalidad específica distinta de la
+contratación del servicio.
+XFERA MÓVILES, necesariamente, hubo de tratar los datos personales de la
+denunciante con la finalidad de gestionar en su nombre una solicitud de portabilidad
+de la línea ante el operador al que pertenecía. Por ello, habida cuenta de que el
+tratamiento de los datos de la denunciante se materializó también en las gestiones
+llevadas a cabo, en nombre de la titular de la línea (supuestamente la denunciante), y
+ante el operador donante, para realizar la portabilidad, este tratamiento específico
+exigía a su vez contar con el consentimiento para tal fin recabado de quien se
+identificó como titular de los datos personales de la afectada.
+La Circular 1/2009 de la CMT (en la actualidad, CNMC), modificada por la
+Circular 1/2012, regula el consentimiento verbal a la portabilidad de una línea móvil.
+Llegados a este punto es preciso traer a colación la precitada Circular a tenor de la
+cual la portabilidad no se produce, y por tanto el servicio lo continúa prestando el
+operador con quien inicialmente se había contratado, si no se cumple el protocolo
+descrito en ella.
+El respeto al protocolo de actuación recogido en la mentada Circular es esencial
+pues sólo cumpliéndolo se entiende otorgado el consentimiento a la portabilidad y esta
+puede llevarse a cabo. La observancia por XFERA de ese protocolo y su consecuente
+acreditación es un exponente de la diligencia que con carácter mínimo debe de
+desplegar la entidad para dar cumplimiento al principio del consentimiento al
+tratamiento de los datos, conforme a la SAN de 31/05/2006, Rec 539/2004 antes
+mencionada.
+Resulta evidente que la grabación aportada por XFERA MÓVILES incumple
+radicalmente el protocolo previsto por la Circular 1/2009, CMT. Sin su cumplimiento no
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+13/29
+
+puede estimarse producida la portabilidad de la línea controvertida. Como advierte con
+total claridad la Circular 1/2009 el operador receptor no podrá dar de alta una línea
+telefónica de un número que pertenece a otro operador si la portabilidad no se ha
+llevado a cabo cumpliendo las previsiones de las Circulares 1/2009 y 1/2012.
+El protocolo de actuación para recabar verbalmente el consentimiento a la
+portabilidad, según la Circular 1/2009 de la CMT, consiste en la grabación de la
+conversación en la que el titular de la línea solicita al operador receptor portarla desde
+el operador donante y le otorga su consentimiento para que, en su nombre, haga las
+gestiones pertinentes ante la entidad donante. Son condiciones esenciales para que el
+consentimiento a la portabilidad otorgado verbalmente sea válido, no sólo que la
+entidad beneficiaria cuente con la grabación realizada por una empresa verificadora
+independiente sino también que la conversación grabada se ajuste a un cuestionario
+descrito en la Circular (modificado por la Circular 1/2012).
+Tomando en consideración la segunda grabación enviada por XFERA -la única
+que puede ser objeto de análisis, pues como se ha expuesto anteriormente sólo en
+ella la persona se identifica con el nombre y apellidos de la denunciante- se ponen de
+manifiesto diversas circunstancias relevantes a los efectos de acreditar la infracción
+del artículo 6 LOPD de la que se responsabiliza a la denunciada.
+De una parte, no estamos ante una grabación efectuada, como exige la Circular
+1/2009 CMT, por una empresa verificadora independiente sino por el departamento
+comercial de la entidad. Y ello, por más que XFERA MÓVILES hubiera facilitado en su
+respuesta a la AEPD el nombre y NIF de la verificadora que afirma intervino en la
+grabación. Como se puede constatar por la mera audición de las conversaciones en
+ellas se comunica a la persona que se identifica con los datos de la denunciante (2ª
+grabación). “Le damos la bienvenida al proceso de contratación telefónica de Más
+Móvil”. Además, en la grabación se informa a esa persona de “las características del
+producto que acaba de contratar” que, como se detalla en la propia grabación,
+consiste en una línea fija, conexión a internet y una línea móvil. Y más adelante se
+menciona la línea móvil ***TELEFONO.4 que se va a portar a MÁS MÓVIL. La única
+referencia que se hace en la grabación al término “verificación” se predica de la “voz” y
+se declara que tal “verificación de voz” tiene por objeto “la tarifa de 300 de fibra que
+acabáis de contratar”. Afirmaciones que nada tienen que ver con la pretendida
+verificación del consentimiento verbal a una portabilidad móvil que a juicio de la
+denunciada se acreditaría a través de esta grabación.
+En definitiva, resulta evidente que la grabación aportada por XFERA MÓVILES
+no es una grabación de verificación del consentimiento verbal a la portabilidad de una
+línea en los términos en los que lo exige la Circular 1/2009 CMT.
+Son muchos los elementos que confirman que la grabación facilitada por XFERA
+MÓVILES nada tiene que ver con la que exige la Circular 1/2009 (modificada por la
+Circular 1/2012 respecto al cuestionario de verificación): Ni se ajusta al cuestionario
+de preguntas descrito en la Circular 1/2012 que modifica la Circular 1/2009 -no se
+informa al abonado del código identificativo de la solicitud-; la supuesta llamada de
+verificación; ni la pretendida llamada de verificación se inició por el verificador
+(apartado d,); ni se completó el cuestionario de verificación en el orden establecido
+(apartado j) y se informó al cliente sobre servicios que no tienen relación con los
+puntos del cuestionario de verificación (apartado i). Todo lo cual es contrario a la
+estipulación quinta (apartados d, j, e i) de la Circular.
+Por tanto, XFERA MÓVILES es responsable del tratamiento de los datos
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+14/29
+
+personales de la denunciante vinculados a la línea móvil ***TELEFONO.4. Tratamiento
+que, en tanto la línea fue objeto de portabilidad (así lo ha manifestado la denunciada
+desde las primeras actuaciones) el consentimiento recabado de la titular de los datos
+que estaba obligada a acreditar (ex artículo 6 LOPD) no sólo era al consentimiento a
+la contratación de un servicio (el alta de la línea con XFERA) sino también el
+consentimiento para gestionar en su nombre el cambio de operador del citado número.
+El consentimiento con esa finalidad específica, conforme a la Circular 1/2009 de la
+CMT, debía ajustarse a un protocolo a cuya observancia se supedita la validez de
+dicho consentimiento verbal. En tanto la grabación aportada por XFERA MÓVILES en
+nada se adecúa al citado protocolo resulta obvio que ni recabó el consentimiento de la
+titular para tal fin ni desplegó la diligencia que era procedente.
+C. El nacimiento de responsabilidad sancionadora presupone la existencia de
+culpabilidad en cualquiera de sus manifestaciones: dolo, culpa o culpa levísima. En el
+ámbito del Derecho Administrativo Sancionador no es posible imponer sanciones
+basadas en la responsabilidad objetiva del presunto infractor, esto, porque las
+sanciones administrativas participan de la misma naturaleza que las penales, al ser
+una de las manifestaciones de la potestad punitiva del Estado y, como exigencia
+derivada de los principios de seguridad jurídica y legalidad penal consagrados en los
+artículos 9.3 y 25.1 de la CE, es imprescindible que este elemento esté presente como
+presupuesto para su imposición (STC 76/1999)
+Sobre el principio de culpabilidad en el marco del procedimiento sancionador (al
+que expresamente se refiere la Ley 40/2015 en su artículo 28) resultan muy
+esclarecedoras las consideraciones que ofrece la SAN de 30/05/2015 (Rec. 163/2014)
+con relación al modo de atribución de la responsabilidad a las personas jurídicas.
+En el Fundamento de Derecho segundo, después de recordar que la
+responsabilidad puede ser exigida a título de dolo o culpa, comprendiendo esta última
+la imprudencia, negligencia o ignorancia inexcusable, y desterrando en todo caso la
+responsabilidad objetiva, dice:
+<<No obstante, el modo de atribución de la responsabilidad a las personas
+jurídicas no se corresponde con las formas de culpabilidad dolosas o imprudentes que
+son imputables a la conducta humana. De modo que en el caso de infracciones
+cometidas por personas jurídicas, aunque haya de concurrir el elemento de la
+culpabilidad, éste se aplica necesariamente de forma distinta a como se hace respecto
+a las personas físicas. Según STC 246/1999 “(…) esta construcción distinta de la
+imputabilidad de la autoría de la infracción a la persona jurídica nace de la propia
+naturaleza de ficción jurídica a la que responden estos sujetos. Falta en ellos el
+elemento volitivo en sentido estricto, pero no la capacidad de infringir las normas a las
+que están sometidos. Capacidad de infracción y, por ende, reprochabilidad directa que
+deriva del bien jurídico protegido por la norma que se infringe y la necesidad de que
+dicha protección sea realmente eficaz y por el riesgo que, en consecuencia, debe
+asumir la persona jurídica que está sujeta al cumplimiento de dicha norma”>>
+La SAN precitada conecta la reprochabilidad a una persona jurídica, de una
+determinada conducta, con el hecho de que aquella hubiera o no dispensado una
+eficaz protección al bien jurídico protegido por la norma. Atendidas las circunstancias
+del caso, es evidente que esa diligencia no se ha observado en relación con la línea
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+15/29
+
+móvil en la que se materializa la conducta infractora y que XFERA vinculó a los datos
+de la denunciante: ***TELEFONO.4.>>
+Frente a la tesis de la recurrente que niega que sea procedente tomar en
+consideración las previsiones de la Circular 1/2009 a fin de acreditar la diligencia
+desplegada por el operador telefónico en el tratamiento de los datos personales de la
+afectada en relación con la línea móvil ***TELEFONO.4 - línea que había sido objeto
+de una portabilidad- nos remitimos a la doctrina jurisprudencial sobre esta cuestión de
+la Sala de lo Contencioso Administrativo de la Audiencia Nacional.
+En SAN de 19/10/2018 (Rec.33/2017), Fundamento de Derecho Segundo,
+después de poner de manifiesto que la Circular afecta a la gestión entre operadores
+respecto de la tramitación de solicitudes de portabilidad y que se aprueba sin perjuicio
+de la normativa relativa a la contratación telefónica aplicable entre usuarios y
+operadores y de la normativa sobre protección de datos de carácter personal de
+obligado cumplimiento para los operadores y entidades verificadoras, la Sala de la
+Audiencia añade los siguiente:
+“Ahora bien, ello no impide considerar que la diligencia que resulta exigible a la
+demandante en la recogida del consentimiento del titular de los datos personales
+comprende el deber de cumplir con las exigencias impuestas en la misma que no
+hacen sino garantizar la existencia del referido consentimiento en relación a la citada
+portabilidad (ver, en este sentido, las SSAN de 5/02/2014 -Rec.543/2012- y de
+10/04/2015 -Rec.85/2014-)”(El subrayado es de la AEPD)
+En su SAN de 05/02/2014 (Rec. 543/2012) la Sala de lo Contencioso de la
+Audiencia Nacional, Fundamento de Derecho Segundo, a continuación del párrafo
+transcrito, decía:
+“ (…) la operadora no adoptó las cautelas exigibles para comprobar la identidad
+del cliente y asegurarse de contar con su consentimiento para el tratamiento de sus
+datos personales.
+En el supuesto que nos atañe resulta notoria la existencia de antijuridicidad y
+culpabilidad en la conducta infractora de la entidad responsable del tratamiento de los
+datos personales, quien como responsable del fichero y tratamiento de datos
+personales, que decide sobre la finalidad, contenido y uso de los datos personales
+incluidos en sus ficheros, tenía la obligación de obrar con mayor diligencia a la hora de
+incorporar nuevos datos a sus ficheros, mantenerlos en los mismos y girar facturas
+contra sus titulares, asegurándose de contar con su consentimiento a fin de no incurrir
+en el tratamiento inconsentido de sus datos personales. Dicha condición impone un
+deber especial de diligencia a la hora de llevar a cabo el uso o tratamiento de los
+datos personales o su cesión a su cesión a terceros, en lo que atañe al cumplimiento
+de los deberes que la legislación sobre protección de datos establece para garantizar
+los derechos fundamentales y las libertades públicas de las personas físicas…”
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+16/29
+
+d) Respecto al cuarto motivo de impugnación:
+La recurrente, con carácter subsidiario respecto a los motivos precedentes,
+solicita que se estime el recurso de reposición y se proceda a aplicar la “previsión
+legal contenida en el artículo 45.5 LOPD”.
+Durante el procedimiento sancionador se solicitó por la ahora recurrente la
+aplicación del artículo 45.5 LOPD apartados a), b) y e). Sobre tal cuestión se
+pronunció el Fundamento de Derecho IV A) de la resolución que se recurre. Habida
+cuenta de que la recurrente se limita a reiterar una pretensión que formuló
+repetidamente y a la que la Agencia dio respuesta oportunamente, se dan por
+reproducidas las explicaciones y argumentos expuestos por en la resolución:
+<< A. En la graduación del importe de la sanción la AEPD no aprecia ninguna
+de las atenuantes cualificadas que contempla el artículo 45.5 LOPD.
+XFERA MÓVILES ha invocado la aplicación de los apartados a, b, y e, del
+artículo 45.5. LOPD, sin embargo, todos ellos han de ser rechazados.
+Respecto al apartado b), decir que ninguna reacción diligente se aprecia en la
+actuación de la entidad que recibió la primera notificación de la SESIAD el 24/01/2018,
+siendo así que obra en el expediente copia de una factura emitida por la operadora a
+nombre de la denunciante por importe de 335,01 euros de fecha 01/03/2018; un mes y
+siete días después de haber recibido el requerimiento de la SESIAD. Obra también en
+el expediente la captura de pantalla de un sms de requerimiento de pago dirigido a la
+denunciante, de fecha 21/02/2018, casi un mes después de que la SESIAD le hubiera
+dado traslado de la reclamación de la afectada.
+XFERA MÓVILES insiste en solicitar en sus alegaciones a la propuesta la
+aplicación de la atenuante cualificada del artículo 45.5.e). Sobre el particular hemos de
+insistir en que la conducta infractora de la que es responsable, como queda
+acreditado, se mantuvo hasta al menos el 01/03/2018 (fecha en la que se emitió una
+factura por los servicios asociados a los datos de la denunciante), y en esa fecha el
+proceso de fusión entre MÁS MÓVIL y XFERA MÓVILES ya había concluido. De
+forma que si bien la infracción se inicia cuando la responsable del fichero es MÁS
+MÓVIL finaliza cuando la responsable del fichero es XFERA, estando la fusión
+totalmente concluida.
+Solicita también la aplicación del artículo 45.5.a, cuya desestimación reiteramos.
+Ni pueden admitirse como atenuantes las circunstancias del artículo 45.4 recogidas en
+los apartados b, e, i, de la LOPD que invoca para justificar la aplicación del artículo
+45.5.a, ni es posible negar la concurrencia de las agravantes descritas en los
+apartados a, c y d, del artículo 45.4. LOPD.>>
+
+e) Respecto al quinto motivo de impugnación:
+Subsidiariamente la recurrente solicita “rectificar” la agravante del artículo 45.4.a)
+LOPD que se apreció en la resolución impugnada y estimar como atenuante la
+circunstancia recogida en el artículo 45.5.e) LOPD.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+17/29
+
+Sobre la pretensión de que se aprecie la atenuante cualificada del artículo
+45.5.e) nos remitimos a la consideración hecha en el apartado precedente.
+La pretensión de que se “rectifique” el criterio adoptado por la resolución
+sancionadora que apreció como agravante el factor descrito en el artículo 45.4 a) -el
+carácter continuado de la infracción- ha de ser rechazada.
+Como se señala en la resolución la entidad recurrente trató los datos personales
+de la denunciante vinculados a la línea móvil controvertida, sin legitimación para dicho
+tratamiento, durante más de dos meses: desde el 29/11/2017 hasta el 31/01/2017,
+pues al menos en ese periodo de tiempo hay constancia documental del tratamiento
+en el que se concreta la conducta infractora.
+La LOPD utiliza en su artículo 45.4.a) la expresión “carácter continuado” de la
+infracción. La infracción de la que se responsabiliza a la recurrente tiene naturaleza
+permanente, pues su consumación se puede proyectar en el tiempo más allá del
+hecho inicial y extenderde durante todo el periodo de tiempo en el que el dato o datos
+personales son objeto de tratamiento. En el presente caso el tratamiento ilícito de los
+datos personales de la afectada se efectuó durante más de dos meses.
+
+III
+En cuanto a aquellas cuestiones no contempladas en el Fundamento precedente
+reiteramos el sentido de la resolución recurrida cuyos Fundamentos II a IV
+reproducimos a continuación:
+<< II
+El artículo 6 LOPD, bajo la rúbrica “Consentimiento del afectado”, dispone:
+“1. El tratamiento de los datos de carácter personal requerirá el consentimiento
+inequívoco del afectado, salvo que la ley disponga otra cosa.
+2. No será preciso el consentimiento cuando los datos de carácter personal (…)
+se refieran a las partes de un contrato o precontrato de una relación negocial, laboral o
+administrativa y sean necesarios para su mantenimiento o cumplimiento; ..”
+El precepto debe integrarse con la definición que la LOPD ofrece en su artículo
+3, apartados a), c) y h), respectivamente, de “datos de carácter personal”, “tratamiento
+de datos” y “consentimiento del interesado”: “cualquier información concerniente a
+personas físicas identificadas o identificables”; “operaciones y procedimientos
+técnicos de carácter automatizado o no, que permitan la recogida, grabación,
+conservación, elaboración, modificación, bloqueo y cancelación, así como las
+cesiones de datos que resulten de comunicaciones, consultas, interconexiones y
+transferencias”; “toda manifestación de voluntad, libre, inequívoca, específica e
+informada, mediante la que el interesado consienta el tratamiento de datos personales
+que le conciernen”.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+18/29
+
+El principio del consentimiento o autodeterminación recogido en el artículo 6
+LOPD es la piedra angular en la construcción del derecho fundamental a la protección
+de datos e implica la necesidad de recabar del afectado su consentimiento inequívoco
+para que sus datos personales puedan ser objeto de tratamiento.
+A través del consentimiento al tratamiento de sus datos personales el titular
+ejerce de forma efectiva el poder de control y de disposición sobre ellos. En esa línea
+el Tribunal Constitucional, en su STC 292/2000, de 30 de noviembre (Fundamento
+Jurídico 7), señala que “(…)Estos poderes de disposición y control sobre los datos
+personales, que constituyen parte del contenido del derecho fundamental a la
+protección de datos se concretan jurídicamente en la facultad de consentir la recogida,
+la obtención y el acceso a los datos personales, su posterior almacenamiento y
+tratamiento, así como su uso o usos posibles, por un tercero, sea el estado o un
+particular (…)” (El subrayado es de la AEPD)
+La LOPD tipifica como infracción grave, en el artículo 44.3.b, la vulneración del
+principio del consentimiento, precepto que dispone: “Son infracciones graves: (…)
+“Tratar datos de carácter personal sin recabar el consentimiento de las personas
+afectadas, cuando el mismo sea necesario conforme a lo dispuesto en esta Ley y sus
+disposiciones de desarrollo”.
+III
+Se atribuye a XFERA MÓVILES en el expediente sancionador que nos ocupa
+una infracción del principio del consentimiento.
+A.
+Como se indicó en el acuerdo de inicio de este procedimiento, la infracción del
+citado principio se materializa en el tratamiento de los datos personales del
+denunciante efectuado por la denunciada en relación con la línea móvil
+***TELEFONO.4; línea que según la documentación facilitada por XFERA MÓVILES
+fue portada desde otro operador telefónico.
+Recordemos que la denuncia de la señora A.A.A. versó sobre el tratamiento sin
+consentimiento de sus datos vinculado a un “pack telefónico” formado por dos líneas
+móviles y una fija: números ***TELEFONO.5, ***TELEFONO.3 y ***TELEFONO.4.
+Ha quedado plenamente acreditado en el expediente que XFERA MÓVILES
+trató los datos personales de la denunciante asociados a las tres líneas (dos móviles y
+una fija) que ella niega haber contratado. Son exponente del tratamiento, entre otros
+documentos, el denominado “Contrato de Servicios Combinados MÁSMOVIL
+particulares”, número MMC 17-11197553116, (ver hechos probados quinto y segundo)
+en el que constan el nombre, dos apellidos y NIF de la denunciante como titular de las
+líneas. Y la captura de pantalla de los sistemas de la denunciada que obra al folio 24
+(ver hecho probado tercero) en la que de nuevo aparecen vinculadas a sus datos las
+líneas que se dieron de alta a su nombre y sobre las que versa su denuncia, y a las
+facturas emitidas por la operadora denunciada en ejecución del contrato 11197553116,
+en las que constan el nombre, dos apellidos y NIF de la denunciante, que se emitieron
+en fechas 01/12/2017; 01/01/2018; 01/02/2018 y 09/03/2018 (folios 161 a 191).
+La denunciante negó, tanto en la denuncia que presentó ante esta Agencia
+como en la reclamación que formuló ante la Secretaría de Estado para la Sociedad de
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+19/29
+
+la Información y la Agenda Digital (SESIAD), de fecha 11/01/2018, haber contratado
+ninguna de las líneas que integran ese pack.
+La Audiencia Nacional viene considerando que cuando el titular de los datos
+niega la contratación corresponde la carga de la prueba a quien afirma su existencia.
+Reiteradamente ha manifestado que el responsable del tratamiento de datos de
+terceros debe recabar y conservar la documentación necesaria para acreditar el
+consentimiento del titular. Citamos, por todas, la SAN de 31/05/2006 (Rec. 539/2004)
+que en su Fundamento de Derecho Cuarto dice
+“Por otra parte es al responsable del tratamiento (por todas, sentencia de esta
+Sala de 25 de octubre de 2002 Rec. 185/2001) a quien corresponde asegurarse de
+que aquel a quien se solicita el consentimiento, efectivamente lo da, y que esa
+persona que está dando el consentimiento es efectivamente el titular de esos datos
+personales, debiendo conservar la prueba del cumplimiento de la obligación a
+disposición de la Administración, encargada de velar por el cumplimiento de la Ley”
+(El subrayado es de la AEPD)
+Durante las actuaciones de investigación previa se solicitó a XFERA MÓVILES
+que aportara la documentación que acreditara que la denunciante había otorgado el
+consentimiento a la contratación de las referidas líneas o, al menos, que aportara la
+documentación que demostrara que actuó con la diligencia a la que venía obligada por
+la normativa de protección de datos a fin de verificar la identidad de la persona que
+otorga el consentimiento a la contratación.
+XFERA MÓVILES remitió a la Inspección de datos un CD con tres grabaciones
+que, a su entender, acreditaban que la denunciante había prestado su consentimiento
+a la contratación telefónica de los productos que la entidad vincula a sus datos
+personales.
+De las tres grabaciones que hizo llegar a esta Agencia, sólo una de ellas -la
+segunda- recoge una conversación entre la teleoperadora y quien dice llamarse
+A.A.A. y ser titular del NIF ***NIF.1 (ver hecho probado sexto).
+En las otras dos grabaciones (la primera y la tercera) la conversación no se
+mantiene con una persona que se identifique con los datos personales de quien
+figurará como la titular de las líneas controvertidas -datos personales de la
+denunciante- sino con otra persona que se identifica como “B.B.B.” que da a entender
+que es la hija de A.A.A.. Es en el curso la primera de las conversaciones que
+mantienen la teleoperadora de la compañía y B.B.B., cuando ésta le facilitará los
+datos de la denunciante y le informará que desea que la línea ***TELEFONO.4 se
+porte a MÁS MÓVIL.
+Resulta evidente, por tanto, que las grabaciones primera y tercera son
+irrelevantes a los efectos que nos ocupan, pues carecen de virtualidad para acreditar
+el consentimiento al tratamiento de los datos personales vinculado a las líneas
+controvertidas habida cuenta de que, en ellas, la persona que interviene se identifica
+como B.B.B. y no con el nombre y dos apellidos de la denunciante.
+La LOPD exige que sea el titular de los datos quien otorgue su consentimiento
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+20/29
+
+inequívoco al tratamiento, pues a él, y no a un tercero, le corresponde el poder de
+disposición sobre ellos. Con toda claridad el artículo 3.h) de la LOPD, al definir el
+consentimiento, se refiere a la manifestación de voluntad que el interesado hace
+respecto a los “datos que le conciernan”.
+Sobre la necesidad de que, cuando el tratamiento de los datos se realice en el
+marco de una contratación, sea el titular de los datos tratados quien haya otorgado el
+consentimiento a la contratación, pues sólo así el tratamiento estaría amparado en el
+artículo 6.2 LOPD, se ha pronunciado la Audiencia Nacional, Sala de lo Contencioso
+Administrativo, en SAN de 17/03/2017 (Rec.1732/2015). Sentencia que además de
+hacerse eco de otras de este Tribunal en idéntico sentido -las SSAN de 19/12/2012
+(Rec. 530/2011) y de 24/02/2015 (Rec. 341/2013)- afirma que no es suficiente el
+consentimiento prestado en una contratación por los parientes o personas de
+confianza del titular de los datos.
+Así pues, de las tres grabaciones que XFERA MÓVILES facilitó a la AEPD como
+prueba del cumplimiento de la normativa de protección de datos, la única que debe de
+ser objeto de valoración a fin de determinar si constituye un medio de prueba bastante
+para acreditar que XFERA MÓVILES obró con arreglo a la normativa de protección de
+datos es la segunda. En ella, es la persona que se identifica con el nombre, dos
+apellidos y el NIF de la denunciante quien otorga el consentimiento a la contratación
+de un producto formado por una línea fija, una conexión a internet de 300 megas, una
+línea de móvil y una segunda línea de móvil que se portaría desde otro operador (en
+ningún caso se específica cuál es ese operador) y que corresponde al número
+***TELEFONO.4.
+Son varias las deficiencias de que adolece esta grabación. La primera de ellas
+que no informa de la fecha en la que está teniendo lugar la conversación (fecha que
+tampoco se facilita en las grabaciones primera y tercera). Llamativo es también el
+hecho de que no se facilite en la conversación una dirección postal de la contratante
+pero que, sin embargo, esa nueva dirección sí conste en los sistemas de la entidad.
+Así lo acreditan los hechos probados, de los que resulta que en los ficheros de XFERA
+MÓVILES consta una dirección distinta de la que la denunciante, cliente de la
+operadora desde el año 2016, había facilitado sin que la denunciada haya explicado el
+origen de unos datos que no se facilitaron al tiempo de recabar el consentimiento al
+tratamiento pues no se hace referencia a éste en la grabación aportada. Podemos
+referirnos también a la copia de las facturas que obran en el expediente (folios 161 a
+191) en las que la dirección postal es la calle ***DIRECCION.2 de ***LOCALIDAD.2
+distinta de la de la denunciante, radicada en ***LOCALIDAD.1.
+Pese a las deficiencias que se aprecian en esa segunda grabación remitida por
+XFERA MÓVILES, esta Agencia, habida cuenta de que constaba en ella que una
+persona identificada con los datos personales de la denunciante que son objeto de
+tratamiento otorgaba el consentimiento al alta de una línea fija, del ADSL y de una
+segunda línea móvil (cuyo número no se facilita) consideró que existían indicios de
+que la entidad había desplegado la diligencia mínima que es exigible a fin de acreditar
+la identidad de la persona que otorgó el consentimiento a la contratación de esos
+servicios, pero, exclusivamente, en relación al tratamiento asociado a la línea fija, la
+segunda línea móvil y el servicio de ADSL.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+21/29
+
+Ese comportamiento mínimamente diligente desplegado por XFERA MÓVILES
+privó a su conducta -por más que ésta pudiera ser antijurídica, como parce ser el
+caso, lo que acontece cuando existe una suplantación de personalidad y un tercero se
+hace pasar por el titular de los datos facilitando como propios datos personales que no
+le pertenecen- del elemento subjetivo de la culpabilidad, imprescindible para poder
+exigir responsabilidad administrativa sancionadora (ex artículo 28 de la Ley 40/2015).
+Por ese motivo, en el acuerdo de inicio del expediente se indicó que el
+tratamiento de los datos personales de la denunciante vinculados a la línea fija, a una
+segunda línea móvil y al ADSL no era subsumible en el tipo sancionador del artículo
+44.3.b) LOPD.
+B. En atención a lo expuesto, la conducta infractora se materializó en el tratamiento
+de los datos personales de la denunciante efectuado por XFERA MÓVILES en
+relación con la línea móvil ***TELEFONO.4 que la operadora manifestó que había
+portado de otro operador.
+El tratamiento de los datos personales de la denunciante que XFERA MÓVILES
+llevó a cabo en relación con la línea ***TELEFONO.4 no sólo consistió en dar de alta a
+su nombre un contrato de servicio telefónico para tal línea.
+A diferencia de los otros tres servicios que XFERA dio de alta a nombre de la
+afectada, para que pudiera prestar el servicio de telefonía asociado a la línea
+***TELEFONO.4 era imprescindible que la denunciada, previamente, hubiera tratado
+los datos personales de la denunciante con una finalidad específica distinta de la
+contratación del servicio.
+XFERA MÓVILES, necesariamente, hubo de tratar los datos personales de la
+denunciante con la finalidad de gestionar en su nombre una solicitud de portabilidad
+de la línea ante el operador al que pertenecía. Por ello, habida cuenta de que el
+tratamiento de los datos de la denunciante se materializó también en las gestiones
+llevadas a cabo, en nombre de la titular de la línea (supuestamente la denunciante), y
+ante el operador donante, para realizar la portabilidad, este tratamiento específico
+exigía a su vez contar con el consentimiento para tal fin recabado de quien se
+identificó como titular de los datos personales de la afectada.
+La Circular 1/2009 de la CMT (en la actualidad, CNMC), modificada por la
+Circular 1/2012, regula el consentimiento verbal a la portabilidad de una línea móvil.
+Llegados a este punto es preciso traer a colación la precitada Circular a tenor de la
+cual la portabilidad no se produce, y por tanto el servicio lo continúa prestando el
+operador con quien inicialmente se había contratado, si no se cumple el protocolo
+descrito en ella.
+El respeto al protocolo de actuación recogido en la mentada Circular es esencial
+pues sólo cumpliéndolo se entiende otorgado el consentimiento a la portabilidad y esta
+puede llevarse a cabo. La observancia por XFERA de ese protocolo y su consecuente
+acreditación es un exponente de la diligencia que con carácter mínimo debe de
+desplegar la entidad para dar cumplimiento al principio del consentimiento al
+tratamiento de los datos, conforme a la SAN de 31/05/2006, Rec 539/2004 antes
+mencionada.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+22/29
+
+Resulta evidente que la grabación aportada por XFERA MÓVILES incumple
+radicalmente el protocolo previsto por la Circular 1/2009, CMT. Sin su cumplimiento no
+puede estimarse producida la portabilidad de la línea controvertida. Como advierte con
+total claridad la Circular 1/2009 el operador receptor no podrá dar de alta una línea
+telefónica de un número que pertenece a otro operador si la portabilidad no se ha
+llevado a cabo cumpliendo las previsiones de las Circulares 1/2009 y 1/2012.
+El protocolo de actuación para recabar verbalmente el consentimiento a la
+portabilidad, según la Circular 1/2009 de la CMT, consiste en la grabación de la
+conversación en la que el titular de la línea solicita al operador receptor portarla desde
+el operador donante y le otorga su consentimiento para que, en su nombre, haga las
+gestiones pertinentes ante la entidad donante. Son condiciones esenciales para que el
+consentimiento a la portabilidad otorgado verbalmente sea válido, no sólo que la
+entidad beneficiaria cuente con la grabación realizada por una empresa verificadora
+independiente sino también que la conversación grabada se ajuste a un cuestionario
+descrito en la Circular (modificado por la Circular 1/2012).
+Tomando en consideración la segunda grabación enviada por XFERA -la única
+que puede ser objeto de análisis, pues como se ha expuesto anteriormente sólo en
+ella la persona se identifica con el nombre y apellidos de la denunciante- se ponen de
+manifiesto diversas circunstancias relevantes a los efectos de acreditar la infracción
+del artículo 6 LOPD de la que se responsabiliza a la denunciada.
+De una parte, no estamos ante una grabación efectuada, como exige la Circular
+1/2009 CMT, por una empresa verificadora independiente sino por el departamento
+comercial de la entidad. Y ello, por más que XFERA MÓVILES hubiera facilitado en su
+respuesta a la AEPD el nombre y NIF de la verificadora que afirma intervino en la
+grabación. Como se puede constatar por la mera audición de las conversaciones en
+ellas se comunica a la persona que se identifica con los datos de la denunciante (2ª
+grabación). “Le damos la bienvenida al proceso de contratación telefónica de Más
+Móvil”. Además, en la grabación se informa a esa persona de “las características del
+producto que acaba de contratar” que, como se detalla en la propia grabación,
+consiste en una línea fija, conexión a internet y una línea móvil. Y más adelante se
+menciona la línea móvil ***TELEFONO.4 que se va a portar a MÁS MÓVIL. La única
+referencia que se hace en la grabación al término “verificación” se predica de la “voz” y
+se declara que tal “verificación de voz” tiene por objeto “la tarifa de 300 de fibra que
+acabáis de contratar”. Afirmaciones que nada tienen que ver con la pretendida
+verificación del consentimiento verbal a una portabilidad móvil que a juicio de la
+denunciada se acreditaría a través de esta grabación.
+En definitiva, resulta evidente que la grabación aportada por XFERA MÓVILES
+no es una grabación de verificación del consentimiento verbal a la portabilidad de una
+línea en los términos en los que lo exige la Circular 1/2009 CMT.
+Son muchos los elementos que confirman que la grabación facilitada por XFERA
+MÓVILES nada tiene que ver con la que exige la Circular 1/2009 (modificada por la
+Circular 1/2012 respecto al cuestionario de verificación): Ni se ajusta al cuestionario
+de preguntas descrito en la Circular 1/2012 que modifica la Circular 1/2009 -no se
+informa al abonado del código identificativo de la solicitud-; la supuesta llamada de
+verificación; ni la pretendida llamada de verificación se inició por el verificador
+(apartado d,); ni se completó el cuestionario de verificación en el orden establecido
+(apartado j) y se informó al cliente sobre servicios que no tienen relación con los
+puntos del cuestionario de verificación (apartado i). Todo lo cual es contrario a la
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+23/29
+
+estipulación quinta (apartados d, j, e i) de la Circular.
+Por tanto, XFERA MÓVILES es responsable del tratamiento de los datos
+personales de la denunciante vinculados a la línea móvil ***TELEFONO.4. Tratamiento
+que, en tanto la línea fue objeto de portabilidad (así lo ha manifestado la denunciada
+desde las primeras actuaciones) el consentimiento recabado de la titular de los datos
+que estaba obligada a acreditar (ex artículo 6 LOPD) no sólo era al consentimiento a
+la contratación de un servicio (el alta de la línea con XFERA) sino también el
+consentimiento para gestionar en su nombre el cambio de operador del citado número.
+El consentimiento con esa finalidad específica, conforme a la Circular 1/2009 de la
+CMT, debía ajustarse a un protocolo a cuya observancia se supedita la validez de
+dicho consentimiento verbal. En tanto la grabación aportada por XFERA MÓVILES en
+nada se adecúa al citado protocolo resulta obvio que ni recabó el consentimiento de la
+titular para tal fin ni desplegó la diligencia que era procedente.
+C. El nacimiento de responsabilidad sancionadora presupone la existencia de
+culpabilidad en cualquiera de sus manifestaciones: dolo, culpa o culpa levísima. En el
+ámbito del Derecho Administrativo Sancionador no es posible imponer sanciones
+basadas en la responsabilidad objetiva del presunto infractor, esto, porque las
+sanciones administrativas participan de la misma naturaleza que las penales, al ser
+una de las manifestaciones de la potestad punitiva del Estado y, como exigencia
+derivada de los principios de seguridad jurídica y legalidad penal consagrados en los
+artículos 9.3 y 25.1 de la CE, es imprescindible que este elemento esté presente como
+presupuesto para su imposición (STC 76/1999)
+Sobre el principio de culpabilidad en el marco del procedimiento sancionador (al
+que expresamente se refiere la Ley 40/2015 en su artículo 28) resultan muy
+esclarecedoras las consideraciones que ofrece la SAN de 30/05/2015 (Rec. 163/2014)
+con relación al modo de atribución de la responsabilidad a las personas jurídicas.
+En el Fundamento de Derecho segundo, después de recordar que la
+responsabilidad puede ser exigida a título de dolo o culpa, comprendiendo esta última
+la imprudencia, negligencia o ignorancia inexcusable, y desterrando en todo caso la
+responsabilidad objetiva, dice:
+<<No obstante, el modo de atribución de la responsabilidad a las personas
+jurídicas no se corresponde con las formas de culpabilidad dolosas o imprudentes que
+son imputables a la conducta humana. De modo que en el caso de infracciones
+cometidas por personas jurídicas, aunque haya de concurrir el elemento de la
+culpabilidad, éste se aplica necesariamente de forma distinta a como se hace respecto
+a las personas físicas. Según STC 246/1999 “(…) esta construcción distinta de la
+imputabilidad de la autoría de la infracción a la persona jurídica nace de la propia
+naturaleza de ficción jurídica a la que responden estos sujetos. Falta en ellos el
+elemento volitivo en sentido estricto, pero no la capacidad de infringir las normas a las
+que están sometidos. Capacidad de infracción y, por ende, reprochabilidad directa que
+deriva del bien jurídico protegido por la norma que se infringe y la necesidad de que
+dicha protección sea realmente eficaz y por el riesgo que, en consecuencia, debe
+asumir la persona jurídica que está sujeta al cumplimiento de dicha norma”>>
+La SAN precitada conecta la reprochabilidad a una persona jurídica, de una
+determinada conducta, con el hecho de que aquella hubiera o no dispensado una
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+24/29
+
+eficaz protección al bien jurídico protegido por la norma. Atendidas las circunstancias
+del caso, es evidente que esa diligencia no se ha observado en relación con la línea
+móvil en la que se materializa la conducta infractora y que XFERA vinculó a los datos
+de la denunciante: ***TELEFONO.4.
+D. XFERA MÓVILES, en defensa de su pretensión de archivo del expediente, alega
+que la AEPD ha valorado de forma errónea las pruebas practicadas y ha hecho una
+interpretación equivocada de la normativa aplicable, tanto de la LOPD como de la
+Circular 1/2009 de la CMT.
+Considera que el hecho de que durante la tramitación de la solicitud de
+portabilidad se hayan omitido algunos datos sobre la misma que guardan relación con
+el servicio cuya numeración iba a ser portada “de los que en todo caso la Denunciante
+ya había sido informado previamente” no invalida un consentimiento que la
+denunciante prestó en tres ocasiones en el curso de la grabación.
+Explica que la propuesta de resolución considera que, de haberse cumplido las
+formalidades establecidas en la Circular 1/2009, se entendería cumplida la obligación
+de identificar a la persona que facilita los datos personales en la solicitud de
+portabilidad. Advierte que, sin embargo, los incumplimientos del protocolo para
+recabar el consentimiento que describe la mencionada Circular “no guardan relación
+alguna con la identificación de la persona que facilita los datos personales”.
+Alega también que se ha obviado que la Circular 1/2009, en la que se
+fundamenta la imputación de una infracción de la LOPD a XFERA MÓVILES, no tiene
+por finalidad regular la validez del consentimiento prestado por los solicitantes de las
+portabilidades numéricas, sino que su objeto es “habilitar la tramitación de solicitudes
+relativas a servicios mayoristas regulados de comunicaciones fijas (OBA y OIBA) así
+como las solicitudes de conservación de numeración”.
+En respuesta a tales alegaciones, además de reiterar lo expuesto anteriormente,
+basta recordar que, en contraposición a lo afirmado por la denunciada, en el presente
+caso no se han omitido algunos datos de los que exige el protocolo descrito en la
+Circular 1/2009 para la validez de la portabilidad. Sencillamente la grabación facilitada
+por XFERA ni siquiera está realizada por una entidad verificadora independiente
+(como exige la Circular) sino por los servicios comerciales de la compañía. Y el
+consentimiento para un tratamiento específico que XFERA supuestamente recabó de
+la titular de los datos no se adecuó a las formalidades a las que se condiciona su
+validez.
+Resulta de la exposición precedente que la conducta de la actuación de XFERA
+MÓVILES vulnera el artículo 6.1 LOPD y es subsumible en el tipo infractor del artículo
+44.3.b) LOPD.
+IV
+El artículo 45 de la LOPD, apartados 1 a 5, establece:
+“1. Las infracciones leves serán sancionadas con multa de 900 a 40.000 euros.
+2. Las infracciones graves serán sancionadas con multa de 40.001 a 300.000
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+25/29
+
+euros.
+3. Las infracciones muy graves serán sancionadas con multa de 300.001 a
+600.000 euros.
+4. La cuantía de las sanciones se graduará atendiendo a los siguientes criterios:
+a) El carácter continuado de la infracción.
+b) El volumen de los tratamientos efectuados.
+c) La vinculación de la actividad del infractor con la realización de tratamientos
+de datos de carácter personal.
+d) El volumen de negocio o actividad del infractor.
+e) Los beneficios obtenidos como consecuencia de la comisión de la infracción.
+f) El grado de intencionalidad.
+g) La reincidencia por comisión de infracciones de la misma naturaleza.
+h) La naturaleza de los perjuicios causados a las personas interesadas o a
+terceras personas.
+i) La acreditación de que con anterioridad a los hechos constitutivos de
+infracción la entidad imputada tenía implantados procedimientos adecuados de
+actuación en la recogida y tratamiento de los datos de carácter personal,
+siendo la infracción consecuencia de una anomalía en el funcionamiento de
+dichos procedimientos no debida a una falta de diligencia exigible al infractor.
+j) Cualquier otra circunstancia que sea relevante para determinar el grado de
+antijuridicidad y de culpabilidad presentes en la concreta actuación infractora.
+5. El órgano sancionador establecerá la cuantía de la sanción aplicando la escala
+relativa a la clase de infracciones que preceda inmediatamente en gravedad a
+aquella en que se integra la considerada en el caso de que se trate, en los
+siguientes supuestos:
+a) Cuando se aprecie una cualificada disminución de la culpabilidad del
+imputado o de la antijuridicidad del hecho como consecuencia de la
+concurrencia significativa de varios de los criterios enunciados en el apartado 4
+de este artículo.
+b) Cuando la entidad infractora haya regularizado la situación irregular de
+forma diligente.
+c) Cuando pueda apreciarse que la conducta del afectado ha podido inducir a
+la comisión de la infracción.
+d) Cuando el infractor haya reconocido espontáneamente su culpabilidad.
+e) Cuando se haya producido un proceso de fusión por absorción y la
+infracción fuese anterior a dicho proceso, no siendo imputable a la entidad
+absorbente.”
+La Sentencia de 21/01/2004 de la Audiencia Nacional, en su recurso
+1939/2001, señaló que dicho precepto <<…no es sino manifestación del llamado
+principio de proporcionalidad (artículo 131.1 de la LRJPAC), incluido en el más general
+del prohibición de exceso, reconocido por la jurisprudencia como principio general del
+Derecho. Ahora bien, la presente regla debe aplicarse con exquisita ponderación y
+sólo en los casos en los que la culpabilidad y la antijuridicidad resulten
+sustancialmente atenuadas, atendidas las circunstancias del caso concreto. Lo cual
+insistimos puede darse, por excepción, en casos muy extremos (de aquí la expresión
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+26/29
+
+“especialmente cualificada”) y concretos.
+A. En la graduación del importe de la sanción la AEPD no aprecia ninguna de las
+atenuantes cualificadas que contempla el artículo 45.5 LOPD.
+XFERA MÓVILES ha invocado la aplicación de los apartados a, b, y e, del
+artículo 45.5. LOPD, sin embargo, todos ellos han de ser rechazados.
+Respecto al apartado b), decir que ninguna reacción diligente se aprecia en la
+actuación de la entidad que recibió la primera notificación de la SESIAD el 24/01/2018,
+siendo así que obra en el expediente copia de una factura emitida por la operadora a
+nombre de la denunciante por importe de 335,01 euros de fecha 01/03/2018; un mes y
+siete días después de haber recibido el requerimiento de la SESIAD. Obra también en
+el expediente la captura de pantalla de un sms de requerimiento de pago dirigido a la
+denunciante, de fecha 21/02/2018, casi un mes después de que la SESIAD le hubiera
+dado traslado de la reclamación de la afectada.
+XFERA MÓVILES insiste en solicitar en sus alegaciones a la propuesta la
+aplicación de la atenuante cualificada del artículo 45.5.e). Sobre el particular hemos de
+insistir en que la conducta infractora de la que es responsable, como queda
+acreditado, se mantuvo hasta al menos el 01/03/2018 (fecha en la que se emitió una
+factura por los servicios asociados a los datos de la denunciante), y en esa fecha el
+proceso de fusión entre MÁS MÓVIL y XFERA MÓVILES ya había concluido. De
+forma que si bien la infracción se inicia cuando la responsable del fichero es MÁS
+MÓVIL finaliza cuando la responsable del fichero es XFERA, estando la fusión
+totalmente concluida.
+Solicita también la aplicación del artículo 45.5.a, cuya desestimación reiteramos.
+Ni pueden admitirse como atenuantes las circunstancias del artículo 45.4 recogidas en
+los apartados b, e, i, de la LOPD que invoca para justificar la aplicación del artículo
+45.5.a, ni es posible negar la concurrencia de las agravantes descritas en los
+apartados a, c y d, del artículo 45.4. LOPD.
+B. Por lo que atañe a las circunstancias modificativas de la responsabilidad descritas
+en el artículo 45.4 LOPD, la Agencia entiende que operan como agravantes en el
+supuesto que nos ocupa, las siguientes:
+-“El carácter continuado de la infracción” (apartado a,), pues XFERA MÓVILES trató
+los datos personales de la denunciante sin legitimación para ello durante más de dos
+meses: desde el 29/11/2017 al 31/01/2017, que coinciden con las fechas en las que la
+línea ***TELEFONO.4, respectivamente, se dio de alta y baja.
+-“La vinculación de la actividad del infractor con la realización de tratamientos de datos
+de carácter personal” (apartado c,). La actividad empresarial de XFERA MÓVILES, por
+su propia naturaleza, exige un continuo tratamiento de datos de carácter personal de
+sus clientes
+- “El volumen de negocio o actividad del infractor” (apartado d,). Es un hecho notorio
+que XFERA MÓVILES es una gran empresa perteneciente al sector de
+telecomunicaciones y no una pequeña o mediana empresa. La Agencia Estatal de
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+27/29
+
+Administración Tributaria toma como referencia para determinar cuándo estamos en
+presencia de una PYME o de una gran empresa que el volumen de actividad de la
+entidad superior a 6 millones de euros, cifra que claramente supera la denunciada.
+Sobre la reincidencia, (apartado g del artículo 45.4 LOPD), tanto el acuerdo de
+inicio como la propuesta de resolución estimaron que estaba presente esta agravante,
+de acuerdo con el artículo 29.3. d, de la Ley 40/2015, de Régimen Jurídico del Sector
+Público, que al referirse a la aplicación del principio de proporcionalidad advierte que
+se deberán tomar en consideración, entre otros criterios, “La reincidencia, por
+comisión en el término de un año de más de una infracción de la misma naturaleza
+cuando así haya sido declarado por resolución firme en vía administrativa”. Se
+mencionaron a tal fin en el acuerdo de inicio del expediente y en la propuesta las
+resoluciones sancionadoras dictadas por la Agencia en los expedientes PS 005/2017 y
+PS 638/2017 abiertos a XFERA MÓVILES.
+Alega sin embargo XFERA MÓVILES en su escrito de respuesta a la propuesta
+de resolución que la resolución sancionadora dictada en este último expediente (PS
+638/2017), habida cuenta de que se firmó el 18/05/2016, no se adecúa a las
+condiciones descritas por el artículo 29.3 de la Ley 40/2015.
+Constatado que es así, en la resolución que nos ocupa hemos de estimar que no
+existen motivos que justifiquen la aplicación de la agravante descrita en el artículo
+45.5.g) LOPD, por lo que no procede su aplicación.
+Tomando en consideración que se aprecian como agravantes de la conducta
+objeto de valoración las circunstancias descritas en los aparatados a, c, y d, del
+artículo 45.4 LOPD, se acuerda imponer a XFERA MÓVILES una sanción de 50.000
+euros -cuantía próxima al mínimo previsto para las infracciones graves en el artículo
+45.2, LOPD- por vulneración del artículo 6.1 de la citada Ley Orgánica, subsumible en
+el artículo 44.3.b, LOPD.>>
+IV
+Debido a razones de funcionamiento del órgano administrativo, por ende, no
+atribuibles al recurrente, hasta el día de la fecha no se ha emitido el preceptivo
+pronunciamiento de esta Agencia respecto a la pretensión del interesado.
+De acuerdo con lo establecido en el artículo 24 de la LPACAPel sentido del
+silencio administrativo en los procedimientos de impugnación de actos y disposiciones
+es desestimatorio.
+Con todo, y a pesar del tiempo transcurrido, la Administración está obligada a
+dictar resolución expresa y a notificarla en todos los procedimientos, cualquiera que
+sea su forma de iniciación, según dispone el art. 21.1 de la citada LPACAP. Por tanto,
+procede emitir la resolución del recurso de reposición interpuesto.
+V
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+28/29
+
+Como ha quedado expuesto los motivos de impugnación invocados por la
+recurrente no pueden prosperar.
+Así pues, no habiendo aportado la recurrente hechos nuevos ni argumentos
+jurídicos que permitan reconsiderar la validez de la resolución impugnada,
+Vistos los preceptos citados y demás de general aplicación,
+la Directora de la Agencia Española de Protección de Datos RESUELVE:
+PRIMERO: DESESTIMAR el recurso de reposición interpuesto por XFERA MÓVILES,
+S.A. contra la Resolución de esta Agencia Española de Protección de Datos dictada
+con fecha 19 de noviembre de 2018, en el procedimiento sancionador PS/00202/2018.
+SEGUNDO: NOTIFICAR la presente resolución a la entidad XFERA MÓVILES, S.A.,
+con NIF A 82528548.
+TERCERO: Advertir a la entidad sancionada que la sanción impuesta deberá hacerla
+efectiva una vez sea ejecutiva la presente resolución, de conformidad con lo dispuesto
+en el artículo 98.1.b) de la ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, en el plazo de pago voluntario
+que señala el artículo 68 del Reglamento General de Recaudación, aprobado por Real
+Decreto 939/2005, de 29 de julio, en relación con el art. 62 de la Ley 58/2003, de 17 de
+diciembre, mediante su ingreso en la cuenta restringida nº ES00 0000 0000 0000 0000
+0000, abierta a nombre de la Agencia Española de Protección de Datos en el Banco
+CAIXABANK, S.A. o en caso contrario, se procederá a su recaudación en período
+ejecutivo.
+Recibida la notificación y una vez ejecutiva, si la fecha de ejecutividad se
+encuentra entre los días 1 y 15 de cada mes, ambos inclusive, el plazo para efectuar el
+pago voluntario será hasta el día 20 del mes siguiente o inmediato hábil posterior, y si
+se encuentra entre los días 16 y último de cada mes, ambos inclusive, el plazo del
+pago será hasta el 5 del segundo mes siguiente o inmediato hábil posterior.
+De conformidad con lo establecido en el apartado 2 del artículo 37 de la LOPD,
+en la redacción dada por el artículo 82 de la Ley 62/2003, de 30 de diciembre, de
+medidas fiscales, administrativas y del orden social, la presente Resolución se hará
+pública, una vez haya sido notificada a los interesados. La publicación se realizará
+conforme a lo previsto en la Instrucción 1/2004, de 22 de diciembre, de la Agencia
+Española de Protección de Datos sobre publicación de sus Resoluciones y con arreglo
+a lo dispuesto en el artículo 116 del reglamento de desarrollo de la LOPD aprobado
+por el Real Decreto 1720/2007, de 21 diciembre.
+Contra esta resolución, que pone fin a la vía administrativa, se podrá interponer
+en el plazo de dos meses a contar desde el día siguiente a la notificación de este acto
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+29/29
+
+según lo previsto en el artículo 46.1 de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-administrativa, recurso contencioso administrativo ante la
+Sala de lo Contencioso-administrativo de la Audiencia Nacional, con arreglo a lo
+dispuesto en el artículo 25 y en el apartado 5 de la disposición adicional cuarta del
+referido texto legal.
+Finalmente, se señala que conforme a lo previsto en el art. 90.3 a) LPACAP, se
+podrá suspender cautelarmente la resolución firme en vía administrativa si el
+interesado manifiesta su intención de interponer recurso contencioso-administrativo.
+De ser éste el caso, el interesado deberá comunicar formalmente este hecho mediante
+escrito dirigido a la Agencia Española de Protección de Datos, presentándolo a través
+del Registro Electrónico de la Agencia [https://sedeagpd.gob.es/sede-electronicaweb/], o a través de alguno de los restantes registros previstos en el art. 16.4 de la
+citada LPACAP. También deberá trasladar a la Agencia la documentación que acredite
+la interposición efectiva del recurso contencioso-administrativo. Si la Agencia no
+tuviese conocimiento de la interposición del recurso contencioso-administrativo en el
+plazo de dos meses desde el día siguiente a la notificación de la presente resolución,
+daría por finalizada la suspensión cautelar.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+

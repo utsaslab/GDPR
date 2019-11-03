@@ -1,0 +1,203 @@
+1/4
+
+940-0419
+
+Procedimiento Nº: E/03669/2019
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes:
+HECHOS
+PRIMERO: La reclamación interpuesta por D. A.A.A. (en adelante, el reclamante)
+tiene entrada con fecha 13 de noviembre de 2018 en la Agencia Española de
+Protección de Datos, manifiesta que solicitó a VODAFONE ESPAÑA, S.A.U., con NIF
+A80907397 (en adelante, el reclamado), un cambio de dirección tanto de su número
+de teléfono fijo ***TELEFONO.1 como de su fibra óptica que tenía contratadas con el
+reclamado a través de la empresa Sever XXI S.L. con CIF B91344887 de la que es
+representante legal.
+Así las cosas, el reclamado, sin su consentimiento, contrató una nueva alta de
+una línea fija y una nueva fibra óptica a su nombre, y además traspasó a este nuevo
+contrato no consentido dos líneas de móvil que tenía contratadas a través de Sever
+XXI S.L.
+SEGUNDO: La Subdirección General de Inspección de Datos procedió a la realización
+de actuaciones previas de investigación para el esclarecimiento de los hechos objeto
+de la reclamación, teniendo conocimiento de los siguientes extremos:
+1
+
+Con fecha 27 de febrero de 2018, Sever XXI S.L. contrata con el reclamado las
+siguientes líneas y servicios:
+
+
+***TELEFONO.2
+
+
+
+***TELEFONO.3
+
+
+
+***TELEFONO.1
+
+
+
+Fibra 300MB
+
+2
+
+Posteriormente, el 22 de agosto de 2018 Sever XXI S.L. solicita un cambio de
+dirección de sus servicios. El reclamado manifiesta que por algún tipo de error
+en la realización de la gestión, se desconectan todos los servicios bajo el ID de
+cliente 116545508 (Sever XXI S.L.) y se pasan al ID de cliente de persona
+física ***ID.1 (el reclamante). De esta manera, bajo dicho ID se trasladan todos
+los servicios de Sever XXI S.L. y dos líneas móviles; ***TELEFONO.2 y
+***TELEFONO.3.
+
+3
+
+Con fecha 24 de agosto de 2018, el reclamante contrata con el reclamado
+mediante un contrato de servicios para clientes Empresas, las siguientes líneas
+y servicios:
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/4
+
+
+
+Fibra 300MB.
+
+
+
+***TELEFONO.4 como un alta nueva.
+
+4
+
+El 6 de septiembre de 2018 comienzan las reclamaciones por parte del
+reclamante ante el reclamado. Se suceden las llamadas del reclamante con
+fechas 17 y 26 de septiembre de 2018, así como 13 y 31 de octubre de 2018.
+
+5
+
+La reclamación se resuelve el 18 diciembre de 2018.
+
+6
+
+Aportan la grabación de un contrato con el reclamante donde consta la
+siguiente información:
+a. Que se trata de la modificación de un contrato.
+b. Que el titular del contrato a modificar es el reclamante.
+c. Se confirma que se ha escogido una oferta de fidelización que consiste
+en un descuento del 50% por 12 meses sobre los servicios: fijo, fibra
+300MB, línea móvil, otra línea adicional y tv total.
+d. Precio del contrato.
+e. Se pide un cambio de titular a nombre de la empresa Sever XXI S.L..
+f.
+
+Se pide un recálculo de facturación de facturas anteriores.
+
+g. Se solicita la conformidad con el contrato y el titular da su conformidad.
+7
+
+Aportan carta enviada al reclamante, manifestando que han resuelto su
+reclamación y desde el pasado mes de diciembre de 2018 todos los servicios
+se encuentran asociados a la empresa Sever XXI S.L..
+FUNDAMENTOS DE DERECHO
+I
+
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales (en lo sucesivo LOPDGDD), es competente para
+resolver estas actuaciones de investigación la Directora de la Agencia Española de
+Protección de Datos.
+II
+De conformidad con lo establecido en el artículo 55 del RGPD, la Agencia
+Española de Protección de Datos es competente para desempeñar las funciones que
+se le asignan en su artículo 57, entre ellas, la de hacer aplicar el Reglamento y
+promover la sensibilización de los responsables y los encargados del tratamiento
+acerca de las obligaciones que les incumben, así como tratar las reclamaciones
+presentadas por un interesado e investigar el motivo de las mismas.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/4
+
+Corresponde, asimismo, a la Agencia Española de Protección de Datos ejercer
+los poderes de investigación regulados en el artículo 58.1 del mismo texto legal, entre
+los que figura la facultad de ordenar al responsable y al encargado del tratamiento que
+faciliten cualquier información que requiera para el desempeño de sus funciones.
+Correlativamente, el artículo 31 del RGPD establece la obligación de los
+responsables y encargados del tratamiento de cooperar con la autoridad de control
+que lo solicite en el desempeño de sus funciones. Para el caso de que éstos hayan
+designado un delegado de protección de datos, el artículo 39 del RGPD atribuye a
+éste la función de cooperar con dicha autoridad.
+Del mismo modo, el ordenamiento jurídico interno también prevé la posibilidad
+de abrir un período de información o actuaciones previas. En este sentido, el artículo
+55 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, otorga esta facultad al órgano competente con el fin de
+conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el
+procedimiento.
+III
+En el presente caso, se ha recibido en esta Agencia la reclamación presentada
+por el reclamante contra el reclamado por una presunta vulneración de lo señalado en
+el artículo 6 en relación con la licitud del tratamiento.
+En concreto se reclama, que el reclamante tiene dos identificadores en la
+operadora, es decir, unos servicios datos de alta a nombre de su empresa y otros a su
+nombre.
+Pues bien, solicitó el cambio de dirección de los servicios de su empresa. Sin
+embargo, la operadora pasó todos los servicios a su nombre.
+Sobre este particular, debemos señalar que el reclamado remitió un escrito al
+reclamante, del que aportan copia, en el que dan contestación a la reclamación
+presentada en la Agencia, y le manifiestan que han resuelto su reclamación y desde el
+pasado mes de diciembre de 2018 todos los servicios se encuentran asociados a
+empresa Sever XXI, S.L.
+Por este motivo, la Directora de la Agencia Española de Protección de Datos
+acuerda el archivo de estas actuaciones, al considerarse solventada la concreta
+reclamación.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/4
+
+1. PROCEDER AL ARCHIVO de las presentes actuaciones.
+2. NOTIFICAR la presente resolución al reclamante y reclamado.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

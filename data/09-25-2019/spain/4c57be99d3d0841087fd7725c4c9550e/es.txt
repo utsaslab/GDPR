@@ -1,0 +1,525 @@
+1/11
+
+Procedimiento Nº PS/00076/2019
+RESOLUCIÓN: R/00424/2019
+En el procedimiento sancionador PS/00076/2019, instruido por la Agencia Española de
+Protección de Datos a la entidad LIBERBANK, S.A., vista la denuncia presentada por
+Dña. A.A.A., y en base a los siguientes
+ANTECEDENTES
+PRIMERO: El 26/07/2018 tiene entrada en esta Agencia Española de Protección de
+Datos escrito de Dña. A.A.A. (en adelante el reclamante), en el que declara, en
+síntesis, los siguientes hechos: la inclusión de sus datos de carácter personal en el
+fichero ASNEF por una deuda a instancia de la entidad LINDORFF HOLDING SPAIN,
+S.A.U. (en lo sucesivo LINDORFF), deuda que no es cierta, vencida ni exigible, no
+habiendo sido notificada su inclusión en el fichero ni requerida para su pago por la
+entidad acreedora, que desconoce quién es y que solicitada la cancelación de los
+datos a EQUIFAX IBERICA, S.L. (en lo sucesivo EQUIFAX), le ha respondido
+comunicándole la baja cautelar de la deuda, inclusión que le ha perjudicado en
+operaciones con otras entidades.
+SEGUNDO: A la vista de los hechos denunciados, en fase de actuaciones previas, por
+los Servicios de Inspección de esta Agencia solicitada información a LINDORFF
+teniendo conocimiento de los siguientes extremos:
+LINDORFF, en escrito de 29/10/2018, ha manifestado en respuesta al requerimiento
+de información de la AEPD lo siguiente:
+Que LIBERBANK, S.A. (en lo sucesivo LIBERBANK) y el Banco
+Castilla La Mancha celebraron con LINDORFF elevándolo a escritura
+pública de fecha 21/04/2017 contrato de adquisición de cartera de créditos;
+entre los créditos transmitidos por Liberbank y Banco de Castilla La
+Mancha, S.A., figura identificado por la parte transmitente con los siguientes
+datos:
+Nº XXXXX; ID Contrato ***CONTRATO.1; ID Contrato de Origen
+***CONTRATO.2; A.A.A.; NIF….; Total saldo vivo (21/04/2017) YYY,YY €.
+Que LINDORFF gestiona el citado crédito como nuevo acreedor, en
+lugar de Liberbank desde la fecha de su cesión.
+Que el 13/07/2018 recibió de Equifax Ibérica, S.L. solicitud de
+confirmación de los datos que figuran en el fichero ASNEF por solicitud de
+cancelación a instancias de la reclamante, iniciando un procedimiento
+interno para determinar la verificación de la deuda, procediendo a la
+paralización de las gestiones y su baja cautelar de los ficheros de solvencia
+y tras las comprobaciones oportunas se concluyó que la deuda era liquida,
+vencida y exigible.
+Consta correo electrónico remitido desde Liberbank a LINDORFF el
+22/10/2018 en el que se da respuesta a la consulta realizada acerca de la
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/11
+
+exigibilidad de la deuda de la reclamante, constando el siguiente texto “No
+dispone de ninguna información que indique lo contrario” (el subrayado
+corresponde a la Agencia Española de Protección de Datos).
+TERCERO: Con fecha 01/03/2019, la Directora de la Agencia Española de Protección
+de Datos acordó iniciar procedimiento sancionador a LIBERBANK, por presunta
+infracción del artículo 11.1 de la Ley Orgánica 15/1999, de 13/12, de Protección de
+Datos de Carácter Personal (en lo sucesivo LOPD), tipificada como grave en el artículo
+44.3.k) de dicha norma, pudiendo ser sancionada, con multa de 40.001 a 300.000
+euros, de acuerdo con el artículo 45.2 de dicha Ley Orgánica.
+CUARTO: Notificado el acuerdo de inicio, LIBERBANK, mediante escrito de fecha
+18/03/2019 formuló las siguientes alegaciones: que la deuda vendida a LINDORFF
+era cierta vencida y exigible; que la reclamante era titular de un contrato de tarjeta
+VISA, asociada a una tarjeta de crédito; que la reclamante había realizado con la
+misma numerosas compras y retiradas de efectivo en cajeros bajo la modalidad “a
+crédito”; que como consecuencia de estas operaciones la reclamante estaba obligada
+al pago de las cuotas correspondientes, cuya suma junto con los intereses ascendía a
+la deuda de YYY,YY euros; que siendo la deuda cierta, vencida y exigible su venta por
+LIBERBANK se realizó conforme a los requisitos exigidos por la legislación vigente.
+QUINTO: Con fecha 02/04/2019 se inició un período de práctica de pruebas,
+acordándose las siguientes
+-Dar por reproducidos a efectos probatorios la denuncia interpuesta por el
+denunciante y su documentación, documentos obtenidos y generados por los Servicios
+de Inspección que forman parte del expediente.
+-Dar por reproducido a efectos probatorios, las alegaciones al acuerdo de inicio
+PS/00076/2019 presentadas por LIBERBANK, y la documentación que a ellas
+acompaña.
+-Solicitar a LIBERBANK, copia del contrato de tarjeta Visa número
+***CONTRATO.1 suscrito con la reclamante asociado a la tarjeta de crédito nº
+***TARJETA.1, impresión de pantalla relativas a otros productos contratados, fechas
+de alta y baja; domicilios y direcciones de contacto; vencimientos impagados, importes
+de deuda y situación actual; comunicaciones y contactos que hayan existido entre
+dicha entidad y la reclamante, detallando contenido, fecha y acciones realizadas en
+cada caso y si los datos de la reclamante hubieran sido comunicados a ficheros de
+solvencia patrimonial, causas que motivaron la comunicación e inclusión en los
+mismos de haberse producido, acompañando la documentación acreditativa, así como
+la de haber requerido la deuda convenientemente como paso previo a la inclusión.
+El 03/05/2019 LIBERBANK respondió deficientemente a la solicitud de las
+pruebas requeridas; el 14/05/2019 se le remitió escrito a LIBERBANK respondiéndole:
+acerca del error en la consignación del número del expediente de actuaciones previas;
+se daban instrucciones para la remisión de copia del expediente solicitado; que había
+sido LIBERBANK quien cedió el crédito a LINDORFF por lo que debería acreditar que
+la deuda era cierta, vencida y exigible; que LIBERBANK no había aportado la copia del
+contrato de tarjeta Visa suscrito con la reclamante, asociado a la tarjeta de crédito, a la
+que además debería acompañar la documentación anexa que acreditase la
+personalidad de la contratante, como parte integrante del contrato; que también
+debería aportar las comunicaciones y contactos que hubieran existido entre dicha
+entidad y la reclamante, detallando contenido, fecha y acciones realizadas en cada
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/11
+
+caso, si estas existieron, si los datos de la reclamante hubieran sido comunicados por
+LIBERBANK a ficheros de solvencia patrimonial, las causas que motivaron la
+comunicación e inclusión en los mismos de haberse producido, acompañando la
+documentación acreditativa, así como la de haber requerido la deuda
+convenientemente como paso previo a la inclusión.
+Por último, se le informaba que no atender los requerimientos de la Agencia
+podría ser constitutivo de infracción muy grave de conformidad con lo señalado en el
+artículo 72 de la LOPDGDD.
+SEXTO: En fecha 02/08/2019, fue emitida Propuesta de Resolución en el sentido de
+que por la Directora de la Agencia Española de Protección de Datos se sancionara a
+LIBERBANK por infracción del artículo 11.1 de la LOPD, tipificada como grave en el
+artículo 44.3.k) de dicha norma, con multa de 20.000 € (veinte mil euros) de
+conformidad con lo establecido en el artículo 45.5 de la citada Ley Orgánica.
+Asimismo, se acompañaba Anexo conteniendo la relación de los documentos obrantes
+en el expediente a fin de obtener copia de los que estimara convenientes.
+La representación de LIBERBANK en escrito de 26/08/2019 presento escrito
+reiterando lo señalado en el procedimiento y, además, que la cesión fue realizada de
+manera licita, que la deuda era cierta y vencida, que el contrato no ha podido
+aportarse al no constar en los archivos de la entidad; el archivo de las actuaciones y
+subsidiariamente sea considerada en todo caso la infracción cometida como leve.
+
+HECHOS PROBADOS
+PRIMERO. El 26/07/2018 tiene entrada en esta Agencia Española de Protección de
+Datos escrito de la reclamante, en el que reclama que LINDORFF ha incluido sus
+datos de carácter personal en el fichero ASNEF por una deuda que no es cierta, no
+habiendo sido notificada la inclusión en el fichero ni requerida para su pago por la
+entidad acreedora, que además desconoce quién es; que solicitada la cancelación de
+los datos a EQUIFAX le han comunicándole la baja cautelar de la deuda, inclusión que
+le ha perjudicado en operaciones con otras entidades.
+SEGUNDO. Consta que los datos de carácter personal fueron incluidos en el fichero
+ASNEF a instancias de LINDORFF a consecuencia de una deuda de YYY,YY euros
+siendo la fecha de alta el 02/11/2017.
+TERCERO. LINDORFF ha informado que Liberbank y Banco Castilla-La Mancha
+cedieron a LINDORFF mediante contrato formalizado en escritura pública una cartera
+de créditos entre el que se encontraba un crédito por importe de YYY,YY euros frente a
+la reclamante y que ha gestionado el crédito como responsable del tratamiento hasta
+el 23/07/2018.
+Asimismo, señala que el 13/07/2018 recibió de EQUIFAX comunicación solicitando
+confirmación de los datos que figuraban en el fichero por solicitud de cancelación, por
+lo que se inició un procedimiento interno para la verificación del crédito procediendo a
+la paralización de la gestión y a la baja cautelar en ASNEF el 23/07/2018.
+Continua que tras las comprobaciones oportunas concluyó que la deuda era cierta
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/11
+
+vencida y exigible.
+CUARTO. Consta copia de los e-mails cruzados de LINDORFF y LIBERBANK en
+relación con la deuda de la reclamante.
+El 16/07/2018 LINDORFF le remite e-mail y pregunta sobre la deuda indicando:
+“Hemos recibido a través de Equifax reclamación por parte del titular y necesitaríamos
+que nos indicaras si la deuda es exigible o no”, no constando respuesta alguna.
+El 04/10/2018 LINDORFF le remite e-mail y pregunta sobre la misma cuestión:
+“Debemos dar respuesta a denuncia de la AEPD, por lo que necesitaríamos que nos
+indicaran si la deuda es exigible y nos aportaran los movimientos que originaron la
+deuda”.
+El 22/10/2018, LIBERBANK responde por la misma vía señalando que: “No
+disponemos de ninguna información que indique lo contrario”.
+QUINTO. Consta carta informativa de fecha 05/06/2017 remitida al domicilio de la
+reclamante en la que se le informaba de la cesión de la deuda de LIBERBANK a
+LINDORFF.
+SEXTO. LIBERBANK ha aportado certificación en el que se señala que el contrato de
+Tarjeta de Crédito VISA número ***CONTRATO.1 a nombre de la reclamante
+presentaba a 21/04/2017 una deuda de YYY,YY euros correspondiente a la tarjeta
+número ***TARJETA.1, vinculada al contrato anterior. También se aporta impresiones
+de pantalla de los movimientos de la tarjeta asociada al contrato.
+SEPTIMO. LIBERBANK no ha acreditado ni aportado, a pesar
+requerida para ello, copia del contrato de Tarjeta de Crédito
+***CONTRATO.1, asociado a la tarjeta número ***TARJETA.1,
+celebrado con la reclamante, ni el consentimiento para la cesión de
+denunciante.
+
+de haber sido
+VISA número
+presuntamente
+los datos de la
+
+FUNDAMENTOS DE DERECHO
+I
+En virtud de los poderes que el artículo 58.2 del RGPD reconoce a cada
+autoridad de control, y según lo establecido en el art. 47 de la Ley Orgánica 3/2018, de
+5 de diciembre, de Protección de Datos Personales y garantía de los derechos
+digitales (en lo sucesivo LOPDGDD), la Directora de la Agencia Española de
+Protección de Datos es competente para resolver este procedimiento.
+Los hechos objeto de la reclamación quedan sometidos a las disposiciones de
+la Ley Orgánica 15/1999, de Protección de Datos de Carácter Personal (LOPD) y a su
+Reglamento de desarrollo aprobado por el Real Decreto 1720/2007 (RLOPD) tomando
+en consideración que los mismos acontecieron con anterioridad al 25 de mayo de
+2018, fecha de aplicación del Reglamento 2016/679, del Parlamento Europeo y del
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/11
+
+Consejo, de 27/04/2016, relativo a la protección de las personas físicas en lo que
+respecta al tratamiento de sus datos personales y a la libre circulación de estos datos.
+
+II
+En el presente caso se imputa a LIBERBANK la infracción del artículo 11.1 de
+la LOPD, en relación con el artículo 6.1 de la misma norma, que establece lo siguiente:
+"1. Los datos de carácter personal objeto del tratamiento sólo podrán ser
+comunicados a un tercero para el cumplimiento de fines directamente relacionados
+con las funciones legítimas del cedente y del cesionario con el previo consentimiento
+del interesado.
+2. El consentimiento exigido en el apartado anterior no será preciso:
+a) Cuando la cesión está autorizada en una Ley.
+b) Cuando se trate de datos recogidos de fuentes accesibles al público.
+c) Cuando el tratamiento responda a la libre y legítima aceptación de una
+relación jurídica cuyo desarrollo, cumplimiento y control implique
+necesariamente la conexión de dicho tratamiento con ficheros de terceros. En
+este caso la comunicación sólo será legítima en cuanto se limite a la finalidad
+que la justifique.
+d) Cuando la comunicación que deba efectuarse tenga por destinatario al
+Defensor del Pueblo, el Ministerio Fiscal o los Jueces o Tribunales o el Tribunal
+de Cuentas, en el ejercicio de las funciones que tiene atribuidas. Tampoco será
+preciso el consentimiento cuando la comunicación tenga como destinatario a
+instituciones autonómicas con funciones análogas al Defensor del Pueblo o al
+Tribunal de Cuentas.
+e) Cuando la cesión se produzca entre Administraciones Públicas y tenga por
+objeto el tratamiento posterior de los datos con fines históricos, estadísticos o
+científicos.
+f) Cuando la cesión de datos de carácter personal relativos a la salud sea
+necesaria para solucionar una urgencia que requiera acceder a un fichero o
+para realizar los estudios epidemiológicos en los términos establecidos en la
+legislación sobre sanidad estatal o autonómica.
+Será nulo el consentimiento para la comunicación de los datos de carácter
+personal a un tercero cuando la información que se facilite al interesado no le
+permita conocer la finalidad a que destinarán los datos cuya comunicación se
+autoriza o el tipo de actividad de aquél a quien se pretenden comunicar.
+3. El consentimiento para la comunicación de los datos de carácter personal
+tiene también un carácter de revocable.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/11
+
+4. Aquél a quien se comuniquen los datos de carácter personal se obliga, por el
+solo hecho de la comunicación, a la observancia de las disposiciones de la presente
+Ley.
+5. Si la comunicación se efectúa previo procedimiento de disociación, no será
+aplicable lo establecido en los apartados anteriores."
+A los efectos de lo dispuesto en el precepto transcrito, la LOPD señala en su
+artículo 3.c) e i) lo siguiente:
+“c) Tratamiento de datos: operaciones y procedimientos técnicos de carácter
+automatizado o no, que permitan la recogida, grabación, conservación, elaboración,
+modificación, bloqueo y cancelación, así como las cesiones de datos que resulten de
+comunicaciones, consultas, interconexiones y transferencias”.
+“i) Cesión o comunicación de datos: toda revelación de datos realizada a una
+persona distinta del interesado”.
+La Directiva 95/46/CE, del Parlamento y del Consejo, de 24 de octubre de
+1995, relativa a la protección de las personas físicas en lo que respecta al tratamiento
+de datos personales y a la libre circulación de estos datos, se refiere en su artículo 2.b)
+a la cesión dentro de la definición del tratamiento de datos, y la define como
+“comunicación por transmisión, difusión o cualquier otra forma que facilite el acceso de
+los datos, cotejo o interconexión”.
+Así pues, el artículo 11.1 de la LOPD exige el consentimiento del afectado, o
+bien, alguna de las circunstancias previstas en el artículo 11.2 para la cesión de datos
+de carácter personal.
+LIBERBANK, no ha acreditado ni justificado que dispusiera del consentimiento
+del afectado para poder ceder y comunicar sus datos de carácter personal a la entidad
+LINDORFF, vinculados a una deuda por importe de YYY,YY euros correspondiente a la
+tarjeta número ***TARJETA.1, asociada al contrato de Tarjeta de Crédito VISA número
+***CONTRATO.1, contrato que no ha sido acreditado a lo largo del procedimiento pese
+a haber sido requerido para ello.
+Los hechos expuestos llevan a concluir que la entidad LIBERBANK facilitó a la
+entidad LINDORFF, los datos personales del afectado vinculados a dicha deuda sin el
+consentimiento del mismo; datos que han sido utilizados para que esta última entidad
+instara la inclusión de los datos de carácter personal en el fichero ASNEF.
+Hay que señalar que el presente supuesto no se ajusta a lo establecido en el
+apartado 2 del citado artículo 11 de la LOPD, en los cuales no se requiere el
+consentimiento del afectado para la comunicación de los datos a un tercero.
+III
+El reclamado ha aportado como medios de prueba con los que pretende
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/11
+
+desvirtuar los hechos reclamados de una certificación de la propia entidad crediticia
+señalando que el contrato de Tarjeta de Crédito VISA a nombre de la reclamante
+presentaba a 21/04/2017 una deuda de YYY,YY euros correspondiente a la tarjeta
+vinculada al contrato anterior, si como impresiones de pantalla de los movimientos de
+la tarjeta asociada al contrato.
+En cuanto al valor probatorio del primer medio, no puede olvidarse que
+proviene de personas directamente vinculadas con el reclamado y en este sentido, se
+trataría de personas con un interés directo en el asunto dada su relación con
+LIBERBANK y cuya imparcialidad es cuestionable.
+Y en cuanto al segundo, el valor probatorio de una impresiones o capturas de
+pantalla, denominados "pantallazos", ya ha sido analizado por la Audiencia Nacional, a
+la hora de acreditar el consentimiento para el tratamiento de datos, resultando
+especialmente clarificadora Sentencia de la Audiencia Nacional de 09/04/2008, Rec.
+235/2006 al afirmar que "...no se trata más de un simple "pantallazo" informático, que
+nada acredita ni aporta ninguna información relevante a la hora de poder acreditar el
+consentimiento del titular de los datos".
+Asimismo, en referencia al consentimiento la Audiencia Nacional en Sentencia
+de fecha 21 de diciembre de 2001, señalaba que: “...de acuerdo con el principio que
+rige en materia probatoria (art. 1214 del Código Civil) la Agencia de Protección de
+Datos probó el hecho constitutivo que era el tratamiento automatizado de los datos
+personales de D.... (nombre, apellidos y domicilio), y a la recurrente incumbía el hecho
+impeditivo o extintivo, cuál era el consentimiento del mismo.
+Es decir,... debía acreditar el consentimiento del afectado para el tratamiento
+automatizado de datos personales, o justificar que el supuesto examinado concurre
+alguna de las excepciones al principio general del consentimiento consagrado en el
+art. 6.1 de la Ley Orgánica 5/1992. Y nada de esto ha sucedido”.
+IV
+De acuerdo con las previsiones de la LOPD, el artículo 44.3.k) tipifica como
+infracción grave “La comunicación o cesión de los datos de carácter personal sin
+contar con legitimación para ello en los términos previstos en esta Ley y sus
+disposiciones reglamentarias de desarrollo, salvo que la misma sea constitutiva de
+infracción muy grave”. A tenor del artículo 45.2 de la LOPD las infracciones graves
+serán sancionadas con multa de 40.001 a 300.000 euros.
+En el presente caso, la infracción imputada a LIBERBANK resulta de la
+comunicación de datos de carácter personal, sin consentimiento del afectado, a la
+entidad LINDORFF, quien a su vez incluyo los datos de carácter personal de la
+reclamante en un fichero de solvencia patrimonial y de crédito, ASNEF.
+Por tanto, se imputa a LIBERBANK, en su condición de responsable del
+tratamiento, la comunicación de los datos del reclamante sin su consentimiento ni
+autorización a LINDORFF.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+8/11
+
+La conducta de LIBERBANK ha incurrido en la infracción descrita ya que ha
+vulnerado el principio de cesión, consagrado en el artículo 11.1 de la LOPD, al ceder
+los datos de carácter personal del usuario y que encuentra su tipificación en el artículo
+44.3.k de la citada Ley Orgánica.
+V
+El artículo 45.2, 4 y 5 de la LOPD establece que:
+"2. Las infracciones graves serán sancionadas con multa de 40.001 € a
+300.000€
+(…)
+4. La cuantía de las sanciones se graduará atendiendo a los siguientes
+criterios:
+a) El carácter continuado de la infracción.
+b) El volumen de los tratamientos efectuados.
+c) La vinculación de la actividad del infractor con la realización de tratamientos
+de datos de carácter personal.
+d) El volumen de negocio o actividad del infractor.
+e) Los beneficios obtenidos como consecuencia de la comisión de la infracción.
+f) El grado de intencionalidad.
+g) La reincidencia por comisión de infracciones de la misma naturaleza.
+h) La naturaleza de los perjuicios causados a las personas interesadas o a
+terceras personas.
+i) La acreditación de que con anterioridad a los hechos constitutivos de
+infracción la entidad imputada tenía implantados procedimientos adecuados de
+actuación en la recogida y tratamiento de Ios datos de carácter personal,
+siendo la infracción consecuencia de una anomalía en el funcionamiento de
+dichos procedimientos no debida a una falta de diligencia exigible al infractor.
+j) Cualquier otra circunstancia que sea relevante para determinar el grado de
+antijuridicidad y de culpabilidad presentes en la concreta actuación infractora.
+5. El órgano sancionador establecerá la cuantía de la sanción aplicando la
+escala relativa a la clase de infracciones que preceda inmediatamente en gravedad a
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+9/11
+
+aquella en que se integra la considerada en el caso de que se trate, en los siguientes
+supuestos:
+a) Cuando se aprecie una cualificada disminución de la culpabilidad del
+imputado o de la antijuridicidad del hecho como consecuencia de la
+concurrencia significativa de varios de los criterios enunciados en el apartado 4
+de este artículo.
+b) Cuando la entidad infractora haya regularizado la situación irregular de
+forma diligente.
+c) Cuando pueda apreciarse que la conducta del afectado ha podido inducir a
+la comisión de la infracción.
+d) Cuando el infractor haya reconocido espontáneamente su culpabilidad.
+e) Cuando se haya producido un proceso de fusión por absorción y la
+infracción fuese anterior a dicho proceso, no siendo imputable a la entidad
+absorbente".
+La representación del reclamado ha solicitado el archivo de las actuaciones y
+subsidiariamente sea ponderada la sanción a imponer, considerando la infracción
+como leve; sin embargo, tal posibilidad no es aceptable.
+Hay que indicar que el artículo 45.5 de la LOPD deriva del principio de
+proporcionalidad de la sanción y permite establecer "la cuantía de la sanción aplicando
+la escala relativa a la clase de infracciones que preceda inmediatamente en gravedad
+a aquella en que se integra la considerada en el caso de que se trate", pero para ello
+es necesario la concurrencia de, o bien una cualificada disminución de la culpabilidad
+del imputado, o bien de la antijuridicidad del hecho, o bien de alguna otra de las
+circunstancias que el mismo precepto cita.
+En el caso examinado, de las actuaciones practicadas ha quedado acreditado
+que LIBERBANK vulneró el artículo 11.1 de la LOPD, al ceder los datos del reclamante
+sin su consentimiento a la empresa LINDORFF, quien a su vez incluyó los datos en el
+fichero de solvencia patrimonial y de crédito ASNEF con evidente perjuicio para la
+misma, por lo que su actuación ha de ser objeto de sanción.
+Ahora bien, teniendo en cuenta las circunstancias que concurren en el presente
+caso, permiten apreciar la existencia de motivos para la aplicación de la escala de
+sanciones que preceden inmediatamente en gravedad como contempla el artículo
+45.5, al operar la atenuante privilegiada prevista en el apartado e) del citado artículo
+“Cuando se haya producido un proceso de fusión por absorción y la infracción fuese
+anterior a dicho proceso, no siendo imputable a la entidad absorbente", puesto que el
+09/10/2018, se inscribió en el Registro Mercantil la escritura de fusión por absorción de
+Banco Castilla-La Mancha por Liberbank, es decir, posterior a los hechos denunciados
+no siendo los hechos puestos de manifiesto en el presente procedimiento atribuibles a
+la entidad absorbente, LIBERBANK, sino a la absorbida, Banco Castilla-La Mancha, lo
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+10/11
+
+que permite establecer “la cuantía de la sanción aplicando la escala relativa a la clase
+de infracciones que preceda inmediatamente en gravedad a aquella en que se integra
+la considerada en el caso de que se trate".
+No obstante, en relación con los criterios de graduación de las sanciones que
+contempla el artículo 45.4 de la LOPD, se aprecia la concurrencia de las siguientes
+circunstancias agravantes:
+- El apartado c) La vinculación de su actividad con la realización de
+tratamientos de datos de carácter personal”, pues parece evidente que en el desarrollo
+de la actividad desempeñada, aunque empresa pequeña, se ve obligada a un continuo
+tratamiento de datos personales tanto de sus clientes como de terceros.
+- El apartado “f) El grado de intencionalidad “, ya que la cesión de los datos del
+reclamante evidencia una clara negligencia a la hora de comprobar si contaba con su
+consentimiento.
+- El apartado d) “El volumen de negocio o actividad del infractor”, puesto que se
+trata de una gran entidad crediticia del país por cifra de negocio.
+En el presente caso, valorados los criterios de graduación de las sanciones
+establecidos en el artículo 45.4, tanto favorables como adversos, se impone una
+sanción de 20.000 euros por vulneración del artículo 11.1 de la LOPD, de la que
+LIBERBANK debe responder.
+
+Vistos los preceptos citados y demás de general aplicación,
+La Directora de la Agencia Española de Protección de Datos RESUELVE:
+PRIMERO: IMPONER a la entidad LIBERBANK, S.A., con NIF A86201993, por una
+infracción del artículo 11.1 de la LOPD de la LOPD, en relación con el artículo 6.1 de la
+misma norma, tipificada como grave en el artículo 44.3.k) de la LOPD, una multa de
+20.000 € (veinte mil euros), de conformidad con lo establecido en el artículo 45.5 de la
+citada LOPD.
+SEGUNDO: NOTIFICAR la presente resolución a LIBERBANK, S.A.
+TERCERO: Advertir al sancionado que la sanción impuesta deberá hacerla efectiva
+una vez sea ejecutiva la presente resolución, de conformidad con lo dispuesto en el
+artículo 98.1.b) de la ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas, en el plazo de pago voluntario que señala el
+artículo 68 del Reglamento General de Recaudación, aprobado por Real Decreto
+939/2005, de 29 de julio, en relación con el art. 62 de la Ley 58/2003, de 17 de
+diciembre, mediante su ingreso en la cuenta restringida nº ES00 0000 0000 0000 0000
+0000, abierta a nombre de la Agencia Española de Protección de Datos en el Banco
+CAIXABANK, S.A. o en caso contrario, se procederá a su recaudación en período
+ejecutivo.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+11/11
+
+Recibida la notificación y una vez ejecutiva, si la fecha de ejecutividad se
+encuentra entre los días 1 y 15 de cada mes, ambos inclusive, el plazo para efectuar el
+pago voluntario será hasta el día 20 del mes siguiente o inmediato hábil posterior, y si
+se encuentra entre los días 16 y último de cada mes, ambos inclusive, el plazo del
+pago será hasta el 5 del segundo mes siguiente o inmediato hábil posterior.
+De conformidad con lo establecido en el apartado 2 del artículo 37 de la LOPD,
+en la redacción dada por el artículo 82 de la Ley 62/2003, de 30 de diciembre, de
+medidas fiscales, administrativas y del orden social, la presente Resolución se hará
+pública, una vez haya sido notificada a los interesados. La publicación se realizará
+conforme a lo previsto en la Instrucción 1/2004, de 22 de diciembre, de la Agencia
+Española de Protección de Datos sobre publicación de sus Resoluciones y con arreglo
+a lo dispuesto en el artículo 116 del reglamento de desarrollo de la LOPD aprobado
+por el Real Decreto 1720/2007, de 21 diciembre.
+Contra esta resolución, que pone fin a la vía administrativa (artículo 48.2 de la
+LOPD), y de conformidad con lo establecido en los artículos 112 y 123 de la Ley
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, los interesados podrán interponer, potestativamente,
+recurso de reposición ante la Directora de la Agencia Española de Protección de Datos
+en el plazo de un mes a contar desde el día siguiente a la notificación de esta
+resolución o directamente recurso contencioso administrativo ante la Sala de lo
+Contencioso-administrativo de la Audiencia Nacional, con arreglo a lo dispuesto en el
+artículo 25 y en el apartado 5 de la disposición adicional cuarta de la Ley 29/1998, de
+13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, en el plazo de
+dos meses a contar desde el día siguiente a la notificación de este acto, según lo
+previsto en el artículo 46.1 del referido texto legal.
+Finalmente, se señala que conforme a lo previsto en el art. 90.3 a) de la Ley
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, se podrá suspender cautelarmente la resolución firme en
+vía administrativa si el interesado manifiesta su intención de interponer recurso
+contencioso-administrativo. De ser éste el caso, el interesado deberá comunicar
+formalmente este hecho mediante escrito dirigido a la Agencia Española de Protección
+de Datos, presentándolo a través del Registro Electrónico de la Agencia
+[https://sedeagpd.gob.es/sede-electronica-web/], o a través de alguno de los restantes
+registros previstos en el art. 16.4 de la citada Ley 39/2015, de 1 de octubre. También
+deberá trasladar a la Agencia la documentación que acredite la interposición efectiva
+del recurso contencioso-administrativo. Si la Agencia no tuviese conocimiento de la
+interposición del recurso contencioso-administrativo en el plazo de dos meses desde el
+día siguiente a la notificación de la presente resolución, daría por finalizada la
+suspensión cautelar.
+
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

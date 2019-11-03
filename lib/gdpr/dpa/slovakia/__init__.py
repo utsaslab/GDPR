@@ -61,7 +61,7 @@ class Slovakia(DPA):
             if a is None:
                 continue
             href = a.get('href')
-            pagination.add_link(host + href)
+            pagination.add_item(host + href)
 
         while pagination.has_next():
             page_url = pagination.get_next()
@@ -155,6 +155,6 @@ class Slovakia(DPA):
                 if a is None:
                     continue
                 href = a.get('href')
-                pagination.add_link(host + href)
+                pagination.add_item(host + href)
 
         return True

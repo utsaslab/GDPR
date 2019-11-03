@@ -1,0 +1,153 @@
+1/4
+
+Procedimiento Nº: E/07695/2019
+940-0419
+
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes
+HECHOS
+PRIMERO: La reclamación interpuesta por D. A.A.A. (en adelante, el reclamante)
+tiene entrada con fecha 28 de febrero de 2019 en la Agencia Española de Protección
+de Datos. La reclamación se dirige contra ENERGYA VM GESTIÓN DE ENERGÍA
+S.L.U., con NIF B83393066 (en adelante, el reclamado).
+El reclamante en su reclamación reclama la baja de los contratos de
+suministros formalizados con el reclamado, ya que su consentimiento lo obtuvo la
+compañía reclamada haciéndose pasar por su antigua comercializadora.
+Añade que, están utilizando sus datos bancarios sin su consentimiento.
+Aporta escrito dirigido al reclamado y contestación del mismo de ***FECHA.1 y
+***FECHA.2.
+SEGUNDO: La Subdirección General de Inspección de Datos procedió a la realización
+de actuaciones previas de investigación para el esclarecimiento de los hechos objeto
+de la reclamación, teniendo conocimiento de los siguientes extremos:
+ENERGYA VM GESTIÓN DE ENERGÍA, S.L.U., manifiesta que disponen de
+los certificados electrónicos del consentimiento del reclamante para suscribir los
+contratos, tras haber respondido afirmativamente al mensaje de texto enviado a su
+teléfono móvil donde se expone la oferta y se facilita un enlace para acceder
+previamente a toda la documentación.
+Que disponen de la grabación de la llamada de confirmación de la venta, donde
+el reclamante responde afirmativamente a todas las cuestiones planteadas por la
+verificadora, incluida la de si es consciente que con la contratación se lleva a cabo un
+cambio de comercializadora.
+Que disponen de la llamada de confirmación del restablecimiento de los
+contratos, en los que da su consentimiento explicito para volver a contratar con
+Energya-VM tras haber dado de baja sus contratos.
+En dicho contrato se prevé un compromiso de permanencia de 12 meses y una
+penalización en caso de resolución anticipada.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/4
+
+El contrato de suministro eléctrico fue suscrito por el reclamante el 13 de
+diciembre de 2018 y la fecha de finalización del mismo es el próximo 27 de noviembre
+de 2019.
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales (en lo sucesivo LOPDGDD), es competente para
+resolver estas actuaciones de investigación la Directora de la Agencia Española de
+Protección de Datos.
+II
+De conformidad con lo establecido en el artículo 55 del RGPD, la Agencia
+Española de Protección de Datos es competente para desempeñar las funciones que
+se le asignan en su artículo 57, entre ellas, la de hacer aplicar el Reglamento y
+promover la sensibilización de los responsables y los encargados del tratamiento
+acerca de las obligaciones que les incumben, así como tratar las reclamaciones
+presentadas por un interesado e investigar el motivo de estas.
+Corresponde, asimismo, a la Agencia Española de Protección de Datos ejercer
+los poderes de investigación regulados en el artículo 58.1 del mismo texto legal, entre
+los que figura la facultad de ordenar al responsable y al encargado del tratamiento que
+faciliten cualquier información que requiera para el desempeño de sus funciones.
+Correlativamente, el artículo 31 del RGPD establece la obligación de los
+responsables y encargados del tratamiento de cooperar con la autoridad de control
+que lo solicite en el desempeño de sus funciones. Para el caso de que éstos hayan
+designado un delegado de protección de datos, el artículo 39 del RGPD atribuye a
+éste la función de cooperar con dicha autoridad.
+Del mismo modo, el ordenamiento jurídico interno también prevé la posibilidad
+de abrir un período de información o actuaciones previas. En este sentido, el artículo
+55 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, otorga esta facultad al órgano competente con el fin de
+conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el
+procedimiento.
+III
+En el presente caso, se ha recibido en esta Agencia la reclamación presentada
+por el reclamante, por una presunta vulneración del artículo 6 del RGPD por el uso
+ilícito de sus datos personales al no contar con su consentimiento expreso.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/4
+
+En concreto se denuncia que el reclamado ha gestionado un contrato de
+energía eléctrica sin su consentimiento, al considerar que había sido informado de
+manera engañosa.
+Una vez analizadas las razones expuestas por el reclamado, que obran en el
+expediente, se ha constatado la falta de indicios racionales de la existencia de una
+infracción en el ámbito competencial de la Agencia Española de Protección de Datos.
+La Agencia Española de Protección de Datos no es competente para dirimir
+cuestiones civiles, tales como las relativas a la validez civil o mercantil del contrato, la
+exactitud de la cuantía de la deuda, la correcta prestación de los servicios contratados
+o la interpretación de cláusulas contractuales, como la relativa al cumplimiento o
+existencia de un compromiso de permanencia. La determinación de la legitimidad de
+una deuda basada en una interpretación del contrato suscrito entre las partes y de su
+correcta cuantía deberá instarse ante los órganos administrativos o judiciales
+competentes, al exceder del ámbito competencial de la Agencia.
+En caso de controversia sobre la deuda podrá presentar ante el acreedor una
+reclamación cuestionando la existencia de la misma o su cuantía. Si no recibe
+respuesta o si la misma no le satisface, podrá dirigirse a los órganos que dictan
+resoluciones vinculantes a esos efectos, entre los que figuran las Juntas Arbitrales de
+Consumo (siempre que el acreedor voluntariamente se someta a ellas), el órgano
+competente en materia de energía de la Comunidad Autónoma en cuyo territorio se
+efectúe el suministro. No resultan vinculantes, entre otras, las decisiones de las
+organizaciones de consumidores, de las oficinas municipales de consumo. Todo ello
+sin perjuicio de la posibilidad de defender sus derechos ante los Juzgados y
+Tribunales, si así lo estima necesario.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente resolución al reclamante y reclamado.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/4
+
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

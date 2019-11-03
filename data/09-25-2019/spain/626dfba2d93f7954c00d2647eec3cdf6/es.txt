@@ -1,0 +1,216 @@
+1/5
+
+Procedimiento Nº: PS/00350/2018
+RESOLUCIÓN DE PROCEDIMIENTO SANCIONADOR
+Del procedimiento instruido por la Agencia Española de Protección de Datos ante Don
+A.A.A., en virtud de reclamación presentada por Doña B.B.B. (en adelante, la
+reclamante) y en base a los siguientes:
+ANTECEDENTES
+PRIMERO: La reclamación interpuesta por el reclamante tiene entrada con fecha 14
+de mayo de 2018 en la Agencia Española de Protección de Datos. La reclamación se
+dirige contra A.A.A., vecino de la reclamante por los siguientes motivos que son
+expuestos en el escrito remitido a este organismo.
+“Me dirijo a la sede para interponer denuncia contra mi vecino (…) ha instalado
+una cámara de video-vigilancia en la esquina de la cornisa debajo del tejado en la
+parte trasera de su vivienda por el lugar y ángulo dónde la instalado afecta a parte de
+mi vivienda” (folio nº 1).
+Junto a la reclamación aporta prueba documental (fotografías) que permiten
+apreciar la presencia de un dispositivo en la vivienda colindante a la suya.
+SEGUNDO: A la vista de los datos conocidos, la Subdirección General de Inspección
+de Datos procedió a la realización de actuaciones previas de investigación para el
+esclarecimiento de los hechos en cuestión, de conformidad con la potestad reconocida
+en el art. 58.1 del Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo
+de 27 de abril de 2016 relativo a la protección de las personas físicas en lo que
+respecta al tratamiento de datos personales y a la libre circulación de estos datos y por
+el que se deroga la Directiva 95/46/CE (Reglamento General de Protección de Datos)
+(en adelante, RGPD).
+Como resultado de las actuaciones de inspección practicadas, se ha tenido
+conocimiento de los siguientes extremos: instalación de un sistema de video-vigilancia
+por parte del vecino de la localidad referenciado, pudiendo afectar alguna de ellas a la
+propiedad de la vecina colindante.
+TERCERO: Con fecha 14 de noviembre de 2018, la Directora de la Agencia Española
+de Protección de Datos acordó iniciar procedimiento sancionador al reclamado, por la
+presunta infracción del artículo 5 del RGPD, infracción sujeta a los poderes correctivos
+de cada autoridad de control, sancionada en el artículo 83.5 del RGPD y calificada de
+muy grave al afectar a los principios relativos al tratamiento.
+[
+A la vista de todo lo actuado, por parte de la Agencia Española de Protección de Datos
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/5
+
+en el presente procedimiento se consideran hechos probados los siguientes,
+
+HECHOS PROBADOS
+PRIMERO: En fecha 14/05/2018 se recibe en este organismo Denuncia de la
+afectada, trasladando la presencia de una cámara de video-vigilancia que
+presuntamente puede afectar a su espacio privativo sin causa justificada.
+Junto con la denuncia aporta diversas fotografías que acreditan la instalación
+de cámaras de video-vigilancia en la parcela contigua a la suya.
+SEGUNDO: Costa acreditado como principal responsable de la instalación de la
+cámara Don A.A.A., el cual no niega los hechos, manifestando que ha procedido a
+instalar diversas cámaras en su propiedad “por motivos de seguridad” debido a
+diversos robos acontecidos en la zona.
+TERCERO: El sistema de cámaras de video-vigilancia se encuentra instalado en la
+vivienda del denunciado referenciado ***DIRECCION.1, estando compuesto por varias
+cámaras, sin que el sistema se mantenga operativo.
+CUARTO: Consta acreditado la disponibilidad de cartel (es) informativo advirtiendo de
+que se trata de una zona video-vigilada.
+QUINTO: Consta acreditado que la cámara más cercana a la vivienda de la
+denunciante, no se encuentra orientada hacia su vivienda, sino hacia la propiedad
+privada del denunciado, en concreto hacia la zona de piscina.
+SEXTO: No consta acreditado la disponibilidad de imágenes del espacio privativo
+colindante, ni afectación a derecho alguno de la parte denunciante.
+FUNDAMENTOS DE DERECHO
+I
+En virtud de los poderes que el artículo 58.2 del RGPD reconoce a cada autoridad de
+control, y según lo establecido en el art. 47 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales (en
+lo sucesivo LOPDGDD), la Directora de la Agencia Española de Protección de Datos
+es competente para resolver este procedimiento.
+II
+Se imputa al reclamado la comisión de una infracción por vulneración del artículo 5 del
+RGPD, que señala que: “Los datos personales serán:
+c) adecuados, pertinentes y limitados a lo necesario en relación con los fines
+para los que son tratados («minimización de datos»);
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/5
+
+El artículo 4 apartado 2º de la Instrucción 1/2006 (AEPD) dispone lo siguiente:
+“Sólo se considerará admisible la instalación de cámaras o videocámaras
+cuando la finalidad de vigilancia no pueda obtenerse mediante otros medios que, sin
+exigir esfuerzos desproporcionados, resulten menos intrusivos para la intimidad de las
+personas y para su derecho a la protección de datos de carácter personal”.
+III
+Sin perjuicio de lo establecido en el artículo 83.5, apartados a) y b), del RGPD, en su
+art. 58.2 b) dispone la posibilidad de sancionar con apercibimiento, en relación con lo
+señalado en el Considerando 148:
+“En caso de infracción leve, o si la multa que probablemente se impusiera
+constituyese una carga desproporcionada para una persona física, en lugar de
+sanción mediante multa puede imponerse un apercibimiento. Debe no obstante
+prestarse especial atención a la naturaleza, gravedad y duración de la infracción, a su
+carácter intencional, a las medidas tomadas para paliar los daños y perjuicios sufridos,
+al grado de responsabilidad o a cualquier infracción anterior pertinente, a la forma en
+que la autoridad de control haya tenido conocimiento de la infracción, al cumplimiento
+de medidas ordenadas contra el responsable o encargado, a la adhesión a códigos de
+conducta y a cualquier otra circunstancia agravante o atenuante.”
+IV
+En el caso que nos ocupa, los hechos denunciado no son negados por la parte
+denunciada, si bien acredita que las cámaras instaladas en su propiedad privada lo
+son por motivos legales “protección del inmueble y sus moradores”, así como que en
+ningún caso se está invadiendo el espacio privativo de la parte denunciada.
+Las alegaciones esgrimidas, junto con las pruebas aportadas (fotografías nº 1,
+2, 3 y 4) permiten constatar que no se está afectado a la propiedad privada de la
+denunciante.
+La instalación de un sistema de video-vigilancia por parte de particulares no
+está prohibido en el seno de nuestro ordenamiento jurídico, quedando a su libertad el
+tipo de sistema a instalar, así como si quiere o no mantenerlo operativo o en que
+momento conectarlo.
+Es responsabilidad exclusiva del titular del sistema velar por que el mismo se
+ajuste a los requisitos que establecen las disposiciones vigentes, sin que tenga que
+dar a conocer a los vecinos (as) las características del mismo o la ubicación del
+conjunto de cámaras instaladas.
+Basta con que cuente con un “dispositivo informativo” indicando que se trata de
+una zona video-vigilada y que las cámaras estén orientadas preferentemente hacia su
+espacio privativo o en caso de zonas comunes (pared medianera) de manera
+proporcionada a la finalidad del sistema, afectando lo mínimamente posible a los
+vecinos colindantes en su espacio privado.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/5
+
+La cámara más próxima a la casa de la denunciante está en todo caso
+orientada hacia la zona de piscina del denunciando, por lo que la mera visualización
+de la misma no implica afectación a espacio privativo ajeno.
+A mayor abundamiento cabe destacar la plena colaboración del denunciado
+con este organismo, ofreciéndose, en caso de ser necesario, a examinar in situ el
+sistema de cámaras de video-vigilancia instalado.
+V
+El principio de presunción de inocencia impide imputar una infracción administrativa
+cuando no se haya obtenido y constatado una prueba de cargo acreditativa de
+los hechos que motivan la imputación o de la intervención en los mismos del presunto
+infractor. Aplicando el principio “in dubio pro reo” en caso de duda respecto de un
+hecho concreto y determinado, que obliga en todo caso a resolver dicha duda del
+modo más favorable al interesado.
+La presunción de inocencia debe regir sin excepciones en el ordenamiento
+sancionador y ha de ser respetada en la imposición de cualesquiera sanciones, pues
+el ejercicio del ius puniendi en sus diversas manifestaciones está condicionado al
+juego de la prueba y a un procedimiento contradictorio en el que puedan defenderse
+las propias posiciones. En tal sentido, el Tribunal Constitucional en su Sentencia
+76/1990, de 26/04, considera que el derecho a la presunción de inocencia comporta:
+“que la sanción esté basada en actos o medios probatorios de cargo o incriminadores
+de la conducta reprochada; que la carga de la prueba corresponda a quien acusa, sin
+que nadie esté obligado a probar su propia inocencia; y que cualquier insuficiencia en
+el resultado de las pruebas practicadas, libremente valorado por el órgano
+sancionador, debe traducirse en un pronunciamiento absolutorio.
+La presunción de inocencia rige sin excepciones en el Ordenamiento
+sancionador y ha de ser respetada en la imposición de cualquier sanción, ya sea penal
+o administrativa (TCo 13/1981), pues el ejercicio del derecho sancionador en
+cualquiera de sus manifestaciones, está condicionado al juego de la prueba y a un
+procedimiento contradictorio en el que puedan defenderse las propia posiciones.
+Conforme a este principio, no puede imponerse sanción alguna en razón de la
+culpabilidad del imputado si no existe una actividad probatoria de cargo, que en la
+apreciación de las autoridades u órganos llamados a resolver, destruya esta
+presunción (TCo Auto 3-12-81).
+VI
+De acuerdo con lo expuesto, no queda acreditada la comisión de infracción
+administrativa alguna, obedeciendo la instalación del sistema a motivos de seguridad
+del inmueble del denunciado, sin que el mismo afecte a derecho alguna de la vecina
+colindante.
+Por todo ello se acuerda ordenar el Archivo del presente procedimiento por los
+motivos ampliamente expuestos anteriormente.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/5
+
+Por lo tanto, de acuerdo con la legislación aplicable y valorados los criterios de
+graduación de las sanciones cuya existencia ha quedado acreditada,
+la Directora de la Agencia Española de Protección de Datos RESUELVE:
+PRIMERO: PROCEDER a decretar el ARCHIVO del presente procedimiento al no
+quedar acreditada la comisión de infracción administrativa alguna en el marco de la
+normativa vigente de protección de datos.
+SEGUNDO: NOTIFICAR la presente resolución a Don A.A.A. y, conforme al art. 77.2
+del RGPD, INFORMAR al reclamante sobre el resultado de la reclamación.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa conforme al art. 114.1 c) de
+la LPACAP, y de acuerdo con lo establecido en el artículo 123 de la LPACAP, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

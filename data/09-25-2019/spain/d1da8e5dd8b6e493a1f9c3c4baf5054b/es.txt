@@ -1,0 +1,173 @@
+1/4
+
+Procedimiento nº.: PS/00011/2019
+194-100519
+
+Recurso de Reposición Nº RR/00567/2019
+Examinado el recurso de reposición interpuesto por XFERA MÓVILES, S.A.
+contra la resolución dictada por la Directora de la Agencia Española de Protección de
+Datos en el procedimiento sancionador PS/00011/2019, y en base a los siguientes
+HECHOS
+PRIMERO: Con fecha 24 de junio de 2019, se dictó resolución por la Directora de la
+Agencia Española de Protección de Datos en el procedimiento sancionador
+PS/00011/2019, en virtud de la cual se impone a XFERA MÓVILES, S.A. (YOIGO) con
+NIF A82528548, una infracción del artículo 5.1 d) del RGPD, tipificada en el artículo
+83.5 del RGPD, con una multa de 60.000,00 € (sesenta mil euros).
+Dicha resolución, que fue notificada al recurrente en fecha 30 de junio de 2019,
+fue dictada previa la tramitación del correspondiente procedimiento sancionador, de
+conformidad con lo dispuesto en la LOPDPGDD, y supletoriamente en la Ley 39/2015,
+de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones
+Públicas (en adelante, LPACAP), en materia de tramitación de procedimientos
+sancionadores.
+SEGUNDO: Como hechos probados del citado
+PS/00011/2019, quedó constancia de los siguientes:
+
+procedimiento
+
+sancionador,
+
+1.La notificación de requerimiento de pago fue llevada a cabo con fecha
+14 de agosto de 2018 por Xfera Móviles (Yoigo), en la que se reclamaba el pago de la
+deuda contraída por la reclamante por importe de XXX euros y se advertía de que sus
+datos podrían incluirse en ficheros de solvencia patrimonial y de crédito de mantenerse
+la situación de impago, dando un plazo de 15 días para que regularizara la situación.
+2.Transferencia realizada por la reclamante el 24 de agosto de 2018 a
+Xfera Móviles (Yoigo) por un importe de XXX euros, y remisión del justificante de pago
+de la operación realizada al reclamado, en la misma fecha.
+3.Fecha de alta y baja en Badexcug por Xfera Móviles, S.A. 26 de agosto
+y 2 de septiembre de 2018.
+4.Experian, en su escrito de fecha 5 de diciembre de 2018, manifiesta que
+a fecha de hoy no hay ningún dato de Dña. A.A.A., en el fichero de Badexcug.
+5.Se notifica a Xfera Móviles, S.A. con fecha 9 de octubre de 2018, la
+reclamación efectuada por la reclamante a esta Agencia. El día 20 del mes siguiente,
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/4
+
+se reitera dicha notificación. No habiendo contestado dicha entidad a dichos
+requerimientos.
+TERCERO: XFERA MÓVILES, S.A. (en lo sucesivo, el recurrente), con fecha 1 de
+agosto de 2019, ha presentado recurso de reposición ante esta Agencia Española de
+Protección de Datos, en el que muestra su disconformidad con la resolución,
+reiterando los argumentos expuestos en su escrito de alegaciones al Acuerdo de Inicio
+del presente procedimiento sancionador.
+FUNDAMENTOS DE DERECHO
+I
+Es competente para resolver el presente recurso la Directora de la Agencia
+Española de Protección de Datos, de conformidad con lo dispuesto en el artículo 48.1
+de la LOPDPGDD.
+II
+El artículo 124 de la LPACAP establece el plazo de un mes para la interposición
+del recurso de reposición, si el acto fuera expreso. Por su parte, en el artículo 119 de
+la misma Ley se dispone que la resolución del recurso estimará, en todo o en parte, o
+desestimará las pretensiones formuladas en el mismo, o declarará su inadmisión.
+En el presente caso, la resolución de la Directora de la Agencia Española de
+Protección de Datos de fecha 24 de junio de 2019, fue notificada al recurrente en
+fecha 30 de junio del mismo mes y año, y el recurso de reposición fue presentado en
+fecha 1 de agosto de 2019. Por lo tanto, se plantea la extemporaneidad del citado
+recurso.
+Para fijar el “dies a quo” hay que estar a lo dispuesto en el artículo 30 de la
+LPACAP, en virtud del cual el cómputo inicial se ha de realizar en este caso desde el 1
+de julio de 2019, y ha de concluir el día 30 del mismo mes y año.
+En este sentido la Sentencia de la Audiencia Nacional de 22/05/2005, recuerda
+la doctrina de la Sala Tercera del Tribunal Supremo (Sentencias de 4/04/1998,
+13/02/1999 y 3/06/1999, 4/07/2001 y 9/10/2001, y 27/03/2003) en virtud de la cual,
+cuando se trata de un plazo de meses, el cómputo ha de hacerse según el artículo 5
+del Código Civil al que se remite el artículo 185.1 de la Ley Orgánica 6/1985, de 1 de
+julio, del Poder Judicial, es decir, de fecha a fecha, para lo cual, si bien se inicia al día
+siguiente, concluye el día correlativo al de la notificación del mes que corresponda.
+Concluye la Sentencia citada de 22/05/2005, que ello no es contrario a lo
+principios de “favor actioni” y “pro actione”, ya que ambos tienen como límite, que no
+es posible desconocer lo establecido en la Ley.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/4
+
+III
+Debido a razones de funcionamiento del órgano administrativo, por ende no
+atribuibles al recurrente, hasta el día de la fecha no se ha emitido el preceptivo
+pronunciamiento de esta Agencia respecto a la pretensión del interesado.
+De acuerdo con lo establecido en el art. 24 de la Ley 39/2015, de 1 de octubre,
+del Procedimiento Administrativo Común de las Administraciones Públicas (LPACAP)
+el sentido del silencio administrativo en los procedimientos de impugnación de actos y
+disposiciones es desestimatorio.
+Con todo, y a pesar del tiempo transcurrido, la Administración está obligada a
+dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que
+sea su forma de iniciación, según dispone el art. 21.1 de la citada LPACAP. Por tanto,
+procede emitir la resolución que finalice el procedimiento del recurso de reposición
+interpuesto.
+IV
+En consecuencia, la interposición de recurso de reposición en fecha 1 de
+agosto de 2019 supera el plazo de interposición establecido legalmente, por lo que
+procede inadmitir dicho recurso por extemporáneo.
+Vistos los preceptos citados y demás de general aplicación,
+la Directora de la Agencia Española de Protección de Datos RESUELVE:
+PRIMERO: INADMITIR el recurso de reposición interpuesto por XFERA MÓVILES,
+S.A. contra la Resolución de esta Agencia Española de Protección de Datos dictada
+con fecha 24 de junio de 2019, en el procedimiento sancionador PS/00011/2019.
+SEGUNDO: NOTIFICAR la presente resolución a la entidad XFERA MÓVILES, S.A..
+TERCERO: Comunicar al sancionado que la sanción impuesta deberá hacerla efectiva
+una vez sea ejecutiva la presente resolución, de conformidad con lo dispuesto en el
+artículo 98.1.b) de la ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas, en el plazo de pago voluntario que señala el
+artículo 68 del Reglamento General de Recaudación, aprobado por Real Decreto
+939/2005, de 29 de julio, en relación con el art. 62 de la Ley 58/2003, de 17 de
+diciembre, mediante su ingreso en la cuenta restringida nº ES00 0000 0000 0000 0000
+0000, abierta a nombre de la Agencia Española de Protección de Datos en el Banco
+CAIXABANK, S.A. o en caso contrario, se procederá a su recaudación en período
+ejecutivo.
+Recibida la notificación y una vez ejecutiva, si la fecha de ejecutividad se
+encuentra entre los días 1 y 15 de cada mes, ambos inclusive, el plazo para efectuar el
+pago voluntario será hasta el día 20 del mes siguiente o inmediato hábil posterior, y si
+se encuentra entre los días 16 y último de cada mes, ambos inclusive, el plazo del
+pago será hasta el 5 del segundo mes siguiente o inmediato hábil posterior.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/4
+
+De conformidad con lo establecido en el artículo 50 de la LOPDPGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa conforme al art.
+48.6 de la LOPDPGDD, y de acuerdo con lo establecido en el artículo 123 de la Ley
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas (LPACAP), los interesados podrán interponer recurso
+contencioso-administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Finalmente, se señala que conforme a lo previsto en el art. 90.3 a) LPACAP, se
+podrá suspender cautelarmente la resolución firme en vía administrativa si el
+interesado manifiesta su intención de interponer recurso contencioso-administrativo.
+De ser éste el caso, el interesado deberá comunicar formalmente este hecho mediante
+escrito dirigido a la Agencia Española de Protección de Datos, presentándolo a través
+del Registro Electrónico de la Agencia [https://sedeagpd.gob.es/sede-electronicaweb/], o a través de alguno de los restantes registros previstos en el art. 16.4 de la
+citada LPACAP. También deberá trasladar a la Agencia la documentación que acredite
+la interposición efectiva del recurso contencioso-administrativo. Si la Agencia no
+tuviese conocimiento de la interposición del recurso contencioso-administrativo en el
+plazo de dos meses desde el día siguiente a la notificación de la presente resolución,
+daría por finalizada la suspensión cautelar.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

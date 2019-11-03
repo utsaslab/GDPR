@@ -1,0 +1,316 @@
+1/6
+
+Procedimiento Nº: E/07206/2019
+940-0419
+
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de
+Datos y teniendo como base los siguientes
+HECHOS
+PRIMERO: La reclamación interpuesta por A.A.A. (en adelante, el reclamante) tiene
+entrada con fecha 25/10/2018 en la Agencia Española de Protección de Datos y se
+dirige contra B.B.B., ***PUESTO.1 de Librilla, (en adelante, la reclamada) de unos
+cinco mil habitantes.
+Los motivos en que basa la reclamación son que en la página de FACEBOOK
+de la policía local de Librilla aparece un comentario hecho por la reclamada junto a
+una fotografía que afecta a sus datos de carácter personal.
+El tenor de lo expuesto fue: “A Alguno se le ha olvidado que lleva un año en
+baja sin trabajar porque dice está enfermo, y que a trabajar por el pueblo no va, pero a
+las fiestas se apunta el primero”. Finaliza indicando que es empleado municipal y el
+día 7/10/2018 acudió invitado una celebración del patrón de la Policía Local. Informa
+que llevaba de baja médica más de un año y que no lo sabía casi nadie.
+Finaliza indicando que el comentario, además de vejatorio, ha causado
+ansiedad a sus padres y se ha divulgado por todo el pueblo.
+Junto a la reclamación aporta.
+1) En la página de FACEBOOK, impresa el 24/10/2018, se ve en la parte de
+arriba:
+“B.B.B.” escribe “cuando nos montamos una fiesta entre “coleguis” diciendo
+que es “oficial” pero que el ayuntamiento no ha organizado, invitamos a los “compis”, y
+a alguno se le ha olvidado que lleva un año en baja sin trabajar porque dice que está
+“enfermo”, y que a trabajar para el pueblo no va, pero a las fiestas se apunta el
+primero. Madre mía que mala es la ***PUESTO.1, que dice las cosas tal y como las
+piensa”
+Debajo, una fotografía en la que trece personas alrededor de una mesa en un
+comedor posan para la foto. Entre esas personas, el reclamante, que para la
+reclamación se señala anotando a mano quien es el.
+2) Nombramiento en boletín oficial de “personal de oficios” del Ayuntamiento
+de Librilla.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/6
+
+3) Informes asistenciales médicos, apreciándose que el cumplimiento de un
+año desde la fecha de baja de su enfermedad se cumplió el XX/XX/XXXX.
+SEGUNDO: Por la AEPD se remitió a la reclamada el 5/12/2018 un
+siguiente tenor:
+
+escrito del
+
+“A la atención del responsable del tratamiento o de su Delegado de Protección
+de Datos,
+De conformidad con art. 9.4 del Real Decreto-ley 5/2018 (BOE 30/07/2018) le
+traslado la reclamación presentada por A.A.A. para que analice dicha reclamación y le
+comunique al reclamante la decisión que adopte al respecto.
+Asimismo, en el plazo de un mes desde la recepción de este escrito deberá
+remitir a esta Agencia la siguiente información:
+1.
+
+Copia de las comunicaciones, de la decisión adoptada que haya
+remitido al reclamante a propósito del traslado de esta reclamación, y
+acreditación de que el reclamante ha recibido la comunicación de esa
+decisión.
+
+2.
+
+Informe sobre las causas que han motivado la incidencia que ha
+originado la reclamación
+
+3.
+
+Informe sobre las medidas adoptadas para evitar que se produzcan
+incidencias similares.
+
+4.
+
+Cualquier otra que considere relevante.”
+
+La reclamada recibió el escrito el 10/12/2018 sin recibirse respuesta.
+TERCERO: Con fecha 12/02/2019, la Directora de la Agencia Española de Protección
+de Datos acordó admitir a trámite la reclamación presentada por el reclamante.
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5 /12, de Protección de Datos Personales y garantía de los
+derechos digitales (en lo sucesivo LOPDGDD), es competente para resolver estas
+actuaciones de investigación la Directora de la Agencia Española de Protección de
+Datos.
+II
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/6
+
+De acuerdo con las manifestaciones del reclamante, la ***PUESTO.1 ha
+difundido a terceros datos de salud, los suyos, por lo que ha tratado en forma de
+difusión a terceros sus datos sin su consentimiento, que requerirían la cualificación
+del consentimiento como “expreso”.
+Del RGPD conviene definir:
+Artículo 4
+A efectos del presente Reglamento se entenderá por:
+1) «datos personales»: toda información sobre una persona física identificada o
+identificable («el interesado»); se considerará persona física identificable toda
+persona cuya identidad pueda determinarse, directa o indirectamente, en particular
+mediante un identificador, como por ejemplo un nombre, un número de identificación,
+datos de localización, un identificador en línea o uno o varios elementos propios de la
+identidad física, fisiológica, genética, psíquica, económica, cultural o social de dicha
+persona;
+2) «tratamiento»: cualquier operación o conjunto de operaciones realizadas sobre
+datos personales o conjuntos de datos personales, ya sea por procedimientos
+automatizados o no, como la recogida, registro, organización, estructuración,
+conservación, adaptación o modificación, extracción, consulta, utilización,
+comunicación por transmisión, difusión o cualquier otra forma de habilitación de
+acceso, cotejo o interconexión, limitación, supresión o destrucción;
+6) «fichero»: todo conjunto estructurado de datos personales, accesibles con
+arreglo a criterios determinados, ya sea centralizado, descentralizado o repartido de
+forma funcional o geográfica;
+7) «responsable del tratamiento» o «responsable»: la persona física o jurídica,
+autoridad pública, servicio u otro organismo que, solo o junto con otros, determine los
+fines y medios del tratamiento; si el Derecho de la Unión o de los Estados miembros
+determina los fines y medios del tratamiento, el responsable del tratamiento o los
+criterios específicos para su nombramiento podrá establecerlos el Derecho de la
+Unión o de los Estados miembros;
+15) «datos relativos a la salud»: datos personales relativos a la salud física o mental
+de una persona física, incluida la prestación de servicios de atención sanitaria, que
+revelen información sobre su estado de salud;
+La noticia distingue entre fiesta oficial, fiesta no organizada por el
+Ayuntamiento, a la cual responde parece ser la de la noticia, y que fue invitado el
+reclamante. En cuanto a dato personal identificativo, en esta ocasión no se menciona
+ni identifica por algún indicativo, referencia, ni directa ni indirectamente al reclamante.
+Es un pueblo de pequeño tamaño, y considera el reclamante que solo la persona que
+firma el escrito en FACEBOOK era la única que conocía su situación.
+Siguiendo la STC 292/2000, de 30/11, debe afirmarse que el derecho
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/6
+
+fundamental a la protección de datos, consagrado en el artículo 18.4 de la
+Constitución Española, a diferencia del derecho a la intimidad del art. 18.1 CE , con
+quien comparte el objetivo de ofrecer una eficaz protección constitucional de la vida
+privada personal y familiar, excluyendo del conocimiento ajeno y de las intromisiones
+de terceros en contra de su voluntad, persigue garantizar a esa persona un poder de
+control sobre sus datos personales, sobre su uso y destino, con el propósito de
+impedir su tráfico ilícito y lesivo para la dignidad y derechos del afectado.
+Por lo que atañe al derecho a la libertad de expresión, a la luz de la doctrina
+del Tribunal Constitucional SSTC 23/2010, de 27/04 , y 9/2007, de 15/01 consagrado
+en el artículo 20 de la Constitución, comprende, junto a la mera expresión de
+pensamientos, creencias, ideas, opiniones y juicios de valor, la crítica de la conducta
+de otro, aun cuando la misma sea desabrida y pueda molestar, inquietar o disgustar
+a quien se dirige, pues así lo requieren el pluralismo, la tolerancia y el espíritu de
+apertura, sin los cuales no existe sociedad democrática.
+La libertad de expresión es más amplia que la libertad de información al no
+operar en el ejercicio de aquélla el límite interno de veracidad que es aplicable a
+ésta, lo que se justifica en que tiene por objeto presentar ideas, opiniones o juicios de
+valor subjetivos que no se prestan a una demostración de su exactitud, ni por su
+naturaleza abstracta son susceptibles de prueba, y no a sentar hechos o afirmar
+datos objetivos. No obstante, tal diferencia no impide afirmar que ambos constituyen
+derechos individuales que ostentan todas las personas físicas y que pueden ser
+ejercidos a través de la palabra, el escrito o cualquier otro medio de reproducción, sin
+perjuicio de que cuando tales libertades son ejercidas por profesionales de la
+información a través de un vehículo institucionalizado de formación de la opinión
+pública, su grado de protección alcance su máximo nivel STC 165/1987, de 27/10.
+En definitiva, el reconocimiento de la libertad de expresión garantiza el
+desarrollo de una comunicación pública libre que permita la libre circulación de ideas
+y juicios de valor inherente al principio de legitimidad democrática. En este sentido,
+merece especial protección constitucional la difusión de ideas que colaboren a la
+formación de la opinión pública y faciliten que el ciudadano pueda formar libremente
+sus opiniones y participar de modo responsable en los asuntos públicos.
+Todas las libertades reconocidas en el precepto tienen su límite en el derecho
+al honor, a la intimidad, a la propia imagen y a la protección de la juventud y de la
+infancia, que cumplen una "función limitadora" en relación con dichas libertades.
+III
+En sentencias de 8/05/2009 -recurso nº. 514/2007, 4/04/2014 -recurso nº.
+528/2012, entre otras, ha venido declarando que las opiniones respecto de una
+determinada persona no pueden considerarse datos personales, y quedan al margen
+de la protección de la LOPD. En efecto, como dijimos en la Sentencia de
+22/01/2010,- recurso nº. 260/2009 -, la LOPD <<exige para desplegar sus efectos
+protectores que estemos en presencia de datos de carácter personal. Y las opiniones
+y valoraciones que se realizan sobre una persona no son datos personales en el
+sentido expresado en la Ley. El artículo 3 a) LOPD define los datos de carácter
+personal como "cualquier información concerniente a personas físicas identificadas o
+identificables" y por información hemos de entender la puesta en conocimiento de
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/6
+
+hechos de naturaleza objetiva referidos a una persona pero no las opiniones o juicios
+que puedan realizarse sobre ella ya que estas opiniones o juicios conllevan siempre
+una estimación subjetiva y por tanto cuestionable>> . De la sentencia de la Audiencia
+Nacional, sala de lo contencioso-administrativo, sección 1ª, de 4/04/2014, recurso nº.
+528/2012, cabe destacar:
+“En su escrito de denuncia manifiesta que en una reunión en el centro de trabajo a
+la que asistían unas 20-25 personas, un directivo de la entidad denunciada emitió
+una serie de opiniones y juicios de valor referentes a las condiciones de su despido.
+En concreto, afirma que el citado directivo se refirió a que el despido se debió a que
+padecía una enfermedad mental según había manifestado el denunciante al
+departamento de recursos humanos a través de los informes médicos que facilitó.
+Segundo
+Lo que denuncia el Sr. Marcial en la demanda, en síntesis, es la transferencia
+a terceros, de manera no autorizada, de los datos personales que sobre su salud
+figuran tanto en determinados informes médicos como en correos electrónicos
+confidencialmente remitidos por el actor al Departamento de Recursos Humanos. Se
+ha de resolver, por tanto, si tal actuación podría dar lugar a iniciar un procedimiento
+sancionador, o al menos unas diligencias previas por posible vulneración de la Ley
+de Protección de Datos.
+Tercero:
+No obstante, y una vez escuchado el repetido CD esta Sala considera, al
+igual que entiende la Administración, y a pesar de lo argumentado en la demanda,
+que en la repetida reunión de trabajo y como consecuencia de las explicaciones,
+informaciones y observaciones efectuadas (ampliamente, y exclusivamente) por el
+Jefe del Departamento de tal recurrente, no se produce tratamiento ni cesión
+inconsentida alguna de datos personales del mismo ( artículos 6.1 y 11.1 de la
+LOPD).
+Lo anterior tomando en consideración, de un lado, que la información
+facilitada por el repetido jefe del departamento no va dirigida al público en general,
+sino a los trabajadores de la empresa, concretamente a los del Departamento de
+dicho Sr. Marcial . Y de otra parte que la información se comunica, tal y como
+manifiesta dicho jefe, para intentar hacer comprender a dichos trabajadores los
+motivos por los que el recurrente fue despedido de la empresa.
+En cualquier caso, y según se desprende del CD tantas veces citado, se trata
+fundamentalmente de comentarios y opiniones de dicho Directivo, y no de revelación
+de datos personales del recurrente. Así, se hace referencia al mal tono, longitud e
+improcedencia de determinados e-mails dirigidos por dicho actor a la empresa,
+algunos, al parecer, a altas horas de la madrugada, y también se indica, de soslayo,
+y entre otras consideraciones, que dicho recurrente pidió la baja por un problema
+psicológico o psiquiátrico.
+Constituye doctrina de la Sala (a partir de la SAN de 29-4-2009 Rec.
+514/2007 ) que las opiniones respecto de una determinada persona no pueden
+considerarse datos personales, y quedan al margen de la protección de la LOPD. Y
+ha de tomarse en consideración, en cualquier caso, que la posibilidad de iniciar
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/6
+
+actuaciones inspectoras es potestativa para el Director de la AEPD, que actúa
+siempre de oficio, con independencia de que el conocimiento de los hechos haya
+sido obtenido, o no, mediante una denuncia.
+Procede por ello, y sin necesidad de mayores consideraciones, dictar un
+pronunciamiento íntegramente desestimatorio de la demanda, con confirmación de la
+resolución de no incoación de actuaciones inspectoras y no iniciación de
+procedimiento sancionador dictada por la AEPD.”
+
+En el presente supuesto, no se hace mención de información que identifique
+al reclamante o le haga identificable. Además del tiempo transcurrido en baja, llevaba
+ya un año, no es descartable que otras personas del pueblo conocieran esta
+circunstancia. El comentario que efectúa no precisa la persona de que se trata y
+además, supone un comentario o juicio que no deriva de tratamiento de datos, sino
+una manifestación crítica sobre esa persona, subjetiva y cualificada por la posición
+del cargo que la realiza, pero que no atenta contra la normativa de protección de
+datos.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR
+RECLAMADA.
+
+la
+
+presente
+
+resolución
+
+al
+
+RECLAMANTE
+
+ya
+
+la
+
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1/10, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1/10, los interesados
+podrán interponer, potestativamente, recurso de reposición ante la Directora de la
+Agencia Española de Protección de Datos en el plazo de un mes a contar desde el
+día siguiente a la notificación de esta resolución o directamente recurso contencioso
+administrativo ante la Sala de lo Contencioso-administrativo de la Audiencia
+Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de la
+disposición adicional cuarta de la Ley 29/1998, de 13/07, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

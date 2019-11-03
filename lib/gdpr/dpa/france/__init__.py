@@ -42,7 +42,7 @@ class France(DPA):
         render_type = source['render_type']
 
         pagination = Pagination()
-        pagination.add_link(host + start_path)
+        pagination.add_item(host + start_path)
         # restart at page: 173
         # https://www.legifrance.gouv.fr/rechExpCnil.do;jsessionid=C2ACB9BBE6A225D186181BDAC22A13CD.tplgfr41s_3?reprise=true&fastReqId=1068661056&page=173
         folder_name = self.country.replace(' ', '-').lower()
@@ -118,6 +118,6 @@ class France(DPA):
             pagination_links = links_from_soup_service(results_soup, target_element=target_element['pagination'])
             for pagination_link in pagination_links:
                 page_url = pagination_link[1]
-                pagination.add_link(host + page_url)
+                pagination.add_item(host + page_url)
 
         return True

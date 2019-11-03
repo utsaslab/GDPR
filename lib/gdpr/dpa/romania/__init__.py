@@ -47,7 +47,7 @@ class Romania(DPA):
         root_path = path + '/' + folder_name
 
         pagination = Pagination()
-        pagination.add_link(host + start_path)
+        pagination.add_item(host + start_path)
 
         while pagination.has_next():
             page_url = pagination.get_next()

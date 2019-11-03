@@ -1,0 +1,301 @@
+1/7
+
+Procedimiento nº.: TD/00064/2019
+ASUNTO: Recurso de Reposición Nº RR/00466/2019
+
+Examinado el recurso de reposición interpuesto por GOOGLE LLC (GOOGLE
+SPAIN, S.L.) contra la resolución dictada por la Directora de la Agencia Española de
+Protección de Datos en el expediente TD/00064/2019, y en base a los siguientes
+HECHOS
+PRIMERO: Con fecha 10 de mayo de 2019, se dictó resolución por la Directora de la
+Agencia Española de Protección de Datos en el expediente TD/00064/2019, en la que
+se acordó estimar la reclamación formulada por D. A.A.A. contra GOOGLE LLC
+(GOOGLE SPAIN, S.L.) en relación a la URL 1.
+SEGUNDO: La resolución ahora recurrida fue notificada fehacientemente a GOOGLE
+LLC (GOOGLE SPAIN, S.L.) el 20 de mayo de 2019, según consta en el justificante de
+la notificación.
+TERCERO: El recurrente ha presentado recurso de reposición en fecha 20 de junio de
+2019, con entrada en esta Agencia el 20 de junio de 2019, en el que señala que, la
+URL disputada objeto de la estimación, remite a información de relevancia e interés
+público incuestionable, se trata de un Auto dictado por el Juzgado Central de
+Instrucción núm. 6 de la Audiencia Nacional en el que aparece el nombre del
+interesado. Los documentos fueron publicados, entre otros, por una plataforma que
+colaboran diversos medios de comunicación y diversas ONGs en defensa de la
+libertad de información.
+Que no se comparte la conclusión de esta Agencia en la que, fundamenta su
+resolución en la inexactitud de los hechos por el carácter de firmeza por el ***AUTO.1.
+Sin embargo, no es cierto que se haya decretado el archivo libre con carácter firme del
+procedimiento de la parte reclamante, sino que, como se desprende del propio Auto
+dictado hace poco más de un año, únicamente se ha decretado su sobreseimiento
+provisional.
+Que aún se pueden encontrar noticias periodísticas muy recientes sobre la
+investigación del ***ASUNTO.1, y tiene fecha de caducidad el 30 de marzo de 2022.
+Por tanto, no puede descartarse que en la fase de instrucción aparezcan nuevos
+indicios que motiven la reapertura del procedimiento frente a la parte reclamante.
+Precisamente en relación con informaciones sobre un procedimiento penal respecto
+del que posteriormente se había decretado el sobreseimiento provisional de las
+actuaciones, la Audiencia Nacional ha declarado que, el hecho de que posteriormente
+se decretara el sobreseimiento provisional de las actuaciones penales, no condiciona
+la protección de la libertad de información
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/7
+
+La negativa a bloquear la URL que la Resolución ahora impugnada ordena bloquear,
+está plenamente justificada en el interés legítimo de los internautas en acceder a la
+información que alude a la parte reclamante, ya que informa al público sobre el
+proceso penal en el marco de uno de los casos judiciales sobre corrupción política.
+Debido a la gravedad del delito por el que fue imputado el interesado, esta parte
+considera que la información publicada en la página web a la que remite la URL
+disputada presenta indudable interés público, y que los ciudadanos tienen un interés
+legítimo de acceso continuo, independientemente del resultado del proceso penal. Esa
+información contribuye, sin duda, a generar confianza de la sociedad en el
+funcionamiento del sistema judicial.
+Asimismo, las informaciones disputadas están claramente referidas a la actividad
+profesional del interesado vinculado al ***ASUNTO.1.
+La Resolución impugnada es, asimismo, contradictoria con la doctrina fijada por el
+TJUE que establece la prevalencia del interés general frente a una solicitud de
+Cancelación.
+En consecuencia, a juicio de esta parte, a la vista de que los resultados cuyo bloqueo
+ordena esta Agencia remiten a informaciones que presentan especial relevancia
+pública, su bloqueo tendría un grave impacto en el interés legítimo de los internautas
+potencialmente interesados en acceder a esas informaciones. Se considera que el
+procesamiento de los datos personales concernientes a la parte reclamante, ni es
+contrario a la normativa en materia de protección de datos, ni podría ser considerado
+inadecuado, impertinente o excesivo en relación con los fines del tratamiento y el
+tiempo transcurrido.
+CUARTO: Con fecha 31/07/2019 se traslada la documentación presentada por
+GOOGLE a la parte reclamante para que en el plazo de diez días formule las
+alegaciones y presente los documentos y justificantes que estime procedentes.
+La parte reclamante señala en síntesis que, el ***AUTO.1, acuerda ciertamente
+el sobreseimiento provisional y archivo en relación con el investigado, y se atribuye
+una actividad que no se llevó a cabo, se exonera, por tanto, de cualquier delito,
+resultando firme al no caber recurso frente al mismo.
+No obsta a ello que el archivo sea provisional, puesto que se trata de una
+decisión encaminada a evitar el efecto de cosa juzgada, que impidiera reiniciar las
+actuaciones penales, en tanto no haya prescrito el delito. El Auto que acuerda el
+sobreseimiento provisional de unas determinadas actuaciones tiene al sobreseído
+como inocente a todos los efectos y no de acontecimientos que pudieran o no suceder
+en el futuro, sin una base fundamentada y si se diera esa situación, pues se vuelve a
+difundir.
+Que se está de acuerdo en las publicaciones de URLs opacas, siempre que no
+muestren datos personales, (domicilio, NIF, datos fiscales, etc., al divulgar sumarios de
+Instrucción completos) y que en pro a la libertad de información se divulguen sin
+ningún control.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/7
+
+Según la Sentencia de la Sala Tercera del Tribunal Supremo de 11 de enero de
+2019 con el mantenimiento de las URLs disputadas supone una desvalorización de la
+imagen reputacional que se revela injustificada por contradecir un Auto firme
+actualizado.
+Que el derecho al olvido encuentra su límite en la libertad de información. Por
+ello, cabe afirmar que la libertad de información prevalece sobre los derechos de la
+personalidad, cuando la noticia difundida por medios digitales es veraz y se refiere a
+hechos con relevancia pública, que son de interés general.
+Con el auto de sobreseimiento, la Audiencia Nacional reconoce una actividad
+que no se llevó a cabo. No se cuestiona la relevancia del procedimiento judicial, sino
+que, el nombre no tenga que estar invocado a dicho procedimiento en los resultados
+de búsqueda y el buscador, Google como entidad que gestiona servicios de
+tratamiento de datos digitalizados también está obligada a preservar el derecho
+fundamental a la vida privada de las personas afectadas.
+FUNDAMENTOS DE DERECHO
+I
+Es competente para resolver el presente recurso la Directora de la Agencia
+Española de Protección de Datos, de conformidad con lo dispuesto en el artículo 123
+de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas (en lo sucesivo LPACAP).
+II
+Debido a razones de funcionamiento del órgano administrativo, por ende no
+atribuibles al recurrente, hasta el día de la fecha no se ha emitido el preceptivo
+pronunciamiento de esta Agencia respecto a la pretensión del interesado.
+De acuerdo con lo establecido en el art. 24 de la Ley 39/2015, de 1 de octubre,
+del Procedimiento Administrativo Común de las Administraciones Públicas (LPACAP)
+el sentido del silencio administrativo en los procedimientos de impugnación de actos y
+disposiciones es desestimatorio.
+Con todo, y a pesar del tiempo transcurrido, la Administración está obligada a
+dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que
+sea su forma de iniciación, según dispone el art. 21.1 de la citada LPACAP. Por tanto,
+procede emitir la resolución que finalice el procedimiento del recurso de reposición
+interpuesto.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/7
+
+III
+Antes de entrar en analizar las manifestaciones efectuadas por las partes, cabe
+señalar que, el sobreseimiento provisional es un archivo temporal de la causa, lo que
+significa que puede volverse abrir si aparecieran nuevos indicios al proceso que este a
+un abierto. Por lo tanto, no se da la situación de cosa juzgada como sucede en el caso
+del sobreseimiento libre o definitivo, por ello, podría darse el caso de volver a estar
+inmerso en la causa que aun esta abierta, en el caso que aparecieran nuevos
+elementos en la investigación.
+Por consiguiente, no se puede descartar que en la fase actual de instrucción en
+el caso en cuestión que, aparezcan nuevos indicios que requieran la reapertura o
+integración en el procedimiento de la parte reclamante y dado que, el sobreseimiento
+provisional puede durar incluso mientras no prescriba el delito, no procede tener en
+cuenta en esta resolución ahora recurrida, la reciente Sentencia del Tribunal Supremo,
+Sala de lo Contencioso Administrativo de 11 de enero de 2019, dado que el auto de
+sobreseimiento provisional no tiene eficacia de Resolución firme.
+En consecuencia, no procede la exclusión de los datos personales de la parte
+reclamante del enlace reclamado a través de una búsqueda en Internet “que verse
+sobre el nombre de esa persona”, prevaleciendo el derecho a libertad de expresión e
+información frente a la protección de datos por considerar que se trata de una
+información que trasciende del ámbito personal al situarse en un contexto profesional
+que sigue siendo de interés general por no ser obsoleta.
+A mayor abundamiento, de conformidad con la Jurisprudencia del Tribunal
+Constitucional y el Tribunal Supremo, toda la información referida a un suceso de
+relevancia penal tiene por su propia naturaleza, interés público la información sobre los
+resultados positivos o negativos, especialmente si los delitos cometidos entrañan una
+cierta gravedad o han causado un impacto considerable en la opinión pública.
+Las publicaciones o enlaces a contenidos que formen parte de una campaña
+personal contra alguien, aunque las críticas puedan resultar moletas, desagradables,
+desabridas e hirientes, nada indica que no estén amparadas por la libertad de
+expresión y opinión de sus autores, frente a la protección de datos que, sin duda,
+contribuyen a la formación de una opinión pública sobre un ilícito penal, aun cuando
+las personas sobre las que se proyecta la noticia no ejerzan cargo público o político ni
+profesión de notoriedad pública, sino que, al estar relacionado con el suceso, el hecho
+noticiable le origina la proyección pública.
+En este sentido, se debe tener en cuenta la Sentencia de la Audiencia Nacional
+de fecha 11 de mayo de 2017, en la que se señala lo siguiente:
+«OCTAVO. Las anteriores consideraciones llevan a esta Sala a concluir que,
+contrariamente a lo apreciado por la Administración, la página cuyo bloqueo exige la
+resolución impugnada sí está amparada por el derecho fundamental a la libertad de
+expresión, en la medida en que consiste, esencialmente, en la crítica a la
+profesionalidad de un médico. Libertad de expresión del artículo 20 CE que
+comprende, como ya se ha indicado, junto a la mera expresión de pensamientos,
+creencias, opiniones y juicios de valor, la crítica de la conducta de otro, aun cuando la
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/7
+
+misma sea desabrida y pueda molestar, inquietar o disgustar a quien se dirige, pues
+así lo requieren el pluralismo, la tolerancia y el espíritu de apertura, sin los cuales no
+existe sociedad democrática.
+Libertad de expresión a cuyo ejercicio, como igualmente se ha indicado y
+reitera el Tribunal Constitucional, no es aplicable el límite interno de veracidad que sí
+es aplicable a la libertad de información.
+En definitiva, consideramos que en este caso ha de prevalecer el derecho de
+libertad de expresión sobre el derecho a la protección de datos personales del
+denunciante, y ello a pesar de que en la parte final del comentario se haga alusión a
+expresiones hirientes como: "Como se puede tener tanta desvergüenza?"... "el
+grandísimo timo que suponen algunos de estos personajillos "... "daría mi alma al
+diablo por encontrarme un día a ese sinvergüenza del doctor Edmundo, que no es
+más que un saca-perras para el que los pacientes no son más que chuchos..."
+Lo anterior en línea con la consolidada doctrina del Tribunal Constitucional a
+cuyo tenor ( STC 51/1989, de 22 de febrero por todas), la libertad de expresión
+prevalece aun cuando se emplean expresiones que aisladamente ofensivas, al ser
+puestas en relación con la información que se pretende comunicar o la situación en
+que tiene lugar la crítica, experimente una disminución de su significación ofensiva y
+sugieren un aumento de la tolerancia exigible aunque puedan no ser plenamente
+justificables.
+Doctrina en la que incide el Grupo de Trabajo del 29 (Guidelines on the
+Implementation of the Court of Justice of the European Union Judgment on "Google
+Spain and Inc v. AEPD and Mario Costeja C-131/12 ), al indicar que: las autoridades
+de protección de datos reconocen que algunos resultados de búsqueda pueden incluir
+enlaces a contenidos que pueden ser parte de una campaña personal contra alguien,
+consistente en criticas agresivas o comentarios personales desagradables. Aunque la
+disponibilidad de dicha información pueda ser hiriente o desagradable, esto no
+significa necesariamente que las autoridades de protección de datos deban considera
+que el resultado en cuestión deba ser bloqueado (de- listed).
+Libertad de expresión que asiste no solo al titular de la página web de origen
+sino también, en este caso, al buscador Google Inc. Ello tomando en consideración el
+carácter eminentemente profesional de los datos personales publicados, la relevancia
+pública, al menos en el ámbito sanitario, de la persona a la que se refieren dichos
+datos, a lo que debe añadirse que se trata de "opiniones" o "comentarios" vertidos en
+un foro de discusión más que de información concerniente a dicho
+afectado/denunciante (en ningún caso sujeta al límite interno de veracidad) y en
+definitiva, y sobre todo, que debe prevalecer el interés público, de los internautas y de
+los posibles futuros pacientes en conocer, respecto de un médico que continúa en
+activo, las experiencias y opiniones manifestadas por otros usuarios del mismo
+profesional.
+Todo ello dado que en definitiva, y como asimismo razona la STS (1ª)
+545/2015, de 15 de octubre , el llamado "derecho al olvido digital" que es una
+concreción en este campo de los derechos derivados de los requisitos de calidad del
+tratamiento de datos personales, no ampara que cada uno construya un pasado a su
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/7
+
+medida, obligando a los editores de páginas web o a los gestores de los motores de
+búsqueda a eliminar el tratamiento de sus datos personales cuando se asocian a
+hechos que no se consideran positivos.
+Tampoco justifica que aquellos que se exponen a si mismo públicamente
+puedan exigir que se construya un currículo a su gusto, controlando el discurso sobre
+sí mismos, eliminado de Internet las informaciones negativas, "posicionando" a su
+antojo los resultados de las búsquedas en Internet, de modo que los más favorables
+ocupen las primeras posiciones. De admitirse esta tesis, se perturbarían gravemente
+los mecanismos de información necesarios para que los ciudadanos adopten sus
+decisiones en la vida democrática de un país.»
+En este caso, dado que la información se refiere a la parte reclamante en su
+actividad de profesional y pública, se considera de interés para los ciudadanos, se
+entiende que, no constituye una injerencia en el derecho fundamental al respeto de la
+vida privada del interesado, por ello, en lo que respecta a la normativa de protección
+de datos, nos encontramos ante un tratamiento legitimado.
+En consecuencia, con lo expuesto, procede estimar este recurso de
+reposición, por lo que cambiar el sentido de la resolución ahora recurrida nº
+TD/00064/2019, en consecuencia, la Directora de la Agencia Española de Protección
+de Datos acuerda desestimar la reclamación del interesado en relación con el enlace:
+1
+
+***URL.1
+Vistos los preceptos citados y demás de general aplicación,
+la Directora de la Agencia Española de Protección de Datos RESUELVE:
+
+PRIMERO: ESTIMAR el recurso de reposición interpuesto por GOOGLE LLC
+(GOOGLE SPAIN, S.L.) contra la Resolución de esta Agencia Española de Protección
+de Datos dictada con fecha 10 de mayo de 2019, en el expediente TD/00064/2019.
+SEGUNDO: NOTIFICAR la presente resolución a GOOGLE LLC (GOOGLE SPAIN,
+S.L.) a D. A.A.A.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa, se podrá interponer
+en el plazo de dos meses a contar desde el día siguiente a la notificación de este acto
+según lo previsto en el artículo 46.1 de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-administrativa, recurso contencioso administrativo ante la
+Sala de lo Contencioso-administrativo de la Audiencia Nacional, con arreglo a lo
+dispuesto en el artículo 25 y en el apartado 5 de la disposición adicional cuarta del
+referido texto legal.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/7
+
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

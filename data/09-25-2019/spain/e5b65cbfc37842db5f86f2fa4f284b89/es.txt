@@ -1,0 +1,222 @@
+1/5
+
+812-0419
+
+Procedimiento Nº PS/00204/2019
+RESOLUCIÓN DE PROCEDIMIENTO SANCIONADOR
+En el procedimiento sancionador PS/00204/2019, instruido por la Agencia Española de
+Protección de Datos a D. A.A.A., (en adelante, “la persona reclamada”), en virtud de la
+reclamación presentada por D. B.B.B., (en adelante, “la persona reclamante”), y
+teniendo como base los siguientes:
+ANTECEDENTES
+PRIMERO: Con fecha 08/08/18, el reclamante presentó escrito ante la Agencia
+Española de Protección de Datos, en la que, entre otras, indica: “Recibo centenares
+de SMS de una línea de tarot para que los llame al ***TELEFONO.1 o al
+***TELEFONO.2, a veces de noche. He llamado a esos números para que dejen de
+enviarme spam, pero el 96 hay que dar un número de VISA para seguir hablando, y en
+el 806, he llamado tres veces, me dicen que no tienen medio de darme de baja, o
+simplemente me dejan la llamada en espera cuando les pido que dejen de enviarme
+publicidad. Llevo años sufriendo el SPAM de esta gente, aquí van los últimos
+mensajes, que no he borrado, de 26, 27 y 29 de julio, y 1, 2, 3, 4, 6. 7 de agosto. Me
+envían mensajes casi cada día. También les he dicho que estoy en la lista Robinson,
+pero ni caso”.
+SEGUNDO: A la vista de los hechos expuestos en la reclamación y de los documentos
+aportados por el reclamante, la Subdirección General de Inspección de Datos procedió
+a realizar actuaciones para su esclarecimiento, al amparo de los poderes de
+investigación otorgados a las autoridades de control en el ar 57.1 del Reglamento (UE)
+2016/679 (RGPD). Así, con fecha 31/10/18, se dirige escrito al reclamante donde se le
+informa que se admite a trámite la reclamación presentada contra las líneas
+telefónicas ***TELEFONO.1 y ***TELEFONO.2 fue expirada por caducidad, al
+superarse el plazo establecido para la comparecencia. Con fecha 14/11/18 y 23/01/19,
+se reitera escrito enviado al reclamante admitiendo a trámite la reclamación
+presentada contra las líneas telefónicas y solicitándole ampliación de denuncia.
+TERCERO: Con fecha 31/01/19 se recibe escrito del reclamante indicando, entre
+otras, que: adjunta los mensajes SMS recibidos desde el 15 de agosto (días 16, 17,
+22, 28 y 31), los SMS recibidos en septiembre (días, 3, 5, 7, 8, 10, 13, 18 y 28) los
+SMS recibidos en octubre (días 3, 4, 7, 9, 19 y 31, el 31 dos mensajes) y los SMS
+recibidos en noviembre (días 9, 12, 28 y 29, el 12 dos mensajes), indicando que no
+conserva todos los SMS, porque, aunque adjunta el último que recibió el 29 de enero.
+También adjunta capturas de pantalla del correo electrónico original de la Lista
+Robinson, cuando me di de alta, en 2009, y otra en que se puede ver el nombre y los
+números de teléfono que incluyó en la lista, entre ellos el número donde recibe el
+spam.
+CUARTO: Con fecha 26/02/19 se emite requerimiento de información a la entidad
+ORANGE ESPAGNE SAU, donde se solicita la titularidad de la línea de abonado nº
+***TELEFONO.1, en el periodo comprendido entre los días 26/07/18 y 29/01/19.
+También se realiza requerimiento a la entidad PREMIUM NUMBERS, S.L. sobre la
+titularidad de la línea de abonado de nº ***TELEFONO.2, en el mismo periodo.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/5
+
+QUINTO: Con fecha 28/02/19, la entidad PREMIUM NUMBERS SL informa a esta
+Agencia que el titular de la línea de abonado ***TELEFONO.2, es D. A.A.A., DNI
+***DNI.1 y domicilio en: ***DIRECCION.1, estando la línea activa a su nombre desde el
+19/10/16. Se adjunta el contrato firmado por el titular.
+SEXTO: Con fecha 12/03/19, ORANGE ESPAGNE SAU, informa a esta Agencia que,
+la titularidad de la numeración ***TELEFONO.1, se encuentra asignada PREMIUM
+NUMBERS, S.L. entre los días 26/07/2018 y 29/01/2019.
+SEPTIMO: Con fecha 14/03/19, se emite requerimiento a la entidad PREMIUN
+NUMBERS SL, donde se le solicita la titularidad de la línea de abonado de número
+***TELEFONO.1, en el periodo comprendido entre los días 26/07/18 y 29/01/19. Así,
+con fecha 21/03/19, se recibe contestación de la entidad PREMIUN NUMBERS SL
+indicando que el titular de dicho número es D. A.A.A., estando la línea activa a su
+nombre desde el 19/10/16 y adjuntando contrato firmado por el titular. Dicho número
+está asociado a un servicio de cobro por tarjeta de atención telefónica. se adjunta
+contrato firmado por el titular.
+OCTAVO: Con fecha 16/04/19, se emite requerimiento a la persona reclamada,
+indicándole que debe presentar, entre otra documentación, -documento acreditativo
+del consentimiento para la recepción de mensajes publicitarios en el número
+***TELEFONO.3 con titularidad del reclamante.
+NOVENO: Con fecha 23/05/19, la Directora de la Agencia Española de Protección de
+Datos acordó iniciar, procedimiento sancionador a la entidad reclamada, por presunta
+infracción del artículo 21.1) de la Ley 34/2002, de 11 de julio, de servicios de la
+sociedad de la información y de comercio electrónico (LSSI), que indica que: “Queda
+prohibido el envío de comunicaciones publicitarias o promocionales por correo
+electrónico u otro medio de comunicación electrónica equivalente que previamente no
+hubieran sido solicitadas o expresamente autorizadas por los destinatarios de las
+mismas”, tipificada como leve en el artículo 38.4.d) de la dicha norma y otorgándole un
+plazo de audiencia de diez días hábiles para que formulase las alegaciones y
+presentase las pruebas que considerase convenientes.
+DÉCIMO: Según certificado emitido por el Servicio de Correos, la notificación de la
+apertura de expediente sancionador, dirigida a D. A.A.A. en la dirección,
+***DIRECCION.1, ha resultado devuelta a origen, con la anotación de, “Ausente del
+Reparto”, el 08/06/19. Así las cosas, con fecha 17/06/19, se produce la publicación, en
+el Tablón Edictal Único del BOE, de la notificación del acuerdo de inicio del
+procedimiento sancionador PS/00204/2019, ante la imposibilidad de notificación en el
+domicilio.
+UNDÉCIMO: Notificado el acuerdo de inicio a la persona reclamada a través del
+Tablón Edictal Único del BOE, esto no presenta alegaciones a la incoación del
+expediente, en el periodo concedido al efecto.
+A la vista de todo lo actuado, por parte de la Agencia Española de Protección de Datos
+en el presente procedimiento se consideran hechos probados los siguientes,
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/5
+
+HECHOS PROBADOS
+1º.- El reclamante justifica que está incluido en la Lista Robinson desde el año 2009 y
+denuncia que recibe SMS de las líneas ***TELEFONO.1 y ***TELEFONO.2 desde
+hace muchos meses. Adjunta copia de los SMS recibidos: de los días 26, 27 y 29 de
+julio de 2018; de los días 1, 2, 3, 4, 6. 7, 16, 17, 22, 28 y 31 de agosto de 2018; de los
+días 3, 5, 7, 8, 10, 13, 18 y 28 de septiembre de 2018; de los días 3, 4, 7, 9, 19 y 31 de
+octubre de 2018 y de los días 9, 12, 28 y 29, de noviembre de 2018.
+3º ORANGE ESPAGNE SAU, informa a esta Agencia que la titularidad de la
+numeración ***TELEFONO.1 se encuentra asignada PREMIUM NUMBERS, S.L. entre
+los días 26/07/18 y 29/01/19.
+4º PREMIUM NUMBERS SL informa a esta Agencia que el titular de las líneas,
+***TELEFONO.2 y ***TELEFONO.1, en el periodo comprendido entre julio y
+noviembre de 2018, es D. A.A.A., con DNI ***DNI.1 y domicilio en: c/
+***DIRECCION.1.
+FUNDAMENTOS DE DERECHO
+I
+De conformidad con lo establecido en el art. 43.1, párrafo segundo, de la de la Ley
+34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio
+Electrónico (LSSI) es competente para resolver este Procedimiento Sancionador la
+Directora de la Agencia Española de Protección de Datos.
+II
+En el supuesto presente, de la información y documentación presentada por el
+reclamante, se ha podido constatar que ha recibido numerosos SMS de las líneas
+***TELEFONO.1 o al ***TELEFONO.2. En su denuncia declara que ha llamado a esos
+números para que dejen de enviarme spam, pero el 96*** hay que dar un número de
+VISA para seguir hablando, y en el 806***, ha llamado varias veces, y le contestan que
+no tienen medio de darle de baja, o le dejan en espera. Además de todo ello, el
+reclamante justifica que está incluido en la lista Robinson.
+III
+Los hechos expuestos suponen la comisión, por parte de la entidad reclamada, de una
+infracción del art 21.1 de LSSI, donde se indica que: “1. Queda prohibido el envío de
+comunicaciones publicitarias o promocionales por correo electrónico u otro medio de
+comunicación electrónica equivalente que previamente no hubieran sido solicitadas o
+expresamente autorizadas por los destinatarios de las mismas”, tipificada como “leve”
+en el artículo 38.4.d) de dicha norma, que califica como tal “El envío de
+comunicaciones comerciales por correo electrónico u otro medio de comunicación
+electrónica equivalente cuando en dichos envíos no se cumplan los requisitos
+establecidos en el artículo 21 y no constituya infracción grave”.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/5
+
+A tenor de lo establecido en el artículo 39.1.c) de la LSSI, las infracciones leves podrán
+sancionarse con multa de hasta 30.000 €, estableciéndose los criterios para su
+graduación en el artículo 40 de la misma norma, considerándose que en este supuesto
+actúa como agravante el criterio a.- “la existencia de intencionalidad” y el criterio b.- “El
+plazo del tiempo durante el que se ha venido cometiendo la infracción”.
+Con arreglo a dichos criterios, se estima adecuado imponer al reclamado una sanción
+de 5.000 euros (cinco mil euros).
+Vistos los preceptos citados y demás de general aplicación, la Directora de la Agencia
+Española de Protección de Datos RESUELVE:
+PRIMERO: IMPONER a D. A.A.A. con DNI ***DNI.1 una sanción de 5.000 euros
+(cinco mil euros), por la infracción del artículo 21.1) de la LSSI.
+SEGUNDO: NOTIFICAR la presente resolución a D. A.A.A.
+TERCERO: Advertir al sancionado que la sanción impuesta deberá hacerla efectiva
+una vez sea ejecutiva la presente resolución, de conformidad con lo dispuesto en el
+artículo 98.1.b) de la ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas (LPACAP), en el plazo de pago voluntario
+que señala el artículo 68 del Reglamento General de Recaudación, aprobado por Real
+Decreto 939/2005, de 29 de julio, en relación con el art. 62 de la Ley 58/2003, de 17 de
+diciembre, mediante su ingreso en la cuenta restringida nº ES00 0000 0000 0000 0000
+0000, abierta a nombre de la Agencia Española de Protección de Datos en el Banco
+CAIXABANK, S.A. o en caso contrario, se procederá a su recaudación en período
+ejecutivo.
+Recibida la notificación y una vez ejecutiva, si la fecha de ejecutividad se encuentra
+entre los días 1 y 15 de cada mes, ambos inclusive, el plazo para efectuar el pago
+voluntario será hasta el día 20 del mes siguiente o inmediato hábil posterior, y si se
+encuentra entre los días 16 y último de cada mes, ambos inclusive, el plazo del pago
+será hasta el 5 del segundo mes siguiente o inmediato hábil posterior.
+De conformidad con lo establecido en el artículo 50 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales
+(LOPDPGDD), la presente Resolución se hará pública una vez haya sido notificada a
+los interesados.
+Contra esta resolución, que pone fin a la vía administrativa (artículo 48.6 de la
+LOPDGDD, y de conformidad con lo establecido en los artículos 112 y 123 de la Ley
+39/2015, de 1/10, del Procedimiento Administrativo Común de las Administraciones
+Públicas, los interesados podrán interponer, potestativamente, recurso de reposición
+ante la Directora de la Agencia Española de Protección de Datos en el plazo de un
+mes a contar desde el día siguiente a la notificación de esta resolución, o,
+directamente recurso contencioso administrativo ante la Sala de lo Contenciosoadministrativo de la Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y
+en el apartado 5 de la disposición adicional cuarta de la Ley 29/1998, de 13/07,
+reguladora de la Jurisdicción Contencioso-administrativa, en el plazo de dos meses a
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/5
+
+contar desde el día siguiente a la notificación de este acto, según lo previsto en el
+artículo 46.1 del referido texto legal.
+Finalmente, se señala que conforme a lo previsto en el art. 90.3 a) de la LPACAP, se
+podrá suspender cautelarmente la resolución firme en vía administrativa si el
+interesado manifiesta su intención de interponer recurso contencioso-administrativo.
+De ser éste el caso, el interesado deberá comunicar formalmente este hecho mediante
+escrito dirigido a la Agencia Española de Protección de Datos, presentándolo a través
+del Registro Electrónico de la Agencia [https://sedeagpd.gob.es/sede-electronicaweb/],
+o a través de alguno de los restantes registros previstos en el art. 16.4 de la citada Ley
+39/2015, de 1 de octubre. También deberá trasladar a la Agencia la documentación
+que acredite la interposición efectiva del recurso contencioso-administrativo. Si la
+Agencia no tuviese conocimiento de la interposición del recurso contenciosoadministrativo en el plazo de dos meses desde el día siguiente a la notificación de la
+presente resolución, daría por finalizada la suspensión cautelar.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

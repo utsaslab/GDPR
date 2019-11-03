@@ -38,7 +38,7 @@ class Austria(DPA):
         # start_path = '/Ergebnis.wxe?Abfrage=Dsk&Entscheidungsart=Undefined&Organ=Undefined&SucheNachRechtssatz=True&SucheNachText=True&GZ=&VonDatum=25.08.1991&BisDatum=23.09.2019&Norm=&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=&Position=1&SkipToDocumentPage=true'
 
         pagination = Pagination()
-        pagination.add_link(start_path)
+        pagination.add_item(start_path)
 
         response = requests.request('GET', host + start_path)
         html_doc = response.text
@@ -51,7 +51,7 @@ class Austria(DPA):
             if title.isdigit() is False:
                 continue
 
-            pagination.add_link(path)
+            pagination.add_item(path)
 
         while(pagination.has_next()):
             page_ref = pagination.get_next()
@@ -93,6 +93,6 @@ class Austria(DPA):
                 if title.isdigit() is False:
                     continue
 
-                pagination.add_link(path)
+                pagination.add_item(path)
 
         return True

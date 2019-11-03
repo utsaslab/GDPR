@@ -1,0 +1,1625 @@
+1/30
+
+Procedimiento nº.: PS/00209/2018
+180-100519
+
+Recurso de reposición Nº RR/00865/2018
+Examinado el recurso de reposición interpuesto por CAJAMAR Caja Rural,
+Sociedad Cooperativa de Crédito, contra la resolución dictada por la Directora de la
+Agencia Española de Protección de Datos en el procedimiento sancionador
+PS/00209/2018 y en consideración a los siguientes
+HECHOS
+PRIMERO: Con fecha 16/11/2018 se dictó resolución por la Directora de la Agencia
+Española de Protección de Datos en el procedimiento sancionador PS/00209/2018, en
+virtud de la cual se impuso a CAJAMAR Caja Rural, Sociedad Cooperativa de Crédito,
+una sanción de 60.000 € (sesenta mil euros) por vulneración de lo dispuesto en el
+artículo 4.3 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos
+de Carácter Personal (en lo sucesivo LOPD) en relación con el artículo 29.4 de la
+LOPD y con el artículo 38.1.a, del Reglamento de desarrollo de la citada Ley Orgánica,
+infracción tipificada como grave en el artículo 44.3.c) de la LOPD, de conformidad con
+lo establecido en su artículo 45.2.
+Dicha resolución, que fue notificada al recurrente en fecha 19/11/2018, fue
+dictada previa la tramitación del correspondiente procedimiento sancionador, de
+acuerdo con lo dispuesto en el artículo 127 del Reglamento de desarrollo de la LOPD
+aprobado por el Real Decreto 1720/2007, de 21 de diciembre (RLOPD)
+SEGUNDO: Como hechos probados del citado procedimiento sancionador,
+PS/00209/2018, se dejó constancia de los siguientes en la resolución recurrida:
+<<PRIMERO: A.A.A., con NIE ***NIF.1, denuncia que CAJAMAR le ha incluido en
+ficheros de solvencia por la totalidad del préstamo hipotecario pendiente, sin haberle
+requerido con carácter previo el pago de la deuda informada y sin que tal deuda fuera
+cierta, vencida y exigible. (Folios 1 a 3)
+SEGUNDO: EXPERIAN BUREAU DE CRÉDITO, S.A. (EXPERIAN) ha aportado
+documentación acreditativa de que, respecto a la operación identificada con la
+referencia nº 300716490219129, correspondiente a un préstamo hipotecario,
+CAJAMAR informó al fichero BADEXCUG los datos personales del denunciante
+(nombre, apellidos, NIF y domicilio) en tres ocasiones:
+
+-
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+La 1ª incidencia, con fecha de alta 06/04/2014, por un importe de 1.315, 87
+euros, se dio de baja el 27/04/2015.
+La 2ª incidencia, con fecha de alta 29/06/2014, por un saldo impagado de
+2.697,09 euros, se dio de baja el 20/07/2014.
+La 3ª incidencia, se dio de alta el 17/05/2015 siendo en esa fecha el
+importe del saldo impagado de 12.138,47 euros. En fecha 31/05/2015 el
+importe de la deuda informada ascendió a 13.110,85 euros.
+En fecha 14/06/2015 el saldo impagado pasó a 257.192,29 euros. Esa
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/30
+
+inclusión mantuvo el saldo pendiente de pago por importe, 257.192,29
+euros desde el 14/06/2015 hasta la fecha de baja de la anotación, el
+14/03/2017.
+(Folios 181 y 187 a 189)
+TERCERO: EXPERIAN ha manifestado que dio de baja del fichero BADEXCUG la
+incidencia asociada a los datos personales del denunciante en relación con la
+operación número 300716490219129, a raíz de que éste ejercitara el derecho de
+cancelación.
+EXPERIAN recibió la solicitud del denunciante para que cancelara sus datos el
+21/03/2017 quien aportó los siguientes documentos:
+-La acreditación de su identidad.
+-La copia del Auto 401/16, del Juzgado de Primera Instancia número 13 de
+***LOCALIDAD.1, que resolvió el incidente de oposición a la Ejecución
+Hipotecaria 881/2015 promovida por CAJAMAR, declaró nulas por abusivas
+las cláusulas de vencimiento anticipado y el cobro indebido respecto al tipo de
+interés aplicado y el que correspondía aplicar según contrato suscrito por las
+partes, concluyendo que la cantidad reclamada no era líquida y por tanto era
+errónea, y acordó el sobreseimiento del procedimiento de ejecución. (Folios
+192 a 204)
+CAJAMAR accedió a la aplicación eSPaCio -mediante la que el Servicio de
+Protección al Consumidor de EXPERIAN gestiona las solicitudes de derechos- el
+09/03/2017 y denegó la cancelación solicitada por el afectado (folio 205)
+EXPERIAN en fecha 14/03/2017 canceló cautelarmente la inclusión asociada a
+la operación 30071649021912 informada por CAJAMAR (folios 205 a 207)
+[ 1]
+CUARTO: Resulta acreditado que CAJAMAR interpuso en el año 2015 frente al
+denunciante demanda ejecutiva -ejecución dineraria sobre bienes inmuebles- que dio
+lugar al procedimiento de Ejecución Hipotecaria 881/2015, seguido ante el Juzgado de
+Primera Instancia número 13 de ***LOCALIDAD.1 (Folios 199 y 309)
+El actual denunciante se opuso a la ejecución acordando el Letrado de la
+Admón. de Justicia la apertura de pieza separada de Incidente de Oposición a la
+Ejecución.
+Los autos del incidente de Oposición a la Ejecución Hipotecaria 881/2015,
+sustanciados por los trámites del Juicio Verbal, quedaron resueltos por el Auto
+401/2016, de fecha 04/10/2016.
+QUINTO: En el Fallo del referido Auto se estima la oposición deducida por el
+ejecutado (actual denunciante) en la ejecución promovida por CAJAMAR y se acuerda
+el sobreseimiento del procedimiento de ejecución con imposición de costas a la
+ejecutante.
+
+-
+
+El Juzgado funda su decisión en las cláusulas del contrato que se declaran
+abusivas en aplicación del artículo 695 de la Ley de Enjuiciamiento Civil.
+
+-
+
+En sus Fundamentos Jurídicos, el Auto afirma que no era procedente
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/30
+
+aplicar al denunciante, como hizo CAJAMAR, la cláusula suelo que
+contemplaba el contrato de préstamo suscrito por la entidad financiera con
+el promotor, en el que denunciante se subrogó, pues en la escritura de
+novación del préstamo las partes (entre ellas el denunciante) modifican y
+pactan los tipos de interés del préstamo, pero no pactan ninguna cláusula
+suelo. El Auto afirma que el ejecutante (CAJAMAR) ha cobrado
+incorrectamente cantidades excesivas al deudor.
+
+-
+
+El Auto declara nula la cláusula de vencimiento anticipado del préstamo
+tomando para ello en consideración los parámetros que la STJUE de
+14/03/2013 establece para calificar de abusivas cláusulas en contratos de
+consumo.
+
+-
+
+El Auto concluye que “como consecuencia de la declaración de nulidad de
+las cláusulas de vencimiento anticipado y el cobro indebido respecto al tipo
+de interés aplicado y el que corresponde aplicar según contrato suscrito por
+las partes, resulta que la cantidad reclamada no es líquida en los términos
+y condiciones que se reflejan en la demanda y que por tanto es errónea la
+cantidad reclamada” (El subrayado es de la AEPD)
+
+SEXTO: Obra en el expediente, aportado por el denunciante, una captura de pantalla
+de la aplicación Lexnet, relativa a la notificación del Auto 401/2016 que resuelve la
+oposición, dictado por el Juzgado de Primera Instancia número 13 de
+***LOCALIDAD.1, que tiene como destinatarios a los procuradores de la parte
+ejecutante (D.ª B.B.B.) y del ejecutado, siendo la fecha de envío el 05/10/2016. En el
+documento queda acreditada la recepción de la notificación por el procurador del
+ejecutado en la misma fecha de 05/10/2016 (Folio 197)
+SÉPTIMO: CAJAMAR ha aportado con su escrito de alegaciones al acuerdo de inicio
+los documentos que, a su juicio, acreditan que requirió al denunciante el pago de la
+deuda informada a BADEXCUG (identificada con el código de operación
+0300716490219129) con carácter previo a su inclusión en el fichero de solvencia:
+Adjunta cinco cartas de requerimiento de pago -personalizadas a nombre del
+denunciante, y referenciadas- que van acompañadas de la documentación acreditativa
+de las fechas de impresión de cada una de ellas y de su código de referencia, así
+como de su envío a través del operador postal UNIPOST sin que se tenga constancia
+de que hayan sido devueltas por los servicios postales.
+Las cartas de requerimiento de pago aportadas son las siguientes:
+De fecha 03/02/2014, por un importe impagado de 953,13 euros (Folios
+255 a 259)
+(ii)
+De fecha 06/03/2014, por un importe impagado de 816,50 euros, (Folios
+262 a 269)
+(iii)
+De fecha 04/05/2014, por un importe impagado de 911,28 euros (Folios 272
+a 277)
+(iv)
+De fecha 04/06/2014, por un importe impagado de 1.598,23 euros (Folios
+280 a 284)
+(v)
+De fecha 21/04/2015, por un importe impagado de 11.126,39 euros (Folios
+287 a 293)
+
+(i)
+
+OCTAVO: Obra en el expediente, aportada por el denunciante, la copia del Informe
+que el Departamento de Conducta de Mercado y Reclamaciones del Banco de España
+emitió el 01/09/2017, en relación con la reclamación (expediente con referencia R
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/30
+
+201605911) formulada por el ahora denunciante frente a CAJAMAR en cuyo apartado
+IV, Conclusión se recoge esta afirmación:
+“En cuanto a la inclusión de los datos personales del reclamante en ficheros de
+morosidad, toda vez que no consta en el expediente documentación acreditativa de
+que la entidad hubiese informado de forma previa a su cliente de que iba a proceder a
+ceder sus datos personales al fichero, su actuación ha sido contraria a las buenas
+prácticas y usos financieros” (El subrayado es de la AEPD) (Folios 6 y 15)
+NOVENO: Obran en el expediente copia de diferentes comunicaciones que el
+denunciante mantuvo con CAJAMAR:
+
+-
+
+La copia de un burofax que el denunciante dirige a CAJAMAR, que consta
+recibido por la entidad el 25/01/2017, en el que pide que se cancelen sus
+datos del fichero de solvencia BADEXCUG.
+
+-
+
+La copia de cuatro emails que el denunciante envía a una empleada de
+CAJAMAR de fechas 27/05/2016, 31/05/2016, 29/11/2016 y 02/03/2017. En
+todos ellos solicita que se cancelen sus datos del fichero de solvencia y
+explica que la deuda no es cierta. En todos ellos se relatan los perjuicios
+que la inclusión le está ocasionando en el desempeño de su actividad
+empresarial e insiste en que no fue informado de la inclusión de sus datos
+en el fichero BADEXCUG. En esa línea, en el email que el denunciante
+envía el 31/05/2016 dice: “Como te lo comenté por teléfono, desde julio del
+año pasado tengo escritos del responsable de cuenta de la compañía
+aseguradora Plus Ultra, que me pide explicaciones por la situación. En su
+escrito hace referente expresamente que es la entidad CAJAMAR que me
+tiene inscrito en ficheros de morosos” (Folio 27)
+[1. Por error en el número de referencia su último dígito, el “9”]>>
+TERCERO: CAJAMAR Caja Rural, Sociedad Cooperativa de Crédito, (en adelante la
+recurrente o CAJAMAR) ha presentado por correo administrativo, en fecha
+19/12/2018, que tuvo entrada en el Registro de este organismo en fecha 26/12/2018,
+recurso de reposición.
+Los motivos en los que fundamenta la impugnación van precedidos de una
+alegación previa que, dice la recurrente, tiene por objeto resumir y “clarificar” los
+hechos denunciados.
+Los motivos de impugnación de la resolución que la recurrente esgrime son los
+siguientes:
+
+1. “Sobre la falta de motivación de la resolución”.
+2. “Sobre el incumplimiento del principio de tipicidad de la resolución”
+3. “Sobre la inexistencia del elemento subjetivo de culpabilidad”
+4. “Sobre los criterios cuantificadores de la sanción”.
+5.
+FUNDAMENTOS DE DERECHO
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/30
+
+I
+Es competente para resolver el presente recurso la Directora de la Agencia
+Española de Protección de Datos, de conformidad con lo dispuesto en el artículo 48.1
+de la LOPDPGDD.
+II
+En relación con las manifestaciones efectuadas por el recurrente, que reiteran en
+esencia las alegaciones ya formuladas en el curso del procedimiento sancionador,
+cabe señalar que fueron analizadas y desestimadas en los Fundamentos de Derecho
+II a IV ambos inclusive, de la Resolución recurrida. Se hace notar que son cinco y no
+cuatro los Fundamentos Jurídicos pues por error se asignó dos veces la misma
+numeración a dos de ellos. Fundamentos que se transcriben seguidamente:
+<<II
+Los principios generales de protección de datos regulados en los artículos 4 a 12
+de la LOPD, que integran el Título II de la citada Ley Orgánica, constituyen el
+contenido esencial de este derecho fundamental.
+El artículo 4 de la LOPD, bajo la rúbrica “Calidad de los datos”, establece en el
+apartado 3: “Los datos de carácter personal serán exactos y puestos al día de forma
+que responsan con veracidad a la situación actual del afectado”.
+El artículo 29 de la Ley Orgánica 15/1999 señala en su apartado 4: “Sólo se
+podrán registrar y ceder los datos de carácter personal que sean determinantes para
+enjuiciar la solvencia económica de los interesados y que no se refieran, cuando sean
+adversos, a más de seis años, siempre que respondan con veracidad a la situación
+actual de aquellos”.
+El Real Decreto 1720/2007, de 21 de diciembre, por el que se aprueba el
+Reglamento de Desarrollo de la LOPD se ocupa (capítulo I del Título IV) de los
+“Ficheros de información sobre solvencia patrimonial y crédito” y dispone en el artículo
+38, bajo la rúbrica “Requisitos para la inclusión de los datos”:
+“1. Sólo será posible la inclusión en estos ficheros de datos de carácter personal
+que sean determinantes para enjuiciar la solvencia económica del afectado, siempre
+que concurran los siguientes requisitos:
+
+a) Existencia previa de una deuda cierta, vencida, exigible, que haya resultado
+impagada
+
+b) (….)
+c) Requerimiento previo de pago a quien corresponda el cumplimiento de la
+obligación”
+
+El artículo 38 del RLOPD en su apartado 3 añade que “El acreedor o quien actúe
+por su cuenta o interés estará obligado a conservar a disposición del responsable del
+fichero común y de la Agencia Española de Protección de Datos documentación
+suficiente que acredite el cumplimiento de los requisitos establecidos en este artículo y
+del requerimiento previo al que se refiere el artículo siguiente”.
+La vulneración del artículo 4.3 de la LOPD se tipifica como infracción grave en el
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/30
+
+artículo 44.3., c), precepto que dispone: “Son infracciones graves:
+(…)
+c) Tratar datos de carácter personal o usarlos posteriormente con conculcación
+de los principios y garantías establecidos en el artículo 4 de la presente Ley y las
+disposiciones que lo desarrollan, salvo cuando sea constitutivo de infracción muy
+grave”.
+III
+Se imputa a CAJAMAR una infracción del principio de calidad de los datos, en
+su manifestación del principio de exactitud (ex artículo 4.3 LOPD), infracción tipificada
+como grave en el artículo 44.3.c) LOPD.
+El acuerdo de inicio del expediente sancionador que nos ocupa consideró que la
+conducta infractora atribuida a CAJAMAR se había materializado en la inclusión de los
+datos personales del denunciante en el fichero de solvencia BADEXCUG sin cumplir
+los requisitos descritos en los apartados a) y c) del artículo 38.1. RLOPD, a cuya
+observancia se condiciona que la comunicación de datos personales de terceros a
+ficheros de esa naturaleza sea ajustada a Derecho.
+El artículo 29.2 LOPD permite al acreedor comunicar a ficheros comunes los
+datos personales del deudor sin recabar su consentimiento, apartándose así de la
+regla general del artículo 6.1 LOPD, conforme a la cual el tratamiento de los datos
+personales de terceros requiere contar con su consentimiento inequívoco. Esto explica
+que, como contrapeso, se articulen limitaciones a la habilitación que el artículo 29.2
+otorga al acreedor y que el artículo 29.4 indique que sólo se podrán registrar y ceder
+los datos de carácter personal que sean determinantes para enjuiciar la solvencia
+económica de los interesados que no se refieran cuando sean adversos a una
+antigüedad superior a los seis años y “que respondan con veracidad a la situación
+actual de aquellos”.
+Las disposiciones reglamentarias de desarrollo de la LOPD (Reglamento
+aprobado por el Real Decreto 1720/2007, en particular el artículo 38.1) insisten en que
+sólo se pueden incluir en los ficheros comunes los datos de carácter personal que
+sean determinantes para enjuiciar la solvencia económica del afectado y exigen que
+preceptivamente se cumplan, entre otros, unos requisitos que detalla en los apartados
+a, b, y c de su artículo 38.1.
+A.
+Por lo que atañe al incumplimiento del apartado a) del artículo 38.1 RLOP “Existencia de una deuda cierta, vencida, exigible, que haya resultado impagada” -,
+indicar que ese requisito fue incumplido por CAJAMAR desde el 05/10/2016 y hasta la
+baja de la incidencia informada, el 14/03/2017.
+El importe de la deuda que la entidad había incluido en el fichero EXPERIAN
+asociada a los datos personales del denunciante (fecha de alta de la incidencia el
+17/05/2015) se elevó a 13.110,85 euros el 31/05/2015 y subió a 257.192, 29 euros en
+fecha 14/06/2015, a raíz de que la denunciada resolviera anticipadamente el contrato
+de préstamo con garantía hipotecaria.
+A propósito del apartado a) del artículo 38.1 RLOPD han de hacerse las
+siguientes consideraciones:
+En primer término, hemos de referirnos a la STS de 15/07/2010 (Rec. 23/2008)
+que declaró la nulidad, por ser disconforme a Derecho, del inciso último del artículo
+38.1.a) del RLOPD, cuyo tenor era el siguiente:
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/30
+
+“… y respecto de la cual no se haya entablado reclamación judicial, arbitral o
+administrativa, o tratándose de servicios financieros, no se haya planteado una
+reclamación en los términos previstos en el Reglamento de los Comisionados para la
+defensa del cliente de servicios financieros, aprobado por el Real Decreto 303/2004,
+de 20 de febrero”.
+El Fundamento de Derecho decimocuarto de la STS precitada, en el que se
+examinó y valoró la impugnación del artículo 38.1.a, RLOPD, concretó cuáles eran los
+términos de la controversia planteada respecto a esa disposición y señaló a tal fin:
+“…procede indicar que la exigencia al inicio del apartado 1 a) del artículo 38 de
+que la deuda sea “cierta” responde al principio de veracidad y exactitud recogido en el
+artículo 4.3 de la Ley 15/1999(…) Siendo el adjetivo <cierto> sinónimo de irrefutable,
+incontestable, indiscutible, etc,..el tema de debate se circunscribe a si es posible
+sostener con éxito que, en aquellos casos en que se hubiera entablado con respecto
+a la deuda un procedimiento de los expresados en el artículo 1 a), puede hablarse de
+una deuda cierta antes de que recaiga resolución firme o se emita, en los supuestos
+previstos en el Reglamento de los Comisionados, el informe correspondiente”.
+Pues bien, la Sala Tercera del TS respondió a esa pregunta indicando que lo
+relevante era “decidir si el apartado 1 a) del artículo responde a la previsión legal del
+artículo 4.3, y la respuesta debe ser negativa en atención a la defectuosa redacción
+del precepto reglamentario por una inconcreción en su texto no sólo de aquellos
+procedimientos que justifican la no inclusión en los ficheros de las deuda a que
+aquellos se refieren, sino también porque esa vaguedad permite considerar que
+incluso cuando la reclamación se formule por el acreedor exista la imposibilidad de
+inclusión de los datos en el fichero”. (El subrayado es de la AEPD)
+Y terminó declarando a propósito de esta cuestión que el conflicto de intereses
+debe resolverse “exigiendo una mayor concreción en el precepto reglamentario que
+pondere los intereses en presencia en atención a las circunstancias concretas”. (El
+subrayado es de la AEPD)
+Del tenor literal de los fragmentos de la STS de 15/07/2010 reproducidos, se
+evidencia, por una parte, que lo que justificó la anulación del último inciso del artículo
+38.1.a) del R.D. 1720/2007 fue la inconcreción de la que adolecía la redacción y, por
+otra, que el Tribunal consideró ajustada a Derecho la exigencia del artículo 38.1. a) del
+RLOPD de que la deuda fuera “cierta”, adjetivo que es sinónimo de irrefutable e
+indiscutible, lo que es congruente con el principio de veracidad y exactitud que
+consagra el artículo 4.3. de la Ley Orgánica 15/1999.
+A tenor de lo expuesto, el criterio seguido desde entonces por esta Agencia
+-criterio que ha sido confirmando sin fisuras por la Sala de lo Contencioso
+Administrativo de la Audiencia Nacional- es entender que la impugnación de una
+deuda cuestionando su existencia o certeza ante órganos judiciales y arbitrales en
+todo caso y ante órganos administrativos que tengan competencia para declarar la
+existencia o inexistencia de aquella a través de resoluciones que sean de obligado
+cumplimiento para las partes, impedirá que pueda hablarse de una deuda cierta hasta
+que recaiga resolución firme; y por tanto impedirá su inclusión en los ficheros de
+solvencia patrimonial y crédito.
+CAJAMAR ha aducido en su defensa (alegaciones a la propuesta de resolución)
+que la Sentencia del Tribunal Supremo mencionada declaró nulo el apartado a) del
+artículo 38.1 del RLOPD y no, como sostiene esta Agencia, únicamente su inciso
+último. Añade que la Agencia, vulnerando principios reconocidos constitucionalmente,
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+8/30
+
+ha intentado defender la aplicabilidad del inciso primero del referido apartado a) del
+artículo 38.1. RLOPD.
+En congruencia con esas afirmaciones -en particular la pretendida declaración
+de nulidad de la disposición que a su juicio hizo la STS de 15/07/2010- concluye,
+como no podría ser de otro modo, que la disposición que la Agencia ha considerado
+infringida (apartado a del artículo 38.1. RLOPD) no forma parte de nuestro
+ordenamiento jurídico, sino que obviamente, en tanto norma nula ha sido expulsada
+de él. A tal fin ofrece el pertinente apoyo jurisprudencial, tanto de la jurisprudencia del
+Tribunal Constitucional como del Tribunal Supremo.
+Asimismo, concluye que la AEPD, al no respetar la pretendida declaración de
+nulidad de esa disposición, incurre en una vulneración de los principios de legalidad,
+tipicidad, seguridad jurídica e interdicción de la arbitrariedad de los Poderes Públicos.
+Llama la atención el alegato de la entidad denunciada toda vez que, poco tiempo
+después de la STS de 15/07/2010 -habida cuenta de que la STS afirmaba que la
+deuda informada a un fichero de solvencia necesariamente debía ser cierta, esto es,
+irrefutable e indiscutible, y que la nulidad declarada en la Sentencia afectaba al inciso
+segundo de la norma por su excesiva vaguedad- las resoluciones de la AEPD, de
+conformidad con la decisión del Tribunal Supremo, mantuvieron el criterio de que la
+deuda únicamente dejaba de ser cierta, en el sentido de incumplir el artículo 38.1.a,
+RLOPD, además de en los casos en los que existiera un procedimiento judicial
+pendiente que pusiera en duda su existencia -extremo que nadie discutía- en aquellos
+en los que existía una reclamación arbitral o administrativa entablada ante órganos
+con facultad para dictar resoluciones de obligado cumplimiento para las partes.
+De este modo desaparecía la vaguedad e inconcreción de la que adolecía el
+inciso segundo del artículo 38.1.a RLOPD, declarado nulo, en el que se mencionaban
+multitud de supuestos en los que bastaba una reclamación ante un órgano
+administrativo sin facultades resolutorias (caso de una reclamación ante la OMIC, o
+una reclamación ante los Comisionados previstos en el Real Decreto 303/2004), e
+incluso una reclamación formulada por el propio deudor, para cerrar el acceso a los
+ficheros comunes de las deudas pendientes.
+Y decimos que es llamativo ese alegato por cuanto desde finales de 2010 es ese
+y no otro el criterio de aplicación del apartado a) del artículo 38.1. del RLOPD por la
+AEPD, interpretación que ha sido confirmada por la Audiencia Nacional sin
+vacilaciones en los muy numerosos recursos contencioso-administrativos que desde
+entonces se han interpuesto ante la Sala de lo Contencioso de ese Tribunal frente a
+las resoluciones de la AEPD.
+CAJAMAR, en defensa de su pretensión de archivo del expediente, viene
+torticeramente a confundir lo que no es sino un requisito de la normativa específica de
+protección de datos, imprescindible para que los datos personales de un tercero
+puedan ser incluidos sin su consentimiento por el acreedor en un fichero común
+vinculados a una deuda pendiente, con la institución de la cosa juzgada.
+Esta confusión le lleva a hacer afirmaciones del siguiente calibre: que la
+Agencia pretende demostrar que “el simple inicio de un procedimiento en el que se
+impugne la deuda del interesado puede vincular a las partes del mismo fuera del
+mencionado procedimiento o producir efectos en un procedimiento iniciado con
+posterioridad…” (El subrayado es de la Agencia)
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+9/30
+
+Sin embargo, esta Agencia ni pretende ni está facultada para declarar o
+reconocer efectos jurídicos de ninguna naturaleza. Sí es competente, y está obligada
+a ello, para valorar la adecuación de una conducta a la normativa de protección de
+datos. La AEPD se ha limitado a constatar lo que es un “hecho”, que de conformidad
+con el Auto 401/2016, la deuda por importe de 257.192, 29 euros que CAJAMAR
+comunicó al fichero común vinculada al denunciante no cumplía el requisito de certeza
+en los términos que lo exige el artículo 38.1.a) RLOPD.
+CAJAMAR muestra su malestar porque los hechos probados no han reflejado
+que el Auto 401/2016 del Juzgado de Primera Instancia número 13 de
+***LOCALIDAD.1 fue recurrido en apelación y que la Audiencia Provincial a fecha de
+hoy aún no ha resuelto el recurso. La entidad, no obstante, admite que esta
+circunstancia sí consta en el Antecedente sexto de la propuesta. Pues bien, la
+existencia de un recurso de apelación interpuesto frente al Auto 401/2016, pendiente
+de resolución por la Audiencia Provincial, no hace sino mantener en el tiempo la
+situación de incertidumbre de la deuda que había comunicado a BADEXCUG
+asociada al denunciante.
+Es precisamente esa controversia sobre la existencia de la deuda (fruto del Auto
+que pone fin al incidente de oposición a la Ejecución) lo que impide que en tales
+condiciones pueda ser comunicada al fichero, lo que implicaría atribuir al denunciante
+la condición de deudor por tal importe sin la certeza que exige el principio descrito en
+el artículo 4.3 LOPD, norma que estimamos ha sido infringida por CAJAMAR.
+Finalmente, por lo que atañe a esta cuestión, basta hacer dos precisiones más:
+La primera de ellas, que en contra de lo manifestado por la entidad denunciada
+esta Agencia, en ningún momento, ha declarado que la deuda que CAJAMAR atribuye
+al denunciante es incierta. Ni ha hecho tal declaración ni obviamente podría hacerla
+pues ninguna competencia tiene en esa materia. La AEPD se ha limitado a constatar
+un hecho: La declaración del Juzgado de Primera Instancia número 13 en la parte
+dispositiva de su Auto 401/2016: “la cantidad reclamada no es líquida”, “…es errónea
+la cantidad reclamada”.
+La segunda de ellas, que a tenor de la exposición precedente estimamos que
+carece de sentido dar respuesta al alegato de la denunciada sobre las supuestas
+infracciones en las que, a su juicio, esta Agencia habría incurrido: Artículos 9.3, 24.1 y
+103.1 de la C.E.; artículos 222.4 y 517.2.11 de la Ley de Enjuiciamiento Civil 1/2000;
+artículos 1.1, 1.2, 1.6 y 1.7 del Código Civil.
+B. Como se detalla en los Hechos Probados, en particular en el Hecho segundo,
+CAJAMAR informó al fichero BADEXCUG los datos personales del denunciante, en
+relación con una operación identificada con la referencia 300716490219129, en tres
+ocasiones.
+La tercera inclusión se produjo (fecha de alta) el 17/05/2015 por un saldo
+impagado que ascendía en esa fecha a 12.138,47 euros y que en fecha 31/05/2017
+pasó a 13.110,85 euros.
+Días más tarde, en fecha 14/06/2015, el saldo impagado informado por
+CAJAMAR a BADEXCUG era de 257.192,29 euros. Desde entonces, 14/06/2015, y
+hasta la fecha de baja de la anotación, el 14/03/2017, el importe impagado atribuido al
+denunciante fue invariablemente de 257.192,29 euros.
+CAJAMAR había promovido en el año 2015 frente al denunciante un
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+10/30
+
+procedimiento de Ejecución de Bienes Hipotecados para el cobro de deuda
+(Procedimiento de Ejecución Hipotecaria 881/2015).
+El deudor ejecutado -actual denunciante- formuló oposición frente al Auto que
+despachó ejecución lo que motivó la apertura de pieza separada para resolver el
+incidente de oposición. El incidente se sustanció por los trámites del Juicio Verbal y
+terminó con el Auto 401/2016, que estimó la oposición deducida por el ejecutado y
+acordó el sobreseimiento del procedimiento de Ejecución Hipotecaria 881/2015, con
+imposición de costas a la entidad ejecutante.
+A través de la oposición formulada por el entonces ejecutado se puso en tela de
+juicio la certeza de la deuda por la que se había despachado ejecución frente al
+denunciante, deuda que es en esencia la misma que fue informada a BADEXCUG por
+CAJAMAR y que desde el 14/6/2015 ascendió a 257.192,29 euros.
+El Auto 401/2016, de 04/10/2016, dictado por el Juzgado de Primera Instancia
+número 13 de ***LOCALIDAD.1, órgano que conocía de la Ejecución Hipotecaria, que
+estimó la pretensión del ejecutado y acordó el sobreseimiento del procedimiento de
+Ejecución, fundó su decisión en que CAJAMAR, “ha cobrado incorrectamente
+cantidades excesivas al deudor” (Fundamento Jurídico primero); en “la nulidad de la
+cláusula de vencimiento anticipado” (cláusula que había aplicado CAJAMAR y que
+determinó que el importe de la deuda informada a BADEXCUG se elevara de
+13.110,85 euros a 257.192,29 euros , Fundamento Jurídico Tercero) y en la nulidad
+declarada de las cláusulas de comisiones de reclamación de posiciones deudoras
+(Fundamentos Jurídicos cuarto y quinto del Auto).
+El Fundamento Jurídico quinto del mencionado Auto dice:
+“Como consecuencia de la declaración de nulidad de las cláusulas de
+vencimiento anticipado y el cobro indebido respecto al tipo de interés aplicado y el que
+se corresponde aplicar según contrato suscrito por las partes, resulta que la cantidad
+reclamada no es líquida en los términos y condiciones que se reflejan en la demanda y
+que por tanto es errónea la cantidad reclamada. La declaración de nulidad conlleva
+que la liquidación de la deuda efectuada por el ejecutante no sea correcta en tanto no
+puede aplicarse la cláusula de vencimiento anticipado…” (El subrayado es de la
+AEPD)
+Por tanto, a raíz del Auto 401/2016, la deuda que CAJAMAR mantenía en
+BADEXCUG por importe de 257.192.29 euros, vinculada a los datos del denunciante,
+no cumplía el requisito de certeza exigido por el artículo 38.1.a) RLOPD. La deuda por
+ese importe se encontraba discutida ante un órgano jurisdiccional, de forma que, hasta
+que esa resolución no fuera firme, la entidad debía proceder a dar de baja del fichero
+la incidencia o a rectificar los datos que eran inexactos.
+El citado Auto fue recurrido en apelación por CAJAMAR en fecha 24/11/2016 (tal
+y como nos informó el Juzgado de Primera Instancia número 13 de ***LOCALIDAD.1
+en la fase de prueba) sin que conste que la Audiencia Provincial haya resuelto el
+citado recurso. Así pues, la controversia sobre la deuda de 257.192,29 euros que
+CAJAMAR informó a BADEXCUG asociada a sus datos personales sigue adoleciendo
+de falta de certeza; esto es, no puede calificarse de cierta, vencida y exigible respecto
+a la persona del denunciante lo que impide en tales condiciones que pueda ser
+informada a un fichero de solvencia patrimonial.
+El Auto 401/2016 de 04/10/2016, que estimó la pretensión del ejecutado -actual
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+11/30
+
+denunciante- fue notificado por el órgano jurisdiccional, a través de LEXNET, en fecha
+05/10/2016, a los procuradores de las partes ejecutante y ejecutada (Folio 197, Hecho
+probado Sexto). En el expediente tenemos constancia documental, exclusivamente,
+de la recepción de esa notificación por el Procurador del ejecutado en fecha
+05/10/2016, pero habida cuenta de que la notificación del Juzgado se dirigió en la
+misma fecha a ambos procuradores a través del Colegio de Procuradores, no hay
+razón para dudar de que también el 05/10/2016, o en el día inmediato, el Auto fue
+notificado al procurador de CAJAMAR.
+Así pues, desde el 05/10/2016 (o el día inmediato) CAJAMAR conoció a través
+de su representante procesal el texto del Auto 401/2016. Desde esa fecha, la
+denunciada sabía perfectamente que la deuda por la que los datos personales del
+denunciante permanecían en el fichero BADEXCUG -de 257.192,29 euros desde el
+14/06/2015, consecuencia de aplicar la cláusula de vencimiento anticipado que el Auto
+había declarado nula y del cobro de cantidades indebidas al deudor- no era cierta, ni
+vencida ni exigible respecto a la persona del denunciante.
+El artículo 8 del RLOPD, en su apartado 5, después de recordar que los datos
+de carácter personal serán exactos y puestos al día de forma que respondan con
+veracidad a la situación actual del afectado, concede, en su inciso segundo, al
+responsable del fichero o tratamiento, un plazo de diez días, computado desde que
+conoce la inexactitud, para proceder a su rectificación o cancelación. El precepto
+dispone: “Si los datos de carácter personal sometidos a tratamiento resultaran ser
+inexactos, en todo o en parte, o incompletos, serán cancelados y sustituidos de oficio
+por los correspondientes datos rectificados o completados en el plazo de diez días
+desde que se tuviese conocimiento de la inexactitud, salvo que la legislación aplicable
+al fichero establezca un procedimiento o un plazo específico para ello”.
+En atención a la exposición precedente, concluimos que CAJAMAR mantuvo los
+datos personales del denunciante en el fichero de solvencia BADEXCUG, por una
+deuda que no era cierta, ni vencida ni exigible desde la perspectiva del afectado
+durante cinco meses, periodo de tiempo durante el cual vulneró el principio de calidad
+de los datos en relación con el artículo 38.1.a) del RLOPD.
+Después de conocer que la deuda informada no cumplía el requisito del artículo
+38.1.a, RLOPD -a raíz de la notificación del Auto 441/2016, en fecha 05/10/2016continuó manteniendo los datos del denunciante en BADEXCUG incumpliendo con
+ello durante casi cinco meses el artículo 38.1.a) del RLOPD, en relación con el artículo
+4.3 y 29.4 LOPD.
+C.
+CAJAMAR ha esgrimido diversos argumentos en defensa de su pretensión de
+que la AEPD proceda al archivo de las presentes actuaciones.
+Entre ellos alude a la “pasividad” demostrada por el denunciante que habiendo
+tenido conocimiento en fecha 05/10/2016 del Auto 401/2016, dice la entidad, no
+solicitó la cancelación de la inclusión hasta el 07/03/2017, fecha en la que ejerció su
+derecho ante EXPERIAN. CAJAMAR se refiere con ello a la solicitud de cancelación
+que el denunciante dirigió a EXPERIAN, de fecha 07/03/2017, a la que la responsable
+del fichero de solvencia le respondió mediante carta de fecha 09/03/2017 en la que le
+comunicaba que se había procedido a la cancelación cautelar de la incidencia
+informada en su fichero.
+Llama la atención que CAJAMAR omita toda referencia a su propia conducta,
+cuando es precisamente ese aspecto el que nos corresponde aquí valorar. Más aún
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+12/30
+
+cuando intencionadamente CAJAMAR omite que EXPERIAN puso a su disposición, a
+través de la aplicación eSPaCio, la solicitud del denunciante y la documentación
+adjunta a ella y entró en el expediente desde la citada aplicación y denegó la
+cancelación de sus datos de BADEXCUG.
+Resulta acreditado en el expediente que una vez que la solicitud de cancelación
+del denunciante se recibe por EXPERIAN, el 07/03/2017, esta entidad puso a
+disposición de CAJAMAR, valiéndose para ello de su herramienta informática
+“eSPaCio”, la petición formulada por el denunciante y la documentación que éste
+adjuntaba a aquélla. Entre la documentación que el denunciante anexó a su solicitud a
+fin de fundamentar su pretensión de cancelación, consta la siguiente: La copia del
+Auto 441/2016, del Juzgado de Primera Instancia número 13 de ***LOCALIDAD.1; la
+acreditación documental de la notificación del Auto a través de Lexnet y la copia del
+Informe emitido por el Departamento de Conducta de Mercados y Reclamaciones del
+Banco de España (expediente con Ref.R201605911) en relación con la reclamación
+formulada por el denunciante.
+Tal y como EXPERIAN ha acreditado documentalmente, CAJAMAR accedió a la
+aplicación y marcó “No baja”.
+Por tanto, CAJAMAR, omitiendo la diligencia que era procedente en el
+cumplimiento de las obligaciones que le impone la LOPD y normas de desarrollo, se
+opuso a la cancelación de los datos del denunciante de la que EXPERIAN le había
+informado, pese a que entonces ya habían transcurrido casi cinco meses desde la
+fecha en la que vino obligada a cancelar de oficio el dato inexacto (ex artículo 8.5
+RLOPD) sin necesidad de que el afectado ejerciera el derecho de cancelación
+respecto a los datos comunicados al fichero.
+Igualmente habría que señalar que es también exponente de la grave falta de
+diligencia demostrada por CAJAMAR y muestra de una verdadera grave pasividad el
+hecho de que, una vez notificado el Auto 441/2016, no procediera de inmediato, en el
+plazo máximo de diez días -ex artículo 8.5 RLOPD- a cancelar la incidencia informada
+a BADEXCUG por importe de 257.192,29 euros.
+CAJAMAR alega que contra el Auto 441/2016 interpuso recurso de apelación en
+fecha 24/11/2016, recurso que al día de la fecha no consta que haya sido resuelta aún
+por la Audiencia Provincial de ***LOCALIDAD.1. De ello concluye que no siendo firme
+el Auto precitado no tiene obligación de cumplirlo.
+Sin embargo, hasta tanto la apelación promovida por la entidad denunciada no
+se resuelva, era evidente que la deuda por importe de 257, 192,29 euros por la que el
+denunciante permaneció incluido en el fichero BADEXCUG a instancia de CAJAMAR
+desde el 14/06/2015, carecía de certeza, pues se encontraba sometida a una
+controversia sobre su existencia. De modo que, hasta tanto la resolución no sea firme
+-se resuelva el recurso de apelación entablado por CAJAMAR- la deuda aludida no
+podía calificarse de cierta, vencida y exigible desde la perspectiva del afectado y no
+estaba en condiciones de mantenerse en un fichero de solvencia o de acceder a él.
+D. El artículo 43 de la LOPD sujeta a su régimen sancionador a los responsables de
+los ficheros y a los encargados de tratamiento.
+La exigencia de responsabilidad sancionadora presupone la existencia del
+elemento subjetivo de la culpabilidad, esencial para que nazca responsabilidad en el
+ámbito del Derecho Administrativo Sancionador pues no es posible imponer sanciones
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+13/30
+
+basadas en la responsabilidad objetiva del presunto infractor. Las sanciones
+administrativas participan de la misma naturaleza que las penales, al ser una de las
+manifestaciones de la potestad punitiva del Estado y, como exigencia derivada de los
+principios de seguridad jurídica y legalidad penal consagrados en los artículos 9.3 y
+25.1 de la CE, es imprescindible que este elemento esté presente para imponerlas
+(STC 76/1999) .
+El artículo 28 de la Ley 40/2015, de Régimen Jurídico de las Administraciones
+Públicas, recoge el principio de culpabilidad en el marco del procedimiento
+administrativo sancionador y dispone: “Sólo podrán ser sancionadas por hechos
+constitutivos de infracción administrativa las personas físicas y jurídicas que resulten
+responsables de los mismos aun a título de simple inobservancia”. La acción u
+omisión sancionada administrativamente ha de ser, en todo caso, imputable a su autor
+a título de dolo o imprudencia, como ha reconocido reiteradamente el Tribunal
+Supremo que entiende que “existe imprudencia” siempre que se desatiende un deber
+legal de cuidado, es decir, cuando el sujeto infractor no se comporta con la diligencia
+exigible. Y considera que el grado de la diligencia a observar se determinará en
+atención a las circunstancias concurrentes en cada caso, tales como el especial valor
+del bien jurídico protegido o la profesionalidad exigible al infractor.
+En el presente caso no cabe duda de que CAJAMAR obró con una grave falta
+de diligencia al haber mantenido los datos personales de la denunciante en el fichero
+BADEXCUG incumpliendo el principio de calidad de los datos en relación con el
+artículo 38.1.a) del RLOPD cuando, pese a tener conocimiento de que la deuda
+informada al fichero común no era cierta, vencida ni exigible.
+En definitiva, está presente en los hechos analizados el elemento subjetivo de la
+culpabilidad: la falta de diligencia de la infractora se materializa en la ausencia de
+controles para verificar el cumplimiento las condiciones exigidas por la ley para
+mantener los datos de un tercero en un fichero de solvencia.
+A tenor de lo expuesto, estimamos que la conducta de CAJAMAR sometida a la
+consideración de esta Agencia vulnera el artículo 4.3, en relación con el 29.4, de la
+LOPD y el 38.1.a, del RLOPD, y es subsumible en el tipo infractor del artículo 44.3.c)
+LOPD
+IV
+En el acuerdo de inicio del expediente sancionador que nos ocupa se imputó a
+CAJAMAR la vulneración del principio de calidad de los datos, artículo 4.3 LOPD en
+relación el artículo 29.4 de la Ley Orgánica y en relación con los artículos 38.1.a) y
+38.1.c) del RLOPD, pues se estimó que la conducta infractora se había materializado
+en la inclusión de los datos del denunciante en un fichero de solvencia incumpliendo
+dos de las condiciones del artículo 38.1 del citado reglamento, los apartados a) y c).
+El artículo 38.1.c) alude a la obligación de requerir el pago de la deuda a la
+persona a quien corresponde su cumplimiento con carácter previo a la comunicación
+de sus datos al fichero de solvencia
+Paralelamente, los artículos 38.3 y 39 del RLOPD establecen, respectivamente:
+“El acreedor o quien actúe por su cuenta o interés estará obligado a conservar a
+disposición del responsable del fichero común y de la Agencia Española de Protección
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+14/30
+
+de Datos documentación suficiente que acredite el cumplimiento de los requisitos
+establecidos en este artículo y del requerimiento previo al que se refiere el artículo
+siguiente”.
+“El acreedor deberá informar al deudor, en el momento en que se celebre el
+contrato y, en todo caso, al tiempo de efectuar el requerimiento al que se refiere la
+letra c) del apartado 1 del artículo anterior, que en caso de no producirse el pago en el
+término previsto para ello y cumplirse los requisitos previstos en el citado artículo, los
+datos relativos al impago podrán ser comunicados a ficheros relativos al cumplimiento
+o incumplimiento de obligaciones dinerarias.
+El artículo 43.1 del RLOPD añade que “El acreedor o quien actúe por su cuenta
+o interés deberá asegurarse que concurren todos los requisitos exigidos en los
+artículos 38 y 39 en el momento de notificar los datos adversos al responsable del
+fichero común”.
+El criterio seguido, de manera uniforme, por la Audiencia Nacional, Sala de lo
+Contencioso Administrativo, a propósito del alcance de la obligación que el artículo 4.3
+de la LOPD -en relación con el 29.4 de la misma norma y el artículo 38.1.c) del
+RLOPD- impone al responsable de un fichero sobre el cumplimiento o incumplimiento
+de obligaciones dinerarias es que aquél debe estar en condiciones de acreditar que ha
+practicado el requerimiento previo de pago al deudor utilizando para ello un medio que
+deje constancia efectiva de haberlo efectuado y de que tal requerimiento ha sido
+recibido por su destinatario.
+La Audiencia Nacional, en Sentencia de 24/01/2003 precisó que “Ningún
+precepto legal ni reglamentario exige, ciertamente, que la comunicación dirigida a los
+interesados sobre la inclusión de sus datos personales en el fichero deba cursarse por
+correo certificado con acuse de recibo o por cualquier otro medio que deje constancia
+documental de la recepción. Sin embargo, existiendo preceptos legales que imponen
+como obligatoria esta comunicación (artículos 5.4 y 29.2 de la Ley Orgánica 15/1999)
+y que tipifican como infracción grave el incumplimiento de este deber de información
+(artículo 44.3.l de la propia Ley Orgánica) debe concluirse que cuando el destinatario
+niega la recepción, recae sobre el responsable del fichero la carga de acreditar la
+comunicación. De otro modo, si para considerar cumplida la obligación bastase con la
+afirmación de tal cumplimiento por parte del obligado, resultaría en la práctica ilusoria
+y privada de toda efectividad aquella obligación legal de informar al interesado” (El
+subrayado es de la AEPD)
+Durante las Actuaciones de Investigación previa CAJAMAR no facilitó a la
+Inspección de Datos ningún documento que acreditara haber realizado el preceptivo
+requerimiento de pago al denunciante previo a la inclusión de sus datos en
+BADEXCUG. Recordemos que respecto a la deuda a la que se refiere la denuncia
+(operación identificada con el código 0300716490219129) la entidad efectuó tres
+inclusiones en el fichero de solvencia, la tercera con fecha de alta 17/05/2015. Ante la
+ausencia de pruebas aportadas por la denunciada, el acuerdo de inicio del expediente
+sancionador concretó la conducta infractora en la vulneración de ambos apartados del
+artículo 38.1 RLOPD.
+En su escrito de alegaciones al acuerdo de inicio CAJAMAR adujo que si no
+aportó la documentación referente al requerimiento de la deuda fue porque la Agencia
+no específico en su solicitud de información a cuál de las deudas que el denunciante
+mantuvo con ella se estaba refiriendo. Por ello, en el trámite de alegaciones al
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+15/30
+
+acuerdo de inicio aportó diversa documentación que, a su juicio, acreditaba que
+efectuó el requerimiento de pago que la AEPD consideró incumplido.
+Sin embargo, esos documentos que CAJAMAR nos remite adjuntos al escrito de
+alegaciones no tienen virtualidad para entender cumplido el requisito del artículo
+38.1.c) RLOPD.
+Esta afirmación se fundamenta en el hecho de que los documentos aportados,
+pese a consistir en cartas referenciadas y personalizadas a nombre del denunciante,
+dirigidas a su domicilio, a que en ellas la entidad le requiere el pago de un
+determinado importe y a que van acompañadas de los documentos que permiten
+seguir su trazabilidad -esto es, el recorrido seguido por la carta desde que se
+imprime, pasando por el depósito efectuado por Ruta Oeste Mensajeros en UNIPOST,
+y el certificado de que las cartas no constan devueltas–, no coinciden ni en las fechas
+ni en los importes requeridos con el importe que se comunicó por CAJAMAR a
+BADEXCUG en las tres inclusiones relativas al impago de la deuda procedente del
+préstamo hipotecario concertado con ella.
+Recordemos que CAJAMAR informó a BADEXCUG los datos del denunciante
+asociados a impagos derivados del préstamo hipotecario en tres ocasiones: La
+primera inclusión, con fecha de alta 06/04/2014, por un saldo impagado de 1.315,87
+euros; la segunda, con fecha de alta 29/06/2014, por un impago de 2.697,09 euros y la
+tercera, con fecha de alta 17/05/2015, por un importe impagado en esa fecha de
+12.138,47 euros. Paralelamente, como se recoge en el Hecho Probado séptimo,
+según la documentación que CAJAMAR nos aporta, los requerimientos de pago se
+hicieron, respectivamente, en las siguientes fechas y por estos importes: (i) el
+03/02/2014, por 953,13 euros; (ii) el 06/03/2014 por un importe de 816,50 euros; (iii) el
+04/05/2014 por 911,28 euros; (iv) el 04/06/2014 por 1.598,23 euros y (v) el 21/04/2015
+por 11.126,39 euros.
+No obstante la consideración precedente, es obligado traer a colación al asunto
+que nos ocupa el criterio que, a propósito del término inicial del cómputo del plazo de
+prescripción de la infracción tipificada en el artículo 44.3.c) LOPD, fijó la Sala de lo
+Contencioso Administrativo de la Audiencia Nacional en su SAN de 03/11/2011 (Rec.
+611/2010) para el caso de que esa infracción derive de haberse omitido el preceptivo
+requerimiento de pago previo a la inclusión de datos de terceros en un fichero de
+solvencia. Criterio que la A.N. ha confirmado sin fisuras en Sentencias posteriores
+hasta la actualidad.
+La SAN citada, en su Fundamento Jurídico Tercero, dice que la infracción del
+principio de calidad del dato, concretado en la inclusión de datos exactos en el fichero
+de morosos sin haber realizado previamente el requerimiento de pago al deudor “(…)
+priva al afectado de la posibilidad de hacer frente a la deuda antes de sufrir las
+consecuencias de que sus datos sean inscritos en dicho fichero. (….)
+(….) Y dado que la irregularidad consiste, en este caso, en no haber puesto en
+conocimiento del deudor que la deuda se iba a inscribir en el fichero de solvencia
+patrimonial, esta cesa en el momento en el que conste que el deudor tiene
+conocimiento de que la deuda ha sido inscrita en el fichero de morosos, pues a partir
+de ese momento tiene conocimiento de la situación y tiene la posibilidad de hacer
+frente a la misma para evitar el mantenimiento de la inscripción en el fichero, y, por
+tanto, desde ese momento la infracción deja de producirse y comienza el cómputo del
+plazo de prescripción”. (El subrayado de la AEPD)
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+16/30
+
+Así las cosas, el término inicial para el cómputo del plazo de prescripción de la
+infracción del artículo 4.3 LOPD en relación con el incumplimiento del requisito del
+artículo 38.1.c, RLOPD – plazo que es de dos años (ex artículo 47 LOPD en relación
+con el 44.3.c y el 43.2. de la Ley Orgánica)- se sitúa en la fecha en la que el
+denunciante parece haber tenido conocimiento de que sus datos habían sido
+comunicados al fichero, esto es, a BADEXCUG, por CAJAMAR fruto el impago de la
+deuda derivada del préstamo hipotecario.
+No puede obviarse, en tal sentido, que entre la documentación que el
+denunciante aportó a esta Agencia con su escrito de denuncia figura la copia de un
+email que dirigió a una empleada de CAJAMAR – D. ª C.C.C.- el 31/05/2016 (folio 27)
+en el que el afectado afirma que desde el mes de julio de 2015 conoce la inclusión de
+sus datos en el fichero de solvencia. El tercer párrafo del documento precitado dice
+así:
+“Como te comenté por teléfono, desde julio del año pasado tengo escritos del
+responsable de la compañía aseguradora Plus Ultra, que me pide explicaciones por la
+situación. En su escrito, hace referencia expresamente que es la entidad CAJAMAR
+que me tiene inscrito en ficheros de morosos” (El subrayado es de la AEPD)
+Aun cuando CAJAMAR hubiera incumplido el artículo 38.1.c) del RLOPD, la
+manifestación del denunciante constituye un indicio de que conocía en la fecha que
+menciona, julio de 2015, que sus datos figuraban incluidos en el fichero de solvencia
+BADEXCUG por la denunciada.
+Ahora bien, siendo el término inicial del plazo de prescripción, en el mejor de los
+casos, a tenor de lo manifestado por el denunciante, el 31/07/2015, y siendo el plazo
+de prescripción de las infracciones graves de dos años (ex artículo 47.1 LOPD),
+resulta que el incumplimiento del requisito del artículo 38.1.c) RLOPD no puede ser
+presupuesto fáctico de la infracción del artículo 4.3 LOPD ni generar responsabilidad
+administrativa sancionadora ya que desde el 31/07/2017, veinticinco días antes de que
+la denuncia que nos ocupa tuviera entrada en esta Agencia, la presunta infracción en
+la que era subsumible (artículo 44.3.c) LOPD) estaría prescrita.
+Por tal razón, tanto en el Fundamento precedente como en la propuesta de
+resolución dictada, la conducta infractora subsumible en el artículo 44.3.c) LOPD de la
+que es responsable CAJAMAR quedó circunscrita a la vulneración del artículo 38.1.a)
+RLOPD.
+Llegados a este punto es importante subrayar que, frente a lo que afirma
+CAJAMAR en su escrito de alegaciones a la propuesta de resolución – “Mi representa
+efectuó el preceptivo requerimiento de pago al Sr. A.A.A. tal y como ha quedado
+acreditado, por lo que no se ha vulnerado el artículo 38.1.c) del RLOPD” (Alegación
+previa, antecedentes, punto 1.5)- la realidad es bien distinta. La denunciada en ningún
+caso ha acreditado el cumplimiento de ese requisito. La razón que motiva que la
+conducta infractora de la que nace la responsabilidad exigible a esa entidad se
+circunscriba al incumplimiento del apartado a) del artículo 38.1 RLOPD es, como se
+hizo constar en su momento en la propuesta de resolución, que la infracción en la que
+fuera subsumible habría prescrito por el juego del artículo 47 RLOPD y el criterio que
+sobre el término inicial del plazo de prescripción de la infracción del artículo 4.3 LOPD,
+cuando venga motivada por el incumplimiento del deber de requerir el pago con
+carácter previo, fijó la SAN de 03/11/2011 (Rec. 611/2010)
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+17/30
+
+En definitiva, resulta acreditado que CAJAMAR mantuvo en el fichero de
+solvencia BADEXCUG los datos personales del denunciante, asociados a una deuda
+que no era cierta, durante casi cinco meses, computados desde la fecha en la que la
+entidad debió de haber procedido de oficio a cancelar esa incidencia (cuando el
+Juzgado le notifica el Auto 401/2016 dictado en el incidente de oposición a la
+Ejecución Hipotecaria 881/2015). Conducta que es contraria al artículo 4.3 LOPD, en
+relación con el artículo 29.4, y en relación con el artículo 38.1.a, RLOPD, subsumible
+en el tipo sancionador del artículo 44.3.c) LOPD.
+IV
+El artículo 45 de la LOPD, apartados 1 a 5, establece:
+“1. Las infracciones leves serán sancionadas con multa de 900 a 40.000 euros.
+2. Las infracciones graves serán sancionadas con multa de 40.001 a 300.000
+euros.
+3. Las infracciones muy graves serán sancionadas con multa de 300.001 a
+600.000 euros.
+4. La cuantía de las sanciones se graduará atendiendo a los siguientes criterios:
+a) El carácter continuado de la infracción.
+b) El volumen de los tratamientos efectuados.
+c) La vinculación de la actividad del infractor con la realización de tratamientos
+de datos de carácter personal.
+d) El volumen de negocio o actividad del infractor.
+e) Los beneficios obtenidos como consecuencia de la comisión de la infracción.
+f) El grado de intencionalidad.
+g) La reincidencia por comisión de infracciones de la misma naturaleza.
+h) La naturaleza de los perjuicios causados a las personas interesadas o a
+terceras personas.
+i) La acreditación de que con anterioridad a los hechos constitutivos de
+infracción la entidad imputada tenía implantados procedimientos adecuados de
+actuación en la recogida y tratamiento de los datos de carácter personal,
+siendo la infracción consecuencia de una anomalía en el funcionamiento de
+dichos procedimientos no debida a una falta de diligencia exigible al infractor.
+j) Cualquier otra circunstancia que sea relevante para determinar el grado de
+antijuridicidad y de culpabilidad presentes en la concreta actuación infractora.
+5. El órgano sancionador establecerá la cuantía de la sanción aplicando la escala
+relativa a la clase de infracciones que preceda inmediatamente en gravedad a
+aquella en que se integra la considerada en el caso de que se trate, en los
+siguientes supuestos:
+a) Cuando se aprecie una cualificada disminución de la culpabilidad del
+imputado o de la antijuridicidad del hecho como consecuencia de la
+concurrencia significativa de varios de los criterios enunciados en el apartado 4
+de este artículo.
+b) Cuando la entidad infractora haya regularizado la situación irregular de
+forma diligente.
+c) Cuando pueda apreciarse que la conducta del afectado ha podido inducir a
+la comisión de la infracción.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+18/30
+
+d) Cuando el infractor haya reconocido espontáneamente su culpabilidad.
+e) Cuando se haya producido un proceso de fusión por absorción y la
+infracción fuese anterior a dicho proceso, no siendo imputable a la entidad
+absorbente.”
+La Sentencia de 21/01/2004 de la Audiencia Nacional, en su recurso
+1939/2001, señaló que dicho precepto <<…no es sino manifestación del llamado
+principio de proporcionalidad (artículo 131.1 de la LRJPAC), incluido en el más general
+de prohibición de exceso, reconocido por la jurisprudencia como principio general del
+Derecho. Ahora bien, la presente regla debe aplicarse con exquisita ponderación y
+sólo en los casos en los que la culpabilidad y la antijuridicidad resulten
+sustancialmente atenuadas, atendidas las circunstancias del caso concreto. Lo cual
+insistimos puede darse, por excepción, en casos muy extremos (de aquí la expresión
+“especialmente cualificada”) y concretos.
+En la graduación de la sanción han de valorarse, exclusivamente, las
+circunstancias descritas en el artículo 45.4 LOPD, pues esta Agencia no aprecia la
+concurrencia de ninguna de las atenuantes cualificadas del artículo 45.5 LOPD.
+A. CAJAMAR, sin embargo, ha mostrado su total desacuerdo con la valoración
+que la Agencia ha hecho en el presente expediente de las disposiciones de los
+artículos 45.4 y 45.5 LOPD.
+Así, en sus alegaciones al acuerdo de inicio, solicitó que se estimaran a su favor
+las atenuantes cualificadas de los apartados a, y b, del artículo 45.5 LOPD. Y en su
+escrito de alegaciones a la propuesta esgrime nuevos argumentos en defensa de su
+pretensión de que se reconozcan como atenuantes las circunstancias descritas en los
+apartados b), c),d), e) f) y g) del artículo 45.4 LOPD.
+Respecto a la primera pretensión, en particular sobre la solicitud de que se
+estime la atenuante cualificada del artículo 45.5, apartado b), sólo cabe rechazarla por
+motivos obvios. El precepto cuya aplicación se solicita alude a que la infractora haya
+regularizado la situación irregular de forma diligente y, por el contrario, en el asunto
+que nos ocupa no existe ninguna diligencia en la actuación de CAJAMAR.
+Recordemos que la baja de la anotación en el fichero BADEXCUG se produjo por
+decisión de EXPERIAN y pese a la negativa de CAJAMAR, que así lo hizo constar en
+la aplicación eSPaCio, cuando el afectado ejercitó el derecho de cancelación ante la
+responsable del fichero de solvencia.
+En esa línea hemos de recordar que el denunciante remitió a CAJAMAR un
+burofax el 25/01/2017 (por tanto, mucho antes de que ejercitase el derecho de
+cancelación ante EXPERIAN), obrante a los folios 21 a 23, en el que solicita la
+cancelación de sus datos del fichero y explica que la deuda informada no es cierta.
+También pueden citarse los email que el denunciante dirigió una empleada de la
+entidad financiera (dirección C.C.C.@cajamar.com) de fecha 02/03/2017, 29/11/2016;
+31/05/2016 y 27/05/2016 (folios 27 a 31) en los que solicita la baja de sus datos del
+fichero de solvencia.
+Sobre la invocada aplicación de la atenuante cualificada del apartado a) del
+artículo 45.5 LOPD, la denunciada justifica su pretensión en la concurrencia, a su
+juicio, de varías de las circunstancias descritas en el artículo 45.4 que operan en su
+opinión como atenuantes. Menciona al efecto el artículo 45.4.b), relativo al volumen de
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+19/30
+
+tratamientos efectuados, pues la “presunta infracción (que) afectaría a un solo
+tratamiento, lo cual es una cifra minúscula en relación con los tratamientos de los que
+responsable la Compañía”. Cita también como atenuantes las circunstancias de los
+apartados c), d) y h) del artículo 45.4 LOPD –que la Agencia ha calificado como
+agravantes, apreciación que la denunciada rechaza- y los apartados e) -ausencia de
+beneficios- y f) del precepto, -el grado de intencionalidad- pues “…nunca ha
+pretendido vulnerar los derechos del interesado…”
+El apartado b) del artículo 45.4 LOPD, volumen de tratamientos efectuados, no
+puede operar, por su propia configuración, como atenuante sino exclusivamente como
+agravante. La pretensión de CAJAMAR de que se aprecie esta circunstancia como
+atenuante por la única razón de que ha afectado a una única persona o a un único
+tratamiento no parece lógica, porque en tal caso toda conducta típica prevista en la
+LOPD que entrañe un tratamiento de datos, por este sólo hecho, llevaría aparejada
+indefectiblemente esa atenuante.
+Añadir a propósito de tal circunstancia que la entidad en sus alegaciones a la
+propuesta parece dar a entender que la Agencia ha aplicado esa circunstancia como
+agravante cuando lo cierto es que ni se valora como atenuante ni tampoco se aprecia
+en calidad de agravante.
+La A.N., a propósito de la circunstancia modificativa de la responsabilidad del
+apartado e) del artículo 45.4, ausencia de beneficios, ha manifestado en su Sentencia
+de 17/04/2018 (Rec. 254/2017), en la que rechazó la pretensión de la demandante,
+sancionada por la AEPD, de que se estimara esa circunstancia como atenuante: “En
+cuanto a la ausencia de beneficios, no cabe sino reiterar lo argumentado por la
+resolución recurrida, respecto a que lo relevante es que la actuación de Abanca sí
+estuvo motivada por la búsqueda de beneficio económico, por lo que el hecho de que
+aquél no llegara finalmente a obtenerse no puede servir de fundamento a una
+atenuación de culpabilidad o antijuridicidad de su conducta”. Espíritu que también se
+refleja en la SAN de 31/03/2017 (Rec. 845/2015)
+Así pues, pese a que CAJAMAR aduzca en defensa de su pretensión de que
+opere como atenuante que no obtuvo beneficios con su conducta sino que su
+actuación tuvo como objetivo minorar el perjuicio que le estaba siendo causado, lo
+cierto es que la deuda atribuida al denunciante estaba relacionada con un contrato de
+préstamo concertado con esa entidad, lo que encaja en el espíritu de la interpretación
+que la A.N. hace de la mentada circunstancia.
+Tampoco es admisible la petición de la denunciada de que se aprecie como
+atenuante el apartado f) del artículo 45.4 LOPD, por más que afirme que no actuó
+intencionadamente ni intervino culpa por su parte. Señalar sobre la ausencia de
+intencionalidad que en ningún apartado se ha hecho mención a una actuación dolosa
+por lo que tal alegato carece de razón de ser. Respecto a la invocada negativa a la
+omisión de diligencia debida nos remitimos al Fundamento de Derecho II, último
+apartado.
+Además, hemos de advertir que la expresión “grado de intencionalidad” que el
+apartado f) del artículo 45.4 LOPD utiliza debe interpretarse como equivalente a
+“grado de culpabilidad”. La SAN de 12/11/2007 (Rec. 351/2006) indicó sobre esta
+cuestión que “ (…)Cuando concurre una falta de diligencia, como aquí acontece,
+existe culpabilidad y la conducta merece sin duda un reproche sancionador sin que el
+hecho de que no exista actuación dolosa deba conllevar necesariamente una
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+20/30
+
+disminución aún mayor de la sanción cuando ésta ha sido impuesta en su grado
+mínimo”.
+B. CAJAMAR afirma en su escrito de alegaciones a la propuesta de resolución
+que la AEPD ha vulnerado el principio de proporcionalidad que exige, dice, “que una
+reducción cuantitativa o cualitativa del hecho sancionable se refleje en la valoración de
+la sanción”. A su juicio tal vulneración se ocasiona porque la sanción que se estableció
+en el acuerdo de inicio (60.000 euros), en el que la Agencia manifestó que la conducta
+infractora se concretaba en el incumplimiento de los requisitos de los apartados a) y c)
+del artículo 38.1 RLOPD, se mantuvo invariable en la propuesta de resolución, pese a
+que en ella se delimita definitivamente la conducta infractora, exclusivamente, en la
+vulneración de uno y no dos de los requisitos del artículo 38.1. RLOPD, el apartado a).
+Sin embargo, esta Agencia ha actuado con pleno respeto al principio de
+proporcionalidad de la sanción. Hemos de indicar, en primer lugar, que el acuerdo de
+inicio del expediente sancionador (Fundamento de Derecho III) recogía que, “sin
+perjuicio de lo que resulte de la instrucción”, concurrían en calidad de agravantes tres
+circunstancias de las descritas en el artículo 45.4 LOPD: los apartados a), c) y d). A
+diferencia de ello, la propuesta de resolución estima que son cuatro las circunstancias
+previstas en el artículo 45.4 de la LOPD que operan en el asunto que nos ocupa como
+agravantes: además de los apartados ya mencionados del artículo 45.4 LOPD el
+apartado h).
+Basta añadir a lo expuesto, de una parte, que a través de cualquiera de dichas
+conductas -la vulneración del artículo 38.1, apartados a) y c) del RLOPD- se ataca el
+mismo principio informador del derecho a la protección de datos de carácter personal,
+la calidad de los datos y, de otra, que la sanción de 60.000 euros está muy próxima al
+mínimo previsto en el artículo 45.2 LOPD para las infracciones graves.
+C. Esta Agencia estima que concurren como agravantes a efectos de fijar el
+importe de la sanción las siguientes circunstancias de las que detalla el artículo 45.4
+LOPD:
+
+-
+
+“El carácter continuado de la infracción” (apartado a,) Es de aplicación en
+aquellos supuestos en los que la infracción cometida tiene carácter
+permanente, naturaleza que la Audiencia Nacional ha atribuido a la
+infracción del artículo 4.3 LOPD. Los datos personales del denunciante se
+mantuvieron incluidos en el fichero de solvencia patrimonial BADEXCUG
+sin legitimación para ello desde el 05/10/2016, fecha en la que conoció
+fehacientemente que la deuda informada al fichero no era cierta y hasta el
+14/03/2017.
+CAJAMAR rechaza la aplicación de tal circunstancia como agravante y al
+hilo de ella pone de manifiesto la valoración arbitraria que ha hecho la
+Agencia. Indica que en resoluciones por hechos análogos en los que la
+permanencia en el fichero fue mayor la sanción tuvo una cuantía inferior.
+Invoca las resoluciones siguientes:
+
+a. Resolución 208/2018, de 15/02. Se dicta en el PS447/2017 y
+difícilmente puede establecerse una correlación con el supuesto que
+nos ocupa por cuanto la infracción de la LOPD por la que fue
+sancionada la entidad correspondía al tipo sancionador del artículo
+44.3.e)
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+21/30
+
+b. Resolución 3526/2017, de 02/01. Corresponde al PS411/2017. También
+aquí existen diferencias. Además de que la conducta infractora
+consistió en la falta de requerimiento de pago, se apreció la
+concurrencia de tres agravantes en tanto que en la propuesta de
+resolución del presente expediente se apreciaron cuatro circunstancias
+agravantes de la responsabilidad de la entidad.
+c. Resolución 2275/2017, de 11/10. Corresponde al PS 239/2017. La
+conducta infractora fue la falta de requerimiento previo de pago y se
+apreciaron únicamente dos agravantes.
+
+-
+
+“La vinculación de la actividad del infractor con la realización de
+tratamientos de datos de carácter personal” (apartado c,). La actividad
+empresarial de CAJAMAR lleva implícita el tratamiento de datos de
+carácter personal, lo que le obliga a extremar la diligencia en el
+cumplimiento de la normativa de protección de datos.
+Sobre la incidencia que la actividad desarrollada por el infractor tiene en el
+grado de diligencia que es exigible en el cumplimiento de las obligaciones
+que le impone la normativa de protección de datos, hay que indicar que la
+Audiencia Nacional, en SAN de 17/10/2007 (Rec. 63/2006), ha precisado
+que “….el Tribunal Supremo viene entendiendo que existe imprudencia
+siempre que se desatiende un deber legal de cuidado, es decir, cuando el
+infractor no se comporta con la diligencia exigible. Y en la valoración del
+grado de diligencia ha de ponderarse especialmente la profesionalidad o no
+del sujeto, y no cabe duda de que, en el caso ahora examinado, cuando la
+actividad de la recurrente es de constante y abundante manejo de datos de
+carácter personal ha de insistirse en el rigor y el exquisito cuidado por
+ajustarse a las prevenciones legales al respecto”. (El subrayado es de la
+AEPD)
+CAJAMAR ha alegado frente a la propuesta de resolución que su actividad
+“no está vinculada al tratamiento infractor de datos de carácter personal”
+(El subrayado es de la AEPD)
+Basta indicar que la actividad de la entidad, por sus particulares
+características le obliga a recabar datos personales de sus clientes. Si bien
+afirma que el impago de deuda con el correspondiente procedimiento de
+reclamación de aquéllas no forma parte de su actividad como empresario
+es aconsejable recordar que entre sus actividades mercantiles se
+encuentra la concesión de préstamos por lo que el riesgo de
+incumplimiento del pago es inherente a la actividad.
+
+-
+
+“El volumen de negocio o actividad del infractor” (apartado d,). La cifra de
+negocio de CAJAMAR revela que estamos ante una gran empresa
+perteneciente al sector financiero, hecho notorio que no requiere ser objeto
+de prueba.
+CAJAMAR rechaza en sus alegaciones que, en su situación, se pueda
+aplicar tal circunstancia como agravante y argumenta que “la cuota de
+mercado de CAJAMAR es mínima”.
+Sin embargo, estimamos que lo que el artículo 44.4.d) LOPD toma en
+consideración es el volumen de negocio por sí mismo, como exponente del
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+22/30
+
+número potencial de afectados que el comportamiento irregular de la
+entidad puede llegar a generar, pero en ningún caso se refiere al volumen
+que una determinada entidad tiene en comparación con otras del mismo
+sector en el que opera. Lo relevante, por tanto, es si estamos ante lo que
+cabría considerar como una gran empresa, en la que el volumen permite
+imaginar el número de datos que son objeto de tratamiento, o ante una
+PYME.
+Esa disposición, con independencia de los comentarios que puedan
+haberse incorporado en las resoluciones dictadas por la AEPD, se refiere al
+volumen de negocio o actividad. Para la Agencia Estatal de Administración
+Tributaria tienen la consideración de grandes empresas aquellas en las que
+el volumen de operaciones de la entidad supera los 6 millones de euros,
+situación en la que se encuentra CAJAMAR.
+
+-
+
+“La naturaleza de los perjuicios causados a las personas interesadas o a
+terceras personas”, (apartado h)
+Además de recordar que, como ha declarado la Audiencia Nacional, (SAN
+de 16/02/2001, Rec. 1144/1999, Fundamento de Derecho Cuarto) “...la
+inclusión equivocada o errónea de una persona en el registro de morosos,
+es un hecho de gran trascendencia de la que se pueden derivar
+consecuencias muy negativas para el afectado, en su vida profesional,
+comercial e incluso personal, que no es necesario detallar. En razón a ello,
+ha de extremarse la diligencia para que los posibles errores no se
+produzcan, ...”, han de valorarse otros aspectos de la conducta
+denunciada.
+A tal efecto, la Sala de lo Contencioso Administrativo de la A.N en sus
+últimas sentencias viene considerando que se han producido perjuicios al
+afectado si éste se ha visto obligado a desplegar una actividad, con la
+consiguiente inversión de medios materiales, a fin de lograr que se
+restablezca el respeto a su derecho fundamental a la protección de datos.
+Llegados a este punto, trasladando este razonamiento al supuesto
+analizado, se debe recordar la abundante actividad desplegada por el
+denunciante ante la denunciada para poner fin a la situación irregular
+provocada por CAJAMAR: emails del denunciante a la empleada de
+CAJAMAR, burofax dirigido a esa entidad, oposición a la Ejecución
+Hipotecaria promovida por CAJAMAR frente al denunciante. A lo que se
+suma el perjuicio profesional que resulta obvio le ha producido la inclusión
+de sus datos en ficheros de solvencia.
+
+Así las cosas, tomando en consideración, por una parte, que no se aprecia la
+concurrencia de ninguna de las atenuantes cualificadas del artículo 45.5 LOPD ni se
+aprecian tampoco atenuantes de entre las circunstancias que recoge el artículo 45.4
+LOPD, y por otra, que operan como agravantes las recogidas en los apartados a), c),
+d) y h) del artículo 45.4 LOPD, se acuerda imponer a CAJAMAR por la infracción del
+artículo 4.3, LOPD, en relación con el 29.4, y en relación asimismo con el artículo
+38.1.a) RLOPD, tipificada como infracción grave en el artículo 44.3.c), una sanción de
+60.000 euros, importe próximo al mínimo previsto en la LOPD para las infracciones
+graves. >>
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+23/30
+
+III
+Si bien consideramos que las cuestiones planteadas por la recurrente
+encuentran respuesta en la resolución impugnada, nos referimos a los motivos
+invocados como fundamento de su recurso.
+A.- Hemos de comenzar refiriéndonos a la alegación previa del recurso cuya finalidad,
+según afirma la recurrente, es clarificar los hechos denunciados. Los hechos que se
+relatan en los puntos 1.1 y 1.2 de la alegación previa coinciden con el contenido del
+Hecho probado cuarto de la resolución impugnada. También, y fundamental, es indicar
+que en el punto 1.3. de la alegación previa la recurrente hace referencia a la existencia
+de un recurso de apelación interpuesto por ella frente al Auto 401/2016 del Juzgado de
+Primera Instancia número 13 de ***LOCALIDAD.1 que resolvió el incidente de
+oposición a la Ejecución Hipotecaria 881/2015 promovida por CAJAMAR, que estaba
+pendiente de resolución ante la Audiencia Provincial.
+Sobre tal extremo -la existencia de un recurso de apelación, que estaba
+pendiente de resolución por la Audiencia Provincial, interpuesto por la ahora recurrente
+contra el Auto del Juzgado de Primera Instancia que resolvió el incidente de oposición
+a la ejecución hipotecaria formulado por el ejecutado- se ha de recordar que si bien no
+fue incorporado a la relación de Hechos Probados de la Propuesta de resolución ni,
+por consecuencia, tampoco a la relación de Hechos Probados de la resolución, esto no
+significa que se haya omitido la mención a él ni en la Propuesta ni en la resolución.
+Por el contrario, la existencia de un recurso de Apelación pendiente formulado
+por la reclamada y ahora recurrente frente al Auto 401/2016 ha sido citado en varios
+puntos de ambos escritos. A tal efecto nos remitimos al Antecedente sexto de la
+resolución (idéntico al de la Propuesta) que versa sobre las pruebas practicadas por la
+instructora del expediente y en cuyo último párrafo se dice:
+<<El Juzgado de Primera Instancia número 13 de ***LOCALIDAD.1 remitió la
+copia del Auto 401/16 de fecha 04/10/2016. Informó asimismo de que en fecha
+24/11/2016 el citado Auto fue recurrido en apelación por el ejecutante siendo remitidos
+los autos a la Audiencia Provincial el día 28/11/2016 para su resolución. Informó de
+que no consta que se haya resuelto la apelación por encontrarse el procedimiento en
+suspensión estando el Juzgado a la espera de dicha resolución para la continuación
+del pleito (Folios 307 a 315)>>
+También en el Fundamento Jurídico III.A) de la resolución se retomó esta
+cuestión con la finalidad de responder al malestar mostrado por la ahora recurrente en
+sus alegaciones a la Propuesta de resolución.
+La entidad había expresado su malestar por el hecho de que la Agencia no
+hubiera incorporado a la relación de Hechos Probados de la Propuesta que el Auto del
+Juzgado de Primera Instancia número 13 de -en consideración al cual la Agencia
+estimaba que desde la fecha en la que se notificó a la entidad ésta era conocedora de
+que la deuda que figuraba incluida en el fichero carecía de la certeza exigida por el
+artículo 38.1.a) del RLOPD- había sido impugnado en apelación ante la Audiencia
+Provincial y que aún no había sido resuelta. Para una mayor claridad reproducimos el
+siguiente fragmento del Fundamento Jurídico III.A):
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+24/30
+
+<<CAJAMAR muestra su malestar porque los hechos probados no han reflejado
+que el Auto 401/2016 del Juzgado de Primera Instancia número 13 de
+***LOCALIDAD.1 fue recurrido en apelación y que la Audiencia Provincial a fecha de
+hoy aún no ha resuelto el recurso. La entidad, no obstante, admite que esta
+circunstancia sí consta en el Antecedente sexto de la propuesta. Pues bien, la
+existencia de un recurso de apelación interpuesto frente al Auto 401/2016, pendiente
+de resolución por la Audiencia Provincial, no hace sino mantener en el tiempo la
+situación de incertidumbre de la deuda que había comunicado a BADEXCUG
+asociada al denunciante.
+Es precisamente esa controversia sobre la existencia de la deuda (fruto del Auto
+que pone fin al incidente de oposición a la Ejecución) lo que impide que en tales
+condiciones pueda ser comunicada al fichero, lo que implicaría atribuir al denunciante
+la condición de deudor por tal importe sin la certeza que exige el principio descrito en
+el artículo 4.3 LOPD, norma que estimamos ha sido infringida por CAJAMAR.
+Finalmente, por lo que atañe a esta cuestión, basta hacer dos precisiones más:
+La primera de ellas, que en contra de lo manifestado por la entidad denunciada
+esta Agencia, en ningún momento, ha declarado que la deuda que CAJAMAR atribuye
+al denunciante es incierta. Ni ha hecho tal declaración ni obviamente podría hacerla
+pues ninguna competencia tiene en esa materia. La AEPD se ha limitado a constatar
+un hecho: La declaración del Juzgado de Primera Instancia número 13 en la parte
+dispositiva de su Auto 401/2016: “la cantidad reclamada no es líquida”, “…es errónea
+la cantidad reclamada”.>>
+Añadir también que se hace mención a la existencia del recurso de Apelación
+que la ahora recurrente formuló frente al Auto 401/2016 en otros apartados de la
+Propuesta y de la resolución - Antecedente Quinto, punto 2.4. (que recoge el contenido
+de las alegaciones al acuerdo de inicio)- y de la resolución -Antecedente Octavo que
+resume sus alegaciones a la Propuesta de resolución-.
+B. Los motivos de impugnación de la resolución dictada en el PS/209/2018 que la
+recurrente invoca son los siguientes:
+B.1.- “Sobre la falta de motivación de la resolución”.
+Bajo esa rúbrica la recurrente expone que la AEPD “ha repetido los mismos
+argumentos esgrimidos en la Propuesta de Resolución” sin detenerse a analizar sus
+argumentos y que en “los escasos puntos en los que se detiene a analizar” “atribuye
+alegaciones no realizadas a mi representada, llegando incluso a distorsionar o
+modificar lo argumentado por esta parte”.
+Seguidamente reproduce dos fragmentos de la resolución impugnada. Uno
+pertenece al Antecedente octavo (si bien la recurrente, por error, lo sitúa en el
+“Antecedente séptimo”), en el que se recogían las alegaciones que CAJAMAR había
+formulado a la Propuesta, que dice:
+“Añade que la STS de 15/10/2010 declaró nulo el apartado a) del artículo 38.1
+RLOPD y que la Agencia ha intentado, contraviniendo dicha Sentencia, defender la
+aplicabilidad del inciso primero”.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+25/30
+
+El segundo fragmento de la resolución que la recurrente reproduce pertenece al
+Fundamento Jurídico III, A. y dice así:
+“CAJAMAR ha aducido en su defensa (alegaciones a la propuesta de resolución)
+que la Sentencia del Tribunal Supremo (…) declaró nulo el apartado a) del artículo
+38.1 del RLOPD y no, como sostiene esta Agencia únicamente su inciso último”
+La recurrente, después de transcribir los referidos fragmentos, añade que la
+Agencia ha hecho un análisis sesgado y desnaturalizado de sus alegaciones, pues ella
+fue “especialmente clara al pronunciarse sobre la nulidad, únicamente, del segundo
+inciso del artículo 38.1.a) del RLOPD”.
+En respuesta a este motivo de impugnación, además de manifestar que a
+nuestro juicio la simple lectura de la resolución evidencia que fue convenientemente
+motivada, habida cuenta de las consideraciones hechas por la recurrente acerca de
+que la resolución ha “distorsionado” o “modificado” el contenido de sus alegaciones
+parece conveniente reproducir aquellas alegaciones de la recurrente a la propuesta de
+resolución.
+Una lectura de las alegaciones de CAJAMAR revela lo siguiente: en su alegación
+segunda, folio 6, párrafo quinto, aludía a “(…) la aplicabilidad de un inciso del apartado
+uno, letra a), del artículo 38 RLOPD declarado nulo por el Tribunal…” (El subrayado es
+de la AEPD). En su alegación segunda, folio 7, párrafo penúltimo, de las alegaciones a
+la Propuesta, la recurrente decía: “Por lo tanto, siguiendo el criterio Tribunal
+Constitucional y del Tribunal Supremo, (…) el Tribunal Supremo decidió expulsar del
+ordenamiento el último inciso del artículo 38.1.a) del RLOPD, siendo únicamente
+relevante a estos efectos, que la disposición es inexistente…”. (El subrayado es de la
+AEPD)
+Por tanto, la recurrente cita en sus alegaciones a la Propuesta una vez el
+“segundo inciso” del artículo 38.1.a) del RLOPD y en otro se refiere a “un inciso”, sin
+especificar cuál del artículo 38. 1.a. Pues bien, si como aduce la recurrente el
+argumento que invocó en sus alegaciones a la propuesta de resolución era que el
+Tribunal Supremo se había pronunciado sobre la nulidad del inciso segundo del
+artículo 38.1.a) del RLOPD, toda objeción frente al sentido de la resolución dictada por
+la Agencia se responde en el Fundamento de Derecho III de dicha resolución.
+Así pues, una vez más, reiteramos la remisión al Fundamento de Derecho III,
+apartado A, de la resolución impugnada.
+B.2. “Sobre el incumplimiento del principio de tipicidad de la resolución”.
+Bajo esta rúbrica cita y transcribe los artículos 4.3 de la LOPD, 29.4 (aunque
+erróneamente se indica “27.4”) y 38.1.a) del RLOPD. A continuación, la recurrente
+hace diversas afirmaciones que pasamos a reproducir:
+
+-
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+“Por lo tanto y según la AEPD, el incumplimiento de la norma citada se
+habría producido al inscribir CAJAMAR la deuda hipotecaria impugnada por
+el Sr. [denunciante] sin que ésta fuera cierta, vencida y exigible en la
+medida que el Sr. [denunciante] se había opuesto a la ejecución hipotecaria
+
+www.aepd.es
+sedeagpd.gob.es
+
+26/30
+
+instada por CAJAMAR en el marco del procedimiento 881/2015
+sustanciado ante el Juzgado de Primera Instancia número 13 de
+***LOCALIDAD.1”. (Folio 10 párrafo primero del escrito de recurso de
+reposición)
+Incluido en el siguiente motivo de impugnación (“Sobre la inexistencia del
+elemento subjetivo de la culpabilidad”) se pronuncia en términos parecidos
+cuando niega la existencia del elemento subjetivo de la infracción ya que
+ninguna responsabilidad puede atribuírsele por no haber “dado de baja los
+datos del Sr. [denunciante] en el momento en el que este se opuso a su
+demanda de ejecución”, argumentación que parte también de la incorrecta
+aplicación que hace la Agencia del artículo 38.1.a), inciso segundo, del
+RLOPD.
+Es totalmente contrario a la verdad que la resolución (como tampoco el acuerdo
+de inicio ni la propuesta de resolución) haya considerado que se vulneró el artículo 4.3
+LOPD, en relación con el artículo 38.1.a) RLOPD (requisito de certeza de la deuda),
+porque no dio de baja los datos del denunciante del fichero BADEXCUG “en el
+momento en el que este se opuso a su demanda de ejecución”.
+Son innumerables las ocasiones, no sólo en la resolución sino también en el
+escrito del acuerdo de inicio y en la propuesta, en las que se determina con total
+precisión que el requisito de certeza de la deuda que exige el artículo 381.a, del
+RLOPD desaparece desde que se notifica el Auto que dicta el Juzgado de Primera
+Instancia que conoció del Incidente de Oposición promovido por el ejecutado.
+El Fundamento de Derecho III, apartado A dice en su primer párrafo que este
+requisito (se refiere al apartado a, del artículo 38.1 del RLOPD) “fue incumplido por
+CAJAMAR desde el 05/10/2016 y hasta la baja de la incidencia informada, el
+14/032017”. Además, el Hecho probado sexto menciona el documento que acredita la
+notificación a través de LEXNET al procurador de la entidad ejecutante del Auto que
+resolvía el incidente de oposición promovido por el ejecutado en fecha 05/10/2016.
+Paralelamente, el Hecho probado tercero, párrafos último y penúltimo, dejan
+constancia de que EXPERIAN canceló cautelarmente la incidencia informada por
+CAJAMAR el 14/03/2017, a raíz de que el afectado ejercitara ante ella el derecho de
+cancelación y que unos días antes, el 09/03/2017, accedió a la aplicación de
+EXPERIAN y confirmó la incidencia.
+En idéntico sentido se pronuncia la resolución en el Fundamento III, apartado B),
+en los párrafos séptimo, noveno, undécimo, duodécimo y último.
+Respecto al argumento de que la AEPD ha vulnerado el artículo 222.4 de la Ley
+de Enjuiciamiento Civil por cuanto “al no ser el Auto firme, carece de consideración de
+cosa juzgada y, en consecuencia, no puede resultar vinculante en el presente
+procedimiento”, nos limitamos a recordar que el mismo alegato se hizo en el escrito de
+alegaciones a la propuesta de resolución por lo que nos remitimos de nuevo al
+Fundamento III de la resolución, apartado A.
+B.3. “Sobre los criterios cuantificadores de la sanción”:
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+27/30
+
+La recurrente subraya, como hiciera en sus alegaciones a la Propuesta, que la
+AEPD ha acordado mantener la sanción de 60.000 euros que fijó en el acuerdo de
+inicio pese a que en dicho acuerdo “se proponía sancionar a [CAJAMAR] por el
+presunto incumplimiento de dos obligaciones -la prevista en los preceptos a) y c) del
+artículo 38.1 RLOPD” y a que en la resolución se le sanciona “por el incumplimiento de
+una sola obligación”.
+La resolución recurrida dedicó el apartado B) del Fundamento de Derecho IV
+(segundo de los Fundamentos identificados como IV) a responder a tal cuestión y a
+explicar las razones por las que no se había vulnerado el principio de proporcionalidad
+en la imposición de la sanción.
+Sorprendentemente, el resultado de las explicaciones ofrecidas por la Agencia
+ha sido el párrafo del escrito de interposición del recurso que no ocupa en el que se
+afirma que la AEPD ha imputado una nueva infracción a la entidad. El folio 26 del
+escrito de interposición, párrafo segundo, dice así:
+“No obstante, no es el anterior argumento el que más sorprende a esta parte. En
+el último párrafo de la letra B del Fundamento de Derecho IV, la Agencia justifica el
+mantenimiento de la cuantía en que la infracción del artículo 38.1.a) no solo vulnera el
+principio de calidad de los datos, como se había tenido en cuenta al inicio del
+procedimiento, sino que vulnera también el principio informador (…)
+(i)
+….
+(ii)
+La vulneración del deber de información no ha sido objeto del
+procedimiento y, por tanto, provoca indefensión a esta parte…”
+La perplejidad que provoca tal afirmación no es mayor que la curiosidad de saber
+cómo lo afirmado en la resolución puede derivar en esta interpretación. Estimamos
+que el comentario de la entidad queda absolutamente desvirtuado con la mera lectura
+de lo que dijo la Agencia en su resolución, Fundamento de Derecho IV (el segundo de
+los identificados con esta numeración) apartado B), que reproducimos íntegramente
+para evitar interesadas interpretaciones:
+“B. CAJAMAR afirma en su escrito de alegaciones a la propuesta de resolución
+que la AEPD ha vulnerado el principio de proporcionalidad que exige, dice, “que una
+reducción cuantitativa o cualitativa del hecho sancionable se refleje en la valoración de
+la sanción”. A su juicio tal vulneración se ocasiona porque la sanción que se estableció
+en el acuerdo de inicio (60.000 euros), en el que la Agencia manifestó que la conducta
+infractora se concretaba en el incumplimiento de los requisitos de los apartados a) y c)
+del artículo 38.1 RLOPD, se mantuvo invariable en la propuesta de resolución, pese a
+que en ella se delimita definitivamente la conducta infractora, exclusivamente, en la
+vulneración de uno y no dos de los requisitos del artículo 38.1. RLOPD, el apartado a).
+Sin embargo, esta Agencia ha actuado con pleno respeto al principio de
+proporcionalidad de la sanción. Hemos de indicar, en primer lugar, que el acuerdo de
+inicio del expediente sancionador (Fundamento de Derecho III) recogía que, “sin
+perjuicio de lo que resulte de la instrucción”, concurrían en calidad de agravantes tres
+circunstancias de las descritas en el artículo 45.4 LOPD: los apartados a), c) y d). A
+diferencia de ello, la propuesta de resolución estima que son cuatro las circunstancias
+previstas en el artículo 45.4 de la LOPD que operan en el asunto que nos ocupa como
+agravantes: además de los apartados ya mencionados del artículo 45.4 LOPD el
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+28/30
+
+apartado h).
+Basta añadir a lo expuesto, de una parte, que a través de cualquiera de dichas
+conductas -la vulneración del artículo 38.1, apartados a) y c) del RLOPD- se ataca el
+mismo principio informador del derecho a la protección de datos de carácter personal,
+la calidad de los datos y, de otra, que la sanción de 60.000 euros está muy próxima al
+mínimo previsto en el artículo 45.2 LOPD para las infracciones graves.”
+En definitiva, a la luz de la resolución, y pese a los términos del recurso de
+reposición, queda patente que la resolución impugnada expuso con claridad los
+fundamentos en los que se apoya y el sentido de la STS de 15/07/2010 que anuló
+determinados preceptos del RLOPD, entre ellos el inciso segundo del artículo 38.1.a),
+sin que parezca justificado que a tenor de tal resolución puedan suscitarse
+controversias como las que la recurrente plantea en su recurso.
+El tenor de la resolución que se impugna enerva los argumentos esgrimidos por
+la entidad recurrente y deja patente y sin género de duda cuál es el sentido de la STS
+de 15/07/2010; cuál es la conducta contraria a la LOPD en la que se materializa la
+infracción de la citada Ley Orgánica de la que se responsabiliza a la recurrente; que de
+los dos apartados del artículo 38.1. RLOPD - apartados a) y c)- en relación con el
+artículo 4.3 LOPD y 29.4, cuya infracción se atribuyó a la entidad en el acuerdo de
+inicio del procedimiento sancionador, la Propuesta mantuvo exclusivamente el
+incumplimiento del artículo 4.3 en relación con el apartado a) del artículo 38.1 RLOPD;
+que en todo caso ambos apartados del artículo 38.1 RLOPD vulneraban el mismo
+principio informador de la LOPD: el principio de calidad de los datos (ex artículo 4.3);
+que insistentemente esta Agencia ha señalado que la falta de certeza de la deuda y el
+incumplimiento del requisito del artículo 38.1.a9 RLOPD se produjo desde el
+05/10/2016 -que es la fecha en la que se notificó al procurador de CAJAMAR el Auto
+401/2016, del Juzgado de Primera Instancia número 13 de ***LOCALIDAD.1, que
+resolvió el incidente de oposición en el procedimiento de Ejecución Hipotecaria
+881/2015; que el citado Auto declaró que no era procedente aplicar la cláusula suelo al
+ejecutado (denunciante), que el ejecutante (CAJAMAR) había cobrado
+incorrectamente cantidades excesivas al deudor, que la cláusula de vencimiento
+anticipado del préstamo era nula (según parámetros de la STJUE 14/03/2013) y
+concluyó que la cantidad reclamada por CAJAMAR en el procedimiento de ejecución
+no era líquida en los términos y condiciones que se reflejan en la demanda y que por
+tanto era errónea la cantidad reclamada; que desde el 14/06/2015 el saldo impagado
+atribuido al denunciante en el fichero BADEXCUG, informado por CAJAMAR ascendía
+a 257.192,29 euros; que la resolución respeta el principio de proporcionalidad en la
+imposición de la sanción toda vez que la infracción subsumible en el tipo infractor (ex
+artículo 44.3.c, LOPD) continúa siendo la misma y además se apreció en la Propuesta
+una circunstancia agravante que no se había reflejado en el acuerdo de inicio del
+expediente.
+IV
+Debido a razones de funcionamiento del órgano administrativo, por ende, no
+atribuibles al recurrente, hasta el día de la fecha no se ha emitido el preceptivo
+pronunciamiento de esta Agencia respecto a la pretensión del interesado.
+De acuerdo con lo establecido en el artículo 24 de la Ley 39/2015, de 1 de
+octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+29/30
+
+(LPACAP) el sentido del silencio administrativo en los procedimientos de impugnación
+de actos y disposiciones es desestimatorio.
+Con todo, y a pesar del tiempo transcurrido, la Administración está obligada a
+dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que
+sea su forma de iniciación, según dispone el art. 21.1 de la citada LPACAP. Por tanto,
+procede emitir la resolución que finalice el procedimiento del recurso de reposición
+interpuesto.
+V
+Como se expone en los Fundamentos Jurídicos precedentes, los motivos
+de impugnación invocados por el recurrente no pueden prosperar.
+Así pues, no habiendo aportado el recurrente hechos nuevos ni
+argumentos jurídicos que permitan reconsiderar la validez de la resolución
+impugnada,
+Vistos los preceptos citados y demás de general aplicación,
+la Directora de la Agencia Española de Protección de Datos RESUELVE:
+PRIMERO: DESESTIMAR el recurso de reposición interpuesto por CAJAMAR CAJA
+RURAL, SOCIEDAD COOPERATIVA DE CRÉDITO, con NIF F-04743175, contra la
+resolución de la Agencia Española de Protección de Datos dictada el 16 de noviembre
+de 2018 en el procedimiento sancionador PS/00209/2018.
+SEGUNDO: NOTIFICAR la presente resolución a la entidad CAJAMAR CAJA RURAL,
+SOCIEDAD COOPERATIVA DE CRÉDITO, con NIF F-04743175.
+TERCERO: Advertir al sancionado que la sanción impuesta deberá hacerla efectiva
+una vez sea ejecutiva la presente resolución, de conformidad con lo dispuesto en el
+artículo 98.1.b) de la ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas, en el plazo de pago voluntario que señala el
+artículo 68 del Reglamento General de Recaudación, aprobado por Real Decreto
+939/2005, de 29 de julio, en relación con el art. 62 de la Ley 58/2003, de 17 de
+diciembre, mediante su ingreso en la cuenta restringida nº ES00 0000 0000 0000 0000
+0000, abierta a nombre de la Agencia Española de Protección de Datos en el Banco
+CAIXABANK, S.A. o en caso contrario, se procederá a su recaudación en período
+ejecutivo.
+Recibida la notificación y una vez ejecutiva, si la fecha de ejecutividad se
+encuentra entre los días 1 y 15 de cada mes, ambos inclusive, el plazo para efectuar el
+pago voluntario será hasta el día 20 del mes siguiente o inmediato hábil posterior, y si
+se encuentra entre los días 16 y último de cada mes, ambos inclusive, el plazo del
+pago será hasta el 5 del segundo mes siguiente o inmediato hábil posterior.
+De conformidad con lo establecido en el artículo 50 de la LOPDPGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa conforme al art.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+30/30
+
+48.6 de la LOPDPGDD, y de acuerdo con lo establecido en el artículo 123 de la Ley
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas (LPACAP), los interesados podrán interponer recurso
+contencioso-administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Finalmente, se señala que conforme a lo previsto en el art. 90.3 a) LPACAP, se
+podrá suspender cautelarmente la resolución firme en vía administrativa si el
+interesado manifiesta su intención de interponer recurso contencioso-administrativo.
+De ser éste el caso, el interesado deberá comunicar formalmente este hecho mediante
+escrito dirigido a la Agencia Española de Protección de Datos, presentándolo a través
+del Registro Electrónico de la Agencia [https://sedeagpd.gob.es/sede-electronicaweb/], o a través de alguno de los restantes registros previstos en el art. 16.4 de la
+citada LPACAP. También deberá trasladar a la Agencia la documentación que acredite
+la interposición efectiva del recurso contencioso-administrativo. Si la Agencia no
+tuviese conocimiento de la interposición del recurso contencioso-administrativo en el
+plazo de dos meses desde el día siguiente a la notificación de la presente resolución,
+daría por finalizada la suspensión cautelar.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

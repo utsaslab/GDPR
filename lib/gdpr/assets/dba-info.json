@@ -692,5 +692,31 @@
         "render_type": "FULLY_RENDERED"
       }
     ]
+  },
+  "ES": {
+    "country": "Spain",
+    "name": "Agencia Española de Protección de Datos (AEPD)",
+    "address": "C/Jorge Juan, 6\n28001 Madrid",
+    "phone": "91 266 3517",
+    "country_code": "+34",
+    "email": "internacional@aepd.es",
+    "website": "https://www.aepd.es",
+    "member": {
+      "name": "Ms María del Mar España Martí",
+      "title": "Director of the Spanish Data Protection Agency"
+    },
+    "sources": [
+      {
+        "host": "https://www.aepd.es",
+        "start_path": "/resoluciones",
+        "target_element": {
+          "results": null,
+          "pagination": null,
+          "document": null,
+          "date": null
+        },
+        "render_type": "FULLY_RENDERED"
+      }
+    ]
   }
 }

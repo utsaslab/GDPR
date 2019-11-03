@@ -1,0 +1,140 @@
+1/3
+
+Procedimiento Nº: E/01815/2019
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes
+HECHOS
+PRIMERO: La reclamación interpuesta por D. A.A.A. (en adelante el reclamante) tiene
+entrada con fecha 13/06/2018 en la Agencia Española de Protección de Datos. La
+reclamación se dirige contra ORANGE ESPAGNE, S.A.U. con NIF A82009812 (en
+adelante el reclamado). Los motivos en que basa la reclamación son en síntesis los
+siguientes: que el reclamado ha incluido sus datos en el fichero BADEXCUG sin que
+haya tenido relación contractual con ellos y sin se le haya notificado la inclusión. Dice
+que adjunta a su reclamación una serie de documentos que en realidad no adjunta.
+Y, según el reclamante, anexa la siguiente documentación:
+ copia del DNI, copia del escrito de reclamación enviado a Jazztel y acuse de
+recibo, carta de contestación del fichero, copia de la denuncia puesta ante las
+dependencias policiales de su localidad, pero en el expediente electrónico no consta
+ningún documento.
+SEGUNDO: La Subdirección General de Inspección de Datos procedió a la realización
+de actuaciones previas de investigación para el esclarecimiento de los hechos objeto
+de la reclamación, teniendo conocimiento de los siguientes extremos:
+Con fecha 26/07/2018 se trasladó la reclamación a ORANGE sin obtener respuesta de
+esta entidad.
+Con la misma fecha, se notificó al reclamante sobre el traslado de la reclamación, pero
+la notificación no fue recogida.
+Por último, el reclamante no aporta ningún documento evidenciando los hechos que
+denuncia. La presentación de la reclamación se realizó mediante envío postal, pero
+examinada físicamente la remesa por el inspector, no se ha encontrado ninguno de
+estos documentos.
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/3
+
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales (en lo sucesivo LOPDGDD), es competente para
+resolver estas actuaciones de investigación la Directora de la Agencia Española de
+Protección de Datos.
+II
+En el presente caso, el afectado ha denunciado la inclusión de sus datos de
+carácter personal en el fichero BADEXCUG a instancias de ORANGE sin que exista
+relación contractual con la citada entidad, según las manifestaciones vertidas en su
+escrito de reclamación.
+No obstante, como se indica con anterioridad en el hecho primero, a pesar de
+las manifestaciones del denunciante de la documentación obrante en el expediente no
+existen pruebas de cargo suficientes para acreditar que la entidad reclamada haya
+vulnerado la normativa en materia de protección de datos al incluir los datos del
+reclamante en el fichero de solvencia, al no haberse aportado elemento probatorio de
+cargo del que se desprenda la infracción del principio de licitud del tratamiento
+recogido en el artículo 6 del RGPD.
+Hay que señalar que a pesar de los esfuerzos realizados por los servicios de
+inspección de este centro directivo en aclarar los términos de la reclamación planteada
+por el afectado no ha dado los resultados esperados puesto que tanto el requerimiento
+informativo realizado tanto a la entidad como al reclamante han sido infructuosas, al no
+responder ninguno de ellos.
+En definitiva, pese a la investigación realizada por la Inspección de Datos de la
+AEPD no ha logrado contactar con la/s persona/s responsable/s, ni identificar al
+responsable del tratamiento.
+En este orden de ideas debe tenerse en cuenta que en el ámbito administrativo
+sancionador son de aplicación, con alguna matización, pero sin excepciones, los
+principios inspiradores del orden penal, teniendo plena virtualidad el principio de
+presunción de inocencia, que debe regir sin excepciones en el ordenamiento
+sancionador y ha de ser respetado en la imposición de cualesquiera sanciones. Esto,
+porque el ejercicio del ius puniendi, en sus diversas manifestaciones, está
+condicionado al juego de la prueba y a un procedimiento contradictorio en el que
+puedan defenderse las propias posiciones.
+En tal sentido el Tribunal Constitucional, en Sentencia 76/1990, considera que
+el derecho a la presunción de inocencia comporta “que la sanción esté basada en
+actos o medios probatorios de cargo o incriminadores de la conducta reprochada; que
+la carga de la prueba corresponda a quien acusa, sin que nadie esté obligado a probar
+su propia inocencia; y que cualquier insuficiencia en el resultado de las pruebas
+practicadas, libremente valorado por el órgano sancionador, debe traducirse en un
+pronunciamiento absolutorio”.
+Como ha precisado el Tribunal Supremo en STS de 26 de octubre de 1998 la
+vigencia del principio de presunción de inocencia “no se opone a que la convicción
+judicial en un proceso pueda formarse sobre la base de una prueba indiciaria, pero
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/3
+
+para que esta prueba pueda desvirtuar dicha presunción debe satisfacer las siguientes
+exigencias constitucionales: los indicios han de estar plenamente probados – no
+puede tratarse de meras sospechas – y tiene que explicitar el razonamiento en virtud
+del cual, partiendo de los indicios probados, ha llegado a la conclusión de que el
+imputado realizó la conducta infractora, pues, de otro modo, ni la subsunción estaría
+fundada en Derecho ni habría manera de determinar si el proceso deductivo es
+arbitrario, irracional o absurdo, es decir, si se ha vulnerado el derecho a la presunción
+de inocencia al estimar que la actividad probatoria pueda entenderse de cargo.”
+A la luz de lo expuesto se concluye que el principio de presunción de inocencia
+impide imputar una infracción administrativa cuando no se haya obtenido y constatado
+una prueba de cargo que acredite los hechos que motivan la imputación o la
+intervención del presunto infractor. Trasladando los razonamientos precedentes al
+supuesto que nos ocupa, habida cuenta de que no se ha podido identificar al
+responsable, conducta que pudiera ser constitutiva de una infracción de la normativa
+de protección de datos, corresponde acordar el archivo de las actuaciones
+practicadas.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente resolución a D. A.A.A. y a ORANGE ESPAGNE,
+S.A.U., con NIF A82009812.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

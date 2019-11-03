@@ -1,0 +1,288 @@
+1/6
+
+Procedimiento Nº A/0023/2019
+RESOLUCIÓN: R/00434/2019
+En el procedimiento A/0023/2019, instruido por la Agencia Española de Protección de
+Datos, a la entidad, VOYAGE PRIVE ESPAÑA SL (en adelante, “la entidad
+reclamada”), en virtud de la reclamación presentada por Dª. A.A.A., (en adelante, “el
+reclamante”) y teniendo como base los siguientes,
+ANTECEDENTES
+PRIMERO: con fecha 21/12/18, la reclamante presentó escrito ante la Agencia
+Española de Protección de Datos, en la que, entre otras, indicaba: “Al entrar en la
+página de la entidad “Voyage Privé”, https://www.voyage-prive.es, nos indica que al
+seguir navegando en el sitio web se entiende implícito nuestro consentimiento para
+aceptar las cookies.”. Se aporta, entre otras, la siguiente documentación: - Prueba
+sobre la aceptación tácita de las Cookies. - Prueba sobre la vulneración de la política
+de Cookies de “Voyage Privé”. - Prueba de vulneración del consentimiento libre.
+SEGUNDO: A la vista de los hechos expuestos en la reclamación y de los documentos
+aportados por el reclamante, la Subdirección General de Inspección de Datos procedió
+a realizar actuaciones para su esclarecimiento, al amparo de los poderes de
+investigación otorgados a las autoridades de control en el artículo 57.1 del Reglamento
+(UE) 2016/679 (Reglamento General de Protección de Datos, en adelante RGPD). Así,
+con fecha 01/02/19, se dirige un requerimiento informativo a la entidad reclamada.
+TERCERO: Con fecha 04/03/19, la entidad reclamada presenta alegaciones, indicando
+en las mismas, entre otras, lo siguiente:
+“Voyage Privé requiere, antes de cualquier navegación en nuestros sitios web, la
+aceptación explícita de nuestra Política de Privacidad: antes de comunicar cualquier
+dato personal, el Miembro debe marcarla casilla "Acepto la Política de Privacidad del
+Sitio". Voyage Privé ha redactado su política de privacidad de forma clara y
+comprensible para que nuestros miembros puedan entender y aceptar a sabiendas el
+tratamiento de sus datos personales. Además, de acuerdo con las recomendaciones
+de la CNIL, la autoridad supervisora del principal establecimiento de Voyage Privé,
+que dice lo siguiente: "Al continuar su navegación, usted acepta el uso de cookies
+para proporcionarle una experiencia óptima. Más información ". Al hacer clic en "saber
+más" el cliente es dirigido a nuestra política de privacidad: Por lo tanto, no se puede
+considerar que el consentimiento dado por el miembro es implícito.
+La autoridad supervisora recomienda que se informe a los usuarios de internet de la
+finalidad de las cookies, se obtenga su consentimiento y, por último, se facilite a los
+usuarios de internet un medio para rechazarlas. La Política de Privacidad de Voyage
+Privé informa al miembro sobre el funcionamiento y la finalidad de las cookies
+utilizadas por Voyage Privé y también indica cómo gestionar sus opciones en relación
+con sus cookies en el apartado "Cómo gestionar sus opciones en relación con las
+cookies". En este sentido, Voyage Privé precisa que: "Usted puede autorizar o
+rechazar el registro de cookies en su dispositivo gracias a la configuración de su
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/6
+
+programa de navegación por Internet". La configuración de estos ajustes varía de un
+navegador a otro.
+Voyage Privé redirige en cada navegador a la página donde encontrará instrucciones
+detalladas sobre cómo configurar la aceptación o no de la totalidad o parte de las
+cookies. Por lo tanto, no es necesario el consentimiento obligatorio de los usuarios, ya
+que es muy posible configurar su elección de cookies en su navegador, y así
+beneficiarse de los servicios ofrecidos por Voyage Privé”.
+CUARTO: Con fecha 14/06/19, la Directora de la Agencia Española de Protección de
+Datos acordó someter a trámite de audiencia previa el procedimiento de
+apercibimiento A/0023/2019 a la entidad reclamada, y en el que se la requería para
+que tomase las medidas adecuadas para para que tome las medidas adecuadas para
+incluir en la página web de su titularidad un mecanismo que permita prestar el
+consentimiento o revocar el mismo con relación al tratamiento de cookies realizado por
+la página en cuestión, y que no se carguen cookies con la mera visita a la página web.
+QUINTO: Con fecha 30/07/19, la entidad reclamada presenta en esta Agencia escrito
+de alegaciones, en el cual, entre otras, indica:
+“En primer lugar, cabe recordar que, de conformidad con el Reglamento europeo de
+protección de datos, cuando una empresa tiene filiales en la Unión Europea y
+centraliza todas las decisiones relativas a los fines y medios del tratamiento en uno de
+sus establecimientos en la UE, sólo se designa una autoridad de supervisión principal.
+En el caso de los viajes privados, la sede y la administración central se encuentran en
+Francia. Consecuentemente, la Agencia Europea de Protección de Datos, autoridad
+supervisora de los viajes privados, es de hecho la Comisión Nacional de Tecnologías
+de la Información y Libertades Civiles (CNIL). Por este motivo, Voyage Privé ha
+seguido desde la aplicación de la RGPD las recomendaciones de la CNIL y espera, en
+particular, el plan de acción de la CNIL sobre cookies y trazadores anunciado el
+pasado 28 de junio y cuya publicación está prevista para el primer trimestre de 2020.
+También se especifica a este respecto que un periodo de ajuste de seis meses tras la
+publicación de la futura recomendación dará tiempo a las partes interesadas para
+integrar las nuevas normas.
+Sin embargo, siguiendo su recomendación, Voyage Prive ha reconsiderado su política
+de gestión de cookies y actualmente está desarrollando nuevas funciones en su sitio
+web que permiten a sus miembros gestionar la configuración de cookies y, por lo tanto,
+la posibilidad de rechazar el uso de dichas cookies y permitir al miembro seguir
+navegando por nuestro sitio web.
+En este momento, como los modelos están en proceso de desarrollo y pueden ser
+modificados, no estamos en condiciones de proporcionarle un modelo final. Sin
+embargo, podemos confirmar que nuestros equipos técnicos podrán entregar el
+proyecto a principios de octubre (Semana 40). Como tal, les demostramos nuestro
+compromiso y voluntad de actuar de acuerdo con el RGPD”.
+HECHOS PROBADOS
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/6
+
+En el acceso realizado a la página web www.voyage-prive.es, con fecha 21/08/19 se
+puede constatar:
+a.- Primera Capa: se observa un banner de cookies, en la parte superior de la pantalla
+que contiene el mensaje, “Al seguir navegando en Voyage Privé entendemos que
+aceptas nuestras cookies para vivir la mejor experiencia”, con dos enlaces: “Saber
+más” y otro marcado con “X”.
+b.- Segunda Capa: “Saber más”: accesible desde el enlace en el banner de cookies,
+se redirige a la página de “política de privacidad” donde se da información sobre la
+política de privacidad de la empresa y de protección de datos personales; los datos
+que se recopilan tanto en los cuestionarios como los recopilados en la navegación por
+la página web; la utilización que hacen con los datos recopilados y con quién los
+comparten; el tiempo que conservan los datos obtenidos y la política de cookies
+utilizadas donde se explica qué es, cómo funcionan y qué tipo de cookies utiliza la
+página.
+Respecto de cómo gestionar las cookies, indica que se puede autorizar o denegar el
+registro de cookies mediante la configuración del navegador en Internet y también a
+través del sitio Youronlinechoices: http://www.youronlinechoices.com/es/preferencias/
+Sobre la protección de datos, se informa de las políticas que utiliza para la protección
+de datos e indica que el usuario tiene “la posibilidad de presentar una reclamación a la
+Agencia Española de Protección de Datos, autoridad de control en España”.
+c.- Segunda Capa - opción de “X”: con esta opción se acepta cargar todas las cookies.
+FUNDAMENTOS DE DERECHO
+I
+Es competente para resolver este procedimiento la Directora de la Agencia Española
+de Protección de Datos, de conformidad con lo dispuesto en el artículo 43.1 de la Ley
+34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio
+Electrónico (en lo sucesivo, LSSI).
+II
+En primer lugar, y referente a las alegaciones presentadas por la entidad reclamada
+con fecha 30/07/19, se debe puntualizar que la entidad VOYAGE PRIVE ESPAÑA S.L.
+con NIF B64876980, es una entidad mercantil radicada en España, inscrita en el
+Registro Mercantil Central español con la siguiente información: Denominación Social:
+VOYAGE PRIVE ESPAÑA SL. Registro Mercantil: BARCELONA.Sección:8. Hoja:
+366005. El comienzo de las operaciones en España se realizó el 09/05/2008 y tiene
+domicilio social en Avda. Paseo de Garcia 55; 8-1 Barcelona. Además, la página web
+www.voyage-prive.es tiene dominio “.es”, registrada con dominio español, por lo que, a
+todos los efectos, la entidad VOYAGE PRIVE ESPAÑA. SL., está supeditada la
+legislación y a las autoridades españolas.
+Por lo que se refiere a la política de cookies, indicar que la entidad La entidad
+VOYAGE PRIVE ESPAÑA S.L., es la persona jurídica responsable de dichos hechos
+denunciados. Responsabilidad circunscrita, por razones de competencia relacionados
+con el 22.2 de la LSSI, que dispone: “Los prestadores de servicios podrán utilizar
+dispositivos de almacenamiento y recuperación de datos en equipos terminales de los
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/6
+
+destinatarios, a condición de que los mismos hayan dado su consentimiento después
+de que se les haya facilitado información clara y completa sobre su utilización, en
+particular, sobre los fines del tratamiento de los datos.
+Cuando sea técnicamente posible y eficaz, el consentimiento del destinatario para
+aceptar el tratamiento de los datos podrá facilitarse mediante el uso de los parámetros
+adecuados del navegador o de otras aplicaciones.
+Lo anterior no impedirá el posible almacenamiento o acceso de índole técnica al solo
+fin de efectuar la transmisión de una comunicación por una red de comunicaciones
+electrónicas o, en la medida que resulte estrictamente necesario, para la prestación de
+un servicio de la sociedad de la información expresamente solicitado por el
+destinatario.
+Según se desprende del citado artículo, el modo de ofrecer la información no obedece
+a supuestos tasados, cualquier fórmula que satisfaga la finalidad del precepto es
+perfectamente válida. Así, si el prestador de servicios utiliza un sistema de información
+por capas, la segunda capa debe complementar a la primera.
+En la primera capa debe mostrarse la información esencial sobre el uso de cookies,
+que, como mínimo, deberá reseñar: si son propias y/o de terceros, las finalidades de
+las cookies empleadas, modo en que el usuario puede prestar el consentimiento o
+rechazar la instalación de cookies, advirtiendo, en su caso, de que, si se realiza una
+determinada acción, se entenderá que acepta el uso de las cookies, existencia del
+derecho a revocar el consentimiento. Además, deberá incluir un enlace claramente
+visible a la segunda capa informativa, donde se incluirá una información más
+detallada.
+La información ofrecida en la segunda capa, que deberá encontrarse disponible en
+forma permanente en el sitio web o en la aplicación, deberá incluir la siguiente
+información: - qué son y para qué se utilizan las cookies, - los tipos de cookies
+utilizadas y su finalidad, - período de conservación de los datos para los diferentes
+fines, - forma de revocar el consentimiento ya prestado, - forma de permitir, bloquear o
+eliminar las cookies enunciadas a través de las funcionalidades facilitadas por el editor
+o el terminal, - las herramientas proporcionadas por el navegador o a través de las
+plataformas comunes que pudieran existir para esta finalidad, pudiendo también
+proporcionar información sobre la configuración de las opciones de los principales
+navegadores, - y ofrecer información sobre la identificación de quien utiliza las
+cookies, esto es, si la información obtenida por las cookies es tratada solo por el editor
+y/o también por terceros con los que el editor haya contratado la prestación de un
+servicio para el cual se requiera el uso de cookies, con la identificación de estos
+últimos.
+En el caso que nos ocupa, la página web www.voyage-prive.es , no facilita un sistema
+de gestión o panel de configuración de cookies que permita al usuario eliminarlas por
+tipología. Para facilitar esta selección el panel deberá habilitar un mecanismo o botón
+para rechazar todas las cookies, otro para habilitar todas las cookies y la posibilidad de
+hacerlo por tipología, y así dar la opción al usuario de poder administrar sus
+preferencias.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/6
+
+A este respecto se considera que la información ofrecida sobre las herramientas
+proporcionadas por varios navegadores para configurar las cookies a través del
+navegador sería complementaria a la anterior, pero insuficiente por si sola para el fin
+pretendido de permitir configurar las preferencias de una forma selectiva.
+III
+La infracción a este precepto se encuentra tipificada como leve en el artículo 38.4.g)
+de la citada LSSI, que considera como tal, “Utilizar dispositivos de almacenamiento y
+recuperación de datos cuando no se hubiera facilitado la información u obtenido el
+consentimiento del destinatario del servicio en los términos exigidos por el artículo
+22.2.”
+El artículo 39 bis, 2, de la LSSI, bajo el epígrafe “Moderación de las sanciones”,
+estipula lo siguiente: “2. Los órganos con competencia sancionadora, atendida la
+naturaleza de los hechos y la concurrencia significativa de los criterios establecidos en
+el apartado anterior, podrán acordar no iniciar la apertura del procedimiento
+sancionador y, en su lugar, apercibir al sujeto responsable, a fin de que en el plazo que
+el órgano sancionador determine, acredite la adopción de las medidas correctoras
+que, en cada caso, resulten pertinentes, siempre que concurran los siguientes
+presupuestos: a) que los hechos fuesen constitutivos de infracción leve o grave
+conforme a lo dispuesto en esta Ley y b) que el órgano competente no hubiese
+sancionado o apercibido con anterioridad al infractor como consecuencia de la
+comisión de infracciones previstas en esta Ley. Si el apercibimiento no fuera atendido
+en el plazo que el órgano sancionador hubiera determinado, procederá la apertura del
+correspondiente procedimiento sancionador por dicho incumplimiento.”
+En el presente supuesto se cumplen los requisitos recogidos en las letras a) y b) del
+citado apartado 2 del artículo 39 bis. Junto a ello, y de conformidad con las evidencias
+de las que se dispone en el presente momento, se aprecia que concurre la
+circunstancia, prevista en el artículo 39 bis, apartado 1.a), que dispone que “Cuando
+se aprecie una cualificada disminución de la culpabilidad del imputado o de la
+antijuridicidad del hecho como consecuencia de la concurrencia significativa de varios
+de los criterios enunciados en el artículo 40 de la LSSI”, concurriendo en este caso
+los criterios d) y e) del citado precepto, por cuanto no hay constancia de la
+existencia de perjuicios causados ni de beneficios obtenidos a raíz de la supuesta
+comisión de la infracción descrita.
+Por lo tanto, de acuerdo con lo señalado la Directora de la Agencia Española de
+Protección de Datos ACUERDA:
+PRIMERO: APERCIBIR (A/0023/2019) a la entidad VOYAGE PRIVE ESPAÑA S.L.,
+con arreglo a lo dispuesto en el artículo 39 bis, apartado 2, de la LSSI, con relación a
+la reclamación por infracción del artículo 22.2 de la LSSI, tipificada como leve en el
+artículo 38.4.g) de la citada norma.
+SEGUNDO: REQUERIR a la entidad VOYAGE PRIVE ESPAÑA S.L., de acuerdo con
+lo establecido en el apartado 2 del artículo 39 bis de la LSSI para que en el plazo de
+UN MES desde la notificación de la presente resolución.
+2.1.- CUMPLA lo previsto en el artículo 22.2 de la LSSI, para lo que se insta a
+dicha entidad a adecuar la información ofrecida en el sitio web
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/6
+
+www.juguetilandia.com , del que es responsable, a las exigencias reseñadas en
+el mencionado precepto, procediendo, por tanto a tomar las medidas
+necesarias para facilitar información clara sobre las cookies utilizadas, tanto en
+la primera capa como en la segunda y un sistema de gestión o panel de
+configuración de cookies que permita al usuario eliminarlas por tipología.
+2.2.- INFORME a la Agencia Española de Protección de Datos del
+cumplimiento de lo requerido, aportando en el plazo indicado los documentos o
+medios de prueba que acrediten dicha circunstancia.
+TERCERO: NOTIFICAR el presente acuerdo a VOYAGE PRIVE ESPAÑA S.L.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la presente
+Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa (artículo 48.6 de la
+LOPDGDD), y de conformidad con lo establecido en los artículos 112 y 123 de la Ley
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, los interesados podrán interponer, potestativamente,
+recurso de reposición ante la Directora de la Agencia Española de Protección de Datos
+en el plazo de un mes a contar desde el día siguiente a la notificación de esta
+resolución, o, directamente recurso contencioso administrativo ante la Sala de lo
+Contencioso-administrativo de la Audiencia Nacional, con arreglo a lo dispuesto en el
+artículo 25 y en el apartado 5 de la disposición adicional cuarta de la Ley 29/1998, de
+13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa, en el plazo de
+dos meses a contar desde el día siguiente a la notificación de esta acto, según lo
+previsto en el artículo 46.1 del referido texto legal.
+Mar España Martí
+Directora de la Agencia Española
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

@@ -3,7 +3,7 @@ class Pagination(object):
         self.links = []
         self.cursor = 0
 
-    def add_link(self, link):
+    def add_item(self, link):
         if link in self.links:
             return
         self.links.append(link)

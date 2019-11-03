@@ -1,0 +1,1075 @@
+1/21
+
+Procedimiento nº.: PS/00329/2018
+180-100519
+
+Recurso de reposición Nº RR/00387/2019
+Examinado el recurso de reposición interpuesto por FINANCIERA ESPAÑOLA
+DE CRÉDITO A DISTANCIA, EFC, S.A., contra la resolución dictada por la Directora
+de la Agencia Española de Protección de Datos en el procedimiento sancionador
+PS/00329/2018 y en consideración a los siguientes
+HECHOS
+PRIMERO: Con fecha 10 de abril de 2019, se dictó resolución por la Directora de la
+Agencia Española de Protección de Datos en el procedimiento sancionador
+PS/00329/2018 en virtud de la cual se impuso a FINANCIERA ESPAÑOLA DE
+CRÉDITO A DISTANCIA, EFC, S.A., una sanción de 40.010 euros (cuarenta mil diez
+euros) por vulneración de lo dispuesto en el artículo 6.1 de la Ley Orgánica 15/1999,
+de Protección de Datos de Carácter Personal (LOPD), infracción tipificada como grave
+en el artículo 44.3.b) de la LOPD, de conformidad con lo establecido en el artículo 45.2
+de la citada Ley Orgánica.
+Dicha resolución, que fue notificada a FINANCIERA ESPAÑOLA DE CRÉDITO A
+DISTANCIA, EFC, S.A., en fecha 10 de abril de 2019, fue dictada previa la tramitación
+del correspondiente procedimiento sancionador, de conformidad con lo dispuesto en el
+artículo 127 del reglamento de desarrollo de la LOPD aprobado por el Real Decreto
+1720/2007, de 21 de diciembre.
+SEGUNDO: Como hechos probados del citado procedimiento sancionador,
+PS/00329/2018, se dejó constancia en la resolución recurrida de los siguientes:
+<<PRIMERO: A.A.A. denuncia que FINDIRECT ha efectuado consultas asociadas a
+su NIF al fichero BADEXCUG sin estar legitimada para ese tratamiento. Las consultas
+a estos ficheros de solvencia patrimonial se realizan utilizando como identificador el
+número de NIF. (Folio 1)
+SEGUNDO: A.A.A. es titular del NIF ***NIF.1, cuya copia ha facilitado y obra, entre
+otros, en los folios 12, 15, 16,17 y 18 del expediente administrativo.
+TERCERO: Obran en el expediente, aportadas por el denunciante, dos cartas que le
+remitió el Servicio de Protección al Consumidor del fichero BADEXCUG, de fechas
+13/10/2017, referencia C20171013000197 (folio 7) y 23/10/2017, referencia
+C20171023000191 (folio 21).
+En ambas le comunican que el identificador "***NIF.1 ha sido consultado en los
+últimos seis meses por las siguientes entidades: (...) FINDIRECT, Avda. Fuente de la
+Mora, 4, Madrid, 28050, Madrid"
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/21
+
+CUARTO: FINDIRECT manifestó que el motivo por el cual había accedido a la
+información relativa al titular del NIF ***NIF.1 contenida en los ficheros de solvencia “…
+no es otro que proceder a la valoración de la concesión de un préstamo tras la
+solicitud de información realizada el día 4 de octubre de 2017 por el Sr. A.A.A. a
+través de un landing de esta entidad (.. .) a la que pudo acceder desde una
+comunicación que había recibido de la mercantil Arvato y en la que el propio
+interesado a través del link puesto a su disposición cumplimentó los datos de DNI,
+nombre, fecha de nacimiento, teléfono fijo y teléfono móvil y se los facilitó a mi
+representada." (Folio 46)
+QUINTO: En sus alegaciones al acuerdo de inicio del expediente sancionador
+FINDIRECT manifestó que "para realizar la consulta en ficheros de solvencia, es
+imprescindible que el interesado acceda de forma previa a las Condiciones Generales
+y a la política de privacidad de la página, siendo informado en ese momento que la
+aceptación de dichas condiciones y políticas conllevan a la aceptación y autorización
+por parte del interesado a que la empresa pueda proceder a la consulta en tales
+ficheros de solvencia. En caso de que el interesado no acepte los mentados términos
+y condiciones, la propia "landing page" no permite la continuación del proceso y, por
+tanto, la posterior consulta en ficheros de solvencia del interesado". (Folio 63)
+SEXTO: Con la rúbrica "Flujo del proceso de landing Findirect octubre 2017' (folios
+105 a 108) la denunciada facilito las siguientes explicaciones y documentación:
+1. El cliente recibe un email (se aporta captura de pantalla) con una imagen y un
+link que informa sobre la posibilidad de solicitar un préstamo de 3.000 euros.
+2. Si el cliente entra en el link se procede a una simulación del préstamo y si está
+de acuerdo con tal simulación continúa accediendo a través del botón
+"solicítelo ahora"
+3. Entra en el primer formulario de datos que debe llenar para continuar el
+proceso, además de aceptar las condiciones: "Acepto las Condiciones
+Generales, el uso de Vedacon y la Política de privacidad". (Folio 110)
+4. "El sistema procede a realizar consultas internas para evaluar si admite la
+operación, entre ellas está la consulta a Experian, la cual fue realizada
+automáticamente; en el caso del cliente DNI ***NIF.1, fue el día 04/10/2017 a
+las 13:45.36 horas"
+5. “El sistema al NO admitir la operación emite el siguiente mensaje informativo al
+cliente: Lo sentimos…”
+SÉPTIMO: FINDIRECT ha aportado una captura de pantalla del formulario de solicitud
+del préstamo cumplimentada con los datos personales que facilitó el solicitante del
+préstamo:
+En la parte superior del documento aparece subrayada la leyenda: “2. Envíe la
+solicitud web”.
+En un recuadro y debajo de la rúbrica “Solicitud”, dice: “Ha elegido un préstamo
+de 3.000 €. Está a menos de 10 minutos de cumplir sus sueños”. Seguidamente
+incorpora el nombre y apellidos “B.B.B.”; la fecha 10/12/1972; aparece activada la
+casilla “Hombre”; el NIF ***NIF.1; el teléfono móvil ***TELEFONO.1 y el fijo
+***TELEFONO.2.
+En la línea inferior aparece activada la casilla con la indicación “Acepto las
+condiciones generales, el uso de Vedacan y la Política de Privacidad”.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/21
+
+No consta ni se hace mención al dato de la dirección electrónica del solicitante.
+(Folio 102)
+OCTAVO: FINDIRECT ha aportado una copia con “los datos del LOG guardado del
+formulario que llenó el cliente en el momento de aceptar condiciones y solicitar
+financiación” (folio 109)
+En ese documento y en la columna “Descripción del dato” se precisan los tipos
+de datos recogidos. Entre ellos figuran todos los que aparecen en la captura de
+pantalla a la que hace mención el Hecho probado séptimo (es decir, “DNI/NIF”;
+“Nombre”; “Primer apellido”; “Segundo Apellido”; “Fecha de nacimiento”; “Teléfono 1”;
+“Teléfono 2 ) y a otros distintos, entre los que cabe mencionar los relativos a “Fecha y
+hora de creación, momento en que acepta condiciones y solicita financiación con el
+primer formulario lleno”; “Importe solicitado” y “Plazos solicitados”.
+No hay ningún campo de datos destinado a la dirección electrónica del
+solicitante del préstamo.
+NOVENO: La denunciada ha aportado la “Auditoría Landing Page”, de fecha
+22/10/2018, realizada por la empresa SECOND WINDOW, S.L., con CIF B85872109.
+(Folios 111 a 124).
+La Auditoría concluye que “un usuario, a través de su navegador web y haciendo
+uso normal del sitio web, no podría haber hecho click en el link recibido en el email y
+realizar una solicitud por error o desconocimiento, sin antes rellenar los campos
+obligatorios del formulario y aceptar las Condiciones Generales y la política de
+privacidad de la página, marcando la casilla prevista al efecto”. (Folio 124)
+DÉCIMO: FINDIRECT manifiesta que en caso de que hubiera aceptado la solicitud de
+préstamo recibida, asociada al NIF ***NIF.1, el interesado debería haber facilitado
+copia de su documentación para hacer efectiva la contratación del crédito por lo que
+se habría producido una nueva validación. (Folio 63)
+UNDÉCIMO: FINDIRECT declara que, habida cuenta de que la operación de crédito
+no fue autorizada, “los datos facilitados en su día en dicha solicitud no fueron
+incorporados a la base de clientes de FINDIRECT, manteniéndose únicamente la
+información de las transacciones realizadas a los efectos acreditativos oportunos”.
+(Folio 64)
+DUODÉCIMO: El documento denominado Condiciones Generales (folios 90 a 96), que
+FINDIRECT afirmó que habían sido aceptadas por el solicitante del crédito, prevén en
+su estipulación 19 (“Protección de Datos Personales”):
+“El Cliente queda informado del tratamiento automatizado del que van a ser
+objeto sus datos y los datos a los que FINDIRECT tenga acceso como consecuencia
+de la ejecución del contrato y de consulta, solicitud o… de cualquier transacción u
+operación realizada por cualquier vía., (…) Asimismo, actuando en nombre propio
+tanto el Cliente como el tercero en su caso, cuyos datos se hayan facilitado en el
+marco del contrato suscrito, y en aras de una correcta evaluación de la financiación
+solicitada y de la información remitida, quedan informados en el acto , del derecho que
+asiste a FINDIRECT a consultar los ficheros de solvencia patrimonial”. (Folio 91)>>
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/21
+
+TERCERO: FINANCIERA ESPAÑOLA DE CREDITOS A DISTANCIA, EFC, S.A. (en lo
+sucesivo la recurrente o FINDIRECT) interpuso recurso de reposición en esta Agencia
+Española de Protección de Datos mediante correo administrativo de fecha 10 de mayo
+de 2019, escrito que tuvo entrada en el organismo en fecha 21 de mayo de 2019.
+La recurrente solicita que se proceda al archivo de las actuaciones “por no haber
+incurrido en comportamiento u omisión constitutivos de infracción de ningún tipo”.
+Como cuestión previa el recurso plantea el “manifiesto error material” en el que
+ha incurrido la resolución recurrida habida cuenta de que en ella se hizo constar
+-según declaraciones de la recurrente- que “no se han aportado por esta parte
+alegaciones a la Propuesta de Resolución”, pese a que “la realidad es que se enviaron
+en fecha 2/4/19, siendo recibidas en la Agencia el 5/4/19, por lo que entendemos que
+no han sido tenidas en cuenta a la hora de dictar Resolución, por lo que se interesaba
+la revisión del expediente a los efectos de tener por presentadas las alegaciones en
+plazo, escrito al que no hemos tenido respuesta”.
+Seguidamente invoca los argumentos en los que funda la impugnación de la
+resolución sancionadora. Ahora bien, tales argumentos son en esencia una reiteración
+de los expuestos en el curso del procedimiento sancionador, hasta el punto de que
+muchos de ellos figuran en la relación de Hechos Probados, pero en particular son una
+reproducción casi exacta del escrito de alegaciones a la propuesta de resolución. Este
+escrito, por las razones que más adelante se explican, es objeto de análisis a través
+del presente recurso de reposición. Así pues, por razones de economía procesal, nos
+remitimos a la transcripción que se hace en el Fundamento Jurídico II, apartado B, de
+esta resolución que versa sobre las alegaciones a la propuesta de resolución
+formulada por FINDIRECT y a la contestación a tales alegatos, habida cuenta de que
+los mismos argumentos son los invocados como fundamento del recurso de
+reposición.
+FUNDAMENTOS DE DERECHO
+I
+Es competente para resolver el presente recurso la Directora de la Agencia
+Española de Protección de Datos, de conformidad con lo dispuesto en el artículo 123
+de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas (en lo sucesivo LPACAP).
+II
+A. En primer término, es preciso responder a la cuestión previa planteada por la
+recurrente: Que la resolución impugnada no tomó en consideración las alegaciones a
+la propuesta de resolución y el “manifiesto error material” (según expresión de la
+recurrente) en el que ha incurrido la resolución por cuanto en ella se afirma que “no se
+han aportado por esta parte alegaciones a la Propuesta de Resolución”.(El subrayado
+es de la AEPD)
+La afirmación que la recurrente atribuye a la AEPD no coincide exactamente con
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/21
+
+lo señalado en la resolución impugnada. Así, el Antecedente séptimo de la resolución
+-después de referirse a la fecha en la que la denunciada había aceptado la notificación
+de la propuesta y, por ende, al plazo que para hacer alegaciones le otorgaban los
+artículos 73.1 y 30.2 de la LPACAP y a que el citado plazo terminaba el día
+04/04/2019- decía: “A fecha 09/04/2019 no se tiene noticia de que la denunciada haya
+formulado alegaciones a dicha propuesta”. (El subrayado es de la AEPD)
+Conviene recordar, además, que entre la fecha en la que finalizó el plazo para
+hacer alegaciones a la propuesta y la fecha en la que la AEPD dictó la resolución, que
+fue firmada el 10/04/2019, transcurrieron seis días naturales.
+El escrito de alegaciones a la propuesta se presentó por correo administrativo el
+02/04/2019 y tuvo entrada en el Registro de la AEPD el 05/04/2019. Se ha constatado,
+tras realizar un examen de los registros informáticos internos, que por razones
+tecnológicas relacionadas con el funcionamiento deficiente del sistema de la
+organización, hasta el día 10/04/2018 no se volcó la información relativa a la
+presentación de las alegaciones en la aplicación a la que tiene acceso la Subdirección
+de Inspección. Hasta esa fecha no existió ninguna referencia ni alusión en la
+aplicación informática a que la denunciada hubiera presentado alegaciones a la
+propuesta de resolución y en esa fecha y hora la resolución que se impugna ya había
+sido firmada por la Directora de la AEPD.
+B. No obstante lo anterior, en aras de garantizar el respeto al principio de
+contradicción que inspira el procedimiento administrativo sancionador, pasamos a
+examinar las alegaciones a la propuesta de resolución que la denunciada formuló en el
+curso del PS/329/2018 dentro del plazo otorgado por la LPACAP y que no pudieron ser
+tomadas en consideración por la razón expuesta. Se procede al análisis de tales
+alegaciones por si ofrecen nuevos elementos que permitan en vía de recurso estimar
+las pretensiones de la denunciada.
+En la primera de sus alegaciones a la propuesta de resolución la entonces
+denunciada y actual recurrente reiteraba que en el desarrollo de su actividad había
+desarrollado una campaña promocional sobre direcciones electrónicas procedentes de
+una base de datos puesta a su disposición por una determinada Agencia (ARVATOS,
+en virtud del contrato que suscribió con la entidad propietaria, Leads the Leads) y que
+no tuvo acceso a esa base de datos, de manera que los emails que los destinatarios
+recibían incluían un link desde el cual, si lo deseaban, podían acceder a la “landing
+page” de FINDIRECT.
+En su alegación segunda explicó de nuevo que obraba en el procedimiento –
+pues fue aportado a requerimiento de la Inspección de Datos- el formulario
+cumplimentado desde la landing page con datos del reclamante; el flujo de todo el
+proceso de la landing page (auditado por un perito independiente) y los datos del log
+recuperado. Añadió que, con los datos que recabó en el mismo acto de la persona que
+recibió el email y, con el único propósito de analizar la viabilidad de la contratación del
+préstamo que se interesaba, procedió a consultar el fichero de solvencia.
+En defensa de la licitud del tratamiento de datos efectuado invocó de nuevo la
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/21
+
+presunción de “verosimilitud” de los datos ofrecidos por el interesado que cumplimentó
+el formulario de solicitud del préstamo y el “deber de ponderación y adecuación” en la
+petición de información, consecuencia del principio de minimización de datos.
+Concluyó de ello que “parece correcto no requerir mayor información para una
+solicitud inicial que en ningún caso puede completarse sin el resto de los trámites
+necesarios (contrato firmado, copia nómina, cuenta bancaria de destino, fotocopia
+DNI, etc)”
+Esgrimió de nuevo el alegato de que ostentaba un interés legítimo en el
+tratamiento efectuado. Argumenta que, como expuso en el curso del expediente, “en
+este caso, con independencia de que no existiera una relación contractual o
+precontractual con el reclamante, en tanto habría sido suplantado, según denuncia, mi
+representada habría tenido en todo caso un interés legítimo en efectuar esa consulta a
+los efectos de poder verificar si los datos recibidos eran correctos y habilitaban el
+desarrollo de la posterior relación contractual”.
+En la alegación tercera, expuso que, a su entender, a la vista de la
+documentación aportada, “no se ha valorado de forma adecuada que el tratamiento de
+datos realizado por FINDIRECT fue llevado a cabo empleando una diligencia
+razonable y exigible, ya que la entidad desarrolla su consulta en aras de asegurarse
+de que quien facilita como propios datos personales es quien dice ser, no pudiendo
+completarse la contratación sin dicho cotejo, que se completaría en última instancia
+con el abono en una cuenta bancaria necesariamente titularidad del solicitante.(El
+subrayado es de la AEPD)
+Explicó que el acceso que realizó al fichero Experian se limitó a consultar si los
+datos recibidos se encontraban en dicho fichero con el fin de estudiar la contratación
+solicitada y que el resultado de dicha consulta evitó que la contratación pretendida se
+llevase a cabo sin recibir ni ofrecer en ningún caso mayor información sobre las
+razones de la desestimación.
+Afirmó que en la actualidad “ha implementado un procedimiento para dejar
+debida constancia de la IP desde la que se cumplimenta la información que se recaba
+en las distintas “landing page” (…) en todo caso, esta medida facilitará en su caso la
+búsqueda o identificación de terceros en caso de suplantación, pero no podrá impedir
+tampoco en este momento inicial que los datos facilitados pudieran provenir de un
+tercero cuyos datos han sido obtenidos de alguna forma fraudulenta. Igualmente, mi
+representada está estudiando la posibilidad de validar los datos recibidos de DNI y
+nombre y apellidos de los interesados sobre la propia información censal de la página
+de la Agencia Tributaria”.
+A propósito de la diligencia desplegada manifestó que la diligencia desarrollada
+para la perfecta identificación del interesado es adecuada para la fase inicial de la
+consulta en la que se encontraba el proceso de contratación y añade: “resulta
+palmario que este nivel de identificación es distinto en un momento previo,
+preparatorio de la contratación que a la hora de suscribir el contrato.”
+En la alegación cuarta solicitó que por la AEPD “se oficie a ARVATOS, con
+domicilio en (…) a fin de que certifiquen el origen del mail del Sr. A.A.A. para acreditar
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/21
+
+los datos del mail que dio origen a la relación precontractual y en su caso, el
+verdadero titular de dicho mail al objeto de llevar a cabo las acciones judiciales
+oportunas”.
+Pues bien, en contestación a las alegaciones a la propuesta de resolución que
+formuló la entonces denunciada -sin dejar de insistir en que los hechos que en ellas se
+mencionan hasta tal punto fueron tenidos en cuenta por esta Agencia que la mayoría
+de ellos se recogieron en la relación de Hechos Probados de la propuesta y de la
+resolución- se han de hacer estas consideraciones:
+Por lo que atañe a la alegación primera -que es en esencia una descripción del
+procedimiento a través del cual se desarrolló la campaña de captación de clientes en
+cuyo marco recibió una solicitud de contratación de la persona que facilitó como propio
+el NIF del denunciante- nada cabe añadir salvo insistir en que estamos ante una
+reiteración de explicaciones ya ofrecidas y que, en cualquier caso, se trata de
+aspectos que no tienen relevancia a efectos de determinar si existió o no una conducta
+contraria a la LOPD de la que sea responsable la denunciada.
+La explicación ofrecida por la denunciada es que, con los datos recabados a
+través de quien cumplimentó el formulario descargado de la entidad al recibir el mail “a
+los efectos de analizar la viabilidad de la contratación interesada” se procedió a la
+consulta previa al fichero. Explicación que, como sucede con los restantes detalles
+facilitados en sus alegaciones a la propuesta, no aporta nada nuevo.
+El acceso a los datos de una persona que constan en un fichero de solvencia
+patrimonial (recordemos que en este tipo de ficheros la información está vinculada
+exclusivamente al NIF de la persona, por lo que es ese dato el que se ve obligado a
+tratar ineludiblemente quien formula la consulta) sin recabar su consentimiento (como
+exige el artículo 6.1 LOPD) únicamente puede hacerse en los términos del artículo 42
+del Reglamento de desarrollo de la LOPD (RLOPD), de acuerdo con la interpretación
+que de esta disposición ha hecho la Sala de lo Contencioso Administrativo de la
+Audiencia Nacional (ver Fundamento de Derecho III de la resolución) en el sentido de
+que la relación de supuestos del precepto no es una categoría cerrada y que ha de
+concurrir en quien efectúa la consulta a ficheros de esa naturaleza un interés legítimo
+que no necesariamente ha de derivar de un contrato.
+Como se expuso en la resolución recurrida ninguna duda existe de que quien
+recibe una solicitud de préstamo está legitimado, ex artículo 42 RLOPD, para consultar
+los datos de los que es titular el solicitante de dicho préstamo. Pero para ello será
+preciso que la entidad, que es a quien incumbe la carga de la prueba, esté en
+condiciones de acreditar que el “solicitante” del préstamo es quien dice ser o, al
+menos, que la entidad, responsable del tratamiento, desplegó (obviamente antes de
+llevar a cabo la consulta) una diligencia mínima a fin de acreditar que quien se
+identificó como titular de unos datos lo era efectivamente. Esta exigencia es
+consecuencia directa de los principios que inspiran la normativa de protección de
+datos y de no proceder así el resultado sería, en la práctica, admitir que pueden
+hacerse consultas a los ficheros de esa naturaleza de forma indiscriminada.
+Respecto a los principios de presunción de veracidad y de minimización que la
+recurrente invocó en sus alegaciones a la propuesta, señalar que la presunción de
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+8/21
+
+veracidad se predica (artículo 8.5 del RLOPD) de aquellos datos que han sido
+recogidos del “titular”. Y la entidad denunciada no ha aportado ninguna prueba ni ha
+acreditado haber desarrollado ningún tipo de actividad a fin de verificar si la persona
+que le facilitó el DNI al cumplimentar el formulario era su verdadero titular, máxime
+cuando el paso inmediato que estaba previsto en su protocolo una vez que recibía el
+formulario cumplimentado por el solicitante en el que constaba el dato del DNI, era
+consultar, utilizando como criterio de búsqueda de la información exclusivamente el
+NIF, el fichero de solvencia patrimonial.
+No sólo no se desplegó ninguna actividad a fin de verificar la identidad de la
+persona que ofreció como propio el dato del DNI; lo que resulta más preocupante es
+que la denunciada y ahora recurrente ha venido defendiendo que no es necesario
+hacer más indagaciones en esa fase precontractual habida cuenta de que, dice, más
+adelante, al tiempo de suscribir el contrato, se recabará la copia de diversos
+documentos, entre ellos el DNI. Tal explicación sería admisible si la conducta objeto de
+la denuncia hubiera de valorarse desde otros ámbitos normativos -por ejemplo las
+normas sobre solvencia de entidades financieras- distintos de aquél que regula las
+funciones de esta Agencia, que se centra en el respeto a las normas que regulan el
+derecho fundamental a la protección de datos de carácter personal.
+FINDIRECT ha invocado el principio de minimización a cuyo amparo dice: “no
+parece correcto requerir mayor información para una solicitud inicial que en ningún
+caso puede completarse sin el resto de trámites necesarios (contrato firmado, copia
+nómina, cuenta bancaria de destino, fotocopia DNI etc)”.
+Con esta explicación la denunciada prescinde, intencionadamente, de una
+circunstancia determinante, de tal modo que si no se cae en la cuenta de ello podemos
+erróneamente creer que la pretensión de la entidad es ajustada a Derecho.
+FINDIRECT menciona la “solicitud inicial” y pasa seguidamente a referirse a los
+diversos documentos que exige para completar la operación de micro préstamo. Sin
+embargo, no puede obviarse que, a tenor de su protocolo de actuación, nada más
+recibir esa solicitud inicial y, por tanto, antes de recabar ningún documento, el NIF así
+obtenido (es decir, el que consta en la solicitud) es objeto de tratamiento con una
+finalidad específica: la consulta a ficheros de solvencia patrimonial.
+Por tanto, la consulta a ficheros de esa naturaleza se efectúa sobre un NIF del
+que FINDIRECT no ha desplegado ninguna actividad para confirmar que pertenece a
+quien lo facilita como propio, el solicitante del micro préstamo. En otras palabras, en
+tanto la denunciada no esta en condiciones de acreditar al tiempo de efectuar la
+consulta al fichero de solvencia patrimonial que el solicitante del préstamo es el titular
+de los datos personales facilitados, no puede predicarse de esa consulta, de ese
+tratamiento de datos específico, el principio de veracidad ni cabe tampoco sostener la
+existencia de un interés legítimo en dicho tratamiento, pues el interés legítimo existe
+respecto a la persona que efectivamente “solicita” un micro préstamo pero no
+respecto a datos de terceros que el solicitante del préstamo facilita como propios. Por
+idéntica razón tampoco cabe amparar el tratamiento efectuado en el principio de
+minimización pues, a diferencia de lo que sostiene la denunciada, habida cuenta de
+que “antes” de recabar algún tipo de documentación trató el dato del NIF que figuraba
+en la solicitud para consultar el fichero BADEXCUG no ha desarrollado ninguna
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+9/21
+
+actividad de la que se pueda inferir que cumplió las obligaciones que le impone la
+LOPD.
+El tratamiento efectuado -la consulta a BADEXCUG- exigiría contar con el
+consentimiento del titular del NIF, que es el dato objeto de tratamiento. Para ello la
+entidad debería haber realizado una mínima actividad encaminada verificar que quien
+facilitó como suyo el dato era su verdadero titular; actividad que, evidentemente ni ha
+existido ni parece tampoco a la vista de las explicaciones ofrecidas, que la denunciada
+piense en cambiar su modus operandi. Bastaría con que la consulta al fichero se
+hiciera en un momento posterior del curso de la contratación del micro préstamo; por
+ejemplo, cuando después de recibir la solicitud se hubiera recabado del solicitante
+alguno de los documentos que la denunciada viene exigiendo para suscribir el
+contrato. Medida garantista y más respetuosa con la normativa de protección de datos
+pero que no se acoge. Parece que si tal medida no se acoge es por razones de
+eficiencia empresarial, por el inconveniente que le reporta a la denunciada que
+muchos de los trámites efectuados, de los documentos recabados se revelen inútiles
+finalmente, si al verificar la solvencia el resultado fuera negativo obligando a denegar
+la contratación. Sin embargo, como se ha expuesto, nuestro ordenamiento jurídico
+reconoce y garantiza el derecho fundamental a la protección de datos de carácter
+personal y los responsables del tratamiento de datos de terceros están sujetos a las
+obligaciones que esa normativa les impone de la misma manera que están sujetos a
+las obligaciones que les impone la normativa sectorial de solvencia económica o de
+contratación que con tanto detalle fue invocada por la denunciada en dos de sus
+escritos.
+Las reflexiones precedentes evidencian que, pese a lo manifestado por
+FINDIRECT, la denunciada no desplegó una mínima diligencia ni menos aún la
+diligencia que era exigible atendidas las circunstancias del caso.
+Mencionó también la entidad en sus alegaciones a la propuesta que había
+implementado los siguientes procedimientos:
+a) un procedimiento para “…dejar debida constancia de la IP desde la que se
+cumplimenta la información que se recaba en las distintas “landing page” (…)
+en todo caso, esta medida facilitará en su caso la búsqueda o identificación de
+terceros en caso de suplantación, pero no podrá impedir tampoco en este
+momento inicial que los datos facilitados pudieran provenir de un tercero cuyos
+datos han sido obtenidos de alguna forma fraudulenta.”
+A propósito de esta medida damos por reproducidos los comentarios
+precedentes. Basta señalar que es evidente que existe la posibilidad de que se
+produzca una suplantación de personalidad pero, en tal caso, lo relevante, de
+lo que se hace depender que tal conducta antijurídica genere o no
+responsabilidad administrativa sancionadora, será que esté o no presente el
+elemento culpabilístico de la infracción, necesario en tanto la C.E. proscribe la
+responsabilidad objetiva. Así pues, en la medida en que la responsable del
+tratamiento de datos que no pertenecen a quien los facilita como suyos sino a
+un tercero hubiera desarrollado una actuación mínimamente diligente para
+garantizar que los datos recabados pertenecen a quien se identifica con ellos
+no podrá quedar sujeta a responsabilidad administrativa sancionadora.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+10/21
+
+b) Anuncia también FINDIRECT que está en estudio la implantación de una nueva
+medida que consistirá, dice, en “… validar los datos recibidos de DNI y nombre
+y apellidos de los interesados sobre la propia información censal de la página
+de la Agencia Tributaria”.
+Ante ese anuncio, la AEPD se limita a recordar a la recurrente la obligación que
+le incumbe de respetar la normativa reguladora del derecho a la protección de
+datos de carácter personal.
+Por último, en la alegación cuarta de las alegaciones a la propuesta de
+resolución FINDIRECT solicitó que por la AEPD “se oficie a ARVATOS, con domicilio
+en (…) a fin de que certifiquen el origen del mail del Sr. A.A.A. para acreditar los datos
+del mail que dio origen a la relación precontractual y en su caso, el verdadero titular de
+dicho mail al objeto de llevar a cabo las acciones judiciales oportunas”.
+Con relación a tal cuestión se ha indicar, por una parte, que el momento procesal
+oportuno para la proposición de pruebas es el escrito de alegaciones al acuerdo de
+inicio. En todo caso, incluso en la hipótesis de que se hubiera solicitado este oficio en
+el trámite procesal adecuado, necesariamente debería haberse desestimado por ser
+“manifiestamente improcedente”. Las indagaciones que solicita que la AEPD lleve a
+efecto tendrían relevancia en procedimientos de naturaleza distinta del que nos ocupa,
+por lo que deberá acudir a la instancia administrativa o judicial que sea competente.
+Por tanto, analizadas las alegaciones que la ahora recurrente formuló a la
+propuesta de resolución del PS/329/2018 -alegaciones que no pudieron ser valoradas
+por esta Agencia por cuanto no tuvo noticia de su presentación hasta después de
+firmada la resolución sancionadora- se comprueba que no se han aportado en ellas
+nuevos argumentos jurídicos que permitan reconsiderar el sentido de la resolución
+sancionadora dictada en fecha 10/04/2019.
+III
+Por lo que atañe a los Fundamentos del recurso de reposición que la recurrente
+esgrime se advierte que consisten en una reiteración de las alegaciones ya formuladas
+a lo largo del procedimiento sancionador, en particular son casi una reproducción
+idéntica del escrito de alegaciones a la propuesta de resolución que ha sido objeto de
+análisis en el Fundamento Jurídico precedente.
+Así pues, se transcriben a continuación los Fundamentos de Derecho II a IV,
+ambos inclusive, de la resolución impugnada en los que -completados con las
+consideraciones hechas en el Fundamento Jurídico precedente- se analizan todas las
+cuestiones planteadas por la ahora recurrente:
+<< II
+Los principios generales de protección de datos regulados en los artículos 4 a 12
+de la LOPD, que integran el Título II de la citada Ley Orgánica, constituyen el
+contenido esencial de este derecho fundamental. La Audiencia Nacional, en diversas
+sentencias (entre otras SSAN de 24/03/2004 y 7/07/2006) ha señalado que los
+principios generales descritos en dicho Título definen las pautas a las que debe
+atenerse la recogida, el tratamiento y el uso de los datos de carácter personal.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+11/21
+
+En esa línea, la SAN de 25/07/2006 manifiesta: “…dichos principios sirven para
+delimitar el marco en el que debe desenvolverse cualquier uso o cesión de los datos
+de carácter personal y para integrar la definición de los tipos de infracción definidos en
+el artículo 44 de la LOPD, pues este precepto aborda la tipificación de las distintas
+infracciones mediante una remisión a los principios definidos en la propia Ley”. (El
+subrayado es de la AEPD)
+La LOPD en su artículo 6 se refiere al principio del consentimiento en el
+tratamiento de los datos de carácter personal y dispone bajo la rúbrica
+“Consentimiento del afectado”:
+“1. El tratamiento de los datos de carácter personal requerirá el consentimiento
+inequívoco del afectado, salvo que la ley disponga otra cosa.
+2. No será preciso el consentimiento cuando los datos de carácter personal se
+recojan para el ejercicio de las funciones propias de las Administraciones públicas en
+el ámbito de sus competencias; cuando se refieran a las partes de un contrato o
+precontrato de una relación negocial, laboral o administrativa y sean necesarios para
+su mantenimiento o cumplimiento;(…)
+El artículo 4 de la LOPD, “Calidad de los datos”, establece en su apartado 3:
+“Los datos de carácter personal serán exactos y puestos al día de forma que
+respondan con veracidad a la situación actual del afectado”.
+Por otra parte, el Reglamento de desarrollo de la LOPD, aprobado por el Real
+Decreto 1720/2017 (RLOPD), en el capítulo I del Título IV, que lleva por rúbrica
+“Ficheros de información sobre solvencia patrimonial y crédito”, se ocupa en su
+artículo 42 del “Acceso a la información contenida en el fichero” y dispone:
+“1. Los datos contenidos en el fichero común sólo podrán ser consultados por
+terceros cuando precisen enjuiciar la solvencia económica del afectado. En particular,
+se considerará que concurre dicha circunstancia en los siguientes supuestos:
+a)
+Que el afectado mantenga con el tercero algún tipo de relación
+contractual que aún no se encuentre vencida.
+b)
+Que el afectado pretenda celebrar con el tercero un contrato que
+implique el pago aplazado del precio.
+c)
+Que el afectado pretenda contratar con el tercero la prestación de un
+servicio de facturación periódica.
+2. Los terceros deberán informar por escrito a las personas en las que concurran
+los supuestos contemplados en las letras b) y c) precedentes de su derecho a
+consultar el fichero.
+En los supuestos de contratación telefónica de los productos o servicios a los
+que se refiere el párrafo anterior, la información podrá realizarse de forma no
+escrita, correspondiendo al tercero la prueba del cumplimiento del deber de
+informar”.
+La infracción del principio del consentimiento se tipifica como grave en el artículo
+44.3.b) LOPD, que dispone: “Son infracciones graves: (…) “Tratar datos de carácter
+personal sin recabar el consentimiento de las personas afectadas, cuando el mismo
+sea necesario conforme a lo dispuesto en esta Ley y sus disposiciones de desarrollo”.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+12/21
+
+III
+El objeto del expediente sancionador que nos ocupa es el tratamiento realizado
+por FINDIRECT del dato del NIF del denunciante. El tratamiento de este dato personal
+se materializó, entre otras conductas, en la consulta a la información que, asociada a
+él, constaba en el fichero de solvencia patrimonial BADEXCUG.
+A) Obran en el expediente sendos documentos emitidos por Experian Bureau de
+Crédito, S.A., responsable del fichero BADEXCUG, de fechas 13/10/2017 y
+23/10/2017, que informan de que en los seis meses anteriores la entidad “FINDIRECT,
+Avda. Fuente de la Mora,4, Madrid, 28050, Madrid” realizó consultas a ese fichero de
+solvencia relativas al identificador ***NIF.1 (Hecho probado tercero).
+Asimismo, la denunciada ha reconocido que en fecha 04/10/2017 a las 13:45:36
+horas se realizó la consulta a BADEXUCUG asociada al citado NIF (folio 108) y ha
+aportado un documento denominado “Datos del LOG guardado en Base de datos de
+la respuesta de Experian” que ofrece idéntica información (folio 104).
+Que el NIF ***NIF.1 es titularidad del denunciante, A.A.A., ha quedado
+plenamente acreditado en el expediente a través de la abundante documentación
+aportada al efecto, entre ella varias copias del DNI (ver Hecho probado primero).
+En respuesta al requerimiento informativo que la Inspección de Datos de la
+AEPD hizo a FINDIRECT en el curso de las actuaciones de investigación previa sobre
+el motivo por el cual había consultado el NIF del denunciante en el fichero
+BADEXCUG, la entidad denunciada respondió: “…no es otro que proceder a la
+valoración de la concesión de un préstamo tras la solicitud de información realizada el
+día 4 de octubre de 2017 por el Sr. A.A.A. a través de un landing de esta entidad (.. .)
+a la que pudo acceder desde una comunicación que había recibido de la mercantil
+Arvato y en la que el propio interesado a través del link puesto a su disposición
+cumplimentó los datos de DNI, nombre, fecha de nacimiento, teléfono fijo y teléfono
+móvil y se los facilitó a mi representada." (Hecho probado cuarto. El subrayado es de
+la AEPD)
+La denunciada ha aportado dos documentos en los que constan los datos que le
+facilitó el solicitante del crédito cuando cumplimentó el formulario de petición de
+préstamo desde la landing-page de FINDIRECT: Por una parte, nos facilita una
+captura de pantalla del mencionado formulario (se describe en el Hecho probado
+séptimo de esta resolución) en la que figuran tanto el nombre de B.B.B. como el NIF
+***NIF.1. Por otra, aporta un documento con los “datos del LOG guardado del
+formulario que llenó el cliente en el momento de aceptar condiciones y solicitar
+financiación”, obrante al folio 109, que se describe en el Hecho probado octavo de
+esta resolución. En este documento consta igualmente que el solicitante del préstamo
+se identificó con el NIF ***NIF.1 y el nombre de B.B.B..
+Se concluye de lo expuesto que el dato del NIF ***NIF.1 tratado por FINDIRECT,
+quien realizó una consulta al fichero BADEXCUG asociada a ese identificador, no
+pertenece a la persona que lo facilitó como propio y se identificó como B.B.B., sino
+que su titular es el denunciante, quien niega haber solicitado a la denunciada la
+contratación de un préstamo o algún otro producto que la habilitara para consultar los
+ficheros de solvencia patrimonial.
+La denunciada en defensa de la legitimidad del tratamiento realizado -la consulta
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+13/21
+
+a BADEXCUG asociada al dato del NIF del denunciante- invoca el artículo 42 del
+Reglamento de desarrollo de la LOPD. En este sentido, en sus alegaciones al acuerdo
+de inicio (folio 63), a propósito de la remisión a esta Agencia de la documentación
+relativa al formulario de solicitud de préstamo, declaró: “Se acompaña la concreta y
+completa información recabada que fue recibida por mi representada y que originó la
+consulta al fichero de solvencia BADEXCUG de conformidad con el art. 42 del Real
+Decreto 1720/2017 en tanto se pretendía celebrar un contrato con un tercero que
+implicaba el pago aplazado del precio.”
+El artículo 42 del RLOPD, reproducido en el Fundamento precedente, habilita a
+consultar los datos contenidos en un fichero común -dispensando así, para ese
+tratamiento específico, de la obligación de recabar el consentimiento del titular de los
+datos- cuando existe una circunstancia particular que es exponente del interés
+legítimo que asiste a quien hace la consulta: la necesidad de enjuiciar la solvencia
+económica del titular de los datos personales tratados.
+Si bien el precepto, artículo 42.1, RLOPD, relaciona tres casos en los que está
+presente el interés legítimo de valorar la solvencia económica de una persona -entre
+ellos el invocado por la denunciada, la pretensión del “titular de los datos” de celebrar
+un contrato que implique el pago aplazado del precio- la Audiencia Nacional, Sala de
+lo contencioso administrativo, ha precisado que la relación de supuestos recogidos en
+la norma tiene carácter de numerus apertus, siendo por ello bastante que exista un
+interés legítimo de quien accede al fichero que no necesariamente debe derivar de la
+existencia de una relación contractual o precontractual, siendo indispensable en todo
+caso que exista una finalidad legitima para las consultas que en ningún caso pueden
+ser indiscriminadas (por todas SSAN de 26/10/2018, Rec. 130/2017 de 15/02/2019,
+Rec. 32/2018 y de 09/07/2015, Rec. 40/2014, F.J. quinto)
+En el asunto que nos ocupa no existe controversia alguna acerca de si la
+solicitud de un préstamo sería encuadrable en la habilitación para consultar datos en
+ficheros de solvencia que deriva del artículo 42.1 del RLOPD. Ninguna duda existe de
+que quien recibe una solicitud de préstamo está legitimado ex articulo 42.1 RLOPD
+para consultar los “datos de los que es titular el solicitante”.
+Sin embargo, la cuestión controvertida que aquí se plantea es otra: si la entidad
+financiera que consulta un fichero común ostenta la habilitación legal del artículo 42
+del RLOPD pese a que el tercero que solicitó el préstamo le facilitó como propio un
+NIF que no le pertenecía, del que no era titular y habida cuenta de que la entidad
+financiera no había adoptado ninguna medida para verificar que el solicitante del
+préstamo era efectivamente quien decía ser y titular del NIF facilitado para su
+identificación.
+FINDIRECT argumenta en su defensa que en la fase de “solicitud” del préstamo
+no procede pedir ningún documento ni adoptar ninguna medida para comprobar la
+veracidad de los datos personales facilitados y afirma que “desplegó la diligencia que
+era exigible atendidas las circunstancias del caso” (folio 64). Manifiesta a ese respecto
+(folio 63, penúltimo párrafo) que “En dicho momento y sobre las bases de presunción
+de veracidad de los datos ofrecidos por el interesado, así como el deber de
+ponderación y adecuación a la hora de solicitar información, parece correcto no
+requerir mayor información para una solicitud inicial”.
+Efectivamente el artículo 8 del RLOPD - “Principios relativos a la calidad de los
+datos”- dispone en el punto 5: “Los datos de carácter personal serán exactos y
+puestos al día de forma que respondan con veracidad a la situación actual del
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+14/21
+
+afectado. Si los datos fueran recogidos directamente del afectado, se considerarán
+exactos los facilitados por éste”
+Esta presunción de veracidad del inciso último del precepto parte de una
+premisa que la condiciona, como no podría ser de otro modo habida cuenta de que
+uno de los principios que configuran el contenido del derecho fundamental a la
+protección de datos personales es el de exactitud, manifestación del principio de
+calidad del dato, que exige que “Los datos de carácter personal serán exactos y
+puestos al día de forma que respondan con veracidad a la situación actual del
+afectado”.
+Es presupuesto indispensable para poder aplicar la presunción de veracidad del
+artículo 8.5 del RLOPD que se tenga una mínima certeza de que el afectado es quien
+dice ser. Cuando, como sucede en el caso examinado, la denunciada no ha
+desplegado ninguna actividad encaminada a constatar que quien se identificó con
+determinados datos era efectivamente su titular, ni podemos utilizar el término
+“afectado” para quien ha facilitado como propios los datos de un tercero ni por ende
+predicar de tales datos la presunción legal del artículo 8.5 del RLOPD.
+El principio de calidad del dato obliga al responsable del fichero o tratamiento a
+desplegar una diligencia adecuada a fin de garantizar que los datos personales
+tratados son exactos y veraces. Y ninguna exactitud o veracidad puede predicarse de
+un dato que no pertenece a quien lo ha facilitado. La presunción del artículo 8.5 del
+RLOPD y la habilitación legal del artículo 42.1 RLOPD sólo pueden entenderse en ese
+contexto.
+En defensa de su pretensión de archivo del expediente, FINDIRECT añade a la
+afirmación de que en la fase de “solicitud inicial” del préstamo parece correcto no
+requerir mayor información esta declaración: “Evidentemente, en caso de haber
+resultado aceptada la solicitud, el interesado debería haber facilitado copia de su
+documentación para poder efectuar, en su caso, efectiva contratación del crédito y
+posterior transferencia, por lo que se habría producido una nueva validación”. (Folio
+63, último párrafo)
+Es indispensable, por ello, subrayar que el tratamiento de los datos personales
+realizado por FINDIRECT no se inicia en la fase en la que la entidad ha decidido
+-previa consulta a los ficheros de solvencia patrimonial- conceder el préstamo y
+requerir entonces al solicitante que le aporte los documentos que acrediten su
+identidad. La única cuestión sobre la que esta Agencia ha de pronunciarse es sobre el
+respeto y cumplimiento de la denunciada a las obligaciones que le impone la
+normativa de protección de datos de carácter personal; obligaciones a las que está
+sujeta desde que inicia el tratamiento de los datos de un tercero. Ese tratamiento no
+comienza ni con la aceptación de una solicitud de préstamo ni con la firma del contrato
+-que es el momento en el que el protocolo de actuación de la denunciada prevé
+desplegar una actuación diligente para verificar la identidad del solicitante-, sino
+mucho antes, con la cumplimentación del formulario y solicitud del préstamo.
+Además, se debe de destacar, ante el argumento que la denunciada ofrece para
+justificar que no haya adoptado, ni tenga previsto hacerlo, ninguna medida de
+diligencia encaminada a verificar la identidad del solicitante -nos referimos a la
+invocada “ponderación y adecuación” de la información que es exigible al solicitante
+de un préstamo- que la ponderación a la que alude obliga a tomar en consideración
+un elemento como la finalidad para la que FINDIRECT tratará los datos personales
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+15/21
+
+que recoge de quien solicita el préstamo, pues el Condicionado General menciona
+entre las finalidades del tratamiento la consulta a diversos ficheros, entre ellos, a los
+ficheros de solvencia patrimonial.
+Como ha explicado con reiteración la denunciada, en esa fase de solicitud del
+préstamo en la que a su juicio no procedía medida alguna para verificar la identidad
+del solicitante, éste aceptó las Condiciones Generales en las que se estipula que sus
+datos (los que ha facilitado como propios) serán consultados en ficheros de solvencia
+patrimonial (Hechos probados quinto, séptimo y duodécimo)
+En definitiva, la denunciada trató un dato personal del denunciante, su NIF, dato
+personal por excelencia toda vez que identifica a la persona de forma indubitada, sin
+que sea admisible estimar que ese tratamiento estuviera habilitado por Ley (ex artículo
+6.1 LOPD, inciso último) al amparo del artículo 42 del RLOPD, tal y como ha sostenido
+la denunciada en sus alegaciones al acuerdo de inicio.
+B. Conforme al artículo 6.1 de la LOPD el tratamiento de los datos personales de un
+tercero exige contar con el consentimiento inequívoco del titular “salvo que la Ley
+disponga otra cosa”. Excluida la posibilidad de que el tratamiento sobre el que versa la
+denuncia éste habilitado por el artículo 42 del RLOPD procede analizar las otras
+hipótesis expuestas por la entidad denunciada: la dispensa del consentimiento
+prevista en el artículo 6.2 LOPD -la norma dispensa al responsable del fichero de
+recabar el consentimiento del titular para tratar sus datos personales, entre otros
+supuestos, cuando el tratamiento se refiere a las partes de un precontrato y es
+necesario para su mantenimiento o cumplimiento- y en el consentimiento expreso
+otorgado al aceptar el condicionado general.
+No obstante, para que el tratamiento de los datos personales pueda ampararse
+en alguna de esas disposiciones -el consentimiento prestado o la dispensa del
+consentimiento en atención a que el afectado es parte en un precontrato- resulta
+imprescindible que quien otorgue el consentimiento en el primer supuesto o quien
+suscriba el precontrato, en el segundo, sea efectivamente el titular de los datos
+personales objeto del tratamiento. Así lo expresa con toda claridad el artículo 3.h) de
+la LOPD que, al definir el consentimiento, se refiere a la manifestación de voluntad
+que el interesado hace respecto a los “datos que le conciernan”. Exigencia que es
+también consecuencia del principio de exactitud de los datos a tenor del cual los datos
+objeto de tratamiento han de ser exactos y veraces (ex artículo 4.3 LOPD)
+Es ese el criterio reiteradamente mantenido por la Sala de lo contencioso
+administrativo de la Audiencia Nacional. A título de ejemplo podemos citar la SAN de
+31/05/2006 (Rec. 539/2004), Fundamento de Derecho Cuarto, que señala:
+“(…) es al responsable del tratamiento (por todas, sentencia de esta Sala de 25
+de octubre de 2002 Rec. 185/2001) a quien corresponde asegurarse de que aquel a
+quien se solicita el consentimiento, efectivamente lo da, y que esa persona que está
+dando el consentimiento es efectivamente el titular de esos datos personales,
+debiendo conservar la prueba del cumplimiento de la obligación a disposición de la
+Administración, encargada de velar por el cumplimiento de la Ley”.
+También la antigua SAN de 11/05/2001 indicaba: “...quien gestiona la base, debe
+estar en condiciones de acreditar el consentimiento del afectado, siendo carga de la
+prueba del mismo su justificación, y la entidad recurrente en ningún momento ha
+realizado esfuerzo probatorio tendente a la acreditación del consentimiento de las
+personas en las que se basa la sanción”.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+16/21
+
+En definitiva, como ya se ha indicado, en el supuesto que se somete a la
+valoración de esta Agencia el denunciante, titular del NIF ***NIF.1 que fue tratado por
+FINDIRECT para consultar al fichero BADEXCUG, ni había solicitado un préstamo a
+dicha entidad, ni era cliente suyo, ni concurría circunstancia alguna que justificara la
+necesidad de la denunciada en enjuiciar su solvencia económica. Todo lo cual impide
+amparar el tratamiento del NIF del denunciante en el artículo 42 del RLOPD.
+Tampoco cabe amparar el tratamiento del NIF del denunciante realizado por la
+denunciada en el consentimiento prestado por su titular, pues no fue el titular (esto es,
+el denunciante) sino un tercero, B.B.B., quien facilitó el dato como propio. Por idéntica
+razón tampoco puede entenderse que el tratamiento del dato del NIF del denunciante
+encuentre su legitimación en el artículo 6.2 LOPD, pues la solicitud de préstamo no la
+hizo el afectado sino un tercero y fue también el tercero quien aceptó el Condicionado
+General, en cuyas estipulaciones se contempla la consulta a ficheros de solvencia
+patrimonial.
+Así las cosas, la conducta de FINDIRECT sobre la que versa la denuncia
+constituye una infracción del principio del consentimiento, artículo 6.1 LOPD.
+Este ha sido el criterio seguido por la Audiencia Nacional, Sala de lo
+Contencioso Administrativo, en diversas resoluciones entre las que citamos la SAN de
+09/07/2015 (Rec. 40/2014) que en su F.J. cuarto decía:
+“En el caso de autos consta acreditado que el denunciante ha tenido dos
+contratos con FT siendo el último de fecha de baja 2/1/2011 sin que a esa fecha
+existieran facturas pendientes de pago, ni relación alguna con la citada entidad,
+habiendo manifestado el denunciante que con posterioridad no ha vuelto a tener
+relación con F.T. (…) . Ante lo cual y habiéndose acreditado que F.T. accedió a los
+datos que del denunciante figuraban en el fichero Badexcug con posterioridad, entre el
+3/10/2011 y el 3/4/2012, correspondía acreditar a la citada entidad que contaba con el
+consentimiento del denunciante o estaba legitimada para consultar sus datos en el
+fichero de solvencia patrimonial Badexcug, lo que no ha hecho, sin que conste
+acredita la concurrencia del citado supuesto previsto en el citado artículo 42.1.c) del
+RLOPD ni la información prevista en el mismo.
+En definitiva, resulta acreditada la vulneración del principio del consentimiento
+exigido en el artículo 6.1 LOPD, que constituye una garantía fundamental en materia
+de protección de datos, al haber tratado la operadora recurrente los datos del
+denunciante sin su consentimiento y sin que concurra ninguna de las causas que
+eximan de su prestación según el artículo 6.2 LOPD, conducta que integra la
+infracción.”
+C. El nacimiento de responsabilidad sancionadora exige como presupuesto la
+existencia de culpabilidad en cualquiera de sus manifestaciones: dolo, culpa o culpa
+levísima. En el ámbito del Derecho Administrativo Sancionador no es posible imponer
+sanciones basadas en la responsabilidad objetiva del presunto infractor, pues las
+sanciones administrativas participan de la misma naturaleza que las penales, al ser
+una de las manifestaciones de la potestad punitiva del Estado y, como exigencia
+derivada de los principios de seguridad jurídica y legalidad penal consagrados en los
+artículos 9.3 y 25.1 de la CE, es imprescindible que este elemento esté presente como
+presupuesto para su imposición (STC 76/1999)
+La Ley 40/2015, de “Régimen Jurídico del Sector Público”, dispone en su artículo
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+17/21
+
+28 bajo la rúbrica “Responsabilidad”: “1. Sólo podrán ser sancionadas por hechos
+constitutivos de infracción administrativa las personas físicas y jurídicas,(…), que
+resulten responsables de los mismos a título de dolo o culpa”.
+En relación al principio de culpabilidad cabe citar la STS de 24/11/2011 (Rec.
+258/2009) que señala:
+“No obstante, el modo de atribución de la responsabilidad a las personas
+jurídicas no se corresponde con las formas de culpabilidad dolosas o imprudentes que
+son imputables a la conducta humana. De modo que, en el caso de infracciones
+cometidas por personas jurídicas, aunque haya de concurrir el elemento de la
+culpabilidad, éste se aplica necesariamente de forma distinta a como se hace respecto
+de las personas físicas. Según STC 246/1999 “(…) esta construcción distinta de la
+imputabilidad de la autoría de la infracción a la persona jurídica nace de la propia
+naturaleza de ficción jurídica a la que responden estos sujetos. Falta en ellos el
+elemento volitivo en sentido estricto, pero no la capacidad de infringir las normas a las
+que están sometidos. Capacidad de infracción y, por ende, reprochabilidad directa que
+deriva del bien jurídico protegido por la norma que se infringe y la necesidad de que
+dicha protección sea realmente eficaz y por el riesgo que, en consecuencia, debe
+asumir la persona jurídica que está sujeta al cumplimiento de dicha norma”
+El Tribunal Supremo añade a lo anterior (por todas STS 23/01/1998, transcrita
+parcialmente en STS de 23/10/2010, Rec. 1067/2006) que “aunque la culpabilidad de
+la conducta debe también ser objeto de prueba, debe considerarse en orden a la
+asunción de la correspondiente carga, que ordinariamente los elementos volitivos y
+cognoscitivos necesarios para apreciar aquella forman parte de la conducta típica
+probada, y que su exclusión requiere que se acredite la ausencia de tales elementos
+o, en su vertiente normativa, que se ha empleado la diligencia que era exigible por
+quien aduce su inexistencia; no basta, en suma, para la exculpación frente a un
+comportamiento típicamente antijurídico la invocación de la ausencia de culpa”
+Es necesario, por ello, valorar si en la conducta de FINDIRECT -concretada en
+el tratamiento del NIF del denunciante vinculado a una solicitud de préstamo y en su
+consulta al fichero de solvencia BADEXCUG- concurre el elemento subjetivo de la
+infracción; en definitiva, si se aprecia en la actuación de la denunciada omisión de la
+diligencia debida en el cumplimiento de las obligaciones que le impone la normativa de
+protección de datos de carácter personal.
+Un análisis del protocolo de actuación que FINDIRECT ha detallado en sus
+alegaciones al acuerdo de inicio del expediente pone de manifiesto que la entidad no
+adopta medida alguna para verificar si los datos facilitados con “la solicitud” del
+préstamo efectivamente pertenecen a su titular.
+Por lo que respecta a la copia del documento que identifica al solicitante del
+préstamo, la denunciada ha declarado reiteradamente que no pide ningún documento
+hasta que concluye la fase de solicitud inicial. Esto es, una vez recabados los datos,
+aceptado el condicionado por el solicitante, consultados los ficheros de solvencia por
+la entidad y cuando ésta responde afirmativamente a la solicitud formulada. Es
+entonces cuando se recaba del solicitante la firma del contrato y los documentos que
+acrediten su identidad.
+Además de no recabar en la fase de solicitud del préstamo una copia del
+documento acreditativo de la identidad, FINDIRECT no hace mención a ningún otro
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+18/21
+
+mecanismo implementado para la validación de la identidad de la persona que ha
+facilitado como propios determinados datos personales.
+Si se toman en consideración las finalidades para las que la denunciada tratará
+el dato personal del NIF durante la denominada fase de “solicitud” del préstamo -entre
+ellas las consultas a ficheros de solvencia- se revela aún más grave la falta de
+diligencia demostrada en el tratamiento de datos personales que se somete a la
+consideración de esta Agencia.
+No puede obviarse que cuando FINDIRECT recaba los datos del solicitante del
+crédito es cuando inicia su tratamiento y, por tanto, cuando debe de asegurarse de
+que quien ha facilitado como propios determinados datos es su verdadero titular.
+Sobre el grado de diligencia que el responsable del fichero está obligado a
+desplegar en el cumplimiento de las obligaciones que le impone la LOPD, la SAN de
+17/10/2007 (rec. 63/2006) después de referirse a que las entidades en las que el
+desarrollo de su actividad conlleva un continuo tratamiento de datos de clientes y
+terceros han de observar un adecuado nivel de diligencia precisó que “….el Tribunal
+Supremo viene entendiendo que existe imprudencia siempre que se desatiende un
+deber legal de cuidado, es decir, cuando el infractor no se comporta con la diligencia
+exigible. Y en la valoración del grado de diligencia ha de ponderarse especialmente la
+profesionalidad o no del sujeto, y no cabe duda de que, en el caso ahora examinado,
+cuando la actividad de la recurrente es de constante y abundante manejo de datos de
+carácter personal ha de insistirse en el rigor y el exquisito cuidado por ajustarse a las
+prevenciones legales al respecto”.
+Especialmente significativa es también la SAN de 29/04/2010 que, en su
+Fundamento Jurídico sexto, indicó: “La cuestión no es dilucidar si la recurrente trató
+los datos de carácter personal de la denunciante sin su consentimiento, como si
+empleó o no una diligencia razonable a la hora de tratar de identificar a la persona con
+la que suscribió el contrato”.
+En atención a las consideraciones precedentes, el tratamiento efectuado por
+FINDIRECT del dato personal del denunciante, su NIF, sin legitimación para ello
+constituye una infracción del artículo 6.1 LOPD y es subsumible en el tipo infractor del
+artículo 44.3.b) LOPD.
+IV
+El artículo 45 de la LOPD establece en sus apartados 1 a 5:
+“1. Las infracciones leves serán sancionadas con multa de 900 a 40.000 euros.
+2. Las infracciones graves serán sancionadas con multa de 40.001 a 300.000
+euros.
+3. Las infracciones muy graves serán sancionadas con multa de 300.001 a
+600.000 euros.
+4. La cuantía de las sanciones se graduará atendiendo a los siguientes criterios:
+a) El carácter continuado de la infracción.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+19/21
+
+b) El volumen de los tratamientos efectuados.
+c) La vinculación de la actividad del infractor con la realización de tratamientos
+de datos de carácter personal.
+d) El volumen de negocio o actividad del infractor.
+e) Los beneficios obtenidos como consecuencia de la comisión de la infracción.
+f) El grado de intencionalidad.
+g) La reincidencia por comisión de infracciones de la misma naturaleza.
+h) La naturaleza de los perjuicios causados a las personas interesadas o a
+terceras personas.
+i) La acreditación de que con anterioridad a los hechos constitutivos de
+infracción la entidad imputada tenía implantados procedimientos adecuados de
+actuación en la recogida y tratamiento de Ios datos de carácter personal, siendo la
+infracción consecuencia de una anomalía en el funcionamiento de dichos
+procedimientos no debida a una falta de diligencia exigible al infractor.
+j) Cualquier otra circunstancia que sea relevante para determinar el grado de
+antijuridicidad y de culpabilidad presentes en la concreta actuación infractora.
+5. El órgano sancionador establecerá la cuantía de la sanción aplicando la
+escala relativa a la clase de infracciones que preceda inmediatamente en gravedad a
+aquella en que se integra la considerada en el caso de que se trate, en los siguientes
+supuestos:
+a) Cuando se aprecie una cualificada disminución de la culpabilidad del
+imputado o de la antijuridicidad del hecho como consecuencia de la concurrencia
+significativa de varios de los criterios enunciados en el apartado 4 de este artículo.
+b) Cuando la entidad infractora haya regularizado la situación irregular de forma
+diligente.
+c) Cuando pueda apreciarse que la conducta del afectado ha podido inducir a la
+comisión de la infracción.
+d) Cuando el infractor haya reconocido espontáneamente su culpabilidad.
+e) Cuando se haya producido un proceso de fusión por absorción y la infracción
+fuese anterior a dicho proceso, no siendo imputable a la entidad absorbente.»
+Teniendo la infracción tipificada en el artículo 44.3.b) LOPD, de la que se
+responsabiliza a FINDIRECT, el carácter de infracción grave la sanción a imponer será
+la prevista en el artículo 45.2. LOPD.
+En el presente asunto no se aprecian elementos que justifiquen la aplicación de
+ninguna de las atenuantes privilegiadas del artículo 45.5 LOPD, razón por la cual la
+graduación de la sanción se hará, dentro de los límites que fija el artículo 45.2,
+tomando en consideración, exclusivamente, los criterios del artículo 45.4 LOPD.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+20/21
+
+En particular, se estima, como ya hiciera el acuerdo de inicio del expediente
+sancionador, que concurre en calidad de agravante la circunstancia descrita en el
+apartado c) del artículo 45.4 LOPD: “La vinculación de la actividad del infractor con la
+realización de tratamientos de datos de carácter personal”. Esto, porque la actividad
+empresarial de FINDIRECT -con ocasión de la cual se vulneró la LOPD- exige, por su
+propia naturaleza, un continuo tratamiento de datos personales.
+Valorada la ausencia de circunstancias atenuantes de la antijuridicidad o la
+culpabilidad de la denunciada y valorada la concurrencia de la agravante descrita en el
+apartado c) del artículo 45.4 LOPD, se acuerda sancionar la infracción del artículo 6.1
+LOPD, tipificada como infracción grave en el artículo 44.3.b) LOPD, de la que es
+responsable FINDIRECT, con una multa de 40.010 euros, cuantía próxima al mínimo
+previsto en el artículo 45.2 para la sanción de las infracciones graves.>>
+IV
+Debido a razones de funcionamiento del órgano administrativo, por ende, no
+atribuibles al recurrente, hasta el día de la fecha no se ha emitido el preceptivo
+pronunciamiento de esta Agencia respecto a la pretensión del interesado.
+De acuerdo con lo establecido en el artículo 24 de la Ley 39/2015, de 1 de
+octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
+(LPACAP) el sentido del silencio administrativo en los procedimientos de impugnación
+de actos y disposiciones es desestimatorio.
+Con todo, y a pesar del tiempo transcurrido, la Administración está obligada a
+dictar resolución expresa y a notificarla en todos los procedimientos, cualquiera que
+sea su forma de iniciación, según dispone el art. 21.1 de la citada LPACAP. Por tanto,
+pese a que el plazo de un mes para resolver el presente recurso finalizó el 21 de junio
+de 2019, procede emitir la resolución del recurso de reposición interpuesto.
+V
+En consecuencia, a tenor de la exposición precedente, la recurrente no ha
+aportado nuevos hechos o argumentos jurídicos que permitan reconsiderar la validez
+de la resolución impugnada.
+Vistos los preceptos citados y demás de general aplicación,
+la Directora de la Agencia Española de Protección de Datos RESUELVE:
+PRIMERO: DESESTIMAR el recurso de reposición interpuesto por FINANCIERA
+ESPAÑOLA DE CREDITOS A DISTANCIA EFC, S.A., contra la resolución de esta
+Agencia Española de Protección de Datos dictada con fecha 10 de abril de 2019, en el
+procedimiento sancionador PS/00329/2018.
+SEGUNDO: NOTIFICAR la presente resolución a la entidad FINANCIERA ESPAÑOLA
+DE CREDITOS A DISTANCIA, EFC, S.A., con NIF A84101682.
+TERCERO: Advertir al sancionado que la sanción impuesta deberá hacerla efectiva
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+21/21
+
+una vez sea ejecutiva la presente resolución, de conformidad con lo dispuesto en el
+artículo 98.1.b) de la ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas, en el plazo de pago voluntario que señala el
+artículo 68 del Reglamento General de Recaudación, aprobado por Real Decreto
+939/2005, de 29 de julio, en relación con el art. 62 de la Ley 58/2003, de 17 de
+diciembre, mediante su ingreso en la cuenta restringida nº ES00 0000 0000 0000 0000
+0000, abierta a nombre de la Agencia Española de Protección de Datos en el Banco
+CAIXABANK, S.A. o en caso contrario, se procederá a su recaudación en período
+ejecutivo.
+Recibida la notificación y una vez ejecutiva, si la fecha de ejecutividad se
+encuentra entre los días 1 y 15 de cada mes, ambos inclusive, el plazo para efectuar el
+pago voluntario será hasta el día 20 del mes siguiente o inmediato hábil posterior, y si
+se encuentra entre los días 16 y último de cada mes, ambos inclusive, el plazo del
+pago será hasta el 5 del segundo mes siguiente o inmediato hábil posterior.
+De conformidad con lo establecido en el artículo 50 de la LOPDPGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa conforme al art. 48.6
+de la LOPDPGDD, y de acuerdo con lo establecido en el artículo 123 de la Ley
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas (LPACAP), los interesados podrán interponer recurso
+contencioso-administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Finalmente, se señala que conforme a lo previsto en el art. 90.3 a) LPACAP, se
+podrá suspender cautelarmente la resolución firme en vía administrativa si el
+interesado manifiesta su intención de interponer recurso contencioso-administrativo.
+De ser éste el caso, el interesado deberá comunicar formalmente este hecho mediante
+escrito dirigido a la Agencia Española de Protección de Datos, presentándolo a través
+del Registro Electrónico de la Agencia [https://sedeagpd.gob.es/sede-electronicaweb/], o a través de alguno de los restantes registros previstos en el art. 16.4 de la
+citada LPACAP. También deberá trasladar a la Agencia la documentación que acredite
+la interposición efectiva del recurso contencioso-administrativo. Si la Agencia no
+tuviese conocimiento de la interposición del recurso contencioso-administrativo en el
+plazo de dos meses desde el día siguiente a la notificación de la presente resolución,
+daría por finalizada la suspensión cautelar.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

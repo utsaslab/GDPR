@@ -1,0 +1,354 @@
+1/9
+
+936-150719
+
+Procedimiento Nº: PS/00175/2019
+RESOLUCIÓN R/00400/2019 DE TERMINACIÓN DEL PROCEDIMIENTO POR PAGO
+VOLUNTARIO
+En el procedimiento sancionador PS/00175/2019, instruido por la Agencia
+Española de Protección de Datos a VF JEANSWEAR ESPAÑA S.L., vista la denuncia
+presentada por A.A.A., y en base a los siguientes,
+ANTECEDENTES
+PRIMERO: Con fecha 24 de mayo de 2019, la Directora de la Agencia Española de
+Protección de Datos acordó iniciar procedimiento sancionador a VF JEANSWEAR
+ESPAÑA S.L. (en adelante, el reclamado), mediante el Acuerdo que se transcribe:
+<<
+Procedimiento Nº: PS/00175/2019
+166-160419
+
+ACUERDO DE INICIO DE PROCEDIMIENTO SANCIONADOR
+
+De las actuaciones practicadas por la Agencia Española de Protección de Datos ante
+la entidad, VF INTERNATIONAL S.A.G.L. -DIVISION DE VANS (VF EUROPE BVBA);
+(en adelante, “entidad reclamada”), en virtud de denuncia presentada por Dª. A.A.A.
+(en adelante, “la reclamante”) y teniendo como base los siguientes:
+HECHOS
+
+PRIMERO: Con fecha 04/01/19, tuvo entrada en esta Agencia escrito, presentado por
+la reclamante, en el que expone, entre otra, lo siguiente: “El presunto responsable es
+la empresa “Vans Spain S.L., c/ Moll 1º 08039 Barcelona”. Accedí al sitio web de la
+citada empresa (cuya justificación se acompaña Doc.1) y no hubo ninguna notificación
+de uso de Cookies (doc.1), Tras comprobar, se habían instalado las Cookies sin
+consentimiento (cuya justificación se acompaña como Doc. 2). Buscando en la web di
+con el lugar donde se informa acerca de la información que recopila la compañía. Esta
+asume hacerlo sin consentimiento. ya que declara recopilar información 'con el simple
+uso de la web' (cuya justificación se acompaña como (Doc. 3)”.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/9
+
+SEGUNDO: A la vista de los hechos expuestos en la reclamación y de los documentos
+aportados por el reclamante, la Subdirección General de Inspección de Datos procedió
+a realizar actuaciones para su esclarecimiento, al amparo de los poderes de
+investigación otorgados a las autoridades de control en el art 57.1 del Reglamento
+(UE) 2016/679 (en adelante RGPD). Así, según diligencia realizada el 20/03/19, al
+acceder por Internet a la ***URL.1 se observa que se cargan cookies de tipo
+publicitario con la mera visita a la página web, sin facilitar información alguna al
+respecto al usuario que accede.
+
+Según la política de privacidad de la página web, el responsable del tratamiento de los
+datos personales es la entidad: VF INTERNATIONAL S.A.G.L. («VF International Sagl,
+Vía Laveggio 5, 6855 – Stabio, Suiza – ***EMAIL.1), empresa suiza, la cual tiene un
+representante en la UE para el cumplimiento de la normativa de protección de datos:
+VF Europe BVBA, establecida en Bélgica, con domicilio social en Fountain Business
+Park, C. Van Kerckhovenstraat 110, 2880 Bornem, Bélgica, CIF BE 0405.039.138 RPM
+Amberes División de Mechelen.
+
+Con fecha 20/03/19, se ha observado que se han realizado cambios en la web en
+cuestión (www.vans.es), en lo que concierne a las cookies. Aunque se ha incorporado
+un aviso de primera capa y una pantalla donde se puede configurar el tipo de cookies
+que se desean cargar (las optativas son funcionales y de publicidad), lo cierto es que
+se siguen cargando cookies con la primera visita a la página.
+
+TERCERO: A la vista de los hechos denunciados, de conformidad con las evidencias
+de que se dispone, la Inspección de Datos de esta AEPD considera que la actuación
+de la entidad reclamada con respecto a la utilización cookies en la página web
+www.vans.es, no cumple las condiciones que impone la normativa vigente, por lo que
+procede la apertura del presente procedimiento sancionador.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/9
+
+FUNDAMENTOS DE DERECHO
+
+I
+De conformidad con lo establecido en el art. 43.1, párrafo segundo, de la de la Ley
+34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio
+Electrónico (LSSI), es competente para iniciar y resolver este Procedimiento
+Sancionador, la Directora de la Agencia Española de Protección de Datos.
+
+II
+En el presente caso, el artículo 4 de la citada Ley LSSI, indica que: “Los prestadores
+establecidos en países que no sean miembros de la UE o del Espacio Económico
+Europeo, les será de aplicación lo dispuesto en los art 7.2 y 11.2. Los prestadores que
+dirijan sus servicios específicamente al territorio español quedarán sujetos, además, a
+las obligaciones previstas en esta Ley, siempre que ello no contravenga lo establecido
+en tratados o convenios internacionales que sean aplicables”.
+
+Por lo tanto, la entidad VF INTERNATIONAL S.A.G.L., radicada en Suiza, que dirige
+sus servicios al territorio español, a través de la web ***URL.1, le es de aplicación lo
+dispuesto en la normativa vigente, incluida en la LSSI.
+
+III
+Así las cosas, los hechos expuestos, sin perjuicio de lo que resulte de la instrucción,
+podrían constituir infracción, por parte de la entidad reclamada, a lo dispuesto en el
+artículo 22.2 de la LSSI, que dispone lo siguiente:
+
+“2. Los prestadores de servicios podrán utilizar dispositivos de almacenamiento y
+recuperación de datos en equipos terminales de los destinatarios, a condición de que
+los mismos hayan dado su consentimiento después de que se les haya facilitado
+información clara y completa sobre su utilización, en particular, sobre los fines del
+tratamiento de los datos, con arreglo a lo dispuesto en la Ley Orgánica 15/1999, de 13
+de diciembre, de protección de datos de carácter personal.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/9
+
+Cuando sea técnicamente posible y eficaz, el consentimiento del destinatario para
+aceptar el tratamiento de los datos podrá facilitarse mediante el uso de los parámetros
+adecuados del navegador o de otras aplicaciones.
+
+Lo anterior no impedirá el posible almacenamiento o acceso de índole técnica al solo
+fin de efectuar la transmisión de una comunicación por una red de comunicaciones
+electrónicas o, en la medida que resulte estrictamente necesario, para la prestación de
+un servicio de la sociedad de la información expresamente solicitado por el
+destinatario”
+
+La citada infracción se encuentra tipificada como leve en el artículo 38.4.g)de la LSSI,
+que califica como tal: “Utilizar dispositivos de almacenamiento y recuperación de datos
+cuando no se hubiera facilitado la información u obtenido el consentimiento del
+destinatario del servicio en los términos exigidos por el artículo 22.2.”
+
+A tenor de lo establecido en el artículo 39.1. c) de la LSSI, las infracciones leves
+podrán sancionarse con multa de hasta 30.000 €, estableciéndose los criterios para su
+graduación en el artículo 40 de la misma norma.
+
+En relación con los criterios de graduación de las sanciones recogidos en el citado
+artículo 40 de la LSSI, tras las evidencias obtenidas, y sin perjuicio de lo que resulte de
+la instrucción, se considera que en este supuesto actúa como agravante:
+
+-
+
+Por la a existencia de intencionalidad de utilizar cookies sin advertencia previa,
+(apartado a).
+
+-
+
+Por el plazo de tiempo durante el que se haya venido cometiendo la infracción
+(apartado b).
+
+-
+
+Por los beneficios obtenidos por la infracción (apartado e).
+
+Con arreglo a dichos criterios, se estima adecuado imponer al reclamado una sanción
+de 5.000 euros (cinco mil euros).
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/9
+
+Por lo tanto, a tenor de lo anteriormente expuesto, Por la Directora de la Agencia
+Española de Protección de Datos,
+
+SE ACUERDA:
+
+INICIAR: PROCEDIMIENTO SANCIONADOR a VF INTERNATIONAL S.A.G.L.
+-DIVISION DE VANS (VF EUROPE BVBA), con arreglo a lo dispuesto en los artículos
+63 y 64 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+de las Administraciones Públicas (en adelante, LPACAP), por la presunta infracción del
+artículo 22.2 de la LSSI, tipificada como leve en el artículo 38.4.g) de la LSSI
+
+NOMBRAR: instructor a B.B.B. y, como secretaria, a C.C.C., indicando que cualquiera
+de ellos podrá ser recusado, en su caso, conforme a lo establecido en los artículos 23
+y 24 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público
+(LRJSP).
+
+INCORPORAR: al expediente sancionador, a efectos probatorios, la reclamación
+interpuesta por el reclamante y su documentación, los documentos obtenidos y
+generados por la Subdirección General de Inspección de Datos durante la fase de
+investigaciones.
+
+QUE: a los efectos previstos en el art. 39.1. c) de la LSSI, las infracciones leves
+podrán sancionarse con multa de hasta 30.000.- euros, sin perjuicio de lo que resulte
+de la instrucción.
+
+NOTIFICAR: el presente acuerdo a la entidad PROCEDIMIENTO SANCIONADOR a
+VF INTERNATIONAL S.A.G.L. -DIVISION DE VANS (VF EUROPE BVBA, otorgándole
+un plazo de audiencia de diez días hábiles para que formule las alegaciones y
+presente las pruebas que considere convenientes.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/9
+
+Si en el plazo estipulado no efectuara alegaciones a este acuerdo de inicio, el mismo
+podrá ser considerado propuesta de resolución, según lo establecido en el artículo
+64.2.f) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de
+las Administraciones Públicas (en lo sucesivo, LPACAP).
+
+De conformidad con lo dispuesto en el artículo 85 de la LPACAP, en caso de que la
+sanción a imponer fuese de multa, podrá reconocer su responsabilidad dentro del
+plazo otorgado para la formulación de alegaciones al presente acuerdo de inicio; lo
+que llevará aparejada una reducción de un 20% de la sanción que proceda imponer en
+el presente procedimiento, equivalente en este caso a 1000.- euros. Con la aplicación
+de esta reducción, la sanción quedaría establecida en 4000.- euros, resolviéndose el
+procedimiento con la imposición de esta sanción.
+
+Del mismo modo podrá, en cualquier momento anterior a la resolución del presente
+procedimiento, llevar a cabo el pago voluntario de la sanción propuesta, lo que
+supondrá una reducción de un 20% del importe de la misma, equivalente en este caso
+a 1000 euros. Con la aplicación de esta reducción, la sanción quedaría establecida en
+4000 euros y su pago implicará la terminación del procedimiento.
+
+La reducción por el pago voluntario de la sanción es acumulable a la que corresponde
+aplicar por el reconocimiento de la responsabilidad, siempre que este reconocimiento
+de la responsabilidad se ponga de manifiesto dentro del plazo concedido para formular
+alegaciones a la apertura del procedimiento. El pago voluntario de la cantidad referida
+en el párrafo anterior podrá hacerse en cualquier momento anterior a la resolución. En
+este caso, si procediera aplicar ambas reducciones, el importe de la sanción quedaría
+establecido en 3000.- euros (tres mil euros).
+
+En todo caso, la efectividad de cualquiera de las dos reducciones mencionadas estará
+condicionada al desistimiento o renuncia de cualquier acción o recurso en vía
+administrativa contra la sanción.
+
+Si se optara por proceder al pago voluntario de cualquiera de las cantidades señaladas
+anteriormente, deberá hacerlo efectivo mediante su ingreso en la cuenta nº ES00
+0000 0000 0000 0000 abierta a nombre de la Agencia Española de Protección de
+Datos en el Banco CAIXABANK, S.A., indicando en el concepto el número de
+referencia del procedimiento que figura en el encabezamiento de este documento y la
+causa de reducción del importe a la que se acoge.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/9
+
+Asimismo, deberá enviar el justificante del ingreso a la Subdirección General de
+Inspección para continuar con el procedimiento en concordancia con la cantidad
+ingresada.
+
+El procedimiento tendrá una duración máxima de nueve meses a contar desde la
+fecha del acuerdo de inicio o, en su caso, del proyecto de acuerdo de inicio.
+Transcurrido ese plazo se producirá su caducidad y, en consecuencia, el archivo de
+actuaciones; de conformidad con lo establecido en el artículo 64 de la LOPDGDD.
+
+Por último, se señala que conforme a lo establecido en el artículo 112.1 de la LPACAP,
+contra el presente acto no cabe recurso administrativo alguno.
+
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+>>
+SEGUNDO: En fecha 19 de junio de 2019, el reclamado ha procedido al pago de la
+sanción en la cuantía de 3000.- euros haciendo uso de las dos reducciones previstas
+en el Acuerdo de inicio transcrito anteriormente, lo que implica el reconocimiento de la
+responsabilidad.
+TERCERO: El pago realizado, dentro del plazo concedido para formular alegaciones a
+la apertura del procedimiento, conlleva la renuncia a cualquier acción o recurso en vía
+administrativa contra la sanción y el reconocimiento de responsabilidad en relación con
+los hechos a los que se refiere el Acuerdo de Inicio.
+FUNDAMENTOS DE DERECHO
+I
+En virtud de los poderes que el artículo 58.2 del RGPD reconoce a cada autoridad de
+control, y según lo establecido en el art. 47 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales (en
+lo sucesivo LOPDGDD), la Directora de la Agencia Española de Protección de Datos
+es competente para sancionar las infracciones que se cometan contra dicho
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+8/9
+
+Reglamento; las infracciones del artículo 48 de la Ley 9/2014, de 9 de mayo, General
+de Telecomunicaciones (en lo sucesivo LGT), de conformidad con lo dispuesto en el
+artículo 84.3 de la LGT, y las infracciones tipificadas en los artículos 38.3 c), d) e i) y
+38.4 d), g) y h) de la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la
+información y de comercio electrónico (en lo sucesivo LSSI), según dispone el artículo
+43.1 de dicha Ley.
+II
+El artículo 85 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas (en lo sucesivo, LPACAP), bajo la rúbrica
+“Terminación en los procedimientos sancionadores” dispone lo siguiente:
+“1. Iniciado un procedimiento sancionador, si el infractor reconoce su
+responsabilidad, se podrá resolver el procedimiento con la imposición de la sanción
+que proceda.
+2. Cuando la sanción tenga únicamente carácter pecuniario o bien quepa
+imponer una sanción pecuniaria y otra de carácter no pecuniario pero se ha justificado
+la improcedencia de la segunda, el pago voluntario por el presunto responsable, en
+cualquier momento anterior a la resolución, implicará la terminación del procedimiento,
+salvo en lo relativo a la reposición de la situación alterada o a la determinación de la
+indemnización por los daños y perjuicios causados por la comisión de la infracción.
+3. En ambos casos, cuando la sanción tenga únicamente carácter pecuniario,
+el órgano competente para resolver el procedimiento aplicará reducciones de, al
+menos, el 20 % sobre el importe de la sanción propuesta, siendo éstos acumulables
+entre sí. Las citadas reducciones, deberán estar determinadas en la notificación de
+iniciación del procedimiento y su efectividad estará condicionada al desistimiento o
+renuncia de cualquier acción o recurso en vía administrativa contra la sanción.
+El porcentaje de reducción previsto en este apartado podrá ser incrementado
+reglamentariamente.
+De acuerdo con lo señalado,
+la Directora de la Agencia Española de Protección de Datos RESUELVE:
+PRIMERO: DECLARAR la terminación del procedimiento PS/00175/2019, de
+conformidad con lo establecido en el artículo 85 de la LPACAP.
+SEGUNDO: NOTIFICAR la presente resolución a VF JEANSWEAR ESPAÑA S.L..
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la presente
+Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo preceptuado por
+el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas, los interesados podrán interponer recurso
+contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+9/9
+
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

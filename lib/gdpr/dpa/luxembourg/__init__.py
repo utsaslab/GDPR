@@ -52,7 +52,7 @@ class Luxembourg(DPA):
         pagination = Pagination()
         for year in year_range:
             page_url = host + start_path + '?r=f%2Faem_first_released%2F{year}&'.format(year=year)
-            pagination.add_link(page_url)
+            pagination.add_item(page_url)
 
         while pagination.has_next():
             result_url = pagination.get_next()

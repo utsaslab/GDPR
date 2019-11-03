@@ -1,0 +1,244 @@
+1/5
+
+Procedimiento Nº: E/05741/2019
+940-0419
+
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes
+HECHOS
+PRIMERO: Con fecha de 5 de junio de 2019 la Directora de la Agencia Española de
+Protección de Datos acuerda iniciar las presentes actuaciones de investigación en
+relación a una brecha de seguridad notificada por parte del SINDICATO
+FUTBOLISTAS ON (en adelante el Sindicato), con número de registro de entrada
+027394/2019, relativa a información con datos personales sustraída de la entidad.
+El Sindicato ha comunicado a esta Agencia los siguientes hechos en la notificación de
+la brecha de seguridad: La Tesorera del Sindicato presentó su dimisión el 9 de abril de
+2019. Analizado su ordenador para averiguar posibles extracciones de datos, peritos
+informáticos en un primer borrador informan que el 8 de abril se realizó desde su
+ordenador y en las 12 horas anteriores a la dimisión, la extracción de los siguientes
+datos:
+
+
+
+
+
+
+base de datos de los futbolistas afiliados (datos personales, dni, cuenta
+bancaria, móvil, etc...)
+nóminas y contratos de empleados
+facturas
+documentación fiscal del Sindicato
+convenios de colaboración.
+
+Informan que la brecha ha afectado a unas 2800 personas entre las que se encuentran
+clientes, usuarios y empleados. Las categorías de datos afectadas son datos básicos,
+datos de contacto, datos de perfiles, DNI/NIE o pasaporte, datos económicos o
+financieros, datos de localización (domicilio) y sobre afiliación sindical.
+SEGUNDO: La Subdirección General de Inspección de Datos procedió a la realización
+de actuaciones previas de investigación para el esclarecimiento de los hechos objeto
+de la reclamación, teniendo conocimiento de los siguientes extremos:
+ENTIDADES INVESTIGADAS
+SINDICATO FUTBOLISTAS ON con NIF 48366072Q con domicilio
+FUENCARRAL , NUM 44, PISO 0, PTA. D - 28108 ALCOBENDAS (MADRID)
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+en
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/5
+
+RESULTADO DE LAS ACTUACIONES DE INVESTIGACIÓN
+El Sindicato ha aportado a requerimiento de la Inspección de Datos la siguiente
+información y documentación:
+Respecto a los hechos.
+
+
+La extesorera del Sindicato presentó su dimisión el 9/04/2019. En el ejercicio de su
+cargo tenía acceso a contratos, nóminas, conveníos, facturas documentación
+contable, acceso a la base de datos de afiliados y a la documentación en papel del
+archivo que ella misma custodiaba. Posteriormente se detectó la realización de
+copias de la información almacenada en su ordenador efectuadas un día antes de
+la su dimisión.
+El número de afectados es 14 empleados y 2790 afiliados.
+
+Respecto a las medidas implementadas con anterioridad a la brecha.
+
+
+Para el acceso al ordenador portátil, de su uso exclusivo, utilizaba una clave
+personal y para la administración de la base de datos de afiliados contaba además
+de una cuenta protegida con contraseña.
+
+
+
+Aportan copia del contrato de mandato sindical de la extesorera y del compromiso
+de confidencialidad suscrito por la misma, este último de fecha 27 de septiembre
+de 2018, en el que consta que se compromete a guardar secreto sobre toda
+información conocida por sus funciones, que se extiende tras la finalización de la
+relación con el Sindicato.
+
+
+
+Aportan certificado de prestación servicios de adecuación de una consultoría de
+protección datos, que certifica la entrega al Sindicato, entre otros, de los siguientes
+documentos: diagnosis/análisis de riesgos, guía sobre los principios de protección
+de datos, registro de actividades de tratamientos, documentación para los
+empleados, protocolo para la designación de responsabilidades, protocolo para la
+notificación de violaciones de seguridad, contratos con las empresas con/sin
+acceso a datos, aviso legal, protocolo de ejercicio y contestación de derechos, y
+controles periódicos de cumplimiento al RGPD. No se encuentra fecha en dicho
+certificado. Si tiene fecha (22/02/2019) el documento de diagnosis.
+
+Respecto a las acciones y medidas tomadas ante la posible ocurrencia de la brecha.
+
+
+Una vez recibida la notificación de dimisión de la extesorera, la Gerente y delegada
+de seguridad le solicitó la devolución de las herramientas de trabajo incluido el
+ordenador portátil así como las llaves de acceso a la sede y del armario del
+archivo.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/5
+
+
+
+A consecuencia de la inesperada dimisión, el Sindicato decide, como medida de
+seguridad, realizar copia de la información almacenada en el disco duro del
+ordenador de la extesorera y encargar a una empresa especialista en peritaje
+informático un análisis de los archivos del ordenador para descartar irregularidades
+como la extracción de información confidencial.
+Aportan copia del acta notarial del depósito y de la copia del disco duro realizada
+ante notario por los peritos. Una vez levantada el acta notarial, comenzó el análisis
+pericial.
+
+
+
+El peritaje detecta la utilización en el ordenador de la extesorera de un dispositivo
+USB, un día antes de la dimisión, constando rastros de extracción de información
+sensible y confidencial, con constancia de cambio de la contraseña y utilización de
+sistemas de almacenamiento en nube (Drive, Onedrive, Dropbox y Skydrive).
+Entre los datos contenidos en los archivos copiados se encuentran datos
+identificativos y de contacto de los afiliados así como del cobro de las cuotas, de
+los empleados del Sindicato y de contratantes o profesionales contratados.
+
+
+
+A consecuencia de este resultado provisional (se encuentra pendiente la emisión
+de informe final de los peritos) se presenta por parte del Sindicato una querella
+contra la extesorera por delito previsto en el artículo 278 del Código Penal. Aportan
+copia de la querella y del certificado lex-net de presentación ante el juzgado,
+constando como fecha de envío el 20/05/2019.
+Notifican así mismo la brecha de seguridad a esta Agencia.
+
+
+
+Con motivo de la incidencia, como medidas de seguridad adicionales a las ya
+indicadas se ha eliminado la cuenta de acceso de la extesorera a la base de datos
+de afiliados, se ha cambiado la contraseña de su cuenta de correo electrónico, y se
+han anulado las cuentas bancarias del Sindicato y la facultad de la extesorera de
+uso de tarjeta de crédito asociada. Así mismo, indican que se ha entregado
+información detallada a los empleados sobre las medidas de seguridad sobre
+protección de datos y sus consecuencias, con fecha 10/04/2019.
+
+
+
+El sindicato ha aportado copia de un Manual de funciones y obligaciones del
+personal de fecha 19/06/2019 entregado a una trabajadora.
+FUNDAMENTOS DE DERECHO
+I
+
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales (en lo sucesivo LOPDGDD), es competente para
+resolver estas actuaciones de investigación la Directora de la Agencia Española de
+Protección de Datos.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/5
+
+II
+En el presente caso, se significa que la brecha de seguridad trae causa de un
+posible ilícito penal por parte de la extesorera, así como una posible vulneración de la
+normativa sobre protección de datos. En este sentido, señalar que el SINDICATO
+disponía de medidas de seguridad razonables y había informado de las consecuencias
+de vulnerarlas. Así, consta en los documentos aportados arriba indicados.
+El hecho de que haya sido la extesorera del SINDICATO la que un día antes de
+su dimisión realizara los hechos ahora analizados, permite eximir de dolo a la entidad
+afectada toda vez que la extesorera, estando informada de sus obligaciones en
+materia de confidencialidad de la información a la que tenía acceso, actuó de forma
+maliciosa y al margen de sus responsabilidades corporativas.
+En estas circunstancias, el SINDICATO, una vez tuvo conocimiento indiciario
+de la posible sustracción de información confidencial, actuó con la debida diligencia en
+comprobar los hechos y minimizar el impacto sobre los afectados informando sobre la
+procedencia de actualización de claves de acceso, suprimiendo la posibilidad de
+acceso a la extesorera al sistema de información corporativa e implementando nuevas
+medidas se seguridad al objeto de evitar la repetición en el futuro de hechos similares.
+También procedió a interponer denuncia ante el juzgado de lo penal para depurar las
+responsabilidades en la que extesorera hubiera podido incurrir.
+Añadir, por último, que se ha entregado información detallada a los empleados
+sobre las medidas de seguridad sobre protección de datos y sus consecuencias en
+caso de vulnerarlas.
+III
+Por lo tanto, se ha acreditado que la actuación del reclamado como entidad
+responsable del tratamiento [y como entidad encargada de la gestión del tratamiento,
+respectivamente], [y de la razón social 3, como entidad informante [en relación con la
+inclusión de los datos personales del reclamante en ficheros de solvencia patrimonial y
+crédito], ha sido acorde con la normativa sobre protección de datos personales
+analizada en los párrafos anteriores.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente resolución SINDICATO FUTBOLISTAS ON con
+NIF 48366072Q con domicilio en FUENCARRAL , NUM 44, PISO 0, PTA. D - 28108
+ALCOBENDAS (MADRID).
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/5
+
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

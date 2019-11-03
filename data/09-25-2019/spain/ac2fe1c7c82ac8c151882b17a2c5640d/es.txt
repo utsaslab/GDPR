@@ -1,0 +1,244 @@
+1/5
+
+Procedimiento nº.: TD/00109/2019
+ASUNTO: Recurso de Reposición Nº RR/00580/2019
+186_170919
+
+Examinado el recurso de reposición interpuesto por GOOGLE LLC (GOOGLE
+SPAIN, S.L.) contra la resolución dictada por la Directora de la Agencia Española de
+Protección de Datos en el expediente TD/00109/2019, y en base a los siguientes
+HECHOS
+PRIMERO: Con fecha 27 de junio de 2019, se dictó resolución por la Directora de la
+Agencia Española de Protección de Datos en el expediente TD/00109/2019, en la que
+se acordó estimar la reclamación formulada por A.A.A. contra GOOGLE LLC
+(GOOGLE SPAIN, S.L.).
+SEGUNDO: La resolución ahora recurrida fue notificada fehacientemente a GOOGLE
+LLC (GOOGLE SPAIN, S.L., en adelante, el recurrente) el 10 de julio de 2019, según
+consta en el justificante de la notificación.
+TERCERO: El recurrente ha presentado recurso de reposición en fecha 9 de agosto
+de 2019, con entrada en esta Agencia el 9 de agosto de 2019, en el que señala que,
+se remiten íntegramente al escrito de alegaciones.
+Que esta Agencia no ha tenido en cuenta ninguna de la documentación
+aportada en las alegaciones, que evidencian el interés público y apariencia de
+veracidad de la información que nos ocupa y nada indica que los datos personales
+publicados en las entradas del blog en cuestión sean inexactos ni que su publicación
+no esté amparada por el derecho a la libertad de información y expresión de sus
+autores.
+Que las informaciones y opiniones hacen referencia a supuestas estafas
+cometidas por la parte reclamante en el ejercicio de su profesión, por lo que pueden
+adquirir un manifiesto interés para potenciales clientes y proveedores de la parte
+reclamante y contribuyen a la formación de una opinión pública sobre su vida
+profesional.
+FUNDAMENTOS DE DERECHO
+I
+Es competente para resolver el presente recurso la Directora de la Agencia
+Española de Protección de Datos, de conformidad con lo dispuesto en el artículo 123
+de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas (en lo sucesivo LPACAP).
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/5
+
+II
+Debido a razones de funcionamiento del órgano administrativo, por ende, no
+atribuibles al recurrente, hasta el día de la fecha no se ha emitido el preceptivo
+pronunciamiento de esta Agencia respecto a la pretensión del interesado.
+De acuerdo con lo establecido en el art. 24 de la Ley 39/2015, de 1 de octubre,
+del Procedimiento Administrativo Común de las Administraciones Públicas (LPACAP)
+el sentido del silencio administrativo en los procedimientos de impugnación de actos y
+disposiciones es desestimatorio.
+Con todo, y a pesar del tiempo transcurrido, la Administración está obligada a
+dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que
+sea su forma de iniciación, según dispone el art. 21.1 de la citada LPACAP. Por tanto,
+procede emitir la resolución que finalice el procedimiento del recurso de reposición
+interpuesto.
+III
+En relación con las manifestaciones efectuadas por la parte recurrente, una vez
+vez examinada la documentación obrante en el expediente, se observa que las ocho
+restantes URLs disputadas remiten a información y opiniones que hacen referencia a
+supuestas estafas cometidas por la parte reclamante en el ejercicio de su profesión y
+que pueden adquirir un manifiesto interés para potenciales clientes y proveedores, y
+contribuyen a la formación de una opinión pública sobre su vida profesional a pesar del
+tiempo transcurrido.
+La lista de resultados obtenida en una búsqueda a partir de un nombre, página
+web o información relativa a una persona facilita la accesibilidad y difusión de la
+información a cualquier internauta que realice una búsqueda sobre el interesado, y
+puede constituir una injerencia en el derecho fundamental al respeto de la vida privada
+de este, criterio general que resulta excepcionado si, por razones concretas, como el
+papel desempeñado por el interesado en la vida pública, la injerencia en sus derechos
+fundamentales está justificada por el interés preponderante del público en tener, a raíz
+de la inclusión, acceso a la información de que se trate.
+Dicho lo anterior, esta Agencia ha comprobado que las URLs disputas remite a
+información que presenta relevancia e interés público incuestionables por tratarse de
+un ilícito penal.
+De conformidad con la Jurisprudencia del Tribunal Constitucional y el Tribunal
+Supremo, toda la información referida a un suceso de relevancia penal tiene por su
+propia naturaleza, interés público la información sobre los resultados positivos o
+negativos, especialmente si los delitos cometidos entrañan una cierta gravedad o han
+causado un impacto considerable en la opinión pública.
+Las publicaciones o enlaces a contenidos que formen parte de una campaña
+personal contra alguien, aunque las críticas puedan resultar moletas, desagradables,
+desabridas e hirientes, nada indica que no estén amparadas por la libertad de
+expresión y opinión de sus autores, frente a la protección de datos que, sin duda,
+contribuyen a la formación de una opinión pública sobre un ilícito penal, aun cuando
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/5
+
+las personas sobre las que se proyecta la noticia no ejerzan cargo público o político ni
+profesión de notoriedad pública, sino que, al estar relacionado con el suceso, el hecho
+noticiable le origina la proyección pública.
+En este sentido, se debe tener en cuenta la Sentencia de la Audiencia Nacional
+de fecha 11 de mayo de 2017, en la que se señala lo siguiente:
+«OCTAVO. Las anteriores consideraciones llevan a esta Sala a concluir que,
+contrariamente a lo apreciado por la Administración, la página cuyo bloqueo exige la
+resolución impugnada sí está amparada por el derecho fundamental a la libertad de
+expresión, en la medida en que consiste, esencialmente, en la crítica a la
+profesionalidad de un médico. Libertad de expresión del artículo 20 CE que
+comprende, como ya se ha indicado, junto a la mera expresión de pensamientos,
+creencias, opiniones y juicios de valor, la crítica de la conducta de otro, aun cuando la
+misma sea desabrida y pueda molestar, inquietar o disgustar a quien se dirige, pues
+así lo requieren el pluralismo, la tolerancia y el espíritu de apertura, sin los cuales no
+existe sociedad democrática.
+Libertad de expresión a cuyo ejercicio, como igualmente se ha indicado y
+reitera el Tribunal Constitucional, no es aplicable el límite interno de veracidad que sí
+es aplicable a la libertad de información.
+En definitiva, consideramos que en este caso ha de prevalecer el derecho de
+libertad de expresión sobre el derecho a la protección de datos personales del
+denunciante, y ello a pesar de que en la parte final del comentario se haga alusión a
+expresiones hirientes como: "Como se puede tener tanta desvergüenza?"... "el
+grandísimo timo que suponen algunos de estos personajillos "... "daría mi alma al
+diablo por encontrarme un día a ese sinvergüenza del doctor Edmundo, que no es
+más que un saca-perras para el que los pacientes no son más que chuchos..."
+Lo anterior en línea con la consolidada doctrina del Tribunal Constitucional a
+cuyo tenor ( STC 51/1989, de 22 de febrero por todas), la libertad de expresión
+prevalece aun cuando se emplean expresiones que aisladamente ofensivas, al ser
+puestas en relación con la información que se pretende comunicar o la situación en
+que tiene lugar la crítica, experimente una disminución de su significación ofensiva y
+sugieren un aumento de la tolerancia exigible aunque puedan no ser plenamente
+justificables.
+Doctrina en la que incide el Grupo de Trabajo del 29 (Guidelines on the
+Implementation of the Court of Justice of the European Union Judgment on "Google
+Spain and Inc v. AEPD and Mario Costeja C-131/12 ), al indicar que: las autoridades
+de protección de datos reconocen que algunos resultados de búsqueda pueden incluir
+enlaces a contenidos que pueden ser parte de una campaña personal contra alguien,
+consistente en criticas agresivas o comentarios personales desagradables. Aunque la
+disponibilidad de dicha información pueda ser hiriente o desagradable, esto no
+significa necesariamente que las autoridades de protección de datos deban considera
+que el resultado en cuestión deba ser bloqueado (de- listed).
+Libertad de expresión que asiste no solo al titular de la página web de origen
+sino también, en este caso, al buscador Google Inc. Ello tomando en consideración el
+carácter eminentemente profesional de los datos personales publicados, la relevancia
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/5
+
+pública, al menos en el ámbito sanitario, de la persona a la que se refieren dichos
+datos, a lo que debe añadirse que se trata de "opiniones" o "comentarios" vertidos en
+un foro de discusión más que de información concerniente a dicho
+afectado/denunciante (en ningún caso sujeta al límite interno de veracidad) y en
+definitiva, y sobre todo, que debe prevalecer el interés público, de los internautas y de
+los posibles futuros pacientes en conocer, respecto de un médico que continúa en
+activo, las experiencias y opiniones manifestadas por otros usuarios del mismo
+profesional.
+Todo ello dado que en definitiva, y como asimismo razona la STS (1ª)
+545/2015, de 15 de octubre , el llamado "derecho al olvido digital" que es una
+concreción en este campo de los derechos derivados de los requisitos de calidad del
+tratamiento de datos personales, no ampara que cada uno construya un pasado a su
+medida, obligando a los editores de páginas web o a los gestores de los motores de
+búsqueda a eliminar el tratamiento de sus datos personales cuando se asocian a
+hechos que no se consideran positivos.
+Tampoco justifica que aquellos que se exponen a si mismo públicamente
+puedan exigir que se construya un currículo a su gusto, controlando el discurso sobre
+sí mismos, eliminado de Internet las informaciones negativas, "posicionando" a su
+antojo los resultados de las búsquedas en Internet, de modo que los más favorables
+ocupen las primeras posiciones. De admitirse esta tesis, se perturbarían gravemente
+los mecanismos de información necesarios para que los ciudadanos adopten sus
+decisiones en la vida democrática de un país.»
+En este caso, no se ha acreditado que los datos y la información que se
+recogen en la documentación publicada son inexactos, y dado que la información y
+expresiones más o menos agrias que en ellas se contienen, no se refiere a la vida
+estrictamente personal del reclamante, sino a su vida profesional, por lo que, se
+considera de interés para los ciudadanos y se entiende que, no constituye una
+injerencia en el derecho fundamental al respeto de la vida privada del interesado, por
+ello, en lo que respecta a la normativa de protección de datos, nos encontramos ante
+un tratamiento legitimado.
+Para finalizar, en relación con lo señalado por la parte reclamante que, las
+publicaciones, informaciones y expresiones vertidas en los medios, se centran en
+atribuir a esta persona determinados comportamientos irregulares que no
+corresponden a la veracidad de los hechos y son inexactos, cabe señalar que, dentro
+del ámbito competencial de la Agencia Española de Protección de Datos no se
+encuentra la valoración ni la investigación de la noticia. Todo ello sin perjuicio de la
+legislación sobre la protección de su derecho al honor y a la propia imagen.
+Esta Agencia sólo puede entrar a valorar estrictamente lo referido a la
+observancia de los principios que fija la normativa en protección de datos, por lo que,
+para determinar la legitimidad de información, el cauce adecuado se encuentra en la
+Ley Orgánica 1/1982, de Protección Civil del Derecho al Honor, a la Intimidad Personal
+y Familiar y a la Propia Imagen, por lo tanto, la tutela del supuesto derecho lesionado,
+deberá plantearse ante las instancias procedimentales correspondientes para declarar
+la existencia o inexistencia de la misma, al exceder del ámbito competencial de esta
+Agencia.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/5
+
+En este sentido hay que tener en cuenta lo dispuesto en la Sentencia de la
+Audiencia Nacional de 24 de febrero de 2011, en cuyo fundamento jurídico tercero se
+expone: «En este caso es necesario comenzar desvinculando la materia de protección
+de datos de la relativa al derecho al honor y ello pues para la protección de este
+derecho existe un procedimiento específico de reclamación previsto en la Ley
+Orgánica 1/1982 de Protección Civil del Derecho al Honor, a la Intimidad Personal y
+Familiar y a la Propia Imagen cuyo artículo 1 establece que "El derecho fundamental al
+honor, a la intimidad personal y familiar y a la propia imagen, garantizado en el artículo
+18 CE, será protegido civilmente frente a todo género de intromisiones ilegítimas, de
+acuerdo con lo establecido en la presente ley orgánica".
+En consecuencia, con lo expuesto, procede estimar este recurso de
+reposición, por lo que cambiar el sentido de la resolución ahora recurrida nº
+TD/00109/2019, en consecuencia, la Directora de la Agencia Española de Protección
+de Datos acuerda desestimar la reclamación del interesado en relación con los ocho
+enlaces que se instaba a GOOGLE a desindexar al introducir el nombre de la parte
+reclamante en el buscador.
+Vistos los preceptos citados y demás de general aplicación,
+la Directora de la Agencia Española de Protección de Datos RESUELVE:
+PRIMERO: ESTIMAR el recurso de reposición interpuesto por GOOGLE LLC
+(GOOGLE SPAIN, S.L.) contra la Resolución de esta Agencia Española de Protección
+de Datos dictada con fecha 27 de junio de 2019, en el expediente TD/00109/2019.
+SEGUNDO: NOTIFICAR la presente resolución a GOOGLE LLC (GOOGLE SPAIN,
+S.L.) y a D. B.B.B. en representación de D. A.A.A.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa, se podrá interponer
+en el plazo de dos meses a contar desde el día siguiente a la notificación de este acto
+según lo previsto en el artículo 46.1 de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-administrativa, recurso contencioso administrativo ante la
+Sala de lo Contencioso-administrativo de la Audiencia Nacional, con arreglo a lo
+dispuesto en el artículo 25 y en el apartado 5 de la disposición adicional cuarta del
+referido texto legal.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

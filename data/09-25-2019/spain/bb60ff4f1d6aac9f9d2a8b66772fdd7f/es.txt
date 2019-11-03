@@ -1,0 +1,1005 @@
+1/20
+
+Procedimiento Nº PS/00412/2018
+
+RESOLUCIÓN: R/00326/2019
+En el procedimiento sancionador PS/00412/2018, instruido por la Agencia Española de
+Protección de Datos a la entidad TELEFÓNICA MÓVILES ESPAÑA, S.A.U., vista la
+denuncia presentada por D. A.A.A. y en consideración a los siguientes
+
+ANTECEDENTES
+PRIMERO: Con fecha 07/04/2018 tuvo entrada en la Agencia Española de Protección
+de Datos (AEPD) un escrito de D. A.A.A. (en lo sucesivo, el reclamante) en el que
+expone que TELEFÓNICA MÓVILES ESPAÑA, S.A.U., (en lo sucesivo, la reclamada o
+TME) utiliza sus datos personales sin su consentimiento; le envía SMS masivos a su
+línea ***TELEFONO.1; utiliza su número de teléfono para realizar pruebas,
+contrataciones no solicitadas y gestionar incidencias. Añade que por idéntica conducta
+interpuso ante la AEPD en el pasado varias denuncias que dieron lugar a la
+tramitación de los expedientes sancionadores PS/446/2017, PS/276/2017 y
+PS/567/2015.
+El reclamante, cliente de TME, explica que las medidas que hasta ahora ha
+adoptado la operadora -claves de seguridad y alertas en su perfil de cliente- para no
+realizar pruebas con su número de línea y no enviar SMS de prueba de otros clientes
+a su número móvil resultan insuficientes.
+Anexa a su reclamación la captura de pantalla de varios SMS, todos ellos
+remitidos desde el número 1004, de los cuales son legibles en su integridad cuarenta y
+siete, siendo el más antiguo de fecha 30/01/2018 y el más reciente de 06/04/2018.
+Los SMS de los que ha facilitado una copia versan sobre estas cuestiones:
+Sobre una reclamación (i), sobre un requerimiento de pago (ii) o sobre un pedido (iii).
+Entre los del primer grupo (i), unos informan de la apertura de una reclamación y
+tienen el siguiente texto: “Info: Reclamación [una secuencia numérica de ocho dígitos
+que comienza siempre con XX] abierta. Estamos analizándola en detalle. Le daremos
+respuesta lo antes posible”. Seguidamente consta la fecha y la hora. Otros SMS
+versan sobre el cierre de la reclamación y tienen el siguiente texto: “Reclamación [una
+secuencia numérica de ocho dígitos que comienza siempre con XX] cerrada. Como le
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+2/20
+
+hemos comunicado por teléfono, su reclamación se ha resuelto”.
+Un segundo grupo de los SMS que el reclamante recibió del 1004 de los que
+aporta copia (ii), contienen un requerimiento de pago y la siguiente redacción además
+de la fecha y la hora: “Movistar info: Importe pendiente: -***euros. Puede abonar esta
+cantidad en oficinas del banco BBVA; Santander o en oficinas de Correos
+Informatizadas”.
+Existe también un SMS -hay un segundo SMS de idéntico contenido pero no se
+toma en consideración toda vez que no es posible visualizar la fecha y hora- relativo a
+un pedido (iii): “Tu pedido de Fibra óptica 50 Mb ha sido registrado con el número
+[secuencia numérica de 12 dígitos]. Gracias por confiar en movistar.es.” Se incluye la
+fecha y hora.
+SEGUNDO: A la vista de los hechos denunciados, en fase de actuaciones previas, por
+los Servicios de Inspección de esta Agencia en fecha 11/06/2018 se solicita
+información a la reclamada. TME responde en escrito de fecha 11/07/2018 en el que
+hace las manifestaciones y aporta los documentos que se detallan:
+
+1. Declara que, analizados los SMS cuya copia ha facilitado el denunciante con su
+escrito de denuncia, “observa que en la mayoría de los casos se debe a un
+error humano en la cumplimentación del formulario de apertura de reclamación
+de clientes”. Explica que “es necesario que el agente introduzca de forma
+manual un número de teléfono móvil en el momento de la apertura de la
+reclamación tanto para informar de la línea reclamada como del número de
+teléfono de contacto para acreditar ante el cliente la gestión realizada”.
+Respecto a los dos SMS que contienen información sobre un pedido de Fibra
+Óptica (los pedidos número ***PEDIDO.1 y ***PEDIDO.2), indica que “se ha
+podido comprobar que el dato del número ***TELEFONO.1 es aportado por un
+tercero en el ámbito de una solicitud o petición tramitada directamente a través
+del canal on line de Movistar www.movistar.es”. Afirma que “en ambos casos se
+trata de contrataciones que precisan de una instalación de servicio fijo por lo
+que es imprescindible que el cliente aporte un número de teléfono de contacto
+móvil para facilitar la coordinación con el personal técnico que ha de
+desplazarse al domicilio de instalación”. Y seguidamente indica que aporta
+como documento anexo la información que los clientes facilitaron en cada uno
+de los pedidos, en la que puede comprobarse que consta incluida la línea
+controvertida.
+No obstante, los documentos a los que alude TME consisten en capturas de
+pantalla de una solicitud online sin que deba inferirse de ella que, tal y como
+sostiene, el número de línea del denunciante fue facilitado por un tercero. Cabe
+destacar que en esas peticiones el origen es “ventas_ORQ” y que en los datos
+de contacto tanto remitente como destinatario están relacionados con la
+denunciada. Así, el remitente es ***EMAIL.1 y el destinatario ***EMAIL.2
+
+2. TME ha informado sobre las medidas adoptadas para solucionar la incidencia
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+3/20
+
+denunciada y evitar que se vuelvan a producir en el futuro.
+Afirma que tiene implantadas medidas desde el año 2014 con el fin de impedir
+el tratamiento no autorizado de los datos de carácter personal del denunciante
+como titular de la línea ***TELEFONO.1 y que, tal y como el denunciante
+declaró en su denuncia, existen claves de seguridad en su ficha cliente que
+impiden cualquier cambio o modificación que afecte a las líneas que tiene
+contratadas con MOVISTAR.
+Manifiesta que en mayo de 2016 adoptó una medida que consiste en publicar
+un comunicado en la herramienta ELYPSE -que tienen a su disposición los
+agentes que atienden el servicio del 1004- “en el segmento de empresas al que
+está asociado el denunciante con la advertencia de no utilizar la línea
+***TELEFONO.1 para hacer pruebas ni como dato de contacto” y que en julio
+de 2017 publicó el mismo comunicado para el segmento residencial.
+Añade que esos dos comunicados continúan vigentes y, además, con vistas al
+futuro, prevé adoptar como mejora adicional la incorporación de “un link en el
+protocolo de apertura de reclamaciones disponible en esa herramienta que
+enlace directamente con una advertencia respecto al uso de la numeración
+***TELEFONO.1.
+También, de cara al futuro, manifiesta que se está trabajando en una nueva
+funcionalidad del sistema de apertura de reclamaciones que impida la inclusión
+de determinados números de teléfono como el ***TELEFONO.1 en los campos
+de texto libre, solución que según declaró entonces, esperaba que estuviera
+disponible en septiembre de 2018.
+
+3. Informa del resultado de haber analizado la evolución del número de SMS´s que
+el denunciante ha venido recibiendo en la línea ***TELEFONO.1 mensualmente
+“desde distintos remitentes de negocio” y el seguimiento realizado con las “área
+identificada al objeto de mejorar cada uno de los procesos en los que hemos
+podido observar alguna anomalía desde junio de 2017”
+Llega a la conclusión de que se han reducido de forma significativa el número
+de SMS que el denunciante ha recibido desde MOVISTAR. A título de ejemplo
+indica que el reclamante no ha recibido ningún SMS desde el número 22580,
+“hecho que dio origen al procedimiento sancionador PS/0567/2015”. “Que
+desde julio de 2017 (fecha en la que se realizó la Inspección) se ha
+comprobado que la recepción de mensajes desde el número 215652 se ha
+reducido en un 84% (de 5 SMS´s diarios a 0,8 SMS´s diarios)
+
+4. Declara que, hasta que finalicen los distintos desarrollos que se han solicitado
+para evitar la introducción manual de la línea del denunciante tanto por parte de
+agentes comerciales como de terceras personas, mantendrá en vigor la medida
+adoptada en junio de 2018 a tenor de la cual -afirma- se bloquea la emisión de
+cualquier SMS al número controvertido procedente de los distintos sistemas y
+plataformas que emiten mensajes relacionados con cualquier área de negocio
+en el entorno MOVISTAR.
+Mediante Diligencia de fecha 29/01/2019, por los Servicios de Inspección de esta
+Agencia se deja constancia de la incorporación al expediente del Acta de Inspección
+E/5373/2016/I-01, que forma parte del expediente E/5373/2016, habida cuenta de la
+relación que existe entre los hechos sobre los que versa la denuncia y los que fueron
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+4/20
+
+objeto de investigación en el marco del E/5373/2016.
+
+TERCERO: Los hechos objeto de la reclamación quedan sometidos a las
+disposiciones de la Ley Orgánica 15/1999, de Protección de Datos de Carácter
+Personal (LOPD) y a su Reglamento de desarrollo, aprobado por el Real Decreto
+1720/2007 (RLOPD).
+Se toman en consideración a tal fin cuarenta y siete mensajes SMS enviados
+entre el 30/01/2018 y el 06/04/2018 desde el número 1004 de TME a la línea móvil del
+reclamante que éste ha aportado en prueba de los hechos que denuncia. Mensajes
+SMS que son, por tanto, anteriores a la fecha de aplicación efectiva del Reglamento
+(UE) 2016/679 -el 25/05/2018- relativo a la protección de las personas físicas en lo que
+respecta al tratamiento de sus datos personales y a la libre circulación de estos datos.
+Sobre las normas de procedimiento aplicables al expediente sancionador
+PS/412/2018 que nos ocupa, teniendo en cuenta que el procedimiento administrativo
+sancionador comienza con la firma del acuerdo de inicio por la Directora de la AEPD,
+que data del 06/02/2019, hemos de estar a lo que indica la Disposición Transitoria
+Tercera, “Régimen transitorio de los procedimientos”, de la Ley Orgánica 3/2018
+(LOPDGDD) que entró en vigor el 07/12/2018: “1. Los procedimientos ya iniciados a la
+entrada en vigor de esta Ley Orgánica se regirán por la normativa anterior, salvo que
+esta Ley Orgánica contenga disposiciones más favorables para el interesado”.
+Así pues, en aplicación de la referida Disposición Transitoria Tercera de la
+LOPDGDD, “a sensu contrario”, el procedimiento a seguir será el previsto en el Título
+VIII de la citada Ley Orgánica, artículos 63 a 69, aplicándose con carácter subsidiario,
+en lo que no la contradigan, las disposiciones de la Ley 39/2015, de Procedimiento
+Administrativo Común de las Administraciones Públicas (LPACAP), (ex artículo 63.2 de
+la LOPDGDD)
+CUARTO: Con fecha 06/02/2019, la Directora de la Agencia Española de Protección
+de Datos acordó iniciar procedimiento sancionador a TME por presunta infracción del
+artículo 4.3 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos
+de Carácter Personal (en lo sucesivo LOPD), tipificada como infracción grave en su
+artículo 44.3.c), pudiendo ser sancionada con multa de 40.001 euros a 300.000 euros,
+de conformidad con el artículo 45.2 de la LOPD.
+QUINTO: Notificado el acuerdo de inicio, la reclamada formula alegaciones en escrito
+de fecha 25/02/2019 en las que solicita la reducción de la sanción y la aplicación del
+efecto jurídico previsto en el artículo 45.5 LOPD: la imposición de una sanción con
+arreglo a la escala prevista para las infracciones que precedan inmediatamente en
+gravedad a aquella en la que se integra la infracción efectivamente cometida, de
+manera que esté comprendida en las cuantías que el artículo 45.1 de la LOPD fija para
+las infracciones leves.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+5/20
+
+En primer término, la reclamada pone de manifiesto que en el acuerdo de inicio
+del procedimiento sancionador se ha asignado a las Actuaciones de Investigación
+Previa un número de referencia que no coincide con el que tenían cuando recibió el
+requerimiento informativo de esta Agencia: el expediente número E/02952/2018.
+Afirmación de la entidad que es totalmente correcta, pues en el acuerdo de
+inicio, y exclusivamente en ese documento, se hizo constar un número de referencia
+de actuaciones previas equivocado.
+En apoyo de su pretensión de que se reduzca el importe de la sanción prevista
+en el acuerdo de apertura, la reclamada invoca los siguientes argumentos:
+
+1. Respecto a los hechos que dan origen al expediente sancionador manifiesta:
+-Por lo que concierne a los SMS recibidos por el reclamante que versaron sobre la
+apertura o cierre de una reclamación (i), reitera “ … que la inclusión del número
+***TELEFONO.1 se debe a un error humano en la cumplimentación del formulario de
+apertura de reclamación de clientes por parte del agente comercial sin que esta
+actuación suponga el acceso a los datos de carácter personal del reclamante o a su
+ficha de cliente”. Que “es necesario que el agente introduzca manualmente un número
+de teléfono móvil en el momento de la apertura de la reclamación; tanto para informar
+de la línea reclamada como del número de teléfono de contacto para acreditar ante el
+cliente la gestión realizada. Se trata de un campo obligatorio”
+- Afirma que, tras conocer en abril de 2018 la reclamación del afectado, procedió a
+reforzar, a través de las coordinadoras de los centros de atención al cliente 1004 “… la
+operativa publicada en la herramienta de información comercial que tienen a su
+disposición los distintos agentes del 1004”. Esta herramienta, denominada Elypse
+“está implementada desde 2016 y ampliada en julio de 2017 para el canal de atención
+de empresas”.
+- Que, desde el 06/10/2018, la línea del reclamante (***TELEFONO.1) no ha recibido
+más SMS procedentes del número de TME 1004, “a raíz de haber puesto en servicio
+una funcionalidad en el sistema de apertura de reclamaciones que impide la inclusión
+de determinados números como el [número de teléfono del reclamante] en los campos
+de texto libre”. Añade que tal medida fue anunciada en la respuesta al requerimiento
+informativo de la Inspección de Datos en el E/02952/2018.
+- Afirma que en el último periodo de tiempo que ha analizado -entre el 18/09/2018 y el
+11/02/2019-, “únicamente se han enviado 11 sms a la línea del reclamante”, el último
+de fecha 06/10/2018.
+- Concluye que las medidas adoptadas “han conseguido corregir de forma diligente los
+hechos reclamados”.
+- A propósito del conjunto de SMS catalogados en el grupo (iii), relativos a los pedidos
+efectuados vía on line, reitera las manifestaciones realizadas en fase de actuaciones
+previas: que la persona que cumplimenta la solicitud de pedido es quien proporciona,
+al introducirlo en el formulario, el número de teléfono de contacto y que, en ningún
+caso el número se proporciona por el sistema.
+Sobre esta cuestión se remite al Acta de Inspección E/05373/2016/I-01 y a los
+documentos aportados en fase de investigación previa. En ellos puede verificarse que
+cada pedido lleva incorporada una dirección de correo electrónico diferente; que el
+dato del teléfono es introducido por un tercero y que no cabe cuestionar tal extremo
+por la circunstancia de que, “tanto el remitente como el destinatario de los datos del
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+6/20
+
+pedido se correspondan con dominios de Telefónica: ***EMAIL.1 y el destinatario
+***EMAIL.2; toda vez que los datos introducidos en la página web www.movistar.es
+(canal on line-COL) vuelcan a un pedido que debe ser remitido a otra dirección que
+desencadenará las distintas actuaciones para la provisión de dichos pedidos sin que
+en ningún caso exista una manipulación de los datos proporcionados por el/la
+solicitante”.
+- Finaliza su alegato diciendo que, como reconoció en las actuaciones previas del
+E/2952/2018, envió al reclamante “SMS improcedentes” por diferentes causas,
+“algunas ajenas a TME como es el caso de los mensajes relacionados con pedidos
+solicitados a través de la web”, y que tras las medidas que la entidad ha adoptado se
+ha reducido significativamente el número de SMS. Cita como ejemplo los SMS
+“procedentes del 1004 relativos al tratamiento de reclamaciones”. Y añade que el
+número de SMS recibidos por el reclamante procedentes de TME constituye un 2% del
+total de mensajes que ese número recibe por su particular configuración.
+2. Bajo la rúbrica “Reconocimiento de culpabilidad”, afirma que en fase de actuaciones
+previas ha reconocido “algunos errores detectados por el uso indebido de la línea
+***TELEFONO.1 en la gestión de reclamaciones” y que “Este reconocimiento debe ser
+valorado a los efectos previstos en el artículo 45.5.d) de la LOPD”.
+- Solicita también la aplicación de los siguientes criterios de atenuación descritos en
+los apartados e), f), h), e i) del artículo 45.4 de la LOPD: ausencia de beneficios,
+ausencia de intencionalidad, ausencia de perjuicios al denunciante y la existencia de
+un protocolo adecuado que puntualmente ha fallado.
+* Sobre la procedencia de aplicar como atenuante el apartado e, del artículo 45.4
+-ausencia de beneficios- dice que, como consecuencia de la comisión de la infracción,
+no ha obtenido beneficio alguno sino todo lo contrario pues se ha visto obligada a
+implementar diversas medidas, unas con carácter individual (relacionadas con las
+líneas de las que el reclamante es titular) y otras destinadas a las plataformas de
+atención al cliente.
+* Respecto a la circunstancia del apartado f) del artículo 45.4, dice que no ha
+existido ningún grado de intencionalidad ya que se encuentra ante el caso de agentes
+comerciales que no han seguido las indicaciones publicadas por TME en ELYPSE.
+* Por lo que atañe a los perjuicios causados al denunciante, apartado h), hace
+constar, por una parte, que el uso indebido de la línea del reclamante “no implican la
+contratación de productos y/o servicios” y, por otra, que los SMS que el reclamante ha
+recibido de TME representan el 2% del total de mensajes que recibe de otras
+empresas por la singularidad de la línea.
+SEXTO: En fecha 20/06/2019 se notificó a la reclama la apertura del periodo de
+prueba. Las diligencias practicadas consistieron en incorporar al expediente
+administrativo a efectos probatorios los documentos siguientes:
+1.- El Acta de Inspección E/5373/2016/1-01 así como sus anexos (documentos 1 a 9)
+2.- Dar por reproducidos a efectos de prueba:
+(i) La denuncia y los documentos que el reclamante aporta con su escrito de
+reclamación.
+(ii) El escrito remitido por TME a esta Agencia en respuesta a la solicitud de
+información en el marco del E/2952/2018.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+7/20
+
+(iii) Las alegaciones de TME al acuerdo de inicio del expediente sancionador con
+fecha de entrada en la AEPD el 25/02/2019.
+SÉPTIMO: En fecha 08/07/2019 se formuló propuesta de resolución en los siguientes
+términos:
+“Que por la Directora de la Agencia Española de Protección de Datos se
+sancione a TELEFÓNICA MÓVILES ESPAÑA, S.A.U. con NIF A78923125, con multa
+de 50.000 euros (cincuenta mil euros) por la infracción del artículo 4.3 de la LOPD,
+tipificada como infracción grave en el artículo 44.3.c) de dicha norma.”
+La propuesta se notificó a la reclamada por medios electrónicos siendo la fecha
+de puesta a disposición el 08/07/2019 y la fecha de “aceptación” de la notificación por
+la reclamada el 15/07/2019.
+OCTAVO: En fecha 29/07/2019 tienen entrada en la sede electrónica de la AEPD las
+alegaciones de TME a la propuesta de resolución en las que solicita que se aprecie la
+atenuante cualificada del artículo 45.5.d) LOPD y, por consiguiente, se imponga la
+sanción con arreglo a las cuantías del articulo 45.1 LOPD.
+En defensa de su pretensión de que se aplique el artículo 45.5.d) LOPD
+-pretensión que ya había formulado en sus alegaciones al acuerdo de inicio y que fue
+denegada en la propuesta de resolución- aduce que “en ningún momento ha negado
+…la existencia de una vulneración del principio de exactitud o veracidad del dato, (…)
+en relación a los “sms improcedentes” que recibió el Sr. [reclamante] procedentes del
+1004 y que obran en las actuaciones del expediente informativo previo E/02952/2018”.
+Añade que nada impide que, junto con el reconocimiento de culpabilidad que
+hizo en sus alegaciones al acuerdo de inicio del expediente sancionador, expusiera las
+circunstancias que a su juicio incidían en la responsabilidad con el objetivo lícito de
+obtener una reducción en el importe de la sanción.
+Rechaza que haya intervenido por su parte, respecto a la conducta en la que se
+concreta la infracción, “una grave falta de diligencia” o “falta de interés” en poner fin al
+incumplimiento del principio de exactitud o veracidad del dato, como la Agencia
+sostiene en su propuesta de resolución. La reclama argumenta que desde la incoación
+del procedimiento sancionador PS/445/2017 el seguimiento que ha realizado se ha
+traducido en una constante disminución del número de SMS improcedentes que recibe
+la línea ***TELEFONO.1, todo ello sin perjuicio de continuar la labor permanente de
+hacer un seguimiento activo de la evolución de las medidas implementadas a fin de
+evitar que se lleguen a producir nuevas reclamaciones.
+Destaca que “la funcionalidad implementada por TME” para evitar que en la
+apertura de reclamaciones se introdujera el número ***TELEFONO.1 requirió un
+desarrollo especial en un sistema denominado CTC y no Elypse, que es únicamente el
+nombre de la intranet del 1004, por lo que no se trató de una medida tan “simple”
+como pretende la AEPD a lo que se ha de sumar que su desarrollo e implementación
+se ejecutó entre junio y septiembre de 2018.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+8/20
+
+De las actuaciones practicadas en el presente procedimiento, han quedado
+acreditados los siguientes
+HECHOS PROBADOS
+1. El reclamante, D. A.A.A., es titular de la línea móvil número ***TELEFONO.1, para
+la que tiene contratado el servicio con Telefónica Móviles España, S.A.U. (TME)
+2. Obran en el expediente las capturas de pantalla de los mensajes SMS recibidos por
+el reclamante en la línea controvertida, enviados todos ellos desde el número 1004.
+De las capturas de pantalla del terminal móvil que aporta resulta que 47
+mensajes SMS son perfectamente legibles y que todos ellos se enviaron entre el
+30/01/2018 y el 06/04/2018.
+3. Por razón de su contenido, los SMS de los que el reclamante ha facilitado copia
+podrían agruparse en tres bloques:
+
+(i)
+
+(ii)
+(iii)
+
+Aquellos que informan de la apertura o cierre de una reclamación.
+Incorporan un número de reclamación y la fecha y la hora en la que el SMS
+se envía.
+A este grupo pertenecen 42 del total de los 47 SMS cuya recepción por el
+reclamante está acreditada.
+Aquellos que contienen un requerimiento de pago. Indican el importe
+pendiente de abono y consta en ellos la fecha y hora del mensaje.
+Pertenecen a este grupo 3 de los SMS aportados por el reclamante.
+Los que versan sobre la petición de un producto o servicio a la
+operadora. A este grupo pertenece sólo 1 de los SMS pues el otro no es
+legible en su totalidad.
+
+5. El Acta de Inspección E/05373/2016/I-01 incorporaba el resultado de la
+inspección que la Inspección de Datos de la AEPD realizó en la sede de TME en
+fechas 13/07/2017 y 01/08/2017, en el marco de la investigación que daría lugar
+al procedimiento sancionador PS/446/2017.
+La inspección se realizó con motivo de una denuncia del ahora reclamante en la
+que relataba el envío masivo de SMS a su número móvil ***TELEFONO.1 desde el
+número 1004 así como desde otros números de la operadora.
+El punto 5 del Acta de Inspección dice:
+<< 5. Se realiza en los ficheros citados en el punto 2 una búsqueda de los SMS
+recibidos por la línea del denunciante con origen en la línea 1004.
+Se localizan un total de 763 mensajes enviados entre el 20 de junio de 2016 al 28
+de mayo de 2017.
+Se adjunta como DOC. 4 un fichero en formato Excel con los datos extraídos de
+los ficheros aportador por TME.
+Los mensajes recibidos con origen en la línea 1004 tienen asuntos distintos, como
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+9/20
+
+los pedidos de “Movistar+” y la gestión de reclamaciones.
+a. (…)
+
+b. (…)
+c. (…)
+d. En relación con los mensajes de reclamaciones enviados desde el 1004, los
+representantes de la G. de Gran Público y Organismos Oficiales, unidad
+responsable del envío del envío de SMS relacionados con las reclamaciones
+denunciados, manifiestan que:
+
+•
+
+Los operadores que atienden el número de atención al cliente 1004 tratan
+de contactar con los clientes que previamente se han puesto en contacto
+con ellos.
+
+•
+
+Una vez identificado el cliente que llama, se cargan los datos de la línea
+móvil para el envío de SMS se cargan de la ficha de cliente, ya que es un
+dato obligatorio, pero el operador puede modificar ese dato e introducir
+otro número de móvil.
+Un empleado de la entidad muestra al subinspector actuante el
+funcionamiento del sistema en donde se constatan las manifestaciones
+sobre la carga del dato, la obligatoriedad del mismo y la posibilidad de
+modificarlo. >>
+
+5.TME reitera en sus alegaciones al acuerdo de inicio que los SMS enviados al
+reclamante que versan sobre la apertura y/o cierre de una reclamación fueron debidos
+a un error humano en la cumplimentación del formulario de apertura de reclamaciones
+de clientes por parte del agente comercial.
+6. TME ha afirmado en su escrito de alegaciones al acuerdo de inicio que, desde el
+06/10/2018, no se han enviado más SMS al reclamante desde el número 1004 como
+consecuencia de haber puesto en funcionamiento “la nueva funcionalidad en el
+sistema de apertura de reclamaciones que impide la inclusión de determinados
+números, como el ***TELEFONO.1, en los campos de texto libre”
+7. TME manifestó en su respuesta al requerimiento informativo en actuaciones previas
+que, en mayo de 2016, publicó un comunicado en la herramienta ELYPSE, en el
+segmento de empresas, que tienen a su disposición los agentes que atienden el
+número 1004 y que en 2017 lo publicó además en el segmento residencial (en las
+alegaciones al acuerdo de inicio la información es exactamente al revés). Añade que
+ambos comunicados están vigentes en la actualidad.
+8. El reclamante remitió a esta Agencia en fecha 12/09/2018 -a raíz de haber recibido
+el 13/07/2018 una carta de TME explicándole el origen de los hechos que denuncia y
+las medidas adoptadas- un escrito en el que afirma:
+- A fecha 12/09/2018 sigue recibiendo mensajes SMS enviados desde el
+número 1004
+- Además ahora recibe mensajes SMS desde el número 5056 de los cuales
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+10/20
+
+declara haber recibido 7 el 16/08/2018.
+El reclamante no ha facilitado a la AEPD documentos que acrediten sus
+manifestaciones.
+FUNDAMENTOS DE DERECHO
+I
+Es competente para resolver este procedimiento la Directora de la Agencia
+Española de Protección de Datos, de conformidad con lo dispuesto en el artículo 37.g)
+en relación con el artículo 36 de la LOPD.
+II
+El artículo 4 de la LOPD. "Calidad de los datos", dedica su apartado 3 al principio
+de exactitud o veracidad, precepto que dispone:
+“Los datos de carácter personal serán exactos y puestos al día de forma que
+respondan con veracidad a la situación actual del afectado”.
+El artículo 44.3.c) de la LOPD tipifica como infracción grave “Tratar datos de
+carácter personal o usarlos posteriormente con conculcación de los principios y
+garantías establecidos en el artículo 4 de la presente Ley y las disposiciones que los
+desarrollan, salvo cuando sea constitutivo de infracción muy grave”.
+Las infracciones graves pueden ser sancionadas con multa de 40.001 euros a
+300.000 euros según lo prevenido en el artículo 45.2 de la LOPD.
+III
+Los principios generales de protección de datos regulados en los artículos 4 a 12
+de la LOPD, que integran su Título II, constituyen el contenido esencial de este
+derecho fundamental. En palabras de la Sala de lo Contencioso Administrativo de la
+Audiencia Nacional estos principios “sirven para delimitar el marco en el que debe
+desenvolverse cualquier uso o cesión de los datos de carácter personal”, en definitiva,
+definen las pautas a las que debe atenerse la recogida, tratamiento y uso de los datos
+de carácter personal (por todas SSAN de 24/03/2004 y 7/07/2006)
+La Directiva 95/46 CE del Parlamento Europeo y del Consejo, que se traspuso al
+ordenamiento interno español a través de la LOPD, señalaba en su artículo 6. I. d) que
+“Los Estados miembros dispondrán que los datos personales sean (…) d) exactos, y
+cuando sea necesario, actualizados. Deberán tomarse todas las medidas razonables
+para que los datos inexactos o incompatibles, con respeto a los fines para los que
+fueron recogidos o para los que fueron tratados posteriormente, sean suprimidos o
+rectificados”, indicando el apartado 6.2 que: “Corresponderá a los responsables del
+tratamiento garantizar el cumplimiento de los dispuesto en el apartado I”.
+La norma del artículo 4.3 LOPD exige que los datos personales objeto de
+tratamiento resulten exactos y respondan, en todo momento, a la situación actual de
+los afectados, quedando sujetos los responsables del tratamiento al cumplimiento de
+esta obligación.La razón de ser del principio de exactitud o veracidad del artículo 4.3
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+11/20
+
+LOPD y de los de proporcionalidad y finalidad, artículos 4.1 y 4.2 LOPD,
+respectivamente, con los que está relacionado -pues la inexactitud de un dato puede
+acarrear su separación de la finalidad para la que se recogió-, es la de garantizar y
+proteger la calidad de la información sometida a tratamiento (exacta y puesta al día)
+por la que debe velar quien trata datos de carácter personal.
+Los requisitos de exactitud y veracidad de los datos personales son exigibles al
+responsable del fichero o del tratamiento no sólo respecto a la conservación de los
+datos en los propios ficheros sino también en cualquiera de las numerosas conductas
+en las que puede concretarse el tratamiento de los datos personales, habida cuenta de
+la amplitud del concepto de tratamiento que ofrece el artículo 3.c) de la LOPD:
+“operaciones y procedimientos técnicos, de carácter automatizado o no, que permiten
+la recogida, grabación, conservación, elaboración, modificación, bloqueo y
+cancelación, así como las cesiones de datos que resulten de comunicaciones,
+consultas, interconexiones y transferencias”.
+IV
+La infracción del artículo 4.3 de la LOPD de la que se responsabiliza a TME se
+evidencia en los numerosos mensajes SMS que la reclamada envió desde el número
+1004 a la línea móvil del reclamante entre el 30/01/2018 y el 06/04/2018, que no
+guardan relación con él.
+Del total de mensajes SMS de los que el reclamante ha facilitado una copia a la
+Agencia se han tomado en consideración, con el fin de valorar la conducta de la
+reclamada, exclusivamente, aquellos que son legibles en su integridad: un total de
+cuarenta y siete mensajes de texto.
+De los cuarenta y siete mensajes mencionados cuarenta y dos versan sobre
+reclamaciones que terceros hicieron a TME y en los que la operadora les informaba de
+la apertura de una reclamación o del cierre de la reclamación que se hubiera abierto.
+Otros tres versan sobre requerimientos de deuda y únicamente un SMS (ya que el
+segundo, al no ser legible en su integridad, no se toma en consideración) versa sobre
+la solicitud de productos/servicios a TME. Respecto a este último tipo la reclamada ha
+alegado que el número de móvil controvertido es introducido por el tercero que solicita
+un producto a la entidad y no por los empleados de la compañía. Sin embargo,
+estimamos que no es oportuno entrar a valorar tal cuestión habida cuenta de que
+existe un único SMS de ese carácter y de que obra en el expediente abundante
+documentación (cuarenta y seis mensajes SMS) que evidencian la conducta de TME
+contraria al principio de exactitud.
+Obran en el procedimiento cuarenta y dos SMS relativos a reclamaciones
+formuladas por terceros que acreditan que TME trató el número de móvil
+***TELEFONO.1, del que es titular el reclamante, y lo vinculó a datos de otros clientes.
+Existen además otros tres mensajes SMS de requerimiento de pago enviados
+desde el 1004 al número de móvil del reclamante, a los que él es totalmente ajeno, de
+los que cabe inferir, asimismo, que la reclamada trató el número de móvil del afectado
+asociándolo a datos de terceros. Los mensajes aludidos constituyen pruebas
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+12/20
+
+indubitadas de la vulneración del principio de exactitud o veracidad en la que se
+concreta la conducta de la que se responsabiliza a la reclamada.
+Al igual que se puso de manifiesto en 2017 con ocasión de la inspección
+efectuada por la Subdirección de Inspección de Datos en la sede de TME, estos
+cuarenta y seis mensajes SMS reflejan que la denunciada ha estado asociando o
+vinculando el número de teléfono del denunciante, ***TELEFONO.1, a datos de otros
+clientes, infringiendo con ello el principio de exactitud y veracidad.
+A propósito de los SMS referentes a reclamaciones que TME envió al número
+de móvil del reclamante -categoría en la que, como hemos indicado, se integran
+cuarenta y dos de los cuarenta y siete mensajes de los que el reclamante ha aportado
+una copia anexa a su reclamación- se ha de destacar que la operadora ha reconocido
+expresamente que los envió y ha añadido que esta conducta tiene su origen en un
+“error” humano en la cumplimentación del formulario de apertura de reclamación de
+clientes por parte del agente comercial. Hace, además, una precisión que resulta
+innecesaria -habida cuenta de que la infracción que se le atribuye no es la vulneración
+del principio del consentimiento sino de calidad de datos-: “sin que esta actuación
+suponga el acceso a los datos de carácter personal del reclamante o a su ficha de
+cliente”. Comentario irrelevante pues lo decisivo en el presente caso, por cuanto en
+ello se concreta la infracción de la normativa de protección de datos, es la vinculación
+o asociación a datos de terceros del número de línea ***TELEFONO.1, todo ello con
+las consecuencias negativas que además le viene reportando al reclamante.
+Por lo que atañe a este tipo de SMS enviados desde el 1004 y referentes a
+reclamaciones, el Acta de Inspección E/05373/2016/I-01, firmada el 01/08/2017 y que
+tuvo su origen en la denuncia de hechos análogos acaecidos en 2016, (ver Hecho
+Probado 4) detallaba cómo los operadores que atienden el número de atención al
+cliente 1004 tratan de comunicar con los clientes que previamente se han puesto en
+contacto con ellos; que una vez identificado el cliente que llama, se cargan los datos
+de la línea móvil para el envío de SMS, de la ficha de cliente, ya que es un dato
+obligatorio, pero que el operador puede modificar ese dato e introducir otro número de
+móvil. Es más, el último párrafo del punto 5 del Acta citada dice: <<Un empleado de la
+entidad muestra al subinspector actuante el funcionamiento del sistema en donde se
+constatan las manifestaciones sobre la carga del dato, la obligatoriedad del mismo y la
+posibilidad de modificarlo. >>
+En su respuesta al requerimiento informativo de la Inspección de Datos así como
+en sus alegaciones al acuerdo de inicio, TME afirmó que las medidas que había
+adoptado hasta la fecha en la que la AEPD le dio traslado de la reclamación del
+afectado que origina el presente procedimiento habían consistido en sendos avisos
+incorporados a su herramienta informática ELYPSE en el segmento empresarial (mayo
+de 2016) y en el segmento residencial (julio de 2017). Esto, además de las medidas
+relativas al perfil del cliente (claves y medidas de seguridad) que más bien guardan
+relación con las conductas que desembocaron en el PS/276/2014, cuyos hechos se
+denunciaron en junio de 2013.
+Los hechos expuestos, acreditados a través de la documentación que obra en el
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+13/20
+
+expediente, evidencian que TME vulneró el artículo 4.3 LOPD al haber vinculado
+reiteradamente el número de línea del afectado a datos de terceros clientes; infracción
+tipificada en el artículo 44.3.c) LOPD.
+V
+La Ley 40/2015 de Régimen Jurídico del Sector Público dispone en el artículo
+28, bajo la rúbrica “Responsabilidad”, “1. Sólo podrán ser sancionadas por hechos
+constitutivos de infracción administrativa las personas físicas y jurídicas, así como,
+cuando una Ley les reconozca capacidad de obrar, los grupos de afectados, las
+uniones y entidades sin personalidad jurídica y los patrimonios independientes o
+autónomos, que resulten responsables de los mismos a título de dolo o culpa.”
+
+La responsabilidad sancionadora puede exigirse a título de dolo o de culpa,
+siendo suficiente en este último caso la mera inobservancia del deber de cuidado sin
+que esa mera inobservancia pueda ser interpretada como admisión de la
+responsabilidad objetiva. En materia sancionadora rige en nuestro Derecho el principio
+de culpabilidad que impide imponer sanciones basadas en la responsabilidad objetiva
+del presunto infractor.
+El Tribunal Constitucional, entre otras, en STC 76/1999, afirma que las
+sanciones administrativas participan de la misma naturaleza que las penales, al ser
+una de las manifestaciones del ius puniendi del Estado, y que, como exigencia
+derivada de los principios de seguridad jurídica y legalidad penal consagrados en los
+artículos 9.3 y 25.1 de la CE, es imprescindible su existencia para imponerlas.
+Respecto al grado de diligencia que resulta exigible, en definitiva al grado de
+diligencia que el responsable del tratamiento de datos personales ha de desplegar en
+el cumplimiento de las obligaciones que le impone la LOPD -por lo que aquí interesa la
+obligación de veracidad y exactitud en el tratamiento de los datos- puede citarse la
+SAN de 17/10/2007 (Rec. 63/2006) que, después de referirse a que las entidades en
+las que el desarrollo de su actividad conlleva un continuo tratamiento de datos de
+clientes y terceros han de observar un adecuado nivel de diligencia precisó que “….el
+Tribunal Supremo viene entendiendo que existe imprudencia siempre que se
+desatiende un deber legal de cuidado, es decir, cuando el infractor no se comporta con
+la diligencia exigible. Y en la valoración del grado de diligencia ha de ponderarse
+especialmente la profesionalidad o no del sujeto, y no cabe duda de que, en el caso
+ahora examinado, cuando la actividad de la recurrente es de constante y abundante
+manejo de datos de carácter personal ha de insistirse en el rigor y el exquisito cuidado
+por ajustarse a las prevenciones legales al respecto”.
+
+En sus alegaciones a la propuesta de resolución la reclamada niega que hubiera
+intervenido por su parte una grave falta de diligencia o falta de interés en poner fin a la
+vulneración del principio de exactitud. Sin embargo, se aprecia una grave falta de
+diligencia de la entidad que, pese a haber sido sancionada por la misma conducta diez
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+14/20
+
+meses antes, no se molestó en verificar -verificación que tecnológicamente estaba
+claramente a su alcance- la efectividad de las medidas adoptadas. En otros términos,
+omitió toda diligencia encaminada a dar cumplimiento al principio de exactitud y
+veracidad en el tratamiento de los datos personales de sus clientes.
+
+Recordemos que en octubre de 2017 se sancionó a TME por vulneración del
+artículo 4.3 LOPD, por vincular el número de línea del reclamante a datos de terceros
+y enviar mensajes SMS desde el número 1004, y que las medidas adoptadas por la
+entidad -sin tomar en consideración que desde el año 2014 se empezaran a adoptar
+otras medidas, como claves de seguridad y alertas en su perfil de cliente, que guardan
+relación con otras conductas infractoras distintas de la actual en las que TME había
+incurrido- consistieron en incorporar a la herramienta que utilizan los empleados del
+1004 (ELYPSE) varios avisos recordando que no se utilicen ciertos números, entre
+ellos el de la línea móvil del reclamante. Parece evidente que de haber obrado la
+entidad diligentemente la información facilitada por un adecuado seguimiento de
+dichas medidas habría revelado de inmediato su total ineficacia para cumplir la
+obligación de exactitud y veracidad de los datos.
+
+Será a raíz de que la AEPD envíe a TME un nuevo requerimiento informativo
+sobre hechos idénticos (E/2952/2018) cuando en su respuesta comunique que tiene
+previsto poner en marcha en septiembre de 2018 una nueva “funcionalidad”.
+
+Esta medida anunciada entonces a la AEPD (julio de 2018) se tradujo -sin
+perjuicio de trabajo de carácter tecnológico que subyace- en hacer desaparecer un
+campo en el que los empleados introducían el número controvertido en la aplicación
+ELYPSE que utilizan los empleados del 1004.La reclamada ha manifestado en sus
+alegaciones a la propuesta de resolución que la funcionalidad implementada por TME
+para evitar que en la apertura de reclamaciones se introdujese el número
+***TELEFONO.1 “requirió un desarrollo especial en el sistema denominado CTC”.
+Añade que “no se trató de una medida tan simple” como pretende la AEPD en su
+propuesta de resolución.
+Entendemos que es relevante en relación con la omisión de la diligencia debida
+que hubiera tardado diez meses en decidir adoptar una medida como la
+“funcionalidad” tecnológica que le ha permitido poner fin a la incesante vinculación del
+dato del móvil del reclamante a datos de terceros, habida cuenta de la obligación que
+le impone la LOPD y las características de la reclamada: el tratamiento de datos es
+consustancial al desenvolvimiento de su actividad empresarial y dispone de los medios
+tecnológicos necesarios. Circunstancias que corroboran que la conducta en la que se
+concreta la infracción estuvo acompañada de una grave falta de diligencia imputable a
+la entidad.
+Tampoco desvirtúa la consideración de la Agencia de que TME ha omitido la
+diligencia que era procedente en el cumplimiento de la obligación de respetar el
+principio de exactitud o veracidad en el tratamiento de los datos de terceros el alegato
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+15/20
+
+de la entidad sobre la evolución positiva en el número de mensajes SMS enviados a la
+línea del reclamante. La entidad afirmó que “Que desde julio de 2017 (fecha en la que
+se realizó la Inspección) se ha comprobado que la recepción de mensajes desde el
+número 215652 se ha reducido en un 84% (de 5 SMS´s diarios a 0,8 SMS´s diarios)”
+Sin embargo, el descenso al que la entidad alude -la reducción del 84%- se
+refiere a los mensajes que se enviaron desde el número 215652 pero nada dice TME
+sobre los mensajes enviados desde el número 1004 -sobre los que versa la conducta
+que constituye el objeto del presente expediente sancionador y del precedente
+inmediato, el PS/446/2017- De tal forma que a raíz de la resolución sancionadora
+recaída en el procedimiento aludido la entidad no ha tomado medidas realmente
+eficaces para poner fin al tratamiento del dato inexacto que lleva a cabo el
+departamento del 1004 sin que la reflexión sobre el descenso de un 84% en el envío
+de SMS guarde relación con los hechos que nos ocupan
+Sobre el elemento de la culpabilidad en la actuación de las personas jurídicas
+resulta muy esclarecedora la STS de 22/05/2015 (Rec. 95/2014) en la que en relación
+a las infracciones administrativas cometidas por personas jurídicas señala que “(…) no
+se suprime el elemento subjetivo de la culpa pero el mismo se debe aplicar de forma
+distinta a como se hace respecto de las personas físicas. Recuerda el Auto del
+Tribunal Constitucional 193/2007, de 26 de marzo, que esa construcción distinta de la
+imputabilidad de la autoría de la infracción a la persona jurídica nace de la propia
+naturaleza de ficción jurídica a la que responden las personas jurídicas. Falta en ellas
+el elemento volitivo en sentido estricto, pero no la capacidad de infringir las normas a
+las que están sometidas. Esa capacidad de infracción conduce a la reprochabilidad
+directa que deriva del bien jurídico protegido por la norma que se infringe y de la
+necesidad de que dicha protección sea realmente eficaz.”
+Y continúa: “Así se ha afirmado en la jurisprudencia del Tribunal Constitucional
+desde la capital STC 246/1991 de 19 de diciembre. La responsabilidad a efectos
+sancionadores de las personas jurídicas existe sin que por ello abandone el Alto
+Tribunal el elemento de la culpa, necesario en nuestro Estado de Derecho. El principio
+de culpabilidad no impide que el Derecho Administrativo admita la responsabilidad
+directa de las personas jurídicas, reconociéndoles capacidad infractora Esto no
+significa, en absoluto, que para el caso de las infracciones administrativas cometidas
+por personas jurídicas se haya suprimido el elemento subjetivo de la culpa, sino
+simplemente que ese principio se ha de aplicar necesariamente de forma distinta a
+cómo se hace respecto de las personas físicas.”
+
+La omisión por TME de la diligencia que era procedente en el respeto al principio
+de exactitud de los datos pone de manifiesto la existencia de culpabilidad en su
+conducta, contraria al artículo 4.3 LOPD, por lo que es subsumible en el tipo infractor
+del artículo 44.3.c) LOPD.
+VI
+El artículo 45 de la LOPD establece en sus apartados 1 a 5 lo siguiente:
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+16/20
+
+“1. Las infracciones leves serán sancionadas con multa de 900 a 40.000 euros.
+2. Las infracciones graves serán sancionadas con multa de 40.001 a 300.000
+euros.
+3. Las infracciones muy graves serán sancionadas con multa de 300.001 a
+600.000 euros.
+4. La cuantía de las sanciones se graduará atendiendo a los siguientes criterios:
+a) El carácter continuado de la infracción.
+b) El volumen de los tratamientos efectuados.
+c) La vinculación de la actividad del infractor con la realización de tratamientos
+de datos de carácter personal.
+d) El volumen de negocio o actividad del infractor.
+e) Los beneficios obtenidos como consecuencia de la comisión de la infracción.
+f) El grado de intencionalidad.
+g) La reincidencia por comisión de infracciones de la misma naturaleza.
+h) La naturaleza de los perjuicios causados a las personas interesadas o a
+terceras personas.
+i) La acreditación de que con anterioridad a los hechos constitutivos de
+infracción la entidad imputada tenía implantados procedimientos adecuados de
+actuación en la recogida y tratamiento de Ios datos de carácter personal, siendo la
+infracción consecuencia de una anomalía en el funcionamiento de dichos
+procedimientos no debida a una falta de diligencia exigible al infractor.
+j) Cualquier otra circunstancia que sea relevante para determinar el grado de
+antijuridicidad y de culpabilidad presentes en la concreta actuación infractora.
+5. El órgano sancionador establecerá la cuantía de la sanción aplicando la
+escala relativa a la clase de infracciones que preceda inmediatamente en gravedad a
+aquella en que se integra la considerada en el caso de que se trate, en los siguientes
+supuestos:
+a) Cuando se aprecie una cualificada disminución de la culpabilidad del
+imputado o de la antijuridicidad del hecho como consecuencia de la concurrencia
+significativa de varios de los criterios enunciados en el apartado 4 de este artículo.
+b) Cuando la entidad infractora haya regularizado la situación irregular de forma
+diligente.
+c) Cuando pueda apreciarse que la conducta del afectado ha podido inducir a la
+comisión de la infracción.
+d) Cuando el infractor haya reconocido espontáneamente su culpabilidad.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+17/20
+
+e) Cuando se haya producido un proceso de fusión por absorción y la infracción
+fuese anterior a dicho proceso, no siendo imputable a la entidad absorbente.»
+
+El artículo 45.5 de la LOPD deriva del principio de proporcionalidad de la sanción
+y permite establecer su cuantía “aplicando la escala relativa a la clase de infracciones
+que preceda inmediatamente en gravedad a aquella en que se integra la considerada
+en el caso de que se trate", pero para ello es necesario que concurra bien una
+cualificada disminución de la culpabilidad del imputado, bien de la antijuridicidad del
+hecho, o bien de alguna otra de las circunstancias que el mismo precepto cita.
+En sus alegaciones al acuerdo de inicio la reclamada solicitó la aplicación del
+artículo 45.5 LOPD, apartados b), reacción diligente, y d) reconocimiento de
+culpabilidad, siendo ambas peticiones rechazadas en la propuesta de resolución.
+Sobre la atenuante cualificada del artículo 45.5.b) LOPD se indicaba en la
+propuesta que, como se refleja en los Fundamentos precedentes, la conducta que ha
+dado origen al presente procedimiento sancionador es la misma que dio lugar al
+PS/445/2017; que los hechos de los que trae causa este último procedimiento
+acontecieron en el año 2016 y que era con esa perspectiva con la que debía valorarse
+la nueva funcionalidad implementada por TME que a su juicio sería el exponente de la
+pretendida reacción diligente. Nos remitimos en respuesta a esta pretensión de la
+reclamada a las consideraciones hechas en el Fundamento Jurídico precedente.
+En sus alegaciones a la propuesta de resolución TME reitera su solicitud de que
+se aprecie la atenuante cualificada del artículo 45.5. d) LOPD.
+Apartándonos de la tesis mantenida por la propuesta de resolución, la AEPD
+entiende que el reconocimiento expreso efectuado por la reclamada de haber enviado
+indebidamente mensajes SMS al número móvil del reclamante desde el 1004 implican
+-atendida la documentación aportada y el resto de circunstancias presentes- que ha
+existido por su parte un reconocimiento de su culpabilidad en los hechos, por lo que
+corresponde aplicar la atenuante cualificada del artículo 45.5.d) de la LOPD,
+“reconocimiento espontáneo de culpabilidad”.
+Así pues, en la determinación del importe de la sanción ha de aplicarse el efecto
+jurídico descrito en el artículo 45.5 LOPD: la imposición de la sanción con arreglo a la
+escala prevista para las infracciones que preceden inmediatamente en gravedad a
+aquella en la que se integra la efectivamente cometida. La sanción habrá de estar
+comprendida dentro de los límites que el artículo 45.1 LOPD fija para las infracciones
+leves: entre 900 euros y 40.000 euros.
+A fin de graduar el importe de la sanción se han de valorar las circunstancias
+que concurren, sean en calidad de atenuantes o de agravantes, de las descritas en el
+artículo 45.4 LOPD.
+TME solicitó en sus alegaciones al acuerdo de inicio del expediente la
+aplicación como atenuantes de los factores mencionados en los apartados e)
+-ausencia de beneficios; f) -ausencia de intencionalidad-; h) -la ausencia de perjuicios
+provocados al afectado- e i) -la implantación de procedimientos adecuados que han
+fallado por una anomalía no imputable a su falta de diligencia-, del artículo 45.4 LOPD.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+18/20
+
+Esta resolución ratifica el criterio de la propuesta de resolución en la que se
+rechazó la estimación en calidad de atenuantes de todas ellas argumentando a estos
+efectos lo siguiente:
+-Sobre la ausencia de intencionalidad, que la expresión utilizada por el artículo
+45.4 f) es equivalente a falta de culpabilidad, comprensiva tanto del dolo como de la
+culpa en cualquiera de sus grados. Y sobre esta cuestión, como se expone en el
+fundamento precedente, se aprecia en la actuación de la denunciada una “grave falta
+de diligencia”. La SAN de 12/11/2007 (Rec. 351/2006) indicó sobre esta cuestión que “
+(…)Cuando concurre una falta de diligencia, como aquí acontece, existe culpabilidad y
+la conducta merece sin duda un reproche sancionador sin que el hecho de que no
+exista actuación dolosa deba conllevar necesariamente una disminución aún mayor de
+la sanción cuando ésta ha sido impuesta en su grado mínimo”.
+- Respecto a la ausencia de perjuicios se indicó que era evidente que la
+actuación de TME ha provocado que el afectado tuviera que hacer las gestiones
+oportunas para la salvaguarda de su derecho y que sólo por los SMS recibidos desde
+el 1004 es la segunda vez que el reclamante se ve obligado a acudir a la AEPD. Si
+bien no podemos calificar de “especialmente graves” los daños sufridos -razón por la
+cual tal circunstancia no fue valorada por esta Agencia como agravante de la
+responsabilidad de la reclamada- no cabe tampoco afirmar que exista una ausencia de
+daños al afectado que sirva de fundamento a la admisión de una atenuante al amparo
+del apartado h) del artículo 45.4 LOPD.
+Por último, frente a la pretensión de que se acepten en calidad de atenuantes las
+circunstancias de los apartados e) e i) del artículo 45.4 LOPD, nos limitamos a poner
+de manifiesto que esta pretensión debe rechazarse pues aunque TME no ha obtenido
+beneficios de su conducta es evidente que la entidad ha tratado de evitar asumir la
+inversión necesaria para adecuar sus servicios a las medidas técnicas que le permitan
+respetar la normativa de protección de datos, por una parte, y, por otra, la
+documentación que obra en el expediente evidencia que el protocolo que tenía
+implantado hasta fechas recientes para evitar la vulneración del principio de exactitud
+era a todas luces inconsistente.
+Esta Agencia aprecia -al igual que en la propuesta de resolución- que
+concurren en relación con los hechos que nos ocupan en calidad de agravantes las
+siguientes circunstancias descritas en el artículo 45.4 LOPD:
+- “El volumen de tratamientos efectuados” (apartado b) Tan solo en el periodo
+transcurrido entre el 30/01/2018 y el 06/04/2018 el denunciante recibió en su número
+de móvil cuarenta y seis SMS procedentes del número 1004.
+- “La vinculación de la actividad del infractor con la realización de tratamientos de
+datos de carácter personal”, (apartado c) La actividad empresarial de TME, por su
+misma naturaleza, lleva implícita el tratamiento de datos de carácter personal, lo que le
+obliga a extremar la diligencia en el cumplimiento de la normativa de protección de
+datos.
+-“El volumen de negocio o actividad del infractor”, (apartado d). La condición de gran
+empresa del sector de telecomunicaciones de TME es un hecho notorio que no precisa
+prueba.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+19/20
+
+- “La reincidencia por comisión de infracciones de la misma naturaleza”, apartado g):
+Precepto que ha de integrarse con la norma del artículo 29.3. d, de la Ley 40/2015, de
+Régimen Jurídico del Sector Público, que al referirse a la aplicación del principio de
+proporcionalidad advierte que se deberán tomar en consideración, entre otros criterios,
+“La reincidencia, por comisión en el término de un año de más de una infracción de la
+misma naturaleza cuando así haya sido declarado por resolución firme en vía
+administrativa”. A tal efecto cabe citar la resolución recaída en el PS/445/2017, de
+17/10/2017 y la del PS446/2017, de 17/10/2017.
+Tomando en consideración la presencia de la atenuante cualificada del artículo
+45.5.d) LOPD, las circunstancias agravantes que han sido estimadas y el principio de
+proporcionalidad que ha de presidir la imposición de la sanción, se acuerda sancionar
+a TME por vulneración del artículo 4.3 LOPD, infracción tipificada en el artículo 44.3.c)
+de la Ley Orgánica 15/1999, con una multa de 25.000 euros, cuantía próxima al
+mínimo de la mitad superior de la sanción prevista en el artículo 45.1 LOPD para las
+infracciones leves.
+Vistos los preceptos citados y demás de general aplicación,
+la Directora de la Agencia Española de Protección de Datos RESUELVE:
+PRIMERO: IMPONER a la entidad TELEFÓNICA MÓVILES ESPAÑA, S.A.U. con NIF
+A78923125, por una infracción del artículo 4.3 de la LOPD de la LOPD, tipificada como
+infracción grave en el artículo 44.3.c) de la LOPD, una multa de 25.000 € (veinticinco
+mil euros), de conformidad con lo establecido en el artículo 45.1 en relación con el
+artículo 45.5 de la citada LOPD.
+SEGUNDO: NOTIFICAR la presente resolución a TELEFÓNICA MÓVILES ESPAÑA,
+S.A.U., con NIF A78923125.
+TERCERO: Advertir al sancionado que la sanción impuesta deberá hacerla efectiva
+una vez sea ejecutiva la presente resolución, de conformidad con lo dispuesto en el
+artículo 98.1.b) de la ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas, en el plazo de pago voluntario que señala el
+artículo 68 del Reglamento General de Recaudación, aprobado por Real Decreto
+939/2005, de 29 de julio, en relación con el art. 62 de la Ley 58/2003, de 17 de
+diciembre, mediante su ingreso en la cuenta restringida nº ES00 0000 0000 0000 0000
+0000, abierta a nombre de la Agencia Española de Protección de Datos en el Banco
+CAIXABANK, S.A. o en caso contrario, se procederá a su recaudación en período
+ejecutivo.
+Recibida la notificación y una vez ejecutiva, si la fecha de ejecutividad se encuentra
+entre los días 1 y 15 de cada mes, ambos inclusive, el plazo para efectuar el pago
+voluntario será hasta el día 20 del mes siguiente o inmediato hábil posterior, y si se
+encuentra entre los días 16 y último de cada mes, ambos inclusive, el plazo del pago
+será hasta el 5 del segundo mes siguiente o inmediato hábil posterior.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+20/20
+
+De conformidad con lo establecido en el apartado 2 del artículo 37 de la LOPD, en la
+redacción dada por el artículo 82 de la Ley 62/2003, de 30 de diciembre, de medidas
+fiscales, administrativas y del orden social, la presente Resolución se hará pública, una
+vez haya sido notificada a los interesados. La publicación se realizará conforme a lo
+previsto en la Instrucción 1/2004, de 22 de diciembre, de la Agencia Española de
+Protección de Datos sobre publicación de sus Resoluciones y con arreglo a lo
+dispuesto en el artículo 116 del reglamento de desarrollo de la LOPD aprobado por el
+Real Decreto 1720/2007, de 21 diciembre.
+Contra esta resolución, que pone fin a la vía administrativa (artículo 48.2 de la LOPD),
+y de conformidad con lo establecido en los artículos 112 y 123 de la Ley 39/2015, de 1
+de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas,
+los interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 del
+referido texto legal.
+Finalmente, se señala que conforme a lo previsto en el art. 90.3 a) de la Ley 39/2015,
+de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones
+Públicas, se podrá suspender cautelarmente la resolución firme en vía administrativa si
+el interesado manifiesta su intención de interponer recurso contencioso-administrativo.
+De ser éste el caso, el interesado deberá comunicar formalmente este hecho mediante
+escrito dirigido a la Agencia Española de Protección de Datos, presentándolo a través
+del Registro Electrónico de la Agencia [https://sedeagpd.gob.es/sede-electronicaweb/], o a través de alguno de los restantes registros previstos en el art. 16.4 de la
+citada Ley 39/2015, de 1 de octubre. También deberá trasladar a la Agencia la
+documentación que acredite la interposición efectiva del recurso contenciosoadministrativo. Si la Agencia no tuviese conocimiento de la interposición del recurso
+contencioso-administrativo en el plazo de dos meses desde el día siguiente a la
+notificación de la presente resolución, daría por finalizada la suspensión cautelar.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+

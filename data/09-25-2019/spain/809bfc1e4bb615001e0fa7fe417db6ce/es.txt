@@ -1,0 +1,415 @@
+1/10
+
+936-150719
+
+Procedimiento Nº: PS/00189/2019
+RESOLUCIÓN R/00396/2019 DE TERMINACIÓN DEL PROCEDIMIENTO POR PAGO
+VOLUNTARIO
+En el procedimiento sancionador PS/00189/2019, instruido por la Agencia
+Española de Protección de Datos a VODAFONE ESPAÑA, S.A.U., vista la denuncia
+presentada por A.A.A., y en base a los siguientes,
+ANTECEDENTES
+PRIMERO: Con fecha 10 de mayo de 2019, la Directora de la Agencia Española de
+Protección de Datos acordó iniciar procedimiento sancionador a VODAFONE
+ESPAÑA, S.A.U. (en adelante, el reclamado), mediante el Acuerdo que se transcribe:
+<<
+Procedimiento Nº: PS/00189/2019
+166-160419
+
+ACUERDO DE INICIO DE PROCEDIMIENTO SANCIONADOR
+
+De las actuaciones practicadas por la Agencia Española de Protección de Datos ante
+la entidad, VODAFONE ESPAÑA SAU, con NIF A80907397 (en adelante, “entidad
+reclamada”), en virtud de denuncia presentada por D. A.A.A. (en adelante, “el
+reclamante”) y teniendo como base los siguientes:
+
+HECHOS
+
+PRIMERO: Con fecha 03/01/19, tuvo entrada en esta Agencia escrito, presentado por
+el reclamante, en el que expone, entre otra, lo siguiente: “Con el deseo de no recibir
+publicidad de Vodafone, y a tal efecto hace ya años que rellené el correspondiente
+formulario de su web, tal y como se muestra en el fichero adjunto
+"VodafoneFormulario". A pesar de esto, Vodafone me ha escrito mensajes publicitarios
+por SMS, en contra de mi voluntad durante varios años. El día 17/10/18 presenté una
+queja a través del perfil de Vodafone en Facebook. El chat no fue productivo, tal y
+como se muestra en el fichero adjunto "Facebook". El mismo día 17/10/18 envié un
+email a derechosprotecciondatos@vodafone.es. El contenido de mi email se
+encuentra en el fichero adjunto. El 15/11/18 recibí la correspondiente contestación de
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/10
+
+Vodafone, confirmando que han aplicado correctamente las restricciones de publicidad
+según mis deseos. Sin embargo, los SMS no han cesado. Pueden encontrar dos de
+estos mensajes publicitarios en el fichero adjunto "VFPubli". Tal y como se muestra en
+dicho fichero adjunto, uno de estos mensajes está fechado el 19/12/18, y el otro el
+viernes día 28/12/18. Ambos mensajes van encabezados con las palabras "VF Publi",
+abreviatura de "Vodafone Publicidad" y el contenido de ambos mensajes hacen
+alusión a promociones, sorteos, regalos, etc, no dejando margen para dudas del
+contenido publicitario de ambos mensajes”. Se adjunta, entre otras, la siguiente
+documentación:
+
+a) SMS enviado el 19/12/18 donde dice textualmente: “VF Publi: La nueva
+promo de Recárgate de Regalos ya está aquí. Tenemos nuevos premios: 2x1
+en Cena y noches de hoteles, minutos, megas y saldo extra gratis, Entrenador
+online 1 mes, Dto. en Game, Dto. en MyEntrada, entradas de cine, y mucho
+mas! Descúbrelos en recargatederegalos.es”
+
+b) SMS enviado el 28/12/18 donde dice textualmente: “VF Publi: Queda muy
+poco para el sorteo delos 10 Samsung Galaxy A8! Sigue haciendo uso de tu
+móvil y acumulando participaciones! Además, por llevar más de 1 año con
+nosotros, tus participaciones cuentan doble. A qué esperas? Mas info en:
+promomovilon.com”.
+
+SEGUNDO: A la vista de los hechos expuestos en la reclamación y de los documentos
+aportados por el reclamante, la Subdirección General de Inspección de Datos procedió
+a realizar actuaciones para su esclarecimiento, al amparo de los poderes de
+investigación otorgados a las autoridades de control en el artículo 57.1 del Reglamento
+(UE) 2016/679 (Reglamento General de Protección de Datos, en adelante RGPD). Así,
+con fecha 16/01/19, se dirige un requerimiento informativo a la entidad reclamada.
+
+TERCERO: Con fecha29/03/19, la entidad reclamada, remite a esta Agencia, entre
+otras, la siguiente información: “Se adjunta como Documento número 1 copia de la
+carta que se le ha remitido a la dirección de correo electrónico que figura en su
+denuncia (ya que la dirección postal que añade está en Alemania) informándole de
+que las comunicaciones comerciales que alude en su denuncia, que son las únicas
+que ha recibido por parte de Vodafone, son comunicaciones que internamente
+consideramos con “delight” es decir como ventajas dadas a nuestros clientes por el
+mero hecho de serlo. Que no tienen un fondo comercial sino darles regalos o
+invitaciones a eventos por el hecho de ser cliente. Asimismo, le informamos de que
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/10
+
+consta como cliente Robinson desde el mes de noviembre de 2018, como
+consecuencia de su petición.
+
+Estas comunicacioneslas hemos considerado como delight, porque su finalidad no es
+comercial, de venta o promoción de productos y servicios de Vodafone, sino informar a
+los clientes de una serie de regalos, por el hecho de ser cliente. Prueba de ello es que
+el reclamante no ha recibido ninguna oferta comercial relativa a nuestros servicios,
+sólo los mensajes delight. Hemos detectado el envío de los dos mensajes que adjunta
+en su denuncia. El primero de fecha 19/12/18, donde se le informa del programa
+Recárgate de Regalos. donde el cliente puede beneficiarse gratuitamente de regalos o
+invitaciones. Es un programa de fidelización. El segundo mensaje fue enviado el
+28/12/18 y a través del mismo, se le informa de que por hacer uso de su móvil podrá
+recibir un móvil gratis. Asimismo, nos consta otro mensaje que te fue enviado en fecha
+09/01/19, que es de carácter informativo, relativo a su servicio. Se adjunta un informe
+como Documento número 2, donde se aportan las pantallas con toda la información
+explicada en estas alegaciones. El reclamante fue marcado como cliente Robinson en
+el mes de noviembre de 2018 de acuerdo con su solicitud. Se adjunto registro de la
+interacción y el histórico donde consta la modificación de permisos.
+
+CUARTO: A la vista de los hechos denunciados, de conformidad con las evidencias
+de que se dispone, la Inspección de Datos de esta Agencia Española de Protección de
+Datos considera que la actuación de la entidad reclamada no cumple las condiciones
+que impone la normativa en vigor, por lo que procede la apertura del presente
+procedimiento sancionador.
+
+FUNDAMENTOS DE DERECHO
+I
+
+De conformidad con lo establecido en el art. 43.1, párrafo segundo, de la de la Ley
+34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio
+Electrónico (LSSI) es competente para iniciar y resolver este Procedimiento
+Sancionador la Directora de la Agencia Española de Protección de Datos.
+
+II
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/10
+
+En el supuesto presente, el primer SMS enviado, (el 19/12/18), se refiere a la
+promoción “recárgate de regalos”, para cliente de prepago. En el mismo se Indica una
+web: recargatederegalos.es, donde se puede encuentra la publicidad (“Pásate ya a
+contrato (…)”. Además, se accede a los premios con cada recarga publicitando, en
+esencia, los servicios prestados, “a más consumo, más premios”.
+En el otro SMS, de fecha 28/12/18, en esencia se publicita el uso del móvil, en
+llamadas, SMS o uso de datos, obteniendo con ello más participaciones. La promoción
+se llama “Sorteo movilón” para clientes de prepago. En el mismo SMS se indica una
+web: promomovilon.com.
+
+Así las cosas, los hechos expuestos, sin perjuicio de lo que resulte de la instrucción,
+consistentes en el envío de una comunicación comercial no autorizada, vía SMS, al
+número de teléfono móvil del reclamante, podrían constituir infracción, por parte de la
+entidad VODAFONE ESPAÑA, S.A.U., a lo dispuesto en el artículo 21.1 de la Ley
+34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio
+Electrónico (en lo sucesivo LSSI), que dispone lo siguiente:
+
+“1. Queda prohibido el envío de comunicaciones publicitarias o promocionales por
+correo electrónico u otro medio de comunicación electrónica equivalente que
+previamente no hubieran sido solicitadas o expresamente autorizadas por los
+destinatarios de las mismas.
+
+2. Lo dispuesto en el apartado anterior no será de aplicación cuando exista una
+relación contractual previa, siempre que el prestador hubiera obtenido de forma lícita
+los datos de contacto del destinatario y los empleara para el envío de comunicaciones
+comerciales referentes a productos o servicios de su propia empresa que sean
+similares a los que inicialmente fueron objeto de contratación con el cliente.
+
+En todo caso, el prestador deberá ofrecer al destinatario la posibilidad de oponerse al
+tratamiento de sus datos con fines promocionales mediante un procedimiento sencillo
+y gratuito, tanto en el momento de recogida de los datos como en cada una de las
+comunicaciones comerciales que le dirija.
+
+Cuando las comunicaciones hubieran sido remitidas por correo electrónico, dicho
+medio deberá consistir necesariamente en la inclusión de una dirección de correo
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/10
+
+electrónico u otra dirección electrónica válida donde pueda ejercitarse este derecho,
+quedando prohibido el envío de comunicaciones que no incluyan dicha dirección.”
+
+La citada infracción se encuentra tipificada como leve en el artículo 38.4.d) de la LSSI,
+que califica como tal “El envío de comunicaciones comerciales por correo electrónico u
+otro medio de comunicación electrónica equivalente cuando en dichos envíos no se
+cumplan los requisitos establecidos en el artículo 21 y no constituya infracción grave”.
+En el presente caso, la infracción del artículo 21.1 de la LSSI que se imputa al
+reclamado ha de calificarse como infracción leve, considerando el número de
+mensajes comerciales remitidos al denunciante.
+
+A tenor de lo establecido en el artículo 39.1.c) de la LSSI, las infracciones leves podrán
+sancionarse con multa de hasta 30.000 €, estableciéndose los criterios para su
+graduación en el artículo 40 de la misma norma, cuyo tenor literal es el siguiente:
+
+“Artículo 40. Graduación de la cuantía de las sanciones. La cuantía de las multas que
+se impongan se graduará atendiendo a los siguientes criterios:
+a) La existencia de intencionalidad.
+b) Plazo de tiempo durante el que se haya venido cometiendo la infracción.
+c) La reincidencia por comisión de infracciones de la misma naturaleza, cuando así
+haya sido declarado por resolución firme.
+d) La naturaleza y cuantía de los perjuicios causados.
+e) Los beneficios obtenidos por la infracción.
+f) Volumen de facturación a que afecte la infracción cometida.
+g) La adhesión a un código de conducta o a un sistema de autorregulación publicitaria
+aplicable respecto a la infracción cometida, que cumpla con lo dispuesto en el artículo
+18 o en la disposición final octava y que haya sido informado favorablemente por el
+órgano u órganos competentes.”
+
+En relación con los criterios de graduación de las sanciones recogidos en el transcrito
+artículo 40 de la LSSI, tras las evidencias obtenidas , y sin perjuicio de lo que resulte
+de la instrucción, se considera que en este supuesto actúa como agravante el criterio
+a) del mencionado artículo, ya que el SMS publicitario estudiado se ha remitido sin
+mediar la diligencia que le resulta exigible al reclamado para cerciorarse de la
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/10
+
+existencia de autorización previa y expresa del destinatario para ello, máxime cuando,
+al reclamado, como entidad habituada en el ejercicio de su actividad a la remisión de
+este tipo de envíos le resulta exigible un especial cuidado en orden a dar cumplimiento
+a los requisitos recogidos en el artículo 21 de dicha norma.
+Paralelamente, se valoran como atenuantes los criterios d) y e) recogidos en el citado
+artículo 40 de la LSSI, ante la falta de constancia de que el reclamante haya sufrido
+perjuicios como consecuencia de la recepción de los mencionados SMS o de que el
+reclamado haya obtenido beneficios a raíz de la comisión de la infracción.
+
+Con arreglo a dichos criterios, se estima adecuado imponer al reclamado una sanción
+de 10.000 euros (diez mil euros).
+
+Por lo tanto, a tenor de lo anteriormente expuesto,
+Por la Directora de la Agencia Española de Protección de Datos,
+
+SE ACUERDA:
+
+INICIAR: PROCEDIMIENTO SANCIONADOR a VODAFONE ESPAÑA, S.A.U., con
+NIF A80907397, con arreglo a lo dispuesto en los artículos 63 y 64 de la Ley 39/2015,
+de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones
+Públicas (en adelante, LPACAP), por la presunta infracción del artículo 21.1 de la
+LSSI, tipificada como leve en el artículo 38.4.d) de la LSSI
+
+NOMBRAR: instructor a D. R.R.R. y, como secretaria, a Dª S.S.S., indicando que
+cualquiera de ellos podrá ser recusado, en su caso, conforme a lo establecido en los
+artículos 23 y 24 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector
+Público (LRJSP).
+
+INCORPORAR: al expediente sancionador, a efectos probatorios, la reclamación
+interpuesta por el reclamante y su documentación, los documentos obtenidos y
+generados por la Subdirección General de Inspección de Datos durante la fase de
+investigaciones.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/10
+
+QUE: a los efectos previstos en el art. 64.2 b) de la ley 39/2015, de 1 de octubre, del
+Procedimiento Administrativo Común de las Administraciones Públicas, la sanción que
+pudiera corresponder sería de multa de 10.000 (diez mil euros), sin perjuicio de lo que
+resulte de la instrucción.
+
+NOTIFICAR: el presente acuerdo a la entidad VODAFONE ESPAÑA SAU, otorgándole
+un plazo de audiencia de diez días hábiles para que formule las alegaciones y
+presente las pruebas que considere convenientes.
+
+Si en el plazo estipulado no efectuara alegaciones a este acuerdo de inicio, el mismo
+podrá ser considerado propuesta de resolución, según lo establecido en el artículo
+64.2.f) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de
+las Administraciones Públicas (en lo sucesivo, LPACAP).
+
+De conformidad con lo dispuesto en el artículo 85 de la LPACAP, en caso de que la
+sanción a imponer fuese de multa, podrá reconocer su responsabilidad dentro del
+plazo otorgado para la formulación de alegaciones al presente acuerdo de inicio; lo
+que llevará aparejada una reducción de un 20% de la sanción que proceda imponer en
+el presente procedimiento, equivalente en este caso a 2000 euros. Con la aplicación
+de esta reducción, la sanción quedaría establecida en 8000 euros, resolviéndose el
+procedimiento con la imposición de esta sanción.
+
+Del mismo modo podrá, en cualquier momento anterior a la resolución del presente
+procedimiento, llevar a cabo el pago voluntario de la sanción propuesta, lo que
+supondrá una reducción de un 20% del importe de la misma, equivalente en este caso
+a 2000 euros. Con la aplicación de esta reducción, la sanción quedaría establecida en
+8000 euros y su pago implicará la terminación del procedimiento.
+
+La reducción por el pago voluntario de la sanción es acumulable a la que corresponde
+aplicar por el reconocimiento de la responsabilidad, siempre que este reconocimiento
+de la responsabilidad se ponga de manifiesto dentro del plazo concedido para formular
+alegaciones a la apertura del procedimiento. El pago voluntario de la cantidad referida
+en el párrafo anterior podrá hacerse en cualquier momento anterior a la resolución. En
+este caso, si procediera aplicar ambas reducciones, el importe de la sanción quedaría
+establecido en 6000 euros (seis mil euros).
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+8/10
+
+En todo caso, la efectividad de cualquiera de las dos reducciones mencionadas estará
+condicionada al desistimiento o renuncia de cualquier acción o recurso en vía
+administrativa contra la sanción.
+
+Si se optara por proceder al pago voluntario de cualquiera de las cantidades señaladas
+anteriormente, deberá hacerlo efectivo mediante su ingreso en la cuenta nº ES00 0000
+0000 0000 0000 0000 abierta a nombre de la Agencia Española de Protección de
+Datos en el Banco CAIXABANK, S.A., indicando en el concepto el número de
+referencia del procedimiento que figura en el encabezamiento de este documento y la
+causa de reducción del importe a la que se acoge.
+
+Asimismo, deberá enviar el justificante del ingreso a la Subdirección General de
+Inspección para continuar con el procedimiento en concordancia con la cantidad
+ingresada.
+
+El procedimiento tendrá una duración máxima de nueve meses a contar desde la
+fecha del acuerdo de inicio o, en su caso, del proyecto de acuerdo de inicio.
+Transcurrido ese plazo se producirá su caducidad y, en consecuencia, el archivo de
+actuaciones; de conformidad con lo establecido en el artículo 64 de la LOPDGDD.
+Por último, se señala que conforme a lo establecido en el artículo 112.1 de la LPACAP,
+contra el presente acto no cabe recurso administrativo alguno.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+>>
+SEGUNDO: En fecha 10 de junio de 2019, el reclamado ha procedido al pago de la
+sanción en la cuantía de 6000 euros haciendo uso de las dos reducciones previstas
+en el Acuerdo de inicio transcrito anteriormente, lo que implica el reconocimiento de la
+responsabilidad.
+TERCERO: El pago realizado, dentro del plazo concedido para formular alegaciones a
+la apertura del procedimiento, conlleva la renuncia a cualquier acción o recurso en vía
+administrativa contra la sanción y el reconocimiento de responsabilidad en relación con
+los hechos a los que se refiere el Acuerdo de Inicio.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+9/10
+
+FUNDAMENTOS DE DERECHO
+I
+En virtud de los poderes que el artículo 58.2 del RGPD reconoce a cada autoridad de
+control, y según lo establecido en el art. 47 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales (en
+lo sucesivo LOPDGDD), la Directora de la Agencia Española de Protección de Datos
+es competente para sancionar las infracciones que se cometan contra dicho
+Reglamento; las infracciones del artículo 48 de la Ley 9/2014, de 9 de mayo, General
+de Telecomunicaciones (en lo sucesivo LGT), de conformidad con lo dispuesto en el
+artículo 84.3 de la LGT, y las infracciones tipificadas en los artículos 38.3 c), d) e i) y
+38.4 d), g) y h) de la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la
+información y de comercio electrónico (en lo sucesivo LSSI), según dispone el artículo
+43.1 de dicha Ley.
+II
+El artículo 85 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas (en lo sucesivo, LPACAP), bajo la rúbrica
+“Terminación en los procedimientos sancionadores” dispone lo siguiente:
+“1. Iniciado un procedimiento sancionador, si el infractor reconoce su
+responsabilidad, se podrá resolver el procedimiento con la imposición de la sanción
+que proceda.
+2. Cuando la sanción tenga únicamente carácter pecuniario o bien quepa
+imponer una sanción pecuniaria y otra de carácter no pecuniario pero se ha justificado
+la improcedencia de la segunda, el pago voluntario por el presunto responsable, en
+cualquier momento anterior a la resolución, implicará la terminación del procedimiento,
+salvo en lo relativo a la reposición de la situación alterada o a la determinación de la
+indemnización por los daños y perjuicios causados por la comisión de la infracción.
+3. En ambos casos, cuando la sanción tenga únicamente carácter pecuniario,
+el órgano competente para resolver el procedimiento aplicará reducciones de, al
+menos, el 20 % sobre el importe de la sanción propuesta, siendo éstos acumulables
+entre sí. Las citadas reducciones, deberán estar determinadas en la notificación de
+iniciación del procedimiento y su efectividad estará condicionada al desistimiento o
+renuncia de cualquier acción o recurso en vía administrativa contra la sanción.
+El porcentaje de reducción previsto en este apartado podrá ser incrementado
+reglamentariamente.
+De acuerdo con lo señalado,
+la Directora de la Agencia Española de Protección de Datos RESUELVE:
+PRIMERO: DECLARAR la terminación del procedimiento PS/00189/2019, de
+conformidad con lo establecido en el artículo 85 de la LPACAP.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+10/10
+
+SEGUNDO: NOTIFICAR la presente resolución a VODAFONE ESPAÑA, S.A.U..
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la presente
+Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo preceptuado por
+el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas, los interesados podrán interponer recurso
+contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

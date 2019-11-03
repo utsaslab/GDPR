@@ -1,0 +1,645 @@
+1/13
+
+968-150719
+
+Procedimiento Nº: PS/00184/2019
+RESOLUCIÓN R/00479/2019 DE TERMINACIÓN DEL PROCEDIMIENTO POR PAGO
+VOLUNTARIO
+En el procedimiento sancionador PS/00184/2019, instruido por la Agencia
+Española de Protección de Datos a VODAFONE ESPAÑA, S.A.U., vista la
+reclamación presentada por A.A.A., y en base a los siguientes,
+ANTECEDENTES
+PRIMERO: Con fecha 8 de mayo de 2019, la Directora de la Agencia Española de
+Protección de Datos acordó iniciar procedimiento sancionador a VODAFONE
+ESPAÑA, S.A.U.. Notificado el acuerdo de inicio y tras analizar las alegaciones
+presentadas, con fecha 12 de septiembre de 2019 se emitió la propuesta de resolución
+que a continuación se transcribe:
+<<
+Procedimiento nº: PS/00184/2019
+814-160419
+
+De las actuaciones practicadas por la Agencia Española de Protección de
+Datos y en base a los siguientes
+ANTECEDENTES
+PRIMERO: Con fecha 10 de diciembre de 2018 Don A.A.A. (en adelante, el
+reclamante) interpuso ante la Agencia Española de Protección de Datos reclamación
+contra VODAFONE ESPAÑA, S.A.U., (en adelante, el reclamado), por el envío no
+autorizado de mensajes cortos de texto, (en adelante, SMS), con publicidad de
+VODAFONE a su línea de teléfono móvil número ***TELEFONO.1.
+Entre otra documentación, el reclamante aporta captura de imagen de un
+SMS recibido con fecha 23 de noviembre de 2018 en la mencionada línea de teléfono
+con el siguiente contenido: “VF Publi: Vente a Vodafone y paga solo el 50% durante
+todo un año. Llama ya al 1444. No + Publi:darbaja.es”
+Asimismo, el reclamante señala que con posterioridad a la recepción de ese
+envío ejerció su derecho de acceso ante Vodafone.es, entidad a la que también solicitó
+información sobre el origen y datos de carácter personal de su titularidad que obraban
+en sus sistemas, así como justificación del consentimiento expreso al envío de
+comunicaciones comerciales. En apoyo de lo cual, adjunta impresión del correo
+electrónico remitido con fecha 23 de noviembre de 2018 desde la cuenta ***EMAIL.1 a
+la dirección datos@vodafone.es ejerciendo dicho derecho.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/13
+
+Igualmente, el reclamante aporta impresión del código fuente y contenido de la
+contestación que el Servicio de Atención al Cliente de Vodafone le remitió a su cuenta
+de correo electrónico con fecha 10 de diciembre de 2018, informándole de que en la
+actualidad no tenían datos personales que hicieran referencia a su persona.
+SEGUNDO: De conformidad con lo establecido en el artículo 65.4 de la Ley Orgánica
+3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los
+derechos digitales (en lo sucesivo LOPDGDD), la Subdirección General de Inspección
+de Datos dio traslado al reclamado, con fecha 19 de diciembre de 2018, de dicha
+reclamación para que, en el plazo de un mes desde la recepción de la misma,
+remitiera a esta Agencia, entre otra, información relativa a las causas que originaron
+los hechos expuestos en la reclamación y las medidas adoptadas para evitar que se
+produzcan hechos similares.
+Con fecha 26 de diciembre de 2018 el reclamado recibió la solicitud de
+información señalada, no constando en esta Agencia que el mismo haya contestado la
+información requerida en el plazo otorgado a tales efectos.
+Por ello, de conformidad con el artículo 65 de la LOPDGDD y a los efectos
+previstos en su artículo 64.2, Con fecha 11 de marzo de 2019 la Directora de la
+Agencia Española de Protección de Datos acordó admitir a trámite la citada
+reclamación.
+TERCERO: Mediante Acuerdo de fecha 8 de mayo de 2019, la Directora de la Agencia
+Española de Protección de Datos acordó iniciar procedimiento sancionador al
+reclamado por la presunta infracción del artículo 21.1 de la Ley 34/2002, de 11 de julio,
+de Servicios de la Sociedad de la Información y Comercio Electrónico (en lo sucesivo,
+LSSI), tipificada como infracción leve en el artículo 38.4.d) de la citada Ley. A los
+efectos previstos en el artículo 64.2.b) de la ley 39/2015, de 1 de octubre, del
+Procedimiento Administrativo Común de las Administraciones Públicas (LPACAP), en
+el citado acuerdo de apertura se fijaba que, de acuerdo con las evidencias obtenidas
+con anterioridad a dicha apertura, la sanción que podría corresponder por la infracción
+descrita sería de 2.500 euros (dos mil quinientos euros), sin perjuicio de lo que
+resultase de la instrucción.
+Dicho acto fue notificado al reclamado con fecha 13 de mayo de 2018.
+CUARTO: Con fecha 27 de mayo de 2019 se registra de entrada escrito de
+alegaciones del reclamado, en el que, en síntesis, ponía de manifiesto los siguientes
+argumentos:
+Que con fecha 14 de marzo de 2019 dio contestación a la solicitud de
+información efectuada en el E/10342/2018, debiéndose el retraso al gran volumen de
+requerimientos de información recibidos de la AEPD. Adjunta copia de dicha
+contestación, aunque no acredita su efectiva presentación en esta Agencia ni consta
+tampoco registrada su entrada en este Centro. Asimismo, aporta copia de la carta
+remitida al reclamante con fecha 13 de marzo de 2019 comunicándole que se había
+procedido a incluirle en su Lista Robinson interna con el fin de evitar que sus números
+de teléfono pudieran ser incluidos en futuras campañas comerciales de Vodafone,
+presentando también justificación de su efectiva recepción por el mismo con fecha 22
+de marzo de 2019.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+Antes de enviar el SMS publicitario se comprobó que el reclamante no
+www.aepd.es
+sedeagpd.gob.es
+
+3/13
+
+se encontraba ni en la lista Robinson interna generada como consecuencia de la
+recepción de solicitudes de oposición a la recepción de comunicaciones comerciales ni
+en la lista Robinson gestionada por ADigital. Se señala que una vez recibido el
+requerimiento de información se incluyó el número de teléfono del reclamante en la
+lista Robinson interna de la entidad a fin de evitar su inclusión en futuras campañas
+comerciales. El mensaje dispone de un medio sencillo para ejercitar el derecho de
+oposición a la recepción de este tipo de envíos, no constándoles que el reclamante
+haya ejercitado dicho derecho por esa vía ni por otro medio.
+La solicitud de ejercicio del derecho de acceso del reclamante se
+contestó correctamente, indicándole que no se disponía de datos relativos a su
+persona en sus sistemas, ya que la mayor parte de las campañas de captación se
+realizan sobre números de teléfono que no están asociados a ninguna persona física,
+sino que son números generados de forma aleatoria por un sistema, a partir de una
+serie de rangos numéricos seleccionados.
+Solicita el archivo de las actuaciones ante la falta de intencionalidad o
+dolo en su conducta, que basa en que con anterioridad a la realización de la campaña
+realizó las consultas pertinentes a las bases de datos robinson existentes y en que
+facilitó al reclamante un medio de oposición sencillo y contestó debidamente la
+solicitud de ejercicio del derecho de acceso.
+QUINTO: De las actuaciones practicadas en el presente procedimiento han quedado
+acreditados los siguientes hechos:
+Primero: Con fecha 10 de diciembre de 2018 se registra de entrada en la
+Agencia Española de Protección de Datos reclamación formulada por Don A.A.A. (en
+adelante, el reclamante) contra VODAFONE ESPAÑA, S.A.U., (en adelante, el
+reclamado), por el envío no autorizado de mensajes cortos de texto con publicidad de
+esa compañía.
+Segundo: Con fecha 23 de noviembre de 2018 el reclamante recibió en su línea
+de teléfono móvil número ***TELEFONO.1 un mensaje corto de texto (SMS) del
+reclamado con el siguiente contenido de naturaleza publicitaria: “VF Publi: Vente a
+Vodafone y paga solo el 50% durante todo un año. Llama ya al 1444. No +
+Publi:darbaja.es”
+Tercero: Con fecha 23 de noviembre de 2018 el reclamante ejerció su derecho
+de acceso ante el reclamado enviando un correo electrónico desde la cuenta
+***EMAIL.1 a la dirección derechosprotecciondatos@vodafone.es en el que, por
+un lado, solicitaba información sobre el origen de sus datos, concreción de los datos
+de carácter personal de su titularidad obrantes en los sistemas del reclamado y, por
+otro, solicitaba justificación del consentimiento expreso al envío de comunicaciones
+comerciales.
+Cuarto: Con fecha 10 de diciembre de 2018, el reclamado respondió al ejercicio
+del derecho de acceso formulado por el reclamante indicándole “que actualmente no
+tenemos datos personales que hagan referencia a su persona” e informándole, de
+forma genérica, de los diversos medios y formas en que recopilaba información de
+carácter personal
+Quinto: Con fecha 13 de marzo de 2019 el reclamado remitió al reclamante
+escrito en el que le indicaba:
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/13
+
+“Nos ponemos en contacto con usted en relación con su reclamación que nos
+ha sido trasladada por la Agencia Española de Protección de Datos en el seno del
+expediente E/10342/2018.
+Por medio de la presente carta, queremos informarle de que hemos procedido
+a incluirle en nuestra lista interna Robinson, con el fin de evitar que sus números de
+teléfono puedan ser incluidos en futuras campañas comerciales de Vodafone.
+Asimismo, le recomendamos que solicite la inclusión en el listado externo Robinson
+Adigital. (…)”
+FUNDAMENTOS DE DERECHO
+
+I
+La competencia para sancionar la comisión de las infracciones tipificadas en
+los artículos 38.3 c), d) e i) y 38.4 d), g) y h) de la LSSI, corresponde a la Agencia
+Española de Protección de Datos, según dispone el artículo 43.1, párrafo segundo, de
+dicha Ley.
+
+II
+A los efectos de examinar si los hechos objeto de imputación pueden constituir
+infracción al artículo 21 de la LSSI conviene realizar una breve exposición sobre el marco
+jurídico que resulta de aplicación a las comunicaciones comerciales remitidas por correo
+electrónico o medios de comunicación electrónica equivalentes.
+El artículo 21 de la LSSI señala lo siguiente:
+“1. Queda prohibido el envío de comunicaciones publicitarias o promocionales
+por correo electrónico u otro medio de comunicación electrónica equivalente que
+previamente no hubieran sido solicitadas o expresamente autorizadas por los
+destinatarios de las mismas.
+2. Lo dispuesto en el apartado anterior no será de aplicación cuando exista una
+relación contractual previa, siempre que el prestador hubiera obtenido de forma lícita
+los datos de contacto del destinatario y los empleara para el envío de comunicaciones
+comerciales referentes a productos o servicios de su propia empresa que sean
+similares a los que inicialmente fueron objeto de contratación con el cliente.
+En todo caso, el prestador deberá ofrecer al destinatario la posibilidad de
+oponerse al tratamiento de sus datos con fines promocionales mediante un
+procedimiento sencillo y gratuito, tanto en el momento de recogida de los datos como
+en cada una de las comunicaciones comerciales que le dirija.
+Cuando las comunicaciones hubieran sido remitidas por correo electrónico,
+dicho medio deberá consistir necesariamente en la inclusión de una dirección de
+correo electrónico u otra dirección electrónica válida donde pueda ejercitarse este
+derecho, quedando prohibido el envío de comunicaciones que no incluyan dicha
+dirección”.
+Añade el artículo 22.1 de la LSSI que “El destinatario podrá revocar en
+cualquier momento el consentimiento prestado a la recepción de comunicaciones
+comerciales con la simple notificación de su voluntad al remitente.
+A tal efecto, los prestadores de servicios deberán habilitar procedimientos
+sencillos y gratuitos para que los destinatarios de servicios puedan revocar el
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/13
+
+consentimiento que hubieran prestado. Cuando las comunicaciones hubieran sido
+remitidas por correo electrónico dicho medio deberá consistir necesariamente en la
+inclusión de una dirección de correo electrónico u otra dirección electrónica válida
+donde pueda ejercitarse este derecho quedando prohibido el envío de comunicaciones
+que no incluyan dicha dirección.
+Asimismo, deberán facilitar información accesible por medios electrónicos
+sobre dichos procedimientos”.
+Así, cualquier envío de comunicaciones publicitarias o promocionales por
+correo electrónico u otro medio de comunicación electrónica equivalente queda
+supeditado a la prestación previa del consentimiento, salvo que exista una relación
+contractual anterior y el sujeto no manifieste su voluntad en contra.
+A su vez, el apartado d) del anexo de la LSSI define al “Destinatario del
+servicio” o “destinatario” como la “persona física o jurídica que utiliza, sea o no por
+motivos profesionales, un servicio de la sociedad de la información”.
+De este modo, la LSSI, en su artículo 21.1, prohíbe de forma expresa las
+comunicaciones comerciales dirigidas a la promoción directa o indirecta de los bienes
+o servicios de una empresa, organización o persona que realice una actividad
+comercial, industrial, artesanal o profesional, sin consentimiento expreso del
+destinatario, si bien esta prohibición encuentra su excepción en el segundo párrafo del
+citado artículo, que autoriza el envío cuando “exista una relación contractual previa,
+siempre que el prestador hubiera obtenido de forma lícita los datos de contacto del
+destinatario y los empleara para el envío de comunicaciones comerciales referentes a
+productos o servicios de su propia empresa que sean similares a los que inicialmente
+fueron objeto de contratación con el cliente”. De este modo, el envío de
+comunicaciones comerciales no solicitadas, fuera del supuesto excepcional del artículo
+21.2 de la LSSI, puede constituir una infracción leve o grave de la LSSI.
+El artículo 19, apartado 2, de la LSSI preceptúa que “En todo caso, será de
+aplicación la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de
+Carácter Personal, y su normativa de desarrollo, en especial, en lo que se refiere a la
+obtención de datos personales, la información a los interesados y la creación y
+mantenimiento de ficheros de datos personales”.
+Del precepto señalado se deduce que es de aplicación la normativa de
+protección de datos de carácter personal, si bien la remisión que se efectúa a la
+LOPD ha de interpretarse como hecha al Reglamento (UE) 2016/679 del Parlamento
+Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas
+físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de
+estos datos (RGPD en adelante), aplicable desde el 25 de mayo de 2018, y a la Ley
+Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de
+los derechos digitales (LOPDGDD), en vigor desde el 7 de diciembre de 2018.
+Por tanto, en relación con el consentimiento del destinatario para el tratamiento
+de sus datos con la finalidad de enviarle comunicaciones comerciales por vía
+electrónica, es preciso considerar lo dispuesto en la normativa de protección de datos
+y, en concreto, en el artículo 4.11) RGPD, que define el “consentimiento del
+interesado” como “toda manifestación de voluntad, libre, específica, informada e
+inequívoca por la que el interesado acepta, ya sea mediante una declaración o una
+clara acción afirmativa, el tratamiento de datos personales que le conciernen;”.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/13
+
+Por su parte el artículo 6.1.a) del RGPD establece en cuanto a la “Licitud del
+tratamiento” que:
+“1. El tratamiento sólo será lícito si se cumple al menos una de las siguientes
+condiciones:
+a)
+El interesado dio su consentimiento para el tratamiento de sus datos
+personales para uno o varios fines específicos; “
+A su vez, el artículo 7 del RGPD determina en cuanto a las “Condiciones para
+el consentimiento” que:
+“1. Cuando el tratamiento se base en el consentimiento del interesado, el
+responsable deberá ser capaz de demostrar que aquel consintió el tratamiento de sus
+datos personales.
+2. Si el consentimiento del interesado se da en el contexto de una declaración
+escrita que también se refiera a otros asuntos, la solicitud de consentimiento se
+presentará de tal forma que se distinga claramente de los demás asuntos, de forma
+inteligible y de fácil acceso y utilizando un lenguaje claro y sencillo. No será vinculante
+ninguna parte de la declaración que constituya infracción del presente Reglamento.
+3. El interesado tendrá derecho a retirar su consentimiento en cualquier
+momento. La retirada del consentimiento no afectará a la licitud del tratamiento
+basada en el consentimiento previo a su retirada. Antes de dar su consentimiento, el
+interesado será informado de ello. Será tan fácil retirar el consentimiento como darlo.
+4. Al evaluar si el consentimiento se ha dado libremente, se tendrá en cuenta
+en la mayor medida posible el hecho de si, entre otras cosas, la ejecución de un
+contrato, incluida la prestación de un servicio, se supedita al consentimiento al
+tratamiento de datos personales que no son necesarios para la ejecución de dicho
+contrato.”
+En cuanto al derecho de oposición, los apartados 2 al 4 del artículo 21 del
+RGPD disponen lo siguiente:
+“2. Cuando el tratamiento de datos personales tenga por objeto la
+mercadotecnia directa, el interesado tendrá derecho a oponerse en todo momento al
+tratamiento de los datos personales que le conciernan, incluida la elaboración de
+perfiles en la medida en que esté relacionada con la citada mercadotecnia.
+3. Cuando el interesado se oponga al tratamiento con fines de mercadotecnia
+directa, los datos personales dejarán de ser tratados para dichos fines.
+4. A más tardar en el momento de la primera comunicación con el interesado,
+el derecho indicado en los apartados 1 y 2 será mencionado explícitamente al
+interesado y será presentado claramente y al margen de cualquier otra información.
+5. En el contexto de la utilización de servicios de la sociedad de la información,
+y no obstante lo dispuesto en la Directiva 2002/58/CE, el interesado podrá ejercer su
+derecho a oponerse por medios automatizados que apliquen especificaciones
+técnicas.”
+Así las cosas, de acuerdo con dicho Reglamento, el consentimiento otorgado
+para la recepción de publicidad por medios de comunicación electrónica, además de
+previo, libre, específico e inequívoco, deberá ser informado, ofreciendo la posibilidad
+de oponerse a dicho tratamiento con fines promocionales y advirtiendo sobre el
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/13
+
+derecho a retirar el consentimiento en cualquier momento. Esta información así
+configurada debe tomarse como un presupuesto necesario para otorgar validez a la
+manifestación de voluntad del afectado.
+
+III
+Como ya se ha señalado, la LSSI prohíbe las comunicaciones comerciales no
+solicitadas o expresamente autorizadas, partiendo de un concepto de comunicación
+comercial que se califica como servicio de la sociedad de la información y que se
+define en su Anexo de la siguiente manera:
+“f) Comunicación comercial»: toda forma de comunicación dirigida a la
+promoción, directa o indirecta, de la imagen o de los bienes o servicios de una
+empresa, organización o persona que realice una actividad comercial, industrial,
+artesanal o profesional.
+A efectos de esta Ley, no tendrán la consideración de comunicación comercial
+los datos que permitan acceder directamente a la actividad de una persona, empresa
+u organización, tales como el nombre de dominio o la dirección de correo electrónico,
+ni las comunicaciones relativas a los bienes, los servicios o la imagen que se ofrezca
+cuando sean elaboradas por un tercero y sin contraprestación económica”.
+El concepto de comunicación comercial, de acuerdo con la definición recogida
+en el Anexo f), párrafo primero de la LSSI, engloba todas las formas de
+comunicaciones destinadas a promocionar directa o indirectamente bienes, servicios o
+la imagen de una empresa, organización o persona con una actividad comercial,
+industrial, artesanal o profesional.
+Por otro lado, la LSSI en su Anexo a), define como Servicio de la Sociedad de
+la Información, “todo servicio prestado normalmente a título oneroso, a distancia, por
+vía electrónica y a petición individual del destinatario.
+El concepto de servicio de la sociedad de la información comprende también
+los servicios no remunerados por sus destinatarios, en la medida en que constituyan
+una actividad económica para el prestador de servicios.
+Son servicios de la sociedad de la información, entre otros y siempre que representen
+una actividad económica, los siguientes: (…)
+4º El envío de comunicaciones comerciales (…)”.
+Según el apartado d) del citado Anexo, destinatario es la “persona física o
+jurídica que utiliza, sea o no por motivos profesionales, un servicio de la sociedad de
+la información”
+De lo anterior se deduce que, cuando la comunicación comercial no reúne los
+requisitos que requiere el concepto de Servicios de la Sociedad de la Información,
+pierde el carácter de comunicación comercial. En este sentido el párrafo segundo del
+Anexo f) de la LSSI señala dos supuestos, que no tendrán, a los efectos de esta Ley,
+la consideración de comunicación comercial. Por un lado, los datos que permitan
+acceder directamente a la actividad de una persona, empresa u organización, tales
+como el nombre de dominio o la dirección de correo electrónico, y, por otro, las
+comunicaciones relativas a los bienes, los servicios o la imagen que se ofrezca cuando
+sean elaboradas por un tercero y sin contraprestación económica.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+8/13
+
+IV
+En el presente procedimiento ha quedado probado que, con fecha 23 de
+noviembre de 2018, el reclamado remitió al número de teléfono móvil ***TELEFONO.1
+del reclamante un SMS publicitario sin mediar el consentimiento previo y expreso del
+destinatario para ello.
+Así, el reclamado, durante la tramitación del procedimiento, no ha acreditado
+mediante ningún medio de prueba la existencia de autorización expresa o solicitud
+previa del reclamante que amparase la remisión de la comunicación comercial
+estudiada, y en la que VODAFONE promocionaba la contratación de sus servicios. En
+la misma línea, cuando el reclamante ejerció su derecho de acceso ante el reclamado,
+éste no le informó sobre el origen exacto de los datos de su titularidad obrantes en sus
+sistemas o sobre su procedencia, como tampoco le justifico que mediara la existencia
+de consentimiento previo y expreso por su parte a la remisión del citado mensaje, a
+pesar de que el reclamante así lo había solicitado al ejercitar dicho derecho.
+El hecho de que con anterioridad a la realización de las campañas publicitarias
+el reclamado pueda comprobar si los números de teléfono destinatarios de las
+comunicaciones comerciales figuran, o no, incluidos en su lista Robinson interna o en
+la del Servicio de Adigital no le exime, en forma alguna, de cumplir la exigencia de
+contar con consentimiento previo y expreso de los destinatarios como condición
+indispensable para poder remitirles comunicaciones comerciales por medios de
+comunicación electrónica. Ello, excepción hecha de que se produzca el supuesto
+recogido en el párrafo primero del apartado segundo del artículo 21 de la LSSI,
+situación que, por otra parte, no se produce en este supuesto, ya que el reclamado no
+ha acreditado que en la fecha del envío del mensaje el reclamante mantuviera una
+relación contractual con esa compañía por haber adquirido productos similares a los
+promocionados en el SMS.
+Por otra parte, la inclusión de un mecanismo de oposición sencillo y gratuito en
+la comunicación comercial, en este caso SMS, responde a lo exigido en el segundo
+párrafo del artículo 21.2 de la LSSI.
+De lo razonado, se colige que el reclamado incumplió la prohibición recogida
+en el artículo 21.1 de la LSSI, toda vez que envío un SMS comercial al teléfono móvil
+del del reclamante, destinatario del citado mensaje, sin contar con el consentimiento
+previo y expreso de su destinatario, no cabiendo en este supuesto aplicar la excepción
+al consentimiento recogida en el artículo 21.2 de la LSSI al no mediar relación
+contractual previa entre remitente y destinatario del SMS de contenido comercial
+analizado.
+V
+El Título VII de la LSSI bajo la rúbrica “Infracciones y sanciones” contiene el
+régimen sancionador aplicable en caso de que se produzca alguna de las infracciones
+contenidas en el cuadro de infracciones que en el mismo se recoge.
+En concreto, el artículo 37 especifica que “los prestadores de servicios de la
+sociedad de la información están sujetos al régimen sancionador establecido en este
+Título cuando la presente Ley les sea de aplicación”.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+9/13
+
+La definición de prestador del servicio se contiene en el apartado c) del Anexo
+de la citada norma que considera como tal la “persona física o jurídica que
+proporciona un servicio de la sociedad de la información”.
+De acuerdo con lo establecido en los apartados 3.c) y 4.d) del artículo 38 de la
+LSSI, se consideran infracciones graves y leves las siguientes:
+“3. Son infracciones graves:
+c) El envío masivo de comunicaciones comerciales por correo electrónico u
+otro medio de comunicación electrónica equivalente, o su envío insistente o
+sistemático a un mismo destinatario del servicio cuando en dichos envíos no se
+cumplan los requisitos establecidos en el artículo 21.”.
+“4. Son infracciones leves:
+d) El envío de comunicaciones comerciales por correo electrónico u otro medio
+de comunicación electrónica equivalente cuando en dichos envíos no se cumplan los
+requisitos establecidos en el artículo 21 y no constituya infracción grave”.
+En consecuencia, la infracción del artículo 21.1 de la LSSI, en los términos
+indicados por el citado artículo 38.4.d), se califica en términos generales como
+infracción leve, aunque si se produce un envío masivo de comunicaciones comerciales
+no solicitadas a diferentes destinatarios o su envío insistente o sistemático a un mismo
+destinatario, en los términos que se indican en el también citado artículo 38.3.c), se
+producirá una infracción de carácter grave a los efectos de la LSSI.
+A partir del conjunto de hechos y circunstancias constatadas en el
+procedimiento sancionador y con arreglo a lo dispuesto en los citados preceptos, la
+conclusión que se desprende es que la conculcación del artículo 21.1 de la LSSI que
+se imputa al reclamado se ajusta al tipo de infracción calificada como leve en el
+artículo 38.4.d) de la vigente LSSI, ya que el envío de un SMS de naturaleza comercial
+al teléfono móvil del reclamante sin contar con su consentimiento previo y expreso del
+mismo para ello no puede ser calificado como “envío insistente o sistemático” de
+comunicaciones comerciales no solicitadas por medios electrónicos por parte de la
+referida entidad.
+VI
+A tenor de lo establecido en el artículo 39.1.c) de la LSSI las infracciones leves
+podrán sancionarse con multa de hasta 30.000 euros, estableciéndose los criterios
+para su graduación en el artículo 40 de la misma norma, cuyo tenor literal es el
+siguiente:
+Artículo 40. Graduación de la cuantía de las sanciones.
+La cuantía de las multas que se impongan se graduará atendiendo a los siguientes
+criterios:
+a) La existencia de intencionalidad.
+b) Plazo de tiempo durante el que se haya venido cometiendo la infracción.
+c) La reincidencia por comisión de infracciones de la misma naturaleza, cuando así
+haya sido declarado por resolución firme.
+d) La naturaleza y cuantía de los perjuicios causados.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+10/13
+
+e) Los beneficios obtenidos por la infracción.
+f) Volumen de facturación a que afecte la infracción cometida.
+g) La adhesión a un código de conducta o a un sistema de autorregulación publicitaria
+aplicable respecto a la infracción cometida, que cumpla con lo dispuesto en el artículo
+18 o en la disposición final octava y que haya sido informado favorablemente por el
+órgano u órganos competentes.”
+En relación con los criterios de graduación de las sanciones recogidos en el
+transcrito artículo 40 de la LSSI, a la vista de las evidencias obrantes en el
+procedimiento sancionador, se considera que en este supuesto actúan como
+agravantes los criterios a) y c) del mencionado artículo. Así, el reclamado ha remitido
+al número de teléfono móvil del reclamante el SMS publicitario estudiado sin contar
+con autorización previa y expresa del mismo para el uso de dicho dato con fines de
+publicidad comercial, no habiendo acreditado tampoco el reclamado que con
+anterioridad a su envío haya mostrado la diligencia necesaria para cerciorarse de la
+existencia de dicho consentimiento por parte del destinatario, máxime cuando al
+reclamado, como entidad habituada en el ejercicio de su actividad a la remisión de
+este tipo de envíos le resulta exigible un especial cuidado en orden a dar cumplimiento
+a los requisitos recogidos en el artículo 21 de dicha norma.
+En cuanto a la reincidencia, consta que con fechas 22 de marzo y 8 de abril
+de 2019 la Directora de la AEPD acordó sancionar al reclamado en los procedimientos
+sancionadores números PS/00067/2019 y PS/00044/2019 con multas de 3.300 € y
+2.500 €, respectivamente, por la comisión de sendas infracciones de la misma
+naturaleza.
+Paralelamente, se valoran como atenuantes los criterios d) y e) recogidos en el
+citado artículo 40 de la LSSI, ante la falta de constancia de que el reclamante haya
+sufrido perjuicios como consecuencia de la recepción del mencionado SMS comercial
+o de que el reclamado haya obtenido beneficios a raíz de la comisión de la infracción
+descrita
+En relación con los criterios de graduación de las sanciones recogidos en los
+transcritos artículos 39 bis y 40 se considera adecuado proponer la imposición de una
+sanción de 2.500 € al reclamado.
+Se acompaña como Anexo relación de documentos obrantes en el
+procedimiento.
+A la vista de lo expuesto se procede a emitir la siguiente
+PROPUESTA DE RESOLUCIÓN
+Que por la Directora de la Agencia Española de Protección de Datos se
+sancione a VODAFONE ESPAÑA, S.A.U. con NIF A80907397, con multa de 2.500 €
+(Dos mil quinientos euros) por la infracción del artículo 21.1 de la LSSI, tipificada como
+leve en el artículo 38.4.d) de la LSSI, conforme con lo establecido en los artículos
+39.1.c) y 40 de la citada LSSI.
+Asimismo, de conformidad con lo establecido en el artículo 85.2 de la LPACAP,
+se le informa de que podrá, en cualquier momento anterior a la resolución del presente
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+11/13
+
+procedimiento, llevar a cabo el pago voluntario de la sanción propuesta, lo que
+supondrá una reducción de un 20% del importe de la misma. Con la aplicación de esta
+reducción, la sanción quedaría establecida en 2.000 euros y su pago implicará la
+terminación del procedimiento. La efectividad de esta reducción estará condicionada al
+desistimiento o renuncia de cualquier acción o recurso en vía administrativa contra la
+sanción.
+En caso de que optara por proceder al pago voluntario de la cantidad
+especificada anteriormente, de acuerdo con lo previsto en el artículo 85.2 citado,
+deberá hacerla efectiva mediante su ingreso en la cuenta restringida nº ES00 0000
+0000 0000 0000 0000 abierta a nombre de la Agencia Española de Protección de
+Datos en el Banco CAIXABANK, S.A., indicando en el concepto el número de
+referencia del procedimiento que figura en el encabezamiento de este documento y la
+causa, por pago voluntario, de reducción del importe de la sanción. Asimismo, deberá
+enviar el justificante del ingreso a la Subdirección General de Inspección para
+proceder a cerrar el expediente.
+En su virtud se le notifica cuanto antecede, y se le pone de manifiesto el
+procedimiento a fin de que en el plazo de DIEZ DÍAS pueda alegar cuanto considere
+en su defensa y presentar los documentos e informaciones que considere pertinentes,
+de acuerdo con el artículo 89.2 en relación con el art. 73.1 de la Ley 39/2015, de 1 de
+octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+R.R.R.
+INSPECTORA/INSTRUCTORA
+
+ANEXO
+Relación de documentos obrantes en el Procedimiento nº.: PS/00184/2019
+Se notifica la relación de documentos obrantes en el procedimiento a fin de que
+pueda obtener las copias de los que estime convenientes, previa solicitud.
+1.
+2.
+3.
+4.
+5.
+6.
+
+Reclamación presentada por D. A.A.A. en fecha 10/12/2018.
+Traslado al reclamante de la reclamación y solicitud de información de fecha
+19/12/2018, con justificante de su entrega.
+Notificación al reclamante del traslado de la reclamación con fecha
+19/12/2018, con justificante de su entrega.
+Acuerdo de la Directora de la AEPD de admisión a trámite de la reclamación,
+de fecha 11 de marzo de 2019, con justificante de su entrega
+Acuerdo de apertura del procedimiento sancionador PS/00184/2019 y
+notificación del mismo.
+Escritos de alegaciones al acuerdo de inicio presentados por el reclamado
+con fecha 27/05/2019.
+
+>>
+SEGUNDO: En fecha 9 de octubre de 2019, VODAFONE ESPAÑA, S.A.U. ha
+procedido al pago de la sanción en la cuantía de 2000 euros haciendo uso de la
+reducción prevista en la propuesta de resolución transcrita anteriormente.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+12/13
+
+TERCERO: El pago realizado conlleva la renuncia a cualquier acción o recurso en vía
+administrativa contra la sanción, en relación con los hechos a los que se refiere la
+propuesta de resolución.
+FUNDAMENTOS DE DERECHO
+I
+En virtud de los poderes que el artículo 58.2 del RGPD reconoce a cada autoridad de
+control, y según lo establecido en el art. 47 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales (en
+lo sucesivo LOPDGDD), la Directora de la Agencia Española de Protección de Datos
+es competente para sancionar las infracciones que se cometan contra dicho
+Reglamento; las infracciones del artículo 48 de la Ley 9/2014, de 9 de mayo, General
+de Telecomunicaciones (en lo sucesivo LGT), de conformidad con lo dispuesto en el
+artículo 84.3 de la LGT, y las infracciones tipificadas en los artículos 38.3 c), d) e i) y
+38.4 d), g) y h) de la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la
+información y de comercio electrónico (en lo sucesivo LSSI), según dispone el artículo
+43.1 de dicha Ley.
+II
+El artículo 85 de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas (en lo sucesivo LPACAP), bajo
+la rúbrica “Terminación en los procedimientos sancionadores” dispone lo siguiente:
+“1. Iniciado un procedimiento sancionador, si el infractor reconoce su
+responsabilidad, se podrá resolver el procedimiento con la imposición de la sanción
+que proceda.
+2. Cuando la sanción tenga únicamente carácter pecuniario o bien quepa
+imponer una sanción pecuniaria y otra de carácter no pecuniario pero se ha justificado
+la improcedencia de la segunda, el pago voluntario por el presunto responsable, en
+cualquier momento anterior a la resolución, implicará la terminación del procedimiento,
+salvo en lo relativo a la reposición de la situación alterada o a la determinación de la
+indemnización por los daños y perjuicios causados por la comisión de la infracción.
+3. En ambos casos, cuando la sanción tenga únicamente carácter pecuniario,
+el órgano competente para resolver el procedimiento aplicará reducciones de, al
+menos, el 20 % sobre el importe de la sanción propuesta, siendo éstos acumulables
+entre sí. Las citadas reducciones, deberán estar determinadas en la notificación de
+iniciación del procedimiento y su efectividad estará condicionada al desistimiento o
+renuncia de cualquier acción o recurso en vía administrativa contra la sanción.
+El porcentaje de reducción previsto en este apartado podrá ser incrementado
+reglamentariamente.”
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+13/13
+
+De acuerdo con lo señalado,
+la Directora de la Agencia Española de Protección de Datos RESUELVE:
+PRIMERO: DECLARAR la terminación del procedimiento PS/00184/2019, de
+conformidad con lo establecido en el artículo 85 de la LPACAP.
+SEGUNDO: NOTIFICAR la presente resolución a VODAFONE ESPAÑA, S.A.U..
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, los interesados podrán
+interponer recurso contencioso administrativo ante la Sala de lo Contenciosoadministrativo de la Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y
+en el apartado 5 de la disposición adicional cuarta de la Ley 29/1998, de 13 de julio,
+reguladora de la Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a
+contar desde el día siguiente a la notificación de este acto, según lo previsto en el
+artículo 46.1 de la referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

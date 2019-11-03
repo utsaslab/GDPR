@@ -1,0 +1,329 @@
+1/7
+
+823-240719
+
+Expediente Nº: E/02621/2019
+
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de
+Datos ante MYWORD SOCIAL RESEARCH, S.L., en virtud de la reclamación
+presentada por el Director de la Agencia andorrana de Protección de Datos, y teniendo
+como base los siguientes
+HECHOS
+PRIMERO: Con fecha 11 de febrero de 2019, tuvo entrada en esta Agencia un escrito
+remitido por el Director de la Agencia andorrana de Protección de Datos, indicando
+que habían iniciado una investigación a raíz de una encuesta telefónica que se realizó
+desde el dominio www.40db.es, domiciliado en Madrid, cuya titularidad ostenta la
+sociedad mercantil Myword Social Research, S.L.
+Desde ese dominio están llamando, principalmente, a números de teléfono
+móviles, la mayoría de los cuales no figuran en listines telefónicos. El propio Director
+de la Agencia andorrana recibió una llamada en su número particular que no figura en
+ninguna fuente accesible al público.
+El procedimiento utilizado consiste en llamar desde el número ***TELEFONO.1.
+Al responder a la llamada, el teleoperador pregunta, en primer lugar, si el interlocutor
+tiene derechos políticos o no. Si la respuesta es negativa, éste directamente corta la
+llamada; todo ello sin informar previamente al afectado sobre la empresa que realiza la
+encuesta, ni sobre el ejercicio de los derechos.
+Cuando la respuesta es afirmativa, continúa el cuestionario realizando las
+preguntas siguientes:
+
+
+
+
+
+
+¿Cuántos años cumpliste la última vez que celebraste tu aniversario?
+Parroquia de residencia
+Tipo de ocupación laboral: indefinido, pensionista, parado, estudiante, nada de
+nada…
+Sector laboral: bancario, autónomo, liberal, público o empleado comercial o
+turístico.
+Nivel de estudios.
+
+A partir de esas preguntas, empiezan las cuestiones políticas, pudiendo elegir
+entre muy bien, bien, regular, mala o muy mala; planteando estas cuestiones:
+
+
+
+Situación económica.
+Situación política
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/7
+
+
+
+
+
+Valoración del gobierno actual.
+Valoración de la oposición.
+¿Cuáles son los principales problemas actuales? Pensiones, vivienda, tráfico,
+infraestructuras.
+
+Prosigue la encuesta con una valoración de los posibles candidatos a las
+elecciones, intención de voto del interesado, formación política más cercana a sus
+ideas, y posibles pactos post-electorales.
+El momento en que se ha realizado la encuesta no ha sido durante periodo
+electoral, no siendo de aplicación la Ley del Régimen electoral.
+La empresa que hace la encuesta podría ser responsable o encargada del
+tratamiento, por lo que, a su criterio, podrían incumplirse algunos artículos del
+Reglamento (UE) 2016/679 DEL PARLAMENTO EUROPEO Y DEL CONSEJO de 27
+de abril de 2016 relativo a la protección de las personas físicas en lo que respecta al
+tratamiento de datos personales y a la libre circulación de estos datos y por el que se
+deroga la Directiva 95/46/CE (Reglamento general de protección de datos) (en lo
+sucesivo RGPD), en particular el artículo 6: licitud del tratamiento, artículo 7:
+condiciones para el consentimiento, y los artículos 13 y 14 referidos a la información
+que debería facilitarse antes de recabar los datos personales.
+Al no tener constancia de que la entidad que realiza la encuesta disponga de
+un establecimiento ubicado en territorio andorrano, solicita la colaboración de la
+Agencia Española de Protección de Datos para iniciar los procedimientos necesarios e
+incoar un procedimiento sancionador si ha existido vulneración del RGPD.
+SEGUNDO: Tras la recepción de la reclamación, la Subdirección General de
+Inspección de Datos procedió a la realización de las actuaciones previas de
+investigación para el esclarecimiento de los hechos.
+Dos inspectores de la Agencia Española de Protección de Datos realizaron una
+visita de inspección a la entidad Myword Social Research, durante la cual se puso de
+manifiesto lo siguiente:
+Los representantes de Myword Social Research, S.L. (40 dB) realizan las
+siguientes manifestaciones en relación con la encuesta realizada en Andorra:
+ La entidad fue creada en 2012 con la finalidad de realizar investigaciones
+sociales y encuestas.
+ Respecto a la encuesta telefónica realizada entre la población de Andorra, se
+recibió en noviembre de 2018, un encargo denominado “Proyecto de estudio de clima
+político en Andorra”.
+El cliente que la encargó fue ASESORES DE COMUNICACIÓN PÚBLICA S.L.,
+con CIF B85535243 y dirección en la Calle Zorrilla 21, Madrid 28014.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/7
+
+El proyecto aprobado consistía en la realización de 600 entrevistas de 20
+preguntas a población residente mayor de 18 años con derecho a voto.
+40 dB incluía los servicios de determinación de la muestra, diseño, revisión y
+programación del cuestionario, trabajo de campo, generación de una base de datos
+con la información recopilada, análisis de los datos, informe de resultados y
+estimaciones de voto.
+ Para la realización de las entrevistas se adquirió a Sample Solutions B.V.,
+con sede social en Holanda, una base de datos de números telefónicos de Andorra
+generados aleatoriamente.
+Los números de teléfono no fueron filtrados por listas Robinson al no tener
+constancia de que existan en Andorra.
+ La realización de las llamadas se han realizado por parte de las entidades
+CELESTE TEL, S.L., y ANALISIS SURVEY UNIT, S.L., con los que se suscribieron los
+correspondientes contratos de prestación de servicios
+Para realizar estas llamadas 40 dB facilitó a estas entidades una copia del
+listado de teléfonos adquirida a Sample Solutions B.V.; este listado contenía
+únicamente números de teléfono generados aleatoriamente.
+Los representantes de la entidad aportan copia del argumentario utilizado por la
+entidad CELESTE TEL S.L., y ANALISIS SURVEY UNIT S.L., así como el cuestionario
+con las preguntas que realizaban ambas entidades.
+En el argumentario utilizado por CELESTE TEL, no se informa de qué entidad
+es responsable del tratamiento ni de cómo ejercitar sus derechos. En el argumentario
+utilizado por ANALISIS SURVEY UNIT S.L sí se informa del origen de los datos y del
+responsable del tratamiento, pero no se indica cómo ejercitar los derechos.
+Una vez realizadas las llamadas, ambas entidades devolvieron un fichero con
+los resultados de las encuestas que contiene información sobre el sexo, la zona, la
+edad, datos de formación, laborales y las respuestas al cuestionario, sin estar
+asociada a número de teléfono ni ningún otro dato de carácter personal que permita
+identificar al interlocutor. Los inspectores actuantes adjuntaron al acta de inspección
+copia de unas páginas en los que se comprueba los datos que se facilitaron por parte
+de las entidades que realizaron las llamadas y en los que no se incluye el dato del
+teléfono.
+ 40 dB realizó en febrero de 2019 un estudio de opinión denominado “clima
+político en Andorra” a partir de los datos recibidos. Facilitaron a los inspectores una
+copia del informe elaborado, en el que no aparece ningún dato personal de los
+encuestados.
+A la vista de la documentación recabada, los representantes de la entidad
+manifiestan que el fin de 40 dB es la realización de investigación social y de mercado y
+para ello necesitan realizar encuestas aleatorias. No se dedican a la venta ni
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/7
+
+publicidad de productos y realizan las llamadas aleatorias sin datos previos de los
+entrevistados y una
+vez realizada la encuesta se disocia de todo dato que permita conocer la identidad del
+entrevistado.
+Estas llamadas aleatorias se realizaron en base al interés legítimo de 40 dB
+para poder llevar a cabo una investigación científica sobre intenciones de voto y
+opinión pública.
+En relación con el origen de los números de teléfono utilizados para realizar la
+encuesta telefónica, los representantes de la entidad aportan copia de información
+facilitada por la entidad Sample Solutions, proveedora de la base de datos, en la que
+se indica que esta entidad fue fundada en 2010 con el objetivo de proporcionar
+muestras de teléfonos para agencias de investigación de mercados y agencias de
+sondeos de opinión.
+Para ello generan bases de datos Random Digit Dialing (generación aleatoria
+de dígitos) de más de 130 países, entre los que se encuentra Andorra.
+Los representantes de la entidad aportan una factura del producto (RDD
+Landline/RDD Mobile Andorra) que corresponde a números generados mediante
+Random Digit Dialing de teléfonos fijos y móviles de Andorra.
+En relación con la finalidad para la que se han utilizado los números de teléfono
+adquiridos, CELESTE TEL S.L. informaba a los destinatarios que la selección de
+llamadas es al azar, que las respuestas se utilizan para hacer estadísticas anónimas,
+que no van a solicitar ni nombre ni dirección.
+ANALISIS SURVEY UNIT, S.L., informaba que han seleccionado el teléfono al
+azar, que las respuestas se van a agrupar con las de otras personas que colaboran en
+el estudio, que puede ser grabada por temas de calidad, que la base de datos la
+proporciona 40 Db comprada a Sample Solutions y que puede solicitar que no
+procesen sus datos con finalidad de marketing.
+Durante la inspección realizada a 40 Db se pudo constatar que la base de
+datos de números de teléfono no ha sido utilizada para fines de marketing; solo se
+utilizaron para hacer una encuesta de opinión e intención de voto.
+FUNDAMENTOS DE DERECHO
+I
+En virtud de los poderes que el artículo 58.2 del RGPD reconoce a cada
+autoridad de control, y según lo establecido en los artículos 47 y 48 de la Ley Orgánica
+3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los
+derechos digitales (en lo sucesivo LOPDGDD), la Directora de la Agencia Española de
+Protección de Datos es competente para iniciar y para resolver este procedimiento.
+II
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/7
+
+Los hechos denunciados se concretan en que el tratamiento de datos
+personales realizado por la empresa MYWORD SOCIAL RESEARCH, S.L., no
+estaba legitimado, conforme establece el artículo 6 del RGPD, ni se obtenía
+lícitamente el consentimiento, tal y como especifica el artículo 7 del RGPD. Por
+último, los artículos 13 y 14 del mismo RGPD, referidos a la información que
+debería facilitarse antes de recabar los datos personales no se han cumplido.
+El Considerando 162 del RGPD indica lo siguiente:
+<<El presente Reglamento debe aplicarse al tratamiento de datos personales
+con fines estadísticos. El contenido estadístico, el control de accesos, las
+especificaciones para el tratamiento de datos personales con fines estadísticos y las
+medidas adecuadas para salvaguardar los derechos y las libertades de los
+interesados y garantizar la confidencialidad estadística deben ser establecidos, dentro
+de los límites del presente Reglamento, por el Derecho de la Unión o de los Estados
+miembros. Por fines estadísticos se entiende cualquier operación de recogida y
+tratamiento de datos personales necesarios para encuestas estadísticas o para la
+producción de resultados estadísticos. Estos resultados estadísticos pueden además
+utilizarse con diferentes fines, incluidos fines de investigación científica. El fin
+estadístico implica que el resultado del tratamiento con fines estadísticos no sean
+datos personales, sino datos agregados, y que este resultado o los datos personales
+no se utilicen para respaldar medidas o decisiones relativas a personas físicas
+concretas>>.
+Por otro lado, el artículo 89 del RGPD indica, relacionado con las “Garantías y
+excepciones aplicables al tratamiento con fines de archivo en interés público, fines de
+investigación científica o histórica o fines estadísticos”:
+<<1. El tratamiento con fines de archivo en interés público, fines de
+investigación científica o histórica o fines estadísticos estará sujeto a las garantías
+adecuadas, con arreglo al presente Reglamento, para los derechos y las libertades de
+los interesados. Dichas garantías harán que se disponga de medidas técnicas y
+organizativas, en particular para garantizar el respeto del principio de minimización de
+los datos personales. Tales medidas podrán incluir la seudonimización, siempre que
+de esa forma puedan alcanzarse dichos fines. Siempre que esos fines pueden
+alcanzarse mediante un tratamiento ulterior que no permita o ya no permita la
+identificación de los interesados, esos fines se alcanzarán de ese modo.
+2. Cuando se traten datos personales con fines de investigación científica o
+histórica o estadísticos el Derecho de la Unión o de los Estados miembros podrá
+establecer excepciones a los derechos contemplados en los artículos 15, 16, 18 y 21,
+sujetas a las condiciones y garantías indicadas en el apartado 1 del presente artículo,
+siempre que sea probable que esos derechos imposibiliten u obstaculicen gravemente
+el logro de los fines científicos y cuanto esas excepciones sean necesarias para
+alcanzar esos fines.
+3. Cuando se traten datos personales con fines de archivo en interés público, el
+Derecho de le Unión o de los Estados miembros podrá prever excepciones a los
+derechos contemplados en los artículos 15, 16, 18, 19, 20 y 21, sujetas a las
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/7
+
+condiciones y garantías citadas en el apartado 1 del presente artículo, siempre que
+esos derechos puedan imposibilitar u obstaculizar gravemente el logro de los fines
+científicos y cuanto esas excepciones sean necesarias para alcanzar esos fines.
+4. En caso de que el tratamiento a que hacen referencia los apartados 2 y 3
+sirva también al mismo tiempo a otro fin, las excepciones solo serán aplicables al
+tratamiento para los fines mencionados en dichos apartados.>>
+El RGPD define «seudonimización» como: el tratamiento de datos personales
+de manera tal que ya no puedan atribuirse a un interesado sin utilizar información
+adicional, siempre que dicha información adicional figure por separado y esté sujeta a
+medidas técnicas y organizativas destinadas a garantizar que los datos personales no
+se atribuyan a una persona física identificada o identificable.
+Durante las actuaciones de investigación efectuadas en el establecimiento de
+la entidad responsable de la realización de la encuesta, se pudo comprobar que
+Myword trabajó con datos pseudonimizados, y que en ningún caso se utilizó la
+información que se obtenía de la encuesta para vincularla al dato del número de
+teléfono. Al acceder a los listados resultantes de las llamadas telefónicas, se comprobó
+que constaban las respuestas, pero desvinculadas totalmente del número de teléfono
+desde el que se habían contestado.
+La entidad investigada contrató una prestación del servicio con otras dos
+entidades para la realización de las llamadas y recogida de las respuestas. La
+legitimación para esa llamada inicial está en el interés legítimo en la realización de
+encuestas con un único dato, el teléfono, que con información adicional pudiese
+identificar a la persona que realiza la encuesta. Pero no se vinculó ninguna
+información con el teléfono. Por ese motivo, una de las dos entidades que realizaban
+las encuestas no informaban de la posibilidad de ejercer ningún derecho, ya que solo
+contaban con un número de teléfono, que en cuanto se utilizaba se desvinculaba del
+resto de la información.
+Tras la realización de estas actuaciones, no se ha constatado que se
+recogieran datos personales que identificasen o pudiesen identificar a los ciudadanos
+andorranos que contestaron a la encuesta.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+1.
+
+PROCEDER AL ARCHIVO de las presentes actuaciones.
+
+2.
+
+ABRIR nuevas actuaciones de investigación.
+
+3.
+
+NOTIFICAR la presente Resolución a MYWORD SOCIAL RESEARCH, S.L., e
+informar al Director de la Agencia andorrana de Protección de Datos.
+
+Contra esta resolución, que pone fin a la vía administrativa (artículo 48.2 de la
+LOPD), y de conformidad con lo establecido en los artículos 112 y 123 de la Ley
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, los interesados podrán interponer, potestativamente,
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/7
+
+recurso de reposición ante la Directora de la Agencia Española de Protección de Datos
+en el plazo de un mes a contar desde el día siguiente a la notificación de esta
+resolución o directamente recurso contencioso administrativo ante la Sala de lo
+Contencioso-administrativo de la Audiencia Nacional, con arreglo a lo dispuesto en el
+artículo 25 y en el apartado 5 de la disposición adicional cuarta de la Ley 29/1998, de
+13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa, en el plazo de
+dos meses a contar desde el día siguiente a la notificación de este acto, según lo
+previsto en el artículo 46.1 del referido texto legal.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

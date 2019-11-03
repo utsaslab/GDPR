@@ -46,12 +46,12 @@ class CzechRepublic(DPA):
             print("Something went wrong.")
 
         pagination = Pagination()
-        pagination.add_link(host + start_path)
+        pagination.add_item(host + start_path)
 
         pagination_links = links_from_soup_service(results_soup, target_element=target_element['pagination'])
         for pagination_link in pagination_links:
             page_url = pagination_link[1]
-            pagination.add_link(host + page_url)
+            pagination.add_item(host + page_url)
 
         folder_name = self.country.replace(' ', '-').lower()
         root_path = path + '/' + folder_name
@@ -109,6 +109,6 @@ class CzechRepublic(DPA):
             pagination_links = links_from_soup_service(results_soup, target_element=target_element['pagination'])
             for pagination_link in pagination_links:
                 page_url = pagination_link[1]
-                pagination.add_link(host + page_url)
+                pagination.add_item(host + page_url)
 
         return True

@@ -1,0 +1,287 @@
+1/6
+
+823-240719
+
+Expediente Nº: E/07708/2019
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de
+Datos en virtud de reclamación presentada por Don A.A.A., y de conformidad con lo
+establecido en el artículo 39 bis, apartado 2, de la Ley 34/2002, de 11 de julio, de
+Servicios de la Sociedad de la Información y Comercio Electrónico (en lo sucesivo,
+LSSI), teniendo como base los siguientes:
+HECHOS
+PRIMERO: Con fecha 28 de febrero de 2019, Don A.A.A., (en adelante el reclamante),
+interpuso reclamación ante la Agencia Española de Protección de Datos, exponiendo
+lo siguiente: el día 28 de febrero de 2019, a las 15:42 horas, recibió un sms del
+***TELEFONO.1 con publicidad no solicitada recomendándole la web
+www.cuantovalemicoche.info.
+Que procede a acceder a dicha web para recabar información sobre la titularidad de la
+misma y solicitar cancelación de sus datos personales, pero dicha web redirige
+automáticamente a www.miltrabajos.net/coches.html . En el apartado de aviso legal de
+esta web no aparece modo alguno de contacto con el titular de la web para solicitar la
+cancelación de sus datos.
+Que en ningún momento ha autorizado la recepción de comunicaciones comerciales
+por dicha web.
+Y, entre otra, anexa la siguiente documentación:
+
+
+Captura de pantalla con el sms recibido, constando contenido del sms así
+como número que realiza el envío y hora de recepción. El contenido del sms es
+“Hola
+soy
+B.B.B.
+te
+recomiendo
+para
+vender
+tu
+moto
+www.cuantovalemicoche.info”
+
+SEGUNDO: Tras la recepción de la reclamación, la Subdirección General de
+Inspección de Datos procedió a iniciar actuaciones previas de investigación tendentes
+al esclarecimiento de los hechos señalados.
+Con fecha 22 de mayo de 2019, ARSYS INTERNET, S.L.U. remite a esta Agencia
+la siguiente información. Manifiesta:
+1. Que el dominio cuantovalemicoche.info fue contratado el día 21 de enero de
+2019 y se encuentra redirigido a la web http://www.miltrabajos.net/coches.html.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/6
+
+2. Que el dominio miltrabajos.net fue contratado el 20 de noviembre de 2018.
+3. Que ambos dominios se encuentran asociados al cliente IBERNET
+CONTENIDOS S.L. con NIF B33949009.
+4. Aporta facturas a nombre de IBERNET CONTENIDOS S.L.
+Con fecha 24 de mayo de 2019 se comprueban los datos completos de IBERNET
+CONTENIDOS S.L. en el Registro Mercantil Central y estos se incluyen en el apartado
+de entidades investigadas.
+Con fecha 24 de mayo de 2019 se comprueba el contenido del aviso legal de la
+web http://www.miltrabajos.net/coches.html no constando ninguna forma de ejercer
+derechos en relación a la protección de datos. En el aviso legal se recogen, entre
+otros, los siguientes términos:
+
+Miltrabajos.net ofrece a sus usuarios una navegación
+completamente anónima.
+
+
+Miltrabajos.net no almacena datos personales de los usuarios.
+
+
+
+Miltrabajos.net no almacena cookies de usuarios.
+
+
+
+Miltrabajos.net no almacena direcciones IP ni otros datos de ISP.
+
+
+
+Miltrabajos.net no geolocaliza a sus usuarios.
+
+
+
+Miltrabajos.net presta un servicio totalmente gratuito.
+
+
+
+Miltrabajos.net no vende ningún tipo de producto.
+
+
+
+Miltrabajos.net no requiere de usuarios registrados.
+
+
+Miltrabajos.net no obtiene ingreso alguno de las empresas
+ofertantes.
+Con fecha 28 de mayo de 2019, se remite requerimiento de información a
+IBERNET CONTENIDOS S.L. La notificación se realiza electrónicamente a través de
+notific@. Según este sistema de notificación, se ha producido el rechazo automático al
+haber transcurrido diez días naturales desde su puesta a disposición.
+Con fecha 29 de mayo de 2019, el denunciante remite a esta Agencia la
+siguiente información:
+1. Manifiesta que el sms lo recibió en su número móvil ***TELEFONO.2 del que
+es titular.
+Con fecha 10 de junio de 2019, se remite requerimiento de información a
+IBERNET CONTENIDOS S.L. La notificación se realiza por correo postal. El escrito se
+devuelve por el Servicio de Correos con la anotación de “Devuelto a Origen por
+Desconocido”.
+Con fecha 13 de junio de 2019, TELEFONICA MOVILES ESPAÑA, S.A.U.,
+remite a esta Agencia la siguiente información:
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/6
+
+1. Manifiesta que la titularidad de la línea ***TELEFONO.1 a fecha 28 de febrero
+de 2019 corresponde a la mercantil BSIC AGRÍCOLA SOCIEDAD LIMITADA
+cuyos datos se han incluido en el apartado de entidades investigadas.
+2. Aporta última factura emitida al titular.
+3. Manifiesta que los servicios contratados asociados a esta línea incluyen SMS
+ilimitados.
+4. Manifiesta que la línea ha causado baja por voluntad del titular el día 21 de
+marzo de 2019.
+Con fecha 9 de julio de 2019, BSIC AGRÍCOLA SOCIEDAD LIMITADA remite a esta
+Agencia la siguiente información y manifestaciones:
+1. Que el número ***TELEFONO.2 es accesible mediante internet y es de acceso
+público debido a que está publicado como teléfono de contacto en 21 anuncios
+sin acceso restringido de www.milanuncios.com.
+Aporta enlace al anuncio y captura de pantalla de uno de los anuncios donde
+puede verse el teléfono y el nombre del denunciante como contacto.
+1. Que BSIC AGRÍCOLA SOCIEDAD LIMITADA no almacena actualmente ni ha
+almacenado en el pasado información alguna que se relacione con el número
+***TELEFONO.2.
+2. Que el sms enviado no se trata de información comercial porque el enlace no
+da lugar a una posible venta de ninguna clase de producto o servicio. Por el
+contrario, la página a la que redirige sirve de ayuda a aquellos que están
+realmente interesados en vender su vehículo tratándose aspectos relevantes
+como valor de tasación, valor fiscal, el anuncio, etc.
+Aporta capturas de pantalla de estas “ayudas” que se comentan.
+1. Que lo anteriormente expuesto no implica que asuman que han enviado el
+sms, para lo que sería necesario prueba del registro telefónico de sms
+proporcionado por el operador telefónico del número de teléfono
+supuestamente receptor del sms.
+FUNDAMENTOS DE DERECHO
+I
+Es competente para resolver la Directora de la Agencia Española de Protección
+de Datos, conforme a lo establecido en el artículo 43.1 de la Ley 34/2002, de 11 de
+Julio, de servicios de la sociedad de la información y de comercio electrónico (en
+adelante LSSI), en relación con la Disposición Adicional cuarta de la Ley Orgánica
+3/2018, de 5 de diciembre, de Protección de Datos Personales y Garantía de los
+Derechos Digitales (en lo sucesivo LOPDGDD) y con el artículo 57 del Reglamento
+(UE) 2016/679 (Reglamento general de protección de datos, en adelante RGPD)
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/6
+
+II
+El objeto material de la LSSI se circunscribe, conforme a lo establecido en su
+artículo 1, al “régimen jurídico de los servicios de la sociedad de la información (…), en
+lo referente a las obligaciones de los prestadores de servicios (…), la información
+previa y posterior a la celebración de contratos electrónicos, las condiciones relativas
+a su validez y eficacia y el régimen sancionador aplicable a los prestadores de
+servicios de la sociedad de la información.”
+El Anexo de la LSSI, “Definiciones”, en su apartado a), entiende por “Servicios
+de la sociedad de la información” “todo servicio prestado normalmente a título
+oneroso, a distancia, por vía electrónica y a petición individual del destinatario.
+El concepto de servicio de la sociedad de la información comprende también los
+servicios no remunerados por sus destinatarios, en la medida en que constituyan una
+actividad económica para el prestador de servicios.
+Son servicios de la sociedad de la información, entre otros y siempre que
+representen una actividad económica, los siguientes:
+1.º La contratación de bienes o servicios por vía electrónica.
+2.º La organización y gestión de subastas por medios electrónicos o de
+mercados y centros comerciales virtuales.
+3.º La gestión de compras en la red por grupos de personas.
+4.º El envío de comunicaciones comerciales.
+5.º El suministro de información por vía telemática.
+No tendrán la consideración de servicios de la sociedad de la información los
+que no reúnan las características señaladas en el primer párrafo de este apartado y,
+en particular, los siguientes: (….)”
+A su vez, el apartado f) del Anexo de la LSSI define la “Comunicación comercial”
+como “toda forma de comunicación dirigida a la promoción, directa o indirecta, de la
+imagen o de los bienes o servicios de una empresa, organización o persona que
+realice una actividad comercial, industrial, artesanal o profesional.
+A efectos de esta Ley, no tendrán la consideración de comunicación comercial
+los datos que permitan acceder directamente a la actividad de una persona, empresa
+u organización, tales como el nombre de dominio o la dirección de correo electrónico,
+ni las comunicaciones relativas a los bienes, los servicios o la imagen que se ofrezca
+cuando sean elaboradas por un tercero y sin contraprestación económica.”
+El apartado c) del Anexo de la LSSI define al prestador de servicios como la
+“persona física o jurídica que proporciona un servicio de la sociedad de la
+información”.
+
+III
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/6
+
+A través del email que el reclamante recibió, y en el que funda su reclamación,
+no se prestaba un servicio de la sociedad de la información, tal y como éstos se
+definen por la LSSI. Basta acudir al concepto que ofrece el apartado a) y el apartado f)
+del Anexo de la Ley 34/2002 que se reproduce en el Fundamento precedente.
+El texto del email enviado al reclamante y las manifestaciones hechas por la
+reclamada en su respuesta a la solicitud de información de esta Agencia, corroboran
+esa conclusión. El texto del email -según la información facilitada por la reclamanteera:
+“Hola
+soy
+B.B.B.
+te
+recomiendo
+para
+vender
+tu
+moto
+www.cuantovalemicoche.info”.
+La reclamada manifiesta que el email enviado no se trata de información
+comercial porque el enlace no da lugar a una posible venta de ninguna clase de
+producto o servicio. Por el contrario, la página a la que redirige sirve de ayuda a
+aquellos que están realmente interesados en vender su vehículo tratándose aspectos
+relevantes como valor de tasación, valor fiscal, el anuncio.
+A la luz de las normas transcritas en el Fundamento precedente, la
+documentación que obra en el expediente pone de manifiesto que el mensaje
+electrónico que el reclamante recibió no era una comunicación comercial y que a
+través de él no se prestaba un servicio de la sociedad de la información.
+Todo ello obliga a concluir que la conducta en la que se concreta la reclamación
+no está sometida a la LSSI pues queda fuera del ámbito objetivo de aplicación de la
+Ley 34/2002.
+En atención a las razones expuestas procede el archivo de las actuaciones
+practicadas en relación con la presente reclamación.
+
+Por lo tanto, de acuerdo con lo señalado,
+Por la Directora de la Agencia Española de Protección de Datos,
+SE ACUERDA:
+1. PROCEDER AL ARCHIVO de las presentes actuaciones.
+2. NOTIFICAR la presente resolución a BSIC AGRÍCOLA SOCIEDAD LIMITADA, y a
+Don A.A.A..
+Con arreglo a lo establecido en el artículo 50 de la Ley Orgánica 3/2018, de 5
+de diciembre, de Protección de Datos Personales y Garantía de los Derechos
+Digitales, la presente Resolución se hará pública una vez haya sido notificada a los
+interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/6
+
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

@@ -1,0 +1,371 @@
+1/8
+
+Procedimiento Nº: E/04816/2019
+940-0419
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y en
+consideración a los siguientes
+HECHOS
+PRIMERO: En fecha 16/02/2019 tiene entrada en la Agencia Española de Protección
+de Datos (AEPD) una reclamación de D. A.A.A. (en adelante, el reclamante) contra
+BANCO BILBAO VIZCAYA ARGENTARIA, S.A., con NIF A48265169 (en adelante, la
+reclamada o BBVA)
+El motivo de la reclamación es la consulta que BBVA hizo al fichero ASNEF en
+fecha 05/08/2018 asociada a los datos personales del reclamante, cliente suyo.
+Manifiesta el reclamante que durante 2018 no solicitó a la reclamada ningún servicio
+que justificara, a su juicio, consultar sus datos de solvencia.
+Añade que la oficina de BBVA que efectuó la consulta a ASNEF está ubicada en
+la provincia de ***PROVINCIA.1, provincia con la que no tiene ninguna vinculación
+pues él reside en ***LOCALIDAD.1 y, además, esa oficina figura en la web de BBVA
+como “permanentemente cerrada”.
+Anexa, entre otros, los documentos siguientes:
+1. Copia de la respuesta de EQUIFAX al acceso solicitado. El documento
+ofrece la información que figuraba en el fichero ASNEF a fecha 10/12/2018
+vinculada al NIF del reclamante. En el apartado “Histórico de Consultas” se
+mencionan dos realizadas en los seis meses anteriores: una por Sabadell
+Consumer -consulta que el reclamante justifica en el préstamo particular
+que solicitó a esa entidad- y otra de BBVA. Esta última, de fecha
+05/08/2018 siendo la dirección que aparece asociada a BBVA
+“***DIRECCION.1”.
+2. Captura de pantalla del mensaje que el reclamante dirigió en fecha
+13/12/2018 al gestor bancario que tiene asignado en BBVA en el que le pide
+una aclaración por los accesos que, tras consultar al fichero ASNEF, había
+comprobado que existían. Explica a su gestor bancario: “Me resulta muy
+raro, dado que yo recuerde no solicité ningún préstamo ni tarjeta de crédito
+da BBVA”
+3. Escrito, sin fecha, con el texto de la reclamación que, según el reclamante,
+interpuso ante el Servicio de Atención al Cliente de BBVA al no haber
+recibido respuesta de la “reclamación que hice ante mi Gestor BBVA, D.
+D.D.H, (…) el pasado 13 de diciembre de 2018”.
+En este escrito explica que la reclamación tiene su origen en el uso
+indebido de sus datos personales, pues BBVA, “sin su autorización, ni
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/8
+
+consentimiento, ni conocimiento, consultó mis datos en ASNEF EQUIFAX
+desde una sucursal de ***PROVINCIA.1, Av. ***DIRECCION.1(…)”. Añade
+que pidió explicaciones tanto por mensaje como presencialmente sin
+obtener respuesta.
+4. Carta que BBVA, Departamento de Calidad y Atención al Cliente, remitió al
+reclamante el 11/01/2019, en la que acusa recibo del escrito que les ha
+hecho llegar (no indica fecha) y le comunica que están realizando las
+gestiones necesarias para resolver la cuestión a fin de facilitarle una
+respuesta lo más brevemente posible.
+5. Carta del Servicio de Atención al Cliente de BBVA remitida al reclamante el
+18/01/2019 en la que acusa recibo de su reclamación recibida el 11/01/2019
+y le comunica que la consulta al fichero está amparada en la normativa de
+protección de datos invocando a tal efecto el artículo 42 del Reglamento de
+desarrollo de la Ley Orgánica 15/1999, de Protección de Datos de Carácter
+Personal (RLOPD). Invoca, asimismo, la SAN de la Sección 1ª de la Sala
+de lo Contencioso-Administrativo de 26/10/2018, F.J. 3º.
+SEGUNDO: De conformidad con el artículo 65.4 de la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales (en
+adelante LOPDGDD), con número de referencia E/02721/2019, en fecha 15/03/2019
+se dio traslado de dicha reclamación a la reclamada para que procediese a su análisis
+e informase a esta Agencia en el plazo de un mes, de las acciones llevadas a cabo
+para adecuarse a los requisitos previstos en la normativa de protección de datos.
+La reclamada respondió en escrito de fecha 15/04/2019, que tuvo entrada en el
+Registro de la AEPD el 17/04/2019, en el que hizo estas manifestaciones y aportó los
+siguientes documentos:
+a. Que se ha comprobado, tras estudiar el caso concreto, por una parte, que la
+consulta de los datos personales del reclamante en el fichero ASNEF se
+efectuó por una empresa que mantiene un contrato de tratamiento de datos
+con BBVA que tiene encomendadas las actividades de back office de la entidad
+financiera, sita en ***DIRECCION.1 (***PROVINCIA.1), y por otra, que el
+reclamante tiene suscritos varios contratos con BBVA.
+b. Aporta copia de la carta que dirigió al reclamante, de fecha 25/03/2019, relativa
+a la decisión acordada respecto a la reclamación formulada ante la AEPD, de
+conformidad con lo prevenido en el artículo 37.2 de la Ley Orgánica 3/2018, de
+5 de enero, de Protección de Datos y Garantías de los Derechos Digitales
+(LOPDGDD)
+-
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+En ella explica que tiene encomendadas las gestiones de “back office”
+(conjunto de actividades de apoyo al negocio)” a “una empresa del
+grupo BBVA” sita en ***DIRECCION.1, ***PROVINCIA.1, , que realiza
+tales actividades en virtud de un encargo de tratamiento. Invoca el
+artículo 20.1.e) de la Ley Orgánica 3/2018 de Protección de Datos y
+Garantías de los Derechos Digitales y explica que, en tanto es titular de
+un contrato personal con esa entidad, “la consulta a los ficheros de
+información crediticia desde la oficina de ***PROVINCIA.1, tal y como
+se ha expuesto, se realizó dentro de los márgenes de operativa
+contractual habitual y dentro de la más estricta legalidad vigente”.
+www.aepd.es
+sedeagpd.gob.es
+
+3/8
+
+Al amparo del artículo 65 de la LOPDGDD, en fecha 02/04/2019, se acordó
+admitir a trámite la presente reclamación.
+En el marco del expediente de referencia E/4816/2019 y de acuerdo con lo
+prevenido en el artículo 58.1 del RGPD y 67 de la LOPDGDD, se llevaron a cabo
+actuaciones de investigación previa que consistieron en solicitar diversa información y
+documentación a la entidad reclamada.
+De la respuesta ofrecida por BBVA, que tuvo entrada en la sede de la AEPD el
+07/06/2019, resultan acreditados los siguientes extremos relevantes a los efectos de la
+presente investigación:
+a. BBVA ha facilitado una relación de los contratos financieros que el reclamante
+tenía suscritos con ella y que estaban vigentes en fecha 05/08/2018. Es en esa
+fecha cuando consultó la información que existía en ASNEF asociada al NIF
+del reclamante:
+1.Contrato de cuenta on line suscrito el 13/11/2015
+2. Contrato de préstamo personal suscrito el 25/07/2016
+3. Contrato de préstamo personal bonificado suscrito el 22/03/2017
+4. Contrato de servicio de pago móvil de la aplicación BBVA
+WALLET, suscrito el 23/11/2017.
+b. BBVA ha facilitado una copia del documento denominado “Identificación del
+cliente, declaración de actividad económica, tratamiento de datos personales y
+firma digitalizada”.
+Este documento fue firmado digitalmente por el reclamante en fecha
+14/07/2016 y contiene la siguiente información: Encuadrado en el apartado 2,
+“Tratamiento por BBVA de los datos personales de sus clientes”, subapartado
+3., “Otras finalidades”, el punto “3.3.” párrafo segundo, dice así:
+“Asimismo, usted autoriza a BBVA para consultar los datos que figuren a su
+nombre en los ficheros de solvencia patrimonial y crédito para el análisis de la
+solvencia económica”. (El subrayado es de la AEPD)
+c. BBVA ha manifestado que la mercantil OPPLUS, Operaciones y Servicios,
+S.A., con NIF A95043071, y domicilio en ***DIRECCION.1 (***PROVINCIA.1)
+mantiene un contrato de tratamiento de datos con ella en virtud del cual tiene
+encomendadas las funciones de back office del banco.
+Añade que en fecha 29/11/2007 ambas partes firmaron un Acuerdo Marco para
+la prestación de servicios. Se aporta copia del Acuerdo Marco, del que cabe
+destacar las siguientes estipulaciones:
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/8
+
+c.1. La cláusula primera, apartado 1.1. versa sobre el objeto del Acuerdo Marco
+constituido por las condiciones generales que ambas partes deberán seguir en
+la realización de “los diferentes servicios de Ejecución y Control de Procesos
+de soporte a la actividad de negocios bancarios y financieros en general (…)
+dentro del periodo de duración del presente Acuerdo Marco y de acuerdo con
+las especificaciones que se establezcan en cada Contrato para cada Servicio.
+De manera no exhaustiva, entre los Servicios que pueden ser objeto de
+prestación y consiguiente regulación, se enumeran (…): a)…b; Servicios de
+soporte relacionados con la apertura, administración, mantenimiento de
+cuentas y productos de activo y pasivo; c) Servicios de soporte relacionados
+con actividades transaccionales de pagos, (…); d) Servicios de soporte
+relacionados con actividades operativas de servicios de inversión; e)(…); f)
+Servicios de soporte a gestiones de cobro; g) Servicios de soporte a la
+actividad de administración y custodia de instrumentos financieros (…)
+c.2. La cláusula sexta en su apartado 1 indica que los servicios a realizar por el
+Proveedor (nombre con el que se identifica a la empresa que presta el servicio
+a BBVA) “serán desarrollados en sus propias instalaciones, (…) en la provincia
+de ***PROVINCIA.1 (España), en concreto en ***DIRECCION.1.”
+c.3. La cláusula decimoctava, “Acceso a datos personales”, atribuye a la
+empresa OPPLUS, Operaciones y Servicios, S.L., la condición de encargada
+de tratamiento de BBVA.
+Esta estipulación,“ tiene por objeto establecer las obligaciones y
+responsabilidades de las partes intervinientes respecto de los ficheros que
+contengan datos de carácter personal de clientes, Proveedores y /o empleados
+del Banco (en adelante, datos) a los cuales la Empresa tenga acceso
+exclusivamente para el cumplimiento de los Servicios que la empresa presta al
+Banco, de conformidad con lo previsto en el artículo 12 de la Ley Orgánica
+15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal”.
+c.4. En relación con el “Contrato Específico relativo a la Prestación de Servicios
+de Soporte de Procesos de Recuperación de Mora”, suscrito entre BBVA y
+OPPLUS, Operaciones y Servicios, S.A., el 15/10/2008, aporta:
+- El Anexo VIII , en el que se amplía el objeto del Contrato Específico con
+efectos desde el 01/01/2012, incorporando al mismo una nueva función de
+gestión de fallidos, estableciéndose el servicio objeto del contrato específico en
+los ámbitos funcionales siguientes: gestión prejudicial; gestión judicial; gestión
+recuperatoria; Administración; gestión de fallidos.
+- El Anexo X al citado Contrato en virtud del cual acuerdan que, con efectos
+01/01/2014, los servicios que OPPLUS venía prestando, fruto de una
+ampliación del objeto del contrato, relativos a los ámbitos funcionales de
+gestión prejudicial; gestión judicial; gestión recuperatoria; Administración
+dejarán de prestarse al amparo del contrato “Específico relativo a la Prestación
+de Servicios de Soporte de Procesos de Recuperación de Mora” pasarán a
+prestarse al amparo del Contrato Específico Relativo a la Prestación de
+Servicios Operativos y de Consultoría, formalizado entre ambas partes el
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/8
+
+10/10/2012
+TERCERO: Los hechos objeto de la reclamación quedan sometidos a las
+disposiciones del Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo,
+de 27/04/2016, relativo a la Protección de las Personas Físicas en lo que respecta al
+Tratamiento de Datos Personales y a la Libre Circulación de estos Datos, que es de
+aplicación efectiva desde el 25/05/2018.
+La consulta a ASNEF efectuada por BBVA y que constituye el objeto de la
+presente reclamación se realizó en fecha posterior, el 05/08/2018.
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales (en lo sucesivo LOPDGDD), es competente para
+resolver estas actuaciones de investigación la Directora de la Agencia Española de
+Protección de Datos.
+II
+El RGPD en su artículo 5, “Principios relativos al tratamiento” precisa que “Los
+datos personales serán:
+a) tratados de manera lícita, leal y transparente en relación con el interesado
+(<<licitud, lealtad y transparencia>>)”
+El artículo 6 del RGPD, “Licitud del tratamiento”, concreta en el apartado 1 los
+supuestos en los que el tratamiento de datos de terceros es considerado lícito:
+“1. El tratamiento sólo será lícito si cumple al menos una de las siguientes
+condiciones:
+a) el interesado dio su consentimiento para el tratamiento de sus datos
+personales para uno o varios fines específicos;
+b) el tratamiento es necesario para la ejecución de un contrato en el que el
+interesado es parte o para la aplicación a petición de este de medidas
+precontractuales;
+c) el tratamiento es necesario para el cumplimiento de una obligación legal
+aplicable al responsable del tratamiento;
+d) el tratamiento es necesario para proteger intereses vitales del interesado o de
+otra persona física.
+e) el tratamiento es necesario para el cumplimiento de una misión realizada en
+interés público o en el ejercicio de poderes públicos conferidos al responsable
+del tratamiento;
+f) el tratamiento es necesario para la satisfacción de intereses legítimos
+perseguidos por el responsable del tratamiento o por un tercero, siempre que
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/8
+
+sobre dichos intereses no prevalezcan los intereses o los derechos y libertades
+fundamentales del interesado que requieran la protección de datos personales,
+en particular cuando el interesado sea un niño.
+Lo dispuesto en la letra f) del párrafo primero no será de aplicación al
+tratamiento realizado por las autoridades públicas en el ejercicio de sus funciones.(…)”
+
+III
+La actuación de BBVA que se somete a la valoración de esta Agencia ha sido
+plenamente respetuosa con la normativa de protección de datos que estaba vigente
+cuando acontecieron los hechos, el RGPD.
+El tratamiento de datos efectuado por la reclamada cuya licitud se pone en duda
+por el reclamante consistió en consultar la información que existía en el fichero de
+solvencia patrimonial ASNEF vinculada a él. En la fecha en la que tuvo lugar esta
+consulta, el 05/08/2018, el reclamante tenía suscritos con BBVA cuatro contratos que
+estaban vigentes dos de los cuales eran contratos de préstamo personal celebrados
+en 2016 y 2017.
+El artículo 6.1 RGPD menciona entre las bases jurídicas del tratamiento de datos
+personales de terceros (apartado f), la satisfacción de un interés legítimo del
+responsable del tratamiento, siempre que sobre dicho interés no prevalezcan los
+intereses o los derechos y libertades fundamentales del afectado que requieran la
+protección de datos personales.
+En el presente caso, el interés legítimo de la reclamada para el tratamiento
+efectuado es evidente: existían dos contratos de préstamo pendientes de ejecución
+que conllevaban una obligación de pago de determinados importes a cargo del
+reclamante. La ponderación de los intereses en juego no puede resolverse sino a favor
+de reconocer la legitimación de la entidad acreedora a consultar los ficheros de
+solvencia patrimonial.
+Si bien es cierto que la Ley Orgánica 3/2018, de Protección de Datos Personales
+y Garantía de los derecho digitales (LOPDGDD) no estaba vigente en la fecha en la
+que BBVA consultó en ASNEF los datos del reclamante, pues entró en vigor meses
+después, el 07/12/2018, en ella se considera lícito el tratamiento de datos, concretado
+en la consulta a un fichero de solvencia (sistema de información crediticia en la
+terminología de la Ley Orgánica) efectuado por quien tiene la condición de acreedor
+de una determinada cuantía en virtud de un contrato suscrito con el titular de los
+datos.
+El artículo 20 de la LOPDGDD, “Sistemas de Información Crediticia” dispone:
+“1. Salvo prueba en contrario, se presumirá lícito el tratamiento de datos
+personales relativos al incumplimiento de obligaciones dinerarias, financieras o de
+crédito por sistemas comunes de información crediticia cuando se cumplan los
+siguientes requisitos: (…)
+e) Que los datos referidos a un deudor determinado solamente podrán ser consultados
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/8
+
+cuando quien consulte el sistema mantuviese una relación contractual con el afectado
+que implique el abono de una cuantía pecuniaria (…)”
+Cabe añadir a lo expuesto que la consulta al fichero se efectuó por la encargada
+de tratamiento de BBVA, la empresa OPPLUS, Operaciones y Servicios, S.A. (con NIF
+A 95043071) y no por una “sucursal” de la entidad financiera reclamada.
+La empresa OPPLUS, en su condición de encargada de tratamiento de BBVA
+podía tratar datos por cuenta de aquella (artículo 28 del RGPD). La documentación
+aportada por BBVA confirma que entre ambas existían varios acuerdos -todos ellos
+parten de un acuerdo marco celebrado en 2007 cuya estipulación decimoctava le
+otorga a OPPLUS la condición de encargada de tratamiento- en virtud de los cuales se
+le encomendaban diversas funciones como el soporte de la gestión de cobro, de la
+actividad de administración, gestión de fallidos o servicios operativos y de consultoría.
+Asimismo, se debe subrayar que la estipulación sexta, apartado 1, del acuerdo
+marco, indica que los servicios que realice OPPLUS (el “proveedor” como se identifica
+a esta empresa en el contrato) serían desarrollados en sus propias instalaciones, en la
+provincia de ***PROVINCIA.1, en concreto en ***DIRECCION.1.
+La base jurídica del tratamiento de los datos personales del reclamante por
+BBVA es el interés legítimo de esta entidad en dicho tratamiento habida cuenta de los
+dos contratos de préstamo pendientes de pago que le vinculaban con el reclamante.
+Cabe añadir, también, que tal y como se recoge en el Informe de Actuaciones de
+Investigación, BBVA ha aportado un documento denominado “Identificación del cliente,
+declaración de actividad económica, tratamiento de datos personales y firma
+digitalizada” que fue firmado digitalmente por el reclamante en fecha 14/07/2016 y que
+contiene en el apartado 2, “Tratamiento por BBVA de los datos personales de sus
+clientes”, subapartado 3., “Otras finalidades”, el punto “3.3” la siguiente información:
+“Asimismo, usted autoriza a BBVA para consultar los datos que figuren a su
+nombre en los ficheros de solvencia patrimonial y crédito para el análisis de la
+solvencia económica”. (El subrayado es de la AEPD)
+Por tanto, en principio, también cabría amparar el tratamiento de datos efectuado
+por la reclamada en el consentimiento expreso otorgado por el reclamante en 2016
+para consultar sus datos en ficheros de solvencia, a tenor del artículo 6.1.a, del RGPD
+que considera lícito el tratamiento “cuando el interesado dio su consentimiento para el
+tratamiento de sus datos personales para uno o varios fines específicos”.
+En atención a la exposición precedente y a la documentación a la que la AEPD
+ha tenido acceso, no se aprecia en la actuación de la entidad reclamada indicio alguno
+de infracción del RGPD, por lo que procede el archivo de las presentes actuaciones.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia Española
+de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+8/8
+
+SEGUNDO: NOTIFICAR la presente resolución al reclamante y reclamado.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

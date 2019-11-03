@@ -1,0 +1,320 @@
+1/6
+
+Expediente Nº: E/01443/2019
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+Con fecha de 11 de febrero de 2019 la Directora de la Agencia Española de
+Protección de Datos acuerda iniciar las presentes actuaciones de investigación en
+relación a la titularidad del sitio web www.reclamacionesonline.com, y su adecuación a
+la normativa de protección de datos.
+Para ello se insta a la Subdirección General de Inspección de Datos a la
+realización de actuaciones previas de investigación para el esclarecimiento de este
+asunto, teniendo conocimiento de los siguientes:
+HECHOS
+PRIMERO: Esta Agencia requiere a SOLUCIONES CORPORATIVAS IP, S.L.
+(B57333601) registrador del dominio www.reclamacionesonline.com, información
+sobre el titular de este dominio, recibiendo el 26 de marzo de 2019 escrito procedente
+de esta mercantil certificando que la titularidad del dominio investigado corresponde a:
+A.A.A. con NIF ***NIF.1 con domicilio en ***DIRECCION.1
+En este escrito también aparece como teléfono de contacto del titular del dominio, uno
+de los que aparecen en el sitio web como contacto.
+SEGUNDO: Sobre el otro número de teléfono que aparece en el sitio web investigado,
+que es de tarificación especial, con fecha 25 de marzo de 2019, se envía
+requerimiento de titularidad de línea telefónica al operador SUVOZ GLOBAL
+SERVICES, S. L. (en adelante, SUVOZ) declarado en la CNMC como explotador de
+servicio de este número de teléfono, del cual no se recibe contestación ninguna pese a
+existir acuse de recibo el 28 de marzo de 2019.
+Realizado simultáneamente el requerimiento a SUVOZ por correo postal con
+certificación de entrega del 28 de marzo de 2019, a fecha de este informe, no se ha
+recibido contestación alguna.
+TERCERO: No se ha podido constatar la titularidad del número de teléfono 868 082
+303 que aparece en la página ya que la operadora SUVOZ no ha contestado los
+requerimientos.
+CUARTO: A fecha de este informe, existe un enlace en el pie de las páginas del sitio
+web investigado con nombre “Aviso Legal y Política de Protección de Datos” donde
+figura identificado el titular de página y que recoge los requisitos del Reglamento (UE)
+2016/679 y la Ley Orgánica 3/2018 en materia de protección de datos de carácter
+personal.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+2/6
+
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la Ley
+Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los
+derechos digitales (en lo sucesivo LOPDGDD), es competente para resolver estas
+actuaciones de investigación la Directora de la Agencia Española de Protección de Datos.
+II
+De conformidad con lo establecido en el artículo 55 del RGPD, la Agencia
+Española de Protección de Datos es competente para desempeñar las funciones que se le
+asignan en su artículo 57, entre ellas, la de hacer aplicar el Reglamento y promover la
+sensibilización de los responsables y los encargados del tratamiento acerca de las
+obligaciones que les incumben, así como tratar las reclamaciones presentadas por un
+interesado e investigar el motivo de estas.
+El artículo 9.4 del Real Decreto-ley 5/2018, de 27 de julio, de medidas urgentes
+para la adaptación del Derecho español a la normativa de la Unión Europea en materia de
+protección de datos, establece lo siguiente:
+“Antes de resolver sobre la admisión a trámite de la reclamación, la Agencia
+Española de Protección de Datos podrá remitir la misma al delegado de protección de
+datos que hubiera, en su caso, designado el responsable o encargado del tratamiento o al
+organismo de supervisión establecido para la aplicación de los códigos de conducta, a fin
+de que den respuesta a la reclamación en el plazo de un mes.
+La Agencia Española de Protección de Datos podrá igualmente remitir la
+reclamación al responsable o encargado del tratamiento cuando no se hubiera designado
+un delegado de protección de datos ni estuviera adherido a mecanismos de resolución
+extrajudicial de conflictos, en cuyo caso el responsable o encargado deberá dar respuesta
+a la reclamación también en el plazo de un mes.”
+Corresponde, asimismo, a la Agencia Española de Protección de Datos ejercer los
+poderes de investigación regulados en el artículo 58.1 del RGPD, entre los que figura la
+facultad de ordenar al responsable y al encargado del tratamiento que faciliten cualquier
+información que requiera para el desempeño de sus funciones.
+Correlativamente, el artículo 31 del RGPD establece la obligación de los
+responsables y encargados del tratamiento de cooperar con la autoridad de control que lo
+solicite en el desempeño de sus funciones. Para el caso de que éstos hayan designado un
+delegado de protección de datos, el artículo 39 del RGPD atribuye a éste la función de
+cooperar con dicha autoridad.
+Del mismo modo, el ordenamiento jurídico interno también prevé la posibilidad de
+abrir un período de información o actuaciones previas. En este sentido, el artículo 55 de la
+Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, otorga esta facultad al órgano competente con el fin de conocer
+las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+3/6
+
+III
+En el presente caso, esta Agencia investiga a SOLUCIONES CORPORATIVAS IP,
+S.L. (B57333601) registrador del dominio www.reclamacionesonline.com para verificar si
+cumple lo dispuesto en el artículo 13 del RGPD en relación con la información que deberá
+facilitarse cuando los datos se obtengan del interesado.
+En concreto se inician las presentes actuaciones para determinar la adecuación de
+la página web objeto del presente caso a la actual normativa de protección de datos.
+Así
+se
+ha
+tenido
+constancia
+de
+que
+siguiendo
+el
+enlace
+https://www.reclamacionesonline.com/aviso-legal/ se accede a la política de privacidad de
+SOLUCIONES CORPORATIVAS IP, S.L. donde se establece lo siguiente:
+“Para utilizar algunos de los Servicios, los Usuarios deben proporcionar
+previamente ciertos datos de carácter personal. Para ello, la empresa tratará
+automatizadamente los Datos Personales en cumplimiento con el Reglamento General de
+Protección de Datos 2016/679 de 27 de abril de 2016. Para ello, el usuario puede acceder
+a la política seguida en el tratamiento de los datos personales (POLITICA PROTECCION
+DE DATOS) así como el establecimiento de las finalidades previamente establecidas, a lo
+dispuesto en las condiciones definidas en la Política de Protección de Datos que presenta
+lal Web.”
+En concreto en el apartado de protección de datos de la página web de dicha
+entidad se establece lo siguiente:
+. POLÍTICA DE PROTECCIÓN DE DATOS
+1. RESPONSABLE
+
+
+
+Datos de contacto del Responsable
+El responsable de los datos recabados mediante esta web es A.A.A. con dirección
+***DIRECCION.1 Y CIF ***NIF.1. Usted podrá contactar con el responsable
+mediante el siguiente Email info@reclamacionesonline.com o en el teléfono
+***TELEFONO.1
+
+
+
+Identidad y datos de contacto del representante A.A.A.
+
+2. FINALIDAD
+
+
+
+Descripción ampliada de los fines del tratamiento
+Gestión de clientes, contable, fiscal y administrativa Publicidad y prospección
+comercial
+
+
+
+Plazos o criterios de conservación de los datos
+Conservaremos los datos durante el tiempo que sea necesario para atender la
+solicitud y cumplir con las obligaciones legales exigidas
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+4/6
+
+Los datos que usted nos ha facilitado serán conservados mientras sean necesarios
+para las finalidades indicadas en el punto 2.1., o también serán almacenadas por
+el tiempo exigido por distintas legislaciones aplicables.
+
+
+
+Decisiones automatizadas, perfiles y lógica aplicada
+Los datos recogidos mediante la página web no serán utilizados para tomar
+decisiones automatizadas.
+
+3. LEGITIMACION
+
+
+
+Legislación aplicable
+Art. 6, apartado 1 letra a. Que considera el consentimiento del interesado como
+una base legítima para el tratamiento de datos personales contenidos en este
+fichero.
+
+
+
+Detalles de la base jurídica del tratamiento, en los casos de obligación legal,
+interés público o interés público o interés legítimo
+El uso de los datos que nos facilita se hace legítimo debido a que usted nos facilita
+su consentimiento o autorización para emplear sus datos con las finalidades
+indicadas en el punto 1.1
+
+
+
+Obligación o no de facilitar datos y consecuencias de no hacerlo
+No está obligado a facilitarnos los datos, sin embargo, será necesario para poder
+gestionar las sugerencias o peticiones que necesite hacernos mediante la página
+web.
+
+4. DESTINATARIOS
+
+
+
+Destinatarios o categorías de destinatarios
+Organizaciones o personas directamente relacionadas
+Administración pública con competencia en la materia
+
+
+
+con
+
+la
+
+empresa,
+
+Decisiones de adecuación, garantías, normas corporativas vinculantes o
+situaciones específicas aplicables
+No existen.
+
+5. DERECHOS
+
+A. Cómo ejercer los derechos de acceso, rectificación, supresión y portabilidad de
+sus datos, y la limitación u oposición a su tratamiento.
+El interesado podrá conocer, modificar, o eliminar los datos que la empresa posea
+acerca de su persona mediante correo electrónico facilitando su DNI o bien por
+correo postal a ***DIRECCION.1. El interesado podrá transferir sus datos a otra
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+5/6
+
+entidad o bien limitar los ya existentes que la empresa posea acerca de su persona
+mediante correo electrónico facilitando su DNI o bien por correo postal a
+***DIRECCION.1.
+
+B. Derecho a retirar el Consentimiento prestado
+El interesado podrá retirar los datos que la empresa posee acerca de su persona
+mediante correo electrónico facilitando su DNI o bien por correo postal a
+***DIRECCION.1.
+
+C. Derecho a reclamar ante la Autoridad de Control
+El interesado podrá reclamar ante la Agencia Española de Protección de Datos
+acerca de toda incidencia que pueda surgirle.
+6. PROCEDENCIA
+
+A. Información detallada del origen de los datos
+Facilitados por el propio interesado
+
+B. Categorías de datos que se tratan:
+-
+
+Nombre y Apellidos
+
+-
+
+NIF/DNI/NIE
+
+-
+
+Dirección
+
+-
+
+Teléfono Email
+
+Así las cosas, debe señalarse por tanto que existe un enlace en el pie de las
+páginas del sitio web investigado con nombre “Aviso Legal y Política de Protección de
+Datos” donde figura identificado el titular de página y que recoge los requisitos del
+Reglamento (UE) 2016/679 y la Ley Orgánica 3/2018 en materia de protección de
+datos de carácter personal.
+Por otro lado, el 26 de marzo de 2019, se recibe en esta Agencia, con número
+de registro 015673/2019, escrito procedente de esta mercantil certificando que la
+titularidad del dominio investigado corresponde a:
+A.A.A. con NIF ***NIF.1 con domicilio en ***DIRECCION.1
+En este escrito también aparece como teléfono de contacto del titular del
+dominio, uno de los que aparecen en el sitio web como contacto.
+De este modo, se ha constatado que la entidad cumple con la normativa de
+protección de datos, en concreto con el artículo 13 del RGPD cuestionado en el presente
+procedimiento.
+Por este motivo, la Directora de la Agencia Española de Protección de Datos
+acuerda el archivo de estas actuaciones.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+6/6
+
+Todo ello sin perjuicio de las posibles actuaciones que esta Agencia pudiera llevar
+a cabo ante el responsable del tratamiento en caso de que se produzca una reiteración en
+la conducta puesta de manifiesto en la presente reclamación o no se implanten de manera
+efectiva las medidas anunciadas por dicha entidad para evitar situaciones futuras
+similares. Si así ocurriera, esta Agencia acordará la realización de la oportuna
+investigación sobre los tratamientos de datos personales y los procesos de gestión que
+aplica en materia de protección de datos de carácter personal, así como las posibles
+actuaciones correctivas que procedieran.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia Española
+de Protección de Datos,
+SE ACUERDA
+
+1
+
+PROCEDER AL ARCHIVO de las presentes actuaciones.
+
+2
+
+INFORMAR de ello a SOLUCIONES CORPORATIVAS IP, S.L. (B57333601).
+
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+

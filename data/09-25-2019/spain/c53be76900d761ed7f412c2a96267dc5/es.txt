@@ -1,0 +1,256 @@
+1/6
+
+823-240719
+
+Expediente Nº: E/03820/2019
+
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos
+en virtud de la reclamación presentada por D. A.A.A. (en adelante, el reclamante) y en
+consideración a los siguientes
+
+HECHOS
+PRIMERO: Con fecha 17/12/2018 tiene entrada en la Agencia Española de Protección
+de Datos (AEPD) un escrito del reclamante en el que afirma que el AYUNTAMIENTO
+DE ALFAFAR, con NIF P4602200J (en adelante, el reclamado), a través de la Agencia
+de Empleo y Desarrollo Local, ha vulnerado el Reglamento (UE) 2016/679, General de
+Protección de Datos (RGPD), en particular sus artículos 5.1.f) y 25, y el artículo 73 de
+la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos y Garantía de los
+Derechos Digitales (LOPDGDD).
+Fundamenta su reclamación en la presunta revelación de datos personales
+efectuada por la Agencia de Empleo y Desarrollo Local (AEDL) del Ayuntamiento
+reclamado al enviar a nueve destinatarios un correo electrónico sin copia oculta, de
+modo que cada uno de ellos habría tenido acceso a la dirección electrónica de los
+ocho restantes.
+El reclamante afirma que el 08/11/2018 a las 13:59:48 horas recibió en su
+dirección electrónica un email remitido por la AEDL en el que le informaba de una
+oferta de empleo y que iba dirigido a otras personas sin copia oculta. En prueba de lo
+manifestado anexa una copia del correo electrónico mencionado, documento en el que
+resulta visible, únicamente, su dirección electrónica pues -dice- ha procedido a
+anonimizar los datos de los restantes destinatarios.
+SEGUNDO: El documento que el reclamante ha facilitado a la AEPD en prueba de los
+hechos sobre los que versa su reclamación presenta las siguientes características:
+- Como remitente
+“Para:***EMAIL.2”.
+
+figura
+
+“Empleo
+
+<
+
+***EMAIL.1>
+
+y
+
+como
+
+destinatario
+
+- En él se indica que fue “Enviado” el “jueves, 8 de noviembre de 2018 13:59.48 CET”
+y consta como “Asunto” “OFERTA DE EMPLEO”.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/6
+
+-El texto del mensaje es el siguiente: “Buenos días, Se informa de oferta de empleo:
+…” Seguidamente explica las características del puesto de trabajo ofertado y termina
+diciendo: “B.B.B.. Agencia de Desarrollo Local. Ayuntamiento de Alfafar.
+96.318.24.48///Ext XXXX. ***EMAIL.1”
+- Al pie del documento se incorpora esta leyenda: << Este mensajes y sus archivos
+adjuntos van dirigidos exclusivamente a su destinatario, pudiendo contener
+información confidencial sometida a secreto profesional. No está permitida su
+reproducción, o distribución sin la autorización expresa de Ayuntamiento de Alfafa. Si
+usted no es el destinatario final, por favor elimínelo e informe por esta vía. De acuerdo
+con lo establecido en la Ley Orgánica 15/1999 (…) le informamos que sus datos están
+incorporados a un fichero del que es titular el Ayuntamiento de Alfafar con la finalidad
+de realizar la gestión administrataiva, contable y fiscal así como enviarle
+comunicaciones comerciales sobre nuestros productos y servicios. (…) le informamos
+de la posibilidad de ejercer los derechos de acceso, rectificación, cancelación y
+oposición de sus datos en el domicilio del Ayuntamiento de Alfafar (…)>>
+Es esencial subrayar que el reclamante no ha aporta a la AEPD con su
+reclamación ningún otro documento adicional ni, en particular, las cabeceras del citado
+email. Elemento éste último indispensable para acreditar que efectivamente recibió un
+correo electrónico de esas características en la dirección ***EMAIL.2 procedente de la
+dirección ***EMAIL.1.
+En definitiva, lo único que el reclamante ha facilitado a la AEPD con su
+reclamación es el texto del mensaje (cuerpo del mensaje) pero no las líneas que le
+preceden (las cabeceras) que informan de quién es el emisor, el receptor, el asunto y
+la dirección IP del emisor y el receptor, el protocolo, el tiempo de vida y más datos
+relativos a la comunicación. Información que resulta indispensable para poder
+acreditar que, tal y como se afirma por el reclamante, recibió en su dirección
+electrónica el email antes descrito procedente de la dirección electrónica de la AEDL
+del reclamado.
+
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales (en lo sucesivo LOPDGDD), es competente para
+resolver la Directora de la Agencia Española de Protección de Datos.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/6
+
+II
+El artículo 5 del RGPD versa sobre los “Principios relativos al tratamiento” y
+menciona entre ellos el de “integridad y confidencialidad”. El apartado 1 de la
+disposición establece:
+“1. Los datos personales serán:
+(…)
+f) tratados de tal manera que se garantice una seguridad adecuada de los datos
+personales, incluida la protección contra el tratamiento no autorizado o ilícito o contra
+su pérdida, destrucción o daño accidental, mediante la aplicación de medidas técnicas
+u organizativas apropiadas (<<integridad y confidencialidad>>)”
+El artículo 83.5.a) del RGPD sanciona con multa la vulneración de “los principios
+básicos para el tratamiento, incluidas las condiciones para el consentimiento a tenor
+de los artículos 5,6, 7 y 9”.
+No obstante, debe tenerse en cuenta que, por el juego de los artículos 58.2 y
+83.7 del RGPD, por una parte, en relación con el artículo 77 de la LOPDGDD, por otra,
+cuando el responsable o encargado del tratamiento que hubiera cometido alguna de
+las infracciones previstas en los artículos 72 a 74 de la citada LOPDGDD -infracciones
+que se corresponden con las descritas en los artículos del RGPD 83.4, 83.5 y 83.6sea una entidad perteneciente a la Administración local, la autoridad de protección de
+datos sancionará a tal entidad con “apercibimiento”, adoptando también las medidas
+que proceda para que cese la conducta o se corrijan los efectos de la infracción que se
+hubiera cometido.
+III
+La reclamación que examinamos versa sobre la vulneración del principio de
+confidencialidad, de la que se responsabiliza al Ayuntamiento reclamado, fundada en
+el presunto envío por la AEDL del Ayuntamiento de un email en el que informaba de un
+puesto de trabajo a nueve personas, pero sin activar el modo copia oculta, de forma
+que se habría revelado a cada una de ellas el dato de la dirección electrónica de las
+ocho restantes.
+No obstante, como se pone de manifiesto en el Antecedente Segundo de esta
+resolución, el reclamante no ha aportado a la AEPD ningún documento que acredite
+que efectivamente, tal y como afirma, recibió desde la dirección electrónica
+***EMAIL.1 y sin copia oculta un mensaje electrónico en el que eran visibles los datos
+de otras ochos personas.
+Parece conveniente recordar que en el Derecho Administrativo sancionador rigen
+-con alguna matización, pero sin excepciones- los principios que inspiran el Derecho
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/6
+
+Penal; entre ellos el de presunción de inocencia consagrado en el artículo 24.2 de la
+Constitución Española. Principio que impide imputar una infracción administrativa
+cuando no se haya obtenido y constatado una prueba de cargo que acredite los
+hechos que motivan la imputación o la intervención en los mismos del presunto
+infractor y que ha de ser respetado en la imposición de cualesquiera sanciones. Nos
+remitimos a tal fin a la Sentencia del Tribunal Constitucional, 76/1990. También a la
+Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público en cuyo artículo
+28 se establece que “Sólo podrán ser sancionadas por hechos constitutivos de
+infracción administrativa las personas físicas y jurídicas, (…) que resulten
+responsables de los mismos a título de dolo o culpa”.
+En su Sentencia 76/1990 el Tribunal Constitucional afirmó que el derecho a la
+presunción de inocencia comporta “que la sanción esté basada en actos o medios
+probatorios de cargo o incriminadores de la conducta reprochada; que la carga de la
+prueba corresponda a quien acusa, sin que nadie esté obligado a probar su propia
+inocencia; y que cualquier insuficiencia en el resultado de las pruebas practicadas,
+libremente valorado por el órgano sancionador, debe traducirse en un pronunciamiento
+absolutorio”.
+El Tribunal Supremo (STS de 26/10/1998) advierte que la vigencia del principio
+de presunción de inocencia “no se opone a que la convicción judicial en un proceso
+pueda formarse sobre la base de una prueba indiciaria, pero para que esta prueba
+pueda desvirtuar dicha presunción debe satisfacer las siguientes exigencias
+constitucionales: los indicios han de estar plenamente probados – no puede tratarse
+de meras sospechas – y tiene que explicitar el razonamiento en virtud del cual,
+partiendo de los indicios probados, ha llegado a la conclusión de que el imputado
+realizó la conducta infractora, pues, de otro modo, ni la subsunción estaría fundada en
+Derecho ni habría manera de determinar si el proceso deductivo es arbitrario,
+irracional o absurdo, es decir, si se ha vulnerado el derecho a la presunción de
+inocencia al estimar que la actividad probatoria pueda entenderse de cargo.”
+En el supuesto que nos ocupa ni existe una prueba de cargo que desvirtúe el
+principio de presunción de inocencia ni obran en el expediente indicios que permitan
+desvirtuar la presunción de inocencia sobre la base de una prueba indiciaria. El único
+elemento en el que se sustenta la vulneración del RGPD que es objeto de la
+reclamación es la manifestación hecha por el reclamante.
+Respecto a la posibilidad de que la declaración del afectado pueda, por sí sola,
+desvirtuar el principio de presunción de inocencia se ha pronunciado el Tribunal
+Constitucional (201/89, EDJ 1989/10791), así como el Tribunal Supremo (por todas
+STS de 30/01/1999,EDJ 1999/1652), que señala como pautas para dotar a la sola
+declaración de la víctima de validez de prueba de cargo las siguientes:
+"A) Ausencia de incredibilidad subjetiva, derivadas de las previas relaciones
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/6
+
+acusado-víctima, que pongan de relieve un posible móvil espurio de resentimiento,
+venganza o enemistad, que pueda enturbiar la sinceridad del testimonio, generando
+un estado de incertidumbre, incompatible con la formación de una convicción
+inculpatoria asentada en bases firmes.
+B) Verosimilitud del testimonio, que ha estar rodeado de algunas corroboraciones
+periféricas de carácter objetivo obrantes en el proceso.
+C) Persistencia en la incriminación, que debe ser prolongada en el tiempo,
+reiteradamente expresada y expuesta, sin ambigüedades, ni contradicciones."
+La STS de 08/06/2005 ha señalado: "En efecto, hemos dicho en Sentencia
+1305/2004, de 3 de diciembre (y últimamente, en Sentencias de 25 de marzo , y 25 de
+abril de 2005 ), que la declaración incriminatoria de la víctima, es prueba, por sí
+misma, suficiente, para enervar la presunción de inocencia de los procesados,
+siempre que aparezca rodeada de los parámetros interpretativos para su apreciación,
+que esta Sala ha declarado de forma muy reiterada (ausencia de incredibilidad
+subjetiva derivada de alguna situación, que la incapacite por razones personales, la
+misma verosimilitud de la versión ofrecida por la víctima, y persistencia en su
+testimonio), pero es también necesario que la declaración de la víctima, se encuentre
+rodeada de datos corroboradores, externos y objetivos, que la doten de una especial
+potencia convectiva”
+Así las cosas, en tanto no se han aportado por el reclamante elementos de los
+que pueda inferirse que el Ayuntamiento reclamado incumplió la obligación de
+confidencialidad que le impone el RGPD, al amparo del principio de presunción de
+inocencia, procede el archivo de la presente reclamación.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia Española de
+Protección de Datos,
+SE ACUERDA:
+PROCEDER AL ARCHIVO de las presentes actuaciones.
+NOTIFICAR la presente resolución al AYUNTAMIENTO DE ALFAFAR, con NIF
+P4602200J y a D. A.A.A..
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la presente
+Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo preceptuado
+por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/6
+
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

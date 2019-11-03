@@ -1,0 +1,180 @@
+1/4
+
+Procedimiento Nº: E/08226/2019
+940-0419
+
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos y
+teniendo como base los siguientes
+HECHOS
+PRIMERO: La reclamación interpuesta por A.A.A. (en adelante, el reclamante) tiene
+entrada con fecha 4 de junio de 2019 en la Agencia Española de Protección de Datos.
+La reclamación se dirige contra HOTEL JUAN DE LA COSA, (en adelante, el
+reclamado).
+Los motivos en que basa la reclamación son “instalación de cámara de video-vigilancia
+afectando a su propiedad privada y a espacio público sin causa justificada” (folio nº 1).
+Junto a la reclamación aporta prueba documental (Anexo I) que acredita la
+instalación de la cámara en cuestión.
+SEGUNDO: La Subdirección General de Inspección de Datos procedió a la traslación
+de la reclamación a la entidad denunciada para que alegara en derecho lo que
+estimara oportuno.
+TERCERO. En fecha 14/08/19 se recibe en esta Agencia escrito de la denuncia
+manifestando de manera sucinta lo siguiente:
+“En primer lugar, nos gustaría expresar que Astuy Berria S.L desconoce
+cualquier instalación realizada en la parcela del número 13 de la Avenida Berria en
+tanto en cuanto nuestro establecimiento se encuentra en el lado opuesto de la calle
+(…)
+Adjuntamos fotografías de todas las entradas del establecimiento, en la que se
+puede ver los carteles actualizados conforme al RGPD informando a todos los
+interesados.
+El tratamiento de las imágenes lo hacemos nosotros mismos sin transmitir, ni
+ceder imágenes a ningún tercero.
+Se adjunta foto de como se visualizan las cámaras en el monitor, todas las
+cámaras se encuentran en el interior del edificio a excepción de una cámara que se
+encuentra en la azotea con la intención de realizar panorámicas de los alrededores y
+transmitir en nuestra web”.
+“Se adjunta foto del lugar en el que está instalada, la distancia al suelo y las
+imágenes que capta entiendo que de acuerdo, con el criterio (…), si bien es cierto que
+esta cámara se lleva a cabo la captación de imágenes panorámicas de parte de la
+Playa de Berria o del monte “El Brusco”, no se realiza sin embrago, ningún tratamiento
+de datos de carácter personal (…)”.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/4
+
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante
+RGPD) otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
+garantía de los derechos digitales (en lo sucesivo LOPDGDD), es competente para
+resolver estas actuaciones de investigación la Directora de la Agencia Española de
+Protección de Datos.
+II
+En el presente caso, se procede a examinar la reclamación de fecha 04/06/19 por
+medio de la cual se traslada como hecho principal el siguiente:
+“instalación de cámara de video-vigilancia afectando a su propiedad privada y a
+espacio público sin causa justificada” (folio nº 1).
+En concreto considera afectado su “intimidad, como la de los futuros clientes
+del local que estamos rehabilitando”.
+En apoyo de su reclamación aporta prueba documental (fotografías Anexo) que
+Acreditan la instalación de la cámara objeto de denuncia.
+Tanto las personas físicas, como las jurídicas, pueden instalar cámaras de
+video-vigilancia con fines de seguridad del establecimiento, si bien son responsables
+que las mismas se ajusten a la legalidad vigente.
+Los “hechos” anteriormente descritos podrán suponer una afectación del contenido del
+art. 5.1 c) RGPD, al disponer de cámaras de video-vigilancia que obtienen imágenes
+de la acera, afectando al derecho de los transeúntes que caminan libremente por la
+zona.
+“Los datos personales serán: adecuados, pertinentes y limitados a lo necesario
+en relación con los fines para los que son tratados («minimización de datos»)”.
+El tratamiento de imágenes en lugares públicos sólo puede ser realizado -en su caso y
+previo el cumplimiento de los requisitos legalmente exigibles-, por las Fuerzas y
+Cuerpos de Seguridad, a menos que opere la excepción establecida en el artículo 4.3
+de la Instrucción 1/2006, de 8 de noviembre, de esta Agencia, que establece: “las
+cámaras y videocámaras instaladas en espacios privados no podrán obtener
+imágenes de espacios públicos salvo que resulte imprescindible para la finalidad de
+vigilancia que se pretende, o resulte imposible evitarlo por razón de la ubicación de
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/4
+
+aquellas. En todo caso deberá evitarse cualquier tratamiento de datos innecesario
+para la finalidad perseguida”.
+En ningún caso se admitirá el uso de prácticas de vigilancia más allá del entorno
+objeto de la instalación y en particular, no pudiendo afectar a los espacios públicos
+circundantes, edificios contiguos y vehículos distintos de los que accedan al espacio
+vigilado.
+Por la parte denunciada, no se niegan los hechos, siendo el responsable
+principal de la instalación de la cámara denunciada.
+Con relación a la cámara objeto de denuncia, está instalada en lo alto de la
+azotea “con la intención de realizar panorámicas y trasmitirlas a través de su página
+web”.
+Examinados los fotogramas aportadas, no es posible identificar persona física
+alguna, dada la distancia de la instalación y las características de la cámara en
+cuestión.
+El resto del sistema cumple la legalidad vigente al disponer de cartel
+informativo en zona visible de acceso al establecimiento hotelero, estando los clientes
+del mismo debidamente informados que se trata de una zona video-vigilada.
+En base a las pruebas obtenidas, cabe concluir que la cámara denunciada
+aunque esta orientada hacia espacio público, no permite identificar a persona física
+alguna.
+No obstante lo anterior, en base a las circunstancias del caso esta Agencia
+quiere realizar la siguiente recomendación.
+La entidad denunciada puede obtener imágenes del paisaje adyacente al hotel,
+pudiendo subir las mismas a su página web, si bien una vez tomadas las mismas no
+es necesario la captación permanente del entorno, menos aún si en un futuro no muy
+lejano se va a construir en zona adyacentes.
+La mera observancia de la cámara, cuya presencia no se cuestiona, no implica
+que se esté afectando el derecho a la intimidad del denunciante, menos aún como el
+propio manifiesta de “futuros clientes”, estando destinadas las imágenes obtenidas a
+dar a conocer el entorno dónde se ubica el establecimiento, cuestión bastante común
+en las plataformas on line.
+Con la permanencia del dispositivo, no se puede pasar por alto, se corre el
+riesgo de nuevas “denuncias” con el consiguiente coste para todas las partes
+implicadas, de manera que las imágenes deben circunscribirse al entorno que se
+pretende promocionar, la obtención de las mismas debe ser temporal y adoptando
+todas las medidas necesarias para evitar la captación de personas y/o vehículos
+estacionados en las proximidades.
+Igualmente, es recomendable la reorientación de la misma hacia la zona de
+arbolado próxima al establecimiento, no pudiendo estar dirigida a la carretera
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/4
+
+adyacente, dado que como se ha expuesto lo que se pretende mostrar es la riqueza
+del paisaje y entorno natural, no puede con la misma controlar la carretera pública por
+los motivos expuestos, siendo un espacio público alejado de la finalidad pretendida.
+III
+De acuerdo con lo expuesto, no se puede acreditar que la cámara afecte a la intimidad
+de terceros, de manera que al no existir tratamiento de datos de carácter persona
+asociado a persona física, procede ordenar el ARCHIVO del presente procedimiento.
+Lo anterior sin perjuicio de que en un cambio de las circunstancias actuales
+(vgr. construcciones próximas) pueda dar lugar a la reconsideración del criterio
+expuesto, ordenado la retirada de la cámara.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+PRIMERO: PROCEDER AL ARCHIVO de las presentes actuaciones.
+SEGUNDO: NOTIFICAR la presente resolución al reclamante -Don A.A.A. —y a la
+parte denunciada-- HOTEL JUAN DE LA COSA---.
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa según lo
+preceptuado por el art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, y de conformidad con lo
+establecido en los arts. 112 y 123 de la citada Ley 39/2015, de 1 de octubre, los
+interesados podrán interponer, potestativamente, recurso de reposición ante la
+Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente
+recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

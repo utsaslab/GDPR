@@ -1,0 +1,262 @@
+1/6
+
+Expediente Nº: E/07303/2019
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos ante
+la entidad AYUNTAMIENTO DE HERRERA DE PISUERGA en virtud de denuncia
+presentada por D.G. GUARDIA CIVIL-- PUESTO DE HERRERA DE PISUERGA-- y
+teniendo como base los siguientes
+HECHOS
+PRIMERO: Con fecha 10/09/18 tuvo entrada en esta Agencia escrito le entidad D.G.
+GUARDIA CIVIL--PUESTO DE HERRERA DE PISUERGA-- (*en lo sucesivo el/la
+denunciante) frente a la entidad AYUNTAMIENTO DE HERRERA DE PISUERGA en
+lo sucesivo (el/la denunciado/a) en el que denuncia de manera sucinta lo siguiente.
+“que realizando patrulla en el Paraje denominado Presa del Rey ..se observa
+que hay un edificio destinado para la venta de tickets y/o interpretación del Canal de
+Castilla, hay una cámara de video-vigilancia la cual enfoca hacia un patio interior y
+parte del exterior no habiendo ningún cartel informativo al respecto”—folio nº 1--.
+“seguidamente en un parque entre el edificio y el barco anteriormente
+mencionado, se observa una pequeña torreta con otra cámara de video-vigilancia
+enfocando al mismo y como en el caso anterior no se observa cartel informativo (…)
+“El Museo de interpretación del Cangrejo de Rio también posee otra cámara
+similar a las anteriores enfocando un camino adyacente a dicho edificio por la cual
+transitan personas y solo posee un cartel informativo en el interior del mismo y
+ninguno en las dos entradas que posee (…)—folio nº 1--.
+SEGUNDO: En fecha 16/11/18 se recibe en esta Agencia escrito de alegaciones de la
+entidad denunciada—Ayuntamiento Herrera del Pisuerga—con motivo de los “hechos”
+tratados manifestando al respecto lo siguiente:
+En lo relativo a la cámara en el edificio destinado a la venta de tickets y/o
+interpretación del Canal de Castilla, se asevera lo siguiente:
+“Con relación a dicha afirmación, informamos que dicha cámara no es de
+vigilancia, dado que no ha estado operativa (ni en aquella fecha ni actualmente) por no
+encontrarse conectada a la corriente eléctrica ni a batería alguna. Se adjunta
+fotografía 1”.
+También los citados agentes informan que en el Parque de la localidad, hay
+otra cámara, la cual enfoca un recinto con aves, además del propio parque, pero que
+esta sí cuenta con un cartel informativo.
+Con relación a este punto, no hay nada que objetar, y se adjunta fotografía con la
+ubicación del cartel instalado
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+2/6
+
+“Por lo que se refiere a la finalidad de las cámaras instaladas, dichas cámaras
+tiene la finalidad de vigilar los bienes y los recintos de propiedad municipal para evitar
+robos y actos vandálicos, como los sufridos en anteriores ocasiones, en los que no se
+ha podido identificar para denunciar a los infractores”
+“En cuanto al plazo de conservación de las imágenes, junto con el detalle de
+las medidas adoptadas para garantizar que sólo el personal autorizado accede a las
+grabaciones, informamos que las imágenes son grabadas en un disco duro al que solo
+tiene acceso una empleada municipal (Dña. A.A.A.), dado que el acceso se efectúa
+mediante contraseña que solamente ella conoce, que ella visualiza solamente si es
+detectado algún robo o incidente en los bienes (…)”.
+“En relación al alcance de las cámaras, se acreditan mediante fotografías
+adjuntas, las imágenes captadas por las mismas tal y como se visualizan”.
+FUNDAMENTOS DE DERECHO
+I
+En virtud de los poderes que el artículo 58.2 del RGPD reconoce a cada
+autoridad de control, y según lo establecido en el art. 47 de la Ley Orgánica 3/2018, de
+5 de diciembre, de Protección de Datos Personales y garantía de los derechos
+digitales (en lo sucesivo LOPDGDD), la Directora de la Agencia Española de
+Protección de Datos es competente para iniciar y para resolver este procedimiento.
+II
+En fecha 10/09/18 se recibe en esta Agencia reclamación de la Dirección General
+Guardia Civil (Comandancia de Palencia) por medio de la cual se traslada como hecho
+principal:
+“que realizando patrulla en el Paraje denominado Presa del Rey ..se observa
+que hay un edificio destinado para la venta de tickets y/o interpretación del Canal de
+Castilla, hay una cámara de video-vigilancia la cual enfoca hacia un patio interior y
+parte del exterior no habiendo ningún cartel informativo al respecto”—folio nº 1--.
+“El Museo de interpretación del Cangrejo de Rio también posee otra cámara
+similar a las anteriores enfocando un camino adyacente a dicho edificio por la cual
+transitan personas y solo posee un cartel informativo en el interior del mismo y
+ninguno en las dos entradas que posee (…)—folio nº 1--.
+Los “hechos” por tanto se concretan en la presencia de varios dispositivos de
+video-vigilancia, sin que conste el preceptivo cartel en zona visible informando que se
+trata de una zona video-vigilada.
+En fecha 16/11/18 se recibe en esta Agencia contestación de la entidad
+denunciada—Ayuntamiento Herrera del Pisuerga--, manifestando en relación a las
+cámaras denunciadas lo siguiente:
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+3/6
+
+En lo relativo a la cámara en el edificio destinado a la venta de tickets y/o
+interpretación del Canal de Castilla, se asevera lo siguiente:
+“Con relación a dicha afirmación, informamos que dicha cámara no es de
+vigilancia, dado que no ha estado operativa (ni en aquella fecha ni actualmente) por no
+encontrarse conectada a la corriente eléctrica ni a batería alguna. Se adjunta
+fotografía 1”.
+Por tanto, se trata de una cámara simulada instalada por motivos disuasorios
+frente a posibles actos de hurto en el edificio, no existiendo problema alguno para la
+instalación de este tipo de dispositivos simulados, al no “tratar datos de carácter
+personal”.
+En segundo lugar, en relación a la cámara “instalada en la torreta”, el
+Ayuntamiento señala que se trata de una cámara operativa, si bien su enfoque se
+limita al barco, en aras a de evitar actos vandálicos en el mismo, considerándose una
+medida proporcionada a la finalidad perseguida.
+“Tras la instalación de la cámara se colocó un cartel informativo visible clavado
+en un árbol de dicha zona (no adjuntamos fotografía en prueba de lo expuesto, dado
+que cuando se colocó no pensamos que podría ser sustraído como ocurrió)”.
+Se ha procedido a la colocación de cartel (es) informativo adaptado a la nueva
+normativa en vigor, informando del responsable ante el que poder ejercitar en sus
+casos los derechos reconocidos en la materia.
+En tercer lugar, los Agentes de la Guardia Civil informan que hay otra cámara,
+la cual enfoca hacia un “recinto de aves” además del propio parque.
+El Ayuntamiento reconoce la instalación de la cámara, manifestando que la
+misma dispone de cartel informativo, obedeciendo la instalación de la misma a
+razones de seguridad del recinto dónde se encuentra instalada.
+Por otra parte, se informa por los Agentes de la Guardia Civil, que en el Museo del
+Cangrejo hay otra cámara similar enfocando un camino adyacente “por el que circulan
+personas”, que solo posee un cartel informativo en el interior del mismo.
+Por parte del Ayuntamiento se ha procedido ha subsanar la “irregularidad” colocando
+diversos carteles informativos (se adjunta prueba documental fotográfica Anexo I).
+Por último, se hace referencia en el Acta-denuncia remitida a este organismo de la
+presencia de cámaras en la zona de piscina y zonas verdes.
+Sobre estos últimos dispositivos manifiesta la denunciada “que durante el periodo
+comprendido entre junio y septiembre, meses en los que la piscina permanece abierta
+al público, la única puerta de acceso al recinto objeto de dicha cámara, se realiza por
+las puertas dónde existe el cartel de zona video-vigilada”.
+Existe cartel informativo según fotografía (s) adjunta en la zona de acceso a las
+misma.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+4/6
+
+III
+Una vez analizadas las alegaciones de las partes, cabe señalar que el motivo principal
+de la denuncia, son ciertas “irregularidades” en el sistema de video-vigilancia instalado
+en la zona conocida como Presa del Rey (Herrera del Pisuerga).
+Los “hechos” anteriormente descritos podrán suponer una afectación al
+contenido del art. 13 RGPD, al disponer de un sistema de video-vigilancia pero que no
+dispone del preceptivo cartel (es) informativo informando a los afectados de sus
+derechos en el marco del RGPD.
+La instalación del sistema obedece a una finalidad legítima como es la protección de
+las instalaciones frentes a actos vandálicos e hipotéticos robos con fuerza en las
+cosas.
+Conviene recordar que todo aquel que dispone de este tipo de sistemas de
+video-vigilancia es responsable de acreditar que el mismo se ajusta a la legalidad
+vigente.
+Es necesario disponer de cartel (es) informativo en zona visible, con carácter general
+en la puerta principal de acceso al mismo, informando que se trata de una zona videovigilada, debiendo estar orientadas la cámara (s) hacia las principales instalaciones a
+proteger.
+El art. 22 apartado 4 de la LOPDGDD (LO 3/2018, 5 diciembre) dispone lo
+siguiente:
+“El deber de información previsto en el artículo 12 del Reglamento (UE)
+2016/679 se entenderá cumplido mediante la colocación de un dispositivo informativo
+en lugar suficientemente visible identificando, al menos, la existencia del tratamiento,
+la identidad del responsable y la posibilidad de ejercitar los derechos previstos en los
+artículos 15 a 22 del Reglamento (UE) 2016/679. También podrá incluirse en el
+dispositivo informativo un código de conexión o dirección de internet a esta
+información.
+En todo caso, el responsable del tratamiento deberá mantener a disposición de
+los afectados la información a la que se refiere el citado reglamento.(*el subrayado
+pertenece a esta Agencia).
+De acuerdo con las alegaciones efectuadas, ninguna objeción se puede esgrimir frente
+a la instalación de cámara (s) simuladas, siempre y cuando se pueda demostrar el
+carácter falso de las mismas (vgr. tickets de compra, Informe técnico, etc).
+Con motivo de la tramitación de la denuncia presentada, la entidad denunciada ha
+procedido a renovar la cartelería y a reponer aquellos carteles que habían
+desaparecido por el paso del tiempo o por sustracción de los mismos, procediendo a
+colocar nuevos cartel (es) ajustados a la normativa en vigor.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+5/6
+
+También es recomendable que se disponga de formulario (s) en los principales puntos
+de información, a disposición de cualquier afectado que pudiera requerirlo, debiendo
+adaptarlos a la normativa en vigor.
+En relación a la cámara en la zona de piscina, las imágenes aportadas permiten
+constatar que las mismas guardan una distancia prudencial respecto a la zona de
+baño, permitiéndose que las mismas estén operativas en horario nocturno y
+manteniendo el actual ángulo de orientación y distancia, de manera que se preserve la
+zona de baño de los usuarios de la misma.
+Las cámaras instaladas en los distintos recintos que se quiere preservar (como es la
+Casa de Cangrejo) deben disponer del cartel informativo en la puerta de acceso, por la
+que vayan a acceder los visitantes del mismo, debiendo estar orientadas el resto hacia
+los puntos que se quiere proteger.
+Igualmente, recordar que el caso que se quiere proteger alguna especie de
+interés botánico que esté en la zona de parque, se puede controlar con cámaras
+limitadas y proporcionadas al espacio a proteger, junto con el cartel informativo a los
+visitantes del recinto.
+En caso de existir zonas de ocio y/o descanso de los mismos, en principio
+tienen que estar libres de cámaras, al ser zonas de esparcimiento personal para el
+descanso y meditación de los visitantes de la zona.
+Por último, en caso de captar cualquier hecho vandálico o de carácter delictivo, las
+imágenes deben ser puestas a disposición de las Fuerzas y Cuerpos de Seguridad del
+Estado o autoridad judicial más próxima al lugar de los hechos, procediendo al
+bloqueo de las misma (vgr. mediante copia en disco independiente).
+IV
+De acuerdo con lo expuesto, cabe concluir que con motivo de la tramitación de la
+presente Denuncia se ha procedido a corregir las “irregularidades” del sistema de
+cámaras denunciado, realizando esta Agencia una serie de recomendaciones que
+deberán ser tenidas en cuenta por la entidad denunciada en caso de no haber
+reparado en las mismas, de manera que habiéndose subsanado el tema principal que
+era la falta de información (ausencia de carteles), procede ordenar el Archivo del
+presente procedimiento.
+Por lo tanto, de acuerdo con lo señalado, por la Directora de la Agencia
+Española de Protección de Datos,
+SE ACUERDA:
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+
+
+PROCEDER AL ARCHIVO de las presentes actuaciones.
+
+
+
+NOTIFICAR la presente Resolución a AYUNTAMIENTO DE HERRERA
+DE PISUERGA e INFORMAR del resultado de las actuaciones a D.G.
+GUARDIA CIVIL--PUESTO DE HERRERA DE PISUERGA--.
+www.agpd.es
+sedeagpd.gob.es
+
+6/6
+
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa (artículo 48.2 de la
+LOPD), y de conformidad con lo establecido en los artículos 112 y 123 de la Ley
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, los interesados podrán interponer, potestativamente,
+recurso de reposición ante la Directora de la Agencia Española de Protección de Datos
+en el plazo de un mes a contar desde el día siguiente a la notificación de esta
+resolución o directamente recurso contencioso administrativo ante la Sala de lo
+Contencioso-administrativo de la Audiencia Nacional, con arreglo a lo dispuesto en el
+artículo 25 y en el apartado 5 de la disposición adicional cuarta de la Ley 29/1998, de
+13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa, en el plazo de
+dos meses a contar desde el día siguiente a la notificación de este acto, según lo
+previsto en el artículo 46.1 del referido texto legal.
+
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+

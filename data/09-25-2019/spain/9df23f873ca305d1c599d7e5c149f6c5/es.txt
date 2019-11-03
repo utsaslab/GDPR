@@ -1,0 +1,521 @@
+1/10
+
+Procedimiento nº.: PS/00382/2018
+180-100519
+
+Recurso de reposición Nº RR/00494/2019
+
+Examinado el recurso de reposición interpuesto por Don A.A.A. contra la
+resolución dictada por la Directora de la Agencia Española de Protección de Datos en
+el procedimiento sancionador PS/00382/2018, y en base a los siguientes
+HECHOS
+PRIMERO: Con fecha 9 de agosto de 2018, tuvo entrada en esta Agencia reclamación
+formulada por Don A.A.A., (en lo sucesivo, el recurrente), contra el Ayuntamiento de
+Paracuellos del Jarama, (en adelante, el reclamado), con motivo de la instalación de
+una cámara de videovigilancia del tráfico a la altura del nº ***NÚMERO.1 de la calle
+***CALLE.1 de dicho municipio dotada, según se desprende de la información
+facilitada por el mencionado Ayuntamiento en la red social Twitter, de un sistema de
+reconocimiento de matrículas.
+La instalación y uso de dicho dispositivo de captación y reproducción de
+imágenes se producía, según el recurrente, entonces identificado como reclamante,
+sin informar a los interesados sobre su instalación mediante la colocación de un cartel
+informativo avisando de que la zona está sujeta a videovigilancia.
+SEGUNDO: Con fecha 30 de mayo de 2019, se dictó resolución por la Directora de la
+Agencia Española de Protección de Datos en el procedimiento sancionador
+PS/00382/2018, en virtud de la cual se acordó archivar las actuaciones practicadas en
+el procedimiento sancionador de apercibimiento PS/00382/2018 instruido al
+Ayuntamiento de Paracuellos del Jarama por supuesta infracción del artículo 13 del
+Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de
+2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento
+de datos personales y a la libre circulación de estos datos (Reglamento General de
+Protección de Datos, (en adelante RGPD), tipificada en el artículo 83.5.b) del RGPD.
+Dicha resolución, fue dictada previa la tramitación del correspondiente
+procedimiento sancionador, de conformidad con lo dispuesto en la LOPDPGDD, y
+supletoriamente en la LPACAP, en materia de tramitación de procedimientos
+sancionadores.
+TERCERO: Como hechos probados del citado
+PS/00382/2018, quedó constancia de los siguientes:
+
+procedimiento
+
+sancionador,
+
+<<HECHOS PROBADOS
+Primero: Con fecha 9 de agosto de 2018 se registra de entrada en la AEPD
+reclamación por la instalación por parte del reclamado de una cámara dotada con
+sistema de reconocimiento de matrículas a la altura de la c/ ***CALLE.1,
+***NÚMERO.1 del Ayuntamiento reclamado.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/10
+
+Segundo: Según el reclamado, en julio de 2018 se instaló un dispositivo en pruebas
+llamado ***PRODUCTO.1 que permitía registrar, mediante su conteo, el flujo de
+vehículos que circulaban en el lugar reseñado el hecho probado anterior, travesía de
+la Carretera autonómica X-XXX, con la finalidad de documentar ante las autoridades
+autonómicas la necesidad del desdoblamiento de esa vía a su paso por la localidad.
+Tercero: Con arreglo a la información obtenida con fecha 7 de junio de 2018 de un
+responsable técnico de la empresa LECTOR VISIÓN, S.L., el producto
+***PRODUCTO.1 funcionaba mediante el dispositivo en pruebas denominado
+“***DISPOSITIVO.1”, señalando también que la aplicación utilizada tenía como
+finalidad realizar un conteo y clasificación de vehículos y que se estaba probando
+mediante un muestreo de datos y técnicas de inteligencia artificial.
+Cuarto: En la información que aparecía a fecha 7 de junio de 2018 en la página web
+***URL.1 se señalaba que dicho dispositivo era un equipo de lectura automática de
+matrículas diseñado para aplicaciones de control y gestión de tráfico en cualquier tipo
+de vía abierta al tráfico, tratándose de un sistema “Todo en Uno” que integra en un
+mismo equipo cámara, iluminación, unidad de proceso y toda la electrónica de control.
+Quinto: Consta en el procedimiento informe emitido con fecha 22 de noviembre de
+2018 por la mercantil LECTOR VISION, S.L. indicando que se trataba de un
+dispositivo en pruebas, cuya ubicación fue cedida por el reclamado “para poder
+realizar los últimos ajustes con tráfico real de nuestro nuevo producto
+“***PRODUCTO.1”, el cual forma parte de un proyecto “cuyo objetivo es el desarrollo
+de complejos algoritmos basados en visión artificial con objeto de llevar a cabo de
+manera eficiente el conteo y clasificación de vehículos por tipos (motos, coches y
+camiones/autobuses) en condiciones climatológicas adversas. (…). Los dispositivos
+los únicos datos que guardan son los datos vehiculares de conteo y clasificación, no
+guardando imágenes, ya que el análisis de las mismas las realiza el equipo
+internamente.
+Por cada tránsito el dispositivo genera un archivo.xml, con los siguientes datos (…) “
+El informe incluye captura de un archivo.xml generado a partir de una serie de datos
+correspondientes al tránsito de un vehículo, tales como: año, mes, día, hora, minutos y
+segundos del paso del vehículo, tamaño, tipo vehículo, coordenadas. Este registro,
+generado el día 23 de octubre de 2018, contiene también una referencia o
+identificador del archivo, pero no incluye ninguna información relativa a la matrícula del
+vehículo.
+Sexto: El reclamado no informó por ningún medio sobre la instalación de la
+mencionada cámara.
+Séptimo: Con fecha 11 de febrero de 2019, el reclamado retiró la mencionada cámara,
+conforme consta en el certificado de misma fecha emitido por la Secretaria General
+del Ayuntamiento (el reclamado).>>
+CUARTO: Con fecha 5 de julio de 2019 el recurrente ha presentado, en esta Agencia
+Española de Protección de Datos, recurso de reposición contra dicha resolución que
+sustenta en los siguientes argumentos:
+
+El Ayuntamiento de Paracuellos de Jarama no cumple adecuadamente el
+RGPD, “ya que no identifica de manera exhaustiva la descripción que se requiere para
+que cumpla su finalidad de informar”.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/10
+
+Aporta tres fotografías de carteles de “Tráfico Vigilado en Toda la Ciudad”, uno
+de los cuales no resulta visible, a fin de justificar que no identifican al responsable del
+tratamiento de los ficheros, no indican los datos necesarios para que el usuario sepa
+cómo proceder para ejercer sus derechos, no se idéntica el canal a usar ni se informan
+posibles cesiones de datos a terceros.
+Indica que con fecha 21 de mayo de 2019, se ha solicitado al citado
+Ayuntamiento, vía registro, la ubicación exacta de los dispositivos instalados en todo el
+Municipio de Paracuellos de Jarama, no habiendo obtenido respuesta al respecto.
+
+FUNDAMENTOS DE DERECHO
+I
+Es competente para resolver el presente recurso la Directora de la Agencia
+Española de Protección de Datos, de conformidad con lo dispuesto en el artículo 48.1
+de la LOPDPGDD.
+II
+La resolución de archivo ahora recurrida se sustentaba, básicamente, en los
+argumentos reseñados en los Fundamentos de Derecho III y IV al VIII de la misma,
+cuyo tenor literal es el siguiente:
+<<FUNDAMENTOS DE DERECHO
+III
+En lo que se refiere a las cámaras con fines de control de tráfico, la Disposición
+Adicional Octava de la Ley Orgánica 4/1997, de 4 de agosto, por la que se regula la
+utilización de videocámaras por las Fuerzas y Cuerpos de seguridad en lugares
+públicos, constituye la norma con rango legal habilitadora del tratamiento de datos
+resultante de la instalación de cámaras con fines de control de tráfico al disponer que
+“La instalación y uso de videocámaras y de cualquier otro medio de captación y
+reproducción de imágenes para el control, regulación, vigilancia y disciplina del tráfico
+se efectuará por la autoridad encargada de la regulación del tráfico a los fines
+previstos en el texto articulado de la Ley sobre Tráfico, Circulación de Vehículos a
+Motor y Seguridad Vial, aprobado por Real Decreto legislativo 339/1990, de 2 de
+marzo, y demás normativa específica en la materia, y con sujeción a lo dispuesto en
+las Leyes Orgánicas 5/1992, de 29 de octubre, de Regulación del Tratamiento
+Automatizado de los Datos de Carácter Personal, y 1/1982, de 5 de mayo, de
+Protección Civil del derecho al Honor, a la Intimidad Personal y Familiar y a la Propia
+Imagen, en el marco de los principios de utilización de las mismas previstos en esta
+Ley.” (El subrayado es de la AEPD)
+El uso e instalación de este tipo de cámaras se desarrolla en el Real Decreto
+596/1999, de 16 de abril, por el que se aprueba el Reglamento de desarrollo y
+ejecución de la Ley Orgánica 4/1997, de 4 de agosto, que refiere en su disposición
+adicional única. “Régimen aplicable a las videocámaras para la vigilancia, control y
+disciplina del tráfico”, lo siguiente:
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+4/10
+
+“1. La instalación y uso de videocámaras y de cualquier otro medio de
+captación y reproducción de imágenes para el control, regulación, vigilancia y
+disciplina del tráfico en las vías públicas, se realizará con sujeción a lo dispuesto en la
+disposición adicional octava de la Ley Orgánica 4/1997 y en la presente disposición.
+2. Corresponderá a las Administraciones públicas con competencia para la
+regulación del tráfico, autorizar la instalación y el uso de los dispositivos aludidos en el
+apartado anterior.
+3. La resolución que ordene la instalación y uso de los dispositivos fijos de
+captación y reproducción, identificará genéricamente las vías públicas o los tramos de
+aquellas cuya imagen sea susceptible de ser captada, las medidas tendentes a
+garantizar la preservación de la disponibilidad, confidencialidad e integridad de las
+grabaciones o registros obtenidos, así como el órgano encargado de su custodia y de
+la resolución de las solicitudes de acceso y cancelación.
+La vigencia de la resolución será indefinida en tanto no varíen las
+circunstancias que la motivaron.
+En el ámbito de la Administración General del Estado la facultad resolutoria
+recaerá en el Director General de Tráfico.
+4. La utilización de medios móviles de captación y reproducción de imágenes,
+que no requerirá la resolución a la que se refiere el apartado anterior, se adecuará a
+los principios de utilización y conservación enunciados en el mismo.
+5. La custodia y conservación de las grabaciones y la resolución de las
+solicitudes de acceso y cancelación a las mismas corresponderá a los órganos que
+determinen las Administraciones públicas competentes. En el caso de la
+Administración General del Estado, corresponderá al responsable de los servicios
+provinciales del Organismo Autónomo Jefatura Central de Tráfico.
+6. Cuando los medios de captación de imágenes y sonidos a los que se
+refiere esta disposición resulten complementarios de otros instrumentos destinados a
+medir con precisión, a los efectos de la disciplina del tráfico, magnitudes tales como la
+velocidad de circulación de los vehículos a motor, dichos aparatos deberán cumplir los
+requisitos que, en su caso, prevean las normas metrológicas correspondientes.
+7. La utilización de las videocámaras contempladas en esta disposición por
+las Fuerzas y Cuerpos de Seguridad para fines distintos de los previstos en la misma
+se regirá por lo dispuesto en la Ley Orgánica 4/1997 y en el presente Reglamento.
+En el caso de que dicha utilización se realice por las Unidades de Policía
+Judicial en sentido estricto, se estará a lo dispuesto en la Ley de Enjuiciamiento
+Criminal y en su normativa específica.”
+En consecuencia, se rigen por dichas normas cuestiones como las relativas al
+principio de proporcionalidad, contenido de la resolución que ordene la instalación y
+uso de las videocámaras y órgano competente para dictarla.
+Asimismo, al tratamiento de imágenes derivado de la instalación y uso de
+videocámaras con fines de control de tráfico le resulta aplicable el conjunto de lo
+dispuesto en el RGPD, debiendo entenderse la mención contenida en la Disposición
+Adicional Octava de la mencionada Ley Orgánica 4/1997 a la Ley Orgánica 5/1992, de
+29 de octubre, de Regulación del Tratamiento Automatizado de los Datos de Carácter
+Personal como referida al RGPD.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+5/10
+
+Sentado lo anterior, procede dilucidar si el reclamado ha dado cumplimiento al
+derecho de información de los interesados acerca de la instalación de la videocámara
+situada con fines de control de tráfico en un semáforo de titularidad municipal de la
+Carretera X-XXX, desde la que, según el reclamante, se captaban las matrículas de
+los vehículos que transitaban por esa vía.
+IV
+(…)
+V
+De conformidad con las definiciones recogidas en los reseñados apartados 1 y
+2 del artículo 4 del RGPD, la recogida y almacenamiento de las imágenes obtenidas
+por las cámaras de videovigilancia instaladas con fines de control de tráfico en las
+que se hayan captado las matrículas de los vehículos que circulan por las zonas
+videovigiladas constituye un tratamiento de datos de carácter personal, toda vez que
+dichas matrículas proporcionan al responsable del tratamiento una información que
+permite identificar, directa o indirectamente, a las personas físicas titulares de los
+vehículos que circulan por la zona videovigilada o, en su caso, a los conductores de
+los mismos.
+Entre las obligaciones derivadas del RGPD que debe cumplir el responsable
+del reseñado tratamiento con fines control de tráfico se encuentra el cumplimiento el
+derecho de información de acuerdo con lo previsto en el artículo 13 del citado
+Reglamento.
+El artículo 12 del RGPD, referido a la “Transparencia de la información,
+comunicación y modalidades de ejercicio de los derechos del interesado”, establece
+en su apartado 1 lo siguiente:
+“1. El responsable del tratamiento tomará las medidas oportunas para facilitar
+al interesado toda la información indicada en los artículos 13 y 14, así como cualquier
+comunicación con arreglo a los artículos 15 a 22 y 34 relativas al tratamiento, en forma
+concisa, transparente, inteligible y de fácil acceso, con una lenguaje claro y sencillo,
+en particular cualquier información dirigida específicamente a un niño. La información
+será facilitada por escrito o por otros medios, inclusive, si procede, por medios
+electrónicos Cuando lo solicite el interesado, la información podrá facilitarse
+verbalmente siempre que se demuestre la identidad del interesado por otros medios.”
+El artículo 13 del RGPD, referido a la “Información que deberá facilitarse
+cuando los datos personales se obtengan del interesado” dispone lo siguiente:
+”1. Cuando se obtengan de un interesado datos personales relativos a él, el
+responsable del tratamiento, en el momento en que estos se obtengan, le facilitará
+toda la información indicada a continuación:
+a) la identidad y los datos de contacto del responsable y, en su caso, de su
+representante;
+b) los datos de contacto del delegado de protección de datos, en su caso;
+c) los fines del tratamiento a que se destinan los datos personales y la base
+jurídica del tratamiento;
+d) cuando el tratamiento se base en el artículo 6, apartado 1, letra f), los
+intereses legítimos del responsable o de un tercero;
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+6/10
+
+e) los destinatarios o las categorías de destinatarios de los datos personales,
+en su caso;
+f) en su caso, la intención del responsable de transferir datos personales a un
+tercer país u organización internacional y la existencia o ausencia de una decisión de
+adecuación de la Comisión, o, en el caso de las transferencias indicadas en los
+artículos 46 o 47 o el artículo 49, apartado 1, párrafo segundo, referencia a las
+garantías adecuadas o apropiadas y a los medios para obtener una copia de estas o
+al hecho de que se hayan prestado.
+2. Además de la información mencionada en el apartado 1, el responsable del
+tratamiento facilitará al interesado, en el momento en que se obtengan los datos
+personales, la siguiente información necesaria para garantizar un tratamiento de datos
+leal y transparente:
+a) el plazo durante el cual se conservarán los datos personales o, cuando no
+sea posible, los criterios utilizados para determinar este plazo;
+b) la existencia del derecho a solicitar al responsable del tratamiento el acceso
+a los datos personales relativos al interesado, y su rectificación o supresión, o la
+limitación de su tratamiento, o a oponerse al tratamiento, así como el derecho a la
+portabilidad de los datos;
+c) cuando el tratamiento esté basado en el artículo 6, apartado 1, letra a), o el
+artículo 9, apartado 2, letra a), la existencia del derecho a retirar el consentimiento en
+cualquier momento, sin que ello afecte a la licitud del tratamiento basado en el
+consentimiento previo a su retirada;
+d) el derecho a presentar una reclamación ante una autoridad de control;
+e) si la comunicación de datos personales es un requisito legal o contractual, o
+un requisito necesario para suscribir un contrato, y si el interesado está obligado a
+facilitar los datos personales y está informado de las posibles consecuencias de que
+no facilitar tales datos;
+f) la existencia de decisiones automatizas, incluida la elaboración de perfiles, a
+que se refiere el artículo 22, apartados 1 y 4, y, al menos en tales casos, información
+significativa sobre la lógica aplicada, así como la importancia y las consecuencias
+previstas de dicho tratamiento para el interesado.
+3.Cuando el responsable del tratamiento proyecte el tratamiento ulterior de
+datos personales para un fin que no sea aquel para el que se recogieron,
+proporcionará al interesado, con anterioridad a dicho tratamiento ulterior, información
+sobre ese otro fin y cualquier información adicional pertinente a tenor del apartado 2.
+4.Las disposiciones de los apartados 1, 2 y 3 no serán aplicables cuando y en
+la medida en que el interesado ya disponga de la información”.
+En lo que se refiere al presente procedimiento, procede dilucidar si los hechos
+que han resultado probados en el procedimiento pudieran constituir infracción a lo
+dispuesto en el precitado artículo 13 del RGPD por parte del reclamado, al no haber
+informado a los interesados afectados por el supuesto tratamiento de datos de
+carácter personal (matrículas) mediante la señalización con carteles informativos de
+zona sujeta a videovigilancia con fines de control de tráfico.
+Dadas las especialidades propias del tráfico y circulación de vehículos el nivel
+de exigencia del principio de información en la recogida de los datos de carácter
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+7/10
+
+personal también puede considerarse cumplido utilizando otras fórmulas o
+instrumentos informativos, entre las que se contempla la posibilidad de que la
+información sobre la existencia de las cámaras y su ubicación aparezca en la página
+web del responsable del tratamiento en un lugar de fácil acceso para los interesados.
+VI
+El artículo 83 del RGPD, bajo la rúbrica “Condiciones generales para la
+imposición de multas administrativas”, en sus apartados 2 y 5.b) señala que:
+“2. Las multas administrativas se impondrán, en función de las circunstancias
+de cada caso individual, a título adicional o sustitutivo de las medidas contempladas
+en el artículo 58, apartado2, letras a) a h) y j). (…) “
+“5. Las infracciones de las disposiciones siguientes se sancionarán, de acuerdo
+con el apartado 2, con multas administrativas de 20 000 000 EUR como máximo o,
+tratándose de una empresa, de una cuantía equivalente al 4 % como máximo del
+volumen de negocio total anual global del ejercicio financiero anterior, optándose por
+la de mayor cuantía: (…)
+b) Los derechos de los interesados a tenor de los artículos 12 a 22;”.
+Por su parte, el artículo 71 de la LOPDGDD establece que “Constituyen
+infracciones los actos y conductas a las que se refieren los apartados 4, 5 y 6 del
+artículo 83 del Reglamento (UE) 2016/679, así como las que resulten contrarias a la
+presente ley orgánica.”, estableciéndose en el artículo 72.1.h) de dicha Ley que:
+“En función de lo que establece el artículo 83.5 del Reglamento (UE) 2016/679
+se consideran muy graves y prescribirán a los tres años las infracciones que supongan
+una vulneración sustancial de los artículos mencionados en aquel y, en particular, las
+siguientes:
+
+h)
+La omisión del deber de informar al afectado acerca del tratamiento de
+sus datos personales conforme a lo dispuesto en los artículos 13 y 14 del Reglamento
+(UE) 2016/679 y 12 de esta ley orgánica”
+VII
+En el supuesto que nos ocupa, se inició procedimiento sancionador de
+apercibimiento al reclamado por instalar una cámara con fines de control de tráfico a
+la altura de la vía de ese Ayuntamiento que se cita en Hecho Probado Primero sin
+colocar un distintivo informativo de zona sujeta a videovigilancia del tráfico, toda vez
+que de la documentación disponible en ese momento procedimental se desprendía
+que la citada cámara, al parecer, recogía imágenes de las matrículas de los
+vehículos que circulaban por la zona controlada por la cámara, conducta que podía
+constituir infracción del artículo 13 del RGPD, tipificada en el artículo 83.5.b) del
+RGPD.
+Sin embargo, el reclamado en su escrito de alegaciones cuestiona que se haya
+producido un tratamiento de datos personales a través de la cámara objeto de estudio
+que conllevara la obligación de señalizar la zona videovigilada mediante carteles
+informativos. Afirma que el funcionamiento real del dispositivo técnico y la finalidad de
+la captación de imágenes “era sólo registrar mediante su conteo el flujo de tráfico para
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+8/10
+
+acreditar ante las autoridades autonómicas la necesidad del desdoblamiento de la
+carretera autonómica X-XXX a su paso” por la localidad.
+En apoyo de sus manifestaciones aporta un informe técnico emitido con fecha
+22 de noviembre de 2018 por la mercantil LECTOR VISION, S.L., en el que se indica
+que el dispositivo en pruebas “***DISPOSITIVO.1” se instaló para poder realizar los
+últimos ajustes con tráfico real de su nuevo producto “***PRODUCTO.1”, cuyo
+objetivo ”es el desarrollo de complejos algoritmos basados en visión artificial con
+objeto de llevar a cabo de manera eficiente el conteo y clasificación de vehículos por
+tipos (motos, coches y camiones/autobuses) en condiciones climatológicas adversas”.
+En este informe se señala que por cada tránsito se genera un “archivo.xml” a
+partir del análisis efectuado con datos vehiculares de conteo y clasificación
+procedentes de las imágenes captadas, las cuales se eliminan 24 horas después de
+su recogida. El documento incorpora impresión de captura de un “archivo.xml”
+generado el día 23 de octubre de 2018 a raíz del análisis realizado con los datos
+recabados a partir del tránsito de un vehículo que fue captado a las 12 horas 24
+minutos y 36 segundo del citado día, y entre los cuales no se encuentra la matrícula
+del vehículo, (Hecho Probado Quinto de esta resolución).
+Partiendo de la finalidad para la que se utilizó la citada cámara hasta el 11 de
+febrero de 2019, fecha en que se retiró,
+y sin perjuicio de las diversas
+funcionalidades que el dispositivo en pruebas “***DISPOSITIVO.1” pueda desarrollar
+en relación con el control y gestión del tráfico, conviene señalar que de las
+actuaciones practicadas en el presente procedimiento sancionador no se han
+obtenido elementos de prueba que permitan acreditar, fehacientemente, que la
+cámara integrada en el dispositivo instalado en el lugar anteriormente reseñado haya
+captado imágenes conteniendo información relativa a las matrículas de los vehículos
+que circulaban por dicha vía, información, que, además, no resultaba necesaria
+obtener para la finalidad de conteo y clasificación pretendida por el reclamado.
+VIII
+Lo anteriormente expuesto, ha de conectarse con la vigencia en nuestro
+Derecho Administrativo sancionador del principio de presunción de inocencia
+reconocido en el artículo 24.2 de la Constitución Española, de modo que el ejercicio
+de la potestad sancionadora del Estado, en sus diversas manifestaciones, está
+condicionado al juego de la prueba y a un procedimiento contradictorio en el que
+puedan defenderse las propias posiciones. El principio de presunción de inocencia
+impide imputar una infracción administrativa cuando no se haya obtenido y constatado
+una prueba de cargo que acredite los hechos que motivan la imputación o la
+intervención en los mismos del presunto infractor.
+El Tribunal Constitucional (SSTC 131/2003 y 242/2005, por todas) se ha
+pronunciado en ese sentido al indicar que una de las exigencias inherentes al derecho
+a la presunción de inocencia es que la sanción esté fundada en actos o medios
+probatorios de cargo o incriminadores de la conducta imputada y que recae sobre la
+Administración pública actuante la carga probatoria de la comisión del ilícito
+administrativo y de la participación en él del denunciado.
+Por su parte, el artículo 28.1 de la Ley 40/2015, de 1 de octubre, de Régimen
+Jurídico del Sector Público establece como uno de los principios de la potestad
+sancionadora el de la “Responsabilidad”, determinando al respecto que:
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+9/10
+
+“Sólo podrán ser sancionadas por hechos constitutivos de infracción
+administrativa las personas físicas y jurídicas, así como, cuando una Ley les
+reconozca capacidad de obrar, los grupos de afectados, las uniones y entidades sin
+personalidad jurídica y los patrimonios independientes o autónomos, que resulten
+responsables de los mismos a título de dolo o culpa”.
+Igualmente, se debe tener en cuenta lo que establece el artículo 53.2 la ley
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, establece que: “Además de los derechos previstos en el
+apartado anterior, en el caso de procedimientos administrativos de naturaleza
+sancionadora, los presuntos responsables, tendrán los siguientes derechos: (…) b) A
+la presunción de no existencia de responsabilidad administrativa mientras no se
+demuestre lo contrario”.
+Con arreglo a lo previsto en los preceptos anteriormente citados, en este caso
+no ha quedado acreditado en el procedimiento que las imágenes captadas con fines
+de control de tráfico hayan dado lugar a un tratamiento de datos de carácter personal
+que pueda recaer bajo la órbita de lo dispuesto en los artículos 1 y 2.1 del RGPD, ya
+que en el expediente no obran pruebas efectivas de la captación de las matrículas de
+los vehículos por la cámara objeto de análisis, no existiendo, por tanto, obligación del
+reclamado a dar cumplimiento a lo dispuesto en el artículo 13 del RGPD.
+Por lo tanto, procede archivar las actuaciones practicadas en el presente
+procedimiento administrativo.>>
+III
+En el presente caso, el objeto del recurso se fundamenta en que el
+Ayuntamiento de Paracuellos de Jarama no ofrece toda la información requerida en el
+artículo 13 del RGPD en la totalidad de los distintivos informativos de zona sujeta a
+videovigilancia del tráfico colocados por el dicho Ayuntamiento.
+Sin embargo, la reclamación presentada ante esta Agencia con fecha 9 de
+agosto de 2018 por el ahora recurrente, entonces identificado como reclamante,
+únicamente se vinculaba a la instalación de una cámara de videovigilancia del tráfico a
+la altura del nº ***NÚMERO.1 de la calle ***CALLE.1 de ese Ayuntamiento.
+De este modo, en el recurso de reposición se suscitan nuevos hechos que no
+fueron objeto de análisis en el procedimiento sancionador de apercibimiento que ha
+dado lugar a la resolución ahora recurrida. Por lo tanto, se considera que el objeto del
+recurso es distinto del que motivó la tramitación y resolución del procedimiento
+sancionador de referencia PS/00382/2018.
+A estos efectos, se señala que el párrafo segundo del artículo 118.1 de la Ley
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas (LPACAP) dispone que:
+“No se tendrán en cuenta en la resolución de los recursos, hechos,
+documentos o alegaciones del recurrente, cuando habiendo podido aportarlos en el
+trámite de alegaciones no lo haya hecho. Tampoco podrá solicitarse la práctica de
+pruebas cuando su falta de realización en el procedimiento en el que se dictó la
+resolución recurrida fuera imputable al interesado”.
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+10/10
+
+IV
+En consecuencia, en el presente recurso de reposición, el recurrente no ha
+aportado nuevos hechos o argumentos jurídicos relacionados con los hechos
+probados en el procedimiento que permitan reconsiderar la validez de la resolución
+impugnada.
+Vistos los preceptos citados y demás de general aplicación,
+La Directora de la Agencia Española de Protección de Datos RESUELVE:
+PRIMERO: DESESTIMAR el recurso de reposición interpuesto por Don A.A.A. contra
+la resolución de esta Agencia Española de Protección de Datos dictada con fecha 30
+de mayo de 2019, en el procedimiento sancionador PS/00382/2018.
+SEGUNDO: NOTIFICAR la presente resolución a Don A.A.A..
+TERCERO: De conformidad con lo establecido en el artículo 50 de la LOPDPGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa conforme al art.
+48.6 de la LOPDPGDD, y de acuerdo con lo establecido en el artículo 123 de la Ley
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas (LPACAP), los interesados podrán interponer recurso
+contencioso-administrativo ante la Sala de lo Contencioso-administrativo de la
+Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de
+la disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-administrativa, en el plazo de dos meses a contar desde el
+día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Finalmente, se señala que conforme a lo previsto en el art. 90.3 a) LPACAP, se
+podrá suspender cautelarmente la resolución firme en vía administrativa si el
+interesado manifiesta su intención de interponer recurso contencioso-administrativo.
+De ser éste el caso, el interesado deberá comunicar formalmente este hecho mediante
+escrito dirigido a la Agencia Española de Protección de Datos, presentándolo a través
+del Registro Electrónico de la Agencia [https://sedeagpd.gob.es/sede-electronicaweb/], o a través de alguno de los restantes registros previstos en el art. 16.4 de la
+citada LPACAP. También deberá trasladar a la Agencia la documentación que acredite
+la interposición efectiva del recurso contencioso-administrativo. Si la Agencia no
+tuviese conocimiento de la interposición del recurso contencioso-administrativo en el
+plazo de dos meses desde el día siguiente a la notificación de la presente resolución,
+daría por finalizada la suspensión cautelar.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

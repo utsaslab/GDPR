@@ -1,0 +1,131 @@
+1/3
+
+Expediente Nº: E/08517/2019
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos ante la entidad
+VODAFONE ENABLER ESPAÑA S.L. (LOWI) en virtud de denuncia presentada por A.A.A. y
+teniendo como base los siguientes
+HECHOS
+PRIMERO: A.A.A. (en adelante, el reclamante) con fecha 28 de marzo de 2019 interpuso
+reclamación ante la Agencia Española de Protección de Datos. La reclamación se dirige contra
+VODAFONE ENABLER ESPAÑA S.L. (LOWI) con NIF B82896119 (en adelante, el reclamado).
+Los motivos en que basa la reclamación son que desde que contrató los servicios de dicha entidad,
+se han cargado en su cuenta bancaria recibos de terceros, y aunque ha procedido a la devolución
+de todos los recibos y ha puesto los hechos en conocimiento del reclamado, la incidencia sigue sin
+resolverse.
+Aporta los recibos de los cargos efectuados a nombre de terceros, correspondientes a los meses de
+septiembre, octubre y noviembre de 2018, así como los correos electrónicos enviados a la entidad el
+***FECHA.1 comunicándole los hechos denunciados.
+SEGUNDO: A la vista de los hechos denunciados en la reclamación y de los documentos aportados
+por el reclamante, la Subdirección General de Inspección de Datos procedió a la realización de
+actuaciones previas de investigación para el esclarecimiento de los hechos en cuestión, en virtud de
+los poderes de investigación otorgados a las autoridades de control en el artículo 57.1 del
+Reglamento (UE) 2016/679 (Reglamento General de Protección de Datos, en adelante RGPD), y de
+conformidad con lo establecido en el Título VII, Capítulo I, Sección segunda, de la Ley Orgánica
+3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales
+(en lo sucesivo LOPDGDD).
+Como resultado de las actuaciones de investigación practicadas, se constata que el responsable del
+tratamiento es el reclamado.
+Asimismo, se constatan los siguientes extremos:
+Se pone en conocimiento del reclamado la presente reclamación el 20 de mayo de 2019,
+requiriéndole para que en el plazo de un mes remita a esta Agencia, información sobre la respuesta
+dada a la reclamante ante el ejercicio de los derechos regulados en los artículos 15 a 22 del RGPD,
+las causas que han motivado la incidencia que ha originado la reclamación y las medidas adoptadas
+para evitar que se produzcan incidencias similares, fechas de implantación y controles efectuados
+para comprobar su eficacia.
+El 31 de julio de 2019 la entidad reclamada manifiesta lo siguiente:
+“Tras analizar los hechos recogidos en la denuncia, hemos podido concluir que se trató de un error
+derivado de un cruce de datos de los IDs del sistema SAP de clientes, lo que produjo la facturación
+de importes de otro cliente que no procedían a la Sra. Díaz.
+Asimismo, hemos gestionado los abonos que procedían con la Sra. Díaz y éstos se han efectuado
+en su correspondiente cuenta bancaria.”
+Se adjunta copia de la carta remitida de fecha 27 de mayo de 2019 dirigida a la reclamante donde se
+indica lo siguiente:
+“Por medio de la presente carta, queremos poner en su conocimiento que Vodafone Enabler
+España, S.L. (“Lowi”) ya en el mes de mayo de 2019 tras su reclamación, procedió a calificar los
+importes de los cuales hacía mención como improcedentes. En este sentido, se ha solucionado la
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/3
+
+incidencia en nuestros sistemas y hemos procedido al abono de las cantidades objeto de
+reclamación.“
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante RGPD) otorga
+a cada autoridad de control, y según lo dispuesto en el artículo 47 de la Ley Orgánica 3/2018, de 5
+de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (en lo
+sucesivo LOPDGDD), es competente para resolver estas actuaciones de investigación la Directora
+de la Agencia Española de Protección de Datos.
+II
+De conformidad con lo establecido en el artículo 55 del RGPD, la Agencia Española de
+Protección de Datos es competente para desempeñar las funciones que se le asignan en su artículo
+57, entre ellas, la de hacer aplicar el Reglamento y promover la sensibilización de los responsables y
+los encargados del tratamiento acerca de las obligaciones que les incumben, así como tratar las
+reclamaciones presentadas por un interesado e investigar el motivo de estas.
+Corresponde, asimismo, a la Agencia Española de Protección de Datos ejercer los poderes
+de investigación regulados en el artículo 58.1 del RGPD, entre los que figura la facultad de ordenar
+al responsable y al encargado del tratamiento que faciliten cualquier información que requiera para
+el desempeño de sus funciones.
+Correlativamente, el artículo 31 del RGPD establece la obligación de los responsables y
+encargados del tratamiento de cooperar con la autoridad de control que lo solicite en el desempeño
+de sus funciones. Para el caso de que éstos hayan designado un delegado de protección de datos,
+el artículo 39 del RGPD atribuye a éste la función de cooperar con dicha autoridad.
+Del mismo modo, el ordenamiento jurídico interno también prevé la posibilidad de abrir un
+período de información o actuaciones previas. En este sentido, el artículo 55 de la Ley 39/2015, de 1
+de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, otorga esta
+facultad al órgano competente con el fin de conocer las circunstancias del caso concreto y la
+conveniencia o no de iniciar el procedimiento.
+III
+La entidad reclamada ha manifestado que los hechos denunciados se deben a un error
+derivado de un cruce de datos de los IDs del sistema SAP de clientes, pero que ya se ha subsanado
+y así se lo ha hecho saber a la reclamante, mediante carta de fecha 27 de mayo de 2019 donde se
+pone en su conocimiento que se ha procedido a calificar los importes objeto de la presente
+reclamación como improcedentes, y se ha procedido al abono de dichas cantidades.
+Por este motivo, la Directora de la Agencia Española de Protección de Datos acuerda el
+archivo de estas actuaciones.
+Todo ello sin perjuicio de las posibles actuaciones que esta Agencia pudiera llevar a cabo
+ante el responsable del tratamiento en caso de que se produzca una reiteración en la conducta
+puesta de manifiesto en la presente reclamación o no se implanten de manera efectiva las medidas
+anunciadas por dicha entidad para evitar situaciones futuras similares. Si así ocurriera, esta Agencia
+acordará la realización de la oportuna investigación sobre los tratamientos de datos personales y los
+procesos de gestión que aplica en materia de protección de datos de carácter personal, así como las
+posibles actuaciones correctivas que procedieran.
+SE ACUERDA
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/3
+
+PROCEDER AL ARCHIVO de las presentes actuaciones.
+NOTIFICAR la presente resolución al reclamante e INFORMAR de ella al responsable del
+tratamiento.
+Contra esta resolución, que pone fin a la vía administrativa según lo preceptuado por el art.
+114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, y de conformidad con lo establecido en los arts. 112 y 123 de la citada
+Ley 39/2015, de 1 de octubre, los interesados podrán interponer, potestativamente, recurso de
+reposición ante la Directora de la Agencia Española de Protección de Datos en el plazo de un mes a
+contar desde el día siguiente a la notificación de esta resolución o directamente recurso contencioso
+administrativo ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional, con arreglo a
+lo dispuesto en el artículo 25 y en el apartado 5 de la disposición adicional cuarta de la Ley 29/1998,
+de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa, en el plazo de dos meses a
+contar desde el día siguiente a la notificación de este acto, según lo previsto en el artículo 46.1 de la
+referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+

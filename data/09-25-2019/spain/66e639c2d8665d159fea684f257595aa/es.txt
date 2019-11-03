@@ -1,0 +1,341 @@
+1/7
+
+Procedimiento Nº: A/00008/2019
+
+RESOLUCIÓN: R/00376/2019
+En el procedimiento A/00008/2019, instruido por la Agencia Española de Protección de
+Datos a la entidad OVANIE AGENCY, S.L. y en virtud de los siguientes,
+ANTECEDENTES
+PRIMERO: Con fecha 13 de noviembre de 2018 de septiembre de 2018 Don A.A.A.,
+(en adelante el reclamante), interpuso reclamación ante la Agencia Española de
+Protección de Datos contra la entidad OVANIE AGENCY, S.L., (en adelante la
+reclamada o remitente) por el envío de una comunicación comercial no solicitada, no
+existiendo tampoco una relación comercial previa ni con el remitente del envío ni con
+SANITAS, empresa a la que aparentemente representa.
+El reclamante adjunta copia de la siguiente documentación:
+-Una comunicación comercial remitida desde la dirección de correo electrónico
+***EMAIL.1 a la dirección de correo del reclamante ***EMAIL.2, con asunto:
+SANITAS, ofertándole un seguro de salud de SANITAS del que podrá obtener más
+información o un presupuesto personalizado mandando un correo electrónico a la
+cuenta desde la que se remite el envío, indicando la edad de los asegurados y si son
+autónomos o particulares, pudiendo también dejar el número de teléfono para ser
+atendidos por esa vía.
+El envío, firmado por B.B.B., no ofrece un correo electrónico o dirección
+electrónica válida para poder oponerse a la recepción de este tipo de comunicaciones.
+-Impresión del Aviso Legal vigente a fecha 13 de noviembre de 2018 en la
+página web ***URL.1 obtenido por el reclamante con fecha 13 de noviembre de 2018,
+en el que figura que los ficheros automatizados de datos son responsabilidad de
+Ovanie Agency, SL, cuya dirección actual es ***DIRECCION.1.
+SEGUNDO: Tras la recepción de la reclamación, la Subdirección General de
+Inspección de Datos procedió, con fecha 3 de diciembre de 2018, a trasladar dicha
+reclamación a la mencionada sociedad a través del sistema Notific@ para su análisis y
+comunicación al reclamante de la decisión adoptada al respecto, así como para que en
+el plazo de un mes remitiera a la Agencia Española de Protección de Datos
+determinada información para el esclarecimiento de los hechos señalados. Esta
+notificación fue rechazada transcurridos diez días naturales desde la puesta a
+disposición de la misma sin que se accediese a su contenido.
+Posteriormente, se intentó trasladar dicha reclamación mediante envío postal
+remitido con fecha 17 de diciembre de 2018 a la dirección del reclamado que figuraba
+en la página web ***URL.1 y con fecha 18 de enero de 2019 a la dirección
+***DIRECCION.2, siendo en ambos casos devueltos los envíos por “Desconocido” en
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+2/7
+
+esas direcciones.
+TERCERO: Consultada con fecha 26 de febrero de 2019 la aplicación de la AEPD que
+muestra información sobre de antecedentes de sanciones y apercibimientos
+precedentes, no constan registros previos por infracción del artículo 21 de la Ley
+34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio
+Electrónico asociados a la entidad OVANIE AGENCY, S.L..
+CUARTO: Con fecha 21 de marzo de 2019, la Directora de la Agencia Española de
+Protección de Datos acordó someter a trámite de audiencia previa el presente
+procedimiento de apercibimiento A/00008/2019, otorgando al reclamado un plazo de
+audiencia de quince días hábiles para que formulase alegaciones y presentase las
+pruebas que considerase convenientes.
+Intentado notificar al reclamado el citado trámite de audiencia a través de la
+Sociedad Estatal Correos y Telégrafos, S.A. en la dirección que figura como domicilio
+social de la sociedad en el Registro Mercantil Central, fue devuelto a origen el 27 de
+marzo de 2019 por “Desconocido” en la ***DIRECCION.3, según figura en la
+Certificación de Imposibilidad de entrega emitida por dicha entidad.
+Asimismo, se intentó practicar dicha notificación en la dirección que figuraba en
+el Aviso Legal de la página web ***URL.1, siendo devuelta a origen el 26 de abril de
+2019 por “Desconocido” en dicha dirección, según figura en la Certificación de
+Imposibilidad de entrega emitida por dicha entidad.
+Por lo que, de conformidad con lo dispuesto en los artículos 44, 45 y 46 de la
+Ley 39/2015, de 1 de octubre, del Procedimiento Común de las Administraciones
+Públicas, se procedió a publicar anuncio de notificación del citado acuerdo de
+audiencia previa en el Boletín Oficial del Estado nº 120, de fecha ***FECHA.1. En el
+anuncio publicado por dicha vía se señala que la notificación se entenderá producida a
+todos los efectos legales desde el día siguiente al del vencimiento del plazo de 10 días
+hábiles fijado para comparecer, contados desde el siguiente al de la publicación del
+anuncio.
+No consta que producida la notificación, el reclamado haya ejercido su derecho
+a la defensa formulando escrito de alegaciones o presentado pruebas en el plazo
+concedido a tales efectos.
+HECHOS PROBADOS
+PRIMERO: Con fecha 13 de noviembre de 2018 la entidad OVANIE AGENCY, S.L
+remitió una comunicación comercial desde la cuenta de correo electrónico ***EMAIL.1
+a la dirección de correo del reclamante ***EMAIL.2, con asunto: SANITAS, en la que
+se promocionaba un seguro médico de SANITAS.
+SEGUNDO: La comunicación comercial no ofrecía al destinatario de la misma una
+dirección de correo electrónico o una dirección electrónica válida para que pudiera
+manifestar su oposición a la recepción de ese tipo de comunicaciones.
+TERCERO: El reclamante ha negado haber solicitado el envío de la comunicación
+comercial recibida ni mantener relación comercial previa con el reclamado, en este
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+3/7
+
+caso remitente del envío, ni con SANITAS S.A. de Seguros, empresa cuyos productos
+se publicitaban en el cuerpo del envío.
+CUARTO: En el Aviso Legal publicado a fecha 13 de noviembre de 2018 en la página
+web https://sanitasinfo.com se identificaba a OVANIE AGENCY, S.L.
+como
+responsable de los ficheros automatizados de datos y como agente autorizado de
+SANITAS.
+FUNDAMENTOS DE DERECHO
+I
+Es competente para resolver este procedimiento la Directora de la Agencia
+Española de Protección de Datos, de conformidad con lo dispuesto en el artículo 43.1,
+párrafo segundo, de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la
+Información y Comercio Electrónico (en lo sucesivo, LSSI).
+II
+La LSSI dispone en su artículo 21 lo siguiente: “1. Queda prohibido el envío de
+comunicaciones publicitarias o promocionales por correo electrónico u otro medio de
+comunicación electrónica equivalente que previamente no hubieran sido solicitadas o
+expresamente autorizadas por los destinatarios de las mismas.
+2. Lo dispuesto en el apartado anterior no será de aplicación cuando exista una
+relación contractual previa, siempre que el prestador hubiera obtenido de forma lícita
+los datos de contacto del destinatario y los empleara para el envío de comunicaciones
+comerciales referentes a productos o servicios de su propia empresa que sean
+similares a los que inicialmente fueron objeto de contratación con el cliente.
+En todo caso, el prestador deberá ofrecer al destinatario la posibilidad de
+oponerse al tratamiento de sus datos con fines promocionales mediante un
+procedimiento sencillo y gratuito, tanto en el momento de recogida de los datos como
+en cada una de las comunicaciones comerciales que le dirija.
+Cuando las comunicaciones hubieran sido remitidas por correo electrónico,
+dicho medio deberá consistir necesariamente en la inclusión de una dirección de
+correo electrónico u otra dirección electrónica válida donde pueda ejercitarse este
+derecho, quedando prohibido el envío de comunicaciones que no incluyan dicha
+dirección.”
+Añade el artículo 22.1 lo siguiente: “El destinatario podrá revocar en cualquier
+momento el consentimiento prestado a la recepción de comunicaciones comerciales
+con la simple notificación de su voluntad al remitente.
+A tal efecto, los prestadores de servicios deberán habilitar procedimientos
+sencillos y gratuitos para que los destinatarios puedan revocar el consentimiento que
+hubieran prestado. Cuando las comunicaciones hubieran sido remitidas por correo
+electrónico, dicho medio deberá consistir necesariamente en la inclusión de una
+dirección de correo electrónico u otra dirección electrónica válida donde pueda
+ejercitarse este derecho, quedando prohibido el envío de comunicaciones que no
+incluyan dicha dirección.
+Asimismo, deberán facilitar información accesible por medios electrónicos
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+4/7
+
+sobre dichos procedimientos”
+La LSSI prohíbe las comunicaciones comerciales no solicitadas o
+expresamente autorizadas, partiendo de un concepto de comunicación comercial que
+se califica como servicio de la sociedad de la información y que se define en su Anexo
+de la siguiente manera:
+“f) Comunicación comercial»: toda forma de comunicación dirigida a la
+promoción, directa o indirecta, de la imagen o de los bienes o servicios de una
+empresa, organización o persona que realice una actividad comercial, industrial,
+artesanal o profesional.
+A efectos de esta Ley, no tendrán la consideración de comunicación comercial
+los datos que permitan acceder directamente a la actividad de una persona, empresa
+u organización, tales como el nombre de dominio o la dirección de correo electrónico,
+ni las comunicaciones relativas a los bienes, los servicios o la imagen que se ofrezca
+cuando sean elaboradas por un tercero y sin contraprestación económica”.
+De acuerdo con lo señalado, es preciso analizar el concepto de Servicios de la
+Sociedad de la Información para, a continuación, determinar los supuestos, recogidos
+en el párrafo segundo del Anexo f) de la LSSI, que no se consideran, a los efectos de
+esta Ley, como comunicaciones comerciales.
+La LSSI, en su Anexo a), define como Servicio de la Sociedad de la
+Información, “todo servicio prestado normalmente a título oneroso, a distancia, por vía
+electrónica y a petición individual del destinatario.
+El concepto de servicio de la sociedad de la información comprende también
+los servicios no remunerados por sus destinatarios, en la medida en que constituyan
+una actividad económica para el prestador de servicios.
+Son servicios de la sociedad de la información, entre otros y siempre que
+representen una actividad económica, los siguientes: (…)
+4º El envío de comunicaciones comerciales (…)”.
+A su vez, el apartado d) del anexo de la LSSI define al “Destinatario del
+servicio” o “destinatario” como la “persona física o jurídica que utiliza, sea o no por
+motivos profesionales, un servicio de la sociedad de la información”.
+Así, cualquier envío de comunicaciones publicitarias o promocionales por
+correo electrónico u otro medio de comunicación electrónica equivalente queda
+supeditado a la prestación previa del consentimiento, salvo que exista una relación
+contractual anterior y el destinatario no haya manifestado su voluntad en contra.
+De este modo, el envío de comunicaciones comerciales no solicitadas o
+previamente autorizadas, fuera del supuesto excepcional del artículo 21.2 de la LSSI,
+puede constituir una infracción leve o grave de la LSSI.
+III
+En el presente supuesto, de la valoración del conjunto de elementos fácticos
+obrantes en el procedimiento, se desprende que el reclamado remitió con fecha 13 de
+noviembre de 2018 una comunicación comercial al correo electrónico del reclamante
+sin mediar el consentimiento previo y expreso del mismo para ello. A este respecto, el
+reclamante, afirma que no había autorizado al reclamado ni a la entidad de seguros
+cuyos productos se publicitaban a remitirle comunicaciones comerciales, añadiendo
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+5/7
+
+que tampoco había mantenido una relación comercial previa con ninguna de esas dos
+sociedades que, en su caso, pudiera eximirlas de la obtención de dicho
+consentimiento.
+Asimismo, el reclamado tampoco ofrecía al destinatario del envío una dirección
+de correo electrónico o dirección electrónica válida a través de la cual poder manifestar
+su negativa al uso de sus señas electrónicas con fines publicitarios.
+Atendido todo lo cual, se estima que el reclamado ha conculcado la prohibición
+recogida en el artículo 21 de la LSSI al enviar una comunicación comercial sin contar
+con el consentimiento previo y expreso del destinatario de la misma, en este caso el
+reclamante, vulnerando también la obligación de ofrecerle en el propio envío un
+mecanismo de baja.
+El envío por parte del reclamado del citado correo electrónico comercial no
+autorizado está tipificado como infracción leve a lo previsto en el artículo 38.4.d) de la
+LSSI, que califica como tal “El envío de comunicaciones comerciales por correo
+electrónico u otro medio de comunicación electrónica equivalente cuando en dichos
+envíos no se cumplan los requisitos establecidos en el artículo 21 y no constituya
+infracción grave.”
+IV
+El artículo 39 bis de la LSSI, bajo el epígrafe “Moderación de las sanciones”,
+estipula lo siguiente:
+“1. El órgano sancionador establecerá la cuantía de la sanción aplicando la
+escala relativa a la clase de infracciones que preceda inmediatamente en gravedad a
+aquella en que se integra la considerada en el caso de que se trate, en los siguientes
+supuestos:
+a) Cuando se aprecie una cualificada disminución de la culpabilidad del imputado o de
+la antijuridicidad del hecho como consecuencia de la concurrencia significativa de
+varios de los criterios enunciados en el artículo 40.
+b) Cuando la entidad infractora haya regularizado la situación irregular de forma
+diligente.
+c) Cuando pueda apreciarse que la conducta del afectado ha podido inducir a la
+comisión de la infracción.
+d) Cuando el infractor haya reconocido espontáneamente su culpabilidad.
+e) Cuando se haya producido un proceso de fusión por absorción y la infracción fuese
+anterior a dicho proceso, no siendo imputable a la entidad absorbente.
+2. Los órganos con competencia sancionadora, atendida la naturaleza de los
+hechos y la concurrencia significativa de los criterios establecidos en el apartado
+anterior, podrán acordar no iniciar la apertura del procedimiento sancionador y, en su
+lugar, apercibir al sujeto responsable, a fin de que en el plazo que el órgano
+sancionador determine, acredite la adopción de las medidas correctoras que, en cada
+caso, resulten pertinentes, siempre que concurran los siguientes presupuestos:
+a) Que los hechos fuesen constitutivos de infracción leve o grave conforme a lo
+dispuesto en esta Ley.
+b) Que el órgano competente no hubiese sancionado o apercibido con anterioridad al
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+6/7
+
+infractor como consecuencia de la comisión de infracciones previstas en esta Ley.
+Si el apercibimiento no fuera atendido en el plazo que el órgano sancionador hubiera
+determinado, procederá la apertura del correspondiente procedimiento sancionador
+por dicho incumplimiento.”
+Por su parte el artículo 40 de la LSSI, en relación con la “Graduación de la
+cuantía de las sanciones”, determina lo siguiente:
+“La cuantía de las multas que se impongan se graduará atendiendo a los
+siguientes criterios:
+a) La existencia de intencionalidad.
+b) Plazo de tiempo durante el que se haya venido cometiendo la infracción.
+c) La reincidencia por comisión de infracciones de la misma naturaleza, cuando así
+haya sido declarado por resolución firme.
+d) La naturaleza y cuantía de los perjuicios causados.
+e) Los beneficios obtenidos por la infracción.
+f) Volumen de facturación a que afecte la infracción cometida.
+g) La adhesión a un código de conducta o a un sistema de autorregulación publicitaria
+aplicable respecto a la infracción cometida, que cumpla con lo dispuesto en el artículo
+18 o en la disposición final octava y que haya sido informado favorablemente por el
+órgano u órganos competentes.”
+En el presente supuesto se cumplen los requisitos recogidos en las letras a) y
+b) del citado apartado 2 del artículo 39 bis de la LSSI. Junto a ello, se aprecia que
+opera la circunstancia prevista en el artículo 39 bis, apartado 1.a) de la mencionada
+norma. Así, se constata una cualificada disminución de la culpabilidad del remitente del
+envío teniendo en cuenta la concurrencia significativa de las circunstancias derivadas
+de la falta de constancia de que se hayan producido perjuicios al reclamante,
+destinatario del correo electrónico promocional no autorizado analizado, y de que el
+remitente haya obtenido beneficios a raíz de la comisión de la infracción. Lo que
+permite apercibir al reclamado requiriéndole la adopción de medidas correctoras para
+adecuarse a la normativa citada en lugar de iniciar la apertura del procedimiento
+sancionador contra el mismo.
+De acuerdo con lo señalado,
+Por la Directora de la Agencia Española de Protección de Datos,
+SE ACUERDA:
+1.- APERCIBIR (A/00008/2019) a OVANIE AGENCY, S.L. con arreglo a lo dispuesto en
+el artículo 39 bis, apartado 2, de la LSSI, con relación a la reclamación por infracción
+del artículo 21 de la LSSI, tipificada como leve en el artículo 38.4.d) de la citada
+norma.
+2.- REQUERIR a OVANIE AGENCY, S.L. de acuerdo con lo establecido en el apartado
+2 del artículo 39 bis de la LSSI para que en el plazo de un mes desde la notificación de
+la presente resolución.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+7/7
+
+2.1.- CUMPLA lo previsto en el artículo 21 de la LSSI. En concreto, se insta a
+esa empresa a que cese en el envío de comunicaciones comerciales a la dirección de
+correo electrónico del reclamante.
+Asimismo, se requiere el establecimiento de las medidas necesarias que
+impidan que en el futuro se realicen envíos de comunicaciones comerciales por correo
+electrónico u otro medio de comunicación electrónica equivalente que no hayan sido
+solicitadas con anterioridad o expresamente autorizadas por sus destinatarios o, en su
+caso, sin que exista una relación contractual previa en los términos del párrafo primero
+del artículo 21.2 de la LSSI que las ampare.
+Igualmente, se requiere al reclamado la inclusión en las comunicaciones
+comerciales remitidas de un procedimiento de baja conforme a lo señalado en el
+mencionado artículo 21.2 de la LSSI que permita a los destinatarios de las mismas
+manifestar su oposición a su recepción.
+2.2.- INFORME a la Agencia Española de Protección de Datos del
+cumplimiento de lo requerido, aportando los documentos o medios de prueba que
+acrediten dicha circunstancia
+3.- NOTIFICAR el presente Acuerdo a OVANIE AGENCY, S.L..
+De conformidad con lo establecido en el artículo 50 de la LOPDGDD, la
+presente Resolución se hará pública una vez haya sido notificada a los interesados.
+Contra esta resolución, que pone fin a la vía administrativa (artículo 48.6 de la
+LOPDGDD), y de conformidad con lo establecido en los artículos 112 y 123 de la Ley
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, los interesados podrán interponer, potestativamente,
+recurso de reposición ante la Directora de la Agencia Española de Protección de Datos
+en el plazo de un mes a contar desde el día siguiente a la notificación de esta
+resolución, o, directamente recurso contencioso administrativo ante la Sala de lo
+Contencioso-administrativo de la Audiencia Nacional, con arreglo a lo dispuesto en el
+artículo 25 y en el apartado 5 de la disposición adicional cuarta de la Ley 29/1998, de
+13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa, en el plazo de
+dos meses a contar desde el día siguiente a la notificación de esta acto, según lo
+previsto en el artículo 46.1 del referido texto legal.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.agpd.es
+sedeagpd.gob.es
+
+

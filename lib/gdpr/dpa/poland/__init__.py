@@ -49,7 +49,7 @@ class Poland(DPA):
         results_url = host + start_path
 
         pagination = Pagination()
-        pagination.add_link(results_url)
+        pagination.add_item(results_url)
 
         while pagination.has_next():
             page_url = pagination.get_next()

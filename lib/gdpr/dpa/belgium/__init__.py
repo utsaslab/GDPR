@@ -46,7 +46,7 @@ class Belgium(DPA):
             print("oops! something went wrong.")
 
         pagination = Pagination()
-        pagination.add_link(host + start_path)
+        pagination.add_item(host + start_path)
 
         pagination_links = links_from_soup_service(soup, target_element=target_element['pagination'])
         for link in pagination_links:
@@ -56,7 +56,7 @@ class Belgium(DPA):
             if link_title.isdigit() is False:
                 continue
 
-            pagination.add_link(link_path)
+            pagination.add_item(link_path)
 
         while pagination.has_next():
             page_ref = pagination.get_next()
@@ -129,6 +129,6 @@ class Belgium(DPA):
                 if link_title.isdigit() is False:
                     continue
 
-                pagination.add_link(link_path)
+                pagination.add_item(link_path)
 
         return True

@@ -1,0 +1,125 @@
+1/3
+
+Expediente Nº: E/07973/2019
+RESOLUCIÓN DE ARCHIVO DE ACTUACIONES
+De las actuaciones practicadas por la Agencia Española de Protección de Datos ante la
+entidad ***ENTIDAD.1 en virtud de denuncia presentada por A.A.A. y teniendo como base los
+siguientes
+HECHOS
+PRIMERO: Con fecha 2 de abril de 2019, tuvo entrada en esta Agencia escrito de A.A.A. (en lo
+sucesivo la reclamante) contra ***ENTIDAD.1 (en lo sucesivo los reclamados) en el que
+denuncia que los dos reclamados (su hijo y otro exempleado) le han usurpado su empresa con
+todos sus bienes.
+SEGUNDO: Tras la recepción de la denuncia la Subdirección General de Inspección de Datos
+procedió a la realización de actuaciones previas de investigación para el esclarecimiento de los
+hechos denunciados, teniendo conocimiento de los siguientes extremos:
+Se constata que en ***URL.1 se designa a la reclamante como DPD, pero no se encuentra
+actualizada de conformidad con lo previsto en el art. 13 RGPD.
+Por ello se da traslado a los reclamados de la presente denuncia, y pese a intentarse en dos
+ocasiones, el 20/05/2019 y el 15/072019, se devuelve por "ausente reparto"
+FUNDAMENTOS DE DERECHO
+I
+De acuerdo con los poderes de investigación y correctivos que el artículo 58 del
+Reglamento (UE) 2016/679 (Reglamento general de protección de datos, en adelante RGPD)
+otorga a cada autoridad de control, y según lo dispuesto en el artículo 47 de la Ley Orgánica
+3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos
+digitales (en lo sucesivo LOPDGDD), es competente para resolver estas actuaciones de
+investigación la Directora de la Agencia Española de Protección de Datos.
+II
+De conformidad con lo establecido en el artículo 55 del RGPD, la Agencia Española de
+Protección de Datos es competente para desempeñar las funciones que se le asignan en su
+artículo 57, entre ellas, la de hacer aplicar el Reglamento y promover la sensibilización de los
+responsables y los encargados del tratamiento acerca de las obligaciones que les incumben,
+así como tratar las reclamaciones presentadas por un interesado e investigar el motivo de
+estas.
+Corresponde, asimismo, a la Agencia Española de Protección de Datos ejercer los
+poderes de investigación regulados en el artículo 58.1 del RGPD, entre los que figura la
+facultad de ordenar al responsable y al encargado del tratamiento que faciliten cualquier
+información que requiera para el desempeño de sus funciones.
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+2/3
+
+Correlativamente, el artículo 31 del RGPD establece la obligación de los responsables
+y encargados del tratamiento de cooperar con la autoridad de control que lo solicite en el
+desempeño de sus funciones. Para el caso de que éstos hayan designado un delegado de
+protección de datos, el artículo 39 del RGPD atribuye a éste la función de cooperar con dicha
+autoridad.
+Del mismo modo, el ordenamiento jurídico interno también prevé la posibilidad de abrir
+un período de información o actuaciones previas. En este sentido, el artículo 55 de la Ley
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones
+Públicas, otorga esta facultad al órgano competente con el fin de conocer las circunstancias del
+caso concreto y la conveniencia o no de iniciar el procedimiento.
+III
+Se ha de tener en cuenta que al Derecho Administrativo Sancionador, por su
+especialidad, le son de aplicación, con alguna matización pero sin excepciones, los principios
+inspiradores del orden penal, resultando clara la plena virtualidad del principio de presunción de
+inocencia. No en vano, el artículo 53.2 b) de la LPACAP reconoce el derecho de los presuntos
+responsables a “la presunción de no existencia de responsabilidad administrativa mientras no
+se demuestre lo contrario”.
+Pues bien, el Tribunal Constitucional, en Sentencia 76/1990, considera que el derecho
+a la presunción de inocencia comporta “que la sanción esté basada en actos o medios
+probatorios de cargo o incriminadores de la conducta reprochada; que la carga de la prueba
+corresponda a quien acusa, sin que nadie esté obligado a probar su propia inocencia; y que
+cualquier insuficiencia en el resultado de las pruebas practicadas, libremente valorado por el
+órgano sancionador, debe traducirse en un pronunciamiento absolutorio”.
+En definitiva, la aplicación del principio de presunción de inocencia impide imputar una
+infracción administrativa cuando no se haya obtenido y comprobado la existencia de una
+prueba de cargo acreditativa de los hechos que motivan esta imputación.
+IV
+En el presente caso, la reclamante denuncia que los dos reclamados (su hijo y otro
+exempleado) le han usurpado su empresa con todos sus bienes al dejarla ella en septiembre
+de 2018.
+En concreto denuncia la utilización de su nombre y DNI, en la web que publicita
+***ENTIDAD.2,(***URL.2).
+Aporta los documentos “Condiciones de Uso” (aparece el DNI de la reclamante) y
+“Política de Privacidad” (aparece el nombre de la reclamante como DPD y responsable del
+fichero).
+Sin embargo, no hay nada que demuestre la autoría de los denunciados, ya que no
+consta la fecha en la que se obtienen esos documentos (***ENTIDAD.2).
+En esos documentos se indica un teléfono de contacto y aunque la reclamante indica
+que ese teléfono pertenece a su hijo, el cual era empleado de la empresa, nada demuestra que
+la información no corresponda al período anterior al cese de actividad de la reclamante.
+Además, en la actualidad no consta en ***URL.1 el uso del nombre y DNI de la
+reclamante, ni que sea designada como DPD.
+Por este motivo, de acuerdo con lo señalado y ante la falta de evidencias de los hechos
+denunciados, por la Directora de la Agencia Española de Protección de Datos,
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+3/3
+
+SE ACUERDA
+
+1. PROCEDER AL ARCHIVO de las presentes actuaciones.
+2. NOTIFICAR la presente resolución al reclamante e INFORMAR de ella al responsable
+del tratamiento.
+Contra esta resolución, que pone fin a la vía administrativa según lo preceptuado por el
+art. 114.1.c) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, y de conformidad con lo establecido en los arts. 112 y 123 de la
+citada Ley 39/2015, de 1 de octubre, los interesados podrán interponer, potestativamente,
+recurso de reposición ante la Directora de la Agencia Española de Protección de Datos en el
+plazo de un mes a contar desde el día siguiente a la notificación de esta resolución o
+directamente recurso contencioso administrativo ante la Sala de lo Contencioso-administrativo
+de la Audiencia Nacional, con arreglo a lo dispuesto en el artículo 25 y en el apartado 5 de la
+disposición adicional cuarta de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción
+Contencioso-Administrativa, en el plazo de dos meses a contar desde el día siguiente a la
+notificación de este acto, según lo previsto en el artículo 46.1 de la referida Ley.
+Mar España Martí
+Directora de la Agencia Española de Protección de Datos
+
+C/ Jorge Juan, 6
+28001 – Madrid
+
+www.aepd.es
+sedeagpd.gob.es
+
+
