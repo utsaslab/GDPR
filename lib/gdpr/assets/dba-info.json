@@ -744,5 +744,19 @@
         "render_type": "FULLY_RENDERED"
       }
     ]
+  },
+  "DE": {
+    "country": "Germany",
+    "name": "Die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit",
+    "address": "Husarenstraße 30\n53117 Bonn",
+    "phone": "228 997799 0; 228 81995 0",
+    "country_code": "+49",
+    "email": "poststelle@bfdi.bund.de",
+    "website": "https://www.bfdi.bund.de",
+    "member": {
+      "name": "Mr Ulrich KELBER",
+      "title": "Federal Commissioner for Data Protection and Freedom of Information"
+    },
+    "sources": []
   }
 }
