@@ -32,6 +32,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 from .supervisor.baden_wurttemberg import BadenWurttemberg
+from .supervisor.bavaria import Bavaria
 
 class Germany(DPA):
     def __init__(self):
@@ -40,6 +41,7 @@ class Germany(DPA):
 
     def get_docs(self, path):
         print('docs - dpa germany')
-        BadenWurttemberg().get_docs(path)
+        # BadenWurttemberg().get_docs(path)
+        Bavaria().get_docs(path)
 
         return True
