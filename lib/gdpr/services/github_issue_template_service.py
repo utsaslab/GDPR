@@ -42,7 +42,7 @@ class GithubIssueTemplateService():
 
         body += "## Detailed Description\n"
         body += "#### XPath sample tests:\n"
-        for iso_code, xpath, label, reachability_flag in reachability:
+        for country_code, xpath, label, reachability_flag in reachability:
             body += "- [PASS] " if reachability_flag == 1 else "- [FAIL] "
             body += f"{xpath} ({label})\n"
         lines = py_line_inspector_service(f"./gdpr/dpa/" + country.lower() + "/__init__.py", 'def', 'get_docs') # country.lower()

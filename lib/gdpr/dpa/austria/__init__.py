@@ -20,12 +20,12 @@ from ...policies import bulk_collect_location_policy
 
 class Austria(DPA):
     def __init__(self):
-        iso_code='AT'
-        super().__init__(iso_code)
+        country_code='AT'
+        super().__init__(country_code)
 
-    def get_docs(self, path):
-        if bulk_collect_location_policy.is_allowed(path) is False:
-            raise ValueError('Bulk collect path is illegal: ' + path)
+    def get_docs(self):
+        if bulk_collect_location_policy.is_allowed(self.path) is False:
+            raise ValueError('Bulk collect path is illegal: ' + self.path)
 
         source = self.sources[0]
 
@@ -64,7 +64,7 @@ class Austria(DPA):
                 html_doc = response.text
                 soup = BeautifulSoup(html_doc, 'html.parser')
 
-            root_path = path + self.iso_code
+            root_path = self.path + self.country_code
             result_links = links_from_soup_service(soup, target_element=target_element['results'])
             for link in result_links:
                 # title = link[0]

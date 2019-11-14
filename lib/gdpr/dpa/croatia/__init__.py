@@ -20,12 +20,12 @@ from ...policies import bulk_collect_location_policy
 
 class Crotia(DPA):
     def __init__(self):
-        iso_code='HR'
-        super().__init__(iso_code)
+        country_code='HR'
+        super().__init__(country_code)
 
-    def get_docs(self, path):
-        if bulk_collect_location_policy.is_allowed(path) is False:
-            raise ValueError('Bulk collect path is illegal: ' + path)
+    def get_docs(self):
+        if bulk_collect_location_policy.is_allowed(self.path) is False:
+            raise ValueError('Bulk collect path is illegal: ' + self.path)
 
         source = self.sources[0]
 
@@ -44,7 +44,7 @@ class Crotia(DPA):
         except:
             print('Something went wrong. Could not get response.')
 
-        root_path = path + self.iso_code
+        root_path = self.path + self.country_code
         result_links = links_from_soup_service(result_soup, target_element=target_element['results'])
         for link in result_links:
             result_title = link[0]

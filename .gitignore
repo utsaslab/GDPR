@@ -1,3 +1,4 @@
 *.pyc
 __pycache__
 .DS_Store
+*pyGDPR-a18bc25c5d12.json

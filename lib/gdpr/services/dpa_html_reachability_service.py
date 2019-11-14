@@ -11,14 +11,14 @@ REACHABILITY_FLAG_SUCCESS = 1
 def setup_xpath_samples(dpa):
     xpath_samples = []
 
-    # (iso_code, xpath, label)
+    # (country_code, xpath, label)
     with open('./gdpr/assets/dpa-html-reachability.csv', newline='\n') as csvfile:
         csv_reader = csv.reader(csvfile, delimiter=',')
         next(csv_reader) # skip header
         for row in csv_reader:
             row = [cell.lstrip(' ') for cell in row]
-            iso_code = row[0]
-            if dpa.iso_code.lower() != iso_code.lower():
+            country_code = row[0]
+            if dpa.country_code.lower() != country_code.lower():
                 continue
             xpath_samples.append((row[0], row[1], row[2], REACHABILITY_FLAG_SENTINEL))
 
@@ -35,13 +35,13 @@ def dpa_html_reachability_service(dpa): # cand = dpa
     response = requests.get(host + start_path)
     tree = html.fromstring(response.content)
 
-    for iso_code, xpath, label, reachability_flag in xpath_samples:
+    for country_code, xpath, label, reachability_flag in xpath_samples:
         reachability_flag_ = reachability_flag
         try:
             elements = tree.xpath(xpath)
             reachability_flag_ = REACHABILITY_FLAG_SUCCESS if len(elements) > 0 else REACHABILITY_FLAG_FAILURE
         except XPathEvalError:
             reachability_flag_ = REACHABILITY_FLAG_FAILURE
-        reachability.append((iso_code, xpath, label, reachability_flag_))
+        reachability.append((country_code, xpath, label, reachability_flag_))
 
     return reachability

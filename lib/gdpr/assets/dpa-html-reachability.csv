@@ -1,4 +1,4 @@
-iso_code, xpath, label
+country_code, xpath, label
 nl, /html/body/article/div/div[1]/div/ul, results
 nl, /html/body/article/div/div[1]/div/ul/li[1]/div/a, results
 nl, /html/body/article/div/div[1]/div/div[3], pagination

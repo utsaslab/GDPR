@@ -38,14 +38,14 @@ from .supervisor.brandenburg import Brandenburg
 
 class Germany(DPA):
     def __init__(self):
-        iso_code='de'
-        super().__init__(iso_code)
+        country_code='de'
+        super().__init__(country_code)
 
-    def get_docs(self, path):
+    def get_docs(self):
         print('docs - dpa germany')
-        # BadenWurttemberg().get_docs(path)
-        # Bavaria().get_docs(path)
-        # Berlin().get_docs(path)
-        Brandenburg().get_docs(path)
+        # BadenWurttemberg().get_docs()
+        # Bavaria().get_docs()
+        # Berlin().get_docs()
+        Brandenburg().get_docs()
 
         return True

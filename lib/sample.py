@@ -50,6 +50,8 @@ from gdpr.repositories.github_commit_repository import GithubCommitRepository
 from gdpr.specifications import closed_dpa_issues_specification
 #from striprtf.striprtf import rtf_to_text
 
+from google.cloud import translate_v2 as translate
+
 nlp = en_core_web_sm.load()
 
 def main():
@@ -81,19 +83,24 @@ def main():
     os.environ['gh-repo-name'] = 'GDPR'
 
     gdpr = GDPR()
-    dpa = gdpr.get_dpa(GDPR.EU_MEMBER.GERMANY)
+    dpa = gdpr.get_dpa(GDPR.EU_MEMBER.ITALY)
 
     now = datetime.datetime.now()
     data_path = '../data/{date}/'.format(date='09-25-2019') # prod: now.strftime("%m-%d-%Y")
-    dpa.get_docs(data_path)
+    dpa.set_path(data_path)
 
+    # dpa.get_docs()
+
+    translate_client = translate.Client.from_service_account_json('./gdpr/assets/pyGDPR-a18bc25c5d12.json')
+    dpa.set_translate_client(translate_client)
+    dpa.translate_docs(target_languages=['en', 'da'], price_terminate=20.0)
     return None
 
     if closed_dpa_issues_specification.is_satisfied_by(dpa) is False:
         return None
 
     reachability = dpa_html_reachability_service(dpa)
-    for iso_code, xpath, label, reachability_flag in reachability:
+    for country_code, xpath, label, reachability_flag in reachability:
         if reachability_flag != 1:
             gh_commit_repository = GithubCommitRepository()
             gh_commit_repository.set_auth(username=os.environ['gh-username'], password=os.environ['gh-password'])

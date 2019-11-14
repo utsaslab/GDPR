@@ -27,12 +27,12 @@ from striprtf.striprtf import rtf_to_text
 
 class France(DPA):
     def __init__(self):
-        iso_code='FR'
-        super().__init__(iso_code)
+        country_code='FR'
+        super().__init__(country_code)
 
-    def get_docs(self, path):
-        if bulk_collect_location_policy.is_allowed(path) is False:
-            raise ValueError('Bulk collect path is illegal ' + path)
+    def get_docs(self):
+        if bulk_collect_location_policy.is_allowed(self.path) is False:
+            raise ValueError('Bulk collect path is illegal ' + self.path)
 
         source = self.sources[0]
 
@@ -46,7 +46,7 @@ class France(DPA):
         # restart at page: 173
         # https://www.legifrance.gouv.fr/rechExpCnil.do;jsessionid=C2ACB9BBE6A225D186181BDAC22A13CD.tplgfr41s_3?reprise=true&fastReqId=1068661056&page=173
         folder_name = self.country.replace(' ', '-').lower()
-        root_path = path + '/' + folder_name
+        root_path = self.path + '/' + folder_name
 
         while pagination.has_next():
             page_url = pagination.get_next()

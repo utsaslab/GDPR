@@ -23,12 +23,12 @@ from ...policies import gdpr_policy
 
 class CzechRepublic(DPA):
     def __init__(self):
-        iso_code='CZ'
-        super().__init__(iso_code)
+        country_code='CZ'
+        super().__init__(country_code)
 
-    def get_docs(self, path):
-        if bulk_collect_location_policy.is_allowed(path) is False:
-            raise ValueError('Bulk collect path is illegal: ' + path)
+    def get_docs(self):
+        if bulk_collect_location_policy.is_allowed(self.path) is False:
+            raise ValueError('Bulk collect path is illegal: ' + self.path)
 
         source = self.sources[0]
 
@@ -54,7 +54,7 @@ class CzechRepublic(DPA):
             pagination.add_item(host + page_url)
 
         folder_name = self.country.replace(' ', '-').lower()
-        root_path = path + '/' + folder_name
+        root_path = self.path + '/' + folder_name
 
         while pagination.has_next():
             page_url = pagination.get_next()

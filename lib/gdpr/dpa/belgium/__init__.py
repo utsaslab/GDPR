@@ -24,12 +24,12 @@ from ...policies import gdpr_policy
 
 class Belgium(DPA):
     def __init__(self):
-        iso_code='BE'
-        super().__init__(iso_code)
+        country_code='BE'
+        super().__init__(country_code)
 
-    def get_docs(self, path):
-        if bulk_collect_location_policy.is_allowed(path) is False:
-            raise ValueError('Bulk collect path is illegal: ' + path)
+    def get_docs(self):
+        if bulk_collect_location_policy.is_allowed(self.path) is False:
+            raise ValueError('Bulk collect path is illegal: ' + self.path)
 
         source = self.sources[0]
 
@@ -75,7 +75,7 @@ class Belgium(DPA):
             if date_spans is None or len(date_spans) == 0:
                 raise ValueError('Could not determine date_spans')
 
-            root_path = path + self.iso_code
+            root_path = self.path + self.country_code
             result_links = links_from_soup_service(page_soup, target_element=target_element['results'])
             for i in range(len(result_links)):
                 result_link = result_links[i]

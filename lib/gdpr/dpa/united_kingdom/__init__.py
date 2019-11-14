@@ -18,10 +18,10 @@ from ...services.pdf_to_text_service import pdf_to_text_service
 
 class UnitedKingdom(DPA):
     def __init__(self):
-        iso_code='GB'
-        super().__init__(iso_code)
+        country_code='GB'
+        super().__init__(country_code)
 
-    def get_docs(self, path):
+    def get_docs(self):
 
         spreadsheet = self.sources[0]
         host = spreadsheet['host']
@@ -38,7 +38,7 @@ class UnitedKingdom(DPA):
         gdpr_implementation_date = gdpr_policy.implementation_date()
         df = filter_dataframe_pre_gdpr_service(df, gdpr_implementation_date)
 
-        root_path = path + self.iso_code
+        root_path = self.path + self.country_code
         dirpath = root_path
         try:
             os.makedirs(dirpath)
@@ -60,7 +60,7 @@ class UnitedKingdom(DPA):
         except:
             print('Timeout session occurred.')
 
-        root_path = path + self.iso_code
+        root_path = self.path + self.country_code
 
         result_links = links_from_soup_service(website_soup, target_element=website_target_element['results'])
         for link in result_links:
@@ -96,7 +96,7 @@ class UnitedKingdom(DPA):
                         f.write(doc_response.content)
 
                     text = pdf_to_text_service(dirpath + '/original.pdf')
-                    with open(dirpath + '/' + self.iso_code.lower() + '.txt', 'w') as f:
+                    with open(dirpath + '/' + self.country_code.lower() + '.txt', 'w') as f:
                         f.write(text)
 
 

@@ -35,12 +35,12 @@ from .....policies import webdriver_executable_path_policy
 
 class Brandenburg(DPA):
     def __init__(self):
-        iso_code='de'
-        super().__init__(iso_code)
+        country_code='de'
+        super().__init__(country_code)
 
-    def get_docs(self, path):
-        if bulk_collect_location_policy.is_allowed(path) is False:
-            raise ValueError('Bulk collect path is illegal ' + path)
+    def get_docs(self):
+        if bulk_collect_location_policy.is_allowed(self.path) is False:
+            raise ValueError('Bulk collect path is illegal ' + self.path)
 
         source = {
             "host": "https://www.lda.brandenburg.de",
@@ -118,7 +118,7 @@ class Brandenburg(DPA):
                         document_content = document_response.content
                         document_soup = BeautifulSoup(document_content, 'html.parser')
 
-                        dirpath = root_path + '/' + document_folder_md5
+                        dirpath = self.root_path + '/' + document_folder_md5
                         try:
                             os.makedirs(dirpath)
 

@@ -23,12 +23,12 @@ from ...policies import gdpr_policy
 
 class Finland(DPA):
     def __init__(self):
-        iso_code='FI'
-        super().__init__(iso_code)
+        country_code='FI'
+        super().__init__(country_code)
 
-    def get_docs(self, path):
-        if bulk_collect_location_policy.is_allowed(path) is False:
-            raise ValueError('Bulk collect path is illegal: ' + path)
+    def get_docs(self):
+        if bulk_collect_location_policy.is_allowed(self.path) is False:
+            raise ValueError('Bulk collect path is illegal: ' + self.path)
 
         for source in self.sources:
             host = source['host']
@@ -40,7 +40,7 @@ class Finland(DPA):
             pagination.add_item(host + start_path)
 
             folder_name = self.country.replace(' ', '-').lower()
-            root_path = path + '/' + folder_name
+            root_path = self.path + '/' + folder_name
 
             while pagination.has_next():
                 page_url = pagination.get_next()
@@ -74,7 +74,7 @@ class Finland(DPA):
                         print('file already exists, continue.')
 
                     language_code = 'fi'
-                    
+
                     document_area = document_soup.find('div', class_=target_element['document'].split('.')[-1])
                     document_text = document_area.get_text()
 

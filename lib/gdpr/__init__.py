@@ -27,6 +27,7 @@ from .dpa.spain import Spain
 from .dpa.sweden import Sweden
 from .dpa.united_kingdom import UnitedKingdom
 
+# maybe turn into Enum(str,object)...
 class EUMember(object):
     AUSTRIA        = 'AT'
     BELGIUM        = 'BE'
@@ -60,61 +61,61 @@ class EUMember(object):
 class GDPR(object): # acts as a mediator/facade pattern :: find su:ku slides.
     EU_MEMBER = EUMember()
 
-    def get_dpa(self, iso_code):
-        iso_code = iso_code.upper()
-        if iso_code == GDPR.EU_MEMBER.AUSTRIA:
+    def get_dpa(self, country_code):
+        country_code = country_code.upper()
+        if country_code == GDPR.EU_MEMBER.AUSTRIA:
             return Austria()
-        elif iso_code == GDPR.EU_MEMBER.BELGIUM:
+        elif country_code == GDPR.EU_MEMBER.BELGIUM:
             return Belgium()
-        elif iso_code == GDPR.EU_MEMBER.BULGARIA:
+        elif country_code == GDPR.EU_MEMBER.BULGARIA:
             return Bulgaria()
-        elif iso_code == GDPR.EU_MEMBER.CROATIA:
+        elif country_code == GDPR.EU_MEMBER.CROATIA:
             return Croatia()
-        elif iso_code == GDPR.EU_MEMBER.CYPRUS:
+        elif country_code == GDPR.EU_MEMBER.CYPRUS:
             return Cyprus()
-        elif iso_code == GDPR.EU_MEMBER.CZECH_REPUBLIC:
+        elif country_code == GDPR.EU_MEMBER.CZECH_REPUBLIC:
             return CzechRepublic()
-        elif iso_code == GDPR.EU_MEMBER.DENMARK:
+        elif country_code == GDPR.EU_MEMBER.DENMARK:
             return Denmark()
-        elif iso_code == GDPR.EU_MEMBER.ESTONIA:
+        elif country_code == GDPR.EU_MEMBER.ESTONIA:
             return Estonia()
-        elif iso_code == GDPR.EU_MEMBER.FINLAND:
+        elif country_code == GDPR.EU_MEMBER.FINLAND:
             return Finland()
-        elif iso_code == GDPR.EU_MEMBER.FRANCE:
+        elif country_code == GDPR.EU_MEMBER.FRANCE:
             return France()
-        elif iso_code == GDPR.EU_MEMBER.GREECE:
+        elif country_code == GDPR.EU_MEMBER.GREECE:
             return Greece()
-        elif iso_code == GDPR.EU_MEMBER.HUNGARY:
+        elif country_code == GDPR.EU_MEMBER.HUNGARY:
             return Hungary()
-        elif iso_code == GDPR.EU_MEMBER.IRELAND:
+        elif country_code == GDPR.EU_MEMBER.IRELAND:
             return Ireland()
-        elif iso_code == GDPR.EU_MEMBER.ITALY:
+        elif country_code == GDPR.EU_MEMBER.ITALY:
             return Italy()
-        elif iso_code == GDPR.EU_MEMBER.LATVIA:
+        elif country_code == GDPR.EU_MEMBER.LATVIA:
             return Latvia()
-        elif iso_code == GDPR.EU_MEMBER.LITHUANIA:
+        elif country_code == GDPR.EU_MEMBER.LITHUANIA:
             return Lithuania()
-        elif iso_code == GDPR.EU_MEMBER.LUXEMBOURG:
+        elif country_code == GDPR.EU_MEMBER.LUXEMBOURG:
             return Luxembourg()
-        elif iso_code == GDPR.EU_MEMBER.MALTA:
+        elif country_code == GDPR.EU_MEMBER.MALTA:
             return Malta()
-        elif iso_code == GDPR.EU_MEMBER.NETHERLANDS:
+        elif country_code == GDPR.EU_MEMBER.NETHERLANDS:
             return Netherlands()
-        elif iso_code == GDPR.EU_MEMBER.POLAND:
+        elif country_code == GDPR.EU_MEMBER.POLAND:
             return Poland()
-        elif iso_code == GDPR.EU_MEMBER.PORTUGAL:
+        elif country_code == GDPR.EU_MEMBER.PORTUGAL:
             return Portugal()
-        elif iso_code == GDPR.EU_MEMBER.ROMANIA:
+        elif country_code == GDPR.EU_MEMBER.ROMANIA:
             return Romania()
-        elif iso_code == GDPR.EU_MEMBER.SLOVAKIA:
+        elif country_code == GDPR.EU_MEMBER.SLOVAKIA:
             return Slovakia()
-        elif iso_code == GDPR.EU_MEMBER.SLOVENIA:
+        elif country_code == GDPR.EU_MEMBER.SLOVENIA:
             return Slovenia()
-        elif iso_code == GDPR.EU_MEMBER.SPAIN:
+        elif country_code == GDPR.EU_MEMBER.SPAIN:
             return Spain()
-        elif iso_code == GDPR.EU_MEMBER.SWEDEN:
+        elif country_code == GDPR.EU_MEMBER.SWEDEN:
             return Sweden()
-        elif iso_code == GDPR.EU_MEMBER.GERMANY:
+        elif country_code == GDPR.EU_MEMBER.GERMANY:
             return Germany()
-        elif iso_code == GDPR.EU_MEMBER.UNITED_KINGDOM:
+        elif country_code == GDPR.EU_MEMBER.UNITED_KINGDOM:
             return UnitedKingdom()

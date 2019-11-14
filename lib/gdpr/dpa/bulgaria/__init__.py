@@ -24,12 +24,12 @@ from urllib.parse import urlparse
 
 class Bulgaria(DPA):
     def __init__(self):
-        iso_code='BG'
-        super().__init__(iso_code)
+        country_code='BG'
+        super().__init__(country_code)
 
-    def get_docs(self, path):
-        if bulk_collect_location_policy.is_allowed(path) is False:
-            raise ValueError('Bulk collect path is illegal: ' + path)
+    def get_docs(self):
+        if bulk_collect_location_policy.is_allowed(self.path) is False:
+            raise ValueError('Bulk collect path is illegal: ' + self.path)
 
         for source in self.sources:
             source_host = source['host']
@@ -106,8 +106,8 @@ class Bulgaria(DPA):
                         except:
                             print('Timeout session occurred.')
 
-                        root_path = path
-                        dirpath = root_path + '/' + self.iso_code + '/' + query['aid']
+                        root_path = self.path
+                        dirpath = root_path + '/' + self.country_code + '/' + query['aid']
 
                         try:
                             os.makedirs(dirpath)
@@ -122,7 +122,7 @@ class Bulgaria(DPA):
                         except:
                             print('Oops. PDF conversion went wrong.')
 
-                        with open(dirpath + '/' + self.iso_code.lower() + '.txt', 'w') as f:
+                        with open(dirpath + '/' + self.country_code.lower() + '.txt', 'w') as f:
                             f.write(document_text)
 
                         break # there's only one pdf respective to each document

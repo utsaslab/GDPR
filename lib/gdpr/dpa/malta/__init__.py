@@ -28,12 +28,12 @@ import textract
 
 class Malta(DPA):
     def __init__(self):
-        iso_code='mt'
-        super().__init__(iso_code)
+        country_code='mt'
+        super().__init__(country_code)
 
-    def get_docs(self, path):
-        if bulk_collect_location_policy.is_allowed(path) is False:
-            raise ValueError('Bulk collect path is illegal ' + path)
+    def get_docs(self):
+        if bulk_collect_location_policy.is_allowed(self.path) is False:
+            raise ValueError('Bulk collect path is illegal ' + self.path)
 
         source = self.sources[0]
 
@@ -42,7 +42,7 @@ class Malta(DPA):
         target_element = source['target_element']
 
         folder_name = self.country.replace(' ', '-').lower()
-        root_path = path + '/' + folder_name
+        root_path = self.path + '/' + folder_name
 
         results_url = host + start_path
 
