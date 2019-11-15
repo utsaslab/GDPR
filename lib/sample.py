@@ -83,7 +83,7 @@ def main():
     os.environ['gh-repo-name'] = 'GDPR'
 
     gdpr = GDPR()
-    dpa = gdpr.get_dpa(GDPR.EU_MEMBER.ITALY)
+    dpa = gdpr.get_dpa(GDPR.EU_MEMBER.SLOVENIA)
 
     now = datetime.datetime.now()
     data_path = '../data/{date}/'.format(date='09-25-2019') # prod: now.strftime("%m-%d-%Y")
@@ -93,7 +93,8 @@ def main():
 
     translate_client = translate.Client.from_service_account_json('./gdpr/assets/pyGDPR-a18bc25c5d12.json')
     dpa.set_translate_client(translate_client)
-    dpa.translate_docs(target_languages=['en', 'da'], price_terminate=20.0)
+
+    dpa.translate_docs(target_languages=['en'], price_terminate_usd=20.0)
     return None
 
     if closed_dpa_issues_specification.is_satisfied_by(dpa) is False:
