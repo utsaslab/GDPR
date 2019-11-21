@@ -1,4 +1,4 @@
-class PriceTerminateTranslateSpecification():
+class PriceTerminateTranslateSpec():
     def __init__(self, price_terminate_usd):
         self.price_terminate_usd = price_terminate_usd
     def is_satisfied_by(self, price):

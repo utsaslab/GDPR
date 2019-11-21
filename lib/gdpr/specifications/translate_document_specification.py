@@ -1,4 +1,4 @@
-class TranslateDocumentSpecification():
+class TranslateDocumentSpec():
     def __init__(self, docs):
         self.docs = docs
     def is_satisfied_by(self, doc):

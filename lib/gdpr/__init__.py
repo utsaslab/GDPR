@@ -1,3 +1,4 @@
+from enum import Enum
 from .dpa.austria import Austria
 from .dpa.belgium import Belgium
 from .dpa.bulgaria import Bulgaria
@@ -27,8 +28,7 @@ from .dpa.spain import Spain
 from .dpa.sweden import Sweden
 from .dpa.united_kingdom import UnitedKingdom
 
-# maybe turn into Enum(str,object)...
-class EUMember(object):
+class EUMember(enum):
     AUSTRIA        = 'AT'
     BELGIUM        = 'BE'
     BULGARIA       = 'BG'
@@ -59,63 +59,61 @@ class EUMember(object):
     UNITED_KINGDOM = 'GB'
 
 class GDPR(object): # acts as a mediator/facade pattern :: find su:ku slides.
-    EU_MEMBER = EUMember()
-
     def get_dpa(self, country_code):
         country_code = country_code.upper()
-        if country_code == GDPR.EU_MEMBER.AUSTRIA:
+        if country_code == EUMember.AUSTRIA.value:
             return Austria()
-        elif country_code == GDPR.EU_MEMBER.BELGIUM:
-            return Belgium()
-        elif country_code == GDPR.EU_MEMBER.BULGARIA:
-            return Bulgaria()
-        elif country_code == GDPR.EU_MEMBER.CROATIA:
-            return Croatia()
-        elif country_code == GDPR.EU_MEMBER.CYPRUS:
-            return Cyprus()
-        elif country_code == GDPR.EU_MEMBER.CZECH_REPUBLIC:
-            return CzechRepublic()
-        elif country_code == GDPR.EU_MEMBER.DENMARK:
-            return Denmark()
-        elif country_code == GDPR.EU_MEMBER.ESTONIA:
-            return Estonia()
-        elif country_code == GDPR.EU_MEMBER.FINLAND:
-            return Finland()
-        elif country_code == GDPR.EU_MEMBER.FRANCE:
-            return France()
-        elif country_code == GDPR.EU_MEMBER.GREECE:
-            return Greece()
-        elif country_code == GDPR.EU_MEMBER.HUNGARY:
-            return Hungary()
-        elif country_code == GDPR.EU_MEMBER.IRELAND:
-            return Ireland()
-        elif country_code == GDPR.EU_MEMBER.ITALY:
-            return Italy()
-        elif country_code == GDPR.EU_MEMBER.LATVIA:
-            return Latvia()
-        elif country_code == GDPR.EU_MEMBER.LITHUANIA:
-            return Lithuania()
-        elif country_code == GDPR.EU_MEMBER.LUXEMBOURG:
-            return Luxembourg()
-        elif country_code == GDPR.EU_MEMBER.MALTA:
-            return Malta()
-        elif country_code == GDPR.EU_MEMBER.NETHERLANDS:
-            return Netherlands()
-        elif country_code == GDPR.EU_MEMBER.POLAND:
-            return Poland()
-        elif country_code == GDPR.EU_MEMBER.PORTUGAL:
-            return Portugal()
-        elif country_code == GDPR.EU_MEMBER.ROMANIA:
-            return Romania()
-        elif country_code == GDPR.EU_MEMBER.SLOVAKIA:
-            return Slovakia()
-        elif country_code == GDPR.EU_MEMBER.SLOVENIA:
-            return Slovenia()
-        elif country_code == GDPR.EU_MEMBER.SPAIN:
-            return Spain()
-        elif country_code == GDPR.EU_MEMBER.SWEDEN:
-            return Sweden()
-        elif country_code == GDPR.EU_MEMBER.GERMANY:
-            return Germany()
-        elif country_code == GDPR.EU_MEMBER.UNITED_KINGDOM:
+        elif country_code == EUMember.BELGIUM.value:
+                return Belgium()
+        elif country_code == EUMember.BULGARIA.value:
+                return Bulgaria()
+        elif country_code == EUMember.CROATIA.value:
+                return Croatia()
+        elif country_code == EUMember.CYPRUS.value:
+                return Cyprus()
+        elif country_code == EUMember.CZECH_REPUBLIC.value:
+                return CzechRepublic()
+        elif country_code == EUMember.DENMARK.value:
+                return Denmark()
+        elif country_code == EUMember.ESTONIA.value:
+                return Estonia()
+        elif country_code == EUMember.FINLAND.value:
+                return Finland()
+        elif country_code == EUMember.FRANCE.value:
+                return France()
+        elif country_code == EUMember.GREECE.value:
+                return Greece()
+        elif country_code == EUMember.HUNGARY.value:
+                return Hungary()
+        elif country_code == EUMember.IRELAND.value:
+                return Ireland()
+        elif country_code == EUMember.ITALY.value:
+                return Italy()
+        elif country_code == EUMember.LATVIA.value:
+                return Latvia()
+        elif country_code == EUMember.LITHUANIA.value:
+                return Lithuania()
+        elif country_code == EUMember.LUXEMBOURG.value:
+                return Luxembourg()
+        elif country_code == EUMember.MALTA.value:
+                return Malta()
+        elif country_code == EUMember.NETHERLANDS.value:
+                return Netherlands()
+        elif country_code == EUMember.POLAND.value:
+                return Poland()
+        elif country_code == EUMember.PORTUGAL.value:
+                return Portugal()
+        elif country_code == EUMember.ROMANIA.value:
+                return Romania()
+        elif country_code == EUMember.SLOVAKIA.value:
+                return Slovakia()
+        elif country_code == EUMember.SLOVENIA.value:
+                return Slovenia()
+        elif country_code == EUMember.SPAIN.value:
+                return Spain()
+        elif country_code == EUMember.SWEDEN.value:
+                return Sweden()
+        elif country_code == EUMember.GERMANY.value:
+                return Germany()
+        elif country_code == EUMember.UNITED_KINGDOM.value:
             return UnitedKingdom()

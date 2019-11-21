@@ -1,4 +1,4 @@
-from gdpr import GDPR
+from gdpr import GDPR, EUMember
 
 from gdpr.services.pdf_to_text_service import pdf_to_text_service
 from gdpr.services.filename_from_path_service import filename_from_path_service
@@ -9,6 +9,7 @@ from gdpr.services.absolute_urls_from_tree_service import absolute_urls_from_tre
 from gdpr.services.links_from_soup_service import links_from_soup_service
 
 from gdpr.services.anti_patterns_for_article_service import anti_patterns_for_article_service
+from gdpr.services.translate_quota_service import TranslateQuotaService
 
 import datetime
 import json
@@ -83,18 +84,30 @@ def main():
     os.environ['gh-repo-name'] = 'GDPR'
 
     gdpr = GDPR()
-    dpa = gdpr.get_dpa(GDPR.EU_MEMBER.SLOVENIA)
-
+    dpa = gdpr.get_dpa(EUMember.SLOVENIA.value)
+    print('dpa country:', dpa.country)
+    return True
     now = datetime.datetime.now()
     data_path = '../data/{date}/'.format(date='09-25-2019') # prod: now.strftime("%m-%d-%Y")
     dpa.set_path(data_path)
 
     # dpa.get_docs()
 
-    translate_client = translate.Client.from_service_account_json('./gdpr/assets/pyGDPR-a18bc25c5d12.json')
+    """translate_client = translate.Client.from_service_account_json('./gdpr/assets/pyGDPR-a18bc25c5d12.json')
     dpa.set_translate_client(translate_client)
 
-    dpa.translate_docs(target_languages=['en'], price_terminate_usd=20.0)
+    translate_quota_service = TranslateQuotaService()
+    translate_quota_service.set_chars_per_day(TranslateQuotaLimit.UNLIMITED.value)
+    translate_quota_service.set_chars_per_100_secs(10000000)
+    translate_quota_service.set_chars_per_100_secs_per_user(10000000)
+
+    dpa.translate_docs(
+        target_languages=['en'],
+        price_terminate_usd=300.0,
+        quota_service=translate_quota_service
+    )
+
+    dpa.classify_docs()"""
     return None
 
     if closed_dpa_issues_specification.is_satisfied_by(dpa) is False:
