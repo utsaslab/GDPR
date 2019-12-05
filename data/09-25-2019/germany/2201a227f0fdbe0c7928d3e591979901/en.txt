@@ -1,0 +1,14 @@
+27.06.2019Leitagswahl: Data Protection Commissioner calls on parties to handle voter data with care | 07/2019
+
+With political campaigns, the parties and political associations in the election campaign for votes. Addressing potential voters as precisely as possible is part of political campaigns in a vibrant democracy. For the different instruments used by political parties and voters associations, the provisions of the General Data Protection Regulation apply. The Brandenburg Data Protection Officer, Dagmar Hartge, points to its significance for the forthcoming state parliament election:
+
+A lawful processing of personal data is the alpha and omega for a fair election campaign. Only if the parties respect their voters' privacy with respect will they show the candidates, but also the elections themselves, the confidence they need in a democracy.
+
+When using personal data, the parties, candidates and candidates have to be aware of transparency, earmarking, proportionality as well as safe but temporary storage and use of the data. They must inform the data subjects of their rights and document how the processing complies with the principles of data protection. This also applies to data of the eligible voters (such as name and address), which were transmitted to the parties by means of information from the register of civil servants. The registration authorities are authorized to provide such information, unless the persons concerned have objected. The parties are obliged under the Federal Law on Registration to delete this data no later than one month after the election. If they have received contact data in other ways and for other purposes (eg as club members or parent representatives), it should be noted that these may not be used for the election campaign without the consent of those affected.
+In the doorstep election campaign, it is completely sufficient to keep information not in the interest of the household or property, but only in relation to larger streets or residential areas. If social networks are to be integrated, data protection argues for the renunciation of personalized election advertising in favor of addressing the largest possible groups of recipients selected according to specific criteria. Caution should be exercised when hiring data analytics companies, especially if they provide algorithms that allow parties to target social network users or otherwise use data for profiling purposes. In particular, the use of personal data that gives rise to political opinions is permissible only if the data subjects have given their consent - unless they themselves have made the information publicly available.
+The Country Representative is pleased to offer advice to parties, political associations and candidates who want to ensure that their campaigns take sufficient account of the right to privacy.
+
+
+
+Responsible:
+Sven Müller

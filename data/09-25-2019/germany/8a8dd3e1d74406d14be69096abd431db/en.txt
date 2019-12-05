@@ -1,0 +1,89 @@
+PRESS RELEASE
+TO USE COOKIES AND COOKIE BANNERS - WHAT DOES IT MEAN?
+CONSENTING TO DO (EUGH JUDGMENT "PLANET49")?
+The European Court of Justice (ECJ) has ruled that a consent with which
+Internet users store and read information (such as cookies) on their devices
+should only be effective if the user actively agrees.
+On the other hand, there is no effective consent if fields are already checked in advance or
+the consent is simply assumed because of "further surfing" (judgment of 1 October 2019 (Az.
+C-673/17 - Planet49 GmbH).
+If consent is needed but not effectively granted, data processing (e.g.
+setting or reading a cookie) is unlawful. Here threaten both the prohibition
+data processing as well as fines.
+Many website owners are now wondering how this verdict is implemented in practice
+got to. The LfDI, Dr. med. Stefan Brink, is here to help.
+Consent for storing or reading information from the terminals of the
+User is always necessary if not one of the following two exceptions applies (Art. 5
+Abs. 3 RL 2002/58 / EC):
+1. the sole purpose is to carry out or facilitate the transfer of a
+Message via an electronic communication network
+or
+2. It is absolutely necessary to get one from the participant or user expressly
+the requested information society service
+Users do not usually want profiles about their personal usage
+created and evaluated, or to third parties (for example, through the integration of external
+Elements such as reach analysis tools or social media plugins).
+
+King Street 10 a
+
++49 711 7 61 55 41 - 716
+
+70173 Stuttgart
+
+pressestelle@lfdi.bwl.de
+
+https: //www.badenhttps: //www.baden-wuerttemberg.datenschutz.de/
+wuerttemberg.datenschutz.de/
+
+When is no consent required?
+Examples of consent-free cookies are those that use the "shopping cart" feature.
+allow or save settings (such as font sizes, etc.), if they are really only for
+be used for this purpose. It should be noted, however, that the data processing
+(with or without the help of cookies) in the privacy policy.
+When is a consent necessary in every case?
+Who uses cookies, for example, to analyze user behavior for advertising purposes and to
+tracking or having it analyzed by a third party
+voluntary, prior, active, separate and revocable declared consent of the user.
+"Consent banners" must be used if, in fact, a consent of the
+User is necessary, so in particular data to be passed on to third parties or third parties
+Possibility is opened to collect data. Examples include analytics tools, social media plugins, external map services, and other third party elements.
+In such a case, the following requirements for consent must be observed:
+
+
+
+
+
+
+
+
+
+
+
+
+Clear, not misleading heading - mere respect for the
+Privacy is not enough. It is recommended to headlines in which the scope
+the decision, such as "sharing your user data
+Third". Links must be clearly and unambiguously described - essential
+Elements / contents, in particular a privacy statement, must not be linked
+to be veiled.
+The subject of the consent must be made clear - clear answer
+the following questions: what personal information is affected? What is happening
+with you? Who gets access to the data? Be the personal information with
+linked to other data? What purpose does it serve?
+The consent must not be preset - an opt-in in the sense of an informed, voluntary,
+previous, active and separately declared consent is necessary (see page 5 of the
+Guidance).
+No data may be disclosed before consent by the user
+was granted.
+Access to the imprint and privacy policy may not be prevented or
+be restricted before consent is granted by the user.
+The voluntary nature of the consent declaration must be made clear and a
+Reference to the right of revocation at any time must be included;
+For example, "This consent is voluntary, not for the use of this site
+necessary and can be revoked at any time by [...] ".
+How the revocation is to be explained in the information to the declaration of consent is clear and
+to be clearly described. The declaration of withdrawal must always be as simple as
+the consent form itself.
+
+The most frequently asked questions with the corresponding answers to the topics tracking, plug-ins,
+Cookies, consent banners and Co. have the LfDI on a FAQ website together

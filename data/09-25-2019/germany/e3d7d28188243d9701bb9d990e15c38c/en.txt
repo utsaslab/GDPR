@@ -1,0 +1,62 @@
+Results of the 97th Conference of the
+independent data protection supervisory authorities of the Federal and the Länder am
+3-4. April 2019 at the Hambach Castle
+Privacy activists decide Hambacher declaration
+to Artificial Intelligence
+Press release - page 1/3
+Munich, 08.04.2019
+
+The 97th Conference of Independent Data Protection Supervisors of the
+Federal and Länder met on 3 and 4 April 2019 on the Hambacher
+Lock.
+Among other things, the DSK has commented on the following topics:
+Hambach Declaration on Artificial Intelligence
+One focus of the conference was the discussion about Artificial Intelligence (AI). The German data protection supervisory authorities have
+passed the Hambach Declaration on Artificial Intelligence. she
+gives an example of the use of AI systems in medicine, in particular in diagnosis, language assistance and the evaluation of
+Application documents in the selection of candidates. From the current data protection law, seven requirements are derived, already today
+must be complied with. Thus, the use of AI systems must be comprehensible and explainable, contain the principle of data minimization, avoid discrimination and require technical and organizational support.
+
+Your right to privacy - our mission
+
+Press release from 08.04.2019 - page 2/3
+The Bavarian State Commissioner for Data Protection informed
+
+satorial standards. The data protection supervisory authorities want to accompany the development and call on science, politics and users,
+to steer the development of AI in terms of data protection. At the core
+the point is that in the end people and not machines decide on people.
+The resolution is available here:
+https://www.datenschutz-bayern.de/dsbk-ent/DSK_97Hambacher_Erklaerung.html
+Brexit - precautions of regulators on an unregulated
+Britain leaves the EU
+The DSK has discussed the consequences of an unregulated Brexit.
+Already on March 8, 2019, she passed a resolution to the
+legal duties of those responsible in the event of an unregulated
+Exit indicates. In the event of an unregulated exit, the United
+Kingdom as a third country within the meaning of the General Data Protection Regulation
+consider and there leading data transfers are accordingly
+to secure separately. In the absence of such safeguards, data processing could be suspended and fines imposed.
+The decision is available here:
+https://www.datenschutz-bayern.de/dsbk-ent/DSK_96p-Brexit.html
+Hacker Attack - Guidance for providers of online services
+In response to the hacker attack on politicians as well
+Public figures in January 2019, the privacy advocates have adopted an orientation guide "Requirements for operators of online services to secure access". In it online services are measures to secure access to the state of the art
+
+Press release dated 08.04.2019 - Page 3/3
+The Bavarian State Commissioner for Data Protection informed
+
+recommended. This applies to specifications for setup, transmission, storage
+and password usage, handling attacks and failed login attempts.
+The orientation guide is available here:
+https://www.datenschutz-bayern.de/dsbk-ent/DSK_97-Online-Dienste.pdf
+
+Prof. Dr. Thomas Petri
+
+The Bavarian State Commissioner for Data Protection checks compliance with data protection regulations at the Bavarian public authorities. He is from the Bavarian
+Diet elected, independent and not bound by instructions.
+
+The Privacy Conference consists of the Independent Data Protection Supervisors of the
+Federal and states. The 97th Conference took place on 3 and 4 April 2019 at the Hambacher
+Castle held. The annually rotating chairmanship hosts the sessions of the Privacy Conference
+and represents the conference externally. In 2019, the country commissioner for data protection and
+freedom of information Rhineland-Palatinate presides.

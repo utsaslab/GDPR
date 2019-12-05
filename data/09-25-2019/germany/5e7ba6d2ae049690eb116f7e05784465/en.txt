@@ -1,0 +1,51 @@
+press release
+711.402.1
+
+June 27, 2019
+
+Data Protection Adaptation Act - supposed red tape is one
+Naive fallacy
+The Bundestag plans, in today's last meeting before the summer break, the second
+Data Protection Adaptation and Implementation Act EU to adopt. This should be more
+as 150 German technical laws to the regulations of the basic data protection regulation (DSGVO) are adapted. The Berlin Commissioner for Data Protection and Freedom of Information,
+Maja Smoltczyk, warns against the extensive and partially dubious draft bill
+to be whipped through in the present version.
+Among other things, the draft envisages raising the threshold from which companies are obliged
+are to appoint a data protection officer. So far, this threshold was 10
+Employees entrusted with the processing of personal data. In future, one should
+Obligatory appointment only from 20 employees.
+Companies often feel left alone to implement data protection regulations.
+However, they are not helped to relax the obligation to ensure data protection expertise in the company. Because even without the obligation to order
+Data protection officers must fully comply with the complex requirements of the DS-GVO
+be implemented. Otherwise, it threatens violations and sanctions. As head of the
+Supervisory authority of a start-up metropolis, it is the Berlin Data Protection Commissioner
+particular concern that companies are well advised on data protection. Especially
+in this area, where artificial intelligence and big data are of increasing importance,
+Small companies often process many and highly sensitive data. Will the privacy
+Not contemplated from the beginning and constantly monitored, threatening far-reaching
+Violations of fundamental rights, but also high material and immaterial damages for the
+affected companies. Data protection officers hereby ensure competent legal and
+technical advice. They help to prevent breaches in advance and reduce the risk of
+Fines and momentous administrative arrangements to keep low. They act as mediators
+between the company and the supervisory authority and are the first point of contact in case of breakdowns,
+so that you can act quickly and correctly. The under severe lack of resources
+Suffering regulators are unable to compensate for this important work. Out
+For these reasons, the concept of the company data protection officer, which has a
+German specificity, for decades and therefore long before the entry into force of the
+DS-GVO proven.
+Maja Smoltczyk:
+"The proposed regulation suggests a reduction in bureaucracy for small businesses, though
+this bill will not work. Without a regulated privacy management and the
+Know-how of experts is the implementation of data protection regulations for companies
+probably more labor intensive and more expensive. I recommend affected companies and clubs
+therefore urgently, even without legal obligation data protection officers continue to
+appoint and appropriately equip. "
+Responsible: Dalia Kues
+Office: Cristina Vecchi
+E-Mail: presse@datenschutz-berlin.de
+
+Friedrichstr. 219
+10969 Berlin
+
+Tel: 030 13889 - 0
+Fax: 030 2155050

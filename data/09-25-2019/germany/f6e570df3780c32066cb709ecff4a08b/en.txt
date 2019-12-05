@@ -1,0 +1,59 @@
+Conference of Independent Data Protection Supervisors
+of the Federation and the Länder - Düsseldorf, 5 September 2018
+
+Decision of the DSK to Facebook Fanpages
+By judgment of 5 June 2018, the Court of Justice of the European Union (ECJ), reference C-210/16, decided that a joint responsibility of
+Facebook fan page operators and Facebook exists. The conference of the independent data protection supervisory authorities of the federation and the countries
+(DSK), in its resolution of 6 June 2018, made clear the consequences of the judgment for those jointly responsible - in particular for
+the operators of a fanpage - result.
+In the case of joint responsibility, the Basic Data Protection Regulation requires
+(DSGVO), inter alia, an agreement between the parties, which clarifies
+how the obligations under the GDPR are fulfilled.
+Three months have passed since the judgment of the ECJ. Although Facebook has some
+Changes have been made in its offer, for example regarding cookies, but people who are not Facebook users will continue to do so
+and users are set to cookies with identifiers, at least when they over the
+Just go to the homepage of a fanpage to get content there.
+Also, the fanpage visits of those affected by
+partially preset criteria in the context of a so-called Insights function
+evaluated by Facebook and available to the operators
+posed.
+The ECJ has highlighted, among other things, that "those maintained on Facebook
+Fanpages can also be visited by people who are not Facebook users
+and therefore do not have a user account on this social network.
+In this case, the responsibility of the operator of the fan page regarding the processing of the personal data of these persons appears even higher,
+since the mere calling up of the fan page by visitors automatically the processing
+their personal data. "
+
+Official announcements from Facebooks, whether and what steps are being taken to enable a legally compliant operation of Facebook fanpages, have so far failed. An agreement announced by Facebook in June 2018 pursuant to Art. 26 DSGVO (Joint Data Controller) has not yet been made available. The German data protection supervisory authorities therefore work towards a coordinated approach towards Facebook at European level.
+Fanpage operators also have to face their data protection responsibility. Without agreement according to Art. 26 DSGVO the company is
+a fan page, as it is currently offered by Facebook, unlawful.
+Therefore, the DSK demands that now the requirements of data protection law
+Operation of fanpages are met. This includes, in particular, that the jointly responsible persons provide clarity about the current situation and the necessary information to the persons concerned (= visitors
+the Fanpage).
+However, a shared responsibility also means that fan page operators (whether public or private) are responsible
+non-public responsible persons) can guarantee the legality of jointly responsible data processing and can prove this. In addition, data subjects can assert their rights under the GDPR with and against each person responsible (Art. 26 (3) GDPR).
+In particular, the questions listed in the appendix must therefore be able to be answered by both Facebook and fanpage operators.
+
+Appendix: Questionnaire
+
+1. In what way is it decided between you and other co-responsible persons, who of you which obligation according to the
+DSGVO fulfilled? (Article 26 (1) GDPR)
+2. On the basis of which agreement you have determined among each other who
+which information obligations under Art. 13 and 14 GDPR comply?
+3. In what way will the essential aspects of this agreement become the
+provided to affected persons?
+4. How do you ensure that the data subject (Article 12 ff. DSGVO) complies?
+particular the rights to cancellation under Article 17 GDPR,
+to restriction of processing according to Art. 18 GDPR, to opposition
+pursuant to Art. 21 DSGVO and information pursuant to Art. 15 GDPR?
+5. For what purposes and on what legal basis do you process the
+personal data of the visitors of fanpages?
+What personal data is stored? To what extent
+Created or enriched profiles based on Facebook Fanpages visits? Is personal information used by non-Facebook members to create profiles? What deletion periods are
+intended?
+6. For what purposes and on which legal basis are bcreated non-members entries in the so-called local storage?
+7. For what purposes and on what legal basis are called after call
+a subpage within the fanpage offering a session cookie and
+saved three cookies with lifetimes between four months and two years?
+8. What steps have you taken to fulfill your obligations under Art. 26
+DSGVO as a data controller and to conclude a corresponding agreement?

@@ -1,0 +1,12 @@
+07.10.2019Confirmation in Cookies - Website operators have to act now! | 10/2019
+
+In its ruling of 1 October 2019, the European Court of Justice has clarified that website operators may use cookies only with the active and voluntary consent of users. Information about the useful life of the cookies as well as about the possibility of third parties to access the collected data, are indispensable. Default consents were declared inadmissible by the European Court of Justice.
+Cookies are small files stored by website operators on the user's computer. The focus of criticism are those cookies that are not required for the functionality of websites. These serve, for example, the operators to analyze the surfing behavior or the preferences of site visitors or are used for the purpose of personalized advertising. In part, such information is widely disclosed to third parties. Dagmar Hartge:
+
+The ruling answers the controversial question of how cookies can be used for data protection purposes - and that with welcome clarity. Both public authorities and companies and associations in Brandenburg using cookies on their website are invited to take action now: they must check the cookie functions of their websites, design comprehensible user options and their privacy and cookie information revise.
+
+Active consent has not been provided for by many German providers so far. For example, on a large number of cookie banners, you can agree to the use of cookies by using a website, or a corresponding box is already checked. This approach is clearly no longer tenable. By clarifying that users in Germany have the right to actively decide on the use of cookies, the European Court of Justice contributes significantly to the implementation of the General Data Protection Regulation. The judgment confirms the opinion of the data protection supervisory authorities.
+The full text of the judgment of the European Court of Justice of 1 October 2019 (Case C-673/17) is available at curia.europa.eu. The independent data protection authorities of the federal and state governments provide information to providers of telemedia in an orientation guide to adapt their Internet offers. It can be downloaded from www.lda.brandenburg.de.
+
+Responsible:
+Sven Müller
