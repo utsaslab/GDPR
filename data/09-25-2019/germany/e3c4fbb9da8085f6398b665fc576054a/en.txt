@@ -1,0 +1,11 @@
+11.09.2019Health and Social Data: Businesses and Associations Responsible | 09/2019
+
+In the past summer, attentive citizens have several times pointed to the State Data Protection Commissioner on files lying around on freely accessible areas or in unused buildings. The scope of the file finds ranges from a single box full of documents with health-related customer data to several dozen moving boxes, which contained documents with health and social data of a large number of affected persons. The country commissioner is currently preparing supervisory and fine proceedings in order to clarify and prosecute these blatant data protection violations. In a particularly serious case, she has already filed a criminal complaint with the prosecutor. Dagmar Hartge:
+
+I am shocked by the carelessness of some black sheep when dealing with social and health data. The potential harm to those affected is extremely high and could have been prevented by simple measures. Keeping records with personal reference secure and disposing of data protection - that's no big deal.
+
+Data security remains a permanent task for companies and associations. It is not limited to electronic data processing, but also includes conventional paper files. This may have been a bit out of sight in the course of digitization. Companies and associations are obliged to keep files that are subject to a retention obligation safe. A destruction of documents that is no longer needed in accordance with data protection must ensure that their content can not be reconstructed. If an external provider is commissioned with this, a contract processing contract must be concluded. The responsibility for the privacy-oriented disposal of documents also persists even after a business break-up. Unauthorized third parties may under no circumstances have access to the data. If a person in charge learns about the illegal handling of documents - for example by informing employees or members - he must immediately report this to the supervisory authority.
+Internal regulations and technical-organizational arrangements can make it much easier to comply with these requirements. Companies and associations should therefore develop timely concepts to strengthen data security. If required, the country representative is happy to advise.
+
+Responsible:
+Sven Müller
