@@ -1,0 +1,98 @@
+PRESS RELEASE
+PRIVACY INJURIES PREPARE INCREASE CAREFUL!
+Since the effective date of the European General Data Protection Regulation (DS-GVO) on
+May 25, 2018 become the country commissioner for data protection and freedom of information
+(LfDI) reported significantly more errors when dealing with data. That's one thing
+pleasing, because this reporting obligation is one of the central requirements of the DS-GVO.
+On the other hand, behind such a message is usually a negligence or a
+Organizational fault. The number of reports of such violations of protection
+personal data according to Art. 33 DS-GVO, colloquially called "Datenpanne",
+have increased tenfold since May 2018!
+Hardly a day goes by without the state commissioner reporting data breaches
+receives. Since the beginning of the year, just under 1,000 such notifications have been received.
+The topics range from incidents with encryption ransomware (ransomware) to
+Missing medical reports. In May 2019, 177 more than ever before
+on.
+The most frequently reported privacy breaches:
+place
+
+Type of message
+
+1
+
+Post false shipping
+
+2
+
+Hacking attacks / malware / trojan
+
+3
+
+E-mail incorrect shipping
+
+4
+
+Theft of a data carrier
+
+5
+
+Sending an e-mail with an open address distributor
+
+6
+
+Loss of a disk
+
+7
+
+Fax incorrect shipping
+
+With increasing concern, the LfDI observes the high number of data breaches in
+Surgeries. Especially encryption Trojans make the responsible here to create.
+It is also a common mistake to submit patient reports, prescriptions or x-rays to the
+to transmit wrong recipient.
+
+King Street 10 a
+
++49 711 7 61 55 41 - 716
+
+70173 Stuttgart
+
+pressestelle@lfdi.bwl.de
+
+https://www.badenwuerttemberg.datenschutz.de/
+
+The State Representative, Dr. med. Stefan Brink: "Especially in the medical field
+extremely sensitive and sensitive personal data is processed. Therefore, it is
+especially important here is that these data are handled carefully and correctly.
+Technical and organizational measures such as data backup, encryption, training
+and sensitization of employees are - as in all areas in which
+personal data is handled - an absolute must! "In case of a data breach
+with health data are regularly in addition to the message to the LfDI also affected
+to notify yourself.
+When do you have to report data breaches?
+Not every violation of the protection of personal data leads to a reporting obligation
+Art. 33 DS-GMO. What matters is whether the breach of privacy is at risk for the company
+Rights and freedoms of natural persons. Explanations on this and in general for
+Obligatory reporting with clear practical examples can be found in the European guidelines
+Data Protection Committee.
+fines
+Due to erroneous handling of data so far by the penalty office of the LfDI
+Fines of 207,140 euros imposed. The highest fines were two
+Fines in the amount of € 80,000.00 - in both cases, it was
+Data breaches: In one case were in a digital publication due to insufficient
+internal controls accidentally released health data. In another
+Case, a financial information company had improperly handled personal information
+disposed of.
+Further links to the topic
+ Frequently asked questions about privacy in medical practices
+ Hacker attacks - Recommended actions after successful attacks
+ Notes on handling passwords
+ Central point of contact Cybercrime for companies and authorities
+ Contribution "discretion in the doctor's office" in the 34th TB under 7.1, p. 107
+ Contribution "Physicians and DS-GVO (privacy policy)" in the 34th TB under 1.8,
+Pp. 48-53
+ Online form for reporting a personal data protection breach
+according to Art. 33 DS-GVO
+If you have any questions, please contact us at the number 0711 / 615541-716.
+Further information on data protection can be found on the Internet at
+www.baden-wuerttemberg.datenschutz.de or under www.datenschutz.de.
