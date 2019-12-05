@@ -1,0 +1,40 @@
+press release
+July 31, 2019
+
+711.407.1
+
+ECJ ruling on social media plugins - website operators in the duty
+On Monday, the European Court of Justice ruled on the issue of
+Data protection compliant integration of a Facebook Like Button by website operators
+(C-40/17). In a consistent continuation of his jurisprudence, he thus made common cause
+Responsibility for Facebook Fanpages (C-210/16) states that it is also for the use of
+So-called social plug-ins, such as the Facebook Like Button, a shared responsibility of
+Operators of a homepage and the respective provider. Website operators can do that
+Obtaining consent from users, insofar as such are required, as well as the
+Do not postpone fulfillment of transparency obligations on Facebook.
+
+The Berlin Commissioner for Data Protection and Freedom of Information recommends Berliners
+When using social plugins, web site operators need to know exactly how far theirs
+own responsibility is sufficient, which information obligations they fulfill towards the persons concerned
+and on which legal basis the data processing should take place. If one
+would ever fall back on such plugins, recommends the Berlin
+Data Protection Officer for reasons of legal certainty, a consent-based solution
+choose. Technically, care should be taken that personal data is not already
+when calling the website.
+
+Maja Smoltczyk:
+"The ECJ's decision on the responsibilities for the
+Consistent processing of user data on the Internet. The public and private
+Website operators in Berlin, the Facebook Like Buttons or similar social plugins
+use, in particular in the interest of their users should be made up of the
+To implement the decision quickly. "
+
+Responsible: Dalia Kues
+Office: Cristina Vecchi
+E-Mail: presse@datenschutz-berlin.de
+
+Friedrichstr. 219
+10969 Berlin
+
+Tel: 030 13889 - 0
+Fax: 030 2155050
