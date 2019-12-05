@@ -1,0 +1,51 @@
+THE COUNCIL APPLICANT FOR DATA PROTECTION AND INFORMATION FREEDOM
+
+PRESS RELEASE
+
+18 June 2019
+
+LfDI Baden-Wuerttemberg imposed first fine against police officers
+- Employees of public agencies do not enjoy "immunity" in illegal
+Data processing for private purposes -
+For the purposes of the unlawful processing of personal data obtained by the
+private purposes has the penalty office of the country commissioner for data protection
+and the Freedom of Information (LfDI) by decision of May 9, 2019 against a
+Police officers imposed a fine of 1,400, - €. This is it
+the first fine against a public sector employee after the entry into force of the EU General Data Protection Regulation (DSGVO) and the new State Data Protection Act (LDSG).
+The police officer asked without official reference using his official user ID via the central traffic information system (ZEVIS) of the
+Kraftfahrbundesamtes the holder data regarding the license plate number of a private
+Random acquaintance. With the obtained personal data he led afterwards
+a so-called SARS request to the Federal Network Agency, where he
+in addition to the personal data of the victims and the deposited there fixed and
+Mobile numbers requested. Using the mobile number thus obtained
+The police officer contacted them by telephone without any official request or consent of the injured party.
+Through the ZEVIS and SARS request for private purposes and the use of the
+Sun acquired mobile number for private contact has the police officer
+Personal data from the databases of the Kraftfahrbundesamt or the
+Bundesnetzagentur is used for purposes other than that of law. This
+Infringement is not attributable to the service of the police officer, as this is the police officer
+Act not in the exercise of his official duties, but exclusively
+private purposes. The prohibition of punishment under § 28 LDSG, according to which the sanctions of the GDPR can not be imposed on public bodies, is effective
+not in the present case, since it was neither a misconduct attributable to the service, nor did the person concerned act as his own in the cases in question
+Public office i.S.d. § 2 Abs. 1 or Abs. 2 LDSG is to be qualified.
+
+Königstraße 10 a · 70173 Stuttgart · Telephone 0711 615541-0 · Fax +49 711 615541-15 · poststelle@lfdi.bwl.de · poststelle@lfdi.bwl.de-mail.de
+www.baden-wuerttemberg.datenschutz.de · PGP Fingerprint: E4FA 428C B315 2248 83BB F6FB 0FC3 48A6 4A32 5962
+The information on collection of personal data according to Article 13 DS-GVO can be found on our homepage
+(Https://www.baden-wuerttemberg.datenschutz.de/datenschutz/).
+
+-2-
+
+Within the scope of the fine under Art. 83 (5) DS-GVO, a fine was imposed in
+Height of 1,400, - Euro appropriate. In the design was in particular the
+Account that it was a first infringement, in which
+only one person was affected.
+The fine is now final.
+LfDI Brink on this:
+"Employees of public authorities also have to observe the applicable data protection rules. The provincial legislature has indeed excluded public bodies - unlike private companies - in data protection violations of the sanctioning. If
+Employees of public agencies, however, use official data for private purposes, then in serious individual cases against them personally quite
+a fine is imposed. "
+
+If you have any questions, please contact us at the number 0711 / 615541-716.
+Further information on data protection can be found on the Internet at
+www.baden-wuerttemberg.datenschutz.de or under www.datenschutz.de.
