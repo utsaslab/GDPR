@@ -1,0 +1,114 @@
+28. Activity Report for 2017 and 2018
+Press release - page 1/5
+Munich, 17.05.2019
+The Bavarian State Commissioner for Data Protection, Prof. Dr. med. Thomas
+Petri, today has his activity report for the years 2017 and 2018 of
+Public presented. Among other things, the report deals with the following topics:
+The main focuses of my work in the reporting period were
+in the context of the data protection reform 2018 (Nos. 1 and 2)
+the activity report). So I have the competent Bavarian ministries in the drafting of numerous draft laws and regulations
+accompanied. This applies in particular to the new Bavarian Data Protection Act, which came into effect on 25 May 2018, punctually on the date of application of the General Data Protection Regulation. In addition, I could
+advised many state and local authorities on the transition to the new privacy
+My homepage now provides a wide range of information. These include in addition to detailed guidance
+- about the information duties of the person responsible, the function
+the Data Protection Officer or the Data Protection Impact Assessment Tool - numerous up-to-date brief information,
+which also give concrete recommendations for action on specific issues arising from administrative practice.
+Even though the work related to the data protection reform
+Nevertheless, the data protection supervisory "everyday work" continues in 2018 and claimed to continue to claim considerable human resources. The number of entries from the citizenship and the
+Inquiries from the authorities have increased significantly in connection with the data protection reform in 2018 and have remained at a high level.
+Fortunately, the Bavarian public authorities largely take their reporting obligations for data breaches (No. 3.1.6)
+Your right to privacy - our mission
+
+Press release from 17.05.2019 - page 2/5
+The Bavarian State Commissioner for Data Protection informed
+
+very serious, so that many messages have reached me. The received messages provide a good overview of the work processes
+Bavarian public authorities and the problems that arise there. So
+I realized that electronic mailing of sensitive documents is still a big issue. Besides the misaddressing
+Often there is a lack of encryption to secure the
+Content. In many cases, therefore, the fax sent, the
+However, this often leads to "spoofers" when entering numbers, so the
+Fax arrives at wrong recipients. Messages about malware that
+In one case, it has also led to a multi-day complete system failure in a hospital, demonstrating the importance of basic IT security, the use of up-to-date software, antivirus protection and employee awareness of all public authorities.
+In addition to a critical examination of the Police Task Force Act (No. 4.1.1), the report also contains remarks on storage in police files (No. 4.4). Among other things, I illustrate with two cases, which effects the so-called
+"Mitziehklausel" can have. After this scheme renewed a new one
+police storage the storage duration of all "old" storage, since
+the storage duration for all storages depends on the longest storage period. This can lead to, for example, so-called
+"Youthful sins" are stored over unnecessarily long periods by the police
+stay.
+I also discuss intensively the changes made in 2018
+Bavarian constitution protection law (No. 5.1). I see critically
+about that there is no comprehensive notification obligation of the persons concerned
+gives. Without knowledge of a secretly done intervention is an effective one
+Legal protection but practically considerably more difficult or impossible.
+Another topic is the Transfer Forms of Prisons (No 6.4.1), which allow relatives to send money to prisoners. These were originally designed so that
+on the basis of the completed remittance slip for third parties (for example
+Bank employees) it was apparent that the named person is in a correctional facility. At my instigation werePress release from 17.05.2019 - Page 3/5
+The Bavarian State Commissioner for Data Protection informed
+
+the forms changed so that now no conclusions on
+the prisoner property of said person is possible.
+The - of me always warned - legal basis for the installation and
+Operation of electronic water meters with radio module (No. 7.3) was in
+insert the municipal code. So at the same time the so far initiated
+Data processing enclosed and tightly limited. This new provision
+contains, on the one hand, the long-term demanded unconditional right to object to the use of the radio function,
+which the fee debtor, the owner and the authorized
+User of the supplied object is entitled. For another, this standard looks
+Immediate requirements for the processing of data in an electronic water meter. The central data protection principles of necessity (data minimization) and purpose limitation form the relevant benchmarks.
+Against the background that, in particular, new parties to a choice
+may submit a specific number of supporters' signatures of voting citizens to their constituency proposal
+Community in a table to record the names of citizens already
+have supported a constituency proposal (point 7.8.2). The community
+must check that each supporter advocates only one suggestion
+Has. Further information, in particular which party supports
+was, but may not be stored.
+On the basis of a complaint, I had to deal with the admissibility of the video surveillance of a communal housing for asylum seekers (No. 7.9) run by a district office. The outdoor area
+The accommodation was almost comprehensive, the hallways of the four components were completely covered. In the process, 23 cameras were used. In view of the high intensity of intervention against residents, employees,
+Volunteers and visitors appeared to continue the operation in
+this form not possible. Therefore, I have asked the district office, at least a reduction in the scope of video surveillance
+check. After the district office has not been able to remedy my continuing concerns about the admissibility of video surveillance, has
+
+Press release from 17.05.2019 - page 4/5
+The Bavarian State Commissioner for Data Protection informed
+
+it finally declares itself completely to refuse the video surveillance of the asylum-seeker housing.
+To accompany the current evolution of digitization in healthcare (Item 8.1.3), the Conference of Independent Data Protection Supervisors of the Federation and the Länder has a sub-working group
+which deals exclusively with this complex matter. The Federal Commissioner for Data Protection and Freedom of Information has taken over the chairmanship of the sub-working group due to its nationwide importance. I am in my capacity as chairman
+of the Working Group on Health and Social Affairs of the Data Protection Conference
+continuously involved in their work. The sub-working group has already discussed numerous topics.
+With guidance, resolutions, recommendations and guidelines
+The Sub-Working Group, Politicians, Citizens and the Administration intends to provide helpful pointers for digitization in the healthcare sector
+to provide.
+In the reporting period, I have from several youth surveys
+(No. 9.5.1). It is about an instrument of the carrier
+the public youth welfare service, with the desires, needs and interests of young people regarding the leisure offer
+to be queried. The result of the survey should then be incorporated into the so-called youth welfare planning.
+In most cases, the public youth welfare service providers initially started from an anonymous survey of children and adolescents.
+In fact, due to the concrete and extensive issues a personal reference was at least producible. That's why
+also data protection regulations are observed. So must about
+Data protection instructions provided and in the integration of service providers data protection regulations are observed in the context
+of a contract should be laid down.
+The subject of several requests from municipalities was the information access by the local council: This coveted the provision of a
+"Best List" of the business taxpayers (No. 10.2). Information in
+Pressemitteilung vom 17.05.2019 – Seite 5/5
+Der Bayerische Landesbeauftragte für den Datenschutz informiert
+
+chen Listen fallen unter das Steuergeheimnis und sind oft auch als personenbezogene Daten zu werten, etwa, wenn sie einen Einzelkaufmann mit
+einem Ladengeschäft betreffen. Meine steuer- und kommunalrechtliche
+Würdigung machte deutlich, dass dem Gemeinderat derart sensible Informationen ohne einen konkreten Anlass grundsätzlich nicht überlassen
+werden dürfen.
+Beim Online-Kartenvorverkauf öffentlicher Theater (Nr. 11.4) dürfen
+personenbezogene Daten der Kartenkäufer solange gespeichert werden,
+wie es für die Abwicklung des Vorgangs erforderlich ist. Darüber hinausgehende, längerfristige Speicherungen insbesondere der Bankverbindungsdaten in einem Benutzerkonto sind mit Einwilligung des jeweiligen
+Kartenkäufers zulässig. Im Rahmen meiner Aufsichtstätigkeit habe ich ein
+Theater aufgefordert, sein Verfahren entsprechend umzustellen, da es
+diese Anforderungen bislang nicht ausreichend beachtet hat.
+Um den Schutz der personenbezogenen Daten von Gemeindebediensteten ging es bei einer Anfrage aus einer Kommune. Dort hatte der Rechnungsprüfungsausschuss des Gemeinderats die Vorlage der Gehaltsabrechnungen (Nr. 12.5) aller Beschäftigten gefordert. Meine Prüfung
+ergab, dass der Ausschuss kein generelles, voraussetzungsloses Einsichtsrecht hat, sondern in jedem Einzelfall konkret darlegen muss, dass
+die Kenntnis der geforderten Daten für seine Aufgabenerfüllung erforderlich ist. Nur dann kann sich das öffentliche Interesse an einer umfassenden Rechnungsprüfung gegen den Schutz der – an sich strikt abgeschirmten – Personalaktendaten durchsetzen.
+
+Prof. Dr. Thomas Petri
+
+Der Bayerische Landesbeauftragte für den Datenschutz kontrolliert bei den bayerischen öffentlichen Stellen die Einhaltung datenschutzrechtlicher Vorschriften. Er ist vom Bayerischen
+Landtag gewählt, unabhängig und niemandem gegenüber weisungsgebunden.
