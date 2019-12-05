@@ -1,0 +1,48 @@
+THE COUNCIL APPLICANT FOR DATA PROTECTION AND INFORMATION FREEDOM
+
+PRESS RELEASE
+
+November 22, 2018
+
+LfDI Baden-Württemberg imposes its first fine in Germany
+according to the DS-GVO
+- Co-operation with supervision makes it all right Because of a breach of the data security required by Art. 32 DS-GVO, the penalty office of the LfDI Baden-Württemberg has notified of
+21.11.2018 imposed a fine of 20,000 euros on a Baden-Württemberg social media provider and - in constructive cooperation with the company - for extensive improvements in the security of user data
+taken care of.
+The company had a data breach message on September 08, 2018
+turned to the LfDI, after noticing that by a hacker attack in the
+July 2018 personal data of approximately 330,000 users, including passwords
+and e-mail addresses, stolen and published in early September 2018
+were. Your users informed the company immediately and comprehensively about the hacker attack in accordance with the provisions of the EU Data Protection Basic Order (DS-GVO). Compared to the LfDI, the company presented exemplary data processing and corporate structures as well as its own failures. As a result, the LfDI announced that the company's passwords
+their users in plain text, thus unencrypted and unaltered (unashashed), had saved. The company used these clear-text passwords when using a so-called "password filter" to prevent the transmission of user passwords
+to unauthorized third parties with the aim of better protecting users.
+
+Königstraße 10 a · 70173 Stuttgart · Telephone 0711 615541-0 · Fax +49 711 615541-15 · poststelle@lfdi.bwl.de
+www.baden-wuerttemberg.datenschutz.de · PGP Fingerprint: E4FA 428C B315 2248 83BB F6FB 0FC3 48A6 4A32 5962
+The information on the collection of personal data by the data subject under Article 13 DS-GVO can be found on our homepage
+(https://www.baden-wuerttemberg.datenschutz.de/datenschutz/).
+
+-2-
+
+The company deployed far-reaching measures within a few weeks
+Improvement of their IT security architecture and brought the backup of their user data on the current state of the art. In addition, the company becomes
+Implement additional measures to further improve data security within the next few weeks in consultation with LfDI.
+By storing the passwords in clear text, the company knowingly violated its duty to ensure data security in the processing of personal data pursuant to Art. Article 32 (1) (a) of the GDPR.
+Within the fine framework according to article 83 paragraph 4 DS-GVO spoke the very good
+Cooperation with the LfDI in particular to the benefit of the company. The
+Transparency of the company was just as exemplary as the readiness to
+Guidelines and recommendations of the country commissioner for data protection and the
+Freedom of information, dr. Stefan Brink, implement. This way could in very
+In a short time, the security of the user data of the social media service will be significantly improved. In coordination with the LfDI, the backup of user data in
+the next few weeks even further expanded. In the calculation of the fine
+In addition to other circumstances, the overall financial burden on the company was taken into account. Fines should not only be effective and according to the DS-GVO
+be daunting but also proportionate. Taking into account the IT security measures that have been implemented and advised, the company, including the fine as a result of the infringement, has to bear a total amount in the six-figure euro range.
+"Who learns from harm and transparent to the improvement of data protection
+can also emerge strengthened as a company from a hacker attack ",
+stressed Brink concludes. "As a fines authority it does not depend on the LfDI to enter a competition for the highest possible fines. At the end
+counts the improvement of privacy and data security for the users concerned. "
+
+If you have any questions, please contact us at 0711 / 615541-0.
+Further information on data protection can be found on the Internet at
+www.baden-wuerttemberg.datenschutz.de or under www.datenschutz.de.
+The press release is available on the Internet at http://www.badenwuerttemberg.datenschutz.de.
