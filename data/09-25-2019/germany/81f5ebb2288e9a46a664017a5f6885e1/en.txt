@@ -1,0 +1,41 @@
+PRESS RELEASE
+
+February 14, 2019
+
+Students develop privacy solutions
+
+How can users of apps and Internet services be made more sensitive to privacy and supported with tools? This question went
+Students of the degree program Business Informatics, who presented the solutions they developed at the end of their course.
+Already for the second time, students of a course of program director Prof. Dr. med. Tobias Straub in depth with questions from the field
+of privacy. They continued the cooperation with the authority of the State Commissioner for Data Protection and Freedom of Information (LfDI) BadenWürttemberg, which began in 2017. In a total of eight teams, students developed applications that serve to raise awareness, provide training, enable self-data protection and support companies in implementing data protection regulations.
+Thanks to the intensive support provided by the long-standing assistant lecturer Michael
+Schlegel mastered the often tricky challenges and developed technically sophisticated software solutions. Under the guidance of
+Lecturers Ivana Marevic as a Scrum expert, they also learned modern
+Know and apply agile development and project management methods.
+At the beginning of February, the project groups presented their findings in the presence of Martina Strifler as a representative of the LfDI authority. All groups could participate with
+A convincing solution, so that this time the jury was the choice of the best team difficult. Finally, two groups were awarded:
+Leon Ambaum, Matthias Aupperle, Franziska Brendel and Hendrik Kappler demonstrated with their browser extension how users manage the overview
+can keep track of what personal information they provide to websites
+to transfer. The novel add-on "Giracy" allows it in a simple way, the
+legal rights of the data subject, for example, to information or deletion of
+To perceive data.
+Königstraße 10 a · 70173 Stuttgart · Telephone 0711 615541-0 · Fax +49 711 615541-15 · poststelle@lfdi.bwl.de · poststelle@lfdi.bwl.de-mail.de
+www.baden-wuerttemberg.datenschutz.de · PGP Fingerprint: E4FA 428C B315 2248 83BB F6FB 0FC3 48A6 4A32 5962
+The information on collection of personal data according to Article 13 DS-GVO can be found on our homepage
+(Https://www.baden-wuerttemberg.datenschutz.de/datenschutz/).
+
+-2-
+
+Maximilian Busic, Birk Schweppe and David Stürner realized so-called "skills"
+for Amazon's voice assistant Alexa. With the help of a smart speaker, the
+Can accept language commands, users can be informed on the one hand on the legal requirements of the General Data Protection Regulation. A not very seriously meant second skill sensitizes for the problem of the
+Data processing in the Amazon cloud itself.
+A video of the interaction with Alexa and detailed descriptions of all
+Works can be found at:
+https://studium.dhbw-stuttgart.de/winf/studierendenprojekte/privacy-by-dhbw/
+
+v.l.n.r .: Ivana Marevic, Tobias Straub, Matthias Aupperle, David Stürner, Birk
+Schweppe, Franziska Brendel, Hendrik Kappler, Leon Ambaum, Martina Strifler, Michael Schlegel
+If you have any questions, please contact us at 0711 / 615541-0.
+Further information on data protection can be found on the Internet at
+www.baden-wuerttemberg.datenschutz.de or under www.datenschutz.de.
