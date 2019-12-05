@@ -1,0 +1,60 @@
+press release
+711.395.2
+December 13, 2018
+
+Examination of an electronic health record by the
+Berlin Commissioner for Data Protection and Freedom of Information
+
+The Berlin Commissioner for Data Protection and Freedom of Information is currently examining one
+Health insurance and private health insurance funded electronic health record
+compliance with data protection and data security regulations. The product
+allows patients to submit documents and data on their health and health
+to collect medical treatment. Medical service providers may, upon request, include patient information in the electronic health record. Also health insurance
+and insurance companies can use the file to target their insured,
+their consent provided.
+In the context of this audit, there were several deficiencies regarding the information of the
+Insured, obtaining consent, ensuring data security and
+the implementation of a privacy impact assessment. The provider receives now
+Opportunity to comment on the identified shortcomings and eliminate them. In pieces
+this has already happened.
+In this context, the Berlin Commissioner for Data Protection and Freedom of Information already informs doctors who are asked to enter data into the health record
+to the following:
+Medical service providers are not required to provide patient-related data in one
+to enter an electronic health record. It is true that Article 15 (3), second sentence, of the General Data Protection Regulation confers on individuals the right to an electronic copy of them
+Responsible: Joachim-Martin Mehlitz
+Office: Cristina Vecchi
+E-Mail: presse@datenschutz-berlin.de
+
+Friedrichstr. 219
+10969 Berlin
+
+Tel: 030 13889 - 0
+Fax: 030 2155050
+
+-2-
+
+data received. However, the service providers may choose the way to transmit the electronic copy itself, as long as this is the reception for the affected
+Person is not complicated.
+Medical service providers may only transfer patient-related data to operators
+e-health records when the request actually comes from the person being treated. This must be the service providers themselves
+and on their own responsibility, in particular the authenticity of the declarations of secrecy. A transmission without such
+Permission is not only a violation of privacy, but also a violation of
+medical confidentiality.
+Any transfer of patient-related data must meet data security requirements
+suffice. Not only the diagnosis and the type of treatment need a special one
+Confidentiality, but already the fact that at all a treatment by one
+certain service providers. Data security must be both from
+Operators of the electronic health record, as well as the medical service provider.
+Patient-related data should be encrypted by the healthcare provider prior to transmission in such a way that only the treated person himself can perform the decryption.
+The service provider in this case has to ensure that the encryption only
+with the key provided by the person being treated, and must
+Prove the use of the correct key in case of doubt.
+Unencrypted patient-related data should not be processed on workstations
+who can freely access the Internet. This corresponds to the recommendations
+the Kassenärztliche Federal Association and the German Medical Association.
+Maja Smoltczyk:
+"Electronic health records offer patients the opportunity to have their
+Store and manage health data centrally. The potential benefits
+which may result from this, but must not be at the expense of data protection and the
+Data security go. The data protection requirements must therefore already at
+the conception of corresponding offers are observed and implemented. "
