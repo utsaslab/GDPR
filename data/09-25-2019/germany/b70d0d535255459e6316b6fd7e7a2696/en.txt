@@ -1,0 +1,85 @@
+press release
+711.412.1
+November 5, 2019
+Berliner Datenschutzbeauftragte imposes fine on real estate company
+
+On October 30, 2019, the Berlin commissioner for data protection and freedom of information against
+Deutsche Wohnen SE received a fine of around 14.5 million euros
+Infringements of the General Data Protection Regulation (DS-GVO).
+
+For on-site inspections in June 2017 and in March 2019, the Inspectorate found that
+the company for the storage of personal data of tenants
+used an archive system that provided no possibility for data that was no longer required
+remove. Personal data of tenants were saved without
+Check if storage is allowed or even required. In appraised
+In some cases, therefore, some years old private data of affected tenants could
+Tenants are consulted without this being the purpose of their original collection
+served. It concerned data on the personal and financial circumstances of
+Tenants, such. Salary certificates, self-disclosure forms, extracts
+from employment and training contracts, tax, social and health insurance data as well as
+Bank statements.
+
+After the Berlin data protection officer in the first test date 2017 the urgent
+The company was able to change the archive system
+in March 2019, more than one and a half years after the first test date and nine months after
+The beginning of the application of the General Data Protection Regulation, neither a correction of their
+Dataset still have legal reasons for the continued storage. Although had
+the company made preparations to eliminate the detected grievances.
+However, these measures did not lead to the establishment of a lawful state in the
+Storage of personal data. The imposition of a fine for a
+
+Spokeswoman: Dalia Kues
+Office: Cristina Vecchi
+E-Mail: presse@datenschutz-berlin.de
+
+Friedrichstr. 219
+10969 Berlin
+
+Tel: 030 13889 - 900
+Fax: 030 2155050
+
+-2-
+
+Infringement of Article 25 (1) of the GDPR and Article 5 of the GDPR for the period between
+May 2018 and March 2019 was therefore mandatory.
+
+The General Data Protection Regulation obliges the supervisory authorities to ensure that
+Fines in each individual case not only effective and proportionate, but also
+are deterrent. The starting point for the calculation of fines is therefore u. a. of the
+Worldwide sales of affected companies achieved in the previous year. Due to the in the annual report
+Deutsche Wohnen SE for 2018 reported annual sales of over one billion
+Euro was the statutory framework for calculating the fine for the detected
+Privacy violation at about 28 million euros.
+
+For the concrete determination of the fines the Berlin data protection officer has under
+Consideration of all aspects of the burden and relieves the legal criteria used.
+The main negative factor here was that Deutsche Wohnen SE objected to them
+Archive structure had been deliberately created and the affected data over a long period in
+were processed improperly. Fines mitigating, however, was taken into account that
+The company certainly took initial action with the aim of cleansing the illegal
+State and formally cooperated well with the regulator. Also with
+Look to the company for any improper access to the inadmissible
+As a result, a fine in the middle
+Range of the prescribed fine.
+
+In addition to the sanctioning of this structural violation imposed the Berlin
+Data Protection Officer against the company even more fines between 6,000 -
+17,000 euros for the inadmissible storage of personal data of tenants
+and tenants in 15 concrete individual cases.
+
+The fine decision is not yet final. Deutsche Wohnen SE can appeal against
+appeal the fine.
+
+Maja Smoltczyk:
+"Data cemeteries, such as those we found at Deutsche Wohnen SE, are encountered
+unfortunately in the supervisory practice often. The explosiveness of such abuses is unfortunately always first
+then clearly demonstrated when it, for example through cyber attacks, to abusive
+
+-3-
+
+Access to the massively hoarded data has come. But even without such
+We have serious consequences here with a blatant violation of the
+Principles of data protection to do that the person concerned just before such risks
+to protect. It is pleasing that the legislator has introduced the possibility of sanctioning such structural deficiencies with the General Data Protection Regulation,
+before the data glitch comes. I recommend to all data processing agencies, theirs
+Data archiving on Vereverifiability with the DS-GVO. "
