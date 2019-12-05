@@ -1,0 +1,96 @@
+THE COUNCIL APPLICANT FOR DATA PROTECTION AND INFORMATION FREEDOM
+
+PRESS RELEASE
+
+September 19, 2018
+
+G 20 report by LfDI Baden-Württemberg:
+There is a need for action
+The G20 summit on 7 and 8 June 2017 in Hamburg was not only overshadowed by
+Violent excesses of parts of the demonstrators, public discussion also sparked that 32 media representatives were deprived of accreditation for alleged security concerns.
+Shortly after the allegations became known, the State Commissioner for Data Protection and Freedom of Information (LfDI), Stefan Brink, an investigation of
+Transactions, as far as Baden-Württemberg authorities and journalists, the
+Baden-Württemberg come or work here, were affected. The LfDI today presented its final report to the Committee on the Interior, Digitization and Migration.
+From that initiated by the Federal Press Office and the Federal Criminal Police Office (BKA)
+A total of six journalists from Baden-Württemberg were affected. They were deprived of accreditation for the G20 summit. The state office for protection of the constitution has knowledge of all six of those affected, while only four of the persons affected are stored in the police files.
+The BKA did not explicitly refer to the State Office for Criminal Investigation Baden-Württemberg (LKA)
+but accessed relevant entries in the transnational information system
+the Police INPOL, where also Baden-Wuerttemberg police departments store findings.
+
+Königstraße 10 a · 70173 Stuttgart · Telephone 0711 615541-0 · Fax +49 711 615541-15 · poststelle@lfdi.bwl.de
+www.baden-wuerttemberg.datenschutz.de · PGP Fingerprint: E4FA 428C B315 2248 83BB F6FB 0FC3 48A6 4A32 5962
+The information on the collection of personal data by the data subject under Article 13 DS-GVO can be found on our homepage
+(https://www.baden-wuerttemberg.datenschutz.de/datenschutz/).
+
+-2-
+
+In contrast, the State Office for Protection of the Constitution (LfV) in four of the six cases
+by the Federal Office for the Protection of the Constitution (BfV) in each case by an express vote
+asked. The Intelligence Information System (NADIS) went to the
+LfV requests of the BfV with a response period of a maximum of two days. In
+In all four cases, the BfV was informed that on the basis of its own findings
+View of the LfV safety concerns exist. Subsequently, the
+BfV, upon request, also communicated individual findings that can be used in court.
+As a result, the LfDI has found no evidence that accreditations
+due to misconduct of Baden-Württemberg security authorities wrongly
+were withdrawn. However, the audits identified a significant need for action:
+At first, some of the cases investigated at the LKA did not appear to be included
+Information system INPOL. There may only cases with transnational relevance
+be stored, what with offenses such as insult, trespassing, or
+the violation of the right to own picture in any case without special justification
+can not be assumed. In addition, in some cases the deadline was not respected. It amounts to three years in cases of little importance - and leads in the case of
+Failure by so-called Mitzieheffekte to the fact that other offered
+Deletions should be avoided. That too is the LfDI - for the umpteenth time -
+to complain.
+Special attention deserves another point of criticism: In the police information system INPOL also such acts are stored, which were indeed the subject of prosecution investigations, which were later discontinued
+or even acquitted. Storing one (originally)
+Suspects sets according to the provisions of the BKA law a police
+Repeat forecast, which is case by case, conclusive and
+must report facts that can be used to justify a resume.
+This was lacking in the cases investigated and therefore a number of INPOL data stores were unlawful.
+This practice has already been criticized in previous audits by the LfDI service.
+The police should also have their own interest in documenting the risk of repetition, since in some cases, courts came to the conclusion that
+alone because of poor documentation of the risk of repetition data too
+delete goods.
+
+-3-
+
+After examining the procedural acts of the LfV, the LfDI maintains that there are fundamental concerns neither with regard to the legality of the storages as such
+still exist with regard to votes ("safety concerns"). Indeed
+has the LfV the main reasons for its safety ratings
+not documented in writing. Although the LfDI does not doubt that the
+professional assessments in the result should regularly apply. One legal
+Examination by the service of the Land Commissioner without appropriate documentation of the points of view for the safety assessment ultimately
+were decisive, but in fact hardly possible. If the LfDI in retrospect can no longer determine which of the numerous findings of the
+professional assessment and which were not, if the LfDI
+can not recognize which findings weighted particularly heavily and which only
+casually considered or disregarded, then he can not objectively examine these technical assessments of the LfV.
+This problem does not only exist with the LfDI: Insofar as the BKA relied exclusively on its evaluation by the Office for the Protection of the Constitution, the question of the grant or non-award of
+Accreditations thereby in the last consequence at the (inner) evaluation of a Verfassungsschutzmitarbeiter, which was not verifiable for lack of documentation.
+With the exclusion of journalists from such events is going deep into the
+Fundamental right to free press coverage intervened. Against this background
+Brink considers the described procedure unacceptable.
+With regard to the legislator, the LfDI makes two recommendations in its report:
+On the one hand, a legal basis should be created for the accreditation of journalists as well as for any other security check carried out by security authorities (police, constitutional protection). In the
+In this review, the matter concerns substantial interference with fundamental rights
+Informational self - determination with possibly serious consequences for the
+Freedom of occupation (Article 12 GG), freedom of trade (Article 14 GG) and freedom of expression and the press (Article 5 GG). Such interventions should not be discontinued in the future
+Declarations of consent of the journalists concerned, especially since there are considerable doubts about the voluntary nature and thus effectiveness of such declarations.
+On the other hand, the Parliament should impose the obligation on the LfV, in the participation
+in security reviews, the findings relevant to the decision
+auditable document.
+
+-4-
+
+Conclusion of the LfDI: The center of the media perception was the serious one
+Allegation that in connection with the G20 summit journalists were wrongfully deprived of accreditation, because police and constitutional protection agencies data
+would save the person concerned wrongly. This can be despite the error indicated
+Although not substantiated in the overall consideration. However, this reproach settled
+for lack of usable documentation also not in every case by the LfDI
+dispel.
+Therefore, the legislator should in the sense of a "fundamental rights protection by procedures"
+not only create clear regulations in the area of ​​security checks, but also impose transparent documentation requirements on the LfV.
+
+If you have any questions, please contact us at 0711 / 615541-0.
+Further information on data protection can be found on the Internet at
+www.baden-wuerttemberg.datenschutz.de or under www.datenschutz.de.
