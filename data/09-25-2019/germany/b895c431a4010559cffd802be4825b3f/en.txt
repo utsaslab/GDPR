@@ -1,0 +1,52 @@
+THE COUNCIL APPLICANT FOR DATA PROTECTION AND INFORMATION FREEDOM
+
+PRESS RELEASE
+
+February 11, 2019
+
+"Keep cool" at the cold Brexit
+Brexit or No-Brexit - that's the question!
+Although the British House of Commons has spoken out in favor of avoiding the cold Brexit and against a "no-deal exit". Nevertheless, the outcome of the struggle for the Brexit remains completely unclear. The LfDI receives daily inquiries as to whether cross-border data processing - with British business partners or contract processors - remains possible in the event of a cold exit from the EU of the United Kingdom (UK).
+This question is answered in the DS-GVO itself: UK would be in the case of the
+cold Brexit as a third country - without any transition or grace period. As a legal basis for the transfer of personal data are then
+the requirements for non-European international traffic.
+The problem is that the scarce remaining time until the end of March 2019 prevents
+that all possible solutions offered by the DS-GVO can actually be exploited. A much more favorable adequacy decision by the European Commission will no longer be needed before Brexit. The Commission needs two years rather than two months to do this. long-term
+Of course, the LfDI will be open to the initiation of such a procedure
+appropriate level of data protection in the UK. This
+not only brings more benefits to the practice and saves expenses, but also more
+Legal certainty for cross-border data processing in the United Kingdom. Whether the UK data protection regulations meet the requirements of the EU
+of course, must be checked consistently in the future. That too will not be
+Automatic.
+Königstraße 10 a · 70173 Stuttgart · Telephone 0711 615541-0 · Fax +49 711 615541-15 · poststelle@lfdi.bwl.de · poststelle@lfdi.bwl.de-mail.de
+www.baden-wuerttemberg.datenschutz.de · PGP Fingerprint: E4FA 428C B315 2248 83BB F6FB 0FC3 48A6 4A32 5962
+The information on collection of personal data according to Article 13 DS-GVO can be found on our homepage
+(Https://www.baden-wuerttemberg.datenschutz.de/datenschutz/).
+
+-2-
+
+However, other options remain, data processing also at short notice
+to perform lawfully. The European supervisory authorities are already preparing this
+before: So can breathe corporate groups that already have so-called "Binding Corporate Rules". But also for all other companies a cross-border processing of personal data with the help of so-called
+Standard data protection clauses may be possible. Again, though: first check carefully,
+whether these model texts fit the concrete processing situation and whether the contracting parties actually fulfill all the requirements listed there. The times
+a "simulated" data protection is over, there is the EU-DS-GMO!
+The British colleagues provide comprehensive information on all questions about the Brexit: One
+General Guideline on No-Deal Brexit can be found on the ICO website.
+This is supplemented by a 6-step plan, which is supplemented by a FAQ catalog1
+becomes.
+In addition, the online tool for creating standard data protection clauses has already been updated to the latest version, the information about the clauses themselves
+and their preparation.
+Anyone who wants to get more information can do so on the blog of the British
+Colleagues do.
+Even the most difficult political situations can do so with the help of the DS-GVO
+be dealt with. The rest is hoping for a sensible one
+Solution ...
+
+If you have any questions, please contact us at 0711 / 615541-0.
+Further information on data protection can be found on the Internet at
+www.baden-wuerttemberg.datenschutz.de or under www.datenschutz.de.
+
+1
+
+additionally https://ico.org.uk/for-organizations/data-protection-and-brexit/information-rights-and-brexitfrequently-asked-questions/
