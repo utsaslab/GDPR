@@ -1,0 +1,2929 @@
+annual report
+the Berlin commissioner for data protection and
+Freedom of information as of 31 December 2018
+
+The Berlin Commissioner for Data Protection and Freedom of Information has to submit an annual report to the Chamber of Deputies and the Senate on the outcome of their work (§§ 12 Berliner Datenschutzgesetz, § 18 Abs. 3 Berliner Informationsfreiheitsgesetz). This report closes on 23 March 2018
+Annual Report 2017 and covers the period between 1 January
+and December 31, 2018.
+The annual report is also available on our website, see: https: //
+www.datenschutz-berlin.de
+
+imprint
+Publisher: Berlin Commissioner for
+Privacy and Freedom of Information
+Friedrichstr. 219, 10969 Berlin
+Phone: (0 30) + 138 89-0
+Fax: (0 30) 2 15 50 50
+E-Mail: mailbox@datenschutz-berlin.de
+Internet: https://www.datenschutz-berlin.de/
+Layout:
+
+april agency GbR
+
+Sentence:
+
+LayoutManufaktur.com
+
+Pressure:
+
+ARNOLD group
+
+content
+
+content
+List of abbreviations. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 9
+Introduction. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 13
+1
+
+focus
+1.1 Processing of cross-border cases according to the DS-GVO. , , , , , , , 17
+1.2 Processing complaints under the DS-GVO. , , , , , , , , , , , , , , , , 19
+1.3 Duty to inform about data breaches. , , , , , , , , , , , , , , , , , , , , , , , , , , , 23
+1.3.1 Obligations to the supervisory authority. , , , , , , , , , , , , , , , , 25
+1.3.2 Obligations towards the persons concerned. , , , , , , , , , , , , , , , , , , , , , 26
+1.4 Privacy Certification - The Road to Privacy Seal. , , , , 28
+1.4.1 Certification and accreditation. , , , , , , , , , , , , , , , , , , , , , , , , 29
+1.4.2 Procedure of the accreditation process. , , , , , , , , , , , , , , , , , , , , 31
+1.4.3 Monitoring the certification and development of the
+Conditions . , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 33
+1.5 Advertising according to the DS-GVO. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 35
+1.5.1 Definition. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 35
+1.5.2 New regulations. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 36
+1.5.3 Consent. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 38
+1.5.4 Change of purpose. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 39
+1.5.5 Law against Unfair Competition and DS-GVO. , , , , , , 40
+1.5.6 Observe advertising conflict. , , , , , , , , , , , , , , , , , , , , , , , , , , , , 40
+1.6 The new Berlin Data Protection Act - Hopefully not the
+last stand. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 41
+1.7 Facebook fan pages and shared responsibility
+for data processing. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 44
+1.7.1 Hearing proceedings in Berlin. , , , , , , , , , , , , , , , , , , , , , , , , , , , 44
+1.7.2 Interpretation and scope of joint processing
+personal data. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 46
+1.8 Berlin Land laws - Fit for Europe? , , , , , , , , , , , , , , , , , , , , , , , , 48
+
+3
+
+content
+
+2
+
+Digital administration
+2.1 Digitization projects in Berlin. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 50
+2.2 Aid online. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 52
+
+3
+
+Interior
+3.1 threatening letters to the left scene with data from police databases. , , , 55
+3.2 Processing of personal information in police
+Databases. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 57
+3.3 Vulnerability in POLIKS police database? , , , , , , , , , 58
+3.4 Control of the accreditation process at the G20 summit. , , , , , , , , 60
+3.5 He
+5000/5000
+Character limit: 5000
+sthelfer app "Katretter" of the Berlin fire department. , , , , , , , , , , , , , , 62
+3.6 Locating emergency calls to the Berlin fire department. , , , , , , , , , , , , , , , , 64
+3.7 Video surveillance after the effective date of the DS-GVO. , , , , , , , , , , , 66
+3.8 video cameras at the Alexwache. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 68
+
+4
+
+Transport and tourism
+4.1 fahrCard - With photograph and full name? , , , , , , , , , , , , , , , , , , , , , 71
+4.2 Driving School: Data transfer to an interest association. , , , , , , , , 72
+4.3 Obligation to order data protection officers
+Taxi company. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 73
+4.4 Intelligent video surveillance in the Berlin-Südkreuz station. , , , , , , 75
+4.5 Connected and Automated Driving - What are the privacy risks of the new techniques? , , , , , , , , , , , , , , , , , , , , 77
+
+5
+
+Youth and education
+5.1 Adaptation of the Berlin Education Act to the DS-GVO -
+All's well that ends well? , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 83
+5.2 Implementation of the DS-GVO in child and youth welfare. , , , , , , , , , , , 85
+5.3 Uniform Special Procedures in the Berlin Youth Welfare -
+Progress report. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 87
+5.4 Privacy in Kitas - How well will the data of our
+Youngest protected? , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 88
+5.5 Data protection and media literacy - K
+inderwebsite
+www.data-kids.de online. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 90
+
+4
+
+content
+
+5.6 Elterngeld Digital - An innovative project? , , , , , , , , , , , , , , , , , , , , , 91
+5.7 Please smile! Video and audio recordings in the classroom too
+Research purposes. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 92
+6
+
+Health and care
+6.1 Judgment on the quality assurance procedure of the panel physicians
+Association Berlin. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 95
+6.2 Prostitute protection law - Data protection compliant implementation
+in the state of Berlin? , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 96
+6.3 Problematic introduction of an electronic health record. , 98
+6.4 Baby Plus Plus: Extension to all Berlin maternity hospitals. , , , , 100
+6.5 Charité: New Law - Old Problems. , , , , , , , , , , , , , , , , , , , , , , , , 101
+6.6 Online service providers: handling of personal data
+in the medical sector. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .103
+6.7 A Nursing on Cloud International. , , , , , , , , , , , , , , , , , , , , , , 104
+6.8 Clinical Cancer Registry: Extended Storage of
+Registration forms. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 105
+6.9 individual cases. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 106
+6.9.1 Medical certificate for admission to day nurseries. , , , , , , , , , , , 106
+6.9.2 Do physicians have access to patient data
+Reveal rating portals? , , , , , , , , , , , , , , , , , , , , , , , , 107
+
+7
+
+Social and work
+7.1 Social assistance data at the Senate Department for Integration,
+Work and Social - Legal and Secure? , , , , , , , , , , , , , , , , , , , 108
+7.2 Medical information to the State Office for Health and Human Services
+Social. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 110
+7.3 Inadmissible exchange of social data between the district office
+and health insurance. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 111
+7.4 Sensitive data of course participants on an internal
+Online learning platform. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 112
+
+8th
+
+Employee Data Protection
+8.1 The burden and blessings of voluntary work. , , , , , , , , , , , , , , , , , , , , , , 114
+8.2 Handling Migrationsdaten. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 115
+
+5
+
+content
+
+8.3 Transfer of the medical bill of an employee to a third party. , , , 118
+8.4 Inspection of Appraisals of Competitors
+Competitors. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 119
+9
+
+economy
+9.1 "Press ..." - recording of customer calls
+the DS-GMO. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 122
+9.2 "Your ID card, please!" - Identification when asserting the data subject rights. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .123
+9.3 Long storage period for delivery services. , , , , , , , , , , , , , , , , , , , , , , , 125
+9.4 Report from the start-up consultation. , , , , , , , , , , , , , , , , , , , , , , , 126
+9.5 Silent factoring in the age of the DS-GVO. , , , , , , , , , , , , , , , , , , , , , , 127
+9.6 Transfer of account data to remittance recipient. , , , , , , , , 129
+9.7 Illegal entry in the warning database of the
+Insurance industry. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 130
+9.8 Black list of an online bank. , , , , , , , , , , , , , , , , , , , , , , , , , , , , 131
+9.9 Data transmission with video identification. , , , , , , , , , , , , , , , , , , , , 132
+
+10 political parties and the House of Representatives of Berlin
+10.1 Data from refugee workers on NPD website. , , , , , , , , , , , , , 133
+10.2 Election campaign with the help of Deutsche Post. , , , , , , , , , , , , , , , , , , , , , , 134
+10.3 Initiative "Neutral School" of the AFD Group. , , , , , , , , , , , , , , , , , , , 135
+10.4 Transfer of personal data in written form
+Requests . , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 137
+11 From the work of the sanctioning body
+11.1 Development of the administrative offenses procedure. , , , , , , , , , , , , , , , 139
+11.2 Unauthorized data collection from the police database POLIKS. , , , 140
+11.3 Police officer warns of police raids. , , , , , , , , , , , , , , , , , , , 141
+11.4 Dental assistant publishes the school report of one
+Intern on the Internet. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 141
+11.5 A criminal complaint against a chairman of the committee
+House of Representatives of Berlin. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 142
+
+6
+
+content
+
+12 Telecommunications and Media
+12.1 Report from the Berlin Group. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 144
+12.2 ePrivacy Regulation: No agreement in the European Council !. , , , , , , 147
+12.3 Position determination of the Germans D
+data protection conference:
+Telemedia Act and usage data processing in times
+the DS-GMO. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 149
+12.4 Photos in danger? Art Copyright Act and DS-GVO. , , , , , , , , , , , , , 151
+12.5 A scoring for judges. , , , , , , , , , , , , , , , , , , , , , , 152
+13 Freedom of information
+13.1 Freedom of information in Germany. , , , , , , , , , , , , , , , , , , , , , , , , , , 155
+13.2 Freedom of information in Berlin. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 156
+13.2.1 General developments. , , , , , , , , , , , , , , , , , , , , , , , , , , , 156
+13.2.2 Individual cases. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 158
+14 From the service
+14.1 Developments. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 163
+14.2 Cooperation with the Berlin House of Representatives. , , , , , , , , , 166
+14.3 Cooperation with other bodies. , , , , , , , , , , , , , , , , , , , , , , , , , 167
+14.4 Press work. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 169
+14.5 Public Relations. , , 171
+14.5.1 Events. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 171
+14.5.2 Publications. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 172
+14.5.3 Lectures. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 173
+attachment
+Speech by the Berlin Commissioner for Data Protection and Information
+Freedom on 13 September 2018 in the Berlin House of Representatives
+to the Annual Report 2017. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 176
+Glossary. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 179
+Index. , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 189
+
+7
+
+content
+
+hint
+The glossary (at the end of the booklet) provides a list of explanations of various technical terms. The color highlighting of words in the text (eg
+Market place principle) indicates that these are printed in the glossary.
+
+8th
+
+List of abbreviations
+
+List of abbreviations
+OJ. EU
+
+Official Journal of the European Union
+
+ASOG
+
+General Security and Ordnungsgesetz
+
+BAO
+
+Specialized Aid Online
+
+BauGB
+
+Building Code
+
+BDSG (a.
+
+Federal Data Protection Act (old version)
+
+BEEG
+
+Federal Parental Allowance and Parental Leave Act
+
+BGB
+
+Civil Code
+
+BGH
+
+Federal Court
+
+BKA
+
+Bundeskriminalamt
+
+BKAG
+
+Federal law
+
+BlnBDI
+
+Berlin Commissioner for Data Protection and Freedom of Information
+
+BlnDSG (a. F.) Berlin Data Protection Act (old version)
+BSI
+
+Federal Office for Security in Information Technology
+
+Federal Constitutional Court
+
+Federal Constitutional Court
+
+BVerwG
+
+Supreme Administrative Court
+
+BVG
+
+Berlin public transport
+
+DAkkS
+
+German Accreditation Body
+
+DB AG
+
+Deutsche Bahn AG
+
+Drs.
+
+printed matter
+
+DSFA
+
+Privacy impact assessment
+
+DSK
+
+German Privacy Conference
+
+DS-GMO
+
+European General Data Protection Regulation
+
+EDSA
+
+European Data Protection Committee
+
+EGBGB
+
+Introductory Act to the Civil Code
+
+EGovG Bln
+
+Berlin e-government law
+
+EU
+
+European Union
+
+ECJ
+
+European Court of Justice
+
+GG
+
+basic law
+
+GPS
+
+Global Positioning System
+
+GVBl.
+
+Law and Ordinance Gazette for Berlin
+
+MLA
+
+Money Laundering Act
+
+HIS
+
+Information and information system of the insurance industry
+9
+
+List of abbreviations
+
+IBAN International Bank Account Number (International Bank Account
+Number)
+IFG
+
+Berlin Freedom of Information Act
+
+IFK
+
+Conference of Freedom of Information Representatives in Germany
+
+IMI
+
+Electronic information system of the European authorities
+
+INPOL
+
+Information system of the state police authorities in Germany
+
+ISBJ
+
+Integrated software Berliner Jugendhilfe
+
+ISO
+
+International Organization for Standardization
+
+IT
+
+information technology
+
+IWGDPT International Working Group for Data Protection in Telecommunications (so-called Berlin-Group)
+JB
+
+annual report
+
+JI Directive
+
+European Data Protection Directive for Justice and Home Affairs
+
+KJHG
+
+Child and Youth Welfare Act
+
+KTDat
+
+Committee on Communications Technology and Privacy
+
+KunstUrhG
+
+Art Copyright Act
+
+KV
+
+Association of Statutory Health Insurance Physicians
+
+KWG
+
+Banking Act
+
+LABO
+
+State Agency for Civil and Regulatory Affairs
+
+LAGeSo
+
+State Office for Health and Social Affairs
+
+LAGetSi State Office for Occupational Safety, Health and Safety
+safety
+LBG
+
+Land Civil Law
+
+LSG
+
+Landessozialgericht
+
+LVwA
+
+Landesverwaltungsamt
+
+MuSchG
+
+Maternity Protection Act
+
+OVG
+
+Higher Administrative Court
+
+OWiG
+
+Administrative Violations
+
+PartIntG
+
+Law regulating participation and integration
+
+POLICY Police Information System, Communication and Information System
+Clerical
+PSSG
+
+Personnel structure Statistics Act
+
+SGB
+
+Social Code
+
+SDM
+
+Default privacy model
+
+Criminal Code
+
+criminal code
+
+Code of Criminal Procedure
+
+Criminal Procedure
+10
+
+List of abbreviations
+
+TKG
+
+telecommunications Act
+
+TV-L
+
+Collective agreement of the countries
+
+UIG
+
+Environmental Information Act
+
+UWG
+
+Law against unfair competition
+
+VBB
+
+Verkehrsverbund Berlin-Brandenburg
+
+VDV
+
+Association of German Transport Companies
+
+WP
+
+Working Paper
+
+ZDRL
+
+Payment Services Directive
+
+11
+
+introduction
+
+12
+
+introduction
+
+introduction
+On May 25, 2018, it was called "And action, please!".
+The General Data Protection Regulation (DS-GVO)
+became effective. And in spite of all the doom calls
+in a previously quite overheated public debate that fueled fears
+and alleged pitfalls scandalized,
+she runs amazingly smoothly. Of course there are teething troubles and uncertainties in and with the new EU-wide binding data protection law. This
+but can at the complete re-creation of a legal area at European
+Level - and that is exactly what it is - even without case law and knowledge of experience basically g
+5000/5000
+Character limit: 5000
+ar not be different. Now, after almost one
+Year has passed, everything clearly appears in a different light.
+The DS-GVO has learned to walk against all prophecies. This shows
+above all, the enormous amount of complaints that persists today,
+the volume of requests for advice and the number of data breaches reported to my agency.1 Although we were prepared for considerable extra work, our expectations ultimately came to an end, especially in the first weeks after
+Effectiveness of the DS-GVO, significantly exceeded. In order to deal with the flood of incoming calls, at least to some extent, we started at first
+DS-GMO telephone hotline for those seeking advice through which the most pressing questions
+could be answered directly. And to this day, coping with the significantly increased workload poses a challenge
+my authority only thanks to the extraordinary commitment of my
+Employees keeps up. A relaxation is not in sight.
+It is unmistakable that the new rules strengthen privacy in the
+Focus of those responsible and, above all, has sensitized the citizens enormously for the protection of data privacy. I evaluate this development as
+Success, especially as times are on the cusp of digitizing our entire
+1
+
+See 1.2 and 1.3
+13
+
+introduction
+
+Living environment by no means easy for privacy. Submitting to the hype of digitization is mainstream, and concerns or references to
+Problems and incompatibilities are only too happy as a hindrance to this
+dismantled modern development.
+More and more algorithms are deciding which news to use
+Read which partner or partner you meet or even which party you choose. And also in the public administration with the help of
+of algorithms and so-called artificial intelligence
+automated decisions are being made. All this has hitherto been extremely intransparent. But only who the data basis, the sequence of actions
+and knowing the weighting of the decision criteria, can legality
+to review decisions. That's why I think it's urgent
+It is also necessary to make automated decisions comprehensible, controllable and understandable. I therefore very much welcome that much
+by the members of the Conference of Freedom of Information Representatives in Germany at the suggestion of the Freedom of Information Commissioners of Berlin, Bremen and
+Schleswig-Holstein has formulated requirements in a position paper
+public authorities even more consistent than before to a transparent and
+responsible use of algorithms and artificial intelligence.2
+Digitization puts democracy and the rule of law at an extreme level
+Test. An occasional critical pause is more important
+because ever, in view of the high pressure to adapt in our highly accelerated everyday life but also extremely difficult. The more important it is, already
+Educate elementary school children about how to handle their own data, how to influence them, what to do with them
+their most important condition is to remain critical and objective towards all information and messages on the net and
+to acquire a basic knowledge of Internet mechanisms. My authority
+Therefore, not only the mediation of media literacy, but also
+written by the media. It is our goal that more
+2
+3
+
+See 13.1
+See 5.5
+14
+
+introduction
+
+and more children not only serve digital media competently, but
+also use reflected. Incidentally, this also includes not using them - for example, search engines that search queries
+do not delete and create usage profiles. On our children's website, we offer a variety of educational materials for primary school children, parents
+and also teachers. And also with the help of the
+Senate Department for Education, Youth and Family published in November 2018 new edition of the booklet "I am looking for you. Who are you? "4 we hope
+to be able to help make children smart and self-confident
+Discover the online world.
+It turns out: Design is the key! Privacy is not a brake for the
+Progress, it is the necessary corrective to advance technical developments in line with our fundamental rights. A development
+only serves the people if their rights are not easily put to the disposition. Also the new European General Data Protection Regulation
+is to be understood exactly like that. It was not by the European institutions
+designed to formalize people's lives and limit their opportunities for development. It is exactly the other way aroundreturns: The General Data Protection Regulation is the European answer to an increasingly rapid and globally evolving digitization of all areas of life. It offers the citizens
+Citizens for the first time Europe-wide enforceable instruments to their rights
+to enforce also against globally operating companies. of course is
+that is not easy and much has to be specified in detail. But
+it is an extremely important step and in my firm belief the only one
+Promising way. My agency and I will continue to do so
+Actively intervene in finding solutions to preserve and safeguard our democratic and free rights in the future.
+Berlin, March 28, 2019
+Maja Smoltczyk
+Berlin Commissioner for Data Protection and Freedom of Information
+4 Available at https://www.datenschutz-berlin.de/fileadmin/user_upload/pdf/medienkompetenz/2018-BlnBDI-Broschuere_Soziale_Netzwerkde.pdf
+15
+
+Chapter 1
+
+focus
+
+16
+
+1.1 Processing of cross-border cases according to the DS-GVO
+
+1
+
+focus
+
+1.1
+
+Processing of cross-border cases
+according to the DS-GVO
+
+Through the General Data Protection Regulation (DS-GVO), the work of our
+Authority changed fundamentally. This applies in particular to the processing of
+Complaints that are brought to us.1
+What is new is that we not only handle complaints against Berlin companies and authorities. According to the General Data Protection Regulation, each affected
+Person the right in particular to complain to a supervisory authority in the Member State of the European Union (EU) where it
+Whereabouts or place of work, or where the alleged infringement occurred, if it considers that
+personal data in violation of the GDPR.2 It comes
+It is no longer necessary for the processor to be responsible for the area of ​​responsibility
+Supervisory Authority is established. Rather, an affected person should
+in principle, to any data protection supervisory authority in Europe.
+All incoming complaints - but also all cases, which we ex officio
+Therefore, we first check whether they have a so-called border
+cross-border data processing3. This may be the case if the
+or the person responsible is established in more than one EU Member State
+and processing takes place in several of these branches. Even if
+the responsible person has only one branch in the EU, one can
+cross-border processing if the processing is significant
+Impact on data subjects in more than one Member State or
+may have. So it's enough if, for example, the service of a German
+1
+2
+3
+
+For general handling of complaints see 1.2.
+Art. 77 para. 1 DS-GVO
+Art. 4 no. 23 DS-GVO
+17
+
+Chapter 1
+
+focus
+
+Online retailer to citizens in Germany and Austria and possibly significantly interferes with their data protection rights.
+Are there any indications of cross-border data processing?
+All necessary information on the case will be included in an electronic information system of all European Supervisory Authorities (IMI). Check these
+whether they are the lead or concerned supervisory authority in this case, and
+sign up accordingly. We can also reach us via this path
+which we are the lead or an affected regulator. To this
+are a constant observation of the information system and a
+systematic examination of cases reported there.
+The lead regulatory authority will take over the further investigations in
+the particular case. The supervisory authority at which the complaint originally
+is in any case an affected supervisory authority. she has the
+The complainant regularly on the status of the
+Teaching to teach.4 This is also the purpose of the electronic exchange of information between the supervisory authorities. Necessary translations will be
+provided by the supervisory authorities, so that there are no disadvantages for those affected.
+Upon completion of the investigation, the lead regulatory authority will draft
+a final decision in the complaint and informs all the supervisory authorities involved. These have four weeks to design
+examine.5 Within this period they may object to the draft.
+If no objection is raised, the lead regulatory authority issues the decision to the person responsible. He / she takes the necessary measures to ensure that it is processed in all branches in the EU
+to be reconciled with the decision of the supervisory authority.6 The supervisory authority in which the complaint has been received notifies Bappellant or the complainant about the outcome of the proceedings.
+
+4
+5
+6
+
+Art. 77 para. 2, Art. 57 para. 1 lit. f DS-GMO
+Art. 60 para. 4 DS-GVO
+Art. 60 (10) DS-GVO
+18
+
+1.2 Processing complaints under the DS-GVO
+
+If an affected supervisory authority objects to the draft, it must
+justify this. If no agreement is reached, the lead supervisory authority shall initiate a dispute settlement procedure before the European Data Protection Board.7 This procedure is designed to ensure the uniform application of
+DS-GMO throughout the EU. The European Data Protection Board
+then takes a binding decision on the matter.8
+The decision covers all aspects that were the subject of the opposition, in particular the question of whether there is a violation of the GDPR. The lead
+The supervisory authority shall then, on the basis of the decision, without delay, but no later than one month after the communication thereof, make the decision to the person responsible.9 The supervisory authority, at which
+the complaint has been filed, the complainant must accordingly
+or inform the complainant.
+We too, as the lead regulatory authority, have already drafted for
+Decisions are coordinated with the relevant supervisory authorities in the described procedure. No objections have been raised against the drafts
+so that the work could be done at work level. As a result, we have our decisions vis-à-vis those operating across borders
+Responsible person residing in Berlin. The complainants were over
+informed the result of their input.
+
+1.2
+
+Processing complaints after the
+DS-GMO
+
+The handling of complaints about data breaches of public
+or private bodies already counted before the application of the DS-GVO to the legal tasks of the supervisory authorities. Even under European law, it is one of their duties to deal with complaints from affected
+
+7
+8th
+9
+
+Art. 60 para. 4 DS-GVO
+Art. 65 para. 1 lit. a DS-GMO
+Art. 65 para. 6 DS-GVO
+19
+
+Chapter 1
+
+focus
+
+Persons to investigate the subject matter of the complaint and the
+to inform the person concerned of the outcome of this investigation.10
+Due to the increased use of the DS-GVO increased attention for the
+Data protection also increased the number of submissions and complaints
+at the Berlin commissioner for data protection and freedom of information around
+fourfold. It can be assumed that the number of entries will stabilize at a comparably high level in the future, as there has been no significant decline in entries so far. This is especially because
+that the competence of our authority has expanded considerably. Before that were
+we only for the treatment of complaints against Berlin authorities and
+Company in charge. The so-called market place principle expands the authority of our authority to all places, the citizens of Berlin commodities
+provide services or monitor their behavior.11
+Through the legal framework established at European level with the DS-BER
+In the processing of complaints, not only the division of responsibilities of the supervisory authorities for data protection within Germany, but the whole of Europe has to be considered. The DS-BER seeks to make it easier for citizens to protect themselves without unnecessary obstacles
+Data by allowing them to file complaints in their own language and with the on- It is
+now the task of the supervisory authorities, the responsibilities among themselves
+clarify and work together constructively. If it concerns a cross-border complaint (for example, because it affected persons in several
+EU states or a company operates in several states), takes place
+Processing in coordination with the supervisory authorities of the countries concerned.12
+For citizens who are concerned about Berlin companies and authorities
+However, our authority remains over the entire procedure
+the contact person on site and informs regularly about the respective
+Sachstand.13
+
+10
+11
+12
+13
+
+Art. 57 para. 1 lit. f DS-GMO
+Art. 3 para. 2 DS-GVO
+See 1.1
+Art. 78 para. 2 DS-GVO
+20
+
+1.2 Processing complaints under the DS-GVO
+
+We receive complaints and submissions mainly by e-mail, often by mail
+and partly by fax or personal call. Many citizens
+Fortunately, citizens are also using this at www.datenschutz-berlin.de/
+complaint.html provided complaint form for their input, giving us
+facilitated the editing in most cases. Due to the high number of
+Entries from the end of May this year have been delayed by our time
+Usually received confirmation within two weeks
+for some time.The initial backlog could not be proportional to the
+Input volume of increased personnel key in the service center citizen
+Entries through weekend work and the temporary secondment of employees
+be removed from other areas for the time being. However, this resulted in that
+Work in the affected other areas remained because there was no staff compensation. Given the significant increase in inputs is
+a proper and timely processing of citizens' complaints with the
+existing personnel funds are no longer affordable.
+In terms of content, the complaints are closely related to the rights that the
+persons concerned by the GDPR (as was previously the case to a similar extent by
+Federal Data Protection Act a. F.), but are not limited
+to this. Many Berliners are interested in private ones
+Companies such as public agencies stored personal data on them and submit a request for self-assessment, 14 which, unfortunately, often does not, not completely
+or incorrectly answered within the prescribed time limit. Often it will
+at the same time requested the deletion of their own data; this too from the
+DS-GVO guaranteed right15 is unfortunately often violated. Although some Internet companies provide a deletion option with regard to the customer account.
+However, the stored data will be stored in some cases
+and used. Many people also complain about the generally escalating
+Collection of your data by offices, private companies, medical practices or other persons (such as your landlord or landlady). In many cases, these citizens have a right of objection to the processing of their own data, 16 in the enforcement of which we the person concerned
+
+14
+15
+16
+
+Art. 15 DS-GMO
+Art. 16, 17 DS-GVO
+Art. 21 DS-GVO
+21
+
+Chapter 1
+
+focus
+
+as well as the violation of data processing agencies against the
+Obligation to inform data subjects about data processing taking place.17
+The data-transferability right newly created for data subjects with the GDPR, according to which the responsible authorities take along their own data
+18 or the right not to be subject to a specific decision solely on the basis of automated data processing, 19
+So far only a very small part of the inputs make.
+In many cases, there is not necessarily a bad will behind you
+violation of privacy rights. Often we are informed by complaints notified violations shortly after our intervention.
+In case of less serious or immediately eliminated misconduct by
+As a rule, we leave the person responsible responsible for a warning and refrain from taking further action.20 In the case of more serious violations, we can
+to take other measures such as fines.21
+Last but not least, the incoming complaints also serve as a measuring instrument
+for what bothers citizens especially often. At the same time, they are an indicator of which business units or districts
+due to a large number of submissions just to observe a negative development and possibly - with the means given to us - is also to be stopped. We
+encourage all Berliners to continue to help us through the
+To support the reporting of data breaches in their fight against them.22
+
+17
+18
+19
+20
+21
+22
+
+Art. 12, 13 DS-GVO
+Art. 20 DS-BER
+Art. 22 DS-GMO
+Art. 58 para. 2 lit. b DS-GMO
+See chapter 11
+datenschutz-berlin.de/beschwerde.html.
+22
+
+1.3 Duty to inform about data breaches
+
+1.3
+
+Duty to inform about data breaches
+
+The new law23 sees a clear extension of the information requirements in the
+Compared to the previous legal situation24, it now applies equally to non-public and public authorities in the state of Berlin.25 Previously, in the non-public sphere, only certain categories of data such as health data were used
+In the public sector, there was a mandatory reporting requirement for all types of data, in both areas
+However, the obligation to register only existed in the case of imminent grave impairment of the rights of those affected.26 Now it is against the supervisory authority
+both public and non-public, any breach of the
+Protection of personal data notifiable. This privacy violation
+is defined as "breach of security that, whether inadvertent or unlawful, results in the destruction, loss, alteration or unauthorized disclosure of, or access to, personal data;
+which have been transmitted, stored or otherwise processed ".27 After
+The new legal situation is therefore not just common in earlier usage
+"Data leakage" by loss of confidentiality includes, but also theloss
+Availability by destruction or loss of integrity through alteration of personal data. It is irrelevant whether they are sensitive data which are subject to special protection under Art. 9 DS-GVO.
+The controller is only required to report to the supervisory authority if the breach of personal data protection is not expected to pose a risk to the rights and freedoms of individuals
+führt.28
+
+23
+24
+25
+26
+27
+28
+
+Art. 33, 34 DS-GVO
+To § 42a Federal Data Protection Act (BDSG) a. F. see JB 2010, 12.2; to § 18a Berliner
+Data Protection Act (BlnDSG) a. F. see JB 2011, 11.2.1
+The corresponding regulations for the areas of police and justice are §§ 51, 52
+BlnDSG in implementation of the so-called JI-Directive (EU) 2016/680; see JB 2017, 3.1
+§ 42a BDSG a. F .; Section 18a (1) BlnDSG a. F.
+Art. 4 No. 12 DS-GVO
+See note no. 18 of the Conference of Independent Data Protection Authorities
+of the Federation and the Länder, "Risk for the Rights and Freedoms of Natural Persons", available at www.datenschutz-berlin.de/infothek-und-service/veroeffent
+cations / short papers /
+23
+
+Chapter 1
+
+focus
+
+This significant tightening of the legal situation was probably the main reason
+for the massive increase in the reporting of data breaches with us. While in the
+During the reporting period, there were 357 notifications29, of which 332 were notifications since May 25, 2018.30 The number of notifications has settled at this high level, a decline
+is not recognizable. For us, it is clear that data protection has also become more in the focus of those responsible because of these extended reporting obligations
+especially as sanctions 31 are provided for breaches of On the other hand, the information received by the message must not
+used to protect the privacy violation underlying the notification
+to sanction.32 Multiple similar offenses, in particular those that
+structural deficiencies attributable to the person responsible,
+but could cause us to a tax audit.
+By way of example, the following messages are outlined, which have reached us: So shared
+a youth welfare center the theft of a USB stick with biographical
+Data from the inpatient adolescents assisted, a company doctor sent a report to the wrong addressee and two hotels could not exclude after a hacker attack on a booking platform that credit card data to unauthorized persons. Further numerous reports concerned the use
+from open e-mail distribution lists, which not only personal, u. U. "talking" e-mail addresses33 were mutually announced, but at the same time
+sensitive data such as the fact of union affiliation (this is what happened
+at a trade union). Increasingly, we also received reports about externally installed malicious software such as crypto-trojans. Thus, the files lying in the technical systems are encrypted by unauthorized persons in order to be used for the
+29
+30
+31
+
+32
+
+33
+
+44 notifications in the non-public sector, 7 notifications in the public sector
+295 reports in the non-public area, 37 reports in the public sector
+(As of December 31, 2018)
+According to Art. 83 para. 4 lit. a i. V. m. Art. 33 DS-GVO amounts to a fine of up to 10 million
+Euro or, in the case of a business, up to 2% of its total worldwide annual turnover for the previous financial year, whichever is the greater
+Amounts is higher.
+See § 43 para. 4 BDSG. The provision is an expression of the constitutional law
+Prohibition of compulsion to self-incrimination and "succession" of § 42a sentence 6
+BDSG a. F.
+E-mail addresses are referred to as "talking" if they are first and last names
+contain.
+24
+
+1.3 Duty to inform about data breaches
+
+Decryption money blackmail - with medical data in a doctor's office
+for obvious reasons almost a GAU.34
+
+1.3.1
+
+Obligations to the supervisory authority
+
+Legal basis for the reporting obligation of the person responsible to us as
+Supervisory authority is Art. 33 DS-GVO. After that, the person in charge reports the breach of data protection immediately and within 72 hours, if possible
+he became known. This deadline includes the weekends and holidays
+later notification must include a justification for the delay. In the vast majority of cases, the notification was made to us in due time, in the case of late reports mostly with a comprehensible justification for the delay. In
+However, in one case it was unacceptable: that was the appeal of a public
+Place on vacation, illness, increased workload, unclear responsibilities and on several occasions deemed necessary internal consultation also in the
+Sum is not sufficient to justify the two-month delay in the notification. We have called for organizational improvements that will ensure the smooth andensure timely reporting to the responsible body in the future.
+It should be noted that those responsible are not required to provide all information
+to provide at the same time. Rather, the information can be gradually provided without undue further delay.36
+To facilitate the registration process, we have a form with completion help in the
+Internet, which is now predominantly used by those responsible. A guideline of the European Data Protection Committee (EDSA) gives
+
+34
+35
+
+36
+
+Worst case
+Article 3 (3) of Council Regulation (EEC, Euratom) No 1182/71 of 3 June 1971
+Defining the rules for deadlines, dates and deadlines, OJ No. L 124 of 8 June
+1971, p. 1 f.
+Art. 33 para. 4 DS-GVO
+25
+
+Chapter 1
+
+focus
+
+valuable information on the interpretation of the new regulations and, in addition, examples of reportable incidents.37
+
+1.3.2 Obligations towards the persons concerned
+According to Art. 34 DS-GVO, the person responsible must immediately inform the data subject of the breach of the protection of personal data,
+if the data breach is likely to be at high risk for the affected
+Person leads. While the notification to us as the supervisory authority in the case of
+Data breach is therefore the rule, this is the notification of those affected rather not. In the first case, "only" becomes a risk, but in the second case
+a high risk to the rights and freedoms of the person concerned.
+For this, it depends on a risk prediction, especially the abstract
+Abuse risk (based on the type of data involved) and the specific risk of abuse (based on the actual potential impact of the data breach). Such high risk can be when it comes to
+the former "catalog data" 38 is not a priori by the responsible person
+be excluded. Rather, it requires a (documented) justification,
+why there is likely to be no high risk for those affected by these data. Not enough is z. For example, the frequent reason that it is the thief of a
+High quality laptops just went to the resale device, the data
+previously deleted with certainty. That one person in charge but this
+can not influence is obvious; he can not do that high risk
+exclude. Therefore, we recommend a precautionary notification of the affected parties, especially for sensitive data.
+
+37
+38
+
+Form, completion assistance and guideline (WP 250 rev. 01) are available at www.datenschutz-berlin.de/wirtschaft-und-verwaltung/meldung-einer-datenpanne/.
+These are the data categories in the former § 42a BDSG, ie sensitive data such. B.
+Health data, data subject to professional secrecy, data pertaining to
+or any suspected offenses or bankruptcy, as well as bank account and credit card information.
+26
+
+1.3 Duty to inform about data breaches
+
+In all other cases, we also recommend the person in charge
+the persons concerned - irrespective of any obligation to notify under Art.
+34 DS-GMO - to inform about the incident. Our concern with this recommendation is that as quickly as possible to those affected as possible
+Transparency is made - not only because the idea of ​​transparency is one of the
+Pillars of the DS-GVO is. Our experience shows that people are affected by everything
+Mostly disapprove of the violation of data protection, if the
+Responsible for his mistake and they are on their own and above all in a timely manner
+informed. The majority of those responsible followed our recommendation.
+In certain cases, there is no obligation to pay despite the high level of risk
+Notification of those affected.39 This is z. As is the case when the lost disk was sufficiently encrypted. If the notification involved a disproportionate effort, a public notice or similar action should be taken instead.
+through which the affected persons are informed with comparable effectiveness. Of this
+Possibility have several responsible persons on our notice use
+made. So has an exhibitor at a car show, after by mail
+Applications with account information have been lost by subscribers interested, on his website over several weeks provided appropriate information. A professor of a university has after the during the
+Pause took theft of his laptop from the seminar room a notice
+attached to the department, which also referred to the loss of certificate data. Even an ad in a newspaper can as
+effective publicity notice.
+As a result, most of the responsible persons behaved cooperatively after the announcement.
+
+39
+
+Art. 34 para. 3 DS-GVO
+27
+
+Chapter 1From practice
+
+1.4
+
+focus
+
+Privacy Certification - The Road to
+Privacy Seal
+
+If businesses want to convince their customers and business partners that they take their privacy seriously, then data protection seals will open the way for them. These seals can be issued by private certification authorities. We participate in the process
+Permit and supervise certification bodies for their activities.
+When customers or business associates decide to engage in a business relationship with a company, they often feel the need to
+a quick overview of the level of data protection of relevant products and
+To provide services. Companies that are in compliance with law
+or have invested in privacy-friendly operation of their data processing, they want to show this to the outside world. Privacy Certificates and
+Seals meet both needs.
+Even before the validity of the General Data Protection Regulation (DS-GVO) gave
+there are such certificates. However, it often remained intransparent what significance they actually have and how thoroughly the issuers of the certificates certified them
+Service or the certified product.
+The DS-GVO creates transparency here: Certification bodies must be one
+Provide accreditation process. The criteria they apply for certification require the approval of the supervisory authorities and, where appropriate, the European Data Protection Board and are publicly available. When a
+Certification Body a data processing positively assessed and certified, then
+she must notify the competent authority. If these do not regard the certification criteria as fulfilled, they can issue the certificates
+prohibit or revoke issued certificates. The accreditation of a certification authority can also be revoked.
+The bottom line is that it helps everyone to find out whether products, processes and services provided by companies have a sufficient level of data protection. Even companies that are contract processors
+28
+
+1.4 Privacy Certification - The Road to Privacy Seal
+
+how cloud service providers or shredders want to hire, get through
+the certificates provide the security for themselves and their customers to use DS-GMO compliant services, even if the processor outside the
+EU is established. The proof of data protection compliant data processing is thereby facilitated.
+Companies that are themselves processors or processors can go through
+The certificates show that they offer data protection compliant services. This simplified proof of observance of data protection requirements can bring competitive advantages.
+
+1.4.1
+
+Certification and accreditation
+
+A meaningful certificate is at the end of a comprehensive certification process.
+The certificate states
+• which item, d. H. which product, which process or which
+Service (certification object) has been certified,
+• where you can read about the characteristics of the certification object
+must at least ensure
+• the scope of the certificate
+• when it was issued and how long it applies as well
+• who has carried out the certification.
+The certificate indicates the compatibility of the certification object with the
+Requirements of the DS-GVO. Certifiable under current legislation40 are products, processes and services that process personal information.
+
+40
+
+Art. 43 para. 1 lit. b DS-GMO refers to EN-ISO / IEC 17065/2012, the requirements for
+Provides sites that certify products, processes and services.
+29
+
+Chapter 1
+
+focus
+
+In order to guarantee the necessary quality and thus also trustworthiness, the DS-GVO stipulates that only sufficiently qualified certification bodies are required
+Issue Privacy Certificates. The qualification of the certification bodies is ensured by their prior accreditation and regular monitoring.
+Accreditation means that a potential certification body itself has a
+Passed the exam and thus gets the permission to certify. Around
+To be accredited, the certification body must first identify the criteria that it would like to use as the benchmark for its certification. These criteria are submitted to the supervisory authority, which assesses and approves them if they
+sufficient to establish lawful data processing. The main yardstick here is the DS-GVO. Further legal regulations must be depending on
+the nature of the object of certification and the circumstances of its use. These may be the BDSG, the state data protection laws and sector-specific regulations, eg. B. from the Ssocial law or
+professional regulations for the protection of the secrets of patients
+Patients. In addition to the legal regulations, the certification criteria can also refer to national and international standards, eg. B. on
+the standards of the International Organization for Standardization (ISO) for the
+Security of information technology.
+On the other hand, the certification body must meet requirements with regard to a sufficient professional qualification of its employees, a suitable organizational structure as well as clearly defined processes and impartiality or
+To fulfill independence. There is a general international standard for this
+EN-ISO / IEC 17065/2012, which is responsible for the accreditation of certification bodies in
+in very different fields, from organic farming to building materials for the
+Construction of buildings. It was an important task of the German and other European supervisory authorities in 2018 to supplement this standard with requirements that should specifically apply to data protection accreditation.
+The Berlin supervisory authority has participated intensively in this. Was worked out
+a provisional amended version of the standard now (as of December 2018)
+submitted to the European Data Protection Board for its opinion.
+
+30
+
+1.4 Privacy Certification - The Road to Privacy Seal
+
+1.4.2 Procedure of the accreditation process
+The supervisory authorities and the German Accreditation Body (DAkkS) work closely together in the process of accreditation of certification bodies.41
+The DAkkS controls the overall process of accreditation, accepts the applications
+contrary, takes over the formal examination steps. The supervisory authorities examine and approve the certification criteria and, in addition to the practicalities, check in particular the independence of the applicants and theirs
+Expertise and decide, together with the DAkkS, whether an accreditation
+is granted or not. Following a positive decision, they grant applicants the power to act as a certification body.
+Specifically, the accreditation is as follows:
+program check
+1.
+Application phase for the
+program check
+
+Second
+Program review and
+Approval of the criteria
+
+accreditation
+Third
+Application phase accreditation /
+authority issuing
+
+4th
+evaluation phase
+
+5th
+Accreditation Phase /
+authority issuing
+
+6th
+monitoring phase
+
+The actual accreditation procedure is preceded by a program review. The program review deals with the certification criteria (what should the company to be certified do after the presentation of the certification body?) And the planned procedure of the certification body (eg
+Does the certification body want to determine whether the criteria are being met?).
+
+41
+
+Art. 43 DS-GVO, § 39 BDSG
+31
+
+Chapter 1
+
+focus
+
+The criteria and accompanying processes together form the certification program, hence the name of this phase.
+The German supervisory authorities work to create the requirements
+and procedures for the evaluation of certification criteria and programs
+also close together. This is intended to achieve comparability of the accreditations of the individual supervisory authorities. Furthermore, the necessary quality of the certification programs with their certification criteria should be guaranteed by a systematic procedure during the program check.
+At the same time, the test transparency is secured.
+If a European Data Protection Seal is sought, there is an additional one
+Approval of the certification criteria by the European Data Protection Board required.42
+The actual accreditation process begins with the submission of the accreditation application to the DAkkS. When reviewing the application, this binds the
+responsible authority in the accreditation procedure.
+The review is followed by the review. In the course of the appraisal, the responsible supervisory authority checks together with the DAkkS
+an assessment team fulfilling the requirements of the certification body
+on site. Finally, the evaluation team is convinced of the quality of the work of the certification body by its support in auditing a certification body
+exemplary customer.
+After a documentary review and assessment, an accreditation committee evaluates the results of the assessment and decides on the granting of the accreditation. Two-thirds of this committee consists of members of the relevant supervisory authority and one-third of members of the DAkkS. The
+DAkkS certifies the successful completion of the accreditation phase
+an accreditation letter and the accreditation certificate. The accreditation
+
+42
+
+Art. 42 para. 5 sentence 2, Art. 70 para. 1 lit. o DS-GMO
+32
+
+1.4 Privacy Certification - The Road to Privacy Seal
+
+It is then added to the list of the accredited bodyn the DAkkS
+added.
+According to Art 43 para. 4 DS-GVO, accreditation is limited to a maximum of five years
+Years and can be extended if the criteria are
+On the basis of the successful accreditation, the competent supervisory authority may authorize the certification body to operate nationwide with the certification program without further recognition by other supervisory authorities.
+The competence of a post is also granted after a granted accreditation at regular intervals by the DAkkS and the responsible supervisory authority
+supervised. In this way it is ensured that the certification body the
+permanently fulfilled the respective accreditation requirements. If deviations are detected in the control assessments, this may
+Suspension or suspension of accreditation. This can also have an effect on already issued certificates.
+
+1.4.3 Monitoring certification and development of requirements
+The certifications granted are also regular by the supervisory authorities
+For this purpose, the accredited certification bodies inform the
+competent authority for the issue, renewal or revocation
+Requested certifications.44 Are the requirements for certification
+the competent authority can instruct the certification body not to grant or revoke certification.45
+Also, accreditations become regular within the framework of intermediate examinations
+checked. This includes document-level and on-site audits.
+
+43
+44
+45
+
+Art. 57 para. 1 lit. o DS-GMO
+Art. 43 para. 1 sentence 1, para. 5 DS-GVO
+Art. 58 para. 2 lit. h DS-GMO
+33
+
+Chapter 1
+
+focus
+
+As a result, the supervisory authorities will in the future be permanently involved in the processes of accreditation and certification. The requirements for criteria and programs must be regularly adapted to future developments.
+For this, the data protection supervisory authorities have set up a working group,
+who works on the continuous development of the accreditation process in the area of ​​data protection.
+Regular working meetings with DAkkS ensure smooth cooperation. Recent developments in the field of accreditation
+and privacy can be considered promptly.
+Not only by participating in the certification process, but also
+By creating informational materials and lectures, the
+Berlin Commissioner for Data Protection and Freedom of Information contributes to the
+Fulfillment of the legal mandate 46 to promote the introduction of data protection-specific certification procedures.
+Certificates, privacy seals and test marks will be a quality feature for the processing of personal data in the future. This will be the
+Citizens an instrument for better orientation in one
+both dynamic and fundamental rights relevant area given to the hand. Businesses can use this to align their processes, products
+and services to the requirements of the DS-GVO. By the
+Approval of certification criteria, the accreditation process, the
+Grant of authority to act as certification body, as well as through
+the regular control of accredited companies and supervision
+the certifications granted by the regulatory authorities and the DAkkS
+in the future the quality of certificates in the area of ​​data protection secured.
+
+46
+
+Art. 42 para. 1 DS-GVO
+34
+
+1.5 Advertising according to the DS-GVO
+
+1.5
+
+Advertising according to the DS-GVO
+
+rem mailbox addressed to them addressed advertising mail or advertising by e-mail, fax, SMS or receive a call, although they the advertiser
+previously did not give your consent. Sometimes they did not have any
+Contact the advertisers and ask where they got their contact details from. Also, advertisers who are unsure how the General Data Protection Regulation affects planned advertising and whether and in which
+The extent to which they are allowed to use data for advertising measures in the future is addressed
+reinforced with advice requests to us.
+
+1.5.1
+
+definition
+
+The concept of advertising encompasses all measures according to the European definition
+of companies, self-employed, associations and associations with the aim of the
+Sales of goods or the provision of services.47 Thus
+In addition to direct product-related advertising, indirect sales promotion - for example in the form of image advertising or sponsorship -
+detected. Under the advertising term fall beside classical advertising booklets and
+catalogs also Christmas and birthday mail, newsletter and customer satisfaction queries.48
+The different forms of communication or communication channels of personal
+addressed advertising by post, e-mail, fax or in telephone form are subject to data protection lawto judge.
+
+47
+48
+
+Art. 2 lit. a of Directive 2006/114 / EC of the European Parliament and of the Council of
+12 December 2006 on misleading and comparative advertising (OJ EU L 376, p.
+See judgment of the Federal Court of Justice (BGH) of 12 September 2013 - I ZR 208/12
+and BGH judgment of 10 July 2018 - VI ZR 225/17, available at http: //www.bundes
+gerichtshof.de/DE/Entscheidungen/entscheidungen_node.html
+35
+
+From practice
+
+Numerous complaints reach us from citizens, who in their
+
+Chapter 1
+
+focus
+
+1.5.2
+
+new regulations
+
+With the entry into force of the DS-GVO the previous detailed regulations for the
+Advertising is not required.49 The DS-BER does not contain any special system for the admissibility of advertising, therefore, in principle, the general provisions on the processing of personal data are applicable.
+It is still the case that advertising is only allowed if there is either a legal permit or the consent of the advertised person.
+The processing of personal data by advertisers may be lawful if they protect the legitimate interests of advertisers
+or is required by third parties and unless the interests or fundamental rights
+and fundamental freedoms of advertisers outweigh. This applies in particular
+Measures even if the affected person is a child.50
+The data subject must not have objected to direct mail.
+The General Data Protection Regulation provides for an explicit right of objection.51
+In each specific case, the interests of advertisers or third parties as well as those affected must be weighed up. direct mail
+can basically be considered a legitimate interest processing
+However, for the required
+Balance of interests also always to ask what applicants can reasonably expect objectively or may. The decisive factor is therefore whether the processing
+personal data for certain areas of the social sphere is typically accepted or rejected and whether it corresponds to reason, disadvantages
+for the right of self-determination.
+Advertisers must be able to demonstrate that they weigh this balance of interest
+actually done and that the result is in their favor.
+Furthermore, they must face the interests involved in the balancing
+expressly name the person concerned.53 This may be the case, for example
+49
+50
+51
+52
+53
+
+Section 28 (3) BDSG a. F.
+Art. 6 para. 1 lit. f DS-GMO
+Art. 21 DS-GVO
+Recital 47 DS-BER
+Art. 5 para. 2, Art. 13 para. 1 lit. d DS-GMO
+36
+
+1.5 Advertising according to the DS-GVO
+
+the privacy policy. Inform the advertiser at the time of
+Data collection transparent and comprehensive on a planned commercial
+Use of the data, the expectation of those advertised usually goes as far as ensuring that their customer data is used accordingly. However, through
+Transparency of the statutory considerations pursuant to Art. 6 para. 1 sentence 1 lit. f
+DS-GVO can not be extended arbitrarily, because the expectations of the objective
+Yardstick of reason must be measured.
+In this context, the general principles of the DSGVO54 must always be observed. Thus the data processing must be fair and comprehensible (naming the sources of the data).
+If it is based on a selection criterion for a division into advertising groups
+comes and no additional knowledge gain results from the grouping,
+the balancing of interests will usually be in favor of the advertisers.
+Protection-worthy interests, on the other hand, are generally unlikely to prevail if
+following an order all customers alike
+a promotional catalog or an advertising letter for the purchase of additional products of the advertisers is sent by mail.
+The creation of advertising profiles or the removal of data from social networks for direct marketing purposes, however, will be allowed only with prior consent. More intervention-intensive measures, such as automated selection procedures for creating detailed profiles, behavioral predictions
+Analyzes leading to additional findings also argue in favor of
+that the interest of the advertised in the exclusion of data processing outweighs. In these cases, it is called profiling, which requires the collection of a
+Consent prior to data processing is required. An indication of one
+existing right of objection is not sufficient in these cases.
+With regard to the transmission of data for advertising purposes to third parties and the
+Use of external addresses is generally to be assumed that the interests of the persons advertised must be given a higher priority than the
+Interested advertisers or third parties in the transmission or use of
+54
+
+Art. 5 para. 1 DS-GVO
+37
+
+Chapter 1
+
+focus
+
+Foreign addresses for advertising. The expectationthe affected persons
+is also determined by whether a relevant and appropriate relationship
+between them and the advertisers, z. A customer relationship. In the case of a disclosure of personal data to third parties outside this customer relationship, this is usually not the case. Usually will
+Customers do not expect their contact details from companies,
+where they z. B. have bought, sold to address dealers for advertising purposes
+be asked without being asked.
+
+1.5.3
+
+consent
+
+Processing for promotional purposes may continue to be voluntary and
+independent consent of the advertised person.
+The consent must be confirmed by a clear affirmative action in
+written, electronic or even oral.55
+Silence, already pre-set, ticked boxes or inactivity of the person concerned are not sufficient. Note in this
+But in particular the new information and documentation obligations of the persons responsible.56 The data subjects are in a transparent, understandable and easily accessible form in one
+clear and simple language.57 The advertised person must also
+always be advised of the possibility of a cancellation.58
+Consent can be ineffective, especially if a strong
+Imbalance between the responsible persons and the persons concerned
+The coupling of a service with one does not
+necessary data processing against the voluntary nature of consent.
+
+55
+56
+57
+58
+59
+
+Recital 32 DS-BER
+See also the Working Paper (WP 260) of the Art.29 Group, available at http: //
+ec.europa.eu/newsroom/article29/news-overview.cfm
+Art. 12 para. 1 DS-GVO
+Art. 7 (3) and Art. 21 (3) and (4) DS-GVO
+Recital 43 DS-BER
+38
+
+1.5 Advertising according to the DS-GVO
+
+The effectiveness of the consent is denied even if the candidates do not give it separately according to individual processing operations
+although this would be appropriate in the specific case.
+It is the responsibility of the advertisers to demonstrate compliance with the lawfulness requirements of data processing and the existence of a legally valid consent.61 The DS-GVO, unlike the old Federal Data Protection Act, no longer requires a written form in this respect. But this one
+Being able to comply with an obligation is advisable to get one regularly
+Consent in writing with handwritten signature or at least in
+Text form (eg e-mail) to strive. For the electronic declaration of consent, the so-called double-opt-in procedure is required (depending on the specific type of contact: e-mail or SMS), whereby the legal proof requirements must be taken into account when logging. Are to be held
+the content of the consent and the entire opt-in procedure.62
+
+1.5.4
+
+change of purpose
+
+Personal data that was not originally collected for advertising purposes
+can still be used for promotional purposes, provided that the new
+Purpose is compatible with the original purpose
+Responsible a so-called compatibility test taking into account in the
+DS-GMO regulated criteria.64 Otherwise, consent is required.
+
+60
+61
+62
+63
+64
+
+Art. 7 para. 4 DS-GVO
+Art. 5 para. 2 and Art. 7 para. 1 DS-GVO
+Art. 5 para. 2 DS-GVO and BGH judgment of 10 February 2011, I ZR 164/09, available at
+http://www.bundesgerichtshof.de/DE/Entscheidungen/entscheidungen_node.html
+Art. 6 para. 4 DS-GVO
+Recital 50 DS-BER
+39
+
+Chapter 1
+
+focus
+
+1.5.5
+
+Law against unfair competition
+and DS-GMO
+
+Regardless of data protection law, e-mail advertising and other advertising with electronic mail as well as telephone and fax advertising must comply with the provisions of the Unfair Competition Act (UWG)
+remain applicable according to the new provisions of the GDPR. These rules,
+in which cases an unacceptable harassment of the advertised persons is assumed and an advertisement of this kind is inadmissible. If the UWG for certain
+Advertising forms and ways of contact detect an unreasonable harassment, this is
+in the context of the balancing of interests of the DS-GVO.
+Accordingly, e-mail advertising and other advertising with electronic mail as well as telephone or fax advertising to consumers is only possible after explicit, separate consent
+allowed. Other things can apply to e-mail advertising if the affected
+People were once customers or customers of the company, with
+similar products are advertised and given a possibility of opposition.65
+
+1.5.6
+
+Adhere to advertising conflict
+
+The advertising contradiction of a data subject can protect himself against the Downer and / or the advertisers as responsible persons.
+Both must consider this advertising contradiction in future, z. B. by
+Inclusion in an advertising lock file. The people responsible for the effective
+Enforce the right of objection of the data subject, for example by forwarding the opposition. The implementation of the
+Objection must be made immediately.
+
+65
+
+Art. 7 (3) UWG
+40
+
+1.6 The new Berlin Data Protection Act - Hopefully not the last
+
+The sending of personally addressed advertising by post is only allowed if either a consent or a legal permission to do so
+is present. For e-mail advertising and other advertising with electronic mail
+as well as telephone and fax advertising, the requirements of the UWG must be observed in addition.
+
+1.6
+
+The new Berlin Data Protection Act -
+Hopefully not the last stand
+
+With the coming into force of the General Data Protection Regulation on May 25, 2018
+the reform process of European data protection law was by no means over. Rather, this resulted in a huge need for adaptation of the federal and
+Land legislation, which has not been fully completed to this day
+ist.66 The Berlin data protection law is largely determined by the Berlin Data Protection Act (BlnDSG), which was adopted on May 31, 2018 by the Berlin House of Representatives. It regulates the conditions under which
+The public authorities of the state of Berlin may process personal data in principle.
+In addition to the adaptation of the general Berlin data protection law to the DSGVO, this law also made the EU data protection directive for police and police
+Judiciary, the so-called JI Directive EU 2016/680, transposed into national law.
+This will also regulate the processing of personal data by the police and judicial authorities. As before, however, the BlnDSG also
+further supplemented by various sector-specific regulations in various special laws.67
+Our authority was intensively involved in the legislative process. We have
+made several written statements and made several critical remarks in the relevant committee meetings and plenary.
+
+66
+67
+
+See 1.8
+See 1.8
+41
+
+Chapter 1
+
+focus
+
+Unfortunately, we could not prevail with all our concerns. As a result, unfortunately, it can be stated that the Berlin Data Protection Act has been passed to some
+Entities which curtail the rights of citizens guaranteed in the GDPR.68 In the
+Strengthening the rights of victims is, however, a central concern of the
+European data protection reform. Affected rights put the people in
+the ability to self-determined privacy. On the basis of information and information, they should themselves be able to establish transparency about the data processed about their person. This is a prerequisite for enforcing the correctness of the stored data by means of corrections and deletions
+to be able to. All the more regrettable is that the Berlin legislature in this
+Restricted areas that are no longer covered by the DS-GVO: eg, access rights are not restricted
+if the provision of information would jeopardize the prosecution of criminal offenses or the security of the country, as provided for by the European rules.69
+Rather, the denial of information should be allowed even with comparatively insignificant fine proceedings, such as holding in the parking ban.70
+In addition, certain decisions on a refusal of information
+not even verifiable by the independent data protection supervisory authority. This is always the case under the new Berlin law when
+individual Senate members refuse to provide information on the grounds that
+there is a potential risk to the Federation or the Länder.71 A review of the validity of this statement of reasons is required under the new legislation
+Berlin regulation just as impossible as a control of legality
+the specific data processing by the person concerned or by our agency.
+Other powers of the data protection supervisory authority were also provided by the Berliner
+House of Representatives clearly limited. Especially in public areas it is
+questionable, if we can do our job effectively. So we were
+
+68
+69
+70
+71
+
+§§ 23 ff. BlnDSG
+Art. 23 para. 1 DS-GVO
+Section 24 (1) sentence 2 no. 2 BlnDSG
+Section 24 (3) BlnDSG
+42
+
+1.6 The new Berlin Data Protection Act - Hopefully not the last
+
+specifically denies the DS-BER the power to impose fines on public authorities and other public authorities.72
+In the area of ​​the JI Directive, the Berlin legislature went even further and, contrary to the wording of the directive, granted our authority only a right to object.73 If the addressee does not comply with a complaint, then there is only the possibilitythe
+the relevant parliamentary committee, which in turn also
+has no legally binding remedies. The recording on
+The agenda does not need to be short-term, so that a breach of data protection may persist for a long time, without concrete consequences
+to be able to intervene. The possibility to bring about a judicial clarification
+also does not exist. This rule is contrary to the requirements of the JHA Directive, which requires that the supervisory authority must be able to:
+give legally binding instructions.74 As examples of such effective
+Powers are given by way of example z. For example, the power to data processors
+to instruct processing operations in accordance with data protection laws
+bring, and the power, a temporary or final restriction
+processing, including a ban. Contrary to the definition of the JHA Directive, 75 which requires the supervisory authority to
+of this Directive and its implementing rules
+Therefore, our authority does not have the
+necessary powers to perform this task effectively.
+It is to be hoped that the BlnDSG will be improved at the end of the parliamentary term in the evaluation of the points criticized by us.
+
+72
+73
+74
+75
+
+§ 28 BlnDSG
+§ 13 para. 2 BlnDSG
+Art. 47 (2) JHA Directive
+Art. 46 para. 1 lit. a JI Directive
+43
+
+Chapter 1
+
+focus
+
+When adapting the BlnDSG to the DS-GVO and the JI Directive, it has
+The legislature missed, a courageous signal in the direction of protection of fundamental rights
+to put. The data subjects contained in the DS-GVO were restricted. The powers of the authority appointed to secure these rights have been curtailed.
+
+From practice
+
+1.7
+
+Facebook fanpages and the common
+Responsibility for data processing
+
+In June 201876, the European Court of Justice found that Facebook fanpage operators, together with Facebook, are responsible for processing the personal data of fans page visitors. The decision is based on the before 25 May
+2018 Data Protection Directive. The considerations can be but in the
+DS-GMO time transferred, since the definition of jointly responsible themselves
+did not change. In contrast to the old legal situation sees the DS-GVO for the
+However, those responsible have additional requirements in Art. 26 GDPR. After that, they are obliged to stipulate in a transparent agreement who fulfills which obligations under the DS-GVO. Furthermore
+the agreement must have the respective actual functions and relationships
+duly reflect the co-responsibility of the data subjects and the essential content of the
+be made available to the persons concerned.
+
+1.7.1
+
+Hearing proceedings in Berlin
+
+The decision of the ECJ is trend-setting, because it is then irrelevant for the data protection responsibility, whether the processing
+legally or economically "
+Eye level "act or z. B. are infrastructural dependent on each other. In Er76
+
+Judgment of the ECJ of 5 June 2018, Case C-210/16 Wirtschaftsakademie Schleswig-Holstein
+44
+
+1.7 Facebook Fanpages
+
+Therefore, those responsible can not be behind large platforms and
+Infrastructure providers "hiding" their offers
+use.77 Also several months after the publication of the judgment of the ECJ
+However, we could not recognize that fan page operators in Berlin, especially public authorities, consequences of the
+Judgment. Even Facebook had nothing official to hear,
+In particular, no further agreement was required under the DS-BER
+for joint responsibility.78
+In September, the Conference of Independent Data Protection Supervisors of the Federation and the Länder (DSK) issued a resolution79 stating that the operation of a fan page, as offered by Facebook, without an agreement under Art. 26
+DS-GMO is illegal. In addition, the DSK pointed out that fanpage
+Operators (regardless of whether they are public or private)
+non-public responsible) is the legality of the common to
+ensure responsible data processing and can prove it
+müssen.80
+Shortly thereafter, Facebook released a supplemental agreement, based on
+a shared responsibility. However, we have doubts that the information that Facebook has published so far and in connection with the
+Supplementary Agreement has been made sufficient to be accountable for the lawfulness of the processing of the data ofTo be able to drop visitors to the fan page. We therefore have a number
+of bodies of the Berlin state administration, political parties as well as companies and organizations u. a. from the commercial, publishing and finance industries in
+Berlin written. At the moment we hear these on the privacy law Fra77
+
+78
+79
+
+80
+
+The ECJ makes it clear that the fact that organizations and persons
+use platform set up by Facebook to avail themselves of the associated services, not to comply with their obligations in the
+Protection of personal data, judgment of the ECJ of
+5 June 2018, Case C-210/16, para. 40
+See Art. 26 DS-BER
+"Decision of the DSK to Facebook Fanpages" Dusseldorf, 5 September 2018, available
+at https://www.datenschutzkonferenz-online.de/media/dskb/20180905_dskb_facebook_fanpages.pdf
+See the accountability set out in Art. 5 para. 2 DS-BER
+45
+
+Chapter 1
+
+focus
+
+orders. In particular, we want to know which specific data processing takes place on which legal basis the data processing takes place
+and how the information of the persons concerned is ensured.81
+
+1.7.2
+
+Interpretation and scope of the common
+Processing of personal data
+
+As part of the fanpage process, the ECJ pointed out that Facebook
+so-called "page insights" for the site operators, ie
+Statistics about the visitors of the site and the type of use. For the court it played a big role that the fan page operators
+and operators by setting certain parameters (eg evaluations
+according to age and gender) according to their target audience at the creation
+the statistics through Facebook .82 remained open whether the common
+Responsibility of the site operators beyond the creation of such site insights should extend to subsequent or further data processing by Facebook. On the other hand speaks that the ECJ the
+Site insights and the parameterization by the site operators in the foreground. However, the ECJ saw, apparently independent of the parameterization, especially with such visitors
+the Fanpage, which are not registered on Facebook, an increased responsibility
+the site operator. In these cases, so the ECJ, solve this
+simply calling up the fan page automatically processes the processing of their personal data.83 The court thus far extended the concept of the responsible processing of personal data.84
+
+81
+
+82
+83
+84
+
+We have published the questionnaire in the consultation process at https://www.datenschutz-berlin.de/fileadmin/user_upload/pdf/informationen/2018-BlnBDI-Fragenkatalog_Fanpages.pdf.
+Judgment of the ECJ of 5 June 2018, Case C-210/16, para. 39
+Judgment of the ECJ of 5 June 2018, Case C-210/16, para. 41
+Accordingly, the ECJ pointed out in the decision that it was not necessary for each or each jointly responsible person to have access to the relevant
+has personal data, cf. Judgment of the ECJ of 5 June 2018, Case
+C-210/16, marg. 38
+46
+
+1.7 Facebook Fanpages
+
+The ECJ affirmed this interpretation in another decision from the
+last year. Shortly after the fanpage decision, the court ruled 85 that
+a religious community, together with its members acting as heralds, is responsible for the processing of personal data. In this case, the ECJ made it sufficient for the data protection responsibility, that the religious community the announcement activity
+organized, coordinated and encouraged the members.86
+Another legal clarification of the concept of shared responsibility
+is not far away. In a recent case, the ECJ has to deal with the issue of
+Integration of Social Plugins87 into websites and with the responsibility for the
+dealing with triggered data processing. In December, the
+Advocate General published his Opinion in the proceedings.88 He comes
+to conclude that the operators of websites use the
+Third parties whose plugins they have integrated into their web pages as common
+Responsible persons are to be regarded. The Advocate General hereby relies on the survey
+and transmission of personal data, which are caused by the plugins, but suggests at the same time, the joint responsibility
+to restrict such phases to a whole chain of data processing operations in which a participating actor actually contributes to the decision on the means and purposes of data processing. In the case of Social
+Plugins is therefore limited to the joint responsibility of the website operator in question according to the proposals of the Advocate General
+the Phand to provide a large part of all administrative services in the future. We have
+Intensively supported the introduction of the service account and supported the leading Senate Department for Home Affairs and Sport with regard to the implementation of data protection regulations.
+The draft law for improving the online access to administrative services of the Berlin administration (Online Access Act Berlin) 94 was taken note of by the Senate on presentation of the Senator for Home Affairs and Sport and
+should be introduced to Parliament after referral to the Council of Mayors. Thus the course is set, by means of a single registration in the
+Service account not only administrative services of the country Berlin electronically in
+To be able to claim, but also those of other states and the
+Federation via its portal network.
+According to the Berlin E-Government Act, the Berlin administration is obliged to file its files electronically by 1 January 2023 at the latest
+92
+93
+
+94
+95
+
+JB 2017, 2.1
+Application for resident parking permit, a daycare voucher for citizens
+and citizens as well as the use of the single point of contact Berlin for enterprises
+JB 2017, 2.1, p. 46
+§ 7 para. 1 sentence 1 EGovG Bln, see also JB 2016, 2.1
+50
+
+2.1 Digitization projects in Berlin
+
+is by appropriate technical-organizational measures according to the respective
+State of the art ensure that the principles of proper record keeping and the standards applicable to the Berlin administration, in particular
+with regard to data protection and data security.
+The electronic file allows a faster and more efficient processing of tasks, which not only benefits the citizens, but also
+the employees of the Berlin administration. Through them, files and other
+Documents transmitted electronically within authorities and with each other
+can be. This is in any case a safe, the current state of
+Technology appropriate communication infrastructure use. In particular
+the transmitted data must be protected from unauthorized access and from change.96 In perspective, it should also be citizens
+allows you to retrieve the status of the transaction processing itself via the service account Berlin, which, on the one hand, provides faster notification
+the person concerned, but also the employees of the
+Authorities are relieved of demands.
+As in the electronic file naturally also very sensitive data too
+also technical and organizational measures must be taken
+which allow the processing of data requiring a high level of protection. We
+have intensively accompanied the leading Senate Department for Home Affairs and Sport in the determination of protection needs. In addition, we were involved in the preparation of the nationwide bidding process for the electronic file
+In this way, they were able to ensure that data protection regulations and aspects were already taken into account in the tender process. It
+It is planned to launch the tendering procedure in 2019.
+The service account as well as the electronic file are flanked by the new basic service "digital application", which in the future will be a media-break-free application
+with uniform appearance and operating concept for all electronic
+To enable applications in the Berlin administration. As with the electronic
+Act also applies here that because of the potential processing of particularly sensitive data, technical and organizational measures must be taken
+96
+
+§ 7 Abs. 2 EGovG Bln
+51
+
+Chapter 2
+
+Digital administration
+
+enable the processing of data requiring a high level of protection. Here, too, we have accompanied the determination of protection requirements and brought in further data protection advice.
+In connection with the introduction of the electronic file management and transaction processing in the Berlin authorities will continue in not insignificant
+Scope Paper documents are incurred, especially in the field of incoming mail.
+To include these documents in the electronically-assisted workflow
+paper documents are more orderly while respecting the principles
+File management and storage in an electronic format.97
+In any case, the specifications of the Technical Guideline are to be replaced
+Scanning of the Federal Office for Security in Information Technology98. To find a uniform, secure and economical solution throughout Berlin,
+The Senate Department for Home Affairs and Sport initiated the document input management (DIM) project. We will also accompany this project.
+The introduction of digital administrative services must be for citizens
+Citizens are transparent, secure and protected by data protection.
+
+From practice
+
+2.2
+
+Aid Online
+
+The Specialized Procedure Aid Application Online (BAO) soll allow eligible employees and pensioners of the state of Berlin online
+Apply for assistance via web browser or app, track the processing status and receive notifications. In addition, it should be possible
+Report master data changes. As part of the application, the functionalities will be provided in stages.
+Already four years ago we were informed by the state administration office that the conditions for the application for the BAO are being created
+should. In this early phase of the project, we had the Landesverwaltungsamt97
+98
+
+§ 8 EGovG Bln
+BSI TR-03138 Replacing Scan (RESISCAN)
+52
+
+2.2 Aid online
+
+shared what documents for a systematic and final assessment
+of the process are needed. These are z. B. an IT security concept as well
+Concepts for the organization of the access authorizations, the logging of successful data access as well as the deletion of the data.
+After some considerable delays, we received documents, however
+had to be reworked or completed or step by step
+were submitted after completion. In May 2018 the project became again
+added. At a first workshop, the significance of the project became clear
+confirmed and decided to continue the project. Since then is progressing
+We are making good progress with the project with our participation.
+The modified from 25 May 2018 with the General Data Protection Regulation (DS-GVO)
+The legal status of the project means that a data protection impact assessment has to be carried out, as the beneficiaries' medical bills processed by the procedure are extensively processed
+health data99 and thus particularly sensitive data. A privacy impact assessment is a specialized tool for describing
+Assessing and mitigating risks to the rights and freedoms of individuals in the processing of personal data.100 A privacy impact assessment must be carried out by the respective controller, in
+In this case, the Landesverwaltungsamt.
+In a first phase, the risks were assessed accordingly
+Procedure using the Standard Privacy Model (SDM) .101 where
+Identified risks for which appropriate remedial action must be taken. In the context of the continuation of the data protection impact assessment must
+It will now be examined whether the planned measures sufficiently cover the risks
+mitigate.
+
+99
+100
+101
+
+Art. 35 para. 3 lit. b DS-GMO
+Further information at https://www.datenschutz-berlin.de/wirtschaft-und-verwaltung/datenschutz-folgenabschaetzung/
+SDM: The Standard Privacy Model provides support for privacy advice and review, and for creating a privacy impact assessment
+on the basis of uniform warranty objectives (https://www.datenschutz-berlin.de/
+fileadmin / user_upload / pdf / orientlierungshilfen / 2018 SDM.pdf).
+53
+
+Chapter 2
+
+Digital administration
+
+Further advances in the process, such as the development of a user-friendly app for mobile devices, are planned. For this then must also
+a consideration of the risks as part of a data protection impact assessment
+respectively.
+A data protection compliant planning and arrangement of the future-oriented procedure aid application on-line could under our accompaniment on the
+Be taken away. The subsequent steps and the future
+We will continue to pay close attention to planning.
+
+54
+
+3.1 threatening letters to the left scene with data from police databases
+
+3
+
+Interior
+
+3.1
+
+Threatening letters to the left scene with data from
+Police databases
+
+various institutions of the left-wing autonomous scene have received letters,
+the u. a. Names and photos of several concrete persons contained. In the
+A total of 45 persons were named by name, and 21 of them were photographed and provided with information that apparently only
+could come from police or judicial authorities. The sender was a
+"Center for Political Correctness" and threatened to pass on the data of these persons and their family members to the police or extreme right-wing groups.
+Immediately after the publication of the media reports, we contacted the police and asked for a short-term opinion on what measures the police took to clarify the facts. As the first investigation
+We recommended reviewing the accesses to the records in the police databases to the persons named in the threatening letter.
+The police then informed us that they had a preliminary investigation against unknown persons for violation of the Berlin Data Protection Act (BlnDSG) and
+infringement of private secrets. According to our recommendation, a log data query was made to ascertain
+to clarify whether data of those affected in temporal proximity to the letter versesout
+were retrieved from the police databases and whether the call was due to business reasons. The evaluation of data queries and further investigations
+with the involvement of the Forensic Institute, however, no results had been found.
+We recommended further concrete measures to the police, which were partly taken into account by the investigating state criminal investigation office. Insbeson55
+
+From practice
+
+At the beginning of the year, we learned through press releases that
+
+Chapter 3
+
+Interior
+
+In addition we recommended the examination of an original copy of the letters sent from the following points of view: Identification of the serial number
+of the printer used on the basis of the printed image (so-called "Machine Identification
+Code "), conclusions on the origin of the letter by analysis of the paper used and determination of the author of the letter by
+possibly imprinted fingerprints.
+When in the meantime affected persons turned to us confidentially, we were able to briefly inspect an original letter and find out,
+that this color photos contained in good resolution. This spoke against that of the
+Police initially speculated that were used in the preparation of the letters photocopies.
+In view of the information available to us, we submitted on 26 March 2018
+Criminal application against unknown for violation of the Berlin data protection law.102 In the further course of our examination, we unfortunately received only limited information from the Berlin police. We were first informed in mid-April
+that on the basis of an order from the public prosecutor's office, the further communication was to be conducted directly through the competent public prosecutor. We both had to
+The police as well as the prosecution repeatedly point out that the
+Police Commissioner in Berlin as a data processing agency opposite BlnBDI
+is required to provide information, even if the public prosecutor's office carries out a preliminary criminal procedure.103
+After several inquiries, we received in August from the police information that a police officer of the state of Berlin identified as a suspect
+and this has granted the production of the letter. The prosecution finally told us in early October, against the accused was one
+Penalty order, which has been in force since the end of August. There
+However, we still have no knowledge of where in the
+sent letters contained personal data and how
+the author of the letters has reached them, our examination continues.
+
+102
+103
+
+Section 32 (3) BlnDSG a. F. i. V. m. § 32 para. 1 no. 2 Alt. 1 and no. 1 alt. 1 BlnDSG a. F.
+§ 54 BlnDSG
+56
+
+3.2 Processing of personal information in police databases
+
+The use of threatening letters is a particularly serious incident. she
+not only constitutes a criminal offense, but also damages the public's trust in the security forces, whose task in particular
+the prevention of crime.
+
+3.2
+
+Processing of personal information
+in police databases
+
+personal assessments of persons, so-called personal references (PHW),
+after having been this for over twenty years due to criticism from the Conference of the Federal Data Protection Commissioner and countries not for their work
+The reintroduction of the clues was unsuccessfully rejected.
+Personal information used throughout the country includes the term "mental and behavioral disorders" (PSYV), which may be up to
+a corresponding resolution of the Conference of Interior Ministers in 2015
+"Mentally ill" means.105 Such personal information should in particular serve to protect the data subject or to protect police officers.106
+Due to requests from citizens for the storage of personal information in police databases, we have again written to the Senate Department for Home Affairs and Sports on this topic and
+pointed out that we continue to have significant doubts about the legality
+storing the reference "Mental and behavioral disorders".
+In our opinion, such an indication is not required for police purposes and is extremely stigmatizing for those affected.
+
+104
+105
+106
+
+JB 2012, 3.8
+See Drs. 17/2406 of the House of Representatives Berlin
+See § 16 (6) no. 1 Federal Criminal Police Act (BKAG)
+57
+
+From practice
+
+For some years now, the Berlin police have been creating and using certain po-
+
+Chapter 3
+
+Interior
+
+In particular, it is not clear why the inclusion of such a warning for security or intrusion by the police be necessary
+should. As a rule, mentally ill persons do not pose any dangers due to their illness, which has to be warded off by the police. As far as in individual cases such dangersNevertheless, the inclusion of the
+also possible personal reference "violent" conceivable and
+sufficient.
+The personal reference "Mental and behavioral disorders" should
+lack of necessity from the list of references that are given in police databases by the Berlin police to perform their duties
+can be taken out.
+
+From practice
+
+3.3
+
+Vulnerability in the police
+Database POLIKS?
+
+A police officer complained to us that unauthorized access to the police database POLIKS due to insufficient security requirements
+possible. One could by multiple input of a wrong password
+lock any access to POLIKS and then over a telephone
+Hotline without further hurdles unlock this access again and get a new one
+Password.
+In the subsequent audit we were confirmed to have access to
+POLIKS will be blocked if multiple wrong password is entered.
+For unlocking the affected users could then
+contact the central IT administration. This will raise a lock on the account,
+if the notification is confirmed by the supervisor or supervisor of the person concerned. After unlocking the password, the password is unchanged; it will not forgive new. We have none against this procedure
+data protection concerns.
+On the other hand, if the user requires an account lockout, they will need it
+new password, she or he must contact the police after informing the police
+58
+
+3.3 Vulnerability in POLIKS police database?
+
+competent local IT administration, after identification of the
+give the person concerned a new password. The concrete identification procedure is not uniformly regulated throughout Berlin. The police password
+According to our statement, the directive does not contain any specific information, but merely the general requirement of proof of identity.
+According to the police, this takes place either by presentation of the official ID card, verification by the supervisor or personal recognition of the employee
+or the person concerned.
+We then called for the creation and enforcement of a single entity - level regulation that would ensure the safe identification of the
+each affected person guarantees. In particular, it should be specified when
+which of the means described for identity verification in a password re-allocation application and how this should be done in each case specifically. To later
+Checking - especially in the case of a suspected abuse - should also be documented by the local IT administrators in order to assign new passwords as well as the type of identity verification. Furthermore, we have recommended periodic random checks of the
+make local password re-assignments.
+The police have agreed to revise their password policy.
+Unauthorized access to data in POLIKS is fined and even constitutes a criminal offense if it results in damage or enrichment
+.107 The police are responsible for providing the necessary
+to undertake technical and organizational measures with a view to password re-allocation in order to ensure a level of protection appropriate to the risk when processing personal data in POLIK.108
+This also prevents misdemeanors and offenses.
+
+107
+108
+
+§§ 70, 29 BlnDSG
+§ 50 para. 1 BlnDSG
+59
+
+Chapter 3
+
+From practice
+
+3.4
+
+Interior
+
+Control of the accreditation process
+at the G20 summit
+
+In July 2017, the G20 summit109 took place in Hamburg. In order to gain access to the press center, journalists needed accreditation from the Federal Press Office. Prerequisites for accreditation were proof
+journalistic activity and a security clearance. After being in the
+In the run-up to the G20 summit, the security authorities made a new assessment of the situation, as a result of which the accreditations already granted were reviewed. On recommendation of the federation
+Kriminalamts decided the Federal Press Office, a total of 32 journalists
+and journalists to withdraw the accreditation again. Complainants complained
+in particular, that the recommendations of the BKA on the basis of
+Information on criminal proceedings have been issued, some
+lagged for years.
+The findings of the BKA were mainly due to data obtained from
+the national police authorities in the nationwide information system
+INPOL had been discontinued. Therefore, we have an exam in terms of
+Storage of data in INPOL initiated by the Berlin police.
+Prerequisite for the transmission of data to the BKA or for the storage of data in the BKAOn the one hand, the use of databases is one of transnational, international or substantial criminal offenses
+Meaning.110 In this case, a so-called "relevance check" has to be carried out. To the
+others may use personal data of the accused and of persons
+who are suspected of a criminal offense, are only processed under certain conditions. On the basis of a so - called "negative prognosis" it has to be examined whether because of the
+Type or execution of the act or the personality of the person concerned Reason to
+It is assumed that future criminal proceedings against the accused or
+Suspects are to lead.111
+
+109
+110
+111
+
+Summit of the Group of Twenty Major Industrialized and Emerging Countries
+Section 2 (1) Federal Criminal Police Act (BKAG)
+§ 8 para. 2 BKA-old or now § 18 para. 1, 2 BKAG
+60
+
+3.4 Control of the accreditation process at the G20 summit
+
+In connection with the documentation and execution of the relevance checks as well as the negative prognoses we have found structural errors of the Berlin police. It has to be done when setting the data
+Tests or considerations not documented, but only later for
+formulated the answer to our request. In the absence of case-by-case documentation, it was therefore not clear to us whether the tests required by the BKAG had been carried out by the Berlin police before
+Records were fed into INPOL, and whether the legally required
+Prerequisites exist.
+In addition, in some cases the police had no feedback from the police
+Prosecutor's Office to the outcome of the proceedings before, so the legality
+the further data storage was not examined. In one case this led
+that there was still a case in INPOL, even though the one
+Person acquitted by a court for real reasons legally acquitted
+had been. It should be clearly stated here that further processing of data is inadmissible if the data subject has been acquitted with legal force or if the opening of the main proceedings is incontestable
+rejected or the proceedings not only provisionally ceased, provided that
+For the reasons of the decision, it appears that the person concerned did not do the deed
+or unlawful.
+We have criticized these structural mistakes in the Berlin police and demanded that in relation to the documentation of the tests to be carried out
+urgent procedural changes are required. Furthermore, we have called for technical and organizational measures to be taken so that INPOL does not have any
+unlawful further processing of personal data of those affected.
+The police have now informed us that appropriate organizational
+Procedural changes have been made or currently in police
+Land system for information, communication and processing technically
+would be implemented.
+
+61
+
+Chapter 3
+
+Interior
+
+Storage and processing of personal data in the
+Databases maintained by the BKA may only be carried out in accordance with the legal requirements. The check whether these conditions are fulfilled must
+Based on the individual case by the registration office at the Berliner
+Police take place. For this purpose, suitable technical and organizational prerequisites have to be created.
+
+From practice
+
+3.5
+
+First aid app "Katretter" of Berlin
+fire Department
+
+We accompany the Berlin fire department with the introduction of an app that the
+Alerting first responders in close proximity to the location of the emergency calls possible if - such. As in a cardiovascular standstill - particularly fast
+Help even before the arrival of the ambulance can save lives.
+The Berlin Fire Department has already involved us at an early stage of the project. For this we were an app "Katretter" and the process belonging
+Software components that are to be operated in data centers and at control centers. The Katretter system is in cooperation with the
+Fraunhofer Institute for Open Communication Systems (Focus) and the CombiRisk GmbH develops and aims in Berlin, but also in other federal states,
+operate.
+The purpose of the procedure is the alerting of so-called first-aid workers, who happen to be accidental
+in the immediate vicinity of a person to be rescued. This is what the
+Firefighters in a first project phase Volunteers from their own
+Rows that install the app and help in an emergency. Later, too
+First-aiders are recruited from other medical professions.
+Specifically, the procedure should proceed as follows: If an emergency call, in which the symptoms inquired indicate a cardiac arrest, in the rescue center, so in the Katretter system at the push of a button, the place and more
+Data of the emergency call entered. The system now searches in its own databases for first responders who are in the vicinityn, alarmed by stating
+62
+
+3.5 first aid app "Katretter" of the Berlin fire department
+
+First aiders found in succession at the place of the emergency until a first responder confirms the acceptance of the mission by means of an app. This person
+goes to the place of the emergency and provides "first aid" until the arrival of the
+Ambulance. After the assignment, the first aider or first responder is killed
+Answering some questions asked about the use of the scientific
+Accompaniment serve and possible excessive demands of the Ersthelfenden early
+should show.
+From a legal point of view was to ensure that participation in the procedure
+really voluntary. There must be no pressure on employees of the fire department
+be exercised to participate in the procedure. Also the questioning at the end
+An assignment must be voluntary and allow omission to answer individual questions. In particular, the last point will be scientific
+View often reluctantly, as this makes it difficult to evaluate the results. We
+have worked to ensure that they are implemented accordingly.
+Another important point is the technical implementation of the project. Around
+First aid workers in the vicinity of an emergency site without delay determine
+can, the sites of those involved must necessarily be in a database
+filed and regularly updated by the apps.
+However, it is not necessary that in the database the exact location of
+Potential First Aid is saved as being within reach of the few
+In the case of use, the exact locations at the
+App can be queried. After our consultation will be in the database
+the locations of the first-aid workers are listed as circles with a diameter of 500 meters. At each point in the circle, the first responder can
+with equal probability.
+Moreover, it is not necessary to keep records of previous locations
+Retain first aid. This would lead to the creation of motion profiles and thus u. U. a deep insight into the lifestyle of the
+allow the persons concerned. For IT security purposes and to test the
+Functionality of the method, however, is the storage of log data for
+a period of about four days required. Therefore, the location data
+now removed after a few hours from these log data.
+63
+
+Chapter 3
+
+Interior
+
+Failure to observe the above restrictions would violate the principle of data economy. In addition, the collection of the above-mentioned data might prevent interested parties from registering for the procedure.
+Both for the "blur" of the continuously stored locations of the first-time helpers and for the storage duration of the logs, the u. a. location data
+have now been found appropriate values ​​that meet both the requirements of data protection and the functionality of the system and
+allow the testability of the correct operation.
+The app "Katretter" can save lives. With proper design of
+Software and processes will avoid having accurate motion profiles of the
+First aiders arise.
+
+From practice
+
+3.6
+
+Location of emergency calls at the Berliner
+fire Department
+
+Smartphones provide the ability to call the current location of the emergency call
+Device and via SMS or Internet to the respective rescue center
+to convey. The Berlin Fire Department would like to use this functionality in test operation.
+From smartphones via satellite tracking112 or detected by other methods
+Location data is often much more accurate than the mobile network's
+Radio cell 113 determined location data. Rescuers could find vulnerable people faster by using this system, and thus u. U. save lives.
+We were asked by the Berlin fire department for legal and technical evaluation
+the so-called "Advanced Mobile Location" (AML) method.
+
+112
+113
+
+Location by means of several satellites. There are various systems, such. As the American GPS or the European Galileo.
+A radio cell in a mobile network refers to the local area that is served by an antenna of a particular mobile mast.
+64
+
+3.6 Locating emergency calls to the Berlin fire department
+
+The Berlin fire brigade was in this regard already in exchange with rescue centers in other states that would like to use the service from 2019 as a test. In view of the nationwide importance
+We have the other supervisory authorities for the issues at an early stage
+Data protection of the federation and the countries in our examination involved and with
+they are asked questions about the location survey service for emergency calls.
+The preliminary result is that there are still appropriate legal bases
+for the data processing related to the procedureis missing. In particular, there is no specific legal basis for the automated collection of location data from an emergency call via smartphone
+Person by the emergency call center of the Berlin fire department. We have the Berliner
+In this respect, it is recommended that the fire brigade B. in the Berlin Rescue Service Act to work. On the legal basis in the DS-GVO, which allows data processing, if this is for protection
+vital interests of the data subject or any other natural person is necessary114, for reasons of legal certainty under
+Recital 46 can be used only in individual cases.
+Finally, we have the fire brigade still pointed out that the upstream data processing by the company Google (location and transmission of location data to the control center) in the evaluation
+of the procedure can not be disregarded. The problem is that
+At present it is still unclear, which data Google uses for the location determination and
+whether it is data that has been legally collected. For this
+should be further clarified in collaboration with the other regulators
+for the data protection of the federation and the countries.
+In addition, also ask technical questions. So is one of the used
+Location tracking methods have been resorted to WiFi base stations discovered by smartphones nearby. There are fundamental concerns about this process as it regularly tracks the locations of even private WiFi base stations in databases owned by companies such as Google or Apple
+
+114
+
+Art. 6 para. 1 lit. d DS-GMO
+65
+
+Chapter 3
+
+Interior
+
+without first obtaining the consent of the owners of the WiFi base stations.
+In the case of emergency calls, it is also important that those concerned have deliberately switched off the location functions of the smartphone. However, the smartphones turn on all functions in the event of an emergency call
+Identify the location and the mobile Internet access to the locations
+to be able to transmit to the emergency caller. In addition, it inevitably comes here
+about data transfers to the operating system manufacturers: In order to determine your own location via Wi-Fi location115, a smartphone must be connected to a very large,
+online database of the locations of the WiFi base stations discovered by the smartphone. Google or Apple will thus learn that
+any smartphone is in a certain location. To answer
+is the question of whether and how the operating system manufacturers use this data and
+whether the smartphones or their owners are identified
+can be.
+Although not all legal and technical issues have been resolved
+The supervisors have the introduction of a system for locating emergency calls through the possible rescue of human lives
+Terminals and the transmission to the respective rescue centers for a
+Trial period of three years. During this period, the remaining questions must be clarified.
+
+3.7
+
+Video surveillance after taking effect
+the DS-GMO
+
+With the coming into effect of the DS-GVO, the legal basis for
+changed the operation of video surveillance cameras. Since the DS-GVO does not contain a special regulation for video surveillance, the standard for one
+Data protection-compliant video surveillance according to the general clause in Art. 6 para. 1
+lit. f DS-GVO and according to § 4 BDSG.
+115
+
+Determining the location of a smartphone based on the range available
+WiFi base stations
+66
+
+3.7 Video surveillance after the effective date of the DS-GVO
+
+According to this, the processing of personal data (and thus video surveillance) is only permitted if it is necessary for the protection of the legitimate interests of the controller or third parties and if not the fundamental rights and
+Fundamental freedoms of the data subject that require the protection of personal data. The DS-GVO requires a balancing in the concrete individual case both with regard to the interests of the responsible persons or third parties
+also the person concerned. This formulation is essentially the same as the old one
+Legal situation.
+Much more concrete and detailed than the old regulation, however, are the
+Transparency requirements.116 Article 13 of the GDPR contains a long list of mandatory information to be provided. These range from the
+Contact details of the person responsible and, if applicable, the or the data protection officer about the interests, the purposes and the legal basis of the data processing up to the storage period and data subject rights. Because all of these
+Information is impossible to find space on a conventional warning sign
+here a graduated solution possible. While the most important information is on
+The shield itself may belong to the farmandatory information at the place of
+Video surveillance in a location accessible to the data subject (eg
+at the reception, at the cash desk or at the reception).
+Together with the other supervisory authorities of the federal states and the federal government, we have produced corresponding examples which have to be provided by the operators
+Operators of video cameras can be used.117
+In terms of content, citizens showed us especially video surveillance in
+gastronomic facilities and in the private living environment. In these cases
+However, it remains essentially in the old legal situation. In both areas is
+a video surveillance usually inadmissible. In particular, video surveillance may in principle not extend beyond the boundaries of the property to neighboring properties or to public roads.118
+
+116
+117
+118
+
+Art. 12 et seq. DS-GVO
+See https://www.datenschutz-berlin.de/infothek-und-service/themen-a-bis-z/
+video surveillance-to-the-ds-GMO
+For exceptions and details see https://www.datenschutz-berlin.de/infothek-und-service/themen-a-bis-z/videoueberwachung-nach-der-ds-gvo
+67
+
+Chapter 3
+
+Interior
+
+The video surveillance of the dining room is a gastronomic institution
+according to Art. 6 para. 1 lit. f DS-GMO i. V. m. § 4 BDSG as a rule under data protection law
+inadmissible. Again, little changes compared to the old legal situation. Gastronomy areas are customer areas that invite you to linger, relax and communicate longer and thus not monitored with video cameras
+be allowed to. The behavior attributed to the leisure sector as a guest of one
+gastronomic equipment goes with a particularly high protection of the
+Personal rights of those affected. A video surveillance disturbs the undisturbed communication and the unobserved stay of the restaurant visitors and thus engages particularly intensely in the personality right of the guests. The worthy interest of the guests predominates
+usually the legitimate interest of the traders in a surveillance, which is why their interest can prevail only in rare exceptional cases.
+At the moment we are working together with our colleagues from the
+intensified a common guideline for other European data protection authorities,
+inform the person concerned about their rights and facilitate the compliance of operators with the legal requirements.
+The requirements of the operation of a video surveillance device
+have increased, especially in the area of ​​transparency obligations. Operators of CCTV cameras are
+Therefore, they are asked to check whether their planned or existing monitoring equipment meets the increased requirements.
+
+From practice
+
+3.8
+
+Video cameras at the Alexwache
+
+The end of 2017 was devoted to the fight against crime and with the aim of
+Alexanderplatz visible and approachable, the so-called Alexwache furnished. Shortly after the opening, a citizen informed us that he had noticed
+that at the corners of the Alexwache 360-degree cameras are installed. At a
+Look at the guard is also to see that the employees working there
+Employees pan the cameras at will and view the pictures live on large
+Monitors could watch.
+68
+
+3.8 video cameras at the Alexwache
+
+In the test that we subsequently initiated, the police explained that the cameras covered only the building walls and a limited area next to each side of the building. The video surveillance was carried out to police task fulfillment, because the Alexwache was an endangered object, at
+threatened with offenses directed against the police as such. The police
+referred in this respect to various crimes against police departments and attacks
+police vehicles and police officers in the recent past. On New Year's Eve, it had come to crackdown on the service building, moreover, had already urinated several times to the building and graffiti had been sprayed.
+We informed the police that the Alexwache was not an endangered object in the sense
+of the police law is. Religious sites, monuments, cemeteries and buildings, and other structures of public interest are in particular part of this term.119 The connecting feature of these examples is that the
+Objects themselves are directly of public interest, either theirs
+As such is of public interest or is founded on it,
+that the object is used by the public.
+At a police station is such a public interest in the building
+not visible. In that regard, one can not rely on the performed there state tasks such as security and law enforcement, as this
+a task description of the police that does not meet the criteria of immediacyand the particular interest in protecting the object. Otherwise, every building where state tasks are done would be an object
+within the meaning of the police law, which overstep the scope of protection of the provision
+would.
+However, the police are aware of their home rights because of the reported incidents at the Alexwache regarding video surveillance
+appointed. This is under strict conditions of every public office in Berlin
+possible.120 In addition to concrete labeling and extinguishing obligations, in particular in the context of the proportionality test,
+119
+120
+
+§ 24a General Security and Ordinance Act (ASOG)
+§ 20 BlnDSG
+69
+
+Chapter 3
+
+Interior
+
+that the detection range of the cameras is limited to about one meter to the building facade.121
+The police have meanwhile taken over our legal position and implemented the necessary measures. U. a. The shooting range of the cameras has been scaled down and notice boards affixed in an understandable way
+clarify the detection range of the cameras.
+It is important that the police, before carrying out video-surveillance measures, clarify their purpose and strictly separate possible authority rules. The standards have different requirements and correspondingly different degrees of difficulty
+Impact on those affected.
+
+121
+
+See judgment of AG Berlin-Mitte of 18 December 2003, Az. 16 C 427/02
+70
+
+4.1 fahrCard - With photograph and full name?
+
+4
+
+Transport and tourism
+
+4.1
+
+fahrCard - With photograph and full name?
+
+against the electronic ticket, the fahrCard. He complained on the one hand, that he in the course of conversion, a photograph
+had to submit for mounting on the fahrCard, which was not necessary with the previous carrier card. On the other hand, he complained that inspectors at ticket inspections could not only see his full name, but also his date of birth.
+The attachment of the photograph is permitted, as it is a personal, not
+transferable season ticket. The BVG informed us that, on the one hand, from the VBB tariff regulations, personal electronic
+On the other hand, the photograph is for an efficient control of the right to use the ticket
+required. The photograph is thus for the performance of a contract between
+required by the respective card holder and the BVG.123
+However, according to our recommendation, the BVG adapted the storage of personal data on the fahrCard in such a way that in future only the
+Year of birth124 and the initial letters of the first and last name125 are recorded so that the complete details for the control staff are not
+are more visible.126
+The BVG offered the petitioner to exchange his fahrCard free of charge.
+
+122
+123
+124
+125
+126
+
+Annex B to the VBB Tariff, point 5.2.5, subparagraph 6
+Art. 6 para. 1 sentence 1 lit. b DS-GMO
+As well as day and month always as "01.01."
+Substituting the remaining letters with "*"
+This complies with the recommended reduction rule in the VDV Core Application Standard,
+on which also the fahrCard is based.
+71
+
+From practice
+
+A petitioner turned to us, as his previous company ticket with carrier card
+
+Chapter 4
+
+Transport and tourism
+
+On electronic tickets, only such information may be stored
+which are required to check the validity and the right of use. The date of birth and the full name are in this
+usually not required.
+
+From practice
+
+4.2
+
+Driving school: data transfer to one
+interest group
+
+A driving school had contacted us as it was already a few days after receipt
+receive an advertising letter from an interest group
+that congratulated the opening of the driving school and membership
+campaigned. She expressed the presumption that the State Office of Civil and Regulatory Affairs (LABO) as the competent supervisory authority, the information to
+could have passed on the interest group.
+The LABO confirmed this assumption and said that the granting of an operating license for driving schools is not only due to legal obligations
+z. B. the trade office and the Federal Motor Transport Authority will be notified, but
+at whose request also said association. The notification to the association was issued on the basis of the Berlin Freedom of Information Act (IFG).
+The notification of the issuing of the operating license to the association was
+allowed. According to the IFG, anyone can provide information about the content of the
+127 if none of the exclusion reasons apply there
+In the present case, no personal data has been affected since it is
+at the driving school is a legal person.129 But the samethe middle
+
+127
+128
+129
+
+Section 3 (1) IFG
+Section 4 (1) IFG
+According to Art. 4 No. 1 DS-GVO, personal data are only such information that
+refer to an identified or identifiable natural person.
+72
+
+4.3 Obligation to order data protection officers at taxi companies
+
+ment that a natural person has an operating permit for a driving school
+was granted would have been permissible. Legitimate interests generally do not preclude the disclosure of personal data under the IFG, to the extent that it appears from a file that the data subjects are involved in an administrative or other procedure and by this information
+with the exception of certain core data130 not other personal
+Data will be revealed.131 The fact that a natural person succeeds
+involved in an administrative procedure for obtaining an operating license
+was, as a rule, may therefore be disclosed on application to the IFG together with the core data such as name and address.
+Further exclusion reasons were not considered, so the passing on of the
+Information was lawful.
+The transfer of personal data always requires a legal basis. For this purpose, not only legal transmission obligations are considered, but also provisions according to the IFG.
+
+4.3
+
+Obligation to order data protection
+contracted taxi companies
+
+to appoint an operational data protection officer.
+Responsible persons are obliged to appoint a data protection officer or a data protection officer, as long as they usually have at least ten persons constantly with the automated processing of personal data
+It is irrelevant whether the processing of personal data
+
+130
+
+131
+132
+
+Name, title, academic degree, date of birth, occupation, branch or business name, internal function description, address and telephone number, § 6
+Para. 2 sentence 1 no. 1 IFG
+§ 6 para. 2 sentence 1 no. 1 lit. a IFG
+Section 38 (1) BDSG in addition to Article 37 (1) lit. b and c DS-GMO
+73
+
+From practice
+
+We received several requests from taxi companies to see if they were committed
+
+Chapter 4
+
+Transport and tourism
+
+The core activity is data, but regular automated processing suffices.
+One of the taxi companies employed six people in the office
+Employees who processed passengers' personal information, as well as 30
+Taxi drivers and taxi drivers taking taxi rides. For the question of
+Existence of an order was therefore to check whether the taxi drivers
+and taxi drivers constantly with the automated processing of personal
+Data were entrusted.
+If the mediation of driving orders electronically, z. Eg by terminal,
+via radio with appropriate function or via app on the smartphone, is
+the acknowledgment and acceptance of orders as automated processing
+personal data. At best, something else can be said
+such orders, which are not electronic, but about conventional
+Radio or in paper form. As taxi drivers
+but in any case these days usually accept orders electronically as well
+to assume a regular automated processing.
+Taxi companies are therefore required to appoint one or more privacy officers if they employ a total of at least ten employees either processing personal data in the office or taking taxi rides after receiving an order electronically.
+A data protection officer or a data protection officer is always then
+to order if at least ten people are constantly using the automated
+Processing of personal data. It does not have to be
+To act as a core activity of these persons, rather already sufficient
+regular processing.
+
+74
+
+4.4 Intelligent video surveillance in the Berlin-Südkreuz station
+
+4.4
+
+Intelligent video surveillance in the station
+Berlin-Südkreuz
+
+As part of the joint pilot project "Berlin Südkreuz safety station" by the Federal Ministry of the Interior, the Federal Police, the Federal Criminal Police Office and the Deutsche Bahn AG (DB AG) are since August 2017 systems
+the so-called "intelligent" video surveillance tested. The project is divided into
+two subprojects:
+In the first pilot project, the Federal Police tested the use of biometric facial recognition systems.133 Prior to this, a database containing photographs of more than 200 volunteers participating in the project was created. The
+Systems should first pick up the faces of passing passengers in specially marked interior areas of the station, with those previously mentioned
+Synchronize database stored image data volunteers and ultimately filter out their faces at each detection and count. This first test
+was in the Jucompleted in 2018. The in the final report of the Federal Police
+By a combination of the three tested systems reached high hit rate stood thereby a very high false recognition rate, thus a large number
+triggered false alarms, opposite. Every single one of these systems stood alone
+even a much higher error rate.134 In their final report
+As a result, the Federal Police will go from three to three for all three systems
+four false hits per camera per hour off; at certain times of the day, the number of errors can be much higher.135 This means that
+During the project about 80,000 to 100,000 times people wrongfully recorded
+In spite of this, the Federal Police reported that the facial recognition
+
+133
+134
+135
+
+136
+
+JB 2017, 3.6
+See analysis of the Chaos Computer Club on 13.10.2018
+P. 15 of the report Annex 3 - Analysis of the test data for subproject 1 "Biometric
+Face recognition ", available at https://www.bundespolizei.de/Web/DE/04Aktuelles/01Meldungen/2018/10/181011_abschlussbericht_gesichtserkennung_down.
+pdf? __ blob = publication file
+This number is as follows: 365 days duration of the test x 24 hours per day x
+three cameras x three to four false alarms.
+75
+
+Chapter 4
+
+Transport and tourism
+
+State-of-the-art systems could be a good support tool for the police search.
+We definitely see it differently. Unspoiled passers - by in
+According to the available results, Südkreuz railway station regularly runs the risk of becoming the subject of biometric data processing without it
+would have given an occasion for it. In a real operation would therefore be a high risk that a large number of citizens wrongly
+subject to police investigation. Very questionable would be whether
+The high error rate would not inevitably lead to a correct
+Hits would not be recognized as such, because constantly too many false reports would have to be sorted out by hand. We warned of the problem last year.137 However, for the final legal assessment of the data processing of this first subproject by the Federal Police, the or
+from 2019 the Federal Commissioner for Data Protection and Freedom of Information
+responsible.
+In a second test scenario, the second quarter of 2019 is expected to be
+Testing of so-called "intelligent" video analysis systems for the treatment and evaluation of various hazard scenarios. It should be helpless
+Persons, large crowds and suspicious objects are automatically detected and reported by the data processing systems.
+For this purpose, it is planned to simulate concrete test scenarios in the station area with the help of five to ten volunteers. As the parking of a piece of luggage and the tracking of the person who has parked this bag.
+Deutsche Bahn is very useful for carrying out the second test scenario
+and responsible for data protection and thus we as responsible data protection supervisory authority for Deutsche Bahn. As such, we urgently
+advised to refrain from biometric data processing. Because due
+the fact that a biometric characteristic usually does not change throughout life, such data processing involves considerable
+Security risks. A survey of biometric data is not just for the
+Face recognition before, but also with other data to physical, phy137
+
+JB 2017, 3.6
+76
+
+4.5 Connected and Automated Driving
+
+siologischen or behavior typical characteristics, such. B. the individual
+A person's gait.138 In the event of loss of data, those affected can live
+long victim of identity theft and subsequent crime. The assessment
+biometric data is therefore always associated with a very deep invasion of privacy and a considerable risk. Consequently, that is
+Processing of biometric data by non-public authorities after the
+General Data Protection Regulation prohibited in principle and only permissible in exceptional cases.139
+Deutsche Bahn has declared its willingness to forego the collection of biometric data during the test. We closely oversee the project to ensure
+that this requirement and other data protection regulations are complied with
+become.
+The processing of biometric data entails considerable risks.
+Therefore, this should be extremely economical and only then by security agencies
+be used if it is not prone to error and, after weighing up all aspects, provide measurable added value for the security of citizens
+Citizens clearly outweighs the restrictions on the right to informational self-determination. Non-public authorities are generally concerned with the processing of biometric data for the purpose of unambiguous identification of persons
+banand only allowed in very exceptional cases.
+
+4.5
+
+Connected and automated driving -
+What are the privacy risks?
+the new techniques?
+
+Electromobility in particular is networked and autonomous driving
+important future fields. But the improvements for traffic safety and
+the increased comfort for the users of the vehicles can be protected by data protection law138
+139
+
+Art. 4 No. 14 DS-GVO
+Art. 9 DS-GVO
+77
+
+From practice
+
+Technical progress is also very evident in the automotive sector. Ne
+
+Chapter 4
+
+Transport and tourism
+
+risks, as the technical tools also
+capture the driver or vehicle occupants. Negative effects would be
+z. B. the creation of movement, behavior or use profiles.
+In the automotive sector, potential data protection risks have increased significantly in recent years, in parallel with technical progress.
+This already begins with car rental companies, who nowadays mostly monitor their vehicles permanently for theft avoidance via GPS. This also applies to assistance systems which also retrieve numerous personal data from the vehicle to ensure the corresponding driving safety functions
+and evaluate. Another example is modern vehicles already today
+are able to exchange data in real time with each other and even drive fully automatically in the future.
+Many of these modern techniques serve to increase traffic safety,
+faster information for rescue workers and improved comfort
+for the users and are thus basically welcome. However, it is important that the data processing processes are transparent for those affected, so that the vehicle owners and the drivers
+and drivers can actively decide which surveys and processing of personal data they agree with. Likewise, consent given in the past - eg. B. to survey the vehicle location - too
+can be specifically withdrawn again. Technical solutions that only allow for the full consent in all data processing
+or completely opting out of smart mobility services
+unacceptable. These requirements are also enshrined in law by the DS-GVO, which has been in force since May 25, 2018, because according to the principles formulated in it, "Privacy by Design" and "Privacy by Default", technical systems and technologies are
+the default settings of the devices as privacy-friendly as the state
+In addition, suitable technical and organizational measures have to be taken to ensure that it is appropriate to the respective risk
+Ensure the level of security for the security of data processing.141
+
+140
+141
+
+Art. 25 DS-GVO
+Art. 32 DS-BER
+78
+
+4.5 Connected and Automated Driving
+
+This is even more important as large amounts of data are processed for the automated and networked driving functions. So can in a modern
+networked vehicle z. For example, not only the speed at which the vehicle is moving and how many people are in the vehicle are recorded.
+Also, many other information can be detected, eg. B. whether the driver
+already fatigue symptoms shows how his acceleration behavior
+represents or which seat and comfort settings the vehicle occupants each have chosen. Or also which routes were last driven
+how big the distance to other vehicles is, in what condition the tires
+or whether the vehicle is traveling on dry or slippery roads. This
+These are just a few examples of a large number of generated data, which is permanently generated by control units or sensors in the interior and exterior of the vehicles
+be captured, stored and processed. Part of this data is going right after
+Survey and evaluation discarded again, but much data is quite
+also stored in the longer term (eg last traveled routes, personal settings of the various users of a vehicle, use of navigation and media services, diagnostic data of the vehicle, etc.).
+Of particular importance in this context is location and position data. These are not only processed by various navigation and comfort services in the vehicle, but u. a. also through the emergency call system "eCall", which has been mandatory in Europe since October 2015 for all new models
+of passenger cars and light commercial vehicles. In an accident will
+the vehicle is automatically located and the local emergency response center can
+Communicate to the driver via a mobile radio unit. The radio unit is here
+each equipped with its own SIM card, which is permanently installed in the car. Of the
+eCall emergency call in its basic function is subject to strict regulations for data protection, possible additional services by third parties(eg vehicle manufacturers), however, are not covered by this. Thus, there is the risk of unauthorized retrieval of data about the vehicle or the driving behavior of the
+Users in particular by private data processors, their services in modern day
+Vehicle systems are embedded.
+Networked and automated vehicles also use a large number of other sensors to permanently monitor their own position compared to other vehicles.
+
+79
+
+Chapter 4
+
+Transport and tourism
+
+to ensure both the prevention and prevention of accidents and to ensure optimal route planning.
+Building on this, the automotive industry is already planning cooperative systems
+for cars and trucks, enabling vehicles and even transport infrastructure to communicate with each other on their own. This allows z. Eg early congestion warnings and the calculation
+suitable alternative routes through the respective navigation system. On-board systems
+warn of possible dangers on the track or seek the on request
+next free parking. Lorries could automatically drive in a network in columns to save fuel and environmentally friendly to reach their destination.
+First test inserts of this so-called Car-to-X communication already exist and should be
+will certainly be gradually expanded in the next few years. This is possible u. a. also by building the next generation of clearly
+more powerful mobile networks, the so-called 5G networks142. The significantly faster data rates in the mobile Internet allow the networking of vehicles
+and transport infrastructure, but at the same time also produce higher risks
+through the transfer of personally identifiable information to the mobile device
+(eg number of the SIM card used, IMEI number of the mobile device)
+or by information about the vehicle (eg ID of the networked vehicle, registration number, vehicle identification number). From the obtained data u. a.
+Create movement and usage profiles. The frequency of use of a vehicle and the number of different drivers could be derived from it
+determine if necessary.
+Building on the scenarios already described have become synonymous
+developed further uses in other lines of business that need to be closely considered. For example, the insurance industry offers For example, for some years now an increasing number of optional telematics tariffs143 have been introduced
+Recording and analysis of all routes and numerous details (eg frequency of journeys, average journey length and duration, time of journeys,
+selected goals, driving style etc.) extensive conclusions on the respective Fahr142
+143
+
+5G stands for "5. Generation "of mobile networks.
+These are often referred to in English as "pay as you drive" rates.
+80
+
+4.5 Connected and Automated Driving
+
+allow the behavior of customers. Policyholders who voluntarily agree to the necessary data recording, in return
+a discount on their individual insurance contribution in view. Of the
+European Association of Insurers has also expressed an interest in
+that its member companies may also have access to the eCall data in the future
+receive their customers in order to be able to adjust insurance rates even more precisely.
+Basically, new techniques to increase traffic safety and
+certainly welcome the speeding up of the provision of accident victims and improving the flow of traffic. Nevertheless, with all the advantages, too
+the risks of the new technologies are not ignored. Nearly
+every technology also carries corresponding dangers of data misuse. So bows
+Although the permanent location of a vehicle may be theft,
+but also allows the creation of motion profiles. When charging
+of electric cars is for billing purposes regularly also at least
+a personal ID of the customer by the respective one
+Provider to be able to allocate the charging process during billing.
+Telematics services, in turn, usually need a lot of data from vehicles
+collect for the technology to work effectively. This is often accompanied automatically by a technical monitoring of the drivers. Regarding
+The networked and automated vehicles of the future will be the automotive industry and its related industries (eg suppliers and suppliers)
+Insurance companies) as well as policy makers and administrators are called upon to bring technical progress and data protection in a reasonable way.
+To improve road safety and enhance customer comfort, many of the new technologies in the automotive sector are welcome. However, here should always be between the expected
+Benefits to be weighed by technology and potential risks to privacy. NIn particular, data security and data protection are also the providers' transparency towards their customers
+Important to them, so they are always fully informed about which
+Data may be collected and for what period of time they are stored and
+which places have access to the data. The described technologies
+
+81
+
+Chapter 4
+
+Transport and tourism
+
+will be used in future in Berlin and possibly by Berlin
+Provider will be further developed. We will therefore continue the development
+watch carefully.
+
+82
+
+5.1 Adaptation of the Berlin Education Act to the DS-GVO - Good at the end, all right?
+
+5
+
+Youth and education
+
+5.1
+
+Adaptation of the Berlin Education Act to the
+DS-GVO - end good, all right?
+
+the Berlin Education Act to the DS-GVO. This process went
+not smoothly from the beginning.
+Although the DS-GVO has direct effect in all member states of the European Union, it contains in many places the so-called opening clauses
+also freedom of action for national legislators. At the same time they are
+Member States demanded that all national regulations providing for a regulation
+The processing of personal data have to be examined for their compatibility with European law. An appropriate one
+Examination was thus also the Berlin School Act, which provides the relevant data processing powers for schools, school authorities, school inspectorate
+etc. to undergo.
+The draft bill, which was presented to us in March 2018, still did not adequately implement the data protection requirements. In particular contained
+the draft does not comply with the regulations of the DS-GVO
+Processing of special categories of personal data. Which includes
+z. B. Health data of the students or information about their religious or ideological convictions. Furthermore, z. B. Processing powers for parents' representatives, who are also in the school routine with the
+Processing of personal data.
+Unfortunately, the Senate Department did not continue to involve us in the revision process in the following years. In the summer of 2018, we learned from a press release that a new draft had already been submitted to the Senate
+was. In it, the Senate Administration had our criticisms in essential points
+
+83
+
+From practice
+
+We have the Senate Department for Education, Youth and Family at the Adaptation
+
+Chapter 5
+
+Youth and education
+
+not picked up. We have once again made clear our criticisms of the Senate Administration. We could finally reach
+that some regulations were adapted in accordance with data protection. The school law
+now contains z. B. clear rules on the processing of specific categories of personal data.
+So all's well, all right? - Not quite.
+For even the law that has now been passed continues to contain one
+very problematic scheme. Thus, the school law founded henceforth u. a. a
+Authority for the school inspectorate to retain the data of pupils under certain conditions after leaving school
+process them to B. in vocational training.144 That's it
+Therefore, not sustainable, because it concerns the affected persons regularly
+are those who are not going to school anymore and therefore not
+more subject to the regulations of the school law. Of course, the school should
+about the preparation of pupils for working life
+To take care of. This would have to happen during school time, not afterwards. It
+is not one of the statutory duties of the school inspectorate, such
+Organize measures for former students, no matter if
+have this need or not, because they are z. B. no longer living in Berlin or
+have long since been professionally oriented. Such a measure can therefore
+only as an additional service for voluntary acceptance.
+A storage of personal data alumni can accordingly
+only on a voluntary basis, namely when the persons concerned
+Want to accept offer as useful for itself. The legislator should therefore reconsider its decision once again and at the next amendment of the
+Improve school law at this point.
+With the adaptation of the school law to the DS-GVO a major challenge has been mastered - although not in every respect satisfactory.
+Now it is also the school data regulation, which is currently also revised
+is to bring it up to date and give it speed.
+
+144
+
+Section 64 (7) in the version of the school act entered into force on 1 January 2019
+84
+
+5.2 Implementation of the DS-GVO in child and youth welfare
+
+5.2
+
+Implementation of the DS-GVO in the child and
+youth Services
+
+legally organized free Tchild and youth welfare organizations to apply the provisions of the DS-GVO. In practice, there is a high need for information with regard to the changed legal situation.
+We have numerous requests for participation in information events
+reached. Not all requests for lectures could be fulfilled due to our limited capacities. We focused as much as possible
+to reach many multipliers. With the social pedagogical advanced training institute Berlin Brandenburg (SFBB), which for the further education
+In June 2018, we have a specialist event on the DS-GVO, which is responsible for the educational specialists in the child and youth welfare services of both states
+attended by over 100 pedagogical professionals.145
+The aim was to give the participants an initial overview of the effects
+the new European data protection law on the practice of child and youth welfare and to illuminate the relationship with the provisions of social data protection law. Due to the high response to the event will be
+There will be an in-depth symposium in the spring of 2019, at which we will be active again
+involved.
+In the child and youth welfare are also after the coming into force of the DS-GVO
+- as before - the sector-specific provisions of the social code146
+apply. While the federal legislature the regulations of the SGB I and
+SGB ​​X has adjusted before the DS-GVO became effective, is one such
+Adaptation for the child and youth welfare authority
+SGB ​​VIII still out. For professionals, the challenge is the practice
+in applying the different regulations side by side.
+145
+146
+
+The conference documentation can be downloaded from the SFBB website,
+https://sfbb.berlin-brandenburg.de/sixcms/detail.php/873533/
+Social Code - First Book - General Part (SGB I), Social Code - Eighth
+Book - Child and Youth Services (SGB VIII) and Social Code - Tenth Book -
+Social administrative procedures and social data protection (SGB X)
+85
+
+From practice
+
+Since 25 May 2018, youth welfare offices and the numerous private
+
+Chapter 5
+
+Youth and education
+
+With the DS-GVO arise in dealing with social data in the granting of
+Benefits of child and youth welfare (eg assistance for education, but also
+in dealing with child endangerment) no serious changes, since
+the preconditions for the admissibility of data processing in the context of
+Opening clauses for the national law continue to result from the social data protection regulations.
+Innovations arise but z. B. in the also in the child and youth welfare
+information obligations to be respected or the extended data subjects' rights
+according to the DS-GVO.147 we were here on perfectly traceable practical
+Problems made aware: Especially with telephone consultations (eg in
+Crisis situations) or in the counseling of adolescents in precarious situations for which the inhibition threshold to accept counseling is high anyway
+there is a risk that written information declarations may miss their target and be more of a deterrent. Here it is important to find workable solutions. These must be first and foremost in the interests of the persons concerned
+his. Since transparency and the establishment of a relationship of trust in helping contexts are in any case of particular importance, we consider it entirely appropriate to fulfill the obligations to provide information also in the framework of explanatory
+To comply with discussions with appropriate documentation.
+The implications for the practice of the DS-GVO are currently in
+Particular attention to areas where sensitive data is processed. For us it is a concern, the child and youth welfare here
+to support.
+
+147
+
+Art. 13 ff. DS-GVO
+86
+
+5.3 Uniform Special Procedures in the Berlin Youth Welfare - Status Report
+
+5.3
+
+Uniform technical procedure in the Berlin
+Youth welfare - progress report
+
+Again this year new modules of the cross-administrative are
+Specialized procedure ISBJ-Jugendhilfe (SoPart), which is used as a central specialized procedure in all twelve Berlin youth welfare offices148, has been taken over by the Senate Department for Education, Youth and Family.
+For many years, we have supported the cross-administrative project Integrated Software Berlin Youth Relief (ISBJ). The currently introduced central IT solution for all district youth welfare offices had to be adapted to the changes introduced by the DS-GVO this year. For example, a privacy policy was to
+to meet the information requirements149 for the data subjects. We have the lead role in introducing the specialized procedure
+Senate Department for Education, Youth and Family in the preparation of a declaration made available to the districts in time for May 25, 2018
+data schulegally advised. This will certainly be evaluated after some time due to the first practical experience with the DS-GVO
+have to. In addition to the privacy policy were some technical processes to
+Guarantee of data subject rights ("information at the push of a button") to be implemented in the specialized procedure and directories for the processing activity150
+to create. For the new modules, the new instrument of the
+Data Protection Impact Assessment151 applied.
+This year, the new module Jugendberufshilfe for the professionals of the district youth welfare offices active in the youth employment agencies was put into operation. The access possibilities of the Jugendberufshilfe within
+of the specialized procedure on the juvenile welfare data in the other organizational units of the youth welfare office we have with the youth department of the senate administration
+
+148
+149
+150
+151
+
+JB 2016, 5.4; JB 2017, 2.3
+Art. 13 ff. DS-GVO
+Art. 30 DS-GVO
+Art. 35 DS-GVO
+87
+
+Chapter 5
+
+Youth and education
+
+tuned for education, youth and family. The specialized procedure ensures that access can only be made to the required data.
+Finally, we have a clarifying provision in the Youth Affairs Department of the Senate Department for Education, Youth and Family
+from
+Guidelines on the Child and Youth Welfare Act (AG KJHG) with the
+data protection legislation, which the Senate Administration has forwarded to the Senate Department for Home Affairs and Sport, which is responsible for the adaptation of state law to the DS-GVO.152
+Also in this year the votes were made with the youth administration
+uncomplicated and constructive. The requirements of the DS-BER were - in contrast to most other areas of administration - timely to
+May 25, 2018 implemented. It is important to us, the implementation of the DSGVO standardized specifications for data protection through technology design
+to assist in the ISBJ specialist procedure in the future as a positive advisor
+Example for the implementation of data protection requirements.
+
+From practice
+
+5.4
+
+Privacy in Kitas - How good will the
+Data protected by our youngest?
+
+The fact that child day care centers handle the data of the children entrusted to them in accordance with data protection is of particular concern to the parents. But also in
+In many cases, the day care centers themselves are insecure, as with the
+To handle the data of children and their families.
+Especially in connection with the coming into effect of the DS-GVO, the uncertainty in the facilities for the privacy-sensitive handling of personal data has increased again. The handling of photos, the drafting of declarations of consent, as well as the use of new technologies
+such as For example, apps that electronically record delivery and pickup times for children
+or the parents information from everyday life be made available
+152
+
+For the adaptation of the national law see JB 2018, 1.8
+88
+
+5.4 Privacy in Kitas - How well are the data of our youngest protected?
+
+repeatedly leads to privacy issues with parents,
+but also at the facilities. Both counseling requests and complaints in this area often relate precisely to these topics.
+In the context of complaints, it is our concern to achieve privacy-friendly procedures for the future. However, it is within our capacity z. B. often not possible, consent statements abstract
+to verify that they comply with data protection legislation. The most common questions we get about dealing with photo and
+Video footage of children in daycare. The guideline "Privacy
+in image, video and sound recordings - What is in the daycare to
+Consider? "153, which we published at the beginning of the year together with the Senate Department for Education, Youth and Family154, has in practice
+found great response, even beyond the state of Berlin. Our concern was
+to give pedagogical specialists a practical overview of the complex legal situation with the action guide. We have in
+Interest of intelligibility deliberately largely waived, concrete
+Citing rules and laws. Since the strict requirements on the effectiveness of declarations of consent also before the coming into effect of the DS-GVO in the
+content of the text of the guideline also meets the requirements of the DS-GVO. However, as we are increasingly asked to explain to what extent the booklet the legal situation
+even after the DS-GVO became effective, we decided to
+to create a supplementary information sheet. In this the relevant articles of the DS-GMO are specifically named. With the next edition we will
+then incorporate the relevant rules into the text.
+DThe feedback on the action guideline shows that it offers the institutions assistance in providing more legal security in dealing with data protection issues in day-to-day care. We plan to expand the range of information for day care centers in the future.
+
+153
+
+154
+
+The action guide is available at https://www.datenschutz-berlin.de/file
+admin / user_upload / pdf / publications / information materials / 2018 BlnBDI_Flyer_
+Datenschutz_Inhalt_Web.pdf.
+JB 2014, 4.1; JB 2015, 6.4; JB 2017, 6.5
+89
+
+Chapter 5
+
+From practice
+
+5.5
+
+Youth and education
+
+Data protection and media literacy -
+Children's website www.data-kids.de online
+
+The Berlin Commissioner for Data Protection and Freedom of Information has committed himself to
+Aimed to raise awareness among children as early as possible for their protection
+To wake up data. Since 2016, we have been working on age-appropriate materials to educate children, already at primary school age, on how to exercise their right to informational self-determination and
+how they should behave in particular on the net.155
+In terms of developmental psychology, children from the age of seven are capable of doing so
+estimate longer-term consequences. It can be assumed that
+Children from the 3rd grade can develop an awareness of privacy issues. The sooner we accompany them, the more media-adept and thus responsible and responsible they can participate in social life, making use of their right to informational self-determination
+and competencies for the digital world.
+We started in the spring of 2018 with our children's website www.data-kids.de
+Offer where children can get to know the most important terms about privacy. A robotic family accompanies them through the world of data protection and explains what happens with the right to informational self-determination
+has. In first materials for teachers we explain what cookies and that
+Are right to their own image and how the children can protect their own data.
+In order for the children to identify with the robots, we called for a contest in which elementary school children made names for the robotic children
+should consider. The then class 3b won the elementary school on
+Tegel's place.156
+After we have created the basic structures and main contents of the website
+and the characters had developed, we put ours in the second half of the year
+155
+156
+
+JB 2017, 6.6
+See also 14.5
+90
+
+5.6 Elterngeld Digital - An innovative project?
+
+Website, also using feedback from primary schools.
+In the coming year, we will continue to optimize the children's offer to the
+To reach the target group even better. Specifically, we will examine the existing materials in child-friendly language and, where necessary, adapt. We will make the elements of the website interactive and playful, but in any case graphically even more appealing.
+Our goal is to expand the website into a comprehensive offer,
+with the teachers, parents and children their data protection competence effectively
+can strengthen.
+
+5.6
+
+Elterngeld Digital - An innovative project?
+
+Involved by the Federal Ministry for Family, Senior Citizens, Women and Youth initiated project "Elterngeld Digital". Applicants should be allowed to
+Submit applications for payment of parental allowance digitally via an internet portal provided by the Federal Ministry.
+The aim of the project "Elterngeld Digital" is the digital processing of the grant
+of parental allowance to the benefit recipients. As the federal parents money though
+is a service of the Federation, the settlement, however, by the parental benefit
+countries, they are responsible for deciding on the applications.
+The Senate Department for Education, Youth and Family has agreed to
+to participate in the federal pilot project. With regard to the question of the lawfulness of the processing of social data by the state of Berlin, we too are
+involved in the project.
+While everything was well prepared on the Berlin side, the project was run by the
+Federal rather sluggish. With a one-year delay, the project became
+In the autumn of 2018 we started with the so-called application assistant. Parents can
+However, they must complete their applications online with the help of the assistant
+continue to send by mail to their competent parental benefit agency. A complete91
+
+From practice
+
+Already in 2017, the Senate Department for Education, Youth and Family sent us to the
+
+Chapter 5
+
+Youth and education
+
+The current digitization of the application is still failing due to the fact that a
+Legal basis in the Federal Law on Parental Leave and Parental Leave Law (BEEG) is missing.157 Das
+Federal Ministry for Family is data protection law responsible for the
+In the context of the application in the Internet portal accruing social data and requires a legal basis for the processing. Because the survey
